@@ -17,4 +17,4 @@ source_sha256: dfe63e9a5dca843a804e5d7878671e2899f2b088534d9ed9813e9878c20b12bd
 
 # Artículo 26
 
-Para ingresar a la Guardia Nacional, el aspirante se sujetará a las disposiciones establecidas en el Reglamento de Reclutamiento de Personal para el Ejército, Fuerza Aérea y Guardia Nacional y en lo conducente, a lo previsto en la Ley General del Sistema Nacional de Seguridad Pública.
+Para ingresar a la Guardia Nacional, el aspirante se sujetará a las disposiciones establecidas en el [Reglamento](articulo-2.md) de Reclutamiento de Personal para el Ejército, Fuerza Aérea y Guardia Nacional y en lo conducente, a lo previsto en la Ley General del Sistema Nacional de Seguridad Pública.

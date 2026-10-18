@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 334
 
-La Secretaría y la Comisión pueden emitir los lineamientos o reglas generales donde se defina el proceso de inscripción, documentos y requisitos que deben acreditar las personas que realicen las actividades previstas en la Ley para efectos del [artículo anterior](articulo-333.md).
+La [Secretaría](articulo-3.md) y la [Comisión](articulo-3.md) pueden emitir los lineamientos o reglas generales donde se defina el proceso de inscripción, documentos y requisitos que deben acreditar las personas que realicen las actividades previstas en la [Ley](articulo-3.md) para efectos del [artículo anterior](articulo-333.md).

@@ -19,4 +19,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 En toda solicitud la persona promovente deberá señalar domicilio para oír y recibir notificaciones dentro del territorio nacional, así como un correo electrónico. Párrafo reformado DOF 03-04-2026
 
-Cualquier cambio en el domicilio para oír y recibir notificaciones o en el correo electrónico deberá ser comunicado al Instituto. En caso de que no se dé aviso, las notificaciones que se practiquen se tendrán por legalmente realizadas en el domicilio que aparezca en el expediente.
+Cualquier cambio en el domicilio para oír y recibir notificaciones o en el correo electrónico deberá ser comunicado al [Instituto](articulo-4.md). En caso de que no se dé aviso, las notificaciones que se practiquen se tendrán por legalmente realizadas en el domicilio que aparezca en el expediente.

@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 219
 
-Para efectos de lo previsto en el artículo [136](../../lsh/markdown/articulo-136.md) de la Ley, el padrón corresponde al Padrón Nacional de Peritos a cargo del Instituto, el cual se rige por la Normatividad aplicable, por lo que los interesados en formar parte de él, deben sujetarse a lo previsto por la misma.
+Para efectos de lo previsto en el artículo [136](../../lsh/markdown/articulo-136.md) de la [Ley](articulo-3.md), el padrón corresponde al Padrón Nacional de Peritos a cargo del Instituto, el cual se rige por la [Normatividad](articulo-3.md) aplicable, por lo que los interesados en formar parte de él, deben sujetarse a lo previsto por la misma.

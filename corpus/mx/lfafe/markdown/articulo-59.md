@@ -17,6 +17,6 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 59
 
-Las importaciones y exportaciones temporales de armas y municiones de turistas cinegéticos y deportistas de tiro, deberán estar amparadas por el permiso extraordinario correspondiente, en el que se señalen las condiciones que se deban cumplir de acuerdo con el Reglamento de esta Ley.
+Las importaciones y exportaciones temporales de armas y municiones de turistas cinegéticos y deportistas de tiro, deberán estar amparadas por el permiso extraordinario correspondiente, en el que se señalen las condiciones que se deban cumplir de acuerdo con el [Reglamento](articulo-1o-Bis.md) de esta [Ley](articulo-1o-Bis.md).
 
 Artículo reformado DOF 08-02-1985

@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 311
 
-El procedimiento de ocupación temporal debe cumplir con lo establecido en la Ley de Expropiación.
+El procedimiento de ocupación temporal debe cumplir con lo establecido en la [Ley](articulo-3.md) de Expropiación.

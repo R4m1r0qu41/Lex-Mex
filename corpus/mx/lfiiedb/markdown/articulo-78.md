@@ -17,4 +17,4 @@ source_sha256: 7679afbbf32749e0c0bacab72644d41fc6ccdeeab3a2f25dfae8d26a065de01e
 
 # Artículo 78
 
-Con la finalidad de contar con una herramienta de planeación, seguimiento, análisis, mitigación de riesgos y estadística en inversión en Infraestructura estratégica, la Secretaría creará y administrará la base de datos nacional de Infraestructura estratégica la cual incorporará la información de los Proyectos para el desarrollo con bienestar ejecutados, tanto por el sector público como por el sector privado.
+Con la finalidad de contar con una herramienta de planeación, seguimiento, análisis, mitigación de riesgos y estadística en inversión en [Infraestructura estratégica](articulo-4.md), la [Secretaría](articulo-4.md) creará y administrará la base de datos nacional de Infraestructura estratégica la cual incorporará la información de los [Proyectos para el desarrollo con bienestar](articulo-4.md) ejecutados, tanto por el sector público como por el sector privado.

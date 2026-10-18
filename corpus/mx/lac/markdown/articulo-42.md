@@ -17,7 +17,7 @@ source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 
 Las personas concesionarias, asignatarias, o permisionarias fijarán libremente las tarifas por los servicios que presten, en términos que permitan la prestación de los servicios en condiciones satisfactorias de calidad, competitividad, seguridad y permanencia. Párrafo reformado DOF 03-05-2023
 
-Las tarifas internacionales se aprobarán por la Agencia Federal de Aviación Civil de conformidad con lo que, en su caso, se establezcan en los tratados. Párrafo reformado DOF 03-05-2023
+Las tarifas internacionales se aprobarán por la [Agencia Federal de Aviación Civil](articulo-2.md) de conformidad con lo que, en su caso, se establezcan en los tratados. Párrafo reformado DOF 03-05-2023
 
 Las tarifas deben registrarse ante la Agencia Federal de Aviación Civil para su puesta en vigor y estarán permanentemente a disposición de los usuarios. Párrafo reformado DOF 03-05-2023
 

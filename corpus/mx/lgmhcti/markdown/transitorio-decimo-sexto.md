@@ -15,6 +15,6 @@ source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 
 # Décimo Sexto
 
-En un plazo no mayor a ciento ochenta días, el Consejo Nacional y los Centros Públicos llevarán a cabo las gestiones necesarias para terminar anticipadamente los convenios de administración por resultados que hubieren celebrado el Consejo Nacional de Ciencia y Tecnología y los Centros Públicos de Investigación, respectivamente.
+En un plazo no mayor a ciento ochenta días, el [Consejo Nacional](articulo-4.md) y los [Centros Públicos](articulo-4.md) llevarán a cabo las gestiones necesarias para terminar anticipadamente los convenios de administración por resultados que hubieren celebrado el Consejo Nacional de Ciencia y Tecnología y los Centros Públicos de Investigación, respectivamente.
 
-Asimismo, en un plazo igual, los Centros Públicos realizarán las gestiones necesarias para elaborar los Programas Institucionales a que se refiere esta Ley.
+Asimismo, en un plazo igual, los Centros Públicos realizarán las gestiones necesarias para elaborar los Programas Institucionales a que se refiere esta [Ley](articulo-4.md).

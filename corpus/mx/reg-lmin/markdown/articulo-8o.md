@@ -23,10 +23,10 @@ I. Las acciones que se desarrollarán y el tiempo que conllevará su ejecución 
 
 II. Los requisitos para la obtención de créditos otorgados o descontados por el Fideicomiso de Fomento Minero;
 
-III. Las medidas de descentralización y simplificación administrativas que adoptarán dicho Fideicomiso y el Servicio Geológico;
+III. Las medidas de descentralización y simplificación administrativas que adoptarán dicho Fideicomiso y el [Servicio Geológico](articulo-1o.md);
 
 IV. Las obras de infraestructura que deberán concertarse con las autoridades competentes;
 
 V. Los apoyos asistenciales que, en su caso, se concierten con la gran minería, y VI. Otros mecanismos para asegurar su debida instrumentación.
 
-La Secretaría formulará dichos programas en congruencia con el Plan Nacional de Desarrollo y de acuerdo con lo dispuesto por la Ley de Planeación, asimismo evaluará trimestralmente el avance en la ejecución de los mismos.
+La [Secretaría](articulo-1o.md) formulará dichos programas en congruencia con el Plan Nacional de Desarrollo y de acuerdo con lo dispuesto por la [Ley](articulo-1o.md) de Planeación, asimismo evaluará trimestralmente el avance en la ejecución de los mismos.

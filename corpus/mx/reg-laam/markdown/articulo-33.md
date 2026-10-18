@@ -17,6 +17,6 @@ source_sha256: 8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca
 
 # Artículo 33
 
-La información del personal convocado para ascenso estará integrada atendiendo a los conceptos establecidos en la Ley, y tiene por objeto dotar al Mando Supremo de los elementos de juicio que le permitan determinar qué personal será ascendido al grado inmediato. Su formulación será responsabilidad de la Jefatura de Operaciones.
+La información del personal convocado para ascenso estará integrada atendiendo a los conceptos establecidos en la [Ley](articulo-5.md), y tiene por objeto dotar al [Mando Supremo](articulo-5.md) de los elementos de juicio que le permitan determinar qué personal será ascendido al grado inmediato. Su formulación será responsabilidad de la [Jefatura de Operaciones](articulo-5.md).
 
 Artículo reformado DOF 22-09-2010, 02-04-2026

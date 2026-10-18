@@ -17,6 +17,6 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 124
 
-Cuando las aguas residuales afecten o puedan afectar fuentes de abastecimiento de agua, la Secretaría lo comunicará a la Secretaría de Salud y negará el permiso o autorización correspondiente, o revocará, y en su caso, ordenará la suspensión del suministro.
+Cuando las aguas residuales afecten o puedan afectar fuentes de abastecimiento de agua, la [Secretaría](articulo-3o.md) lo comunicará a la Secretaría de Salud y negará el permiso o autorización correspondiente, o revocará, y en su caso, ordenará la suspensión del suministro.
 
 Artículo reformado DOF 13-12-1996

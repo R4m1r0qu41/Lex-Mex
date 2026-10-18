@@ -17,4 +17,4 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 # Artículo 87
 
-Toda persona que haya sido Víctima de alguno de los delitos previstos en esta Ley puede solicitar y tiene derecho a recibir las medidas de ayuda, asistencia y atención integral previstas en la Ley General de Víctimas, y conforme a lo previsto en este Título.
+Toda persona que haya sido [Víctima](articulo-5.md) de alguno de los delitos previstos en esta [Ley](articulo-5.md) puede solicitar y tiene derecho a recibir las medidas de ayuda, asistencia y atención integral previstas en la Ley General de Víctimas, y conforme a lo previsto en este Título.

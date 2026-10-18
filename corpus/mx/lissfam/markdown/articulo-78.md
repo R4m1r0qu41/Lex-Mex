@@ -17,4 +17,4 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 78
 
-El Instituto al tener conocimiento del fallecimiento del militar, deberá notificar de inmediato y fehacientemente al o a los beneficiarios designados o, en su caso, a los familiares de la designación hecha a su favor.
+El [Instituto](articulo-4o.md) al tener conocimiento del fallecimiento del militar, deberá notificar de inmediato y fehacientemente al o a los beneficiarios designados o, en su caso, a los familiares de la designación hecha a su favor.

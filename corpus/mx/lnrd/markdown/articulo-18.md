@@ -15,7 +15,7 @@ source_sha256: 0a9852297132d8972d0c2f77e1b67d614bd296632109065e703bd09254187aea
 
 # Artículo 18
 
-El Registro inmediato sobre la detención que realiza la autoridad deberá contener, al menos, los siguientes elementos:
+El [Registro](articulo-2.md) inmediato sobre la detención que realiza la autoridad deberá contener, al menos, los siguientes elementos:
 
 I. Nombre;
 
@@ -33,6 +33,6 @@ VII. El nombre de algún familiar o persona de confianza, en caso de que la pers
 
 VIII. El señalamiento de si la persona detenida presenta lesiones apreciables a simple vista, y
 
-IX. Los demás datos que determine el Centro Nacional de Información que permitan atender el objeto de la presente Ley.
+IX. Los demás datos que determine el [Centro Nacional de Información](articulo-2.md) que permitan atender el objeto de la presente [Ley](articulo-2.md).
 
 El Registro deberá realizarse sin demérito de que la autoridad que efectúe la detención cumpla con la obligación de emitir su respectivo informe policial y demás documentos a que se refiere el Código Nacional de Procedimientos Penales.

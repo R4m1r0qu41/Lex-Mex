@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 180
 
-Las medidas de apremio previstas en esta Ley resultarán aplicables para efectos del cumplimiento de las resoluciones que recaigan a los recursos de inconformidad. Estas medidas de apremio deben establecerse en la propia resolución.
+Las medidas de apremio previstas en esta [Ley](articulo-3.md) resultarán aplicables para efectos del cumplimiento de las resoluciones que recaigan a los recursos de inconformidad. Estas medidas de apremio deben establecerse en la propia resolución.

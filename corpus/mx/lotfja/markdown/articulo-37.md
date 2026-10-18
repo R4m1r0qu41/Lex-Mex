@@ -17,4 +17,4 @@ source_sha256: b32c33fa4ed071dc8bea1ad69ce8510cdb05016967e9e4fcb60f10c6f2216628
 
 # Artículo 37
 
-El Tribunal contará con Salas Especializadas en materia de Responsabilidades Administrativas, cada una tendrá competencia respecto de las entidades que conformen las cinco circunscripciones administrativas, mismas que determinará el Pleno General a propuesta de la Junta de Gobierno y Administración, de acuerdo a estudios cualitativos y cuantitativos.
+El [Tribunal](articulo-2.md) contará con Salas Especializadas en materia de Responsabilidades Administrativas, cada una tendrá competencia respecto de las entidades que conformen las cinco circunscripciones administrativas, mismas que determinará el Pleno General a propuesta de la [Junta](articulo-2.md) de Gobierno y Administración, de acuerdo a estudios cualitativos y cuantitativos.

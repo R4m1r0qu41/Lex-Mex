@@ -17,6 +17,6 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # Artículo 24
 
-La Secretaría establecerá las épocas y zonas de veda para la flora y fauna acuáticas.
+La [Secretaría](articulo-2o.md) establecerá las épocas y zonas de veda para la flora y fauna acuáticas.
 
-Al establecerse una veda se precisará su carácter temporal o permanente, así como la denominación común y científica de las especies vedadas y las demás condiciones que la Secretaría juzgue necesarias para su protección, de conformidad con la Ley y demás disposiciones legales aplicables.
+Al establecerse una veda se precisará su carácter temporal o permanente, así como la denominación común y científica de las especies vedadas y las demás condiciones que la Secretaría juzgue necesarias para su protección, de conformidad con la [Ley](articulo-2o.md) y demás disposiciones legales aplicables.

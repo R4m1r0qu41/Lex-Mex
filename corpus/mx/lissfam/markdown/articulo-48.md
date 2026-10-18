@@ -17,4 +17,4 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 48
 
-El derecho para recibir haber de retiro o compensación se origina por la resolución definitiva dictada por el Instituto y sancionada por la Secretaría de Hacienda y Crédito Público. El haber de retiro se cubrirá a partir de la fecha de alta en situación de retiro.
+El derecho para recibir haber de retiro o compensación se origina por la resolución definitiva dictada por el [Instituto](articulo-4o.md) y sancionada por la Secretaría de Hacienda y Crédito Público. El haber de retiro se cubrirá a partir de la fecha de alta en situación de retiro.

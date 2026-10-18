@@ -19,11 +19,11 @@ source_sha256: d8dd1de3627b899bb4faf31c2812c3d5f14f7108be153d5aa8dd549b9136184a
 
 Corresponde al Ejecutivo Federal en materia de protección civil:
 
-I. Asegurar el correcto funcionamiento del Sistema Nacional y dictar los lineamientos generales para coordinar las labores de protección civil en beneficio de la población, sus bienes y entorno, induciendo y conduciendo la participación de los diferentes sectores y grupos de la sociedad en el marco de la Gestión Integral de Riesgos;
+I. Asegurar el correcto funcionamiento del [Sistema Nacional](articulo-2.md) y dictar los lineamientos generales para coordinar las labores de protección civil en beneficio de la población, sus bienes y entorno, induciendo y conduciendo la participación de los diferentes sectores y grupos de la sociedad en el marco de la [Gestión Integral de Riesgos](articulo-2.md);
 
 II. Promover la incorporación de la Gestión Integral de Riesgos en el desarrollo local y regional, estableciendo estrategias y políticas basadas en el análisis de los riesgos, con el fin de evitar la construcción de riesgos futuros y la realización de acciones de intervención para reducir los riesgos existentes;
 
-III. Contemplar, en el proyecto de Presupuesto de Egresos de la Federación de cada ejercicio fiscal, recursos para el óptimo funcionamiento y operación de los Instrumentos Financieros de Gestión de Riesgos a que se refiere la Ley Federal de Presupuesto y Responsabilidad Hacendaria, con el fin de promover y apoyar la realización de acciones de orden preventivo; así como las orientadas tanto al auxilio de la población en situación de emergencia, como la atención de los daños provocados por los desastres de origen natural;
+III. Contemplar, en el proyecto de Presupuesto de Egresos de la Federación de cada ejercicio fiscal, recursos para el óptimo funcionamiento y operación de los [Instrumentos Financieros de Gestión de Riesgos](articulo-2.md) a que se refiere la Ley Federal de Presupuesto y Responsabilidad Hacendaria, con el fin de promover y apoyar la realización de acciones de orden preventivo; así como las orientadas tanto al auxilio de la población en situación de emergencia, como la atención de los daños provocados por los desastres de origen natural;
 
 IV. Emitir declaratorias de emergencia o desastre de origen natural, en los términos establecidos en esta Ley y en la normatividad administrativa;
 

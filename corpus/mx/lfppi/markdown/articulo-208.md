@@ -17,4 +17,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 208
 
-La solicitud de publicación de un nombre comercial se presentará al Instituto acompañada de los documentos que acrediten el uso efectivo del nombre comercial aplicado a un giro determinado.
+La solicitud de publicación de un nombre comercial se presentará al [Instituto](articulo-4.md) acompañada de los documentos que acrediten el uso efectivo del nombre comercial aplicado a un giro determinado.

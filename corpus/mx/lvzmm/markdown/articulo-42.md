@@ -31,4 +31,4 @@ Se sancionarán con multa, según la infracción y el daño causado, los supuest
 
 Las sanciones antes señaladas podrán imponerse, en más de una de sus modalidades.
 
-En el caso de que haya transcurrido el plazo de la suspensión, sin que el infractor haya subsanado las irregularidades que dieron origen a la misma, la Secretaría procederá a la cancelación del permiso respectivo.
+En el caso de que haya transcurrido el plazo de la suspensión, sin que el infractor haya subsanado las irregularidades que dieron origen a la misma, la [Secretaría](articulo-2.md) procederá a la cancelación del permiso respectivo.

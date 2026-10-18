@@ -17,4 +17,4 @@ source_sha256: 4bcc982b308b0813469b30db61b53d5a2c41e5a7240b3b1cac2f1aeeb2c00a2e
 
 # Artículo 295
 
-A efecto de cumplir con los objetivos de Justicia Energética y prosperidad compartida, establecidos en la Ley, la Secretaría con ayuda de la Secretaría de Economía debe establecer y aplicar estrategias para que en el contenido nacional se promueva la inclusión de las pequeñas y medianas empresas locales en la proveeduría de bienes y servicios, con un valor agregado creciente en las cadenas productivas.
+A efecto de cumplir con los objetivos de Justicia Energética y prosperidad compartida, establecidos en la [Ley](articulo-2.md), la Secretaría con ayuda de la Secretaría de Economía debe establecer y aplicar estrategias para que en el contenido nacional se promueva la inclusión de las pequeñas y medianas empresas locales en la proveeduría de bienes y servicios, con un valor agregado creciente en las cadenas productivas.

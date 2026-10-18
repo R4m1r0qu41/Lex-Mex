@@ -17,6 +17,6 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 28
 
-El Presidente, para el cumplimiento de las facultades que esta Ley y demás disposiciones le atribuyen, será auxiliado por los funcionarios que determine el Estatuto Orgánico.
+El [Presidente](articulo-2o.md), para el cumplimiento de las facultades que esta Ley y demás disposiciones le atribuyen, será auxiliado por los funcionarios que determine el [Estatuto Orgánico](articulo-2o.md).
 
 Artículo reformado DOF 05-01-2000

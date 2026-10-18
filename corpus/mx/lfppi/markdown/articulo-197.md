@@ -17,4 +17,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 197
 
-Las resoluciones sobre declaratorias de notoriedad o fama serán publicadas en la Gaceta.
+Las resoluciones sobre declaratorias de notoriedad o fama serán publicadas en la [Gaceta](articulo-4.md).

@@ -17,6 +17,6 @@ source_sha256: c1870db657a6564bbeb692a1778472db811a920626822de553ff5ca5194f95b4
 
 # Artículo 27
 
-Los Biocombustibles deben transportarse, almacenarse, distribuirse, comercializarse, expenderse y suministrarse sin alteración, de conformidad con lo que establece esta Ley y demás disposiciones aplicables.
+Los [Biocombustibles](articulo-2.md) deben transportarse, almacenarse, distribuirse, comercializarse, expenderse y suministrarse sin alteración, de conformidad con lo que establece esta [Ley](articulo-2.md) y demás disposiciones aplicables.
 
 Para efectos de la presente Ley, se considera que los Biocombustibles han sido alterados cuando se modifique su composición respecto de las especificaciones establecidas en las disposiciones aplicables.

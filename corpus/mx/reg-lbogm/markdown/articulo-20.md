@@ -17,7 +17,7 @@ source_sha256: 667636f9e0ea65e72ac9d6d7b4d7563a183b75d0f140268a61929c74f5f88041
 
 # Artículo 20
 
-La Secretaría competente resolverá al promovente su solicitud de permiso de liberación incluyendo lo relativo a la importación, dentro de los siguientes plazos máximos, contados a partir del día hábil siguiente a que dicha solicitud sea admitida:
+La [Secretaría competente](articulo-2.md) resolverá al promovente su solicitud de permiso de liberación incluyendo lo relativo a la importación, dentro de los siguientes plazos máximos, contados a partir del día hábil siguiente a que dicha solicitud sea admitida:
 
 I. Para liberación experimental al ambiente seis meses; II. Para liberación al ambiente en programa piloto tres meses, y
 

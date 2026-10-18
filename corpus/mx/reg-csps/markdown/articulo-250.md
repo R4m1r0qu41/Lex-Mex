@@ -17,4 +17,4 @@ source_sha256: 70464807d63da08244e495f2ff0ac30b12b30119926b84cedc7930397fcb80ef
 
 # Artículo 250
 
-El resultado de las pruebas que realicen los terceros autorizados se hará constar en un dictamen que será firmado, bajo su responsabilidad, por la persona facultada para hacerlo. Dichos dictámenes tendrán validez ante la Secretaría conforme a las funciones que le hayan sido autorizadas al tercero.
+El resultado de las pruebas que realicen los terceros autorizados se hará constar en un dictamen que será firmado, bajo su responsabilidad, por la persona facultada para hacerlo. Dichos dictámenes tendrán validez ante la [Secretaría](articulo-2o.md) conforme a las funciones que le hayan sido autorizadas al tercero.

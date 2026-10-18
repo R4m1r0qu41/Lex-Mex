@@ -17,4 +17,4 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 100
 
-La aplicación de planes y programas de estudio, así como los programas de apoyo educativo será responsabilidad del personal que forma parte de la Institución Educativa.
+La aplicación de planes y programas de estudio, así como los programas de apoyo educativo será responsabilidad del personal que forma parte de la [Institución Educativa](articulo-3.md).

@@ -17,7 +17,7 @@ source_sha256: 32822f50bb2de81185408f9450d61a49d678429c52c5379822a507c7027a5275
 
 # Artículo 49
 
-La Comisión Nacional será presidida por la persona titular de la Secretaría y además estará integrada por:
+La [Comisión Nacional](articulo-5.md) será presidida por la persona titular de la [Secretaría](articulo-5.md) y además estará integrada por:
 
 I. Las personas titulares de las secretarías de Educación Pública; de Salud; del Trabajo y Previsión Social; de Agricultura y Desarrollo Rural; de las Mujeres; así como de Medio Ambiente y Recursos Naturales. Además de las personas titulares de los organismos sectorizados de la Secretaría podrán invitarse a participar en reuniones específicas a las personas titulares de otras dependencias y entidades de la Administración Pública Federal; Fracción reformada DOF 15-01-2026
 

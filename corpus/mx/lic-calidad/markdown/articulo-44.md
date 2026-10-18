@@ -17,4 +17,4 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 44
 
-La Secretaría mantendrá a disposición de cualquier interesado el listado de las Entidades de Acreditación y de los Organismos de Evaluación de la Conformidad. Dicho listado será publicado en la Plataforma Tecnológica Integral de Infraestructura de la Calidad.
+La [Secretaría](articulo-4.md) mantendrá a disposición de cualquier interesado el listado de las [Entidades de Acreditación](articulo-4.md) y de los [Organismos de Evaluación de la Conformidad](articulo-4.md). Dicho listado será publicado en la [Plataforma Tecnológica Integral de Infraestructura de la Calidad](articulo-4.md).

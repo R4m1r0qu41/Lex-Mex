@@ -17,7 +17,7 @@ source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 
 # Artículo 95
 
-Las personas titulares de las Direcciones Generales o equivalentes serán removidas por votación unánime del Órgano de Gobierno del Centro Público de que se trate, a propuesta de la persona titular de la dependencia o entidad coordinadora del sector correspondiente, en los siguientes casos:
+Las personas titulares de las Direcciones Generales o equivalentes serán removidas por votación unánime del Órgano de Gobierno del [Centro Público](articulo-4.md) de que se trate, a propuesta de la persona titular de la dependencia o entidad coordinadora del sector correspondiente, en los siguientes casos:
 
 I. Cuando observando el principio de legalidad y debido proceso, se acredite fehacientemente cualquiera de las siguientes causas:
 

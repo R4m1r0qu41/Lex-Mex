@@ -17,6 +17,6 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # Artículo 104
 
-La Secretaría intervendrá en los términos de la Ley de Obras Públicas y Servicios Relacionados con las Mismas y de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, de acuerdo con su competencia en la materia, cuando se requieran ejecutar obras de construcción, reconstrucción, modificación, adaptación, conservación y mantenimiento de inmuebles federales, así como para el óptimo aprovechamiento de espacios. Párrafo reformado DOF 03-05-2023
+La [Secretaría](articulo-2.md) intervendrá en los términos de la Ley de Obras Públicas y Servicios Relacionados con las Mismas y de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, de acuerdo con su competencia en la materia, cuando se requieran ejecutar obras de construcción, reconstrucción, modificación, adaptación, conservación y mantenimiento de inmuebles federales, así como para el óptimo aprovechamiento de espacios. Párrafo reformado DOF 03-05-2023
 
 Para la realización de obras en inmuebles federales considerados como monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, que estén destinados al servicio de las instituciones públicas, se requerirá de la autorización previa de la Secretaría de Cultura. Párrafo reformado DOF 17-12-2015

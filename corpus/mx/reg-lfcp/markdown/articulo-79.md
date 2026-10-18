@@ -17,4 +17,4 @@ source_sha256: 43723ba379e128c1a1c1be4b085ecc870946cdec43d56f83e7314c077361368f
 
 # Artículo 79
 
-Solamente podrán pertenecer a los colegios los corredores habilitados conforme a la Ley y este reglamento.
+Solamente podrán pertenecer a los colegios los corredores habilitados conforme a la [Ley](articulo-2o.md) y este reglamento.

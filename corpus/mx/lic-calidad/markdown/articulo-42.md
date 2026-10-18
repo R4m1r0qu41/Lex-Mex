@@ -17,7 +17,7 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 42
 
-La Comisión podrá ordenar a las Autoridades Normalizadoras la cancelación de Normas Oficiales Mexicanas sin sujetarse a lo previsto en el artículo [41](articulo-41.md) anterior, cuando se cumpla alguno de los siguientes supuestos:
+La [Comisión](articulo-4.md) podrá ordenar a las [Autoridades Normalizadoras](articulo-4.md) la cancelación de [Normas Oficiales Mexicanas](articulo-4.md) sin sujetarse a lo previsto en el artículo [41](articulo-41.md) anterior, cuando se cumpla alguno de los siguientes supuestos:
 
 I. Cuando el informe que contenga el resultado de la revisión sistemática que se haya realizado a una Norma Oficial Mexicana proponga su cancelación, o
 

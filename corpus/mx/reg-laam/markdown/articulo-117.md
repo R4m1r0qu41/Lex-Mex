@@ -17,4 +17,4 @@ source_sha256: 8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca
 
 # Artículo 117
 
-Será responsabilidad de la Oficialía Mayor, a través de la dirección general correspondiente, elaborar los listados y verificar el orden de prelación del personal de clases y marinería participante.
+Será responsabilidad de la [Oficialía Mayor](articulo-5.md), a través de la dirección general correspondiente, elaborar los listados y verificar el orden de prelación del personal de clases y marinería participante.

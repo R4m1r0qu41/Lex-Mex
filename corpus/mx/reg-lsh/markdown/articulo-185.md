@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 185
 
-La Secretaría o la Comisión deben expedir la Normatividad relativa a los formatos y especificaciones, para la determinación de las contraprestaciones, precios y tarifas de las actividades reguladas.
+La [Secretaría](articulo-3.md) o la [Comisión](articulo-3.md) deben expedir la [Normatividad](articulo-3.md) relativa a los formatos y especificaciones, para la determinación de las contraprestaciones, precios y tarifas de las actividades reguladas.

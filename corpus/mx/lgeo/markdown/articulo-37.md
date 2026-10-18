@@ -17,4 +17,4 @@ source_sha256: 67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35
 
 # Artículo 37
 
-La Secretaría, oyendo en su caso la opinión de la autoridad correspondiente, puede declarar el rescate cuando los trabajos impliquen un riesgo a la población; cuando se trate de evitar un daño irreparable al medio ambiente o a los recursos naturales, o preservar el equilibrio ecológico; así como por motivos de seguridad nacional, siempre y cuando no se trate de causa atribuible a la persona permisionario o concesionaria.
+La [Secretaría](articulo-2.md), oyendo en su caso la opinión de la autoridad correspondiente, puede declarar el rescate cuando los trabajos impliquen un riesgo a la población; cuando se trate de evitar un daño irreparable al medio ambiente o a los recursos naturales, o preservar el equilibrio ecológico; así como por motivos de seguridad nacional, siempre y cuando no se trate de causa atribuible a la persona permisionario o concesionaria.

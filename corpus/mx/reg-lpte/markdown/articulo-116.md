@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 116
 
-Para efectos de este Capítulo, se entiende por verificación mediante requerimientos de información y comparecencias, a las actividades que realizan la Secretaría, la CNE y la CONUEE para supervisar y vigilar, en el ámbito de sus competencias, el cumplimiento de la Ley, el Reglamento y demás disposiciones aplicables, mediante la realización de requerimientos de información, así como la citación a comparecer en el domicilio que la Secretaría, la CNE y la CONUEE determinen.
+Para efectos de este Capítulo, se entiende por verificación mediante requerimientos de información y comparecencias, a las actividades que realizan la [Secretaría](articulo-5.md), la CNE y la CONUEE para supervisar y vigilar, en el ámbito de sus competencias, el cumplimiento de la [Ley](articulo-5.md), el [Reglamento](articulo-5.md) y demás disposiciones aplicables, mediante la realización de requerimientos de información, así como la citación a comparecer en el domicilio que la Secretaría, la CNE y la CONUEE determinen.

@@ -15,4 +15,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # PRIMERO
 
-El presente decreto entrará en vigor a los noventa días hábiles siguientes al de su publicación en el Diario Oficial de la Federación.
+El presente decreto entrará en vigor a los noventa días hábiles siguientes al de su publicación en el [Diario Oficial](articulo-4.md) de la Federación.

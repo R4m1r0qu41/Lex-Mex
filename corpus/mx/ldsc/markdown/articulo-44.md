@@ -17,4 +17,4 @@ source_sha256: 45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80
 
 # Artículo 44
 
-La Secretaría, en coordinación con la Secretaría de Medio Ambiente y Recursos Naturales y la Secretaría de Bienestar, apoyarán el establecimiento y fortalecimiento de sistemas de control interno de buenas prácticas ambientales en las organizaciones, debe asegurar que dichas prácticas se ajusten con las normativas vigentes, promoviendo la obtención de certificaciones ambientales que fomenten la sostenibilidad y protección del medio ambiente.
+La [Secretaría](articulo-3.md), en coordinación con la Secretaría de Medio Ambiente y Recursos Naturales y la Secretaría de Bienestar, apoyarán el establecimiento y fortalecimiento de sistemas de control interno de buenas prácticas ambientales en las organizaciones, debe asegurar que dichas prácticas se ajusten con las normativas vigentes, promoviendo la obtención de certificaciones ambientales que fomenten la sostenibilidad y protección del medio ambiente.

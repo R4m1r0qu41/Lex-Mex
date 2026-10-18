@@ -15,7 +15,7 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 # Artículo 10
 
-El permisionario de un aeródromo civil interesado en obtener una concesión para la administración, operación, explotación y, en su caso, construcción de un aeropuerto, deberá contar con una antigüedad de cinco años operando como aeródromo de servicio general y presentar ante la Secretaría solicitud por escrito que precise la información a que se refiere el artículo [8](articulo-8.md) de este Reglamento, debiendo acompañar los documentos señalados en el artículo [9](articulo-9.md), con excepción de los subíndices i) y ii) del inciso e) de la fracción II, y además:
+El permisionario de un aeródromo civil interesado en obtener una concesión para la administración, operación, explotación y, en su caso, construcción de un aeropuerto, deberá contar con una antigüedad de cinco años operando como aeródromo de servicio general y presentar ante la [Secretaría](articulo-2.md) solicitud por escrito que precise la información a que se refiere el artículo [8](articulo-8.md) de este Reglamento, debiendo acompañar los documentos señalados en el artículo [9](articulo-9.md), con excepción de los subíndices i) y ii) del inciso e) de la fracción II, y además:
 
 I. En cuanto a la capacidad técnica y requisitos de seguridad, un estudio de viabilidad que contenga:
 

@@ -17,7 +17,7 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 13 Bis
 
-El Pleno de la Comisión es el órgano de gobierno de la Comisión, mismo que se integra por cinco Personas Comisionadas, incluyendo la Persona Comisionada Presidente.
+El [Pleno](articulo-3.md) de la [Comisión](articulo-3.md) es el órgano de gobierno de la Comisión, mismo que se integra por cinco [Personas Comisionadas](articulo-3.md), incluyendo la Persona Comisionada Presidente.
 
 Dichas Personas Comisionadas serán designadas en forma escalonada por la persona titular del Ejecutivo Federal y ratificados por el voto de la mayoría de las personas integrantes presentes del Senado de la República o, en sus recesos, por la Comisión Permanente, dentro del plazo improrrogable de treinta días naturales a partir de la presentación de la propuesta.
 
@@ -37,7 +37,7 @@ IV. Tener título profesional, expedido legalmente a su favor;
 
 V. Haberse desempeñado, cuando menos ocho años, en actividades profesionales, de servicio público o académicas relacionadas con materias afines a las de competencia económica;
 
-VI. No haber desempeñado cargo como titular de una Secretaría de Estado, de la Fiscalía General de la República, senaduría, diputación federal o local, persona Gobernadora de algún Estado o Jefatura de Gobierno de la Ciudad de México o algún cargo en partidos políticos, durante los tres años previos a su nombramiento, y
+VI. No haber desempeñado cargo como titular de una [Secretaría](articulo-3.md) de Estado, de la Fiscalía General de la República, senaduría, diputación federal o local, persona Gobernadora de algún Estado o Jefatura de Gobierno de la Ciudad de México o algún cargo en partidos políticos, durante los tres años previos a su nombramiento, y
 
 VII. No haber ocupado, en los últimos cinco años, ningún empleo, cargo o función directiva en las empresas que hayan estado sujetas a alguno de los procedimientos sancionatorios que se hayan sustanciado por el órgano a que hace referencia esta Ley.
 

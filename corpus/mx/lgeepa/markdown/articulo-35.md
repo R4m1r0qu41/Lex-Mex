@@ -17,7 +17,7 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 35
 
-Una vez presentada la manifestación de impacto ambiental, la Secretaría iniciará el procedimiento de evaluación, para lo cual revisará que la solicitud se ajuste a las formalidades previstas en esta Ley, su Reglamento y las normas oficiales mexicanas aplicables, e integrará el expediente respectivo en un plazo no mayor de diez días.
+Una vez presentada la manifestación de impacto ambiental, la [Secretaría](articulo-3o.md) iniciará el procedimiento de evaluación, para lo cual revisará que la solicitud se ajuste a las formalidades previstas en esta Ley, su Reglamento y las normas oficiales mexicanas aplicables, e integrará el expediente respectivo en un plazo no mayor de diez días.
 
 Para la autorización de las obras y actividades a que se refiere el artículo [28](articulo-28.md), la Secretaría se sujetará a lo que establezcan los ordenamientos antes señalados, así como los programas de desarrollo urbano y de ordenamiento ecológico del territorio, las declaratorias de áreas naturales protegidas y las demás disposiciones jurídicas que resulten aplicables.
 

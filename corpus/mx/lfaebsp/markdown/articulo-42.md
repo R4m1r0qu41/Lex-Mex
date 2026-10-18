@@ -17,6 +17,6 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 42
 
-El Instituto determinará las penas convencionales a cargo del adjudicatario por atraso en el cumplimiento de sus obligaciones de pago.
+El [Instituto](articulo-2o.md) determinará las penas convencionales a cargo del adjudicatario por atraso en el cumplimiento de sus obligaciones de pago.
 
 Artículo reformado DOF 09-08-2019

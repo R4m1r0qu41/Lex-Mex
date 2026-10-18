@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 16
 
-Los Comités son órganos de apoyo técnico especializado del Consejo para la atención de los asuntos que le sean remitidos. El Consejo debe constituir los Comités permanentes siguientes: I. Comité de Planeación del Sector Energético, y II. Comité de Información del Sector Energético.
+Los [Comités](articulo-5.md) son órganos de apoyo técnico especializado del [Consejo](articulo-5.md) para la atención de los asuntos que le sean remitidos. El Consejo debe constituir los Comités permanentes siguientes: I. Comité de Planeación del Sector Energético, y II. Comité de Información del Sector Energético.

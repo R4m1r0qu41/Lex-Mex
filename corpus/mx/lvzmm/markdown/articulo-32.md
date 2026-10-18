@@ -17,7 +17,7 @@ source_sha256: d9ffbbf8f19b54a93ff577abb1266e4be1316d935e79fad655242955fd80ff70
 
 # Artículo 32
 
-El personal acreditado de la Secretaría tiene facultad para lo siguiente:
+El personal acreditado de la [Secretaría](articulo-2.md) tiene facultad para lo siguiente:
 
 I. Inspeccionar cualquier obra, lugar, buque, estructura, plataforma, artefacto naval, almacén o aeronave, en que se presenten elementos o indicios que presuman la existencia de algún desecho u otras materias que vayan a ser vertidos;
 
@@ -29,7 +29,7 @@ IV. Viajar o permanecer en el buque, estructura, plataforma, artefacto naval, al
 
 V. Abordar en cualquier puerto o terminal, un buque o aeronave nacional o extranjera, en que se presenten elementos o indicios que presuman transporta desechos o materias para ser vertidos o abandonados en zonas marinas mexicanas;
 
-VI. Si como resultado de la inspección y vigilancia se advierten infracciones a la presente Ley, el infractor y el buque serán conducidos al puerto más cercano, con el objeto de evitar que se continúe con el vertimiento, imponiéndosele la sanción correspondiente;
+VI. Si como resultado de la inspección y vigilancia se advierten infracciones a la presente [Ley](articulo-2.md), el infractor y el buque serán conducidos al puerto más cercano, con el objeto de evitar que se continúe con el vertimiento, imponiéndosele la sanción correspondiente;
 
 VII. Cuando fuera necesario, la Secretaría, solicitará a la Capitanía de Puerto que impida el zarpe del buque, o en su caso, hará lo conducente ante el comandante del aeropuerto cuando se trate de una aeronave;
 

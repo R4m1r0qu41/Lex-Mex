@@ -17,12 +17,12 @@ source_sha256: 8262a75eac7bfb608d4f48657ffb2714fe115d0b9694c42ac81624fd275bf5f6
 
 # Artículo 2
 
-Sin perjuicio de las demás obligaciones fiscales de los Contratistas y Asignatarios, el Estado Mexicano percibirá ingresos por las actividades de Exploración y Extracción de Hidrocarburos conforme a lo siguiente: I. Por Contrato, las Contraprestaciones establecidas a favor del Estado en cada Contrato de conformidad con esta Ley;
+Sin perjuicio de las demás obligaciones fiscales de los Contratistas y Asignatarios, el Estado Mexicano percibirá ingresos por las actividades de Exploración y Extracción de Hidrocarburos conforme a lo siguiente: I. Por [Contrato](articulo-3.md), las [Contraprestaciones](articulo-3.md) establecidas a favor del Estado en cada Contrato de conformidad con esta Ley;
 
 II. Por Asignación, el derecho a que se refiere el Título Tercero de esta Ley; Fracción reformada DOF 18-03-2025
 
 III. El impuesto sobre la renta que causen los Contratistas por las actividades que realicen en virtud de un Contrato, de acuerdo con la naturaleza del Contratista, así como por las actividades que realicen los Participantes de Asignaciones para Desarrollo Mixto, y Fracción reformada DOF 18-03-2025
 
-IV. Por Área Unificada, los que correspondan respectivamente, de conformidad con las fracciones anteriores. Fracción adicionada DOF 18-03-2025
+IV. Por [Área Unificada](articulo-3.md), los que correspondan respectivamente, de conformidad con las fracciones anteriores. Fracción adicionada DOF 18-03-2025
 
-Los ingresos a que se refieren las fracciones I, II y, en su caso, IV de este artículo deben ser recibidos por el Fondo Mexicano del Petróleo, conforme a lo señalado en esta Ley, en cada Contrato y en las demás disposiciones aplicables. Dichos ingresos se exceptúan de las reglas de concentración contenidas en la Ley de Ingresos de la Federación del ejercicio fiscal de que se trate y demás disposiciones jurídicas aplicables. Párrafo reformado DOF 18-03-2025
+Los ingresos a que se refieren las fracciones I, II y, en su caso, IV de este artículo deben ser recibidos por el [Fondo Mexicano del Petróleo](articulo-3.md), conforme a lo señalado en esta Ley, en cada Contrato y en las demás disposiciones aplicables. Dichos ingresos se exceptúan de las reglas de concentración contenidas en la Ley de Ingresos de la Federación del ejercicio fiscal de que se trate y demás disposiciones jurídicas aplicables. Párrafo reformado DOF 18-03-2025

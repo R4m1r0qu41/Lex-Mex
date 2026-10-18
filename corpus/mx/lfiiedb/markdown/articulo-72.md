@@ -17,4 +17,4 @@ source_sha256: 7679afbbf32749e0c0bacab72644d41fc6ccdeeab3a2f25dfae8d26a065de01e
 
 # Artículo 72
 
-La participación de los miembros del Consejo y de los invitados permanentes, se desempeñará a título honorífico, por lo que no dará derecho a retribución alguna.
+La participación de los miembros del [Consejo](articulo-4.md) y de los invitados permanentes, se desempeñará a título honorífico, por lo que no dará derecho a retribución alguna.

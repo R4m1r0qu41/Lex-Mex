@@ -17,4 +17,4 @@ source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 
 # Artículo 77
 
-El Consejo Nacional debe promover la articulación del Sistema de Centros Públicos a través de una política integral de armonización normativa, vinculante para los Centros Públicos de su sector y orientadora para los coordinados por dependencias federales, así como para los centros públicos locales. Para tales efectos, el Consejo Nacional podrá integrar los comités de armonización que considere adecuados.
+El [Consejo Nacional](articulo-4.md) debe promover la articulación del Sistema de [Centros Públicos](articulo-4.md) a través de una política integral de armonización normativa, vinculante para los Centros Públicos de su sector y orientadora para los coordinados por dependencias federales, así como para los centros públicos locales. Para tales efectos, el Consejo Nacional podrá integrar los comités de armonización que considere adecuados.

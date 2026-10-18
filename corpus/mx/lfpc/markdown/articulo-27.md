@@ -15,9 +15,9 @@ source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 
 # Artículo 27
 
-El Procurador Federal del Consumidor tendrá las siguientes atribuciones:
+El Procurador Federal del [Consumidor](articulo-2.md) tendrá las siguientes atribuciones:
 
-I. Representar legalmente a la Procuraduría, así como otorgar poderes a servidores públicos de la misma, para representarla en asuntos o procedimientos judiciales, administrativos y laborales; Fracción reformada DOF 04-02-2004
+I. Representar legalmente a la [Procuraduría](articulo-2.md), así como otorgar poderes a servidores públicos de la misma, para representarla en asuntos o procedimientos judiciales, administrativos y laborales; Fracción reformada DOF 04-02-2004
 
 II. Nombrar y remover al personal al servicio de la Procuraduría, señalándole sus funciones y remuneraciones;
 

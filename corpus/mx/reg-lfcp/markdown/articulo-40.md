@@ -19,6 +19,6 @@ source_sha256: 43723ba379e128c1a1c1be4b085ecc870946cdec43d56f83e7314c077361368f
 
 El corredor público llevará el Libro de Registro, para lo cual observará lo previsto por el artículo [44](articulo-44.md) del presente reglamento.
 
-Para cumplir lo dispuesto por el tercer párrafo del artículo [16](../../lfcp/markdown/articulo-16.md) de la Ley, el corredor público deberá grabar en medios digitales el contenido íntegro del libro el cual deberá firmarse electrónicamente por dicho corredor una vez que se hubieren utilizado las doscientas cincuenta hojas foliadas, momento en que deberá resguardar el archivo electrónico en dispositivos de almacenamiento magnético, óptico o de cualquier otra tecnología que permita su conservación segura y posterior consulta inalterada.
+Para cumplir lo dispuesto por el tercer párrafo del artículo [16](../../lfcp/markdown/articulo-16.md) de la [Ley](articulo-2o.md), el corredor público deberá grabar en medios digitales el contenido íntegro del libro el cual deberá firmarse electrónicamente por dicho corredor una vez que se hubieren utilizado las doscientas cincuenta hojas foliadas, momento en que deberá resguardar el archivo electrónico en dispositivos de almacenamiento magnético, óptico o de cualquier otra tecnología que permita su conservación segura y posterior consulta inalterada.
 
 Artículo reformado DOF 26-11-2012

@@ -15,6 +15,6 @@ source_sha256: 0a9852297132d8972d0c2f77e1b67d614bd296632109065e703bd09254187aea
 
 # Artículo 4
 
-El Registro forma parte del Sistema Nacional de Información en Seguridad Pública y tiene por objetivo prevenir la violación de los derechos humanos de la persona detenida, actos de tortura, tratos crueles, inhumanos y degradantes, o la desaparición forzada.
+El [Registro](articulo-2.md) forma parte del Sistema Nacional de Información en Seguridad Pública y tiene por objetivo prevenir la violación de los derechos humanos de la persona detenida, actos de tortura, tratos crueles, inhumanos y degradantes, o la desaparición forzada.
 
-Las bases de datos contenidas en el Registro podrán ser utilizadas por las instituciones de seguridad pública con fines estadísticos, de inteligencia y para el diseño de políticas criminales, de acuerdo a los lineamientos que para tal efecto emita el Centro Nacional de Información y conforme a las leyes aplicables.
+Las bases de datos contenidas en el Registro podrán ser utilizadas por las instituciones de seguridad pública con fines estadísticos, de inteligencia y para el diseño de políticas criminales, de acuerdo a los lineamientos que para tal efecto emita el [Centro Nacional de Información](articulo-2.md) y conforme a las leyes aplicables.

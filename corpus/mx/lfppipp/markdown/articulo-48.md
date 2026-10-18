@@ -17,6 +17,6 @@ source_sha256: 2a105e5201b86ff5517ca1ef8d971224ea8c717f195fdd5fa28b916c7e622e56
 
 # Artículo 48
 
-El Órgano Interno de Control en la Fiscalía General y la Auditoría Superior de la Federación podrán realizar todas las actividades de auditoría al Programa; su personal debe estar habilitado y suscribirá una carta compromiso en donde se establezca su obligación de confidencialidad, respecto a la operación del Programa, incluso una vez que se hubiese separado de su empleo, cargo o comisión.
+El Órgano Interno de Control en la [Fiscalía General](articulo-2.md) y la Auditoría Superior de la Federación podrán realizar todas las actividades de auditoría al [Programa](articulo-2.md); su personal debe estar habilitado y suscribirá una carta compromiso en donde se establezca su obligación de confidencialidad, respecto a la operación del Programa, incluso una vez que se hubiese separado de su empleo, cargo o comisión.
 
 Artículo reformado DOF 20-05-2021

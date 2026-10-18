@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 33
 
-El PROSENER es el instrumento rector de la planeación de corto plazo del Sector Energético y tiene como objeto dar cumplimiento a las previsiones, objetivos y estrategias contenidas en el PND para el Sector Energético.
+El [PROSENER](articulo-5.md) es el instrumento rector de la planeación de corto plazo del Sector Energético y tiene como objeto dar cumplimiento a las previsiones, objetivos y estrategias contenidas en el [PND](articulo-5.md) para el Sector Energético.

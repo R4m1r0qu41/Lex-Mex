@@ -17,4 +17,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 48
 
-Serán patentables las invenciones en todos los campos de la tecnología que sean nuevas, resultado de una actividad inventiva y susceptibles de aplicación industrial, en los términos de esta Ley.
+Serán patentables las invenciones en todos los campos de la tecnología que sean nuevas, resultado de una actividad inventiva y susceptibles de aplicación industrial, en los términos de esta [Ley](articulo-4.md).

@@ -17,4 +17,4 @@ source_sha256: 4bcc982b308b0813469b30db61b53d5a2c41e5a7240b3b1cac2f1aeeb2c00a2e
 
 # Artículo 141
 
-El CENACE, la Transportista y la Distribuidora o la Suministradora no incurren en responsabilidad por la suspensión del Servicio Público de Transmisión y Distribución de Energía Eléctrica en los casos a que se refiere el artículo [56](../../lse/markdown/articulo-56.md) de la Ley, sin importar la duración de la interrupción, ni la frecuencia de esta.
+El CENACE, la Transportista y la Distribuidora o la Suministradora no incurren en responsabilidad por la suspensión del Servicio Público de Transmisión y Distribución de Energía Eléctrica en los casos a que se refiere el artículo [56](../../lse/markdown/articulo-56.md) de la [Ley](articulo-2.md), sin importar la duración de la interrupción, ni la frecuencia de esta.

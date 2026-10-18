@@ -19,7 +19,7 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 Las notificaciones de los actos administrativos dictados con motivo de la aplicación de esta Ley, se realizarán:
 
-I. Personalmente o por correo certificado con acuse de recibo, cuando se trate de emplazamientos y resoluciones administrativas definitivas, sin perjuicio de que la notificación de estos actos pueda efectuarse en las oficinas de las Unidades Administrativas competentes de la Secretaría, si las personas a quienes deba notificarse se presentan en las mismas. En este último caso, se asentará la razón correspondiente;
+I. Personalmente o por correo certificado con acuse de recibo, cuando se trate de emplazamientos y resoluciones administrativas definitivas, sin perjuicio de que la notificación de estos actos pueda efectuarse en las oficinas de las Unidades Administrativas competentes de la [Secretaría](articulo-3o.md), si las personas a quienes deba notificarse se presentan en las mismas. En este último caso, se asentará la razón correspondiente;
 
 II. Por rotulón, colocado en los estrados de la Unidad Administrativa competente, cuando la persona a quien deba notificarse no pueda ser ubicada después de iniciadas las facultades de inspección, vigilancia o verificación a las que se refiere el presente Título, o cuando no hubiera señalado domicilio en la población donde se encuentre ubicada la sede de la autoridad ordenadora;
 

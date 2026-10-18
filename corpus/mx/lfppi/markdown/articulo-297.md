@@ -19,6 +19,6 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 Los términos de la declaración de protección de una denominación de origen o indicación geográfica podrán ser modificados en cualquier tiempo, de oficio o a petición de parte interesada, siguiendo el procedimiento establecido en este Capítulo.
 
-Si la solicitud se presenta a petición de parte interesada, ésta deberá contener lo previsto por el artículo [274](articulo-274.md) o, en su caso, el 275 de esta Ley, así como un señalamiento detallado de las modificaciones que se solicitan y las causas que las motivan. El Instituto resolverá lo conducente conforme a lo establecido en este Capítulo.
+Si la solicitud se presenta a petición de parte interesada, ésta deberá contener lo previsto por el artículo [274](articulo-274.md) o, en su caso, el 275 de esta [Ley](articulo-4.md), así como un señalamiento detallado de las modificaciones que se solicitan y las causas que las motivan. El [Instituto](articulo-4.md) resolverá lo conducente conforme a lo establecido en este Capítulo.
 
 Capítulo III De la Autorización de Uso

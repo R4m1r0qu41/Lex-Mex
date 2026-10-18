@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 160
 
-La Secretaría y la Comisión, en el ámbito de sus respectivas competencias, pueden requerir la presentación de la información relacionada con las actividades permisionadas a través de medios electrónicos y tecnologías de la información, siempre y cuando las personas Permisionarias hayan manifestado expresamente su consentimiento para la utilización de dichos medios conforme a la Normatividad aplicable.
+La [Secretaría](articulo-3.md) y la [Comisión](articulo-3.md), en el ámbito de sus respectivas competencias, pueden requerir la presentación de la información relacionada con las actividades permisionadas a través de medios electrónicos y tecnologías de la información, siempre y cuando las personas Permisionarias hayan manifestado expresamente su consentimiento para la utilización de dichos medios conforme a la [Normatividad](articulo-3.md) aplicable.

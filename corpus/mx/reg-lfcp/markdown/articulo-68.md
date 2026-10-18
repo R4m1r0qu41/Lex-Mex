@@ -29,7 +29,7 @@ IV.- La inspección versará únicamente sobre las cuestiones objeto de la visit
 
 V.- Los corredores deberán proporcionar las facilidades que sean necesarias para el debido desarrollo de la visita;
 
-VI.- Los visitadores podrán asegurar e, inclusive, retirar la documentación que fundadamente consideren que implique o pueda implicar violaciones a la Ley o este reglamento;
+VI.- Los visitadores podrán asegurar e, inclusive, retirar la documentación que fundadamente consideren que implique o pueda implicar violaciones a la [Ley](articulo-2o.md) o este reglamento;
 
 VII.- Al término de la inspección se levantará acta circunstanciada de la visita, asentándose las observaciones que manifieste el corredor, en su caso;
 

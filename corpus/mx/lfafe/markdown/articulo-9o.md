@@ -17,7 +17,7 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 9o
 
-Está permitida la posesión de armas de fuego autorizadas por la Secretaría en el domicilio declarado por las personas físicas, para la seguridad y legítima defensa de sus moradores, de conformidad con esta Ley y su Reglamento. Párrafo adicionado DOF 29-05-2025
+Está permitida la posesión de armas de fuego autorizadas por la [Secretaría](articulo-1o-Bis.md) en el domicilio declarado por las personas físicas, para la seguridad y legítima defensa de sus moradores, de conformidad con esta [Ley](articulo-1o-Bis.md) y su [Reglamento](articulo-1o-Bis.md). Párrafo adicionado DOF 29-05-2025
 
 Pueden poseerse o portarse, en los términos y con las limitaciones establecidas por esta Ley y su Reglamento, armas de las características siguientes: Párrafo reformado DOF 29-05-2025
 

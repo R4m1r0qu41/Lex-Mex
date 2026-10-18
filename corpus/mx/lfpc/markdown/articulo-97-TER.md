@@ -21,7 +21,7 @@ Cuando con motivo de una visita de verificación se requiera efectuar toma de mu
 
 Para la toma y análisis de las muestras a que se refiere el párrafo anterior, se procederá en los siguientes términos:
 
-I. Se tomarán por triplicado, una para el análisis de la Procuraduría, otra quedará en poder del visitado quien podrá efectuar su análisis, y la tercera tendrá el carácter de muestra testigo que quedará en poder del visitado y a disposición de la Procuraduría. A las muestras se colocarán sellos que garanticen su inviolabilidad;
+I. Se tomarán por triplicado, una para el análisis de la [Procuraduría](articulo-2.md), otra quedará en poder del visitado quien podrá efectuar su análisis, y la tercera tendrá el carácter de muestra testigo que quedará en poder del visitado y a disposición de la Procuraduría. A las muestras se colocarán sellos que garanticen su inviolabilidad;
 
 II. El resultado del análisis emitido por la Procuraduría se le notificará al visitado en los términos del artículo [104](articulo-104.md) de esta ley;
 

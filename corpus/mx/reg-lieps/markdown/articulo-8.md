@@ -17,4 +17,4 @@ source_sha256: cb15a70b51a87cff0f6d329d5e8a97617d71c955e46da65921037a77a83ca5f4
 
 # Artículo 8
 
-Se considera comprendido dentro de lo dispuesto por el artículo [12](../../lieps/markdown/articulo-12.md) de la Ley, el retorno al territorio nacional de bienes tangibles exportados definitivamente, cuando se efectúe en los términos de la legislación aduanera.
+Se considera comprendido dentro de lo dispuesto por el artículo [12](../../lieps/markdown/articulo-12.md) de la [Ley](articulo-1.md), el retorno al territorio nacional de bienes tangibles exportados definitivamente, cuando se efectúe en los términos de la legislación aduanera.

@@ -17,9 +17,9 @@ source_sha256: 67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35
 
 # Artículo 31
 
-Los Permisos de Exploración y las Concesiones se extinguen por:
+Los Permisos de [Exploración](articulo-2.md) y las [Concesiones](articulo-2.md) se extinguen por:
 
-I. Vencimiento del plazo establecido en el Permiso de Exploración o título de Concesión correspondiente o de la prórroga que, en su caso, se hubiera otorgado;
+I. Vencimiento del plazo establecido en el [Permiso de Exploración](articulo-2.md) o título de Concesión correspondiente o de la prórroga que, en su caso, se hubiera otorgado;
 
 II. Renuncia de la persona titular, siempre que no afecte derechos de terceros, y si hubiere afectación se haya realizado el pago de daños y perjuicios;
 
@@ -33,6 +33,6 @@ VI. Rescate;
 
 VII. Desaparición del objeto, o de la finalidad del Permiso de Exploración o Concesión, y
 
-VIII. Las demás causas previstas en el Reglamento de esta Ley, o en el título respectivo del Permiso de Exploración o Concesión respectivo.
+VIII. Las demás causas previstas en el [Reglamento](articulo-2.md) de esta [Ley](articulo-2.md), o en el título respectivo del Permiso de Exploración o Concesión respectivo.
 
-Adicionalmente, es causa de terminación del Permiso de Exploración el otorgamiento de la Concesión solicitada respecto del Área Geotérmica permisionada. La terminación del Permiso de Exploración o de la Concesión no exime a su titular de las responsabilidades contraídas durante su vigencia.
+Adicionalmente, es causa de terminación del Permiso de Exploración el otorgamiento de la Concesión solicitada respecto del [Área Geotérmica](articulo-2.md) permisionada. La terminación del Permiso de Exploración o de la Concesión no exime a su titular de las responsabilidades contraídas durante su vigencia.

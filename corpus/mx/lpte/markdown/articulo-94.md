@@ -17,4 +17,4 @@ source_sha256: c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41
 
 # Artículo 94
 
-En caso de reincidencia se duplica la multa que previamente se haya impuesto. Se entiende por reincidencia, para los efectos de esta Ley y demás disposiciones derivadas de ella, cada una de las subsecuentes infracciones a un mismo precepto, cometidas dentro de los dos años siguientes a la fecha en que se impuso la infracción precedente, siempre que esta no hubiese sido declarada inválida por autoridad competente.
+En caso de reincidencia se duplica la multa que previamente se haya impuesto. Se entiende por reincidencia, para los efectos de esta [Ley](articulo-3.md) y demás disposiciones derivadas de ella, cada una de las subsecuentes infracciones a un mismo precepto, cometidas dentro de los dos años siguientes a la fecha en que se impuso la infracción precedente, siempre que esta no hubiese sido declarada inválida por autoridad competente.

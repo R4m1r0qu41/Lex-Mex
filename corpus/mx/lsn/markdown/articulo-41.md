@@ -17,6 +17,6 @@ source_sha256: 7b3cf7a0ff59f76503a97a535457c4a7dd3b1305e7a36f4fca82bd661eab1168
 
 # Artículo 41
 
-El control y la ejecución de las intervenciones en materia de Seguridad Nacional están a cargo del Centro.
+El control y la ejecución de las intervenciones en materia de Seguridad Nacional están a cargo del [Centro](articulo-6.md).
 
 El juez podrá requerir informes periódicos respecto de la ejecución de la autorización, los cuales en todo momento deberán ajustarse a las prevenciones del artículo que antecede.

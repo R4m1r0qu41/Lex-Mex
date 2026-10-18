@@ -15,4 +15,4 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # TERCERO
 
-La Secretaría dentro de un plazo no mayor de 90 días hábiles, contados a partir de la fecha en que entre en vigor este Reglamento, publicará en el Diario Oficial de la Federación, los formatos previstos en este ordenamiento.
+La [Secretaría](articulo-2o.md) dentro de un plazo no mayor de 90 días hábiles, contados a partir de la fecha en que entre en vigor este Reglamento, publicará en el Diario Oficial de la Federación, los formatos previstos en este ordenamiento.

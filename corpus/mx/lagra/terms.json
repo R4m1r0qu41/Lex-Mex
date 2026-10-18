@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lagra:term:tierras-agricolas",
+    "term": "Tierras agrícolas",
+    "instrument_id": "urn:lex-mx:federal:statute:lagra",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lagra:article:116",
+    "fraction": "I",
+    "start_char": 48,
+    "end_char": 123,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lagra:term:tierras-ganaderas",
+    "term": "Tierras ganaderas",
+    "instrument_id": "urn:lex-mx:federal:statute:lagra",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lagra:article:116",
+    "fraction": "II",
+    "start_char": 123,
+    "end_char": 272,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lagra:term:tierras-forestales",
+    "term": "Tierras forestales",
+    "instrument_id": "urn:lex-mx:federal:statute:lagra",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lagra:article:116",
+    "fraction": "III",
+    "start_char": 272,
+    "end_char": 485,
+    "basis": "express_definition"
+  }
+]

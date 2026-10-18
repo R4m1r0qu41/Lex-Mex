@@ -17,4 +17,4 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # Artículo 34
 
-La Secretaría administrará el esfuerzo pesquero susceptible de aplicarse a cada pesquería, atendiendo a la disponibilidad del recurso de que se trate, mediante la expedición de concesiones o permisos por embarcación o unidad de esfuerzo pesquero, en un área determinada.
+La [Secretaría](articulo-2o.md) administrará el esfuerzo pesquero susceptible de aplicarse a cada pesquería, atendiendo a la disponibilidad del recurso de que se trate, mediante la expedición de concesiones o permisos por embarcación o unidad de esfuerzo pesquero, en un área determinada.

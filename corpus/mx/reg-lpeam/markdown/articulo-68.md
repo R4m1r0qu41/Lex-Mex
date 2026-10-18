@@ -17,4 +17,4 @@ source_sha256: 4195c0740ad46978a8b0f2d43f0ac6d77e46b0216bd6f756950b1a050044ce98
 
 # Artículo 68
 
-El Centro debe comunicar el Alertamiento aéreo a los integrantes del Sistema mediante una declaratoria, conforme a la Ley, para lo cual debe hacer uso de los medios que disponga.
+El Centro debe comunicar el Alertamiento aéreo a los integrantes del Sistema mediante una declaratoria, conforme a la [Ley](articulo-4.md), para lo cual debe hacer uso de los medios que disponga.

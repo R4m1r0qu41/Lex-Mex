@@ -23,4 +23,4 @@ Las pruebas que se presenten posteriormente no serán admitidas, salvo que fuere
 
 La persona solicitante deberá exhibir el número de copias simples de la solicitud y de los documentos anexos, necesarios para correr traslado a la contraparte. Párrafo reformado DOF 03-04-2026
 
-Cuando se ofrezca como prueba algún documento que obre en los archivos del Instituto, la persona solicitante podrá pedir se expida, a su costa, copia certificada de éste o se realice el cotejo respectivo; así como la expedición de las copias simples de dicho documento necesarias para el traslado, señalando el expediente en el cual se encuentre. Párrafo reformado DOF 03-04-2026
+Cuando se ofrezca como prueba algún documento que obre en los archivos del [Instituto](articulo-4.md), la persona solicitante podrá pedir se expida, a su costa, copia certificada de éste o se realice el cotejo respectivo; así como la expedición de las copias simples de dicho documento necesarias para el traslado, señalando el expediente en el cual se encuentre. Párrafo reformado DOF 03-04-2026

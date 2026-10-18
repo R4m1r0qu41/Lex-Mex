@@ -17,4 +17,4 @@ source_sha256: 7df3d678efda2306b68d3c0f5ca0e3e92b9066d5f773128f4ae19cb26bf44fff
 
 # Artículo 1
 
-El presente Reglamento es de observancia general en los Estados Unidos Mexicanos y tiene por objeto establecer las disposiciones que regulan la Ley de Biocombustibles y las actividades de Producción, Almacenamiento, Transporte, importación, exportación, Comercialización, Distribución y el Expendio al Público de Biocombustibles.
+El presente [Reglamento](articulo-3.md) es de observancia general en los Estados Unidos Mexicanos y tiene por objeto establecer las disposiciones que regulan la [Ley](articulo-3.md) de Biocombustibles y las actividades de Producción, Almacenamiento, Transporte, importación, exportación, Comercialización, Distribución y el Expendio al Público de Biocombustibles.

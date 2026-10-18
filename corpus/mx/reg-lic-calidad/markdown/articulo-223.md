@@ -17,4 +17,4 @@ source_sha256: d23aedc9ffdb09b9202311f03023241da20445cb45aea855b37bfd9685768861
 
 # Artículo 223
 
-Los nombres de las personas ganadoras del Premio Nacional de Calidad deben ser publicadas en la PLATIICA.
+Los nombres de las personas ganadoras del Premio Nacional de Calidad deben ser publicadas en la [PLATIICA](articulo-2.md).

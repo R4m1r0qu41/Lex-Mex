@@ -17,4 +17,4 @@ source_sha256: 67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35
 
 # Artículo 61
 
-La Secretaría puede realizar la inspección, verificación y seguimiento, por medios físicos o documentales, a los Permisos de Exploración, Concesiones, Permisos de Usos Diversos y avisos de los Aprovechamientos Geotérmicos Exentos en cumplimiento de las obligaciones previstas en esta Ley, el Reglamento, Normas Oficiales Mexicanas que al efecto expida y en las demás disposiciones aplicables.
+La [Secretaría](articulo-2.md) puede realizar la inspección, verificación y seguimiento, por medios físicos o documentales, a los Permisos de [Exploración](articulo-2.md), [Concesiones](articulo-2.md), Permisos de [Usos Diversos](articulo-2.md) y avisos de los [Aprovechamientos Geotérmicos Exentos](articulo-2.md) en cumplimiento de las obligaciones previstas en esta [Ley](articulo-2.md), el [Reglamento](articulo-2.md), Normas Oficiales Mexicanas que al efecto expida y en las demás disposiciones aplicables.

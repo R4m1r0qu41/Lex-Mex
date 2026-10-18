@@ -17,7 +17,7 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 67
 
-Obligaciones de los defensores en justicia para adolescentes La defensa, además de las obligaciones y atribuciones previstas por la Constitución, los Tratados Internacionales de los que el Estado mexicano sea parte, el Código Nacional y las leyes aplicables, tendrán las siguientes:
+Obligaciones de los defensores en justicia para adolescentes La defensa, además de las obligaciones y atribuciones previstas por la [Constitución](articulo-3.md), los Tratados Internacionales de los que el Estado mexicano sea parte, el [Código Nacional](articulo-3.md) y las leyes aplicables, tendrán las siguientes:
 
 I. Realizar entrevistas para mantener comunicación constante con la persona adolescente y con sus responsables para informarles del estado del procedimiento;
 

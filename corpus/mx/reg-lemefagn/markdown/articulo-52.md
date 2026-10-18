@@ -17,7 +17,7 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 52
 
-Los organismos podrán proponer a la Dirección y Rectoría la creación de otras Instituciones Educativas, Jefaturas de Curso o Cursos, para lo cual deberán presentar un estudio de apoyo y viabilidad debidamente fundado y motivado que contenga, por lo menos, la información siguiente:
+Los organismos podrán proponer a la Dirección y Rectoría la creación de otras [Instituciones Educativas](articulo-3.md), Jefaturas de Curso o Cursos, para lo cual deberán presentar un estudio de apoyo y viabilidad debidamente fundado y motivado que contenga, por lo menos, la información siguiente:
 
 I. Necesidades específicas que serán satisfechas mediante la creación de la Institución Educativa, Jefatura de Curso o Curso;
 

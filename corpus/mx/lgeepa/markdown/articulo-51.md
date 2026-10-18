@@ -23,6 +23,6 @@ En estas áreas se permitirán y, en su caso, se restringirán o prohibirán las
 
 Las autorizaciones, concesiones o permisos para el aprovechamiento de los recursos naturales en estas áreas, así como el tránsito de embarcaciones en la zona o la construcción o utilización de infraestructura dentro de la misma, quedarán sujetas a lo que dispongan los Programas de Manejo y las declaratorias correspondientes.
 
-Para el establecimiento, administración y vigilancia de las áreas naturales protegidas establecidas en las zonas marinas mexicanas, así como para la elaboración de su programa de manejo, se deberán coordinar, atendiendo a sus respectivas competencias, la Secretaría y la Secretaría de Marina. En todos los casos queda prohibida la introducción de especies exóticas invasoras. Párrafo reformado DOF 24-05-2013
+Para el establecimiento, administración y vigilancia de las áreas naturales protegidas establecidas en las zonas marinas mexicanas, así como para la elaboración de su programa de manejo, se deberán coordinar, atendiendo a sus respectivas competencias, la [Secretaría](articulo-3o.md) y la Secretaría de Marina. En todos los casos queda prohibida la introducción de especies exóticas invasoras. Párrafo reformado DOF 24-05-2013
 
 Artículo reformado DOF 13-12-1996, 12-02-2007

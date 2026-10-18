@@ -19,6 +19,6 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 También comete el delito de tortura el particular que:
 
-I. Con la autorización, el apoyo o la aquiescencia de un Servidor Público cometa alguna de las conductas descritas en el [artículo anterior](articulo-24.md), o
+I. Con la autorización, el apoyo o la aquiescencia de un [Servidor Público](articulo-5.md) cometa alguna de las conductas descritas en el [artículo anterior](articulo-24.md), o
 
 II. Con cualquier grado de autoría o participación, intervenga en la comisión de alguna de las conductas descritas en el [artículo anterior](articulo-24.md).

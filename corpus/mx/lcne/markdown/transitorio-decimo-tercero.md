@@ -15,8 +15,8 @@ source_sha256: 7c13fd20564f1e7230268a0943cc226368b24c44886d6738c479f4c42cbe77de
 
 # Décimo Tercero
 
-La Cámara de Diputados debe realizar las previsiones presupuestales necesarias para el efecto de que la Comisión cuente con el presupuesto necesario para iniciar sus funciones.
+La Cámara de Diputados debe realizar las previsiones presupuestales necesarias para el efecto de que la [Comisión](articulo-6.md) cuente con el presupuesto necesario para iniciar sus funciones.
 
-Los recursos humanos, financieros y materiales con que cuenten las Comisiones Reguladora de Energía y Nacional de Hidrocarburos, que estén relacionadas con las funciones que se transfieren o asignan a la Comisión y a la Secretaría, se transfieren a la Secretaría o a la Comisión, según corresponda, a fin de apoyar el cumplimiento de sus funciones.
+Los recursos humanos, financieros y materiales con que cuenten las Comisiones Reguladora de Energía y Nacional de Hidrocarburos, que estén relacionadas con las funciones que se transfieren o asignan a la Comisión y a la [Secretaría](articulo-6.md), se transfieren a la Secretaría o a la Comisión, según corresponda, a fin de apoyar el cumplimiento de sus funciones.
 
 ARTÍCULO NOVENO Y ARTÍCULO DÉCIMO.- ………..

@@ -17,7 +17,7 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 98
 
-Las Instituciones Educativas y las Jefaturas de Curso, para realizar el proceso educativo, llevarán a cabo la organización de las personas discentes en grupos pedagógicos que permitan desarrollar óptimamente el proceso enseñanza-aprendizaje, considerando entre otros aspectos, los siguientes: Párrafo reformado DOF 20-03-2026
+Las [Instituciones Educativas](articulo-3.md) y las Jefaturas de Curso, para realizar el proceso educativo, llevarán a cabo la organización de las personas discentes en grupos pedagógicos que permitan desarrollar óptimamente el proceso enseñanza-aprendizaje, considerando entre otros aspectos, los siguientes: Párrafo reformado DOF 20-03-2026
 
 I. El tipo y modalidad educativa;
 

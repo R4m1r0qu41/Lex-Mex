@@ -17,6 +17,6 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 119 Bis 14
 
-Para efectos de trazabilidad, las normas oficiales mexicanas y demás disposiciones jurídicas relativas a buenas prácticas pesqueras, acuícolas y de manufactura que expida la Secretaría, establecerán los requisitos que deberán contener las etiquetas de los recursos, partes y derivados de origen pesquero o acuícola, para consumo humano.
+Para efectos de trazabilidad, las normas oficiales mexicanas y demás disposiciones jurídicas relativas a buenas prácticas pesqueras, acuícolas y de manufactura que expida la [Secretaría](articulo-4o.md), establecerán los requisitos que deberán contener las etiquetas de los recursos, partes y derivados de origen pesquero o acuícola, para consumo humano.
 
 Artículo adicionado DOF 30-05-2012

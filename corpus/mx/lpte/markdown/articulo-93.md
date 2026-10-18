@@ -17,4 +17,4 @@ source_sha256: c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41
 
 # Artículo 93
 
-La Comisión Nacional de Energía puede sancionar con multa de veinticinco a setenta y cinco mil veces el valor de la Unidad de Medida y Actualización vigente, a la suministradora de electricidad o distribuidora de gas natural que niegue el servicio de cobranza derivado de los convenios establecidos a los que se refiere el artículo [70](articulo-70.md) de esta Ley.
+La Comisión Nacional de Energía puede sancionar con multa de veinticinco a setenta y cinco mil veces el valor de la Unidad de Medida y Actualización vigente, a la suministradora de electricidad o distribuidora de gas natural que niegue el servicio de cobranza derivado de los convenios establecidos a los que se refiere el artículo [70](articulo-70.md) de esta [Ley](articulo-3.md).

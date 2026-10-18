@@ -17,6 +17,6 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 116
 
-La planeación de la admisión preverá las acciones y la secuencia de su realización, que permita garantizar el eficiente desarrollo del proceso de admisión al Sistema, para captar a las personas aspirantes que cumplan los requisitos de ingreso.
+La planeación de la admisión preverá las acciones y la secuencia de su realización, que permita garantizar el eficiente desarrollo del proceso de admisión al [Sistema](articulo-3.md), para captar a las personas aspirantes que cumplan los requisitos de ingreso.
 
 Artículo reformado DOF 20-03-2026

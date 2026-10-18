@@ -21,6 +21,6 @@ La pesca de consumo doméstico que efectúen los residentes en las riberas y en 
 
 Sólo podrá efectuarse con redes y líneas manuales que pueda utilizar individualmente el pescador, observando y respetando las vedas y las normas oficiales que se expidan. Tratándose de zonas concesionadas se podrá practicar la pesca de consumo doméstico, siempre y cuando no se capturen las especies materia de las concesiones otorgadas a terceros.
 
-En los casos que se requiera, la Secretaría establecerá, en normas oficiales, las artes de pesca de consumo doméstico y sus especificaciones técnicas, considerando entre otros aspectos, las condiciones biológicas, tecnológicas y ambientales.
+En los casos que se requiera, la [Secretaría](articulo-4o.md) establecerá, en normas oficiales, las artes de pesca de consumo doméstico y sus especificaciones técnicas, considerando entre otros aspectos, las condiciones biológicas, tecnológicas y ambientales.
 
 Las cantidades permitidas por pesquería o especie se especificarán en el reglamento de la presente Ley, y en las normas correspondientes.

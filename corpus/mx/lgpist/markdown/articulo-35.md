@@ -17,13 +17,13 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 # Artículo 35
 
-Las Fiscalías Especializadas, además de lo dispuesto en el Código Nacional de Procedimientos Penales, una vez que tengan conocimiento de la probable comisión del delito de tortura, deberán llevar a cabo, entre otras, las siguientes acciones: Párrafo reformado DOF 20-05-2021
+Las [Fiscalías Especializadas](articulo-5.md), además de lo dispuesto en el Código Nacional de Procedimientos Penales, una vez que tengan conocimiento de la probable comisión del delito de tortura, deberán llevar a cabo, entre otras, las siguientes acciones: Párrafo reformado DOF 20-05-2021
 
 I. Iniciar de manera inmediata la investigación por el delito de tortura;
 
-II. Comenzar con la integración de la carpeta de investigación correspondiente, incluyendo las declaraciones del denunciante o Víctima alegada del delito y los testigos;
+II. Comenzar con la integración de la carpeta de investigación correspondiente, incluyendo las declaraciones del denunciante o [Víctima](articulo-5.md) alegada del delito y los testigos;
 
-III. Realizar el registro del hecho en el Registro Nacional;
+III. Realizar el registro del hecho en el [Registro Nacional](articulo-5.md);
 
 IV. Informarán a la persona denunciante de su derecho a contar con un asesor jurídico; V. Solicitar a las autoridades competentes el resguardo del probable lugar de los hechos y solicitarán a los peritos su intervención para el procesamiento del mismo;
 

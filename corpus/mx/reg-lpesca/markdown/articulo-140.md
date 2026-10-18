@@ -17,4 +17,4 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # Artículo 140
 
-La Secretaría procederá a la revocación de la concesión, permiso o autorización en los casos previstos en el artículo 17 de la Ley.
+La [Secretaría](articulo-2o.md) procederá a la revocación de la concesión, permiso o autorización en los casos previstos en el artículo 17 de la [Ley](articulo-2o.md).

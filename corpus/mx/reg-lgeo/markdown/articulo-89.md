@@ -17,4 +17,4 @@ source_sha256: b19bcf104673af06117a6d4f3c947591f7a65999f19bad3dcfe2599a29bb3ab0
 
 # Artículo 89
 
-De acuerdo con lo establecido en los artículos [7](../../lgeo/markdown/articulo-7.md), fracción VIII, [31](../../lgeo/markdown/articulo-31.md) y [35](../../lgeo/markdown/articulo-35.md) de la Ley, la Secretaría puede dar por terminados anticipadamente los Permisos de Exploración, Permisos para Usos Diversos o las Concesiones, en atención al aviso que presente la persona titular del Permiso o Concesión, entre otras, sobre la disminución de sus capacidades y la renuncia solicitada por la persona titular.
+De acuerdo con lo establecido en los artículos [7](../../lgeo/markdown/articulo-7.md), fracción VIII, [31](../../lgeo/markdown/articulo-31.md) y [35](../../lgeo/markdown/articulo-35.md) de la [Ley](articulo-3.md), la [Secretaría](articulo-3.md) puede dar por terminados anticipadamente los Permisos de Exploración, Permisos para Usos Diversos o las Concesiones, en atención al aviso que presente la persona titular del Permiso o Concesión, entre otras, sobre la disminución de sus capacidades y la renuncia solicitada por la persona titular.

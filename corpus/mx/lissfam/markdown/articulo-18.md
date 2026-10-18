@@ -17,7 +17,7 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 18
 
-Las prestaciones que se otorgarán con arreglo a esta Ley son las siguientes:
+Las prestaciones que se otorgarán con arreglo a esta [Ley](articulo-4o.md) son las siguientes:
 
 I. Haber de retiro;
 

@@ -17,4 +17,4 @@ source_sha256: aa96853f010885bdf85160e944e5c0ef5c3c8e95422dfede280d228cf064310a
 
 # Artículo 130
 
-El Fondo de Servicio Universal Energético se integra por el excedente de ingresos que resulte de la gestión de pérdidas técnicas en el Mercado Eléctrico Mayorista en los términos de las Reglas del Mercado, hasta en tanto se cumplan los objetivos nacionales de Justicia Energética y combate a la Pobreza Energética. Asimismo, el Fondo de Servicio Universal Energético puede recibir donativos de terceras personas para cumplir sus objetivos.
+El Fondo de Servicio Universal Energético se integra por el excedente de ingresos que resulte de la gestión de pérdidas técnicas en el [Mercado Eléctrico Mayorista](articulo-3.md) en los términos de las [Reglas del Mercado](articulo-3.md), hasta en tanto se cumplan los objetivos nacionales de [Justicia Energética](articulo-3.md) y combate a la [Pobreza Energética](articulo-3.md). Asimismo, el Fondo de Servicio Universal Energético puede recibir donativos de terceras personas para cumplir sus objetivos.

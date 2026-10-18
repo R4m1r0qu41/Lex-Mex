@@ -17,6 +17,6 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 377
 
-En caso de que sea presentada una contrapropuesta, el Instituto citará a las partes a una primera reunión de negociación, en sus instalaciones.
+En caso de que sea presentada una contrapropuesta, el [Instituto](articulo-4.md) citará a las partes a una primera reunión de negociación, en sus instalaciones.
 
 De la reunión se levantará acta circunstanciada, firmada por las personas que intervinieron en ella y se integrará al expediente respectivo. La falta de firma de alguna de las partes no afectará la validez del acta respectiva. Párrafo reformado DOF 03-04-2026

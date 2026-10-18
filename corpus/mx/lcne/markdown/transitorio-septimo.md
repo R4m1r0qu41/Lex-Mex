@@ -15,4 +15,4 @@ source_sha256: 7c13fd20564f1e7230268a0943cc226368b24c44886d6738c479f4c42cbe77de
 
 # Séptimo
 
-Todas las disposiciones, normas, lineamientos, políticas, criterios y demás normatividad emitida por la Comisión Reguladora de Energía y la Comisión Nacional de Hidrocarburos continúan en vigor en lo que no se opongan a la presente Ley, sin perjuicio de que sean adecuadas, modificadas o sustituidas, en términos de las disposiciones de esta Ley y las demás aplicables.
+Todas las disposiciones, normas, lineamientos, políticas, criterios y demás normatividad emitida por la [Comisión](articulo-6.md) Reguladora de Energía y la Comisión Nacional de Hidrocarburos continúan en vigor en lo que no se opongan a la presente Ley, sin perjuicio de que sean adecuadas, modificadas o sustituidas, en términos de las disposiciones de esta Ley y las demás aplicables.

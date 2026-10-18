@@ -15,4 +15,4 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 # Décimo Cuarto
 
-Una vez que, en términos de lo dispuesto en el Artículo Quinto Transitorio del presente Decreto, la Procuraduría General de la República comience a operar el Registro Nacional del Delito de Tortura, la Comisión Ejecutiva y las Instituciones de Procuración de Justicia, podrán suscribir convenios de colaboración para la transmisión de información de las Víctimas del delito de tortura a dicho Registro.
+Una vez que, en términos de lo dispuesto en el Artículo Quinto Transitorio del presente Decreto, la [Procuraduría](articulo-5.md) General de la República comience a operar el [Registro Nacional](articulo-5.md) del Delito de Tortura, la [Comisión Ejecutiva](articulo-5.md) y las [Instituciones de Procuración de Justicia](articulo-5.md), podrán suscribir convenios de colaboración para la transmisión de información de las [Víctimas](articulo-5.md) del delito de tortura a dicho Registro.

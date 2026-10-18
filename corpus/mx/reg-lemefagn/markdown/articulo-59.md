@@ -17,7 +17,7 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 59
 
-La evaluación institucional ofrecerá una perspectiva clara para hacer ajustes en el proceso educativo, determinará si el Sistema alcanzó sus objetivos específicos y metas señaladas, proporcionando productos de valor para mejorar la calidad educativa, y será el proceso que la Dirección y Rectoría lleve a cabo en el Sistema para:
+La evaluación institucional ofrecerá una perspectiva clara para hacer ajustes en el proceso educativo, determinará si el [Sistema](articulo-3.md) alcanzó sus objetivos específicos y metas señaladas, proporcionando productos de valor para mejorar la calidad educativa, y será el proceso que la Dirección y Rectoría lleve a cabo en el Sistema para:
 
 I. Analizar y calificar la ejecución de los Planes y Programas de estudio, conforme al modelo educativo y los indicadores de calidad establecidos, y
 

@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 99
 
-La inscripción en el Registro UPAC no tiene costo para las personas Usuarias Finales.
+La inscripción en el [Registro UPAC](articulo-5.md) no tiene costo para las personas Usuarias Finales.

@@ -17,4 +17,4 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 95
 
-Para la importación de semillas, ovas, alevines, larvas, postlarvas, cepas algales, reproductores o cualquier otro estadio de especies silvestres, cultivadas o de laboratorio, se deberá adjuntar a la solicitud el certificado de sanidad acuícola otorgado por el SENASICA. En el caso de organismos genéticamente modificados se sujetará a lo dispuesto en la Ley de Bioseguridad de Organismos Genéticamente Modificados.
+Para la importación de semillas, ovas, alevines, larvas, postlarvas, cepas algales, reproductores o cualquier otro estadio de especies silvestres, cultivadas o de laboratorio, se deberá adjuntar a la solicitud el certificado de sanidad acuícola otorgado por el [SENASICA](articulo-4o.md). En el caso de organismos genéticamente modificados se sujetará a lo dispuesto en la Ley de Bioseguridad de Organismos Genéticamente Modificados.

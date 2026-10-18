@@ -23,4 +23,4 @@ I. El incumplimiento de las obligaciones y las condiciones establecidas en ellas
 
 II. Dañar a los ecosistemas como consecuencia del uso o aprovechamiento, y
 
-III. Infringir las disposiciones previstas en la Ley, el presente ordenamiento, el programa de manejo del área protegida respectiva y las demás disposiciones legales y reglamentarias aplicables.
+III. Infringir las disposiciones previstas en la [Ley](articulo-3o.md), el presente ordenamiento, el programa de manejo del área protegida respectiva y las demás disposiciones legales y reglamentarias aplicables.

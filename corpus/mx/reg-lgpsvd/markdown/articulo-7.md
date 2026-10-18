@@ -17,6 +17,6 @@ source_sha256: a1cc8f6043c35579235fd61d2e34977e1735af4ea6919d053f89462b97742335
 
 # Artículo 7
 
-La Secretaría, a través del Secretariado Ejecutivo y la Subsecretaría, impulsará la participación de las dependencias y entidades de la Administración Pública Federal en acciones para la prevención social de la Violencia y la delincuencia, en los cuatro ámbitos que contempla la Ley.
+La [Secretaría](articulo-3.md), a través del Secretariado Ejecutivo y la [Subsecretaría](articulo-3.md), impulsará la participación de las dependencias y entidades de la Administración Pública Federal en acciones para la prevención social de la Violencia y la delincuencia, en los cuatro ámbitos que contempla la Ley.
 
 Las acciones a que se refiere el párrafo anterior, deberán comprender, entre otros, los siguientes rubros: empleo, vivienda, estrategias de salud pública, tipos y niveles educativos, y políticas de fomento de la equidad, del desarrollo social, económico y urbano, del deporte, de bienestar y de protección social.

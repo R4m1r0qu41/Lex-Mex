@@ -21,7 +21,7 @@ Los estatutos debidamente aprobados por la asamblea general de una organización
 
 I. Participar con voz y voto en las asambleas generales;
 
-II. Convocar a asamblea general ordinaria o extraordinaria en los términos de lo dispuesto por este Reglamento y sus respectivos estatutos;
+II. Convocar a asamblea general ordinaria o extraordinaria en los términos de lo dispuesto por este [Reglamento](articulo-2o.md) y sus respectivos estatutos;
 
 III. Elegir y ser electos para desempeñar los cargos en el consejo directivo, en el de vigilancia y en todas las comisiones que les designe la asamblea general, y como delegados, ante la organización ganadera inmediata superior. Para el caso de las asociaciones, se requiere que el socio tenga una antigüedad mínima de un año, contada a partir de la fecha de su aceptación por la asamblea general;
 

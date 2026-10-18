@@ -17,4 +17,4 @@ source_sha256: 43723ba379e128c1a1c1be4b085ecc870946cdec43d56f83e7314c077361368f
 
 # Artículo 7o
 
-Los exámenes para aspirante, así como el definitivo, serán elaborados por la Secretaría y se realizarán de conformidad con lo dispuesto por la Ley y este Reglamento.
+Los exámenes para aspirante, así como el definitivo, serán elaborados por la [Secretaría](articulo-2o.md) y se realizarán de conformidad con lo dispuesto por la [Ley](articulo-2o.md) y este Reglamento.

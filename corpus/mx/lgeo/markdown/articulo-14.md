@@ -17,4 +17,4 @@ source_sha256: 67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35
 
 # Artículo 14
 
-Si la persona permisionaria incumple con los informes, las actividades o las inversiones programadas a que alude el [artículo anterior](articulo-13.md), la Secretaría debe evaluar la gravedad del incumplimiento y debe determinar si aplica un apercibimiento, multa o, en su caso, revocar el Permiso correspondiente.
+Si la persona permisionaria incumple con los informes, las actividades o las inversiones programadas a que alude el [artículo anterior](articulo-13.md), la [Secretaría](articulo-2.md) debe evaluar la gravedad del incumplimiento y debe determinar si aplica un apercibimiento, multa o, en su caso, revocar el Permiso correspondiente.

@@ -17,7 +17,7 @@ source_sha256: 2a105e5201b86ff5517ca1ef8d971224ea8c717f195fdd5fa28b916c7e622e56
 
 # Artículo 21
 
-Si el Ministerio Público responsable del Procedimiento Penal advierte que una persona se encuentra en situación de riesgo o peligro por su intervención en éste, podrá dictar provisionalmente las Medidas de Protección necesarias y, el Titular de la Fiscalía correspondiente o unidad administrativa equivalente a la que pertenezca, remitirá inmediatamente, por cualquier medio idóneo, la solicitud de incorporación al Programa al Director del Centro, para que se inicie el Estudio Técnico correspondiente. Párrafo reformado DOF 20-05-2021
+Si el Ministerio Público responsable del Procedimiento Penal advierte que una persona se encuentra en situación de riesgo o peligro por su intervención en éste, podrá dictar provisionalmente las [Medidas de Protección](articulo-2.md) necesarias y, el Titular de la Fiscalía correspondiente o unidad administrativa equivalente a la que pertenezca, remitirá inmediatamente, por cualquier medio idóneo, la solicitud de incorporación al [Programa](articulo-2.md) al [Director](articulo-2.md) del [Centro](articulo-2.md), para que se inicie el [Estudio Técnico](articulo-2.md) correspondiente. Párrafo reformado DOF 20-05-2021
 
 El juez que conozca del Procedimiento Penal, tomando en consideración cuando menos lo señalado en el párrafo anterior, podrá ordenar como parte de las Medidas de Protección, que ésta sea incorporada al Programa.
 

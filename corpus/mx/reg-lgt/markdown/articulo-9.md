@@ -17,4 +17,4 @@ source_sha256: 6680a58c98673518aee46582b3137d28987c275785d1f0c97295f0d89c4b692b
 
 # Artículo 9
 
-La Secretaría podrá celebrar convenios de coordinación con los Estados, Municipios y el Distrito Federal, para efecto de definir las bases y condiciones de su participación en la Conferencia Nacional.
+La Secretaría podrá celebrar convenios de coordinación con los Estados, Municipios y el Distrito Federal, para efecto de definir las bases y condiciones de su participación en la [Conferencia Nacional](articulo-2.md).

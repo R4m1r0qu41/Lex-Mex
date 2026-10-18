@@ -15,7 +15,7 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 # Artículo 100
 
-La Secretaría, por conducto de la Agencia Federal de Aviación Civil, por sí o a petición de parte, escuchando previamente a la persona concesionaria o permisionaria, determinará si un aeródromo se encuentra en condiciones de saturación. Se considerará que existen condiciones de saturación: Párrafo reformado DOF 29-08-2025
+La [Secretaría](articulo-2.md), por conducto de la Agencia Federal de Aviación Civil, por sí o a petición de parte, escuchando previamente a la persona concesionaria o permisionaria, determinará si un aeródromo se encuentra en condiciones de saturación. Se considerará que existen condiciones de saturación: Párrafo reformado DOF 29-08-2025
 
 I. En el campo aéreo, si en más de 52 ocasiones en el año en una hora determinada:
 

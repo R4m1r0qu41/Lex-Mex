@@ -17,6 +17,6 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 82
 
-El Instituto podrá disponer y utilizar hasta el 1.0% (uno punto cero por ciento) anual del total de los recursos que integran el Fondo para el Seguro de Vida Militar, por concepto de gastos de administración y operación del mismo, para lo cual el Instituto informará a la Junta Directiva en los periodos que se determine sobre los resultados de la administración del fondo.
+El [Instituto](articulo-4o.md) podrá disponer y utilizar hasta el 1.0% (uno punto cero por ciento) anual del total de los recursos que integran el Fondo para el Seguro de Vida [Militar](articulo-4o.md), por concepto de gastos de administración y operación del mismo, para lo cual el Instituto informará a la [Junta](articulo-4o.md) Directiva en los periodos que se determine sobre los resultados de la administración del fondo.
 
 Artículo reformado DOF 20-11-2008

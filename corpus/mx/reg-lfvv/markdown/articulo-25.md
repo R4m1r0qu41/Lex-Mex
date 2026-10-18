@@ -17,4 +17,4 @@ source_sha256: 23dcee090bbe0c4fb06c75d084cb65ce0b2e8f72a8d082e7059504412bde1614
 
 # Artículo 25
 
-El Comité podrá hacer un estudio de los trabajos de fitomejoramiento realizados por el solicitante para el desarrollo y obtención de su variedad vegetal.
+El [Comité](articulo-2o.md) podrá hacer un estudio de los trabajos de fitomejoramiento realizados por el solicitante para el desarrollo y obtención de su variedad vegetal.

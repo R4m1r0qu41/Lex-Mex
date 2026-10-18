@@ -15,4 +15,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # SEGUNDO
 
-Se abroga el Reglamento de la Ley de Transición Energética, publicado el cuatro de mayo de dos mil diecisiete en el Diario Oficial de la Federación.
+Se abroga el [Reglamento](articulo-5.md) de la [Ley](articulo-5.md) de Transición Energética, publicado el cuatro de mayo de dos mil diecisiete en el Diario Oficial de la Federación.

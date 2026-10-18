@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 103
 
-La clasificación de la información se llevará a cabo en el momento en que: I. Se reciba una solicitud de acceso a la información; II. Se determine mediante resolución de autoridad competente, o III. Se generen versiones públicas para dar cumplimiento a las obligaciones de transparencia previstas en esta Ley.
+La clasificación de la información se llevará a cabo en el momento en que: I. Se reciba una solicitud de acceso a la información; II. Se determine mediante resolución de autoridad competente, o III. Se generen versiones públicas para dar cumplimiento a las obligaciones de transparencia previstas en esta [Ley](articulo-3.md).

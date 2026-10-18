@@ -15,7 +15,7 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 # Artículo 136
 
-Las tarifas específicas y sus reglas de aplicación deberán presentarse para su registro ante la Secretaría, acompañando la recomendación del comité de operación y horarios o la opinión de los usuarios, según corresponda, con un mínimo de treinta días naturales de anticipación a su aplicación, en los formatos impresos o magnéticos que, en su caso, se establezcan y publiquen en el Diario Oficial de la Federación.
+Las tarifas específicas y sus reglas de aplicación deberán presentarse para su registro ante la [Secretaría](articulo-2.md), acompañando la recomendación del comité de operación y horarios o la opinión de los usuarios, según corresponda, con un mínimo de treinta días naturales de anticipación a su aplicación, en los formatos impresos o magnéticos que, en su caso, se establezcan y publiquen en el Diario Oficial de la Federación.
 
 Cuando las tarifas presentadas a registro no se ajusten a los formatos correspondientes o a las disposiciones aplicables, serán devueltas sin registrar dentro de los diez días hábiles siguientes a su presentación.
 

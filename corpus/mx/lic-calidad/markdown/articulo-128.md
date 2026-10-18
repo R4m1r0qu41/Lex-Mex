@@ -17,6 +17,6 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 128
 
-Corresponde a las industrias productivas asegurar la trazabilidad de las mediciones que realicen, con el propósito de contribuir a la confiabilidad y uniformidad de las mediciones en coordinación, cuando resulte necesario, con el Centro Nacional de Metrología, los Institutos Designados de Metrología, los Organismos de Evaluación de la Conformidad, y las Autoridades Normalizadoras.
+Corresponde a las industrias productivas asegurar la trazabilidad de las mediciones que realicen, con el propósito de contribuir a la confiabilidad y uniformidad de las mediciones en coordinación, cuando resulte necesario, con el Centro Nacional de Metrología, los Institutos Designados de Metrología, los [Organismos de Evaluación de la Conformidad](articulo-4.md), y las [Autoridades Normalizadoras](articulo-4.md).
 
-Asimismo, las industrias productivas podrán participar en la elaboración de los Estándares relacionados con la metrología.
+Asimismo, las industrias productivas podrán participar en la elaboración de los [Estándares](articulo-4.md) relacionados con la metrología.

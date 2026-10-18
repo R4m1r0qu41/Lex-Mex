@@ -17,7 +17,7 @@ source_sha256: 2a105e5201b86ff5517ca1ef8d971224ea8c717f195fdd5fa28b916c7e622e56
 
 # Artículo 15
 
-De acuerdo con el artículo [2](articulo-2.md), fracciones IX y X, de la presente Ley, podrán incorporarse al Programa:
+De acuerdo con el artículo [2](articulo-2.md), fracciones IX y X, de la presente [Ley](articulo-2.md), podrán incorporarse al [Programa](articulo-2.md):
 
 a) Víctimas.
 
@@ -25,7 +25,7 @@ b) Ofendidos.
 
 c) Testigos.
 
-d) Testigos Colaboradores.
+d) [Testigos Colaboradores](articulo-2.md).
 
 e) Peritos.
 

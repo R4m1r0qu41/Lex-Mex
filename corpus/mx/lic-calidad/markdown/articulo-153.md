@@ -17,4 +17,4 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 153
 
-Para la imposición de las sanciones, así como para la realización de los actos de Verificación y Vigilancia, las autoridades competentes podrán actuar de oficio o en seguimiento a las denuncias de incumplimiento que les sean presentadas por cualquier persona legítima.
+Para la imposición de las sanciones, así como para la realización de los actos de [Verificación](articulo-4.md) y [Vigilancia](articulo-4.md), las autoridades competentes podrán actuar de oficio o en seguimiento a las denuncias de incumplimiento que les sean presentadas por cualquier persona legítima.

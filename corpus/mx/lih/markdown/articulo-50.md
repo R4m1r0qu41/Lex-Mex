@@ -17,6 +17,6 @@ source_sha256: 8262a75eac7bfb608d4f48657ffb2714fe115d0b9694c42ac81624fd275bf5f6
 
 # Artículo 50
 
-Para los efectos de este Título, el Asignatario debe contar con sistemas de medición de volúmenes extraídos de Petróleo, Gas Natural y sus Condensados, instalados en cada campo y punto de transferencia de custodia. La Secretaría de Energía debe emitir los lineamientos para la medición de los citados volúmenes.
+Para los efectos de este Título, el Asignatario debe contar con sistemas de medición de volúmenes extraídos de Petróleo, Gas Natural y sus [Condensados](articulo-3.md), instalados en cada campo y punto de transferencia de custodia. La [Secretaría](articulo-3.md) de Energía debe emitir los lineamientos para la medición de los citados volúmenes.
 
 Artículo reformado DOF 18-03-2025

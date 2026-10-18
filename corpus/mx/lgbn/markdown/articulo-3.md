@@ -23,7 +23,7 @@ I.- Los señalados en los artículos [27](../../cpeum/markdown/articulo-27.md), 
 
 II.- Los bienes de uso común a que se refiere el artículo [7](articulo-7.md) de esta Ley;
 
-III.- Los bienes muebles e inmuebles de la Federación;
+III.- Los bienes muebles e inmuebles de la [Federación](articulo-2.md);
 
 IV.- Los bienes muebles e inmuebles propiedad de las entidades; V.- Los bienes muebles e inmuebles propiedad de las instituciones de carácter federal con personalidad jurídica y patrimonio propios a las que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía, y
 

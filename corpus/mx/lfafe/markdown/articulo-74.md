@@ -17,6 +17,6 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 74
 
-Se prohíben los remates de las armas, objetos y materiales mencionados en esta Ley. Se exceptúan los administrativos y judiciales, en cuyo caso, las respectivas autoridades deben comunicarlo a la Secretaría, la que puede designar un representante que asista al acto. Sólo pueden ser postores las personas o negociaciones que tengan permiso de la Secretaría.
+Se prohíben los remates de las armas, objetos y materiales mencionados en esta [Ley](articulo-1o-Bis.md). Se exceptúan los administrativos y judiciales, en cuyo caso, las respectivas autoridades deben comunicarlo a la [Secretaría](articulo-1o-Bis.md), la que puede designar un representante que asista al acto. Sólo pueden ser postores las personas o negociaciones que tengan permiso de la Secretaría.
 
 Artículo reformado DOF 29-05-2025

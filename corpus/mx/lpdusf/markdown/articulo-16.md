@@ -17,4 +17,4 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 16
 
-La Comisión Nacional contará con una Junta de Gobierno, así como con un Presidente, a quienes corresponderá su dirección y administración, en el ámbito de las facultades que la presente Ley les confiere.
+La [Comisión Nacional](articulo-2o.md) contará con una [Junta](articulo-2o.md) de Gobierno, así como con un [Presidente](articulo-2o.md), a quienes corresponderá su dirección y administración, en el ámbito de las facultades que la presente Ley les confiere.

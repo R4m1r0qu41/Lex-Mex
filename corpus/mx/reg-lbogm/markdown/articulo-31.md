@@ -105,7 +105,7 @@ j) Cuando el OGM se use como alimento o para procesamiento de alimentos:
 
 3. Cualquier cambio introducido en el OGM que pueda alterar la forma en que éste interactúa con la matriz alimentaria y, cuando aplique, en la luz intestinal y con los microorganismos que cohabitan la luz intestinal; 4. Desarrollo de la expresión del transgen durante el ciclo de vida de la planta y partes donde el inserto es expresado, y
 
-5. Estudios de equivalencia sustancial aplicado a condiciones de uso o consumo en México, que incluya:
+5. Estudios de equivalencia sustancial aplicado a condiciones de uso o consumo en [México](articulo-2.md), que incluya:
 
 i. Contenido de proteína verdadera, nitrógeno no proteico, perfil de aminoácidos;
 
@@ -167,6 +167,6 @@ ii. Estudios sobre la estabilidad de los genes insertados, y
 
 iii. Estudios de equivalencia substancial, y
 
-II. En caso de solicitudes de autorización de un OGM para poder realizar su importación para las finalidades a que se refiere el artículo [91](../../lbogm/markdown/articulo-91.md) de la Ley, la información y documentación que acredite que el OGM esté autorizado conforme la legislación del país de origen o, en su defecto, manifestación del interesado de la inexistencia de dicha situación y exposición de los elementos de consideración que sustenten el que SALUD pueda resolver la solicitud de autorización, y
+II. En caso de solicitudes de autorización de un OGM para poder realizar su importación para las finalidades a que se refiere el artículo [91](../../lbogm/markdown/articulo-91.md) de la [Ley](articulo-2.md), la información y documentación que acredite que el OGM esté autorizado conforme la legislación del país de origen o, en su defecto, manifestación del interesado de la inexistencia de dicha situación y exposición de los elementos de consideración que sustenten el que [SALUD](articulo-2.md) pueda resolver la solicitud de autorización, y
 
-III. Los demás requisitos que determine SALUD en las NOM que deriven de la Ley.
+III. Los demás requisitos que determine SALUD en las [NOM](articulo-2.md) que deriven de la Ley.

@@ -15,4 +15,4 @@ source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 
 # Artículo 28
 
-El Procurador Federal del Consumidor será designado por el Presidente de la República y deberá ser ciudadano mexicano y tener título de licenciado en derecho y haberse desempeñado en forma destacada en cuestiones profesionales, de servicio público, o académicas substancialmente relacionadas con el objeto de esta ley.
+El Procurador Federal del [Consumidor](articulo-2.md) será designado por el Presidente de la República y deberá ser ciudadano mexicano y tener título de licenciado en derecho y haberse desempeñado en forma destacada en cuestiones profesionales, de servicio público, o académicas substancialmente relacionadas con el objeto de esta ley.

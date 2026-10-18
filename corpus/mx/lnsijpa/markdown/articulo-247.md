@@ -19,6 +19,6 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 Efectos Los efectos de la sentencia podrán ser la confirmación o nulidad de la sentencia; en este último caso se determinará la reposición total o parcial del procedimiento.
 
-En los casos en que se determine la reposición total del procedimiento, deberá conocer un juzgado de ejecución distinto, para salvar el principio de inmediación y el deber de objetividad del Órgano Jurisdiccional.
+En los casos en que se determine la reposición total del procedimiento, deberá conocer un juzgado de ejecución distinto, para salvar el principio de inmediación y el deber de objetividad del [Órgano Jurisdiccional](articulo-3.md).
 
 En los casos de reposición parcial, el tribunal de apelación determinará si debe conocer un Órgano Jurisdiccional diferente o el mismo. No podrá determinarse la reposición del procedimiento, cuando se recurra únicamente por la inobservancia de derechos procesales que no vulneren derechos fundamentales o no trasciendan a la resolución.

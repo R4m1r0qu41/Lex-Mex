@@ -17,4 +17,4 @@ source_sha256: d8dd1de3627b899bb4faf31c2812c3d5f14f7108be153d5aa8dd549b9136184a
 
 # Artículo 15
 
-El objetivo general del Sistema Nacional es el de proteger a la persona y a la sociedad y su entorno ante la eventualidad de los riesgos y peligros que representan los agentes perturbadores y la vulnerabilidad en el corto, mediano o largo plazo, provocada por fenómenos naturales o antropogénicos, a través de la gestión integral de riesgos y el fomento de la capacidad de adaptación, auxilio y restablecimiento en la población.
+El objetivo general del [Sistema Nacional](articulo-2.md) es el de proteger a la persona y a la sociedad y su entorno ante la eventualidad de los riesgos y peligros que representan los agentes perturbadores y la vulnerabilidad en el corto, mediano o largo plazo, provocada por fenómenos naturales o antropogénicos, a través de la gestión integral de riesgos y el fomento de la capacidad de adaptación, auxilio y restablecimiento en la población.

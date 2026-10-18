@@ -15,6 +15,6 @@ source_sha256: 0a9852297132d8972d0c2f77e1b67d614bd296632109065e703bd09254187aea
 
 # Tercero
 
-La Secretaría deberá integrar el Registro Nacional de Detenciones e instalar el Sistema de Consulta, dentro de los 180 días naturales siguientes a la entrada en vigor del presente Decreto. Los datos y demás elementos del Registro Administrativo de Detenciones pasarán a formar parte del Registro Nacional de Detenciones.
+La [Secretaría](articulo-2.md) deberá integrar el [Registro](articulo-2.md) Nacional de Detenciones e instalar el [Sistema de Consulta](articulo-2.md), dentro de los 180 días naturales siguientes a la entrada en vigor del presente Decreto. Los datos y demás elementos del Registro Administrativo de Detenciones pasarán a formar parte del Registro Nacional de Detenciones.
 
 En tanto no esté en operación el Registro Nacional de Detenciones, seguirá en funcionamiento el Registro Administrativo a cargo del Sistema Nacional de Seguridad Pública.

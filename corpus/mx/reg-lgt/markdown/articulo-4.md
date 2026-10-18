@@ -19,9 +19,9 @@ source_sha256: 6680a58c98673518aee46582b3137d28987c275785d1f0c97295f0d89c4b692b
 
 La Secretaría colaborará con las dependencias y entidades de la Administración Pública Federal y se coordinará con los Estados, Municipios y el Distrito Federal, para instrumentar las siguientes acciones en el ámbito de sus respectivas competencias:
 
-I. El impulso, fomento y desarrollo del Turismo;
+I. El impulso, fomento y desarrollo del [Turismo](articulo-2.md);
 
-II. El cumplimiento de los instrumentos de política ambiental y Ordenamiento Turístico del Territorio, así como las acciones de planeación, programación, fomento y desarrollo del Turismo; III. La identificación, con base en las evaluaciones periódicas realizadas por la autoridad competente, de las necesidades que permitan fortalecer la comunicación con los diferentes Destinos Turísticos en:
+II. El cumplimiento de los instrumentos de política ambiental y Ordenamiento Turístico del Territorio, así como las acciones de planeación, programación, fomento y desarrollo del Turismo; III. La identificación, con base en las evaluaciones periódicas realizadas por la autoridad competente, de las necesidades que permitan fortalecer la comunicación con los diferentes [Destinos Turísticos](articulo-2.md) en:
 
 a) Rutas terrestres, aéreas o marítimas;
 
@@ -41,9 +41,9 @@ c) Mejoramiento integral de los Destinos Turísticos, los cuales deberán inclui
 
 1) La planeación urbana, entendiendo por ésta a los instrumentos técnicos y normativos de organización, modificación y conservación del uso de suelo;
 
-2) La Infraestructura Urbana;
+2) La [Infraestructura Urbana](articulo-2.md);
 
-3) El Equipamiento Urbano;
+3) El [Equipamiento Urbano](articulo-2.md);
 
 4) La Imagen Urbana, entendiendo por ésta al marco visual de una ciudad integrado por los diferentes elementos naturales y los construidos por el ser humano, y
 
@@ -55,7 +55,7 @@ e) Prevención y eliminación de toda forma de discriminación en la prestación
 
 f) Difusión cultural que contribuya a la diversificación de los Atractivos y Servicios Turísticos;
 
-V. La formulación de las bases de coordinación entre los tres órdenes de gobierno para la regulación, administración y vigilancia de las Zonas de Desarrollo Turístico Sustentable, en los términos de las declaratorias que para tal efecto expida el titular del Ejecutivo Federal;
+V. La formulación de las bases de coordinación entre los tres órdenes de gobierno para la regulación, administración y vigilancia de las Zonas de [Desarrollo Turístico](articulo-2.md) Sustentable, en los términos de las declaratorias que para tal efecto expida el titular del Ejecutivo Federal;
 
 VI. La promoción de eventos turísticos que se celebren en territorio nacional e internacional, a fin de que los Prestadores de Servicios Turísticos comercialicen sus productos ante los mercados participantes;
 

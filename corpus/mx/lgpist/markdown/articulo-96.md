@@ -17,4 +17,4 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 # Artículo 96
 
-La protección de las Víctimas del delito de tortura, de los intervinientes o colaboradores en un procedimiento penal, así como de las personas o familiares cercanas a todos ellos, se otorgará en términos de lo dispuesto en la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal.
+La protección de las [Víctimas](articulo-5.md) del delito de tortura, de los intervinientes o colaboradores en un procedimiento penal, así como de las personas o familiares cercanas a todos ellos, se otorgará en términos de lo dispuesto en la [Ley](articulo-5.md) Federal para la Protección a Personas que Intervienen en el Procedimiento Penal.

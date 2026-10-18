@@ -17,6 +17,6 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 49
 
-La Dirección de la institución educativa acreditará la aprobación de los exámenes, conforme a lo establecido en su reglamento, para que, por conducto de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército, Fuerza Aérea y Guardia Nacional se remita a la Dirección respectiva la constancia que corresponda, se giren las órdenes de ascenso y se expidan las patentes a las personas interesadas.
+La [Dirección](articulo-5.md) de la institución educativa acreditará la aprobación de los exámenes, conforme a lo establecido en su reglamento, para que, por conducto de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército, Fuerza Aérea y Guardia Nacional se remita a la Dirección respectiva la constancia que corresponda, se giren las órdenes de ascenso y se expidan las patentes a las personas interesadas.
 
 Artículo reformado DOF 20-03-2026

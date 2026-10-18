@@ -17,4 +17,4 @@ source_sha256: bcc21844355854fe331c842c21436d721d6c2856b5c5986715fe39f4a845b317
 
 # Artículo 22
 
-El Sistema contará con un Consejo Ciudadano con el objeto de asegurar su independencia y una política editorial imparcial y objetiva en su gestión, para lo cual contará con facultades de opinión y asesoría de las acciones, políticas, programas y proyectos que desarrolle el sistema.
+El [Sistema](articulo-2.md) contará con un [Consejo Ciudadano](articulo-2.md) con el objeto de asegurar su independencia y una política editorial imparcial y objetiva en su gestión, para lo cual contará con facultades de opinión y asesoría de las acciones, políticas, programas y proyectos que desarrolle el sistema.

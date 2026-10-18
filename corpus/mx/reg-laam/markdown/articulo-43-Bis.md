@@ -17,10 +17,10 @@ source_sha256: 8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca
 
 # Artículo 43 Bis
 
-Al término de la obtención de la información, la Jefatura de Operaciones: Párrafo reformado DOF 02-04-2026
+Al término de la obtención de la información, la [Jefatura de Operaciones](articulo-5.md): Párrafo reformado DOF 02-04-2026
 
 I. Integrará los resultados en la lista correspondiente, e Fracción reformada DOF 02-04-2026
 
-II. Informará al Alto Mando de los mismos, incorporando la lista, expedientes y demás documentación comprobatoria del personal.
+II. Informará al [Alto Mando](articulo-5.md) de los mismos, incorporando la lista, expedientes y demás documentación comprobatoria del personal.
 
 Artículo adicionado DOF 22-09-2010

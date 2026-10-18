@@ -17,9 +17,9 @@ source_sha256: 67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35
 
 # Artículo 7
 
-Son atribuciones de la Secretaría, las siguientes:
+Son atribuciones de la [Secretaría](articulo-2.md), las siguientes:
 
-I. Regular y promover la Exploración y Explotación de Áreas Geotérmicas y la preservación de los Yacimientos Geotérmicos de la Nación;
+I. Regular y promover la [Exploración](articulo-2.md) y [Explotación](articulo-2.md) de [Áreas Geotérmicas](articulo-2.md) y la preservación de los [Yacimientos Geotérmicos](articulo-2.md) de la Nación;
 
 II. Fomentar acciones en la industria geotérmica que coadyuven a los objetivos y metas del Sector Energético, la Justicia Energética y para la atención de la Pobreza Energética;
 
@@ -27,19 +27,19 @@ III. Opinar, con carácter vinculante, ante las dependencias y entidades de la A
 
 IV. Participar con las dependencias y entidades competentes, en la elaboración de las Normas Oficiales Mexicanas relacionadas a la industria geotérmica;
 
-V. Promover el desarrollo de proyectos de generación de energía eléctrica y de Usos Diversos a partir de energía geotérmica, a fin de optimizar el aprovechamiento de este recurso a nivel nacional;
+V. Promover el desarrollo de proyectos de generación de energía eléctrica y de [Usos Diversos](articulo-2.md) a partir de energía geotérmica, a fin de optimizar el aprovechamiento de este recurso a nivel nacional;
 
-VI. Emitir opiniones técnicas en términos de esta Ley y su Reglamento;
+VI. Emitir opiniones técnicas en términos de esta [Ley](articulo-2.md) y su [Reglamento](articulo-2.md);
 
-VII. Regular el Aprovechamiento Geotérmico Exento, incluyendo la recepción de avisos, en términos de esta Ley y su Reglamento;
+VII. Regular el [Aprovechamiento Geotérmico Exento](articulo-2.md), incluyendo la recepción de avisos, en términos de esta Ley y su Reglamento;
 
-VIII. Expedir Permisos de Exploración, títulos de Concesión y Permisos de Usos Diversos, resolver sobre su prórroga, modificación, revocación, caducidad o terminación, o bien, sobre la suspensión e insubsistencia de los derechos que deriven de ellos;
+VIII. Expedir Permisos de Exploración, títulos de [Concesión](articulo-2.md) y Permisos de Usos Diversos, resolver sobre su prórroga, modificación, revocación, caducidad o terminación, o bien, sobre la suspensión e insubsistencia de los derechos que deriven de ellos;
 
-IX. Resolver sobre el rescate y Reasignación de Concesiones;
+IX. Resolver sobre el rescate y [Reasignación](articulo-2.md) de Concesiones;
 
-X. Resolver sobre las controversias que se susciten entre terceras personas respecto del aprovechamiento indebido del Recurso Geotérmico, por interferencia de Concesiones previamente otorgadas;
+X. Resolver sobre las controversias que se susciten entre terceras personas respecto del aprovechamiento indebido del [Recurso Geotérmico](articulo-2.md), por interferencia de Concesiones previamente otorgadas;
 
-XI. Solicitar y recibir, durante la vigencia del Permiso de Exploración, Concesión o Permiso para Usos Diversos respectivo, la información derivada de la etapa de Exploración y Explotación de áreas y Yacimientos Geotérmicos;
+XI. Solicitar y recibir, durante la vigencia del [Permiso de Exploración](articulo-2.md), Concesión o [Permiso para Usos Diversos](articulo-2.md) respectivo, la información derivada de la etapa de Exploración y Explotación de áreas y Yacimientos Geotérmicos;
 
 XII. Evaluar y, en su caso, autorizar la realización de labores de Explotación conjunta, cuando exista acuerdo entre las personas titulares de las Concesiones correspondientes;
 

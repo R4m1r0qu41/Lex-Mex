@@ -17,4 +17,4 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 156
 
-La incorporación a los programas de protección de personas a que se refiere el artículo [153](articulo-153.md) de esta Ley debe ser autorizada por el agente del Ministerio Público encargado de la investigación o por los titulares de las Fiscalías Especializadas correspondientes.
+La incorporación a los programas de protección de personas a que se refiere el artículo [153](articulo-153.md) de esta Ley debe ser autorizada por el agente del Ministerio Público encargado de la investigación o por los titulares de las [Fiscalías Especializadas](articulo-4.md) correspondientes.

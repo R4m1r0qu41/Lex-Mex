@@ -17,4 +17,4 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 70
 
-De los Órganos Jurisdiccionales Especializados en adolescentes Además de las facultades y atribuciones previstas en el Código de Procedimientos, la Ley de Ejecución y otras disposiciones aplicables, los Jueces de Control, los Tribunales de Juicio Oral, los Jueces de Ejecución y los Magistrados Especializados en Justicia para Adolescentes de la Federación, y de las entidades federativas tendrán las facultades que les confiere esta Ley.
+De los [Órganos Jurisdiccionales](articulo-3.md) Especializados en adolescentes Además de las facultades y atribuciones previstas en el Código de Procedimientos, la [Ley](articulo-3.md) de Ejecución y otras disposiciones aplicables, los Jueces de Control, los Tribunales de Juicio Oral, los Jueces de Ejecución y los Magistrados Especializados en Justicia para [Adolescentes](articulo-3.md) de la Federación, y de las entidades federativas tendrán las facultades que les confiere esta Ley.

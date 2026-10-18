@@ -17,4 +17,4 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 57
 
-La Comisión proveerá lo conducente para prevenir y eliminar las barreras a la libre concurrencia y la competencia económica, en las proporciones necesarias para eliminar los efectos anticompetitivos, a través de los procedimientos previstos en esta Ley.
+La [Comisión](articulo-3.md) proveerá lo conducente para prevenir y eliminar las barreras a la libre concurrencia y la competencia económica, en las proporciones necesarias para eliminar los efectos anticompetitivos, a través de los procedimientos previstos en esta Ley.

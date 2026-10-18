@@ -17,7 +17,7 @@ source_sha256: 7b3cf7a0ff59f76503a97a535457c4a7dd3b1305e7a36f4fca82bd661eab1168
 
 # Artículo 73
 
-El Gobierno de México supervisará, en todo momento, el cumplimiento por parte de los Agentes Extranjeros de las obligaciones legales y de aquellas que deriven de los convenios bilaterales suscritos por el Estado mexicano en materia de seguridad y que contribuyan a preservar la Seguridad Nacional.
+El Gobierno de México supervisará, en todo momento, el cumplimiento por parte de los [Agentes Extranjeros](articulo-6.md) de las obligaciones legales y de aquellas que deriven de los convenios bilaterales suscritos por el Estado mexicano en materia de seguridad y que contribuyan a preservar la Seguridad Nacional.
 
 Cuando a juicio de las autoridades mexicanas un agente extranjero incumpla con las disposiciones generales y específicas que le resulten aplicables, el Gobierno de México solicitará su retiro al gobierno del Estado acreditante y quedará sujeto a las sanciones que resulten aplicables en términos de las leyes mexicanas.
 

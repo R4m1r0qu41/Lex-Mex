@@ -17,9 +17,9 @@ source_sha256: 7c13fd20564f1e7230268a0943cc226368b24c44886d6738c479f4c42cbe77de
 
 # Artículo 18
 
-El Comité Técnico de la Comisión se integra por las personas titulares de:
+El Comité Técnico de la [Comisión](articulo-6.md) se integra por las personas titulares de:
 
-I. La Secretaría, quien lo preside y tiene voto de calidad; II. La Subsecretaría de Electricidad de la Secretaría;
+I. La [Secretaría](articulo-6.md), quien lo preside y tiene voto de calidad; II. La Subsecretaría de Electricidad de la Secretaría;
 
 III. La Subsecretaría de Hidrocarburos de la Secretaría;
 

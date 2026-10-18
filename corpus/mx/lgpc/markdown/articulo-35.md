@@ -17,4 +17,4 @@ source_sha256: d8dd1de3627b899bb4faf31c2812c3d5f14f7108be153d5aa8dd549b9136184a
 
 # Artículo 35
 
-El Programa Nacional, en el marco del Plan Nacional de Desarrollo, es el conjunto de objetivos, políticas, estrategias, líneas de acción y metas para cumplir con el objetivo del Sistema Nacional, según lo dispuesto por la Ley de Planeación.
+El [Programa Nacional](articulo-2.md), en el marco del Plan Nacional de Desarrollo, es el conjunto de objetivos, políticas, estrategias, líneas de acción y metas para cumplir con el objetivo del [Sistema Nacional](articulo-2.md), según lo dispuesto por la Ley de Planeación.

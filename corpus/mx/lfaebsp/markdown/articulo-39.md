@@ -21,9 +21,9 @@ La venta de los bienes se realizará preferentemente a través del procedimiento
 
 El procedimiento de remate se podrá llevar a cabo en los siguientes casos: Párrafo reformado DOF 23-02-2005
 
-I.- Cuando así lo establezcan otras disposiciones legales; II.- Cuando el valor de enajenación de los Bienes no exceda de los valores que se establezcan para tal efecto en el Reglamento; Fracción reformada DOF 09-08-2019
+I.- Cuando así lo establezcan otras disposiciones legales; II.- Cuando el valor de enajenación de los [Bienes](articulo-2o.md) no exceda de los valores que se establezcan para tal efecto en el [Reglamento](articulo-2o.md); Fracción reformada DOF 09-08-2019
 
-III.- Cuando, a juicio del Instituto, estos procedimientos aseguren las mejores condiciones al Estado, o Fracción reformada DOF 09-08-2019
+III.- Cuando, a juicio del [Instituto](articulo-2o.md), estos procedimientos aseguren las mejores condiciones al Estado, o Fracción reformada DOF 09-08-2019
 
 IV.- En los demás casos que se prevean en el Reglamento.
 

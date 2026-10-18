@@ -17,4 +17,4 @@ source_sha256: 71ee875c26fc6a1024ea9481ca0690721959514689d860112c3093f0176dfcfb
 
 # Artículo 51
 
-El Sistema procurará que los Mecanismos para el adelanto de las mujeres se coordinen con los poderes del Estado y con las instancias municipales de la mujer, con la finalidad de definir las bases para el seguimiento y evaluación del Programa.
+El Sistema procurará que los [Mecanismos para el adelanto de las mujeres](articulo-2.md) se coordinen con los poderes del Estado y con las instancias municipales de la mujer, con la finalidad de definir las bases para el seguimiento y evaluación del Programa.

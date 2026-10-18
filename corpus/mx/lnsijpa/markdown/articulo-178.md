@@ -23,7 +23,7 @@ I. Son competentes para conocer de los procedimientos de ejecución de las medid
 
 II. En las controversias sobre traslados de un Centro de Internamiento a otro, serán competentes tanto los jueces con jurisdicción en el Centro de Internamiento de origen como en el de destino, correspondiendo conocer a aquél donde se presente la controversia.
 
-III. Los conflictos competenciales en materia de ejecución de medidas de sanción se resolverán con apego a lo dispuesto en el Código Nacional.
+III. Los conflictos competenciales en materia de ejecución de medidas de sanción se resolverán con apego a lo dispuesto en el [Código Nacional](articulo-3.md).
 
 Los Jueces de Ejecución tendrán la competencia y adscripción que se determine en su respectiva ley orgánica y demás disposiciones legales.
 

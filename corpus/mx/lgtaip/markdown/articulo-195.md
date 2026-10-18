@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 195
 
-Los criterios se compondrán de un rubro, un texto y el precedente o precedentes que, en su caso, hayan originado su emisión. Todo criterio que emita la Autoridad garante federal debe contener una clave de control para su debida identificación.
+Los criterios se compondrán de un rubro, un texto y el precedente o precedentes que, en su caso, hayan originado su emisión. Todo criterio que emita la [Autoridad garante federal](articulo-3.md) debe contener una clave de control para su debida identificación.

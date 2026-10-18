@@ -17,7 +17,7 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 104
 
-Cualquier Agente Económico podrá solicitar a la Comisión una opinión formal en materia de libre concurrencia y competencia económica cuando se refiera a la aparición de cuestiones nuevas o sin resolver en relación con la aplicación de esta ley y considere que es un tema relevante.
+Cualquier [Agente Económico](articulo-3.md) podrá solicitar a la [Comisión](articulo-3.md) una opinión formal en materia de libre concurrencia y competencia económica cuando se refiera a la aparición de cuestiones nuevas o sin resolver en relación con la aplicación de esta ley y considere que es un tema relevante.
 
 La Comisión emitirá la opinión formal cuando se cumplan los siguientes requisitos:
 
@@ -35,7 +35,7 @@ La Comisión no atenderá las solicitudes de opinión formal cuando se dé cualq
 
 a) Que las cuestiones planteadas en la solicitud sean idénticas o similares a cuestiones planteadas en un asunto pendiente ante la Comisión o ante un órgano jurisdiccional;
 
-b) Que la conducta a que se refiere la solicitud esté siendo investigada por la Autoridad Investigadora o esté pendiente de un procedimiento ante la Comisión o ante un órgano jurisdiccional, o
+b) Que la conducta a que se refiere la solicitud esté siendo investigada por la [Autoridad Investigadora](articulo-3.md) o esté pendiente de un procedimiento ante la Comisión o ante un órgano jurisdiccional, o
 
 c) Cuando las cuestiones planteadas en la solicitud sean hipotéticas, y no sobre situaciones reales, concretas o que ya no sean aplicadas por las partes. Sin embargo, los Agentes Económicos podrán presentar a la Comisión una solicitud para obtener una opinión formal relativa a cuestiones planteadas en un acuerdo o una conducta que hayan proyectado y aún no se encuentre en práctica. En tal caso, la operación tiene que haber alcanzado una etapa suficientemente avanzada para que la solicitud pueda atenderse. Estas opiniones no serán consideradas para efectos de lo dispuesto en la fracción I de este artículo.
 

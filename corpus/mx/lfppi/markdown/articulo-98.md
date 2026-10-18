@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 98
 
-En el caso de que la invención se refiera a material biológico no accesible al público o a su utilización y éste no pueda ser descrito en la solicitud de patente, se considerará que la descripción es suficientemente clara y completa cuando se cumplan los siguientes requisitos: I.- Que el material biológico haya sido depositado a más tardar en la fecha de presentación de la solicitud de patente en una institución reconocida, conforme a lo establecido por los Tratados Internacionales.
+En el caso de que la invención se refiera a material biológico no accesible al público o a su utilización y éste no pueda ser descrito en la solicitud de patente, se considerará que la descripción es suficientemente clara y completa cuando se cumplan los siguientes requisitos: I.- Que el material biológico haya sido depositado a más tardar en la fecha de presentación de la solicitud de patente en una institución reconocida, conforme a lo establecido por los [Tratados Internacionales](articulo-4.md).
 
 Se considerarán reconocidas las autoridades internacionales de depósito que hayan adquirido dicho carácter, en términos de los Tratados Internacionales;
 

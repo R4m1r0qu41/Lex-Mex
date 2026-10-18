@@ -17,6 +17,6 @@ source_sha256: 43723ba379e128c1a1c1be4b085ecc870946cdec43d56f83e7314c077361368f
 
 # Artículo 59
 
-Los corredores, dentro de los sesenta días siguientes a la fecha de publicación oficial de la habilitación respectiva, deberán celebrar convenio de suplencia con otro corredor en ejercicio en la misma localidad, a fin de suplirse mutuamente durante sus ausencias. La Secretaría revisará dichos convenios o sus modificaciones, para lo cual los corredores enviarán el proyecto respectivo, y si la Secretaría no los objeta dentro de los veinte días siguientes a su recepción, éstos se entenderán aprobados.
+Los corredores, dentro de los sesenta días siguientes a la fecha de publicación oficial de la habilitación respectiva, deberán celebrar convenio de suplencia con otro corredor en ejercicio en la misma localidad, a fin de suplirse mutuamente durante sus ausencias. La [Secretaría](articulo-2o.md) revisará dichos convenios o sus modificaciones, para lo cual los corredores enviarán el proyecto respectivo, y si la Secretaría no los objeta dentro de los veinte días siguientes a su recepción, éstos se entenderán aprobados.
 
 En caso de que no exista otro corredor en la misma localidad, el convenio de suplencia deberá celebrarse con el corredor en ejercicio en la misma plaza de la localidad más cercana a su domicilio. Si el corredor no celebra convenio de suplencia dentro del plazo señalado, la Secretaría designará al corredor con quien deba celebrarlo.

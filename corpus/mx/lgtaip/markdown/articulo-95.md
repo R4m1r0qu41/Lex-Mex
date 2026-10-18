@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 95
 
-Las Autoridades garantes podrán determinar la improcedencia de la denuncia cuando el incumplimiento hubiera sido objeto de una denuncia anterior en la que se resolvió instruir la publicación de las obligaciones de transparencia previstas en la presente Ley.
+Las [Autoridades garantes](articulo-3.md) podrán determinar la improcedencia de la denuncia cuando el incumplimiento hubiera sido objeto de una denuncia anterior en la que se resolvió instruir la publicación de las obligaciones de transparencia previstas en la presente [Ley](articulo-3.md).

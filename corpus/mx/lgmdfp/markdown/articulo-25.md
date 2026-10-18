@@ -17,4 +17,4 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 25
 
-La investigación, persecución y sanción de los delitos previstos en esta Ley, corresponderá a las autoridades de las Entidades Federativas en los casos no previstos en el [artículo anterior](articulo-24.md).
+La investigación, persecución y sanción de los delitos previstos en esta Ley, corresponderá a las autoridades de las [Entidades Federativas](articulo-4.md) en los casos no previstos en el [artículo anterior](articulo-24.md).

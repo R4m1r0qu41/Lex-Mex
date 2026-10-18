@@ -17,6 +17,6 @@ source_sha256: 51d855a586ad7017a8d8f5c36819a2bd0d3d488f3f4b23594a729418a8b776b4
 
 # Artículo 73
 
-El patrimonio del Fondo se integra con los recursos previstos en el artículo [132](../../lgv/markdown/articulo-132.md) de la Ley, mismo que deberá ser invertido en valores gubernamentales en la Tesorería de la Federación, de conformidad con las normas y lineamientos que al efecto se emitan en términos de las disposiciones legales aplicables.
+El patrimonio del [Fondo](articulo-3.md) se integra con los recursos previstos en el artículo [132](../../lgv/markdown/articulo-132.md) de la Ley, mismo que deberá ser invertido en valores gubernamentales en la Tesorería de la Federación, de conformidad con las normas y lineamientos que al efecto se emitan en términos de las disposiciones legales aplicables.
 
 Todos los gastos relativos al manejo fiduciario, así como los honorarios que correspondan a la institución fiduciaria, serán cubiertos con cargo al propio patrimonio fideicomitido.

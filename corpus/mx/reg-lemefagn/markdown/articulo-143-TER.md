@@ -21,7 +21,7 @@ Las personas discentes que causen baja podrán reingresar a continuar sus estudi
 
 I. Haber concluido satisfactoriamente el semestre anterior al que pretendan cursar;
 
-II. No presentar algún motivo de salud que le impida cumplir con sus obligaciones académicas y militares, dentro de la Institución Educativa, certificado por dos médicos militares en activo, especialistas en el área del padecimiento de que se trate;
+II. No presentar algún motivo de salud que le impida cumplir con sus obligaciones académicas y militares, dentro de la [Institución Educativa](articulo-3.md), certificado por dos médicos militares en activo, especialistas en el área del padecimiento de que se trate;
 
 III. Estar apto para el servicio activo de las armas;
 

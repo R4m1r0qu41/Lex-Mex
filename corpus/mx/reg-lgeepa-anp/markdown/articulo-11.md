@@ -17,4 +17,4 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 11
 
-A las sesiones del Consejo podrán asistir especialistas y representantes de los sectores público, social y privado, distintos a los representados en el Consejo, en calidad de invitados, cuando por la naturaleza de los asuntos que se discutan se requiera o se considere pertinente contar con sus opiniones. Asimismo, cuando el Consejo lo estime conveniente, invitará a sus sesiones a representantes de las dependencias o entidades del Gobierno Federal, de los Gobiernos de los Estados, del Distrito Federal y de los Municipios.
+A las sesiones del [Consejo](articulo-3o.md) podrán asistir especialistas y representantes de los sectores público, social y privado, distintos a los representados en el Consejo, en calidad de invitados, cuando por la naturaleza de los asuntos que se discutan se requiera o se considere pertinente contar con sus opiniones. Asimismo, cuando el Consejo lo estime conveniente, invitará a sus sesiones a representantes de las dependencias o entidades del Gobierno Federal, de los Gobiernos de los Estados, del Distrito Federal y de los Municipios.

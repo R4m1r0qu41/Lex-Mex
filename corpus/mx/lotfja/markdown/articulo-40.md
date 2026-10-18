@@ -17,6 +17,6 @@ source_sha256: b32c33fa4ed071dc8bea1ad69ce8510cdb05016967e9e4fcb60f10c6f2216628
 
 # Artículo 40
 
-Las Salas Auxiliares ejercerán jurisdicción material mixta y territorial en toda la República, y tendrán su sede en el lugar que determine el Reglamento Interior del Tribunal.
+Las Salas Auxiliares ejercerán jurisdicción material mixta y territorial en toda la República, y tendrán su sede en el lugar que determine el Reglamento Interior del [Tribunal](articulo-2.md).
 
-Dichas Salas auxiliarán a las Salas Regionales, a las Salas Especializadas en materia de Responsabilidades Administrativas y a las Secciones tanto en el dictado de las sentencias definitivas, como en la instrucción de los juicios, según lo defina la Junta de Gobierno y Administración.
+Dichas Salas auxiliarán a las Salas Regionales, a las Salas Especializadas en materia de Responsabilidades Administrativas y a las Secciones tanto en el dictado de las sentencias definitivas, como en la instrucción de los juicios, según lo defina la [Junta](articulo-2.md) de Gobierno y Administración.

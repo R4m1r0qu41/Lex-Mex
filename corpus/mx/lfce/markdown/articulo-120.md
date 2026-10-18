@@ -17,8 +17,8 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 120
 
-La Comisión adoptará sus resoluciones con base en los hechos que tenga conocimiento, la información y medios de convicción disponibles, cuando el Agente Económico emplazado o aquél cuyos hechos sean materia de investigación, así como las personas relacionadas con éstos, se nieguen a proporcionar información o documentos, declarar, facilitar la práctica de las diligencias que hayan sido ordenadas o entorpezcan la investigación o el procedimiento respectivo.
+La [Comisión](articulo-3.md) adoptará sus resoluciones con base en los hechos que tenga conocimiento, la información y medios de convicción disponibles, cuando el [Agente Económico](articulo-3.md) emplazado o aquél cuyos hechos sean materia de investigación, así como las personas relacionadas con éstos, se nieguen a proporcionar información o documentos, declarar, facilitar la práctica de las diligencias que hayan sido ordenadas o entorpezcan la investigación o el procedimiento respectivo.
 
 Lo dispuesto en este artículo se aplicará sin perjuicio de las sanciones que procedan.
 
-Todas las resoluciones definitivas de la Comisión adoptadas bajo cualquiera de los procedimientos previstos en esta Ley, deberán resolver las cuestiones efectivamente planteadas por la Autoridad Investigadora y los Agentes Económicos.
+Todas las resoluciones definitivas de la Comisión adoptadas bajo cualquiera de los procedimientos previstos en esta Ley, deberán resolver las cuestiones efectivamente planteadas por la [Autoridad Investigadora](articulo-3.md) y los Agentes Económicos.

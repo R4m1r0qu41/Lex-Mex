@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 300
 
-Recibida la solicitud por el Instituto y enterado el pago de las tarifas correspondientes, se efectuará el examen de los datos y documentos aportados. En caso de que se satisfagan los requisitos legales, el Instituto procederá a su autorización en un plazo no mayor a dos meses a partir de la fecha de presentación de la solicitud respectiva. Si los documentos presentados no satisfacen los requisitos o resultan insuficientes, se requerirá a la persona solicitante para que haga las aclaraciones o adiciones necesarias, otorgándole un plazo improrrogable de dos meses. Concluido dicho plazo, el Instituto procederá a resolver sobre la procedencia de la autorización en un plazo no mayor a dos meses.
+Recibida la solicitud por el [Instituto](articulo-4.md) y enterado el pago de las tarifas correspondientes, se efectuará el examen de los datos y documentos aportados. En caso de que se satisfagan los requisitos legales, el Instituto procederá a su autorización en un plazo no mayor a dos meses a partir de la fecha de presentación de la solicitud respectiva. Si los documentos presentados no satisfacen los requisitos o resultan insuficientes, se requerirá a la persona solicitante para que haga las aclaraciones o adiciones necesarias, otorgándole un plazo improrrogable de dos meses. Concluido dicho plazo, el Instituto procederá a resolver sobre la procedencia de la autorización en un plazo no mayor a dos meses.
 
 Si la persona solicitante no cumple con el requerimiento a que se refiere el párrafo anterior dentro del plazo otorgado, la solicitud se considerará abandonada.
 

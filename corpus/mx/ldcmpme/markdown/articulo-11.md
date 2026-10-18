@@ -17,13 +17,13 @@ source_sha256: 4933abadd27d345e7a5c1754af10ed429fd148b709b4a78d4f42447b5fcd546d
 
 # Artículo 11
 
-Para la ejecución de las políticas y acciones contenidas en el [artículo anterior](articulo-10.md), deberán considerarse los siguientes Programas:
+Para la ejecución de las políticas y acciones contenidas en el [artículo anterior](articulo-10.md), deberán considerarse los siguientes [Programas](articulo-3.md):
 
-I. Capacitación y formación empresarial, así como de asesoría y Consultoría para las MIPYMES;
+I. Capacitación y formación empresarial, así como de asesoría y [Consultoría](articulo-3.md) para las [MIPYMES](articulo-3.md);
 
 II. Fomento para la constitución de incubadoras de empresas y formación de emprendedores;
 
-III. Formación, integración y apoyo a las Cadenas Productivas, Agrupamientos Empresariales y vocaciones productivas locales y regionales;
+III. Formación, integración y apoyo a las [Cadenas Productivas](articulo-3.md), [Agrupamientos Empresariales](articulo-3.md) y vocaciones productivas locales y regionales;
 
 IV. Promover una cultura tecnológica en las MIPYMES; modernización, innovación y desarrollo tecnológico;
 
@@ -35,4 +35,4 @@ VII. Información general en materia económica acordes a las necesidades de las
 
 VIII. Fomento para el desarrollo sustentable en el marco de la normativa ecológica aplicable.
 
-Adicionalmente, la Secretaría promoverá esquemas para facilitar el acceso al financiamiento público y privado a las MIPYMES, en igualdad de oportunidades para las mujeres y los hombres. Poniendo especial énfasis en garantizar el acceso a dicho financiamiento para la mujeres. Párrafo reformado DOF 21-01-2015
+Adicionalmente, la [Secretaría](articulo-3.md) promoverá esquemas para facilitar el acceso al financiamiento público y privado a las MIPYMES, en igualdad de oportunidades para las mujeres y los hombres. Poniendo especial énfasis en garantizar el acceso a dicho financiamiento para la mujeres. Párrafo reformado DOF 21-01-2015

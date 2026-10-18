@@ -17,22 +17,22 @@ source_sha256: 67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35
 
 # Artículo 28
 
-Los Permisos de Exploración y títulos de Concesión deben contener al menos los elementos siguientes:
+Los Permisos de [Exploración](articulo-2.md) y títulos de [Concesión](articulo-2.md) deben contener al menos los elementos siguientes:
 
 I. Nombre y domicilio de la persona titular a quien se confiere;
 
 II. Objeto, fundamento y motivación de su otorgamiento;
 
-III. Datos geográficos, ubicación y delimitación del Área Geotérmica;
+III. Datos geográficos, ubicación y delimitación del [Área Geotérmica](articulo-2.md);
 
 IV. Descripción general del proyecto;
 
 V. Cronogramas de inversiones y de los trabajos a realizarse durante la vigencia del Permiso o Concesión correspondiente; VI. La naturaleza y el monto de las garantías que, en su caso, debe otorgar la persona permisionaria o concesionaria para el cumplimiento de las obligaciones contenidas en el título correspondiente o en las disposiciones jurídicas aplicables, así como aquellas que garanticen la afectación al medio ambiente o a derechos de terceros;
 
-VII. Causales de caducidad, revocación y terminación del Permiso de Exploración o Concesión;
+VII. Causales de caducidad, revocación y terminación del [Permiso de Exploración](articulo-2.md) o Concesión;
 
 VIII. Los derechos y obligaciones de la persona permisionaria o concesionaria, y
 
 IX. Fecha de otorgamiento y periodo de vigencia.
 
-En el título del Permiso de Exploración o de la Concesión, la Secretaría debe especificar, en su caso, las razones que podrán dar lugar a la modificación del contenido de estos. Un extracto del título de Concesión respectivo se publicará en el Diario Oficial de la Federación, a costa de la persona concesionaria.
+En el título del Permiso de Exploración o de la Concesión, la [Secretaría](articulo-2.md) debe especificar, en su caso, las razones que podrán dar lugar a la modificación del contenido de estos. Un extracto del título de Concesión respectivo se publicará en el Diario Oficial de la Federación, a costa de la persona concesionaria.

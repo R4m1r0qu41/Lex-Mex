@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 9
 
-El Consejo es un órgano colegiado permanente que apoya a la Secretaría en la coordinación de la planeación vinculante del Sector Energético y da seguimiento a los Instrumentos de Planeación del Sector Energético que deriven de esta, así como a la mejora de la información energética de acuerdo con lo establecido en el Capítulo II del Título Segundo de la Ley.
+El [Consejo](articulo-5.md) es un órgano colegiado permanente que apoya a la [Secretaría](articulo-5.md) en la coordinación de la planeación vinculante del Sector Energético y da seguimiento a los [Instrumentos de Planeación del Sector Energético](articulo-5.md) que deriven de esta, así como a la mejora de la información energética de acuerdo con lo establecido en el Capítulo II del Título Segundo de la [Ley](articulo-5.md).

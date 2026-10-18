@@ -17,6 +17,6 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 29
 
-Para el desempeño de sus funciones, la Autoridad Investigadora podrá aplicar separada o indistintamente las medidas de apremio establecidas en esta Ley, según corresponda.
+Para el desempeño de sus funciones, la [Autoridad Investigadora](articulo-3.md) podrá aplicar separada o indistintamente las medidas de apremio establecidas en esta Ley, según corresponda.
 
 Artículo reformado DOF 16-07-2025

@@ -21,6 +21,6 @@ Los permisos de pesca comercial tendrán una duración de dos hasta cinco años,
 
 Los permisos a que se refieren las fracciones V a la XV del artículo [41](articulo-41.md) de esta Ley, tendrán la duración que determine su reglamento, de acuerdo a las características y naturaleza de la actividad, y en su caso, se sujetarán a los planes de manejo.
 
-Podrán ser prorrogados si la evaluación realizada por el IMIPAS resulta positiva en cuanto al manejo de la pesquería, acorde con las condiciones que se establezcan en el reglamento de la presente Ley y no podrán ser transferidos a terceros. Párrafo reformado DOF 04-12-2023
+Podrán ser prorrogados si la evaluación realizada por el [IMIPAS](articulo-4o.md) resulta positiva en cuanto al manejo de la pesquería, acorde con las condiciones que se establezcan en el reglamento de la presente Ley y no podrán ser transferidos a terceros. Párrafo reformado DOF 04-12-2023
 
-En caso de fallecimiento del permisionario, la Secretaría dará preferencia para la sustitución, a los designados por el derecho sucesorio aplicable al caso, de conformidad con las disposiciones legales aplicables.
+En caso de fallecimiento del permisionario, la [Secretaría](articulo-4o.md) dará preferencia para la sustitución, a los designados por el derecho sucesorio aplicable al caso, de conformidad con las disposiciones legales aplicables.

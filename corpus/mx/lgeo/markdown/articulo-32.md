@@ -17,4 +17,4 @@ source_sha256: 67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35
 
 # Artículo 32
 
-Una vez declarada la extinción del respectivo Permiso de Exploración o Concesión, por cualquiera de las causales a que se refiere el [artículo anterior](articulo-31.md), no se puede otorgar Permiso de Exploración o Concesión a las mismas personas que fueron titulares sobre la misma zona.
+Una vez declarada la extinción del respectivo [Permiso de Exploración](articulo-2.md) o [Concesión](articulo-2.md), por cualquiera de las causales a que se refiere el [artículo anterior](articulo-31.md), no se puede otorgar Permiso de Exploración o Concesión a las mismas personas que fueron titulares sobre la misma zona.

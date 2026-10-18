@@ -17,4 +17,4 @@ source_sha256: 7f01ee1b1deb901a23976507adccbddefbea50b0fc9a4ddceaf1225d711d50d0
 
 # Artículo 30
 
-La Conferencia Nacional de Procuración de Justicia sesionará de forma ordinaria una vez al año y de forma extraordinaria cada vez que la persona que la presida lo considere necesario, quien emitirá las convocatorias y el orden del día correspondientes. Sección III Conferencia Nacional del Sistema Penitenciario
+La [Conferencia Nacional](articulo-4.md) de Procuración de Justicia sesionará de forma ordinaria una vez al año y de forma extraordinaria cada vez que la persona que la presida lo considere necesario, quien emitirá las convocatorias y el orden del día correspondientes. Sección III Conferencia Nacional del [Sistema](articulo-4.md) Penitenciario

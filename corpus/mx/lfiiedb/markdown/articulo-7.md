@@ -17,4 +17,4 @@ source_sha256: 7679afbbf32749e0c0bacab72644d41fc6ccdeeab3a2f25dfae8d26a065de01e
 
 # Artículo 7
 
-Los proyectos que cuenten con recursos públicos y que se incorporen a los Vehículos de Propósito Específico a que hace referencia la presente Ley son prioritarios, por lo cual serán objeto de registro, seguimiento y evaluación que corresponda, de acuerdo con la Ley Federal de Presupuesto y Responsabilidad Hacendaria y no podrán sufrir disminución en sus montos presupuestales aprobados.
+Los proyectos que cuenten con recursos públicos y que se incorporen a los [Vehículos de Propósito Específico](articulo-4.md) a que hace referencia la presente [Ley](articulo-4.md) son prioritarios, por lo cual serán objeto de registro, seguimiento y evaluación que corresponda, de acuerdo con la Ley Federal de Presupuesto y Responsabilidad Hacendaria y no podrán sufrir disminución en sus montos presupuestales aprobados.

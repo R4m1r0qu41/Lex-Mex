@@ -17,9 +17,9 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 99
 
-Los afectados con motivo de los actos de la Comisión Nacional en resoluciones dictadas fuera del procedimiento arbitral que pongan fin a un procedimiento o de la imposición de sanciones administrativas, podrán acudir en defensa de sus intereses interponiendo recurso de revisión, cuya interposición será optativa.
+Los afectados con motivo de los actos de la [Comisión Nacional](articulo-2o.md) en resoluciones dictadas fuera del procedimiento arbitral que pongan fin a un procedimiento o de la imposición de sanciones administrativas, podrán acudir en defensa de sus intereses interponiendo recurso de revisión, cuya interposición será optativa.
 
-El recurso de revisión deberá interponerse por escrito dentro de los quince días hábiles siguientes a la fecha en que surta efectos la notificación del acto respectivo y deberá presentarse ante la Junta, cuando el acto haya sido emitido por dicha Junta o por el Presidente, o ante este último cuando se trate de actos realizados por otros servidores públicos.
+El recurso de revisión deberá interponerse por escrito dentro de los quince días hábiles siguientes a la fecha en que surta efectos la notificación del acto respectivo y deberá presentarse ante la [Junta](articulo-2o.md), cuando el acto haya sido emitido por dicha Junta o por el [Presidente](articulo-2o.md), o ante este último cuando se trate de actos realizados por otros servidores públicos.
 
 El escrito mediante el cual se interponga el recurso de revisión deberá contener:
 

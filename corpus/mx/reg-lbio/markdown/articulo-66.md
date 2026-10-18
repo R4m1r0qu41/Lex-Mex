@@ -17,4 +17,4 @@ source_sha256: 7df3d678efda2306b68d3c0f5ca0e3e92b9066d5f773128f4ae19cb26bf44fff
 
 # Artículo 66
 
-Las personas titulares de permisos y Autorizaciones deben presentar a la SENER, el Aviso de Inicio de Operaciones a más tardar treinta días hábiles previos al arranque de operaciones.
+Las personas titulares de permisos y [Autorizaciones](articulo-3.md) deben presentar a la [SENER](articulo-3.md), el Aviso de Inicio de Operaciones a más tardar treinta días hábiles previos al arranque de operaciones.

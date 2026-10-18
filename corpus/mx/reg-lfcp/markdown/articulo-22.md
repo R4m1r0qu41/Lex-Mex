@@ -17,11 +17,11 @@ source_sha256: 43723ba379e128c1a1c1be4b085ecc870946cdec43d56f83e7314c077361368f
 
 # Artículo 22
 
-La Secretaría resolverá sobre los cambios de plaza que soliciten los corredores públicos previa opinión de los colegios de corredores correspondientes y sólo autorizará el cambio de plaza de un corredor cuando: Párrafo reformado DOF 26-11-2012
+La [Secretaría](articulo-2o.md) resolverá sobre los cambios de plaza que soliciten los corredores públicos previa opinión de los colegios de corredores correspondientes y sólo autorizará el cambio de plaza de un corredor cuando: Párrafo reformado DOF 26-11-2012
 
 I.- No exista juicio por responsabilidad civil o denuncia penal en su contra, derivada del ejercicio de sus funciones; Aclaración a la fracción DOF 15-06-1993. Reformada DOF 26-11-2012
 
-II.- No se hayan impuesto tres o más amonestaciones o multas al corredor, o no se le hubiere suspendido por cualquiera de las causas que señala la Ley o este reglamento, y Fracción reformada DOF 26-11-2012
+II.- No se hayan impuesto tres o más amonestaciones o multas al corredor, o no se le hubiere suspendido por cualquiera de las causas que señala la [Ley](articulo-2o.md) o este reglamento, y Fracción reformada DOF 26-11-2012
 
 III.- Habiéndose publicado el Acuerdo de habilitación en el Diario Oficial de la Federación el corredor público acredite el ejercicio de sus funciones en la plaza de origen. Fracción adicionada DOF 26-11-2012
 

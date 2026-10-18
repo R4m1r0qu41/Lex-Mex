@@ -17,7 +17,7 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 71
 
-Autoridad Administrativa En la Federación y en las entidades federativas, en el ámbito de sus respectivas competencias, habrá una Autoridad Administrativa especializada dependiente de la Administración Pública Federal o estatal con autonomía técnica, operativa y de gestión que independientemente de su organización administrativa, contará con las siguientes áreas:
+[Autoridad Administrativa](articulo-3.md) En la Federación y en las entidades federativas, en el ámbito de sus respectivas competencias, habrá una Autoridad Administrativa especializada dependiente de la Administración Pública Federal o estatal con autonomía técnica, operativa y de gestión que independientemente de su organización administrativa, contará con las siguientes áreas:
 
 A. Área de evaluación de riesgos;
 
@@ -31,9 +31,9 @@ Que para su ejercicio tendrá las siguientes atribuciones:
 
 I. Celebrar convenios con instituciones públicas y privadas para el cumplimiento de lo dispuesto en el presente artículo;
 
-II. Coordinar acciones con las demás autoridades del Sistema Integral de Justicia Penal para Adolescentes;
+II. Coordinar acciones con las demás autoridades del [Sistema](articulo-3.md) Integral de Justicia Penal para [Adolescentes](articulo-3.md);
 
-III. Diseñar y ejecutar el Plan Individualizado de Actividades, así como el Plan Individualizado de Ejecución;
+III. Diseñar y ejecutar el [Plan Individualizado de Actividades](articulo-3.md), así como el [Plan Individualizado de Ejecución](articulo-3.md);
 
 IV. Realizar entrevistas, así como visitas no anunciadas en el domicilio o en el lugar en donde se encuentre la persona adolescente;
 
@@ -49,13 +49,13 @@ X. Canalizar a la persona adolescente a servicios sociales de asistencia, públi
 
 XI. Adoptar las acciones necesarias para proteger la integridad física y psicológica de las personas adolescentes que estén bajo su responsabilidad en la medida de sanción de internamiento; solicitar y proporcionar información a las instituciones públicas, así como atender las solicitudes de apoyo que se le realicen;
 
-XII. Llevar un registro actualizado de las instituciones públicas y privadas que participen en la ejecución de las medidas cautelares o de sanción, y los planes para su cumplimiento, así como de las condiciones impuestas en la suspensión condicional del proceso, y disponer lo conducente para que esté a disposición del Órgano Jurisdiccional, en caso de que se solicite;
+XII. Llevar un registro actualizado de las instituciones públicas y privadas que participen en la ejecución de las medidas cautelares o de sanción, y los planes para su cumplimiento, así como de las condiciones impuestas en la suspensión condicional del proceso, y disponer lo conducente para que esté a disposición del [Órgano Jurisdiccional](articulo-3.md), en caso de que se solicite;
 
 XIII. Supervisar a las áreas que la componen;
 
 XIV. Asegurar que todo el personal que tiene trato con las personas adolescentes, incluyendo el de seguridad, sea especializado;
 
-XV. Implementar los criterios relativos a los procedimientos de ingreso, permanencia, evaluación, estímulos, promoción y remoción del personal especializado, de acuerdo a lo establecido en esta Ley;
+XV. Implementar los criterios relativos a los procedimientos de ingreso, permanencia, evaluación, estímulos, promoción y remoción del personal especializado, de acuerdo a lo establecido en esta [Ley](articulo-3.md);
 
 XVI. Participar en el diseño e implementar la política pública correspondiente al Sistema;
 

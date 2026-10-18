@@ -17,7 +17,7 @@ source_sha256: 9f964bc5c075d7cf47e5e9df7c2fbe262eb5bd1794de9b230dbd72026a51ae5e
 
 # Artículo 12
 
-Son facultades de la Secretaría, de conformidad con lo dispuesto en esta Ley, sus reglamentos y demás disposiciones aplicables:
+Son facultades de la [Secretaría](articulo-6.md), de conformidad con lo dispuesto en esta [Ley](articulo-6.md), sus reglamentos y demás disposiciones aplicables:
 
 I. Coordinar todas las acciones relativas al control de los productos del tabaco y los productos accesorios al tabaco;
 

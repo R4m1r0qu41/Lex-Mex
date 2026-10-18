@@ -17,7 +17,7 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 97
 
-Las Instituciones Educativas y las Jefaturas de Curso, para el control del proceso enseñanza-aprendizaje, de conformidad con los lineamientos establecidos por la Dirección y Rectoría, deberán elaborar:
+Las [Instituciones Educativas](articulo-3.md) y las Jefaturas de Curso, para el control del proceso enseñanza-aprendizaje, de conformidad con los lineamientos establecidos por la Dirección y Rectoría, deberán elaborar:
 
 I. Calendario particular;
 

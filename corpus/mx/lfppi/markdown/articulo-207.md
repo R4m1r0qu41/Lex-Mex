@@ -17,4 +17,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 207
 
-Quien esté usando un nombre comercial podrá solicitar al Instituto, la publicación del mismo en la Gaceta. Dicha publicación producirá el efecto de establecer la presunción de la buena fe en la adopción y uso del nombre comercial.
+Quien esté usando un nombre comercial podrá solicitar al [Instituto](articulo-4.md), la publicación del mismo en la [Gaceta](articulo-4.md). Dicha publicación producirá el efecto de establecer la presunción de la buena fe en la adopción y uso del nombre comercial.

@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 102
 
-La persona solicitante podrá dividir de manera voluntaria una solicitud inicial que se encuentre aún en trámite, cumpliendo con lo dispuesto por el artículo [100](articulo-100.md) de esta Ley, conservando como fecha de presentación de cada solicitud divisional, la misma fecha de la inicial y, en su caso, la fecha de la prioridad reclamada. Párrafo reformado DOF 03-04-2026
+La persona solicitante podrá dividir de manera voluntaria una solicitud inicial que se encuentre aún en trámite, cumpliendo con lo dispuesto por el artículo [100](articulo-100.md) de esta [Ley](articulo-4.md), conservando como fecha de presentación de cada solicitud divisional, la misma fecha de la inicial y, en su caso, la fecha de la prioridad reclamada. Párrafo reformado DOF 03-04-2026
 
 Para efectos de lo anterior, se considerará que la solicitud inicial se encuentra en trámite, hasta antes de la expedición de la resolución que deniegue, deseche, tenga por abandonada o desistida dicha solicitud, o antes de que una solicitud internacional se considere retirada, conforme al Tratado de Cooperación en materia de Patentes.
 

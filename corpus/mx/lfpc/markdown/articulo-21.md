@@ -15,6 +15,6 @@ source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 
 # Artículo 21
 
-El domicilio de la Procuraduría será la Ciudad de México y establecerá delegaciones en todas las entidades federativas y el Distrito Federal. Los tribunales federales serán competentes para resolver todas las controversias en que sea parte.
+El domicilio de la [Procuraduría](articulo-2.md) será la Ciudad de México y establecerá delegaciones en todas las entidades federativas y el Distrito Federal. Los tribunales federales serán competentes para resolver todas las controversias en que sea parte.
 
 Artículo reformado DOF 04-02-2004

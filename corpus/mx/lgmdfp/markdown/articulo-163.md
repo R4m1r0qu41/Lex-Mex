@@ -17,6 +17,6 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 163
 
-La Fiscalía, así como las Fiscalías y Procuradurías Locales deben diseñar los mecanismos de colaboración que correspondan con la finalidad de dar cumplimiento a lo previsto en esta Ley.
+La [Fiscalía](articulo-4.md), así como las Fiscalías y Procuradurías Locales deben diseñar los mecanismos de colaboración que correspondan con la finalidad de dar cumplimiento a lo previsto en esta Ley.
 
 Artículo reformado DOF 20-05-2021

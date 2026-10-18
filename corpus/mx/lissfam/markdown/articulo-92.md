@@ -17,7 +17,7 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 92
 
-El Instituto será el encargado de pagar al militar o a sus beneficiarios el importe del seguro colectivo de retiro o la devolución de lo aportado, dentro de los cinco días hábiles siguientes a la fecha en que el militar o sus beneficiarios entreguen al Instituto la documentación siguiente:
+El [Instituto](articulo-4o.md) será el encargado de pagar al militar o a sus beneficiarios el importe del seguro colectivo de retiro o la devolución de lo aportado, dentro de los cinco días hábiles siguientes a la fecha en que el militar o sus beneficiarios entreguen al Instituto la documentación siguiente:
 
 I. El militar deberá entregar solicitud de pago, la orden de baja del activo, certificado de servicios efectivos prestados, y copia fotostática de su identificación oficial, y
 

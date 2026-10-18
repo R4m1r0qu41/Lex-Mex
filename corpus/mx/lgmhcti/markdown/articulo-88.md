@@ -17,4 +17,4 @@ source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 
 # Artículo 88
 
-Las autoridades competentes del Servicio de Administración Tributaria y de la Agencia Nacional de Aduanas de México, podrán otorgar facilidades administrativas a los Centros Públicos para el acceso y la importación de maquinaria, equipos, materiales, insumos y bienes necesarios para el desarrollo de sus actividades sustantivas, conforme a las disposiciones jurídicas aplicables.
+Las autoridades competentes del Servicio de Administración Tributaria y de la Agencia Nacional de Aduanas de México, podrán otorgar facilidades administrativas a los [Centros Públicos](articulo-4.md) para el acceso y la importación de maquinaria, equipos, materiales, insumos y bienes necesarios para el desarrollo de sus actividades sustantivas, conforme a las disposiciones jurídicas aplicables.

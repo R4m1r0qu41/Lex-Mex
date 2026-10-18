@@ -19,13 +19,13 @@ source_sha256: 14cd17e37e96e766c8ab74950c71186d579c0ba6cc10ac9e8b06f6194af7d953
 
 Las infracciones a lo establecido en esta Ley y sus disposiciones reglamentarias, se sancionarán de acuerdo a lo siguiente:
 
-I.- En caso de que la inversión extranjera lleve a cabo actividades, adquisiciones o cualquier otro acto que para su realización requiera resolución favorable de la Comisión, sin que ésta se haya obtenido previamente, se impondrá multa de mil a cinco mil salarios;
+I.- En caso de que la inversión extranjera lleve a cabo actividades, adquisiciones o cualquier otro acto que para su realización requiera resolución favorable de la [Comisión](articulo-2o.md), sin que ésta se haya obtenido previamente, se impondrá multa de mil a cinco mil salarios;
 
-II.- En caso de que personas morales extranjeras realicen habitualmente actos de comercio en la República Mexicana, sin haber obtenido previamente la autorización de la Secretaría, se impondrá multa de quinientos a mil salarios;
+II.- En caso de que personas morales extranjeras realicen habitualmente actos de comercio en la República Mexicana, sin haber obtenido previamente la autorización de la [Secretaría](articulo-2o.md), se impondrá multa de quinientos a mil salarios;
 
 III.- En caso de realizar actos en contravención a lo establecido en esta Ley o en sus disposiciones reglamentarias en materia de inversión neutra, se impondrá multas de cien a trescientos salarios;
 
-IV.- En caso de omisión, cumplimiento extemporáneo, presentación de información incompleta o incorrecta respecto de las obligaciones de inscripción, reporte o aviso al Registro por parte de los sujetos obligados, se impondrá multa de treinta a cien salarios;
+IV.- En caso de omisión, cumplimiento extemporáneo, presentación de información incompleta o incorrecta respecto de las obligaciones de inscripción, reporte o aviso al [Registro](articulo-2o.md) por parte de los sujetos obligados, se impondrá multa de treinta a cien salarios;
 
 V.- En caso de simulación de actos con el propósito de permitir el goce o la disposición de bienes inmuebles en la zona restringida a personas físicas o morales extranjeras o a sociedades mexicanas que no tengan cláusula de exclusión de extranjeros, en contravención a lo dispuesto por los Títulos Segundo y Tercero de esta Ley, se sancionará al infractor con multa hasta por el importe de la operación; y
 

@@ -17,4 +17,4 @@ source_sha256: 1405f36fd836ff74d059ebe7e50ae439cbb9e5e291a317514667f34a26f72a23
 
 # Artículo 52
 
-Contra las resoluciones mediante las cuales se asigne al ganador o se declare desierto el proceso de licitación de Contratos para la Exploración y Extracción, únicamente procede el juicio de amparo indirecto. Los actos relacionados con el procedimiento de licitación y adjudicación de Contratos para la Exploración y Extracción se consideran de orden público e interés social.
+Contra las resoluciones mediante las cuales se asigne al ganador o se declare desierto el proceso de licitación de Contratos para la [Exploración](articulo-5.md) y [Extracción](articulo-5.md), únicamente procede el juicio de amparo indirecto. Los actos relacionados con el procedimiento de licitación y adjudicación de Contratos para la Exploración y Extracción se consideran de orden público e interés social.

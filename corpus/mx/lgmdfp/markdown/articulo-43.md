@@ -19,4 +19,4 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 Para efectos de lo previsto en esta Ley, se considerará grave el incumplimiento injustificado o la actuación negligente ante cualquier obligación relacionada con la búsqueda inmediata de personas, en la investigación ministerial, pericial y policial, así como en los procedimientos establecidos en los protocolos correspondientes.
 
-De igual forma se considerará grave el uso de la Plataforma Única de Identidad, así como el uso de la información generada por ella, con fines distintos a los señalados por esta Ley. Párrafo adicionado DOF 16-07-2025
+De igual forma se considerará grave el uso de la [Plataforma Única de Identidad](articulo-4.md), así como el uso de la información generada por ella, con fines distintos a los señalados por esta Ley. Párrafo adicionado DOF 16-07-2025

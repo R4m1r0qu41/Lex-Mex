@@ -17,4 +17,4 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 64
 
-En el caso del transporte y acopio de residuos que correspondan a productos desechados sujetos a planes de manejo, en términos de lo dispuesto por el artículo [31](articulo-31.md) de esta Ley, se deberán observar medidas para prevenir y responder de manera segura y ambientalmente adecuada a posibles fugas, derrames o liberación al ambiente de sus contenidos que posean propiedades peligrosas.
+En el caso del transporte y acopio de residuos que correspondan a productos desechados sujetos a planes de manejo, en términos de lo dispuesto por el artículo [31](articulo-31.md) de esta [Ley](articulo-5.md), se deberán observar medidas para prevenir y responder de manera segura y ambientalmente adecuada a posibles fugas, derrames o liberación al ambiente de sus contenidos que posean propiedades peligrosas.

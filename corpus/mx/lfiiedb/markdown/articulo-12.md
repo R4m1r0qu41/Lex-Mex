@@ -17,4 +17,4 @@ source_sha256: 7679afbbf32749e0c0bacab72644d41fc6ccdeeab3a2f25dfae8d26a065de01e
 
 # Artículo 12
 
-Los Vehículos de Propósito Específico tendrán por objeto exclusivamente la inversión o financiación de Proyectos para el desarrollo con bienestar materia de la presente Ley, y en todo momento deberán buscar las mejores condiciones económicas y financieras para la ejecución del proyecto.
+Los [Vehículos de Propósito Específico](articulo-4.md) tendrán por objeto exclusivamente la inversión o financiación de [Proyectos para el desarrollo con bienestar](articulo-4.md) materia de la presente [Ley](articulo-4.md), y en todo momento deberán buscar las mejores condiciones económicas y financieras para la ejecución del proyecto.

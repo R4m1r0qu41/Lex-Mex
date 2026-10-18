@@ -19,7 +19,7 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 La administración y manejo de cada una de las áreas naturales protegidas se efectuará a través de un Director, el cual será nombrado de acuerdo con las siguientes bases:
 
-I.- La Secretaría, a través de la Comisión Nacional de Áreas Naturales Protegidas, emitirá una convocatoria en los diarios de mayor circulación en la Entidad Federativa donde se ubique el área natural protegida de que se trate, con el fin de que las personas interesadas propongan candidatos a ocupar el cargo;
+I.- La [Secretaría](articulo-3o.md), a través de la [Comisión](articulo-3o.md) Nacional de Áreas Naturales Protegidas, emitirá una convocatoria en los diarios de mayor circulación en la Entidad Federativa donde se ubique el área natural protegida de que se trate, con el fin de que las personas interesadas propongan candidatos a ocupar el cargo;
 
 II.- Los candidatos deberán tener, en todo caso, experiencia en: a) Trabajo de campo relacionado con el manejo y conservación de recursos naturales en áreas naturales protegidas, por lo menos durante dos años;
 
@@ -31,7 +31,7 @@ d) Conocimientos de la legislación ambiental, y
 
 e) Conocimiento en actividades económicamente productivas que se relacionen con el uso y aprovechamiento de recursos naturales en el área natural protegida de que se trate.
 
-III.- Las propuestas recibidas serán presentadas al Consejo para que éste, a su vez, seleccione a tres de los candidatos, y
+III.- Las propuestas recibidas serán presentadas al [Consejo](articulo-3o.md) para que éste, a su vez, seleccione a tres de los candidatos, y
 
 IV.- La terna será sometida a la consideración del titular de la Secretaría, quien eligirá al candidato que ocupará el cargo.
 

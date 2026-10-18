@@ -17,4 +17,4 @@ source_sha256: 74f2c47c7a9282194b2972ec1366352d94f03042c6d0c7f10efde018cb9e3bfb
 
 # Artículo 48
 
-Los Organismos del Sector que con fines de fomento reciban apoyos y estímulos públicos, deberán sujetarse a las disposiciones jurídicas y administrativas aplicables en la materia. Además, deberán llevar a cabo sus operaciones conforme a las disposiciones fiscales vigentes en el territorio nacional.
+Los [Organismos del Sector](articulo-5o.md) que con fines de fomento reciban apoyos y estímulos públicos, deberán sujetarse a las disposiciones jurídicas y administrativas aplicables en la materia. Además, deberán llevar a cabo sus operaciones conforme a las disposiciones fiscales vigentes en el territorio nacional.

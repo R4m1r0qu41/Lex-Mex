@@ -17,6 +17,6 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 329
 
-El Instituto podrá iniciar el procedimiento de declaración administrativa de oficio o a petición de quien tenga interés jurídico.
+El [Instituto](articulo-4.md) podrá iniciar el procedimiento de declaración administrativa de oficio o a petición de quien tenga interés jurídico.
 
 Cualquier persona podrá presentar información que le permita al Instituto, determinar el inicio de un procedimiento de declaración administrativa de oficio de considerarlo procedente.

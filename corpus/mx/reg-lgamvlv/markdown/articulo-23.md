@@ -17,6 +17,6 @@ source_sha256: 71ee875c26fc6a1024ea9481ca0690721959514689d860112c3093f0176dfcfb
 
 # Artículo 23
 
-Los Modelos de Sanción generarán los mecanismos que permitan evaluaciones permanentes y sistemáticas sobre el impacto de la aplicación de la Ley y de las diversas normas jurídicas que reconocen y regulan los tipos y Modalidades de la Violencia.
+Los [Modelos](articulo-2.md) de Sanción generarán los mecanismos que permitan evaluaciones permanentes y sistemáticas sobre el impacto de la aplicación de la Ley y de las diversas normas jurídicas que reconocen y regulan los tipos y Modalidades de la Violencia.
 
 Artículo reformado DOF 25-11-2013

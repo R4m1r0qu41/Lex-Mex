@@ -17,4 +17,4 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 59
 
-El Consejo Ciudadano es un órgano ciudadano de consulta del Sistema Nacional, en materia de búsqueda de personas.
+El [Consejo Ciudadano](articulo-4.md) es un órgano ciudadano de consulta del [Sistema Nacional](articulo-4.md), en materia de búsqueda de personas.

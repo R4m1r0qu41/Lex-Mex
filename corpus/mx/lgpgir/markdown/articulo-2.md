@@ -17,7 +17,7 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 2
 
-En la formulación y conducción de la política en materia de prevención, valorización y gestión integral de los residuos a que se refiere esta Ley, la expedición de disposiciones jurídicas y la emisión de actos que de ella deriven, así como en la generación y manejo integral de residuos, según corresponda, se observarán los siguientes principios:
+En la formulación y conducción de la política en materia de prevención, valorización y gestión integral de los residuos a que se refiere esta [Ley](articulo-5.md), la expedición de disposiciones jurídicas y la emisión de actos que de ella deriven, así como en la generación y manejo integral de residuos, según corresponda, se observarán los siguientes principios:
 
 I. El derecho de toda persona a vivir en un medio ambiente adecuado para su desarrollo y bienestar;
 

@@ -17,7 +17,7 @@ source_sha256: 667636f9e0ea65e72ac9d6d7b4d7563a183b75d0f140268a61929c74f5f88041
 
 # Artículo 35
 
-En caso de que la solicitud de permiso hubiese sido negada con base al dictamen de la SEMARNAT o en la opinión de la SAGARPA, la Secretaría competente que resolvió la solicitud de permiso deberá entregar la solicitud de reconsideración a la Secretaría que deba dictaminar u opinar, en un plazo no mayor a tres días hábiles, contado a partir de que el particular haya ingresado su solicitud de reconsideración.
+En caso de que la solicitud de permiso hubiese sido negada con base al dictamen de la SEMARNAT o en la opinión de la SAGARPA, la [Secretaría competente](articulo-2.md) que resolvió la solicitud de permiso deberá entregar la solicitud de reconsideración a la Secretaría que deba dictaminar u opinar, en un plazo no mayor a tres días hábiles, contado a partir de que el particular haya ingresado su solicitud de reconsideración.
 
 Asimismo, la solicitud de reconsideración se remitirá a la Secretaría que deba dictaminar u opinar, cuando de la nueva información presentada en la reconsideración, deriven cuestiones que deban ser del conocimiento de la Secretaría que emita el dictamen u opinión.
 

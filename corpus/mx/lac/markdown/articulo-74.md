@@ -17,7 +17,7 @@ source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 
 Las personas concesionarias, asignatarias o permisionarias y, en el caso de las operaciones de aeronaves para uso particular, las personas propietarias o poseedoras de aeronaves, que transiten en el espacio aéreo nacional, deben contratar y mantener vigente un seguro que cubra las responsabilidades por los daños a las personas pasajeras, a la carga, al equipaje facturado o a terceras personas en la operación de las aeronaves.
 
-Para el inicio de operaciones de una aeronave, es requisito indispensable la aprobación por parte de la Agencia Federal de Aviación Civil del contrato de seguro.
+Para el inicio de operaciones de una aeronave, es requisito indispensable la aprobación por parte de la [Agencia Federal de Aviación Civil](articulo-2.md) del contrato de seguro.
 
 En el caso de las aeronaves privadas extranjeras, tal acreditamiento debe hacerse en el primer aeropuerto internacional en que aterricen.
 

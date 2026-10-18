@@ -17,4 +17,4 @@ source_sha256: d23aedc9ffdb09b9202311f03023241da20445cb45aea855b37bfd9685768861
 
 # Artículo 17
 
-La identificación de las Desviaciones Técnicas se debe establecer en el capítulo que se denomine “Concordancia con Normas Internacionales” de las Normas Oficiales Mexicanas, Normas Oficiales Mexicanas de Emergencia o Estándares, de manera precisa, clara y congruente, en tanto que la justificación debe partir de la necesidad de adaptar dichos instrumentos.
+La identificación de las [Desviaciones Técnicas](articulo-2.md) se debe establecer en el capítulo que se denomine “Concordancia con Normas Internacionales” de las Normas Oficiales Mexicanas, Normas Oficiales Mexicanas de Emergencia o Estándares, de manera precisa, clara y congruente, en tanto que la justificación debe partir de la necesidad de adaptar dichos instrumentos.

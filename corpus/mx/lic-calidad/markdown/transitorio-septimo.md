@@ -15,4 +15,4 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # SÉPTIMO
 
-La Secretaría de Economía deberá realizar los ajustes pertinentes en materia de normalización, estandarización, evaluación de la conformidad y metrología, así como emitir los lineamientos que regularán el acceso a la Plataforma Tecnológica Integral de Infraestructura de la Calidad por parte de los interesados, y los formatos electrónicos que deberán utilizarse para esos efectos, dentro de los 180 días naturales siguientes a partir de la entrada en vigor del Reglamento de la presente Ley.
+La [Secretaría](articulo-4.md) de Economía deberá realizar los ajustes pertinentes en materia de normalización, estandarización, evaluación de la conformidad y metrología, así como emitir los lineamientos que regularán el acceso a la [Plataforma Tecnológica Integral de Infraestructura de la Calidad](articulo-4.md) por parte de los interesados, y los formatos electrónicos que deberán utilizarse para esos efectos, dentro de los 180 días naturales siguientes a partir de la entrada en vigor del Reglamento de la presente Ley.

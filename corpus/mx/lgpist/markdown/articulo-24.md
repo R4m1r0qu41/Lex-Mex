@@ -17,10 +17,10 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 # Artículo 24
 
-Comete el delito de tortura el Servidor Público que, con el fin de obtener información o una confesión, con fines de investigación criminal, como medio intimidatorio, como castigo personal, como medio de coacción, como medida preventiva, o por razones basadas en discriminación, o con cualquier otro fin:
+Comete el delito de tortura el [Servidor Público](articulo-5.md) que, con el fin de obtener información o una confesión, con fines de investigación criminal, como medio intimidatorio, como castigo personal, como medio de coacción, como medida preventiva, o por razones basadas en discriminación, o con cualquier otro fin:
 
 I. Cause dolor o sufrimiento físico o psíquico a una persona;
 
-II. Cometa una conducta que sea tendente o capaz de disminuir o anular la personalidad de la Víctima o su capacidad física o psicológica, aunque no le cause dolor o sufrimiento, o
+II. Cometa una conducta que sea tendente o capaz de disminuir o anular la personalidad de la [Víctima](articulo-5.md) o su capacidad física o psicológica, aunque no le cause dolor o sufrimiento, o
 
 III. Realice procedimientos médicos o científicos en una persona sin su consentimiento o sin el consentimiento de quien legalmente pudiera otorgarlo.

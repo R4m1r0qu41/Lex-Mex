@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 285
 
-El Instituto suspenderá el trámite de una solicitud de declaración de protección de denominación de origen o indicación geográfica, en los siguientes casos:
+El [Instituto](articulo-4.md) suspenderá el trámite de una solicitud de declaración de protección de denominación de origen o indicación geográfica, en los siguientes casos:
 
 I.- Cuando la solicitud se encuentre en alguno de los impedimentos a los que se refieren las fracciones IV y V del artículo [271](articulo-271.md) y se presente una solicitud de declaración administrativa de nulidad, caducidad o cancelación sobre la marca registrada o de cesación de los efectos de un nombre comercial publicado. La suspensión procederá de oficio o a petición de cualquiera de las partes en el procedimiento de declaración administrativa, y
 

@@ -15,11 +15,11 @@ source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 
 # Artículo 78 Bis 3
 
-El Sistema de gestión de la seguridad operacional deberá incluir, por lo menos:
+El [Sistema de gestión de la seguridad operacional](articulo-2.md) deberá incluir, por lo menos:
 
 I. Un proceso para identificar y notificar peligros que afecten la seguridad operacional y evaluar los riesgos conexos; Fracción reformada DOF 03-05-2023
 
-II. Un proceso para definir y aplicar las acciones necesarias para mantener un nivel óptimo de Seguridad operacional;
+II. Un proceso para definir y aplicar las acciones necesarias para mantener un nivel óptimo de [Seguridad operacional](articulo-2.md);
 
 III. Disposiciones para observar continuamente y evaluar en forma regular la eficacia de las actividades de gestión de la seguridad operacional; Fracción reformada DOF 03-05-2023 IV. Un proceso para la supervisión y medición del desempeño de seguridad operacional logrado; Fracción reformada DOF 03-05-2023
 

@@ -17,4 +17,4 @@ source_sha256: 70464807d63da08244e495f2ff0ac30b12b30119926b84cedc7930397fcb80ef
 
 # Artículo 5o
 
-La Secretaría, en el marco del Sistema Nacional de Salud, llevará a cabo programas y campañas de control y fomento sanitario, e invitará a participar en éstas a la comunidad, productores, profesionales de la salud y prestadores de servicios.
+La [Secretaría](articulo-2o.md), en el marco del Sistema Nacional de Salud, llevará a cabo programas y campañas de control y fomento sanitario, e invitará a participar en éstas a la comunidad, productores, profesionales de la salud y prestadores de servicios.

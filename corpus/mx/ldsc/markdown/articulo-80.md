@@ -17,4 +17,4 @@ source_sha256: 45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80
 
 # Artículo 80
 
-La Secretaría, en coordinación y colaboración con las autoridades aduaneras, podrá intercambiar información sobre las importaciones definitivas o temporales de café, en los términos del convenio o acuerdo que al efecto suscriban.
+La [Secretaría](articulo-3.md), en coordinación y colaboración con las autoridades aduaneras, podrá intercambiar información sobre las importaciones definitivas o temporales de café, en los términos del convenio o acuerdo que al efecto suscriban.

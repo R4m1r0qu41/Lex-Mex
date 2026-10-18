@@ -17,4 +17,4 @@ source_sha256: d23aedc9ffdb09b9202311f03023241da20445cb45aea855b37bfd9685768861
 
 # Artículo 210
 
-Para efectos del artículo [128](../../lic-calidad/markdown/articulo-128.md) de la Ley, el Centro Nacional de Metrología, con el soporte de los Institutos Designados de Metrología y los Laboratorios de medición o Calibración acreditados y aprobados, debe asegurar que su capacidad de medición y Calibración sustente la certeza técnica y la uniformidad de las mediciones que realiza la industria.
+Para efectos del artículo [128](../../lic-calidad/markdown/articulo-128.md) de la [Ley](articulo-2.md), el Centro Nacional de Metrología, con el soporte de los Institutos Designados de Metrología y los [Laboratorios](articulo-2.md) de medición o [Calibración](articulo-2.md) acreditados y aprobados, debe asegurar que su capacidad de medición y Calibración sustente la certeza técnica y la uniformidad de las mediciones que realiza la industria.

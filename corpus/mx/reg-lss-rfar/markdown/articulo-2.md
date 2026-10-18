@@ -23,6 +23,6 @@ I. Consejo Técnico: El Consejo Técnico del Instituto;
 
 II. Reservas: Las Reservas Financieras y Actuariales señaladas en la fracción III del artículo [280](../../lss/markdown/articulo-280.md) de la Ley;
 
-III. Reserva General: La Reserva General Financiera y Actuarial señalada en la fracción IV del artículo [280](../../lss/markdown/articulo-280.md) de la Ley, y
+III. Reserva General: La [Reserva](articulo-2.md) General Financiera y Actuarial señalada en la fracción IV del artículo [280](../../lss/markdown/articulo-280.md) de la Ley, y
 
 IV. Seguros y Coberturas: Los seguros de Riesgos de Trabajo, de Enfermedades y Maternidad, de Gastos Médicos para Pensionados, de Invalidez y Vida, de Guarderías y Prestaciones Sociales y de Salud para la Familia administrados por el Instituto, así como los demás seguros y coberturas que se establezcan conforme a la Ley. REGLAMENTO DE LA LEY DEL SEGURO SOCIAL PARA LA CONSTITUCIÓN, INVERSIÓN Y USO PARA LA OPERACIÓN DE LAS RESERVAS FINANCIERAS Y ACTUARIALES Y LA RESERVA GENERAL FINANCIERA Y ACTUARIAL, ASÍ COMO PARA LA DETERMINACIÓN DE LOS COSTOS FINANCIEROS QUE DEBERÁN REINTEGRARSE A LA RESERVA DE OPERACIÓN PARA CONTINGENCIAS Y FINANCIAMIENTO

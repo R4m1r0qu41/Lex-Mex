@@ -15,7 +15,7 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 # Artículo 39
 
-Toda obra mayor de construcción, reconstrucción o ampliación de un aeródromo civil debe llevarse a cabo con apego a un proyecto ejecutivo, que debe observar las especificaciones técnicas, de seguridad y calidad aplicables y ser previamente aprobado por la Secretaría.
+Toda obra mayor de construcción, reconstrucción o ampliación de un aeródromo civil debe llevarse a cabo con apego a un proyecto ejecutivo, que debe observar las especificaciones técnicas, de seguridad y calidad aplicables y ser previamente aprobado por la [Secretaría](articulo-2.md).
 
 El proyecto ejecutivo debe contener la ubicación de los inmuebles en los que se construirá la obra y el régimen jurídico de los mismos; la descripción y planos del proyecto; las características y condiciones generales de operación, y el programa de obra e inversión.
 

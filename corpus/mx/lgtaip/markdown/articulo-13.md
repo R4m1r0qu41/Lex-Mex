@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 13
 
-Las Autoridades garantes, en el ámbito de sus atribuciones, deberán suplir cualquier deficiencia para garantizar el ejercicio del derecho de acceso a la información, sin que ello implique variar la solicitud, atendiendo al principio de congruencia.
+Las [Autoridades garantes](articulo-3.md), en el ámbito de sus atribuciones, deberán suplir cualquier deficiencia para garantizar el ejercicio del derecho de acceso a la información, sin que ello implique variar la solicitud, atendiendo al principio de congruencia.

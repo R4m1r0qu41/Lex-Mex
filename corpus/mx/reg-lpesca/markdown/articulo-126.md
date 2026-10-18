@@ -17,6 +17,6 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # Artículo 126
 
-La introducción de especies vivas que no existan de forma natural en el cuerpo de agua de jurisdicción federal receptor, la Secretaría, considerando la opinión del Instituto Nacional de la Pesca y observando el periodo de cuarentena previo, resolverá sobre la procedencia de la misma.
+La introducción de especies vivas que no existan de forma natural en el cuerpo de agua de jurisdicción federal receptor, la [Secretaría](articulo-2o.md), considerando la opinión del Instituto Nacional de la Pesca y observando el periodo de cuarentena previo, resolverá sobre la procedencia de la misma.
 
 Para tal efecto, el solicitante deberá cumplir con los requisitos previstos en las normas que para tal efecto expida la Secretaría.

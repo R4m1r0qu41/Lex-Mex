@@ -15,7 +15,7 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 # Artículo 22
 
-Los concesionarios o permisionarios sólo podrán iniciar operaciones cuando, además de haber cubierto los requisitos previstos para tal efecto en la concesión o permiso correspondiente, la Secretaría les haya aprobado los documentos siguientes:
+Los concesionarios o permisionarios sólo podrán iniciar operaciones cuando, además de haber cubierto los requisitos previstos para tal efecto en la concesión o permiso correspondiente, la [Secretaría](articulo-2.md) les haya aprobado los documentos siguientes:
 
 I. En caso de construcción, el aviso de la terminación de la obra;
 
@@ -27,7 +27,7 @@ IV. La póliza de seguro a que se refiere el artículo [146](articulo-146.md) de
 
 V. El registro de las tarifas de los servicios que prestarán;
 
-VI. En su caso, el documento por el que se constituya el comité de operación y horarios a que se refiere el artículo [61](../../laero/markdown/articulo-61.md) de la Ley, así como la aprobación de su reglamento interno;
+VI. En su caso, el documento por el que se constituya el comité de operación y horarios a que se refiere el artículo [61](../../laero/markdown/articulo-61.md) de la [Ley](articulo-2.md), así como la aprobación de su reglamento interno;
 
 VII. El documento por el que se constituya el comité local de seguridad a que se refiere el artículo [73](../../laero/markdown/articulo-73.md) de la Ley y el programa local de seguridad autorizado, y
 

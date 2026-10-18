@@ -17,7 +17,7 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 83 Quinquies
 
-A la persona que, sin autorización posea, porte o transporte cargadores, así como cualquier otro accesorio para abastecer de municiones o cartuchos un arma de las reservadas para el uso exclusivo de la Fuerza Armada Permanente, se le sancionará con:
+A la persona que, sin autorización posea, porte o transporte cargadores, así como cualquier otro accesorio para abastecer de municiones o cartuchos un arma de las reservadas para el uso exclusivo de la [Fuerza Armada Permanente](articulo-1o-Bis.md), se le sancionará con:
 
 I.- Prisión de dos a cuatro años y multa de cincuenta a cien veces el valor diario de la Unidad de Medida y Actualización, cuando se trate de dos y hasta cinco cargadores u otros accesorios, y
 

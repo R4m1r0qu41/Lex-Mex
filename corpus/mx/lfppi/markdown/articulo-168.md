@@ -17,4 +17,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 168
 
-La información requerida para determinar la seguridad y eficacia de productos farmoquímicos o agroquímicos que utilicen nuevos componentes quedará protegida en los términos de la legislación aplicable o, en su caso, de los Tratados Internacionales.
+La información requerida para determinar la seguridad y eficacia de productos farmoquímicos o agroquímicos que utilicen nuevos componentes quedará protegida en los términos de la legislación aplicable o, en su caso, de los [Tratados Internacionales](articulo-4.md).

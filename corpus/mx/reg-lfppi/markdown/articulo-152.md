@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 152
 
-Las personas distribuidoras o comercializadoras en cualquier tiempo podrán solicitar la cancelación voluntaria de la inscripción del convenio al que hace referencia el artículo [151](articulo-151.md) de este Reglamento. El Instituto podrá solicitar la ratificación de firmas de la solicitud de cancelación.
+Las personas distribuidoras o comercializadoras en cualquier tiempo podrán solicitar la cancelación voluntaria de la inscripción del convenio al que hace referencia el artículo [151](articulo-151.md) de este [Reglamento](articulo-2.md). El Instituto podrá solicitar la ratificación de firmas de la solicitud de cancelación.

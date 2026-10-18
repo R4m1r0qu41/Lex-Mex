@@ -17,4 +17,4 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 # Artículo 67
 
-La orientación, capacitación y profesionalización de los Servidores Públicos relativa a la prevención, la inhibición y la prohibición de la tortura y otros tratos o penas crueles, inhumanos o degradantes comprenderá, entre otras fuentes, a las normas y criterios de derecho nacional e internacional; así como el Protocolo de actuación para quienes imparten justicia en asuntos que involucren hechos constitutivos de tortura y malos tratos, y sus anexos, de la Suprema Corte de Justicia de la Nación.
+La orientación, capacitación y profesionalización de los [Servidores Públicos](articulo-5.md) relativa a la prevención, la inhibición y la prohibición de la tortura y otros tratos o penas crueles, inhumanos o degradantes comprenderá, entre otras fuentes, a las normas y criterios de derecho nacional e internacional; así como el Protocolo de actuación para quienes imparten justicia en asuntos que involucren hechos constitutivos de tortura y malos tratos, y sus anexos, de la Suprema Corte de Justicia de la Nación.

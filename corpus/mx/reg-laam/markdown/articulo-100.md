@@ -17,6 +17,6 @@ source_sha256: 8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca
 
 # Artículo 100
 
-La Comisión Coordinadora establecerá en el Manual y en las demás disposiciones que emita, las instrucciones para la aplicación del examen de conocimientos prácticos y los métodos y procedimientos para su evaluación.
+La [Comisión Coordinadora](articulo-5.md) establecerá en el [Manual](articulo-5.md) y en las demás disposiciones que emita, las instrucciones para la aplicación del examen de conocimientos prácticos y los métodos y procedimientos para su evaluación.
 
 Artículo reformado DOF 22-09-2010, 11-03-2016

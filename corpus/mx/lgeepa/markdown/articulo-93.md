@@ -17,6 +17,6 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 93
 
-La Secretaría, realizará las acciones necesarias para evitar, y en su caso controlar procesos de eutroficación, salinización y cualquier otro proceso de contaminación en las aguas nacionales.
+La [Secretaría](articulo-3o.md), realizará las acciones necesarias para evitar, y en su caso controlar procesos de eutroficación, salinización y cualquier otro proceso de contaminación en las aguas nacionales.
 
 Artículo reformado DOF 13-12-1996

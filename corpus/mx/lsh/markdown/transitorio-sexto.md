@@ -15,4 +15,4 @@ source_sha256: 1405f36fd836ff74d059ebe7e50ae439cbb9e5e291a317514667f34a26f72a23
 
 # Sexto
 
-La Secretaría de Energía y la Comisión Nacional de Energía, dentro de los ciento ochenta días naturales después de la entrada en vigor de la presente Ley, deben dejar sin efectos la regulación aplicable a las ventas de primera mano y aquella regulación asimétrica aplicables a Petróleos Mexicanos y sus empresas filiales, y establecer las obligaciones para la presentación de información respectiva.
+La Secretaría de Energía y la Comisión Nacional de Energía, dentro de los ciento ochenta días naturales después de la entrada en vigor de la presente Ley, deben dejar sin efectos la regulación aplicable a las ventas de primera mano y aquella regulación asimétrica aplicables a [Petróleos](articulo-5.md) Mexicanos y sus empresas filiales, y establecer las obligaciones para la presentación de información respectiva.

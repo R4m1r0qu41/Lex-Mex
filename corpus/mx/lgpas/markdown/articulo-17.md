@@ -17,7 +17,7 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 17
 
-Para la formulación y conducción de la Política Nacional de Pesca y Acuacultura Sustentables, en la aplicación de los programas y los instrumentos que se deriven de ésta Ley, se deberán observar los siguientes principios:
+Para la formulación y conducción de la Política Nacional de [Pesca](articulo-4o.md) y [Acuacultura](articulo-4o.md) Sustentables, en la aplicación de los programas y los instrumentos que se deriven de ésta Ley, se deberán observar los siguientes principios:
 
 I. El Estado Mexicano reconoce que la pesca y la acuacultura son actividades que fortalecen la soberanía alimentaria y territorial de la nación, que son asuntos de seguridad nacional y son prioridad para la planeación nacional del desarrollo y la gestión integral de los recursos pesqueros y acuícolas;
 

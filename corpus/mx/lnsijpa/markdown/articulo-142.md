@@ -17,4 +17,4 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 142
 
-Oralidad y publicidad El juicio se desahogará de manera oral. Se llevará a puerta cerrada. Sólo podrán estar presentes quienes en ella intervengan, salvo que la persona adolescente solicite que sea público, con las restricciones que el Tribunal de Juicio Oral ordene. Se observará lo dispuesto en el Código Nacional para el desarrollo de la etapa de enjuiciamiento.
+Oralidad y publicidad El juicio se desahogará de manera oral. Se llevará a puerta cerrada. Sólo podrán estar presentes quienes en ella intervengan, salvo que la persona adolescente solicite que sea público, con las restricciones que el Tribunal de Juicio Oral ordene. Se observará lo dispuesto en el [Código Nacional](articulo-3.md) para el desarrollo de la etapa de enjuiciamiento.

@@ -17,4 +17,4 @@ source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 
 # Artículo 46
 
-Los lineamientos y estrategias ecológicas, a que hace referencia el [artículo anterior](articulo-45.md), deberán contener los criterios para la regulación ambiental de los asentamientos humanos a que se refiere el artículo [23](../../lgeepa/markdown/articulo-23.md) de la Ley.
+Los lineamientos y estrategias ecológicas, a que hace referencia el [artículo anterior](articulo-45.md), deberán contener los criterios para la regulación ambiental de los asentamientos humanos a que se refiere el artículo [23](../../lgeepa/markdown/articulo-23.md) de la [Ley](articulo-3o.md).

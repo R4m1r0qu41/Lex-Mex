@@ -17,7 +17,7 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 56 BIS
 
-La Secretaría constituirá un Consejo Nacional de Áreas Naturales Protegidas, que estará integrado por representantes de la misma, de otras dependencias y entidades de la Administración Pública Federal, así como de instituciones académicas y centros de investigación, agrupaciones de productores y empresarios, organizaciones no gubernamentales y de otros organismos de carácter social o privado, así como personas físicas, con reconocido prestigio en la materia.
+La [Secretaría](articulo-3o.md) constituirá un Consejo Nacional de Áreas Naturales Protegidas, que estará integrado por representantes de la misma, de otras dependencias y entidades de la Administración Pública Federal, así como de instituciones académicas y centros de investigación, agrupaciones de productores y empresarios, organizaciones no gubernamentales y de otros organismos de carácter social o privado, así como personas físicas, con reconocido prestigio en la materia.
 
 El Consejo fungirá como órgano de consulta y apoyo de la Secretaría en la formulación, ejecución, seguimiento y evaluación de la política para el establecimiento, manejo y vigilancia de las áreas naturales protegidas de su competencia. Las opiniones y recomendaciones que formule el Consejo, deberán ser considerados por la Secretaría en el ejercicio de las facultades que en materia de áreas naturales protegidas le corresponden conforme a éste y otros ordenamientos jurídicos aplicables.
 

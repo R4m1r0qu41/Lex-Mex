@@ -15,4 +15,4 @@ source_sha256: 9080231242a59cbd78d30fb747864bc45cd63d3c4978f37086b01e45343f4244
 
 # Quinto
 
-La persona Comisaria de Petróleos Mexicanos debe realizar la evaluación de la empresa conforme al artículo [125](../../lepepm/markdown/articulo-125.md) de la Ley de la Empresa Pública del Estado, Petróleos Mexicanos, durante el año 2025, respecto del año 2024, y presentarlo a más tardar el día 31 de diciembre de 2025.
+La persona Comisaria de Petróleos Mexicanos debe realizar la evaluación de la empresa conforme al artículo [125](../../lepepm/markdown/articulo-125.md) de la [Ley](articulo-2.md) de la Empresa Pública del Estado, Petróleos Mexicanos, durante el año 2025, respecto del año 2024, y presentarlo a más tardar el día 31 de diciembre de 2025.

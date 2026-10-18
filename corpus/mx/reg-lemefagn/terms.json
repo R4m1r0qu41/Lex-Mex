@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "term": "Instituciones Educativas",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lemefagn",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:3",
+    "fraction": "III",
+    "start_char": 345,
+    "end_char": 417,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:jefaturas-de-curso",
+    "term": "Jefaturas de curso",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lemefagn",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:3",
+    "fraction": "IV",
+    "start_char": 417,
+    "end_char": 572,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:plan-general",
+    "term": "Plan General",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lemefagn",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:3",
+    "fraction": "V",
+    "start_char": 572,
+    "end_char": 628,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "term": "Sistema",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lemefagn",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:3",
+    "fraction": "VII",
+    "start_char": 676,
+    "end_char": 719,
+    "basis": "express_definition"
+  }
+]

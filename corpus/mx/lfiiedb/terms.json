@@ -1,1 +1,266 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiiedb:term:apoyo",
+    "term": "Apoyo",
+    "instrument_id": "urn:lex-mx:federal:statute:lfiiedb",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfiiedb:article:4",
+    "fraction": "I",
+    "start_char": 42,
+    "end_char": 200,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiiedb:term:beneficios",
+    "term": "Beneficios",
+    "instrument_id": "urn:lex-mx:federal:statute:lfiiedb",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfiiedb:article:4",
+    "fraction": "II",
+    "start_char": 200,
+    "end_char": 306,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiiedb:term:comite-de-analisis-de-riesgos",
+    "term": "Comité de Análisis de Riesgos",
+    "instrument_id": "urn:lex-mx:federal:statute:lfiiedb",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfiiedb:article:4",
+    "fraction": "III",
+    "start_char": 306,
+    "end_char": 561,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiiedb:term:comite-tecnico",
+    "term": "Comité Técnico",
+    "instrument_id": "urn:lex-mx:federal:statute:lfiiedb",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfiiedb:article:4",
+    "fraction": "IV",
+    "start_char": 561,
+    "end_char": 801,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiiedb:term:consejo",
+    "term": "Consejo",
+    "instrument_id": "urn:lex-mx:federal:statute:lfiiedb",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfiiedb:article:4",
+    "fraction": "V",
+    "start_char": 801,
+    "end_char": 934,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiiedb:term:dependencias",
+    "term": "Dependencias",
+    "instrument_id": "urn:lex-mx:federal:statute:lfiiedb",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfiiedb:article:4",
+    "fraction": "VI",
+    "start_char": 934,
+    "end_char": 1088,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiiedb:term:entes-publicos",
+    "term": "Entes Públicos",
+    "instrument_id": "urn:lex-mx:federal:statute:lfiiedb",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfiiedb:article:4",
+    "fraction": "VII",
+    "start_char": 1088,
+    "end_char": 1361,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiiedb:term:entidades",
+    "term": "Entidades",
+    "instrument_id": "urn:lex-mx:federal:statute:lfiiedb",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfiiedb:article:4",
+    "fraction": "VIII",
+    "start_char": 1361,
+    "end_char": 1444,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiiedb:term:entidades-federativas",
+    "term": "Entidades Federativas",
+    "instrument_id": "urn:lex-mx:federal:statute:lfiiedb",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfiiedb:article:4",
+    "fraction": "IX",
+    "start_char": 1444,
+    "end_char": 1523,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiiedb:term:esquemas-de-participacion-mixta",
+    "term": "Esquemas de Participación Mixta",
+    "instrument_id": "urn:lex-mx:federal:statute:lfiiedb",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfiiedb:article:4",
+    "fraction": "X",
+    "start_char": 1523,
+    "end_char": 2356,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiiedb:term:fonadin",
+    "term": "FONADIN",
+    "instrument_id": "urn:lex-mx:federal:statute:lfiiedb",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfiiedb:article:4",
+    "fraction": "XI",
+    "start_char": 2356,
+    "end_char": 2551,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiiedb:term:infraestructura-estrategica",
+    "term": "Infraestructura estratégica",
+    "instrument_id": "urn:lex-mx:federal:statute:lfiiedb",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfiiedb:article:4",
+    "fraction": "XII",
+    "start_char": 2551,
+    "end_char": 3356,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiiedb:term:interesado",
+    "term": "Interesado",
+    "instrument_id": "urn:lex-mx:federal:statute:lfiiedb",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfiiedb:article:4",
+    "fraction": "XIII",
+    "start_char": 3356,
+    "end_char": 3442,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiiedb:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:statute:lfiiedb",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfiiedb:article:4",
+    "fraction": "XIV",
+    "start_char": 3442,
+    "end_char": 3553,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiiedb:term:mecanismos-financieros",
+    "term": "Mecanismos financieros",
+    "instrument_id": "urn:lex-mx:federal:statute:lfiiedb",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfiiedb:article:4",
+    "fraction": "XV",
+    "start_char": 3553,
+    "end_char": 3695,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiiedb:term:mecanismos-de-inversion",
+    "term": "Mecanismos de inversión",
+    "instrument_id": "urn:lex-mx:federal:statute:lfiiedb",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfiiedb:article:4",
+    "fraction": "XVI",
+    "start_char": 3695,
+    "end_char": 4130,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiiedb:term:municipios",
+    "term": "Municipios",
+    "instrument_id": "urn:lex-mx:federal:statute:lfiiedb",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfiiedb:article:4",
+    "fraction": "XVII",
+    "start_char": 4130,
+    "end_char": 4185,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiiedb:term:prosperidad-compartida",
+    "term": "Prosperidad Compartida",
+    "instrument_id": "urn:lex-mx:federal:statute:lfiiedb",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfiiedb:article:4",
+    "fraction": "XVIII",
+    "start_char": 4185,
+    "end_char": 4412,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiiedb:term:proyectos-para-el-desarrollo-con-bienestar",
+    "term": "Proyectos para el desarrollo con bienestar",
+    "instrument_id": "urn:lex-mx:federal:statute:lfiiedb",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfiiedb:article:4",
+    "fraction": "XIX",
+    "start_char": 4412,
+    "end_char": 4796,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiiedb:term:proyectos-elegibles",
+    "term": "Proyectos Elegibles",
+    "instrument_id": "urn:lex-mx:federal:statute:lfiiedb",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfiiedb:article:4",
+    "fraction": "XX",
+    "start_char": 4796,
+    "end_char": 4942,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiiedb:term:proyectos-procedentes",
+    "term": "Proyectos Procedentes",
+    "instrument_id": "urn:lex-mx:federal:statute:lfiiedb",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfiiedb:article:4",
+    "fraction": "XXI",
+    "start_char": 4942,
+    "end_char": 5139,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiiedb:term:reglamento",
+    "term": "Reglamento",
+    "instrument_id": "urn:lex-mx:federal:statute:lfiiedb",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfiiedb:article:4",
+    "fraction": "XXII",
+    "start_char": 5139,
+    "end_char": 5275,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiiedb:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lfiiedb",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfiiedb:article:4",
+    "fraction": "XXIII",
+    "start_char": 5275,
+    "end_char": 5341,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiiedb:term:vehiculos-de-proposito-especifico",
+    "term": "Vehículos de Propósito Específico",
+    "instrument_id": "urn:lex-mx:federal:statute:lfiiedb",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfiiedb:article:4",
+    "fraction": "XXIV",
+    "start_char": 5341,
+    "end_char": 5664,
+    "basis": "express_definition"
+  }
+]

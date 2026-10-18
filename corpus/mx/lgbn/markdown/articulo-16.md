@@ -17,6 +17,6 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # Artículo 16
 
-Las concesiones, asignaciones, permisos y autorizaciones sobre bienes sujetos al régimen de dominio público de la Federación no crean derechos reales; otorgan simplemente frente a la administración y sin perjuicio de terceros, el derecho a realizar los usos, aprovechamientos o explotaciones, de acuerdo con las reglas y condiciones que establezcan las leyes y el título de la concesión o asignación, el permiso o la autorización correspondiente.
+Las concesiones, asignaciones, permisos y autorizaciones sobre bienes sujetos al régimen de dominio público de la [Federación](articulo-2.md) no crean derechos reales; otorgan simplemente frente a la administración y sin perjuicio de terceros, el derecho a realizar los usos, aprovechamientos o explotaciones, de acuerdo con las reglas y condiciones que establezcan las leyes y el título de la concesión o asignación, el permiso o la autorización correspondiente.
 
 Artículo reformado DOF 16-07-2025

@@ -17,13 +17,13 @@ source_sha256: 2a105e5201b86ff5517ca1ef8d971224ea8c717f195fdd5fa28b916c7e622e56
 
 # Artículo 27
 
-Cada Persona Protegida que se incorpore al Programa deberá suscribir el Convenio de Entendimiento, de manera conjunta con el Director, el cual como mínimo contendrá:
+Cada [Persona Protegida](articulo-2.md) que se incorpore al [Programa](articulo-2.md) deberá suscribir el [Convenio de Entendimiento](articulo-2.md), de manera conjunta con el [Director](articulo-2.md), el cual como mínimo contendrá:
 
-A) La manifestación de la persona, de su admisión al Programa de manera voluntaria, con pleno conocimiento, sin coacción y que las Medidas de Protección a otorgar no serán entendidas como pago, compensación o recompensas por su intervención en el Procedimiento Penal.
+A) La manifestación de la persona, de su admisión al Programa de manera voluntaria, con pleno conocimiento, sin coacción y que las [Medidas de Protección](articulo-2.md) a otorgar no serán entendidas como pago, compensación o recompensas por su intervención en el Procedimiento Penal.
 
 B) La manifestación de la persona de estar enterada sobre la temporalidad de las Medidas de Protección, las cuales se mantendrán mientras subsistan las circunstancias que le dieron origen.
 
-C) Los alcances y el carácter de las Medidas de Protección que se van a otorgar por parte del Centro.
+C) Los alcances y el carácter de las Medidas de Protección que se van a otorgar por parte del [Centro](articulo-2.md).
 
 D) La facultad del Centro de mantener, modificar o suprimir todas o algunas de las Medidas de Protección durante cualquier etapa del Procedimiento Penal cuando exista la solicitud de la persona o se produzcan hechos o circunstancias que así lo ameriten.
 

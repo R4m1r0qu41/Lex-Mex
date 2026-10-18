@@ -17,6 +17,6 @@ source_sha256: 4fadf9a6f2d22a9e48d8e29ed302456751da66eb723e0df1dc6ac45a5e4640b0
 
 # Artículo 6
 
-Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de reconocer la validez y los efectos de la Declaración Especial de Ausencia expedida por un Órgano Jurisdiccional competente.
+Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de reconocer la validez y los efectos de la [Declaración Especial de Ausencia](articulo-3.md) expedida por un [Órgano Jurisdiccional](articulo-3.md) competente.
 
-La validez y los efectos de la Declaración Especial de Ausencia serán exigibles ante cualquier autoridad federal; así como ante los particulares cuando realicen actos equivalentes a los de autoridad, que afecten los derechos de las Personas Desaparecidas o sus Familiares, en términos de esta Ley.
+La validez y los efectos de la Declaración Especial de Ausencia serán exigibles ante cualquier autoridad federal; así como ante los particulares cuando realicen actos equivalentes a los de autoridad, que afecten los derechos de las [Personas Desaparecidas](articulo-3.md) o sus [Familiares](articulo-3.md), en términos de esta Ley.

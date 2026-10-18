@@ -17,4 +17,4 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 Se interrumpe la prestación de los servicios aeroportuarios o complementarios cuando se dejan de prestar en el aeródromo en forma total o parcial y temporal o permanente.
 
-En caso de que se pretenda suspender la prestación de servicios a un usuario o usuarios en particular se estará a lo dispuesto por el artículo [55](../../laero/markdown/articulo-55.md) de la Ley.
+En caso de que se pretenda suspender la prestación de servicios a un usuario o usuarios en particular se estará a lo dispuesto por el artículo [55](../../laero/markdown/articulo-55.md) de la [Ley](articulo-2.md).

@@ -17,6 +17,6 @@ source_sha256: 67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35
 
 # Artículo 57
 
-Las personas permisionarias y concesionarias deben presentar a la Secretaría anualmente un informe técnico de actividades y financiero relativo a las actividades realizadas dentro del periodo que se reporta en el Área Geotérmica objeto del Permiso de Exploración o Concesión.
+Las personas permisionarias y concesionarias deben presentar a la [Secretaría](articulo-2.md) anualmente un informe técnico de actividades y financiero relativo a las actividades realizadas dentro del periodo que se reporta en el [Área Geotérmica](articulo-2.md) objeto del [Permiso de Exploración](articulo-2.md) o [Concesión](articulo-2.md).
 
-Las Permisionarias de Usos Diversos deben presentar a la Secretaría anualmente un informe de acuerdo con lo establecido en el Reglamento de esta Ley y en las disposiciones aplicables.
+Las Permisionarias de [Usos Diversos](articulo-2.md) deben presentar a la Secretaría anualmente un informe de acuerdo con lo establecido en el [Reglamento](articulo-2.md) de esta [Ley](articulo-2.md) y en las disposiciones aplicables.

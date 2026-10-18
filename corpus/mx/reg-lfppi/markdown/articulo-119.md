@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 119
 
-En el trámite de una solicitud de renovación de un registro de marca, el plazo para dar cumplimiento a un requerimiento formulado conforme a los artículos 237 de la Ley y 11, fracciones II, III, IV, V, VI, VIII, IX, X y XI de este Reglamento, será de dos meses improrrogables. En caso de no cumplir con el requerimiento dentro del plazo señalado, el registro caducará de pleno derecho, sin que se requiera de declaración por parte del Instituto.
+En el trámite de una solicitud de renovación de un registro de marca, el plazo para dar cumplimiento a un requerimiento formulado conforme a los artículos 237 de la Ley y 11, fracciones II, III, IV, V, VI, VIII, IX, X y XI de este [Reglamento](articulo-2.md), será de dos meses improrrogables. En caso de no cumplir con el requerimiento dentro del plazo señalado, el registro caducará de pleno derecho, sin que se requiera de declaración por parte del Instituto.

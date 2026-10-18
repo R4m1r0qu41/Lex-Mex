@@ -17,4 +17,4 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # Artículo 1o
 
-El presente ordenamiento tiene por objeto reglamentar la Ley de Pesca. Su aplicación corresponde al Ejecutivo Federal, por conducto de la Secretaría de Medio Ambiente, Recursos Naturales y Pesca, sin perjuicio de las atribuciones que correspondan a otras dependencias de la Administración Pública Federal.
+El presente ordenamiento tiene por objeto reglamentar la [Ley](articulo-2o.md) de Pesca. Su aplicación corresponde al Ejecutivo Federal, por conducto de la [Secretaría](articulo-2o.md) de Medio Ambiente, Recursos Naturales y Pesca, sin perjuicio de las atribuciones que correspondan a otras dependencias de la Administración Pública Federal.

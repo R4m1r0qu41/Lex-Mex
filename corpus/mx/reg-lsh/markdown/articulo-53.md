@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 53
 
-Durante el proceso de licitación, la Secretaría debe solicitar a Petróleos Mexicanos la opinión a que se refiere el artículo [55](../../lsh/markdown/articulo-55.md), párrafo quinto de la Ley. Petróleos Mexicanos cuenta con un plazo de diez días hábiles para emitir la opinión referida a partir de que reciba la solicitud.
+Durante el proceso de licitación, la [Secretaría](articulo-3.md) debe solicitar a [Petróleos Mexicanos](articulo-3.md) la opinión a que se refiere el artículo [55](../../lsh/markdown/articulo-55.md), párrafo quinto de la [Ley](articulo-3.md). Petróleos Mexicanos cuenta con un plazo de diez días hábiles para emitir la opinión referida a partir de que reciba la solicitud.

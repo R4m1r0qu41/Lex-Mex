@@ -17,4 +17,4 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 27
 
-Son facultades indelegables del Presidente las señaladas en las fracciones VII, VIII, X, XI, XII, XIII, XIV y XVI del [artículo anterior](articulo-26.md). Sin perjuicio de lo anterior, el Presidente podrá delegar en otros servidores públicos de la Comisión Nacional, el encargo de notificar los acuerdos de la Junta.
+Son facultades indelegables del [Presidente](articulo-2o.md) las señaladas en las fracciones VII, VIII, X, XI, XII, XIII, XIV y XVI del [artículo anterior](articulo-26.md). Sin perjuicio de lo anterior, el Presidente podrá delegar en otros servidores públicos de la [Comisión Nacional](articulo-2o.md), el encargo de notificar los acuerdos de la [Junta](articulo-2o.md).

@@ -17,4 +17,4 @@ source_sha256: aa96853f010885bdf85160e944e5c0ef5c3c8e95422dfede280d228cf064310a
 
 # Artículo 17
 
-La actividad de generación puede realizarse a través de las siguientes figuras: I. Generación Distribuida; II. Autoconsumo, y III. Generación para el Mercado Eléctrico Mayorista.
+La actividad de generación puede realizarse a través de las siguientes figuras: I. [Generación Distribuida](articulo-3.md); II. Autoconsumo, y III. Generación para el [Mercado Eléctrico Mayorista](articulo-3.md).

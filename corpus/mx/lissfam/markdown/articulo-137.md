@@ -17,6 +17,6 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 137
 
-En los centros de población en que radiquen contingentes militares numerosos, se establecerán capillas, con las atenciones usuales inherentes a las mismas, para prestar servicios funerarios mediante el pago de cuotas-costo, a los militares y a sus familiares señalados en el artículo [142](articulo-142.md) de esta Ley. Dentro de estos servicios, se proporcionarán el de carrozas, traslados, inhumaciones e incineraciones; así como la orientación y gestiones en bien de la economía de los deudos.
+En los centros de población en que radiquen contingentes militares numerosos, se establecerán capillas, con las atenciones usuales inherentes a las mismas, para prestar servicios funerarios mediante el pago de cuotas-costo, a los militares y a sus familiares señalados en el artículo [142](articulo-142.md) de esta [Ley](articulo-4o.md). Dentro de estos servicios, se proporcionarán el de carrozas, traslados, inhumaciones e incineraciones; así como la orientación y gestiones en bien de la economía de los deudos.
 
 Capítulo Quinto: Becas y créditos para la capacitación científica y tecnológica.

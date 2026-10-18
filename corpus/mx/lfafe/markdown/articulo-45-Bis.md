@@ -17,8 +17,8 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 45 Bis
 
-Cualquier modificación que hagan las personas morales que cuenten con algún permiso general deben hacerla del conocimiento de la Secretaría en un plazo de 15 días hábiles contados a partir de la fecha de su modificación, lo que deben de acreditar con original o copia certificada del documento legal en que conste la modificación, que debe agregarse a su expediente.
+Cualquier modificación que hagan las personas morales que cuenten con algún permiso general deben hacerla del conocimiento de la [Secretaría](articulo-1o-Bis.md) en un plazo de 15 días hábiles contados a partir de la fecha de su modificación, lo que deben de acreditar con original o copia certificada del documento legal en que conste la modificación, que debe agregarse a su expediente.
 
-La modificación debe cumplir con los requisitos que señalen esta Ley y su Reglamento y demás disposiciones que emita la Secretaría.
+La modificación debe cumplir con los requisitos que señalen esta [Ley](articulo-1o-Bis.md) y su [Reglamento](articulo-1o-Bis.md) y demás disposiciones que emita la Secretaría.
 
 Artículo adicionado DOF 29-05-2025

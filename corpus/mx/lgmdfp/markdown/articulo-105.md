@@ -17,12 +17,12 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 105
 
-El Registro Nacional debe estar interconectado con las herramientas de búsqueda e identificación previstas en esta Ley y ser actualizado en tiempo real, mediante personal designado y capacitado para ello. La información deberá ser recabada de conformidad con el Protocolo Homologado de Búsqueda.
+El [Registro Nacional](articulo-4.md) debe estar interconectado con las herramientas de búsqueda e identificación previstas en esta Ley y ser actualizado en tiempo real, mediante personal designado y capacitado para ello. La información deberá ser recabada de conformidad con el [Protocolo Homologado de Búsqueda](articulo-4.md).
 
-Para cumplir con sus fines de búsqueda, las Comisiones Locales de Búsqueda, las Procuradurías Locales y las Fiscalías Especializadas pueden consultar en cualquier momento el Registro Nacional.
+Para cumplir con sus fines de búsqueda, las [Comisiones Locales de Búsqueda](articulo-4.md), las Procuradurías Locales y las [Fiscalías Especializadas](articulo-4.md) pueden consultar en cualquier momento el Registro Nacional.
 
 La Fiscalía Especializada competente debe actualizar el Registro Nacional, indicando si la carpeta corresponde al delito de desaparición forzada de personas o desaparición cometida por particulares.
 
 Si de las investigaciones se desprende que se trata de un delito diferente a los previstos en esta Ley, así se hará constar en el Registro Nacional actualizando el estado del folio, sin perjuicio de que continúe la investigación correspondiente.
 
-Si la Persona Desaparecida o No Localizada ha sido encontrada viva o si fueron encontrados sus restos, la autoridad competente cambiará su estatus como Persona Localizada en el Registro Nacional y se dejará constancia de ello, sin perjuicio del seguimiento de la investigación correspondiente. Párrafo reformado DOF 16-07-2025
+Si la [Persona Desaparecida](articulo-4.md) o No Localizada ha sido encontrada viva o si fueron encontrados sus restos, la autoridad competente cambiará su estatus como Persona Localizada en el Registro Nacional y se dejará constancia de ello, sin perjuicio del seguimiento de la investigación correspondiente. Párrafo reformado DOF 16-07-2025

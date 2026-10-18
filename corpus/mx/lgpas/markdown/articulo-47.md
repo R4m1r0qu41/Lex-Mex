@@ -17,7 +17,7 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 47
 
-Para el otorgamiento de una concesión de un recurso pesquero por área, especie o grupo de especies para la pesca comercial, la Secretaría procederá conforme a lo siguiente:
+Para el otorgamiento de una concesión de un recurso pesquero por área, especie o grupo de especies para la pesca comercial, la [Secretaría](articulo-4o.md) procederá conforme a lo siguiente:
 
 I. Evaluará la capacidad técnica, administrativa y financiera del solicitante;
 
@@ -25,6 +25,6 @@ II. Evaluará la trayectoria previa del solicitante en cuanto a cumplimiento de 
 
 III. Priorizará las solicitudes de habitantes de las comunidades locales y las que tengan un impacto benéfico en lo económico y social en la región;
 
-IV. Informará de la solicitud al Consejo Estatal de Pesca y Acuacultura, quien podrá emitir opinión respecto a la solicitud recibida y contará con quince días naturales para hacerla del conocimiento de Secretaría, y
+IV. Informará de la solicitud al Consejo Estatal de [Pesca](articulo-4o.md) y [Acuacultura](articulo-4o.md), quien podrá emitir opinión respecto a la solicitud recibida y contará con quince días naturales para hacerla del conocimiento de Secretaría, y
 
 V. Una vez dictada la resolución, la Secretaría, en su caso, publicará la concesión en el Diario Oficial de la Federación, a costa del solicitante.

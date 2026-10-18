@@ -17,4 +17,4 @@ source_sha256: 7df3d678efda2306b68d3c0f5ca0e3e92b9066d5f773128f4ae19cb26bf44fff
 
 # Artículo 45
 
-El Transporte por medios distintos a ductos se debe otorgar para cualquier destino dentro del territorio nacional que se encuentre registrado en los términos y condiciones del permiso que expida la SENER. Las personas titulares de los Permisos de Transporte de Biogás o Biometano por medios distintos a ductos no pueden prestar servicios a otras personas titulares de los Permisos de Transporte o Distribución por medios distintos a ductos, ni permitir el Traslado del Biogás por un tercero.
+El Transporte por medios distintos a ductos se debe otorgar para cualquier destino dentro del territorio nacional que se encuentre registrado en los términos y condiciones del permiso que expida la [SENER](articulo-3.md). Las personas titulares de los Permisos de Transporte de [Biogás](articulo-3.md) o [Biometano](articulo-3.md) por medios distintos a ductos no pueden prestar servicios a otras personas titulares de los Permisos de Transporte o Distribución por medios distintos a ductos, ni permitir el Traslado del Biogás por un tercero.

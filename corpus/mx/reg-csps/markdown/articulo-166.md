@@ -17,4 +17,4 @@ source_sha256: 70464807d63da08244e495f2ff0ac30b12b30119926b84cedc7930397fcb80ef
 
 # Artículo 166
 
-Las etiquetas de los productos a que se refiere este título deberán contener información respecto de sus características y del riesgo que éstos representen para la salud, conforme a lo que disponga y especifique la Secretaría para el caso.
+Las etiquetas de los productos a que se refiere este título deberán contener información respecto de sus características y del riesgo que éstos representen para la salud, conforme a lo que disponga y especifique la [Secretaría](articulo-2o.md) para el caso.

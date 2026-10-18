@@ -17,4 +17,4 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 40
 
-Los Comisarios Públicos a que se refiere el [artículo anterior](articulo-39.md), evaluarán el desempeño general y por funciones de la Comisión Nacional y están facultados para solicitarle la información necesaria para el debido cumplimiento de sus atribuciones.
+Los Comisarios Públicos a que se refiere el [artículo anterior](articulo-39.md), evaluarán el desempeño general y por funciones de la [Comisión Nacional](articulo-2o.md) y están facultados para solicitarle la información necesaria para el debido cumplimiento de sus atribuciones.

@@ -17,4 +17,4 @@ source_sha256: d8dd1de3627b899bb4faf31c2812c3d5f14f7108be153d5aa8dd549b9136184a
 
 # Artículo 87
 
-En el caso de asentamientos humanos ya establecidos en Zonas de Alto Riesgo, las autoridades competentes con base en estudios de riesgos específicos, determinará la realización de las obras de infraestructura que sean necesarias para mitigar el riesgo a que están expuestas o, de ser el caso, deberán formular un plan a fin de determinar cuáles de ellos deben ser reubicados, proponiendo mecanismos financieros que permitan esta acción.
+En el caso de asentamientos humanos ya establecidos en Zonas de Alto [Riesgo](articulo-2.md), las autoridades competentes con base en estudios de riesgos específicos, determinará la realización de las obras de infraestructura que sean necesarias para mitigar el riesgo a que están expuestas o, de ser el caso, deberán formular un plan a fin de determinar cuáles de ellos deben ser reubicados, proponiendo mecanismos financieros que permitan esta acción.

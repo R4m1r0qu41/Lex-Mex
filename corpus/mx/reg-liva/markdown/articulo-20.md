@@ -17,7 +17,7 @@ source_sha256: 4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f
 
 # Artículo 20
 
-Para los efectos de las disposiciones que establece la Ley en materia de acreditamiento, éste podrá ser realizado por los contribuyentes que realicen actividades por las que se deba pagar el impuesto en inmuebles sujetos al régimen de propiedad en condominio, en la parte proporcional que les corresponda del impuesto trasladado en las operaciones que amparen los gastos comunes relativos al inmueble de que se trate, siempre que además de los requisitos que establece la Ley, se cumpla con lo siguiente:
+Para los efectos de las disposiciones que establece la [Ley](articulo-1.md) en materia de acreditamiento, éste podrá ser realizado por los contribuyentes que realicen actividades por las que se deba pagar el impuesto en inmuebles sujetos al régimen de propiedad en condominio, en la parte proporcional que les corresponda del impuesto trasladado en las operaciones que amparen los gastos comunes relativos al inmueble de que se trate, siempre que además de los requisitos que establece la Ley, se cumpla con lo siguiente:
 
 I. Que los gastos de conservación y mantenimiento sean realizados en nombre y representación de la asamblea general de condóminos por un administrador que cuente con facultades para actuar con el carácter mencionado otorgado por dicha asamblea;
 

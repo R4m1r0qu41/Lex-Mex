@@ -17,4 +17,4 @@ source_sha256: 9478163ef6ab468edc2be8def3bf84efedd03da5b6c166fba0430bfcb6d8467c
 
 # Artículo 23
 
-Las remuneraciones de las Personas Consejeras Independientes y de la Persona Comisaria deben ser establecidas por el Comité Especial y ser cubiertas con cargo a la Comisión Federal de Electricidad.
+Las remuneraciones de las [Personas Consejeras Independientes](articulo-2.md) y de la [Persona Comisaria](articulo-2.md) deben ser establecidas por el [Comité Especial](articulo-2.md) y ser cubiertas con cargo a la Comisión Federal de Electricidad.

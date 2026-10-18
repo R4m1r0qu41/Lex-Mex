@@ -17,7 +17,7 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # Artículo 27
 
-Para la operación del Sistema de Administración Inmobiliaria Federal y Paraestatal, se establece un Comité del Patrimonio Inmobiliario Federal y Paraestatal, que se integrará con las dependencias administradoras de inmuebles y las cinco entidades que cuenten con mayor número de inmuebles dentro de su patrimonio, cuyos titulares designarán al representante correspondiente. El Comité será presidido por la Secretaría y operará de acuerdo con las normas que para su organización y funcionamiento emita. Párrafo reformado DOF 03-05-2023
+Para la operación del Sistema de Administración Inmobiliaria Federal y Paraestatal, se establece un Comité del Patrimonio Inmobiliario Federal y Paraestatal, que se integrará con las dependencias administradoras de inmuebles y las cinco entidades que cuenten con mayor número de inmuebles dentro de su patrimonio, cuyos titulares designarán al representante correspondiente. El Comité será presidido por la [Secretaría](articulo-2.md) y operará de acuerdo con las normas que para su organización y funcionamiento emita. Párrafo reformado DOF 03-05-2023
 
 El Comité será un foro para el análisis, discusión y adopción de criterios comunes y de medidas eficaces y oportunas para lograr los fines del Sistema de Administración Inmobiliaria Federal y Paraestatal, que tendrá por objeto:
 

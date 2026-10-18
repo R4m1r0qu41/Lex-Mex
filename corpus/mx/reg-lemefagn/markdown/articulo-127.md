@@ -17,4 +17,4 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 127
 
-La Secretaría designará al personal para formular y aplicar los exámenes para la selección del personal aspirante a ingresar al Sistema.
+La Secretaría designará al personal para formular y aplicar los exámenes para la selección del personal aspirante a ingresar al [Sistema](articulo-3.md).

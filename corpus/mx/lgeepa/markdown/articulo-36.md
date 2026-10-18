@@ -17,7 +17,7 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 36
 
-Para garantizar la sustentabilidad de las actividades económicas, la Secretaría emitirá normas oficiales mexicanas en materia ambiental y para el aprovechamiento sustentable de los recursos naturales, que tengan por objeto:
+Para garantizar la sustentabilidad de las actividades económicas, la [Secretaría](articulo-3o.md) emitirá normas oficiales mexicanas en materia ambiental y para el aprovechamiento sustentable de los recursos naturales, que tengan por objeto:
 
 I.- Establecer los requisitos, especificaciones, condiciones, procedimientos, metas, parámetros y límites permisibles que deberán observarse en regiones, zonas, cuencas o ecosistemas, en aprovechamiento de recursos naturales, en el desarrollo de actividades económicas, en la producción, uso y destino de bienes, en insumos y en procesos; Fracción reformada DOF 24-05-2013
 

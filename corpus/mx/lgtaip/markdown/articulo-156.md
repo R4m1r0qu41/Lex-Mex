@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 156
 
-Las Autoridades garantes deben notificar a las partes y publicar las resoluciones, a más tardar, al tercer día siguiente de su aprobación. Los sujetos obligados deben informar a las Autoridades garantes de que se trate, el cumplimiento de sus resoluciones en un plazo no mayor a tres días.
+Las [Autoridades garantes](articulo-3.md) deben notificar a las partes y publicar las resoluciones, a más tardar, al tercer día siguiente de su aprobación. Los sujetos obligados deben informar a las Autoridades garantes de que se trate, el cumplimiento de sus resoluciones en un plazo no mayor a tres días.

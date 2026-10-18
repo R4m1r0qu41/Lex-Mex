@@ -17,7 +17,7 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 31
 
-La persona titular de la Autoridad Investigadora durará en su encargo cuatro años, pudiendo ser reelecta por una sola vez, previa evaluación objetiva de su desempeño. Párrafo reformado DOF 16-07-2025
+La persona titular de la [Autoridad Investigadora](articulo-3.md) durará en su encargo cuatro años, pudiendo ser reelecta por una sola vez, previa evaluación objetiva de su desempeño. Párrafo reformado DOF 16-07-2025
 
 Para ser titular de la Autoridad Investigadora se deberán cumplir los siguientes requisitos:
 
@@ -33,7 +33,7 @@ V. Contar con al menos cinco años de experiencia en el servicio público; Fracc
 
 VI. Haberse desempeñado, cuando menos ocho años, en forma destacada en actividades profesionales, de servicio público o académicas relacionadas con materias afines a las de competencia económica; Fracción reformada DOF 16-07-2025
 
-VII. No haber ocupado ningún empleo, cargo o función directiva o haber representado de cualquier forma los intereses de algún Agente Económico que haya estado sujeto a alguno de los procedimientos previstos en esta Ley durante los tres años previos a su nombramiento.
+VII. No haber ocupado ningún empleo, cargo o función directiva o haber representado de cualquier forma los intereses de algún [Agente Económico](articulo-3.md) que haya estado sujeto a alguno de los procedimientos previstos en esta Ley durante los tres años previos a su nombramiento.
 
 Concluido su encargo, por un plazo equivalente a una tercera parte del tiempo en que haya ejercido su función, el titular de la Autoridad Investigadora no podrá desempeñarse como consejero, administrador, director, gerente, directivo, ejecutivo, agente, representante o apoderado, de un Agente Económico que haya estado sujeto a alguno de los procedimientos a su cargo durante el desempeño de su responsabilidad.
 

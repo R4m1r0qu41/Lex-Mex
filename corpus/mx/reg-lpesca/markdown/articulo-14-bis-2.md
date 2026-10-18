@@ -17,7 +17,7 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # Artículo 14 bis 2
 
-La Secretaría publicará en el Diario Oficial de la Federación el formato de Guía de Pesca, el cual será de reproducción libre por parte de los interesados, tendrá una vigencia máxima de tres días hábiles, y deberá contener:
+La [Secretaría](articulo-2o.md) publicará en el Diario Oficial de la Federación el formato de Guía de Pesca, el cual será de reproducción libre por parte de los interesados, tendrá una vigencia máxima de tres días hábiles, y deberá contener:
 
 I. Lugar y Fecha de embarque;
 
@@ -37,4 +37,4 @@ VIII. Número(s) de folio y fecha(s) del aviso de arribo o de recolección, si s
 
 IX. Número(s) de Folio y fecha(s) de la factura o constancia de donación o adjudicación, cuando los productos pesqueros a transportar ya hayan sido enajenados por quienes los capturen, cultiven o produzcan en laboratorio, y
 
-X. Número de folio y fecha del inventario de existencias de especies en veda, si los productos transportados corresponden a especies inventariadas por encontrarse en veda; o fecha y aduana de entrada del pedimento de importación, en el caso de especies capturadas en el extranjero y/o número y fecha del Certificado CITES (Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestre) si se trata de productos provenientes de especies amenazadas de fauna y flora acuáticas y/o fecha y nombre o razón social de la autoridad o laboratorio que expida el Certificado de Sanidad, cuando lo requiera la Norma Oficial Mexicana correspondiente. Adición 28-01-2004
+X. Número de folio y fecha del inventario de existencias de especies en veda, si los productos transportados corresponden a especies inventariadas por encontrarse en veda; o fecha y aduana de entrada del pedimento de importación, en el caso de especies capturadas en el extranjero y/o número y fecha del Certificado CITES (Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestre) si se trata de productos provenientes de especies amenazadas de fauna y flora acuáticas y/o fecha y nombre o razón social de la autoridad o laboratorio que expida el Certificado de Sanidad, cuando lo requiera la [Norma](articulo-2o.md) Oficial Mexicana correspondiente. Adición 28-01-2004

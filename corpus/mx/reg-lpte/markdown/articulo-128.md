@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 128
 
-La Secretaría, la CNE y la CONUEE, en el ámbito de sus competencias, deben sancionar el incumplimiento o incumplimientos constatados mediante el procedimiento administrativo de sanción, en términos de lo dispuesto en el artículo [91](../../lpte/markdown/articulo-91.md) de la Ley.
+La [Secretaría](articulo-5.md), la CNE y la CONUEE, en el ámbito de sus competencias, deben sancionar el incumplimiento o incumplimientos constatados mediante el procedimiento administrativo de sanción, en términos de lo dispuesto en el artículo [91](../../lpte/markdown/articulo-91.md) de la [Ley](articulo-5.md).

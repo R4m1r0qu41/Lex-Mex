@@ -19,7 +19,7 @@ source_sha256: 0ad7a7b6d7dffd7d9a582d74ebd6fc43e6baa79f71801a73dc70d1b77c414ded
 
 En la celebración de la asamblea constitutiva de las asociaciones o uniones, los asociantes deberán:
 
-I. Acreditar ante la Secretaría que cumplen con los requisitos señalados en el artículo [27](articulo-27.md) de este Reglamento anexado las documentales respectivas; Aclaración 10-01-2000
+I. Acreditar ante la Secretaría que cumplen con los requisitos señalados en el artículo [27](articulo-27.md) de este [Reglamento](articulo-2o.md) anexado las documentales respectivas; Aclaración 10-01-2000
 
 II. Levantar lista de asistencia, misma que será cotejada con el acta previa de verificación y se agregará al acta constitutiva como padrón de productores:
 

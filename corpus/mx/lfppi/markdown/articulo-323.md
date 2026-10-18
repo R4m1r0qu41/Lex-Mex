@@ -17,6 +17,6 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 323
 
-En caso de que el Instituto niegue la inscripción, lo comunicará por escrito a la persona solicitante y, en su caso, a las personas oponentes, expresando los motivos y fundamentos legales de su resolución.
+En caso de que el [Instituto](articulo-4.md) niegue la inscripción, lo comunicará por escrito a la persona solicitante y, en su caso, a las personas oponentes, expresando los motivos y fundamentos legales de su resolución.
 
 Artículo reformado DOF 03-04-2026

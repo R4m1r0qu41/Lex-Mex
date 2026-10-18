@@ -17,21 +17,21 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 131
 
-Para hacer más eficiente la gestión pública, facilitar el cumplimiento de obligaciones por parte de los particulares y disminuir los costos de transacción, corresponde a la Secretaría, establecer y operar la Plataforma Tecnológica Integral de Infraestructura de la Calidad en los términos previstos en esta Ley y en su Reglamento.
+Para hacer más eficiente la gestión pública, facilitar el cumplimiento de obligaciones por parte de los particulares y disminuir los costos de transacción, corresponde a la [Secretaría](articulo-4.md), establecer y operar la [Plataforma Tecnológica Integral de Infraestructura de la Calidad](articulo-4.md) en los términos previstos en esta Ley y en su Reglamento.
 
-La Plataforma Tecnológica Integral de Infraestructura de la Calidad servirá como el principal medio de difusión y consulta de las Normas Oficiales Mexicanas, los Estándares y patrones nacionales de medidas. Con el propósito de promover, fomentar y difundir la cultura de la transparencia en la realización de las actividades de normalización, estandarización, Evaluación de la Conformidad y metrología, en términos de lo previsto en esta Ley y su Reglamento, en la Plataforma se publicarán:
+La Plataforma Tecnológica Integral de Infraestructura de la Calidad servirá como el principal medio de difusión y consulta de las [Normas Oficiales Mexicanas](articulo-4.md), los [Estándares](articulo-4.md) y patrones nacionales de medidas. Con el propósito de promover, fomentar y difundir la cultura de la transparencia en la realización de las actividades de normalización, estandarización, [Evaluación de la Conformidad](articulo-4.md) y metrología, en términos de lo previsto en esta Ley y su Reglamento, en la Plataforma se publicarán:
 
 I. Las Normas Oficiales Mexicanas, así como el catálogo de Normas Oficiales Mexicanas;
 
 II. Un extracto de los Estándares emitidos por los sujetos facultados para estandarizar o por los Organismos Nacionales de Estandarización;
 
-III. Los Estándares emitidos por las Autoridades Normalizadoras;
+III. Los Estándares emitidos por las [Autoridades Normalizadoras](articulo-4.md);
 
-IV. El Programa y su suplemento;
+IV. El [Programa](articulo-4.md) y su suplemento;
 
 V. La lista de instrumentos para medir que cuenten con la aprobación del modelo o prototipo;
 
-VI. Las Entidades de Acreditación y Organismos de Evaluación de la Conformidad;
+VI. Las [Entidades de Acreditación](articulo-4.md) y [Organismos de Evaluación de la Conformidad](articulo-4.md);
 
 VII. La relación de los sujetos facultados para estandarizar y de los Organismos Nacionales de Estandarización;
 
@@ -43,6 +43,6 @@ X. Listado de normas internacionales conforme a lo previsto en la fracción XV d
 
 XI. Los acuerdos de reconocimiento mutuo y acuerdos de equivalencia;
 
-XII. Los Comités Consultivos Nacionales de Normalización, Comités Mexicanos, así como de los comités técnicos en materia de estandarización, y
+XII. Los Comités Consultivos Nacionales de Normalización, [Comités Mexicanos](articulo-4.md), así como de los comités técnicos en materia de estandarización, y
 
 XIII. Aquellos que se establezcan en el Reglamento de esta Ley.

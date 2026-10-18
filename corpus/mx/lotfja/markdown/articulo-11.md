@@ -25,7 +25,7 @@ Los debates serán dirigidos por su Presidente.
 
 Los Magistrados de la Tercera Sección serán suplidos de manera temporal por el Magistrado Presidente, los presidentes de Sección o por alguno de los Magistrados del Pleno Jurisdiccional, en orden alfabético de sus apellidos.
 
-En caso de impedimento o en ausencia por causa mayor; el Presidente del Tribunal solicitará a cualquiera de los presidentes de las otras Secciones para que uno de ellos participe en las sesiones de la Tercera Sección en orden de turno. En caso de que ninguno de los dos se encuentre presente, podrá participar el Presidente del Tribunal o cualquier Magistrado de Sala Superior.
+En caso de impedimento o en ausencia por causa mayor; el [Presidente del Tribunal](articulo-2.md) solicitará a cualquiera de los presidentes de las otras Secciones para que uno de ellos participe en las sesiones de la Tercera Sección en orden de turno. En caso de que ninguno de los dos se encuentre presente, podrá participar el Presidente del Tribunal o cualquier Magistrado de Sala Superior.
 
 Siempre que un Magistrado disintiere de la mayoría podrá formular voto particular, el cual se insertará o engrosará al final de la sentencia respectiva si fuere presentado dentro de los cinco días siguientes a la fecha de la sesión.
 

@@ -17,4 +17,4 @@ source_sha256: 1405f36fd836ff74d059ebe7e50ae439cbb9e5e291a317514667f34a26f72a23
 
 # Artículo 35
 
-La Secretaría de Energía, puede revocar una Asignación para Desarrollo Mixto y recuperar el Área de Asignación cuando se presente alguna de las causas graves previstas en el artículo [18](articulo-18.md) de la presente Ley.
+La Secretaría de Energía, puede revocar una [Asignación para Desarrollo Mixto](articulo-5.md) y recuperar el [Área de Asignación](articulo-5.md) cuando se presente alguna de las causas graves previstas en el artículo [18](articulo-18.md) de la presente Ley.

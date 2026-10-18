@@ -15,6 +15,6 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 # Artículo 180
 
-El concesionario o permisionario que sea una persona moral mexicana, debe dar aviso a la Secretaría del cambio de la participación en su capital social en una o más operaciones simultáneas o sucesivas, directa o indirectamente, dentro de los veinticinco días hábiles siguientes a su realización, debiendo cumplir los nuevos accionistas con lo señalado en el artículo [22](../../laero/markdown/articulo-22.md) de la Ley.
+El concesionario o permisionario que sea una persona moral mexicana, debe dar aviso a la [Secretaría](articulo-2.md) del cambio de la participación en su capital social en una o más operaciones simultáneas o sucesivas, directa o indirectamente, dentro de los veinticinco días hábiles siguientes a su realización, debiendo cumplir los nuevos accionistas con lo señalado en el artículo [22](../../laero/markdown/articulo-22.md) de la [Ley](articulo-2.md).
 
 La Secretaría, en cualquier tiempo, está facultada para solicitar información sobre los nuevos accionistas y sobre los cambios de porcentaje de participación accionaria, y cuando éstos sean personas morales sobre la participación indirecta que a través de ellos se dé.

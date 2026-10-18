@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 206
 
-La Secretaría y la Comisión deben celebrar convenios de colaboración interinstitucional con las autoridades competentes para regular el acceso a la plataforma de información electrónica que al efecto se determine, con la finalidad de facilitar el intercambio de información en materia de prevención y sanción de delitos cometidos en materia de hidrocarburos.
+La [Secretaría](articulo-3.md) y la [Comisión](articulo-3.md) deben celebrar convenios de colaboración interinstitucional con las autoridades competentes para regular el acceso a la plataforma de información electrónica que al efecto se determine, con la finalidad de facilitar el intercambio de información en materia de prevención y sanción de delitos cometidos en materia de hidrocarburos.

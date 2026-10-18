@@ -17,7 +17,7 @@ source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 
 La actuación de los servidores públicos de carrera y la operación del Sistema se sujetará a los siguientes principios:
 
-I. Legalidad: Es la observancia estricta de las disposiciones que establece la Ley, este Reglamento, así como los demás ordenamientos jurídicos aplicables;
+I. Legalidad: Es la observancia estricta de las disposiciones que establece la [Ley](articulo-2.md), este Reglamento, así como los demás ordenamientos jurídicos aplicables;
 
 II. Eficiencia: Es el cumplimiento oportuno de los objetivos establecidos, empleando de manera racional, honesta y responsable los recursos disponibles;
 

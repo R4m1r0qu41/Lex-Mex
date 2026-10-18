@@ -17,4 +17,4 @@ source_sha256: 6680a58c98673518aee46582b3137d28987c275785d1f0c97295f0d89c4b692b
 
 # Artículo 108
 
-La Secretaría realizará visitas de verificación para constatar el cumplimiento de las disposiciones de la Ley, del presente Reglamento y de las Normas Oficiales Mexicanas en materia de Turismo.
+La Secretaría realizará visitas de verificación para constatar el cumplimiento de las disposiciones de la Ley, del presente Reglamento y de las Normas Oficiales Mexicanas en materia de [Turismo](articulo-2.md).

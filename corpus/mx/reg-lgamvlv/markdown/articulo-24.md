@@ -17,7 +17,7 @@ source_sha256: 71ee875c26fc6a1024ea9481ca0690721959514689d860112c3093f0176dfcfb
 
 # Artículo 24
 
-La Secretaría de Gobernación, a través de instrumentos de coordinación, establecerá Modelos de Sanción en los términos del artículo [8](../../lgamvlv/markdown/articulo-8.md) de la Ley. Párrafo reformado DOF 25-11-2013
+La Secretaría de Gobernación, a través de instrumentos de coordinación, establecerá [Modelos](articulo-2.md) de Sanción en los términos del artículo [8](../../lgamvlv/markdown/articulo-8.md) de la Ley. Párrafo reformado DOF 25-11-2013
 
 Los Modelos de Sanción deberán contener como mínimo: I. Las directrices de apoyo para los servidores públicos que conozcan de los tipos y modalidades de violencia contemplados en la Ley, para facilitar su actuación en la aplicación de sanciones conforme a la legislación aplicable que corresponda;
 

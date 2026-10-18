@@ -99,8 +99,10 @@ independently of that grammar.
 
 **Use in G1:** an instrument with this signal and no term is a G1 target.
 When G1 finishes, each such instrument either has the term or is on a
-reviewed list of implicit or absent definitions. Census script: a disposable
-scratch probe, to be reimplemented as a Rust audit in G1.
+reviewed list of implicit or absent definitions. The census script is a
+disposable scratch probe. Reimplementing it as a Rust audit is deferred: it was
+not built in G1, and a later milestone or the database's coverage checks pick it
+up.
 
 ### G1 — Detector and completeness probe
 
@@ -144,10 +146,24 @@ send a Codex review packet.
 
 ## Current checkpoint
 
-2026-10-18: plan drafted from the census, and nothing implemented. The
-reg-lan quoted-usage rule landed separately.
+2026-10-18: G0 and G1 landed (operator "go"). The wider fallback pass adds
+1,619 terms and 28,245 usages to 94 instruments that had none, and holds 19
+incomplete glossaries with a reason. No existing glossary changed. Details and
+the open rulings are in `docs/decisions.md` (2026-10-18, "Glossary
+auto-detection gains a wider fallback pass").
+
+**Next:** G2 (complete the originals) and G3 (imports).
+- G2 is mostly done by G1: LSH 5, LGEEPA 3, LSE 3, LPTE 3 and LGEO 2 now have
+  terms.
+- LSS needs a ruling: its art. 159 glossary is the one detected, not 5 A.
+- The held list needs the header-leak parser repair.
 
 ## Discoveries
+
+- **Inline glossaries end with `, y XXX. Término:`,** and entries often end
+  with a period or an amendment note on the same line as the next fraction.
+  The first probe held these as incomplete. Allowing those starts admitted 28
+  more instruments (66 → 94) without any partial glossary.
 
 - **The wording before the list names the originals.** `así como las
   siguientes` follows a clause that names them (`las definiciones contenidas
@@ -160,5 +176,6 @@ reg-lan quoted-usage rule landed separately.
 
 ## Next action
 
-The operator approves G1, or narrows the scope (for example, to the
-importing regulations and their originals only).
+The operator rules on which glossary governs where the established pass chose
+a narrower one (`lss` 159 versus 5 A, and the others listed in the decision
+entry). G3 imports follow.

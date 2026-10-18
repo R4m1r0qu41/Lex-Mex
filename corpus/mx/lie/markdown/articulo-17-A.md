@@ -27,6 +27,6 @@ c) En el caso de las personas a que se refiere la fracción I del [artículo ant
 
 Toda solicitud que cumpla con los requisitos mencionados, deberá otorgarse dentro de los quince días hábiles siguientes a la fecha de su presentación. Concluido dicho plazo sin que se emita resolución, se entenderá aprobada.
 
-La Secretaría deberá remitir a la Secretaría de Relaciones Exteriores una copia de las solicitudes y de las autorizaciones que otorgue con base en este artículo.
+La [Secretaría](articulo-2o.md) deberá remitir a la Secretaría de Relaciones Exteriores una copia de las solicitudes y de las autorizaciones que otorgue con base en este artículo.
 
 Artículo adicionado DOF 24-12-1996

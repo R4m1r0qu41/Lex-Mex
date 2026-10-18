@@ -19,11 +19,11 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 Una patente solo podrá ser declarada nula en los siguientes casos:
 
-I.- Cuando la materia protegida no se considere una invención, la invención no sea patentable, carezca de novedad, de actividad inventiva o de aplicación industrial, en términos de esta Ley;
+I.- Cuando la materia protegida no se considere una invención, la invención no sea patentable, carezca de novedad, de actividad inventiva o de aplicación industrial, en términos de esta [Ley](articulo-4.md);
 
 II.- Cuando no divulgue la invención de manera suficientemente clara y completa, para que ésta pueda ser realizada por un técnico en la materia;
 
-III.- Cuando las reivindicaciones excedan a la divulgación contenida en la solicitud, tal como fue inicialmente presentada ante el Instituto;
+III.- Cuando las reivindicaciones excedan a la divulgación contenida en la solicitud, tal como fue inicialmente presentada ante el [Instituto](articulo-4.md);
 
 IV.- Cuando sea resultado de una solicitud divisional e incluya reivindicaciones que correspondan a materia que haya sido tramitada en contravención a lo dispuesto por el artículo [100](articulo-100.md) de esta Ley;
 
@@ -35,6 +35,6 @@ VII.- Cuando se haya concedido en contravención al artículo [50](articulo-50.m
 
 VIII.- Se deroga. Fracción derogada DOF 03-04-2026
 
-Las acciones de nulidad previstas en este artículo podrán ejercerse en cualquier tiempo, a partir de la fecha en que surta efectos la publicación de la patente en la Gaceta. Si las causales de nulidad afectan parcialmente a la patente, ésta se declarará parcialmente nula.
+Las acciones de nulidad previstas en este artículo podrán ejercerse en cualquier tiempo, a partir de la fecha en que surta efectos la publicación de la patente en la [Gaceta](articulo-4.md). Si las causales de nulidad afectan parcialmente a la patente, ésta se declarará parcialmente nula.
 
 En la resolución que declare la nulidad parcial, el Instituto ordenará se asiente en el título respectivo una anotación marginal, en la cual se harán constar las modificaciones a éste, así como las causas que la originaron.

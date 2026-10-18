@@ -17,4 +17,4 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 63
 
-Las decisiones que el Consejo Ciudadano adopte son públicas, en apego a la legislación de transparencia y protección de datos personales.
+Las decisiones que el [Consejo Ciudadano](articulo-4.md) adopte son públicas, en apego a la legislación de transparencia y protección de datos personales.

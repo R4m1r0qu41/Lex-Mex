@@ -15,4 +15,4 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # DÉCIMO
 
-La Secretaría de Economía y las Autoridades Normalizadoras realizarán las acciones necesarias para que la implementación de las disposiciones previstas en la presente Ley se lleve a cabo con los recursos aprobados en su presupuesto, por lo que no requerirán recursos adicionales para tales efectos y no incrementarán su presupuesto regularizable para el presente ejercicio fiscal y los subsecuentes.
+La [Secretaría](articulo-4.md) de Economía y las [Autoridades Normalizadoras](articulo-4.md) realizarán las acciones necesarias para que la implementación de las disposiciones previstas en la presente Ley se lleve a cabo con los recursos aprobados en su presupuesto, por lo que no requerirán recursos adicionales para tales efectos y no incrementarán su presupuesto regularizable para el presente ejercicio fiscal y los subsecuentes.

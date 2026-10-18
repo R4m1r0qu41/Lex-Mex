@@ -17,6 +17,6 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # Artículo 138
 
-La Secretaría llevará y mantendrá permanentemente actualizado un catálogo o registro clasificatorio de los bienes muebles de las dependencias y las unidades administrativas de la Presidencia de la República, las que deberán remitirle la información necesaria para tales efectos, así como aquélla que les solicite.
+La [Secretaría](articulo-2.md) llevará y mantendrá permanentemente actualizado un catálogo o registro clasificatorio de los bienes muebles de las dependencias y las unidades administrativas de la Presidencia de la República, las que deberán remitirle la información necesaria para tales efectos, así como aquélla que les solicite.
 
 Artículo reformado DOF 20-05-2021

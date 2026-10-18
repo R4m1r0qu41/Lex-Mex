@@ -21,4 +21,4 @@ Las actuaciones y promociones se deben presentar en idioma español y estar firm
 
 La falta de cumplimiento de los requisitos señalados para las promociones en el párrafo anterior, dará lugar a que se tengan por no presentadas.
 
-Si una persona que haya intervenido en una diligencia practicada por la Comisión se negara a firmar, o en su caso, a poner su huella digital, se hará constar esta circunstancia en el acta que se levante para tal efecto. La falta de firma o huella no invalidará las actuaciones.
+Si una persona que haya intervenido en una diligencia practicada por la [Comisión](articulo-3.md) se negara a firmar, o en su caso, a poner su huella digital, se hará constar esta circunstancia en el acta que se levante para tal efecto. La falta de firma o huella no invalidará las actuaciones.

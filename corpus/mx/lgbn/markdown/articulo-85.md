@@ -19,7 +19,7 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 La venta de inmuebles federales que no sean útiles para destinarlos al servicio público o que no sean de uso común, se realizará mediante licitación pública, con excepción de los casos previstos en las fracciones III, IV, VI, VII, IX y XIII del artículo [84](articulo-84.md) de esta Ley, en los cuales la venta se realizará a través de adjudicación directa, previa acreditación de los supuestos a que se refieren dichas fracciones.
 
-El valor base de venta será el que determine el avalúo que practique la Secretaría.
+El valor base de venta será el que determine el avalúo que practique la [Secretaría](articulo-2.md).
 
 Si realizada una licitación pública, el inmueble federal de que se trate no se vende, la Secretaría podrá optar, en función de asegurar al Gobierno Federal las mejores condiciones en cuanto a precio, oportunidad y demás circunstancias pertinentes, por alguna de las siguientes alternativas para venderlo:
 

@@ -15,4 +15,4 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # SEXTO
 
-El Reglamento de la presente Ley deberá ser expedido por el Presidente de la República dentro de los seis meses siguientes a la entrada en vigor de este ordenamiento legal. Mientras se expide dicho Reglamento, seguirá vigente el Reglamento de la Ley de Pesca publicado en el Diario Oficial de la Federación el 29 de septiembre de 1999, en lo que no contravenga las disposiciones de esta Ley.
+El Reglamento de la presente Ley deberá ser expedido por el Presidente de la República dentro de los seis meses siguientes a la entrada en vigor de este ordenamiento legal. Mientras se expide dicho Reglamento, seguirá vigente el Reglamento de la Ley de [Pesca](articulo-4o.md) publicado en el Diario Oficial de la Federación el 29 de septiembre de 1999, en lo que no contravenga las disposiciones de esta Ley.

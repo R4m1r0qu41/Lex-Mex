@@ -17,4 +17,4 @@ source_sha256: b3c906475b455176de73da17f4f93a73f295965dc9bcca854b48417c7d4d3cfc
 
 # Artículo 98
 
-Serán aplicables al procedimiento administrativo de autorización, las disposiciones relativas del Título Segundo, en cuanto a la Reconsideración de las Resoluciones Negativas, Revisión de los Permisos y Confidencialidad.
+Serán aplicables al procedimiento administrativo de autorización, las disposiciones relativas del Título Segundo, en cuanto a la Reconsideración de las Resoluciones Negativas, Revisión de los [Permisos](articulo-3.md) y Confidencialidad.

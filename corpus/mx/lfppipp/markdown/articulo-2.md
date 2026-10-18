@@ -17,7 +17,7 @@ source_sha256: 2a105e5201b86ff5517ca1ef8d971224ea8c717f195fdd5fa28b916c7e622e56
 
 # Artículo 2
 
-Para los efectos de la presente Ley se entiende por:
+Para los efectos de la presente [Ley](articulo-2.md) se entiende por:
 
 I. Ley: Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal.
 
@@ -25,15 +25,15 @@ II. Programa: El Programa Federal de Protección a Personas.
 
 III. Centro: El Centro Federal de Protección a Personas.
 
-IV. Director: El Director del Centro.
+IV. Director: El Director del [Centro](articulo-2.md).
 
 V. Fiscalía General: La Fiscalía General de la República. Fracción reformada DOF 20-05-2021
 
-VI. Fiscal: Titular de la Fiscalía General de la República. Fracción reformada DOF 20-05-2021
+VI. Fiscal: Titular de la [Fiscalía General](articulo-2.md) de la República. Fracción reformada DOF 20-05-2021
 
 VII. Medidas de Protección: Las acciones realizadas por el Centro tendientes a eliminar o reducir los riesgos que pueda sufrir una persona derivado de la acción de represalia eventual con motivo de su colaboración, o participación en un Procedimiento Penal, así como de personas o familiares cercanas a éste.
 
-VIII. Convenio de Entendimiento: Documento que suscribe el Titular del Centro y la persona a proteger de manera libre e informada, en donde acepta voluntariamente ingresar al Programa y se definen de manera detallada las obligaciones y acciones que realizará el Centro, así como las obligaciones y acciones a que deberá sujetarse la persona a proteger y las sanciones por su incumplimiento.
+VIII. Convenio de Entendimiento: Documento que suscribe el Titular del Centro y la persona a proteger de manera libre e informada, en donde acepta voluntariamente ingresar al [Programa](articulo-2.md) y se definen de manera detallada las obligaciones y acciones que realizará el Centro, así como las obligaciones y acciones a que deberá sujetarse la persona a proteger y las sanciones por su incumplimiento.
 
 IX. Persona Protegida: Todo aquel individuo que pueda verse en situación de riesgo o peligro por su intervención en un procedimiento penal. Asimismo, dentro de dicho concepto se considerarán a las personas ligadas con vínculos de parentesco o afectivos con el testigo, víctima, ofendido o servidores públicos, que se vean en situación de riesgo o peligro por las actividades de aquellos en el proceso.
 
@@ -43,7 +43,7 @@ Podrá ser testigo colaborador, aquella persona que haya sido o sea integrante d
 
 XI. Procedimiento penal: Son aquellas etapas procedimentales que comprenden desde el inicio de la investigación hasta la sentencia firme. Fracción reformada DOF 17-06-2016
 
-XII. Riesgo: Amenaza real e inminente que, de actualizarse, expone la vida e integridad física de la Persona Protegida, por su intervención en un Procedimiento Penal.
+XII. Riesgo: Amenaza real e inminente que, de actualizarse, expone la vida e integridad física de la [Persona Protegida](articulo-2.md), por su intervención en un Procedimiento Penal.
 
 XIII. Unidad: La Unidad de Protección a Personas del Centro.
 

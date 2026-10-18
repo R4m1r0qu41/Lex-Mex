@@ -17,7 +17,7 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 168
 
-Reglas generales Las resoluciones judiciales podrán ser recurridas sólo por los medios y en los casos expresamente establecidos en el Código Nacional y en esta Ley.
+Reglas generales Las resoluciones judiciales podrán ser recurridas sólo por los medios y en los casos expresamente establecidos en el [Código Nacional](articulo-3.md) y en esta [Ley](articulo-3.md).
 
 El derecho de recurrir corresponderá tan sólo a quien le sea expresamente otorgado y pueda resultar afectado por la resolución.
 

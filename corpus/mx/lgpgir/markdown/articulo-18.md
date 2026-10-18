@@ -17,4 +17,4 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 18
 
-Los residuos sólidos urbanos podrán subclasificarse en orgánicos e inorgánicos con objeto de facilitar su separación primaria y secundaria, de conformidad con los Programas Estatales y Municipales para la Prevención y la Gestión Integral de los Residuos, así como con los ordenamientos legales aplicables.
+Los residuos sólidos urbanos podrán subclasificarse en orgánicos e inorgánicos con objeto de facilitar su separación primaria y secundaria, de conformidad con los [Programas](articulo-5.md) Estatales y Municipales para la Prevención y la Gestión Integral de los [Residuos](articulo-5.md), así como con los ordenamientos legales aplicables.

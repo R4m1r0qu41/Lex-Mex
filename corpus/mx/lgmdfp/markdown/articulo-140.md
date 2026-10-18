@@ -17,6 +17,6 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 140
 
-Las medidas a que se refiere el [artículo anterior](articulo-139.md) deben ser proporcionadas por la Comisión Ejecutiva y las Comisiones de Víctimas en tanto realizan las gestiones para que otras instituciones públicas brinden la atención respectiva.
+Las medidas a que se refiere el [artículo anterior](articulo-139.md) deben ser proporcionadas por la [Comisión Ejecutiva](articulo-4.md) y las [Comisiones de Víctimas](articulo-4.md) en tanto realizan las gestiones para que otras instituciones públicas brinden la atención respectiva.
 
-La Comisión Ejecutiva y las Comisiones de Víctimas deben proporcionar las medidas de ayuda, asistencia y atención a que se refiere el presente Título y la Ley General de Víctimas, en forma individual, grupal o familiar, según corresponda.
+La Comisión Ejecutiva y las Comisiones de Víctimas deben proporcionar las medidas de ayuda, asistencia y atención a que se refiere el presente Título y la Ley General de [Víctimas](articulo-4.md), en forma individual, grupal o familiar, según corresponda.

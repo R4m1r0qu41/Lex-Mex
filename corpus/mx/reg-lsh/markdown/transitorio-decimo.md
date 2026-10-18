@@ -15,4 +15,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Décimo
 
-En tanto la Secretaría emita la Normatividad correspondiente a la integración e incorporación de nueva infraestructura a los Sistemas Integrados, la Comisión es la responsable de resolver los asuntos en esta materia conforme a la Normatividad emitida por la entonces Comisión Reguladora de Energía.
+En tanto la [Secretaría](articulo-3.md) emita la [Normatividad](articulo-3.md) correspondiente a la integración e incorporación de nueva infraestructura a los [Sistemas](articulo-3.md) Integrados, la [Comisión](articulo-3.md) es la responsable de resolver los asuntos en esta materia conforme a la Normatividad emitida por la entonces Comisión Reguladora de Energía.

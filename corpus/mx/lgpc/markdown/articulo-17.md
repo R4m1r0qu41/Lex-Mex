@@ -21,7 +21,7 @@ Los gobernadores de los estados, el jefe de gobierno de la Ciudad de México, lo
 
 Igualmente, en cada uno de sus ámbitos, se asegurarán del correcto funcionamiento de los consejos y unidades de protección civil, promoviendo para que sean constituidos, con un nivel no menor a Dirección General preferentemente y de acuerdo a la legislación aplicable, como organismos con autonomía administrativa, financiera, de operación y gestión, dependiente de la secretaría de gobierno, secretaría del ayuntamiento, y las alcaldías, respectivamente.
 
-Aquellos servidores públicos que desempeñen una responsabilidad en las Unidades de las entidades federativas, Municipales y de las demarcaciones territoriales de la Ciudad de México de Protección Civil deberán contar con certificación de competencia expedida por alguna de las instituciones registradas en la Escuela Nacional.
+Aquellos servidores públicos que desempeñen una responsabilidad en las Unidades de las entidades federativas, Municipales y de las demarcaciones territoriales de la Ciudad de México de [Protección Civil](articulo-2.md) deberán contar con certificación de competencia expedida por alguna de las instituciones registradas en la Escuela Nacional.
 
 Las unidades de las entidades federativas de protección civil, con sustento en las Leyes y disposiciones locales, propiciarán una distribución estratégica de las tareas, entre los centros regionales ubicados con criterios basados en la localización de los riesgos, las necesidades y los recursos disponibles.
 

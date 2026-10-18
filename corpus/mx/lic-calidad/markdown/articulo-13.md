@@ -17,4 +17,4 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 13
 
-La Secretaría mantendrá actualizado y a disposición de cualquier persona interesada el listado de las normas internacionales a que se refiere la fracción XV del artículo [4](articulo-4.md) de la presente Ley, a través de la Plataforma Tecnológica Integral de Infraestructura de la Calidad.
+La [Secretaría](articulo-4.md) mantendrá actualizado y a disposición de cualquier persona interesada el listado de las normas internacionales a que se refiere la fracción XV del artículo [4](articulo-4.md) de la presente Ley, a través de la [Plataforma Tecnológica Integral de Infraestructura de la Calidad](articulo-4.md).

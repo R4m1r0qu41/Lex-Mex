@@ -17,6 +17,6 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 El comandante de aeródromo y los verificadores adscritos a los aeródromos deben tener conocimientos de la normatividad vigente en materia de operación, mantenimiento y seguridad de aeronaves y aeródromos civiles.
 
-Los aspirantes a alguno de los puestos señalados en el párrafo anterior deberán acreditar, entre otros requisitos, haber concluido y aprobado los cursos que indique la Secretaría.
+Los aspirantes a alguno de los puestos señalados en el párrafo anterior deberán acreditar, entre otros requisitos, haber concluido y aprobado los cursos que indique la [Secretaría](articulo-2.md).
 
 Cuando el comandante de aeródromo deba ausentarse temporalmente, designará al verificador que lo suplirá en sus funciones. En caso de ausencia prolongada o definitiva, la Secretaría podrá designar de manera temporal o permanente a un nuevo comandante de aeródromo.

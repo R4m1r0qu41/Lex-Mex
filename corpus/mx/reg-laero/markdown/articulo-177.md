@@ -15,4 +15,4 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 # Artículo 177
 
-El concesionario o permisionario de servicio general o particular con servicios a terceros debe mantener registros estadísticos sobre los servicios prestados, los que dará a conocer a la Secretaría en los términos señalados por ésta. La Secretaría establecerá los mecanismos para garantizar la confidencialidad de la información que proceda.
+El concesionario o permisionario de servicio general o particular con servicios a terceros debe mantener registros estadísticos sobre los servicios prestados, los que dará a conocer a la [Secretaría](articulo-2.md) en los términos señalados por ésta. La Secretaría establecerá los mecanismos para garantizar la confidencialidad de la información que proceda.

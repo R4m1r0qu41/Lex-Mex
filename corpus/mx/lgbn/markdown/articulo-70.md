@@ -19,4 +19,4 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 El destino únicamente confiere a la institución destinataria el derecho de usar el inmueble destinado en el uso autorizado, pero no transmite la propiedad del mismo, ni otorga derecho real alguno sobre él.
 
-Las instituciones destinatarias no podrán realizar ningún acto de enajenación sobre los inmuebles destinados. La inobservancia de esta disposición producirá la nulidad del acto relativo y la Secretaría o la Secretaría de Medio Ambiente y Recursos Naturales, según corresponda, procederán a la ocupación administrativa del inmueble.
+Las instituciones destinatarias no podrán realizar ningún acto de enajenación sobre los inmuebles destinados. La inobservancia de esta disposición producirá la nulidad del acto relativo y la [Secretaría](articulo-2.md) o la Secretaría de Medio Ambiente y Recursos Naturales, según corresponda, procederán a la ocupación administrativa del inmueble.

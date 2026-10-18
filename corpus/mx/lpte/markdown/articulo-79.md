@@ -17,4 +17,4 @@ source_sha256: c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41
 
 # Artículo 79
 
-Las personas interesadas en recibir el reconocimiento de excelencia en Eficiencia Energética deben cumplir los requisitos que, para tal efecto, se establezcan en las disposiciones reglamentarias aplicables que establezca la CONUEE, previa aprobación de la Secretaría.
+Las personas interesadas en recibir el reconocimiento de excelencia en [Eficiencia Energética](articulo-3.md) deben cumplir los requisitos que, para tal efecto, se establezcan en las disposiciones reglamentarias aplicables que establezca la [CONUEE](articulo-3.md), previa aprobación de la [Secretaría](articulo-3.md).

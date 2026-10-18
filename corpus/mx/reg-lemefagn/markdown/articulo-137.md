@@ -17,7 +17,7 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 137
 
-La Secretaría expedirá los acuerdos de alta en el Ejército, Fuerza Aérea y Guardia Nacional, y en la Institución Educativa de las personas aspirantes civiles a ingresar al Sistema que hayan resultado seleccionados, y la Dirección General de Personal emitirá las órdenes de alta.
+La Secretaría expedirá los acuerdos de alta en el Ejército, Fuerza Aérea y Guardia Nacional, y en la [Institución Educativa](articulo-3.md) de las personas aspirantes civiles a ingresar al [Sistema](articulo-3.md) que hayan resultado seleccionados, y la Dirección General de Personal emitirá las órdenes de alta.
 
 Por lo que respecta a las personas militares, la Secretaría expedirá los acuerdos de baja de la situación en que se encuentre y alta en la Institución Educativa respectiva. Las Direcciones Generales de las Armas, Servicios o Guardia Nacional que controle administrativamente al personal, emitirán las órdenes de alta.
 

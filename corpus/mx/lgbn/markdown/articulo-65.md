@@ -17,7 +17,7 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # Artículo 65
 
-Las dependencias y las unidades administrativas de la Presidencia de la República que tengan destinados a su servicio inmuebles federales de la competencia de la Secretaría, bajo su estricta responsabilidad y sin que se les dé un uso distinto al autorizado en el acuerdo de destino correspondiente, podrán realizar los siguientes actos respecto de dichos inmuebles, debiendo tomar en cuenta lo dispuesto por el artículo [62](articulo-62.md) de esta Ley: Párrafo reformado DOF 20-05-2021
+Las dependencias y las unidades administrativas de la Presidencia de la República que tengan destinados a su servicio inmuebles federales de la competencia de la [Secretaría](articulo-2.md), bajo su estricta responsabilidad y sin que se les dé un uso distinto al autorizado en el acuerdo de destino correspondiente, podrán realizar los siguientes actos respecto de dichos inmuebles, debiendo tomar en cuenta lo dispuesto por el artículo [62](articulo-62.md) de esta Ley: Párrafo reformado DOF 20-05-2021
 
 I.- Asignar el uso de espacios a otras instituciones públicas o para el cumplimiento de los fines de fideicomisos públicos no considerados como entidades o de fideicomisos privados constituidos para coadyuvar con las instituciones destinatarias en el cumplimiento de los programas a su cargo, siempre que éstas registren previamente dichos fideicomisos privados ante la Secretaría como susceptibles de recibir en uso inmuebles federales, en el entendido de que dichas asignaciones no constituirán aportación al patrimonio fideicomitido;
 

@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 240
 
-Para inscribir una licencia en el Instituto bastará formular la solicitud correspondiente en los términos que fije el Reglamento de esta Ley.
+Para inscribir una licencia en el [Instituto](articulo-4.md) bastará formular la solicitud correspondiente en los términos que fije el Reglamento de esta [Ley](articulo-4.md).
 
 Podrá solicitarse mediante una sola promoción la inscripción de licencias de derechos relativos a dos o más solicitudes en trámite o a dos o más marcas registradas cuando la persona licenciante y la persona licenciataria sean iguales en todos ellos. La persona solicitante deberá identificar cada una de las solicitudes, o registros en los que se hará la inscripción. Las tarifas correspondientes se pagarán en función del número de solicitudes o registros involucrados. Párrafo reformado DOF 03-04-2026
 

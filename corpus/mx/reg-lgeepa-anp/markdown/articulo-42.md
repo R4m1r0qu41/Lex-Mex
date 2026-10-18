@@ -17,4 +17,4 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 42
 
-La Secretaría tramitará la inscripción de los decretos por los que se declaren las áreas naturales protegidas de competencia federal, y de los instrumentos que los modifiquen, en los Registros Públicos de la Propiedad de las entidades federativas, en el Registro Agrario Nacional y en el Registro Público de la Propiedad Federal.
+La [Secretaría](articulo-3o.md) tramitará la inscripción de los decretos por los que se declaren las áreas naturales protegidas de competencia federal, y de los instrumentos que los modifiquen, en los [Registros](articulo-3o.md) Públicos de la Propiedad de las entidades federativas, en el Registro Agrario Nacional y en el Registro Público de la Propiedad Federal.

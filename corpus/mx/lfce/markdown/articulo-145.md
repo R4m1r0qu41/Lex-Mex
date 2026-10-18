@@ -17,6 +17,6 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 145
 
-En el caso de que las medidas impuestas por la Comisión en términos de los dos artículos anteriores no hayan resultado eficaces, la Comisión dará vista a la Agencia para que esta, en su caso, ordene lo conducente en términos de las disposiciones jurídicas aplicables.
+En el caso de que las medidas impuestas por la [Comisión](articulo-3.md) en términos de los dos artículos anteriores no hayan resultado eficaces, la Comisión dará vista a la [Agencia](articulo-3.md) para que esta, en su caso, ordene lo conducente en términos de las disposiciones jurídicas aplicables.
 
 Artículo adicionado DOF 16-07-2025

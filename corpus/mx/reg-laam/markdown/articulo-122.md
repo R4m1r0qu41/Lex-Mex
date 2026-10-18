@@ -17,4 +17,4 @@ source_sha256: 8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca
 
 # Artículo 122
 
-Los ascensos en tiempo de guerra se otorgarán conforme a los términos establecidos en la Ley.
+Los ascensos en tiempo de guerra se otorgarán conforme a los términos establecidos en la [Ley](articulo-5.md).

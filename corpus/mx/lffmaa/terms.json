@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffmaa:term:empresas-microindustriales",
+    "term": "Empresas microindustriales",
+    "instrument_id": "urn:lex-mx:federal:statute:lffmaa",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lffmaa:article:3",
+    "fraction": "I",
+    "start_char": 49,
+    "end_char": 453,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffmaa:term:artesania",
+    "term": "Artesanía",
+    "instrument_id": "urn:lex-mx:federal:statute:lffmaa",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lffmaa:article:3",
+    "fraction": "II",
+    "start_char": 453,
+    "end_char": 948,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffmaa:term:artesanos",
+    "term": "Artesanos",
+    "instrument_id": "urn:lex-mx:federal:statute:lffmaa",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lffmaa:article:3",
+    "fraction": "III",
+    "start_char": 948,
+    "end_char": 1181,
+    "basis": "express_definition"
+  }
+]

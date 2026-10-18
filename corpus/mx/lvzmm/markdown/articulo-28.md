@@ -17,4 +17,4 @@ source_sha256: d9ffbbf8f19b54a93ff577abb1266e4be1316d935e79fad655242955fd80ff70
 
 # Artículo 28
 
-Personal acreditado de la Secretaría, llevará a cabo las visitas de inspección y vigilancia para el cumplimiento de la presente Ley, así como el Decreto Promulgatorio del Protocolo de 1996 relativo al Convenio sobre la Prevención de la Contaminación del Mar por Vertimiento de Desechos y Otras Materias, 1972.
+Personal acreditado de la [Secretaría](articulo-2.md), llevará a cabo las visitas de inspección y vigilancia para el cumplimiento de la presente [Ley](articulo-2.md), así como el Decreto Promulgatorio del Protocolo de 1996 relativo al Convenio sobre la Prevención de la Contaminación del Mar por Vertimiento de [Desechos](articulo-2.md) y Otras Materias, 1972.

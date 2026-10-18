@@ -17,4 +17,4 @@ source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 
 # Artículo 121
 
-El laudo arbitral emitido por la Procuraduría o por el árbitro designado por las partes deberá cumplimentarse o, en su caso, iniciar su cumplimentación dentro de los quince días siguientes a la fecha de su notificación, salvo pacto en contrario.
+El laudo arbitral emitido por la [Procuraduría](articulo-2.md) o por el árbitro designado por las partes deberá cumplimentarse o, en su caso, iniciar su cumplimentación dentro de los quince días siguientes a la fecha de su notificación, salvo pacto en contrario.

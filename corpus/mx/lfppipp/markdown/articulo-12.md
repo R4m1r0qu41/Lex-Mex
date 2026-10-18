@@ -17,4 +17,4 @@ source_sha256: 2a105e5201b86ff5517ca1ef8d971224ea8c717f195fdd5fa28b916c7e622e56
 
 # Artículo 12
 
-La Unidad contará con un área de análisis de riesgo que apoyará en la elaboración del Estudio Técnico para los efectos del ingreso y permanencia de la Persona Protegida, la cual dependerá directamente del Centro.
+La [Unidad](articulo-2.md) contará con un área de análisis de riesgo que apoyará en la elaboración del [Estudio Técnico](articulo-2.md) para los efectos del ingreso y permanencia de la [Persona Protegida](articulo-2.md), la cual dependerá directamente del [Centro](articulo-2.md).

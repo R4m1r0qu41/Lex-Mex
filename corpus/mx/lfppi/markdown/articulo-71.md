@@ -31,4 +31,4 @@ III.- Cuando el diseño industrial consista en una secuencia animada o en una in
 
 IV.- Podrán consistir en representaciones gráficas, fotográficas o en una combinación de ambas.
 
-Los tipos de representaciones a las que se refiere la fracción IV de este artículo, reconocidas por el Instituto, se establecerán en el Acuerdo que emita la persona Titular de la Dirección General para tal efecto.
+Los tipos de representaciones a las que se refiere la fracción IV de este artículo, reconocidas por el [Instituto](articulo-4.md), se establecerán en el Acuerdo que emita la persona Titular de la Dirección General para tal efecto.

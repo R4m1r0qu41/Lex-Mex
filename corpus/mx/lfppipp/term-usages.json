@@ -1,1 +1,2810 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:1:term-usage:26-29",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:ley",
+    "span": "Ley",
+    "start_char": 26,
+    "end_char": 29
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:2:term-usage:32-35",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:ley",
+    "span": "Ley",
+    "start_char": 32,
+    "end_char": 35
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:2:term-usage:297-303",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:centro",
+    "span": "Centro",
+    "start_char": 297,
+    "end_char": 303
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:2:term-usage:425-441",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:fiscalia-general",
+    "span": "Fiscalía General",
+    "start_char": 425,
+    "end_char": 441
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:2:term-usage:553-559",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:centro",
+    "span": "Centro",
+    "start_char": 553,
+    "end_char": 559
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:2:term-usage:875-881",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:centro",
+    "span": "Centro",
+    "start_char": 875,
+    "end_char": 881
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:2:term-usage:979-987",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 979,
+    "end_char": 987
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:2:term-usage:1066-1072",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:centro",
+    "span": "Centro",
+    "start_char": 1066,
+    "end_char": 1072
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:2:term-usage:2362-2379",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:persona-protegida",
+    "span": "Persona Protegida",
+    "start_char": 2362,
+    "end_char": 2379
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:2:term-usage:2482-2488",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:centro",
+    "span": "Centro",
+    "start_char": 2482,
+    "end_char": 2488
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:2:term-usage:2574-2580",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:centro",
+    "span": "Centro",
+    "start_char": 2574,
+    "end_char": 2580
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:2:term-usage:2655-2663",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 2655,
+    "end_char": 2663
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:3:term-usage:161-177",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:fiscalia-general",
+    "span": "Fiscalía General",
+    "start_char": 161,
+    "end_char": 177
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:3:term-usage:212-218",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:centro",
+    "span": "Centro",
+    "start_char": 212,
+    "end_char": 218
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:3:term-usage:245-266",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:medidas-de-proteccion",
+    "span": "Medidas de Protección",
+    "start_char": 245,
+    "end_char": 266
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:3:term-usage:285-288",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:ley",
+    "span": "Ley",
+    "start_char": 285,
+    "end_char": 288
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:3:term-usage:402-410",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 402,
+    "end_char": 410
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:3:term-usage:729-732",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:ley",
+    "span": "Ley",
+    "start_char": 729,
+    "end_char": 732
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:3:term-usage:1077-1083",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:centro",
+    "span": "Centro",
+    "start_char": 1077,
+    "end_char": 1083
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:3:term-usage:1136-1157",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:medidas-de-proteccion",
+    "span": "Medidas de Protección",
+    "start_char": 1136,
+    "end_char": 1157
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:3:term-usage:1223-1231",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 1223,
+    "end_char": 1231
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:3:term-usage:1459-1462",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:ley",
+    "span": "Ley",
+    "start_char": 1459,
+    "end_char": 1462
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:4:term-usage:38-41",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:ley",
+    "span": "Ley",
+    "start_char": 38,
+    "end_char": 41
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:4:term-usage:46-52",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:fiscal",
+    "span": "Fiscal",
+    "start_char": 46,
+    "end_char": 52
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:4:term-usage:57-65",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:director",
+    "span": "Director",
+    "start_char": 57,
+    "end_char": 65
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:4:term-usage:796-804",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 796,
+    "end_char": 804
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:4:term-usage:965-982",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:persona-protegida",
+    "span": "Persona Protegida",
+    "start_char": 965,
+    "end_char": 982
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:4:term-usage:988-1004",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:fiscalia-general",
+    "span": "Fiscalía General",
+    "start_char": 988,
+    "end_char": 1004
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:4:term-usage:1210-1218",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 1210,
+    "end_char": 1218
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:5:term-usage:105-126",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:medidas-de-proteccion",
+    "span": "Medidas de Protección",
+    "start_char": 105,
+    "end_char": 126
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:5:term-usage:168-171",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:ley",
+    "span": "Ley",
+    "start_char": 168,
+    "end_char": 171
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:5:term-usage:550-553",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:ley",
+    "span": "Ley",
+    "start_char": 550,
+    "end_char": 553
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:5:term-usage:622-643",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:medidas-de-proteccion",
+    "span": "Medidas de Protección",
+    "start_char": 622,
+    "end_char": 643
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:5:term-usage:661-667",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:centro",
+    "span": "Centro",
+    "start_char": 661,
+    "end_char": 667
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:5:term-usage:721-729",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 721,
+    "end_char": 729
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:5:term-usage:1141-1149",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 1141,
+    "end_char": 1149
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:5:term-usage:1188-1191",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:ley",
+    "span": "Ley",
+    "start_char": 1188,
+    "end_char": 1191
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:5:term-usage:1240-1248",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 1240,
+    "end_char": 1248
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:5:term-usage:1303-1311",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 1303,
+    "end_char": 1311
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:5:term-usage:1394-1400",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:centro",
+    "span": "Centro",
+    "start_char": 1394,
+    "end_char": 1400
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:5:term-usage:1506-1514",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 1506,
+    "end_char": 1514
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:5:term-usage:1534-1542",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:director",
+    "span": "Director",
+    "start_char": 1534,
+    "end_char": 1542
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:5:term-usage:1675-1678",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:ley",
+    "span": "Ley",
+    "start_char": 1675,
+    "end_char": 1678
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:5:term-usage:1699-1707",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:director",
+    "span": "Director",
+    "start_char": 1699,
+    "end_char": 1707
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:5:term-usage:1712-1718",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:centro",
+    "span": "Centro",
+    "start_char": 1712,
+    "end_char": 1718
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:5:term-usage:1796-1804",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 1796,
+    "end_char": 1804
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:5:term-usage:1822-1843",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:medidas-de-proteccion",
+    "span": "Medidas de Protección",
+    "start_char": 1822,
+    "end_char": 1843
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:5:term-usage:1921-1942",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:medidas-de-proteccion",
+    "span": "Medidas de Protección",
+    "start_char": 1921,
+    "end_char": 1942
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:5:term-usage:1960-1968",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 1960,
+    "end_char": 1968
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:5:term-usage:2002-2019",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:persona-protegida",
+    "span": "Persona Protegida",
+    "start_char": 2002,
+    "end_char": 2019
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:6:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:centro",
+    "span": "Centro",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:6:term-usage:30-46",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:fiscalia-general",
+    "span": "Fiscalía General",
+    "start_char": 30,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:6:term-usage:122-143",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:medidas-de-proteccion",
+    "span": "Medidas de Protección",
+    "start_char": 122,
+    "end_char": 143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:6:term-usage:174-182",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:director",
+    "span": "Director",
+    "start_char": 174,
+    "end_char": 182
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:6:term-usage:211-217",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:fiscal",
+    "span": "Fiscal",
+    "start_char": 211,
+    "end_char": 217
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:7:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:director",
+    "span": "Director",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:7:term-usage:49-52",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:ley",
+    "span": "Ley",
+    "start_char": 49,
+    "end_char": 52
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:7:term-usage:190-198",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 190,
+    "end_char": 198
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:7:term-usage:225-231",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:fiscal",
+    "span": "Fiscal",
+    "start_char": 225,
+    "end_char": 231
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:7:term-usage:342-350",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 342,
+    "end_char": 350
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:7:term-usage:521-537",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:fiscalia-general",
+    "span": "Fiscalía General",
+    "start_char": 521,
+    "end_char": 537
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:7:term-usage:944-952",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 944,
+    "end_char": 952
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:7:term-usage:1046-1054",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 1046,
+    "end_char": 1054
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:7:term-usage:1106-1112",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:fiscal",
+    "span": "Fiscal",
+    "start_char": 1106,
+    "end_char": 1112
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:7:term-usage:1153-1161",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 1153,
+    "end_char": 1161
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:7:term-usage:1211-1227",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:fiscalia-general",
+    "span": "Fiscalía General",
+    "start_char": 1211,
+    "end_char": 1227
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:7:term-usage:1332-1340",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 1332,
+    "end_char": 1340
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:7:term-usage:1361-1382",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:medidas-de-proteccion",
+    "span": "Medidas de Protección",
+    "start_char": 1361,
+    "end_char": 1382
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:7:term-usage:1653-1661",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 1653,
+    "end_char": 1661
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:7:term-usage:1715-1736",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:medidas-de-proteccion",
+    "span": "Medidas de Protección",
+    "start_char": 1715,
+    "end_char": 1736
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:7:term-usage:1783-1789",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:fiscal",
+    "span": "Fiscal",
+    "start_char": 1783,
+    "end_char": 1789
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:7:term-usage:1805-1826",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:medidas-de-proteccion",
+    "span": "Medidas de Protección",
+    "start_char": 1805,
+    "end_char": 1826
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:7:term-usage:1981-2006",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:convenio-de-entendimiento",
+    "span": "Convenio de Entendimiento",
+    "start_char": 1981,
+    "end_char": 2006
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:7:term-usage:2134-2137",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:ley",
+    "span": "Ley",
+    "start_char": 2134,
+    "end_char": 2137
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:7:term-usage:2810-2816",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:fiscal",
+    "span": "Fiscal",
+    "start_char": 2810,
+    "end_char": 2816
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:8:term-usage:50-53",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:ley",
+    "span": "Ley",
+    "start_char": 50,
+    "end_char": 53
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:8:term-usage:116-124",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 116,
+    "end_char": 124
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:8:term-usage:360-366",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:centro",
+    "span": "Centro",
+    "start_char": 360,
+    "end_char": 366
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:8:term-usage:464-480",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:fiscalia-general",
+    "span": "Fiscalía General",
+    "start_char": 464,
+    "end_char": 480
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:8:term-usage:650-653",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:ley",
+    "span": "Ley",
+    "start_char": 650,
+    "end_char": 653
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:9:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:centro",
+    "span": "Centro",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:9:term-usage:263-269",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:unidad",
+    "span": "Unidad",
+    "start_char": 263,
+    "end_char": 269
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:10:term-usage:20-41",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:medidas-de-proteccion",
+    "span": "Medidas de Protección",
+    "start_char": 20,
+    "end_char": 41
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:10:term-usage:64-70",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:unidad",
+    "span": "Unidad",
+    "start_char": 64,
+    "end_char": 70
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:10:term-usage:95-103",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:director",
+    "span": "Director",
+    "start_char": 95,
+    "end_char": 103
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:11:term-usage:61-67",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:unidad",
+    "span": "Unidad",
+    "start_char": 61,
+    "end_char": 67
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:11:term-usage:122-143",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:medidas-de-proteccion",
+    "span": "Medidas de Protección",
+    "start_char": 122,
+    "end_char": 143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:11:term-usage:160-168",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:director",
+    "span": "Director",
+    "start_char": 160,
+    "end_char": 168
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:11:term-usage:207-222",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:estudio-tecnico",
+    "span": "Estudio Técnico",
+    "start_char": 207,
+    "end_char": 222
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:11:term-usage:764-772",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:director",
+    "span": "Director",
+    "start_char": 764,
+    "end_char": 772
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:11:term-usage:827-844",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:persona-protegida",
+    "span": "Persona Protegida",
+    "start_char": 827,
+    "end_char": 844
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:11:term-usage:878-886",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:director",
+    "span": "Director",
+    "start_char": 878,
+    "end_char": 886
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:11:term-usage:923-926",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:ley",
+    "span": "Ley",
+    "start_char": 923,
+    "end_char": 926
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:12:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:unidad",
+    "span": "Unidad",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:12:term-usage:86-101",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:estudio-tecnico",
+    "span": "Estudio Técnico",
+    "start_char": 86,
+    "end_char": 101
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:12:term-usage:151-168",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:persona-protegida",
+    "span": "Persona Protegida",
+    "start_char": 151,
+    "end_char": 168
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:12:term-usage:205-211",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:centro",
+    "span": "Centro",
+    "start_char": 205,
+    "end_char": 211
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:13:term-usage:710-716",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:fiscal",
+    "span": "Fiscal",
+    "start_char": 710,
+    "end_char": 716
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:13:term-usage:1127-1135",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:director",
+    "span": "Director",
+    "start_char": 1127,
+    "end_char": 1135
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:13:term-usage:1140-1146",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:centro",
+    "span": "Centro",
+    "start_char": 1140,
+    "end_char": 1146
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:14:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:15:term-usage:64-67",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:ley",
+    "span": "Ley",
+    "start_char": 64,
+    "end_char": 67
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:15:term-usage:92-100",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 92,
+    "end_char": 100
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:15:term-usage:149-171",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:testigo-colaborador",
+    "span": "Testigos Colaboradores",
+    "start_char": 149,
+    "end_char": 171
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:16:term-usage:4-25",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:medidas-de-proteccion",
+    "span": "Medidas de Protección",
+    "start_char": 4,
+    "end_char": 25
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:16:term-usage:42-50",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 42,
+    "end_char": 50
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:16:term-usage:159-167",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 159,
+    "end_char": 167
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:16:term-usage:716-719",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:ley",
+    "span": "Ley",
+    "start_char": 716,
+    "end_char": 719
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:16:term-usage:726-747",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:medidas-de-proteccion",
+    "span": "Medidas de Protección",
+    "start_char": 726,
+    "end_char": 747
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:17:term-usage:452-455",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:ley",
+    "span": "Ley",
+    "start_char": 452,
+    "end_char": 455
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:17:term-usage:934-942",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:director",
+    "span": "Director",
+    "start_char": 934,
+    "end_char": 942
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:17:term-usage:956-971",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:estudio-tecnico",
+    "span": "Estudio Técnico",
+    "start_char": 956,
+    "end_char": 971
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:17:term-usage:1314-1322",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 1314,
+    "end_char": 1322
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:18:term-usage:539-545",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:unidad",
+    "span": "Unidad",
+    "start_char": 539,
+    "end_char": 545
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:18:term-usage:628-631",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:ley",
+    "span": "Ley",
+    "start_char": 628,
+    "end_char": 631
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:18:term-usage:730-733",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:ley",
+    "span": "Ley",
+    "start_char": 730,
+    "end_char": 733
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:18:term-usage:740-756",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:fiscalia-general",
+    "span": "Fiscalía General",
+    "start_char": 740,
+    "end_char": 756
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:18:term-usage:1207-1224",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:persona-protegida",
+    "span": "Persona Protegida",
+    "start_char": 1207,
+    "end_char": 1224
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:18:term-usage:1456-1462",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:fiscal",
+    "span": "Fiscal",
+    "start_char": 1456,
+    "end_char": 1462
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:18:term-usage:1628-1645",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:persona-protegida",
+    "span": "Persona Protegida",
+    "start_char": 1628,
+    "end_char": 1645
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:18:term-usage:1931-1948",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:persona-protegida",
+    "span": "Persona Protegida",
+    "start_char": 1931,
+    "end_char": 1948
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:18:term-usage:2609-2615",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:centro",
+    "span": "Centro",
+    "start_char": 2609,
+    "end_char": 2615
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:18:term-usage:2644-2650",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:centro",
+    "span": "Centro",
+    "start_char": 2644,
+    "end_char": 2650
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:18:term-usage:2922-2944",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:testigo-colaborador",
+    "span": "Testigos Colaboradores",
+    "start_char": 2922,
+    "end_char": 2944
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:18:term-usage:3223-3229",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:centro",
+    "span": "Centro",
+    "start_char": 3223,
+    "end_char": 3229
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:18:term-usage:3292-3300",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 3292,
+    "end_char": 3300
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:18:term-usage:3385-3391",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:centro",
+    "span": "Centro",
+    "start_char": 3385,
+    "end_char": 3391
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:18:term-usage:3483-3491",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 3483,
+    "end_char": 3491
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:18:term-usage:3514-3533",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:testigo-colaborador",
+    "span": "Testigo Colaborador",
+    "start_char": 3514,
+    "end_char": 3533
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:18:term-usage:3619-3625",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:centro",
+    "span": "Centro",
+    "start_char": 3619,
+    "end_char": 3625
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:18:term-usage:3758-3780",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:testigo-colaborador",
+    "span": "Testigos Colaboradores",
+    "start_char": 3758,
+    "end_char": 3780
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:18:term-usage:3797-3805",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 3797,
+    "end_char": 3805
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:18:term-usage:4267-4275",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:director",
+    "span": "Director",
+    "start_char": 4267,
+    "end_char": 4275
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:18:term-usage:4280-4286",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:centro",
+    "span": "Centro",
+    "start_char": 4280,
+    "end_char": 4286
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:19:term-usage:4-25",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:medidas-de-proteccion",
+    "span": "Medidas de Protección",
+    "start_char": 4,
+    "end_char": 25
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:19:term-usage:94-111",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:persona-protegida",
+    "span": "Persona Protegida",
+    "start_char": 94,
+    "end_char": 111
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:19:term-usage:291-299",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 291,
+    "end_char": 299
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:20:term-usage:33-41",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 33,
+    "end_char": 41
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:20:term-usage:338-346",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:director",
+    "span": "Director",
+    "start_char": 338,
+    "end_char": 346
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:20:term-usage:351-357",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:centro",
+    "span": "Centro",
+    "start_char": 351,
+    "end_char": 357
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:20:term-usage:439-447",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 439,
+    "end_char": 447
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:20:term-usage:653-656",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:ley",
+    "span": "Ley",
+    "start_char": 653,
+    "end_char": 656
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:20:term-usage:898-901",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:ley",
+    "span": "Ley",
+    "start_char": 898,
+    "end_char": 901
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:21:term-usage:195-216",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:medidas-de-proteccion",
+    "span": "Medidas de Protección",
+    "start_char": 195,
+    "end_char": 216
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:21:term-usage:416-424",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 416,
+    "end_char": 424
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:21:term-usage:428-436",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:director",
+    "span": "Director",
+    "start_char": 428,
+    "end_char": 436
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:21:term-usage:441-447",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:centro",
+    "span": "Centro",
+    "start_char": 441,
+    "end_char": 447
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:21:term-usage:471-486",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:estudio-tecnico",
+    "span": "Estudio Técnico",
+    "start_char": 471,
+    "end_char": 486
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:21:term-usage:689-710",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:medidas-de-proteccion",
+    "span": "Medidas de Protección",
+    "start_char": 689,
+    "end_char": 710
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:21:term-usage:740-748",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 740,
+    "end_char": 748
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:21:term-usage:769-777",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:director",
+    "span": "Director",
+    "start_char": 769,
+    "end_char": 777
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:21:term-usage:822-830",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 822,
+    "end_char": 830
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:21:term-usage:855-876",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:medidas-de-proteccion",
+    "span": "Medidas de Protección",
+    "start_char": 855,
+    "end_char": 876
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:22:term-usage:23-44",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:medidas-de-proteccion",
+    "span": "Medidas de Protección",
+    "start_char": 23,
+    "end_char": 44
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:22:term-usage:109-124",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:estudio-tecnico",
+    "span": "Estudio Técnico",
+    "start_char": 109,
+    "end_char": 124
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:22:term-usage:643-658",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:estudio-tecnico",
+    "span": "Estudio Técnico",
+    "start_char": 643,
+    "end_char": 658
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:23:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:director",
+    "span": "Director",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:23:term-usage:33-48",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:estudio-tecnico",
+    "span": "Estudio Técnico",
+    "start_char": 33,
+    "end_char": 48
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:23:term-usage:133-141",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 133,
+    "end_char": 141
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:23:term-usage:184-192",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 184,
+    "end_char": 192
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:23:term-usage:257-260",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:ley",
+    "span": "Ley",
+    "start_char": 257,
+    "end_char": 260
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:23:term-usage:446-452",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:centro",
+    "span": "Centro",
+    "start_char": 446,
+    "end_char": 452
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:23:term-usage:472-487",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:estudio-tecnico",
+    "span": "Estudio Técnico",
+    "start_char": 472,
+    "end_char": 487
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:23:term-usage:540-561",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:medidas-de-proteccion",
+    "span": "Medidas de Protección",
+    "start_char": 540,
+    "end_char": 561
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:24:term-usage:42-50",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 42,
+    "end_char": 50
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:24:term-usage:55-63",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:director",
+    "span": "Director",
+    "start_char": 55,
+    "end_char": 63
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:24:term-usage:165-180",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:estudio-tecnico",
+    "span": "Estudio Técnico",
+    "start_char": 165,
+    "end_char": 180
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:24:term-usage:496-513",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:persona-protegida",
+    "span": "Persona Protegida",
+    "start_char": 496,
+    "end_char": 513
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:24:term-usage:819-834",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:estudio-tecnico",
+    "span": "Estudio Técnico",
+    "start_char": 819,
+    "end_char": 834
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:24:term-usage:930-938",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 930,
+    "end_char": 938
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:24:term-usage:1092-1113",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:medidas-de-proteccion",
+    "span": "Medidas de Protección",
+    "start_char": 1092,
+    "end_char": 1113
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:24:term-usage:1363-1371",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 1363,
+    "end_char": 1371
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:24:term-usage:1377-1383",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:centro",
+    "span": "Centro",
+    "start_char": 1377,
+    "end_char": 1383
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:24:term-usage:1392-1408",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:fiscalia-general",
+    "span": "Fiscalía General",
+    "start_char": 1392,
+    "end_char": 1408
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:25:term-usage:50-58",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 50,
+    "end_char": 58
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:25:term-usage:254-260",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:centro",
+    "span": "Centro",
+    "start_char": 254,
+    "end_char": 260
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:26:term-usage:21-36",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:estudio-tecnico",
+    "span": "Estudio Técnico",
+    "start_char": 21,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:26:term-usage:41-49",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:director",
+    "span": "Director",
+    "start_char": 41,
+    "end_char": 49
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:26:term-usage:137-143",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:fiscal",
+    "span": "Fiscal",
+    "start_char": 137,
+    "end_char": 143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:26:term-usage:228-231",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:ley",
+    "span": "Ley",
+    "start_char": 228,
+    "end_char": 231
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:26:term-usage:334-342",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 334,
+    "end_char": 342
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:26:term-usage:360-381",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:medidas-de-proteccion",
+    "span": "Medidas de Protección",
+    "start_char": 360,
+    "end_char": 381
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:26:term-usage:424-432",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 424,
+    "end_char": 432
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:27:term-usage:5-22",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:persona-protegida",
+    "span": "Persona Protegida",
+    "start_char": 5,
+    "end_char": 22
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:27:term-usage:43-51",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 43,
+    "end_char": 51
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:27:term-usage:72-97",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:convenio-de-entendimiento",
+    "span": "Convenio de Entendimiento",
+    "start_char": 72,
+    "end_char": 97
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:27:term-usage:125-133",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:director",
+    "span": "Director",
+    "start_char": 125,
+    "end_char": 133
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:27:term-usage:220-228",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 220,
+    "end_char": 228
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:27:term-usage:298-319",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:medidas-de-proteccion",
+    "span": "Medidas de Protección",
+    "start_char": 298,
+    "end_char": 319
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:27:term-usage:517-538",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:medidas-de-proteccion",
+    "span": "Medidas de Protección",
+    "start_char": 517,
+    "end_char": 538
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:27:term-usage:663-684",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:medidas-de-proteccion",
+    "span": "Medidas de Protección",
+    "start_char": 663,
+    "end_char": 684
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:27:term-usage:720-726",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:centro",
+    "span": "Centro",
+    "start_char": 720,
+    "end_char": 726
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:27:term-usage:748-754",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:centro",
+    "span": "Centro",
+    "start_char": 748,
+    "end_char": 754
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:27:term-usage:812-833",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:medidas-de-proteccion",
+    "span": "Medidas de Protección",
+    "start_char": 812,
+    "end_char": 833
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:27:term-usage:1240-1246",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:centro",
+    "span": "Centro",
+    "start_char": 1240,
+    "end_char": 1246
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:27:term-usage:1370-1378",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 1370,
+    "end_char": 1378
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:27:term-usage:1442-1448",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:centro",
+    "span": "Centro",
+    "start_char": 1442,
+    "end_char": 1448
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:27:term-usage:1556-1564",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 1556,
+    "end_char": 1564
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:27:term-usage:1636-1644",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 1636,
+    "end_char": 1644
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:27:term-usage:1650-1667",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:persona-protegida",
+    "span": "Persona Protegida",
+    "start_char": 1650,
+    "end_char": 1667
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:27:term-usage:1771-1779",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 1771,
+    "end_char": 1779
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:27:term-usage:1875-1900",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:convenio-de-entendimiento",
+    "span": "Convenio de Entendimiento",
+    "start_char": 1875,
+    "end_char": 1900
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:27:term-usage:1921-1938",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:persona-protegida",
+    "span": "Persona Protegida",
+    "start_char": 1921,
+    "end_char": 1938
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:28:term-usage:31-39",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 31,
+    "end_char": 39
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:28:term-usage:128-148",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:medidas-de-proteccion",
+    "span": "Medida de Protección",
+    "start_char": 128,
+    "end_char": 148
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:29:term-usage:71-79",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 71,
+    "end_char": 79
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:29:term-usage:126-151",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:convenio-de-entendimiento",
+    "span": "Convenio de Entendimiento",
+    "start_char": 126,
+    "end_char": 151
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:29:term-usage:379-387",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 379,
+    "end_char": 387
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:29:term-usage:453-461",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 453,
+    "end_char": 461
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:29:term-usage:701-722",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:medidas-de-proteccion",
+    "span": "Medidas de Protección",
+    "start_char": 701,
+    "end_char": 722
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:29:term-usage:740-746",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:centro",
+    "span": "Centro",
+    "start_char": 740,
+    "end_char": 746
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:29:term-usage:859-867",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 859,
+    "end_char": 867
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:29:term-usage:978-986",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 978,
+    "end_char": 986
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:29:term-usage:1105-1113",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:director",
+    "span": "Director",
+    "start_char": 1105,
+    "end_char": 1113
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:29:term-usage:1141-1147",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:unidad",
+    "span": "Unidad",
+    "start_char": 1141,
+    "end_char": 1147
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:29:term-usage:1346-1354",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 1346,
+    "end_char": 1354
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:29:term-usage:1437-1445",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 1437,
+    "end_char": 1445
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:29:term-usage:1488-1494",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:centro",
+    "span": "Centro",
+    "start_char": 1488,
+    "end_char": 1494
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:29:term-usage:1559-1584",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:convenio-de-entendimiento",
+    "span": "Convenio de Entendimiento",
+    "start_char": 1559,
+    "end_char": 1584
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:30:term-usage:51-68",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:persona-protegida",
+    "span": "Persona Protegida",
+    "start_char": 51,
+    "end_char": 68
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:30:term-usage:170-178",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:director",
+    "span": "Director",
+    "start_char": 170,
+    "end_char": 178
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:31:term-usage:21-27",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:centro",
+    "span": "Centro",
+    "start_char": 21,
+    "end_char": 27
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:31:term-usage:361-378",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:persona-protegida",
+    "span": "Persona Protegida",
+    "start_char": 361,
+    "end_char": 378
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:31:term-usage:603-620",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:persona-protegida",
+    "span": "Persona Protegida",
+    "start_char": 603,
+    "end_char": 620
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:31:term-usage:649-655",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:centro",
+    "span": "Centro",
+    "start_char": 649,
+    "end_char": 655
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:31:term-usage:1159-1167",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 1159,
+    "end_char": 1167
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:31:term-usage:1301-1326",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:convenio-de-entendimiento",
+    "span": "Convenio de Entendimiento",
+    "start_char": 1301,
+    "end_char": 1326
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:32:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:centro",
+    "span": "Centro",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:32:term-usage:63-80",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:persona-protegida",
+    "span": "Persona Protegida",
+    "start_char": 63,
+    "end_char": 80
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:32:term-usage:110-118",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 110,
+    "end_char": 118
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:32:term-usage:242-250",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 242,
+    "end_char": 250
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:32:term-usage:271-277",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:centro",
+    "span": "Centro",
+    "start_char": 271,
+    "end_char": 277
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:32:term-usage:378-395",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:persona-protegida",
+    "span": "Persona Protegida",
+    "start_char": 378,
+    "end_char": 395
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:32-bis:term-usage:3-19",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:32-bis",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:fiscalia-general",
+    "span": "Fiscalía General",
+    "start_char": 3,
+    "end_char": 19
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:33:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:centro",
+    "span": "Centro",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:33:term-usage:70-91",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:medidas-de-proteccion",
+    "span": "Medidas de Protección",
+    "start_char": 70,
+    "end_char": 91
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:34:term-usage:39-60",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:medidas-de-proteccion",
+    "span": "Medidas de Protección",
+    "start_char": 39,
+    "end_char": 60
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:34:term-usage:158-161",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:ley",
+    "span": "Ley",
+    "start_char": 158,
+    "end_char": 161
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:34:term-usage:203-228",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:convenio-de-entendimiento",
+    "span": "Convenio de Entendimiento",
+    "start_char": 203,
+    "end_char": 228
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:34:term-usage:303-311",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 303,
+    "end_char": 311
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:34:term-usage:368-389",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:medidas-de-proteccion",
+    "span": "Medidas de Protección",
+    "start_char": 368,
+    "end_char": 389
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:34:term-usage:395-403",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 395,
+    "end_char": 403
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:34:term-usage:421-427",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:centro",
+    "span": "Centro",
+    "start_char": 421,
+    "end_char": 427
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:34:term-usage:517-523",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:centro",
+    "span": "Centro",
+    "start_char": 517,
+    "end_char": 523
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:34:term-usage:577-594",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:persona-protegida",
+    "span": "Persona Protegida",
+    "start_char": 577,
+    "end_char": 594
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:34:term-usage:601-609",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 601,
+    "end_char": 609
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:34:term-usage:762-770",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 762,
+    "end_char": 770
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:34:term-usage:776-782",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:centro",
+    "span": "Centro",
+    "start_char": 776,
+    "end_char": 782
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:34:term-usage:791-807",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:fiscalia-general",
+    "span": "Fiscalía General",
+    "start_char": 791,
+    "end_char": 807
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:34:term-usage:912-929",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:persona-protegida",
+    "span": "Persona Protegida",
+    "start_char": 912,
+    "end_char": 929
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:35:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:centro",
+    "span": "Centro",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:35:term-usage:199-220",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:medidas-de-proteccion",
+    "span": "Medidas de Protección",
+    "start_char": 199,
+    "end_char": 220
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:36:term-usage:39-60",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:medidas-de-proteccion",
+    "span": "Medidas de Protección",
+    "start_char": 39,
+    "end_char": 60
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:36:term-usage:100-108",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 100,
+    "end_char": 108
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:36:term-usage:131-139",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:director",
+    "span": "Director",
+    "start_char": 131,
+    "end_char": 139
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:36:term-usage:162-168",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:fiscal",
+    "span": "Fiscal",
+    "start_char": 162,
+    "end_char": 168
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:36:term-usage:453-470",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:persona-protegida",
+    "span": "Persona Protegida",
+    "start_char": 453,
+    "end_char": 470
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:36:term-usage:533-541",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 533,
+    "end_char": 541
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:36:term-usage:641-644",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:ley",
+    "span": "Ley",
+    "start_char": 641,
+    "end_char": 644
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:36:term-usage:830-838",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:director",
+    "span": "Director",
+    "start_char": 830,
+    "end_char": 838
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:36:term-usage:893-901",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 893,
+    "end_char": 901
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:36:term-usage:1009-1012",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:ley",
+    "span": "Ley",
+    "start_char": 1009,
+    "end_char": 1012
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:37:term-usage:62-70",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 62,
+    "end_char": 70
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:37:term-usage:140-143",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:ley",
+    "span": "Ley",
+    "start_char": 140,
+    "end_char": 143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:37:term-usage:160-168",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:director",
+    "span": "Director",
+    "start_char": 160,
+    "end_char": 168
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:37:term-usage:178-195",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:persona-protegida",
+    "span": "Persona Protegida",
+    "start_char": 178,
+    "end_char": 195
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:37:term-usage:247-264",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:persona-protegida",
+    "span": "Persona Protegida",
+    "start_char": 247,
+    "end_char": 264
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:37:term-usage:358-366",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 358,
+    "end_char": 366
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:37:term-usage:410-427",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:persona-protegida",
+    "span": "Persona Protegida",
+    "start_char": 410,
+    "end_char": 427
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:37:term-usage:446-467",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:medidas-de-proteccion",
+    "span": "Medidas de Protección",
+    "start_char": 446,
+    "end_char": 467
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:37:term-usage:492-509",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:persona-protegida",
+    "span": "Persona Protegida",
+    "start_char": 492,
+    "end_char": 509
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:37:term-usage:600-625",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:convenio-de-entendimiento",
+    "span": "Convenio de Entendimiento",
+    "start_char": 600,
+    "end_char": 625
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:37:term-usage:671-674",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:ley",
+    "span": "Ley",
+    "start_char": 671,
+    "end_char": 674
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:38:term-usage:75-78",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:ley",
+    "span": "Ley",
+    "start_char": 75,
+    "end_char": 78
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:39:term-usage:34-42",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 34,
+    "end_char": 42
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:39:term-usage:47-69",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:testigo-colaborador",
+    "span": "Testigos Colaboradores",
+    "start_char": 47,
+    "end_char": 69
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:39:term-usage:74-82",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:director",
+    "span": "Director",
+    "start_char": 74,
+    "end_char": 82
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:39:term-usage:157-163",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:unidad",
+    "span": "Unidad",
+    "start_char": 157,
+    "end_char": 163
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:40:term-usage:4-25",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:medidas-de-proteccion",
+    "span": "Medidas de Protección",
+    "start_char": 4,
+    "end_char": 25
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:40:term-usage:42-64",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:testigo-colaborador",
+    "span": "Testigos Colaboradores",
+    "start_char": 42,
+    "end_char": 64
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:40:term-usage:99-102",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:ley",
+    "span": "Ley",
+    "start_char": 99,
+    "end_char": 102
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:40:term-usage:288-291",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:ley",
+    "span": "Ley",
+    "start_char": 288,
+    "end_char": 291
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:40:term-usage:347-350",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:ley",
+    "span": "Ley",
+    "start_char": 347,
+    "end_char": 350
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:41:term-usage:247-250",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:ley",
+    "span": "Ley",
+    "start_char": 247,
+    "end_char": 250
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:41:term-usage:293-314",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:medidas-de-proteccion",
+    "span": "Medidas de Protección",
+    "start_char": 293,
+    "end_char": 314
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:46:term-usage:67-75",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 67,
+    "end_char": 75
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:46:term-usage:1018-1026",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 1018,
+    "end_char": 1026
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:46:term-usage:1163-1166",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:ley",
+    "span": "Ley",
+    "start_char": 1163,
+    "end_char": 1166
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:46-bis:term-usage:158-166",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:46-bis",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:director",
+    "span": "Director",
+    "start_char": 158,
+    "end_char": 166
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:46-bis:term-usage:171-177",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:46-bis",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:centro",
+    "span": "Centro",
+    "start_char": 171,
+    "end_char": 177
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:46-bis:term-usage:593-596",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:46-bis",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:ley",
+    "span": "Ley",
+    "start_char": 593,
+    "end_char": 596
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:46-bis:term-usage:990-998",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:46-bis",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:director",
+    "span": "Director",
+    "start_char": 990,
+    "end_char": 998
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:46-bis:term-usage:1003-1009",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:46-bis",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:centro",
+    "span": "Centro",
+    "start_char": 1003,
+    "end_char": 1009
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:46-bis:term-usage:1450-1458",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:46-bis",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 1450,
+    "end_char": 1458
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:46-bis:term-usage:1490-1498",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:46-bis",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:director",
+    "span": "Director",
+    "start_char": 1490,
+    "end_char": 1498
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:46-bis:term-usage:1503-1509",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:46-bis",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:centro",
+    "span": "Centro",
+    "start_char": 1503,
+    "end_char": 1509
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:47:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:director",
+    "span": "Director",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:47:term-usage:29-35",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:fiscal",
+    "span": "Fiscal",
+    "start_char": 29,
+    "end_char": 35
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:47:term-usage:134-142",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 134,
+    "end_char": 142
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:47:term-usage:375-383",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 375,
+    "end_char": 383
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:48:term-usage:35-51",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:fiscalia-general",
+    "span": "Fiscalía General",
+    "start_char": 35,
+    "end_char": 51
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:48:term-usage:147-155",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 147,
+    "end_char": 155
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:48:term-usage:311-319",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 311,
+    "end_char": 319
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:49:term-usage:118-126",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 118,
+    "end_char": 126
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:article:50:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:transitory:primero:term-usage:12-15",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:transitory:primero",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:ley",
+    "span": "Ley",
+    "start_char": 12,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:transitory:segundo:term-usage:225-233",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 225,
+    "end_char": 233
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:transitory:segundo:term-usage:273-279",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:centro",
+    "span": "Centro",
+    "start_char": 273,
+    "end_char": 279
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:transitory:segundo:term-usage:457-460",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:ley",
+    "span": "Ley",
+    "start_char": 457,
+    "end_char": 460
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:transitory:tercero:term-usage:128-136",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:programa",
+    "span": "Programa",
+    "start_char": 128,
+    "end_char": 136
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:transitory:tercero:term-usage:207-210",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:ley",
+    "span": "Ley",
+    "start_char": 207,
+    "end_char": 210
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppipp:transitory:cuarto:term-usage:69-72",
+    "provision_id": "urn:lex-mx:federal:statute:lfppipp:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lfppipp:term:ley",
+    "span": "Ley",
+    "start_char": 69,
+    "end_char": 72
+  }
+]

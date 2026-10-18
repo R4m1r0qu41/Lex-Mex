@@ -27,4 +27,4 @@ III. La publicidad o información de los proveedores y la comprobación de las i
 
 IV. Cualquier otro elemento o circunstancia que sirva como prueba para determinar el incumplimiento u omisión para aplicar la sanción. Fracción reformada DOF 29-01-2009
 
-Las resoluciones que emita la Procuraduría deberán estar debidamente fundadas y motivadas con arreglo a derecho, tomando en consideración los criterios establecidos en el presente ordenamiento.
+Las resoluciones que emita la [Procuraduría](articulo-2.md) deberán estar debidamente fundadas y motivadas con arreglo a derecho, tomando en consideración los criterios establecidos en el presente ordenamiento.

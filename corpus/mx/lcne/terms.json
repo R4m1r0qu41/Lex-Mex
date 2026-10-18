@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:term:actividades-en-materia-energetica",
+    "term": "Actividades en materia energética",
+    "instrument_id": "urn:lex-mx:federal:statute:lcne",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcne:article:6",
+    "fraction": "I",
+    "start_char": 281,
+    "end_char": 531,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:term:comision",
+    "term": "Comisión",
+    "instrument_id": "urn:lex-mx:federal:statute:lcne",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcne:article:6",
+    "fraction": "II",
+    "start_char": 531,
+    "end_char": 576,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lcne",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcne:article:6",
+    "fraction": "III",
+    "start_char": 576,
+    "end_char": 619,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcne:term:sujeto-regulado",
+    "term": "Sujeto Regulado",
+    "instrument_id": "urn:lex-mx:federal:statute:lcne",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcne:article:6",
+    "fraction": "IV",
+    "start_char": 619,
+    "end_char": 794,
+    "basis": "express_definition"
+  }
+]

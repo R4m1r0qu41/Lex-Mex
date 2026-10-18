@@ -23,7 +23,7 @@ II. Porque ninguno de los candidatos obtenga el puntaje mínimo de calificación
 
 III. Porque sólo un finalista pase a la etapa de determinación y en ésta sea vetado o bien, no obtenga la mayoría de los votos de los integrantes del Comité Técnico de Selección.
 
-Si el concurso se declara desierto, el Comité Técnico de Selección debe determinar el momento en que deberá convocarse nuevamente a concurso. En caso de que el puesto esté ocupado en términos del artículo [34](../../lspcapf/markdown/articulo-34.md) de la Ley, la persona servidora pública puede continuar ocupando el puesto conforme a los plazos previstos en el artículo [92](articulo-92.md) de este reglamento, según corresponda. Párrafo reformado DOF 04-01-2024
+Si el concurso se declara desierto, el Comité Técnico de Selección debe determinar el momento en que deberá convocarse nuevamente a concurso. En caso de que el puesto esté ocupado en términos del artículo [34](../../lspcapf/markdown/articulo-34.md) de la [Ley](articulo-2.md), la persona servidora pública puede continuar ocupando el puesto conforme a los plazos previstos en el artículo [92](articulo-92.md) de este reglamento, según corresponda. Párrafo reformado DOF 04-01-2024
 
 La resolución del Comité Técnico de Selección deberá precisar la causa por la que se determinó declarar desierto el concurso, y en caso de corresponder a la prevista en la fracción III de este artículo, se deberán señalar las conclusiones de la determinación.
 

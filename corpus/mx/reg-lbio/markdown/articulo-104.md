@@ -17,4 +17,4 @@ source_sha256: 7df3d678efda2306b68d3c0f5ca0e3e92b9066d5f773128f4ae19cb26bf44fff
 
 # Artículo 104
 
-La SENER, la SEMARNAT y la SADER pueden atender las anomalías, irregularidades o violaciones a la Ley, el Reglamento y demás disposiciones jurídicas aplicables cuando existan indicios de la realización de actividades ilícitas en materia de Biocombustibles, y de ser procedente, deben iniciar los procedimientos administrativos de sanción correspondientes.
+La [SENER](articulo-3.md), la [SEMARNAT](articulo-3.md) y la [SADER](articulo-3.md) pueden atender las anomalías, irregularidades o violaciones a la [Ley](articulo-3.md), el [Reglamento](articulo-3.md) y demás disposiciones jurídicas aplicables cuando existan indicios de la realización de actividades ilícitas en materia de Biocombustibles, y de ser procedente, deben iniciar los procedimientos administrativos de sanción correspondientes.

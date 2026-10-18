@@ -15,4 +15,4 @@ source_sha256: 6680a58c98673518aee46582b3137d28987c275785d1f0c97295f0d89c4b692b
 
 # Décimo Cuarto
 
-La Secretaría publicará en el Diario Oficial de la Federación, dentro de un plazo de noventa días hábiles a partir de la entrada en vigor del presente Reglamento, la convocatoria de inscripción de los Prestadores de Servicios Turísticos en el Registro Nacional de Turismo.
+La Secretaría publicará en el Diario Oficial de la Federación, dentro de un plazo de noventa días hábiles a partir de la entrada en vigor del presente Reglamento, la convocatoria de inscripción de los Prestadores de Servicios Turísticos en el Registro Nacional de [Turismo](articulo-2.md).

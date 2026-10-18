@@ -17,6 +17,6 @@ source_sha256: 8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca
 
 # Artículo 20
 
-Al personal de Capitanes y Oficiales convocados a la promoción para ascensos por facultad del Alto Mando, no deberán designarse para fungir como vocales, secretarias o secretarios técnicos o personal de apoyo en la Comisión Coordinadora o en las Comisiones Locales.
+Al personal de Capitanes y Oficiales convocados a la promoción para ascensos por facultad del [Alto Mando](articulo-5.md), no deberán designarse para fungir como vocales, secretarias o secretarios técnicos o personal de apoyo en la [Comisión Coordinadora](articulo-5.md) o en las [Comisiones Locales](articulo-5.md).
 
 Artículo reformado DOF 22-09-2010, 02-04-2026

@@ -17,7 +17,7 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 # Artículo 78
 
-El Mecanismo Nacional de Prevención, tendrá las siguientes facultades:
+El [Mecanismo Nacional de Prevención](articulo-5.md), tendrá las siguientes facultades:
 
 I. Elaborar informes de supervisión, informes de seguimiento e informes especiales; II. Acceder a la información sobre el número de personas privadas de la libertad, su identidad, ubicación, el número de lugares de privación de libertad y su localización física;
 
@@ -29,15 +29,15 @@ V. Entrevistarse libremente con cualquier persona privada de la libertad o con e
 
 VI. Acceder a toda la información relacionada con la condición jurídica de las personas que se encuentren en los lugares de privación de libertad;
 
-VII. Solicitar al Centro Nacional de Información del Sistema Nacional de Seguridad Pública, acerca de la información contenida en el Registro Administrativo de Detenciones, en términos de lo dispuesto por la Ley General del Sistema Nacional de Seguridad Pública;
+VII. Solicitar al Centro Nacional de Información del Sistema Nacional de Seguridad Pública, acerca de la información contenida en el Registro Administrativo de Detenciones, en términos de lo dispuesto por la [Ley](articulo-5.md) General del Sistema Nacional de Seguridad Pública;
 
 VIII. Recibir información por parte de personas privadas de la libertad, familiares de estas, organizaciones de la sociedad civil o de cualquier otra persona, en la que se denuncien hechos constitutivos de tortura y otros tratos o penas crueles, inhumanas o degradantes; o bien, en donde se proporcionen datos relevantes para el análisis de los patrones y métodos de la comisión de tortura y otros tratos o penas crueles, inhumanas o degradantes, sus causas estructurales o los factores en la legislación o la práctica que favorezcan o aumenten el riesgo de su comisión;
 
-IX. Presentar quejas ante la Comisión Nacional o, en su caso, ante los organismos de protección de los derechos humanos, al detectar cualquier situación posiblemente constitutiva de tortura y otros tratos o penas crueles, inhumanos y degradantes, las Visitadurías Generales de la Comisión Nacional realizarán sus investigaciones de forma independiente a las que realice el Mecanismo Nacional de Prevención;
+IX. Presentar quejas ante la [Comisión Nacional](articulo-5.md) o, en su caso, ante los organismos de protección de los derechos humanos, al detectar cualquier situación posiblemente constitutiva de tortura y otros tratos o penas crueles, inhumanos y degradantes, las Visitadurías Generales de la Comisión Nacional realizarán sus investigaciones de forma independiente a las que realice el Mecanismo Nacional de Prevención;
 
 X. Denunciar ante la autoridad competente, los casos de tortura y otros tratos o penas crueles inhumanas y degradantes de los que tenga conocimiento;
 
-XI. Hacer recomendaciones en materia de investigación de tortura y otros tratos o penas crueles, inhumanas o degradantes a las Fiscalías Especializadas; Fracción reformada DOF 20-05-2021
+XI. Hacer recomendaciones en materia de investigación de tortura y otros tratos o penas crueles, inhumanas o degradantes a las [Fiscalías Especializadas](articulo-5.md); Fracción reformada DOF 20-05-2021
 
 XII. Hacer recomendaciones de política pública a las autoridades competentes de los tres órdenes de gobierno; así como formular propuestas sobre la legislación vigente o los proyectos de ley en la materia, con objeto de mejorar el trato y las condiciones de las personas privadas de su libertad y de prevenir la tortura y otros tratos o penas crueles, inhumanos o degradantes, tomando en consideración los más altos estándares internacionales;
 

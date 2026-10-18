@@ -17,4 +17,4 @@ source_sha256: 32822f50bb2de81185408f9450d61a49d678429c52c5379822a507c7027a5275
 
 # Artículo 27
 
-Con el propósito de asegurar la equidad y eficacia de los programas de desarrollo social, el Gobierno Federal, por conducto de la Secretaría y los gobiernos de las entidades federativas y de los municipios, en el ámbito de sus respectivas competencias, integrarán el Padrón.
+Con el propósito de asegurar la equidad y eficacia de los programas de desarrollo social, el Gobierno Federal, por conducto de la [Secretaría](articulo-5.md) y los gobiernos de las entidades federativas y de los municipios, en el ámbito de sus respectivas competencias, integrarán el [Padrón](articulo-5.md).

@@ -17,7 +17,7 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 78 BIS
 
-En aquéllos casos en que se estén produciendo procesos acelerados de desertificación o degradación que impliquen la pérdida de recursos de muy difícil regeneración, recuperación o restablecimiento, o afectaciones irreversibles a los ecosistemas o sus elementos, la Secretaría, promoverá ante el Ejecutivo Federal la expedición de declaratorias para el establecimiento de zonas de restauración ecológica. Para tal efecto, elaborará previamente, los estudios que las justifiquen.
+En aquéllos casos en que se estén produciendo procesos acelerados de desertificación o degradación que impliquen la pérdida de recursos de muy difícil regeneración, recuperación o restablecimiento, o afectaciones irreversibles a los ecosistemas o sus elementos, la [Secretaría](articulo-3o.md), promoverá ante el Ejecutivo Federal la expedición de declaratorias para el establecimiento de zonas de restauración ecológica. Para tal efecto, elaborará previamente, los estudios que las justifiquen.
 
 Las declaratorias deberán publicarse en el Diario Oficial de la Federación, y serán inscritas en el Registro Público de la Propiedad correspondiente.
 

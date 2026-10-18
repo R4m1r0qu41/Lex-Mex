@@ -17,4 +17,4 @@ source_sha256: 2a105e5201b86ff5517ca1ef8d971224ea8c717f195fdd5fa28b916c7e622e56
 
 # Artículo 10
 
-La ejecución de las Medidas de Protección estarán a cargo de la Unidad misma que dependerá del Director y se integrará con agentes de la Policía Federal Ministerial, entrenados y capacitados para tal fin.
+La ejecución de las [Medidas de Protección](articulo-2.md) estarán a cargo de la [Unidad](articulo-2.md) misma que dependerá del [Director](articulo-2.md) y se integrará con agentes de la Policía Federal Ministerial, entrenados y capacitados para tal fin.

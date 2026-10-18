@@ -17,6 +17,6 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 45
 
-Las Instituciones Educativas y Jefaturas de Curso impartirán los estudios y cursos que permitan asegurar el desarrollo profesional del personal del Ejército, Fuerza Aérea y Guardia Nacional.
+Las [Instituciones Educativas](articulo-3.md) y Jefaturas de Curso impartirán los estudios y cursos que permitan asegurar el desarrollo profesional del personal del Ejército, Fuerza Aérea y Guardia Nacional.
 
 Artículo reformado DOF 20-03-2026

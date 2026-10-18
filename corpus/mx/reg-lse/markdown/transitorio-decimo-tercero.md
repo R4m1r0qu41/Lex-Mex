@@ -15,4 +15,4 @@ source_sha256: 4bcc982b308b0813469b30db61b53d5a2c41e5a7240b3b1cac2f1aeeb2c00a2e
 
 # Décimo Tercero
 
-A partir de la entrada en vigor del presente reglamento, todas las referencias que en los ordenamientos jurídicos vigentes se hagan al Reglamento de la Ley de la Industria Eléctrica, se entienden hechas al presente ordenamiento.
+A partir de la entrada en vigor del presente reglamento, todas las referencias que en los ordenamientos jurídicos vigentes se hagan al Reglamento de la [Ley](articulo-2.md) de la Industria Eléctrica, se entienden hechas al presente ordenamiento.

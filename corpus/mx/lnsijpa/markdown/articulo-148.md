@@ -17,9 +17,9 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 148
 
-Criterios para la imposición e individualización de la medida de sanción Para la individualización de la medida de sanción el Órgano Jurisdiccional debe considerar:
+Criterios para la imposición e individualización de la medida de sanción Para la individualización de la medida de sanción el [Órgano Jurisdiccional](articulo-3.md) debe considerar:
 
-I. Los fines establecidos en esta Ley;
+I. Los fines establecidos en esta [Ley](articulo-3.md);
 
 II. La edad de la persona adolescente y sus circunstancias personales, familiares, económicas y sociales así como su vulnerabilidad, siempre a su favor;
 

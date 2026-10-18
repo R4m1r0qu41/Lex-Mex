@@ -17,6 +17,6 @@ source_sha256: 4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f
 
 # Artículo 38
 
-Para los efectos del artículo [15](../../liva/markdown/articulo-15.md), fracción X, inciso b), primer párrafo de la Ley, se entenderá por operaciones de financiamiento las que tengan el carácter de activas o pasivas de crédito, entendiéndose como tales aquéllas por las que reciban o paguen intereses las personas que de conformidad con lo dispuesto en dicho inciso realizan las operaciones mencionadas.
+Para los efectos del artículo [15](../../liva/markdown/articulo-15.md), fracción X, inciso b), primer párrafo de la [Ley](articulo-1.md), se entenderá por operaciones de financiamiento las que tengan el carácter de activas o pasivas de crédito, entendiéndose como tales aquéllas por las que reciban o paguen intereses las personas que de conformidad con lo dispuesto en dicho inciso realizan las operaciones mencionadas.
 
 También quedan comprendidas en las operaciones de financiamiento de carácter activo, los créditos otorgados por los fondos o fideicomisos que únicamente operen con recursos proporcionados por las personas señaladas en el párrafo anterior o por ellas conjuntamente con los gobiernos de las Entidades Federativas.

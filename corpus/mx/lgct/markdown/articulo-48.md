@@ -19,7 +19,7 @@ source_sha256: 9f964bc5c075d7cf47e5e9df7c2fbe262eb5bd1794de9b230dbd72026a51ae5e
 
 Se sancionará con multa:
 
-I. De hasta cien veces el salario mínimo general diario vigente en la zona económica de que se trate, el incumplimiento de lo dispuesto en el artículo [26](articulo-26.md) de esta Ley;
+I. De hasta cien veces el salario mínimo general diario vigente en la zona económica de que se trate, el incumplimiento de lo dispuesto en el artículo [26](articulo-26.md) de esta [Ley](articulo-6.md);
 
 II. De mil hasta cuatro mil veces el salario mínimo general diario vigente en la zona económica de que se trate, el incumplimiento de las disposiciones contenidas en los artículos [14](articulo-14.md), [15](articulo-15.md), [16](articulo-16.md), [27](articulo-27.md) y [28](articulo-28.md) de esta Ley, y
 

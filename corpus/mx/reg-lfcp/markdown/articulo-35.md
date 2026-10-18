@@ -29,7 +29,7 @@ a) Habiéndose cerciorado por cualquier medio que es el domicilio donde tiene qu
 
 b) El destinatario del objeto de la diligencia y, en su caso, la persona que atienda, podrán manifestar en el momento de la misma, las observaciones que estime convenientes en relación con la diligencia pudiendo manifestar su conformidad o inconformidad con los hechos respectivos, lo cual deberá quedar asentado en el acta correspondiente.
 
-No se entenderá al destinatario o persona que atienda una diligencia como compareciente o parte para efectos del artículo [19](../../lfcp/markdown/articulo-19.md) de la Ley; e
+No se entenderá al destinatario o persona que atienda una diligencia como compareciente o parte para efectos del artículo [19](../../lfcp/markdown/articulo-19.md) de la [Ley](articulo-2o.md); e
 
 c) Por instrucciones del solicitante y bajo su responsabilidad la diligencia podrá llevarse a cabo en el domicilio que al efecto se le señale al corredor como domicilio del destinatario, no obstante que al momento de la actuación la persona que atienda informe al corredor público de lo contrario, y
 

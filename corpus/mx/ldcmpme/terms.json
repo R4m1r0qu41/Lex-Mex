@@ -1,1 +1,189 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldcmpme:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:statute:ldcmpme",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ldcmpme:article:3",
+    "fraction": "I",
+    "start_char": 48,
+    "end_char": 144,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldcmpme:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:ldcmpme",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ldcmpme:article:3",
+    "fraction": "II",
+    "start_char": 144,
+    "end_char": 188,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldcmpme:term:mipymes",
+    "term": "MIPYMES",
+    "instrument_id": "urn:lex-mx:federal:statute:ldcmpme",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ldcmpme:article:3",
+    "fraction": "III",
+    "start_char": 188,
+    "end_char": 853,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldcmpme:term:competitividad",
+    "term": "Competitividad",
+    "instrument_id": "urn:lex-mx:federal:statute:ldcmpme",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ldcmpme:article:3",
+    "fraction": "IV",
+    "start_char": 853,
+    "end_char": 1260,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldcmpme:term:sector-publico",
+    "term": "Sector Público",
+    "instrument_id": "urn:lex-mx:federal:statute:ldcmpme",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ldcmpme:article:3",
+    "fraction": "V",
+    "start_char": 1260,
+    "end_char": 1453,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldcmpme:term:sectores",
+    "term": "Sectores",
+    "instrument_id": "urn:lex-mx:federal:statute:ldcmpme",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ldcmpme:article:3",
+    "fraction": "VI",
+    "start_char": 1453,
+    "end_char": 1517,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldcmpme:term:organizaciones-empresariales",
+    "term": "Organizaciones Empresariales",
+    "instrument_id": "urn:lex-mx:federal:statute:ldcmpme",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ldcmpme:article:3",
+    "fraction": "VII",
+    "start_char": 1517,
+    "end_char": 1911,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldcmpme:term:cadenas-productivas",
+    "term": "Cadenas Productivas",
+    "instrument_id": "urn:lex-mx:federal:statute:ldcmpme",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ldcmpme:article:3",
+    "fraction": "VIII",
+    "start_char": 1911,
+    "end_char": 2090,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldcmpme:term:agrupamientos-empresariales",
+    "term": "Agrupamientos Empresariales",
+    "instrument_id": "urn:lex-mx:federal:statute:ldcmpme",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ldcmpme:article:3",
+    "fraction": "IX",
+    "start_char": 2090,
+    "end_char": 2271,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldcmpme:term:consultoria",
+    "term": "Consultoría",
+    "instrument_id": "urn:lex-mx:federal:statute:ldcmpme",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ldcmpme:article:3",
+    "fraction": "X",
+    "start_char": 2271,
+    "end_char": 2468,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldcmpme:term:capacitacion",
+    "term": "Capacitación",
+    "instrument_id": "urn:lex-mx:federal:statute:ldcmpme",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ldcmpme:article:3",
+    "fraction": "XI",
+    "start_char": 2468,
+    "end_char": 2698,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldcmpme:term:programas",
+    "term": "Programas",
+    "instrument_id": "urn:lex-mx:federal:statute:ldcmpme",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ldcmpme:article:3",
+    "fraction": "XII",
+    "start_char": 2698,
+    "end_char": 2922,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldcmpme:term:actividades-de-fomento",
+    "term": "Actividades de Fomento",
+    "instrument_id": "urn:lex-mx:federal:statute:ldcmpme",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ldcmpme:article:3",
+    "fraction": "XIII",
+    "start_char": 2922,
+    "end_char": 3145,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldcmpme:term:sistema",
+    "term": "Sistema",
+    "instrument_id": "urn:lex-mx:federal:statute:ldcmpme",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ldcmpme:article:3",
+    "fraction": "XIV",
+    "start_char": 3145,
+    "end_char": 3260,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldcmpme:term:consejo",
+    "term": "Consejo",
+    "instrument_id": "urn:lex-mx:federal:statute:ldcmpme",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ldcmpme:article:3",
+    "fraction": "XV",
+    "start_char": 3260,
+    "end_char": 3357,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldcmpme:term:consejo-estatal",
+    "term": "Consejo Estatal",
+    "instrument_id": "urn:lex-mx:federal:statute:ldcmpme",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ldcmpme:article:3",
+    "fraction": "XVI",
+    "start_char": 3357,
+    "end_char": 3547,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldcmpme:term:reglamento",
+    "term": "Reglamento",
+    "instrument_id": "urn:lex-mx:federal:statute:ldcmpme",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ldcmpme:article:3",
+    "fraction": "XVII",
+    "start_char": 3547,
+    "end_char": 3629,
+    "basis": "express_definition"
+  }
+]

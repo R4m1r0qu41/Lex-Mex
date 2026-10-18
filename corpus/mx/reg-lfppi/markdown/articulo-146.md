@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 146
 
-Al momento de solicitar la renovación de una autorización de uso, la persona solicitante deberá acreditar el cumplimiento de los requisitos a los que se refiere el artículo 298 de la Ley y demás relativos de este Reglamento.
+Al momento de solicitar la renovación de una autorización de uso, la persona solicitante deberá acreditar el cumplimiento de los requisitos a los que se refiere el artículo 298 de la Ley y demás relativos de este [Reglamento](articulo-2.md).

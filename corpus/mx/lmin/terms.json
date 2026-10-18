@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmin:term:exploracion",
+    "term": "Exploración",
+    "instrument_id": "urn:lex-mx:federal:statute:lmin",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lmin:article:3",
+    "fraction": "I",
+    "start_char": 54,
+    "end_char": 313,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmin:term:explotacion",
+    "term": "Explotación",
+    "instrument_id": "urn:lex-mx:federal:statute:lmin",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lmin:article:3",
+    "fraction": "II",
+    "start_char": 313,
+    "end_char": 592,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmin:term:beneficio",
+    "term": "Beneficio",
+    "instrument_id": "urn:lex-mx:federal:statute:lmin",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lmin:article:3",
+    "fraction": "III",
+    "start_char": 592,
+    "end_char": 912,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmin:term:uso-o-aprovechamiento",
+    "term": "Uso o aprovechamiento",
+    "instrument_id": "urn:lex-mx:federal:statute:lmin",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lmin:article:3",
+    "fraction": "IV",
+    "start_char": 912,
+    "end_char": 1083,
+    "basis": "express_definition"
+  }
+]

@@ -17,4 +17,4 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 102
 
-Cuando las solicitudes de autorización que presenten los interesados no contengan los datos o no cumplan con los requisitos aplicables, la Comisión deberá prevenir a los interesados, por escrito y por una sola vez, para que subsane la omisión dentro del término de diez días hábiles contados a partir de que haya surtido efectos dicha prevención; transcurrido este plazo sin desahogar la prevención, se desechará el trámite.
+Cuando las solicitudes de autorización que presenten los interesados no contengan los datos o no cumplan con los requisitos aplicables, la [Comisión](articulo-3o.md) deberá prevenir a los interesados, por escrito y por una sola vez, para que subsane la omisión dentro del término de diez días hábiles contados a partir de que haya surtido efectos dicha prevención; transcurrido este plazo sin desahogar la prevención, se desechará el trámite.

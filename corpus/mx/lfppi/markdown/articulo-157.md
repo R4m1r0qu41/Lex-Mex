@@ -19,8 +19,8 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 Un registro de un esquema de trazado protegido solo podrá ser declarado nulo en los siguientes casos:
 
-I.- Cuando el esquema de trazado no pueda ser objeto de un registro, en términos del artículo [83](articulo-83.md) de esta Ley, y
+I.- Cuando el esquema de trazado no pueda ser objeto de un registro, en términos del artículo [83](articulo-83.md) de esta [Ley](articulo-4.md), y
 
 II.- Se deroga. Fracción derogada DOF 03-04-2026
 
-Las acciones de nulidad previstas en este artículo podrán ejercerse en cualquier tiempo, a partir de la fecha en que surta efectos la publicación del registro en la Gaceta.
+Las acciones de nulidad previstas en este artículo podrán ejercerse en cualquier tiempo, a partir de la fecha en que surta efectos la publicación del registro en la [Gaceta](articulo-4.md).

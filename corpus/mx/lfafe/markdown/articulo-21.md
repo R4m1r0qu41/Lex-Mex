@@ -17,11 +17,11 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 21
 
-Las personas físicas o morales, públicas o privadas pueden poseer colecciones o museos de armas antiguas o modernas, o de ambas, previo el permiso correspondiente de la Secretaría.
+Las personas físicas o morales, públicas o privadas pueden poseer colecciones o museos de armas antiguas o modernas, o de ambas, previo el permiso correspondiente de la [Secretaría](articulo-1o-Bis.md).
 
-También pueden poseer, cumpliendo con los mismos requisitos, armas de las reservadas por esta Ley, cuando tengan valor o significado cultural, científico, artístico o histórico.
+También pueden poseer, cumpliendo con los mismos requisitos, armas de las reservadas por esta [Ley](articulo-1o-Bis.md), cuando tengan valor o significado cultural, científico, artístico o histórico.
 
-Cuando en una colección o museo no adscrito a un instituto armado de la Nación, existan armas de las reservadas para el uso exclusivo de la Fuerza Armada Permanente, se requerirá, además, autorización por escrito de la Secretaría.
+Cuando en una colección o museo no adscrito a un instituto armado de la Nación, existan armas de las reservadas para el uso exclusivo de la [Fuerza Armada Permanente](articulo-1o-Bis.md), se requerirá, además, autorización por escrito de la Secretaría.
 
 Queda prohibido adquirir cartuchos para las armas a que refiere este artículo.
 

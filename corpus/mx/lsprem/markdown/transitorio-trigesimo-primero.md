@@ -15,4 +15,4 @@ source_sha256: bcc21844355854fe331c842c21436d721d6c2856b5c5986715fe39f4a845b317
 
 # TRIGÉSIMO PRIMERO
 
-Los recursos humanos, presupuestales, financieros y materiales del Organismo Promotor de Medios Audiovisuales, pasarán a formar parte del Sistema Público de Radiodifusión del Estado Mexicano una vez que se nombre a su Presidente, sin menoscabo de los derechos laborales de sus trabajadores.
+Los recursos humanos, presupuestales, financieros y materiales del Organismo Promotor de Medios Audiovisuales, pasarán a formar parte del [Sistema](articulo-2.md) Público de Radiodifusión del Estado Mexicano una vez que se nombre a su [Presidente](articulo-2.md), sin menoscabo de los derechos laborales de sus trabajadores.

@@ -17,7 +17,7 @@ source_sha256: 6680a58c98673518aee46582b3137d28987c275785d1f0c97295f0d89c4b692b
 
 # Artículo 54
 
-Para la emisión de los Decretos que contengan las declaratorias de Zonas de Desarrollo Turístico Sustentable emitidos por el titular del Ejecutivo Federal, se deberá observar lo siguiente:
+Para la emisión de los Decretos que contengan las declaratorias de Zonas de [Desarrollo Turístico](articulo-2.md) Sustentable emitidos por el titular del Ejecutivo Federal, se deberá observar lo siguiente:
 
 I. La Secretaría iniciará el procedimiento por sí misma o a solicitud de los Estados, Municipios o el Distrito Federal;
 
@@ -31,7 +31,7 @@ c) Descripción de la situación socioeconómica;
 
 d) Características históricas y culturales;
 
-e) Vías de acceso e Infraestructura Urbana;
+e) Vías de acceso e [Infraestructura Urbana](articulo-2.md);
 
 f) Estudio de impacto vial susceptible de producirse en la zona, que deba presentarse ante la autoridad competente con motivo de las Actividades y Servicios Turísticos cuya realización se proponga;
 

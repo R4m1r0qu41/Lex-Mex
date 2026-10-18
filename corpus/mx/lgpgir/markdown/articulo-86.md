@@ -23,4 +23,4 @@ I. Sólo se permitirá con el fin de reutilizar o reciclar los residuos;
 
 II. En ningún caso se autorizará la importación de residuos que sean o estén constituidos por compuestos orgánicos persistentes, y
 
-III. La Secretaría podrá imponer limitaciones a la importación de residuos cuando desincentive o constituya un obstáculo para la reutilización o reciclaje de los residuos generados en territorio nacional.
+III. La [Secretaría](articulo-5.md) podrá imponer limitaciones a la importación de residuos cuando desincentive o constituya un obstáculo para la reutilización o reciclaje de los residuos generados en territorio nacional.

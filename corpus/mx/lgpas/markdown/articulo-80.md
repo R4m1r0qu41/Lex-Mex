@@ -17,6 +17,6 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 80
 
-El Programa Nacional de Acuacultura, como parte del Programa Nacional de Pesca y Acuacultura se sujetará a las previsiones del Plan Nacional de Desarrollo y contemplará la concurrencia que en materia de acuacultura lleven a cabo la Federación, las Entidades Federativas, los Municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, de acuerdo a la distribución de competencias establecidas en esta Ley.
+El Programa Nacional de [Acuacultura](articulo-4o.md), como parte del Programa Nacional de [Pesca](articulo-4o.md) y Acuacultura se sujetará a las previsiones del Plan Nacional de Desarrollo y contemplará la concurrencia que en materia de acuacultura lleven a cabo la Federación, las Entidades Federativas, los Municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, de acuerdo a la distribución de competencias establecidas en esta Ley.
 
 Artículo reformado DOF 19-01-2018

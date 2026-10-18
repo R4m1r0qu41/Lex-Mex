@@ -17,4 +17,4 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 55
 
-De igual forma, la Comisión Nacional podrá proporcionar información a las Instituciones Financieras relacionada con las reclamaciones por parte de los Usuarios, acerca de los servicios que aquéllos les ofrecen, así como de las necesidades de nuevos productos que pudieran solicitar dichos Usuarios.
+De igual forma, la [Comisión Nacional](articulo-2o.md) podrá proporcionar información a las [Instituciones Financieras](articulo-2o.md) relacionada con las reclamaciones por parte de los [Usuarios](articulo-2o.md), acerca de los servicios que aquéllos les ofrecen, así como de las necesidades de nuevos productos que pudieran solicitar dichos Usuarios.

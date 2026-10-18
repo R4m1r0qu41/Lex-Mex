@@ -17,7 +17,7 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 146
 
-De la aplicación de la medida de sanción privativa de la libertad en casos de intervención a título de participación En caso de que la persona adolescente haya intervenido en la comisión de un hecho que la ley señale como delito a título de participe, solo se podrá imponer hasta tres cuartas partes del límite máximo de la medida de sanción privativa de la libertad que esta Ley establece, de acuerdo con el grupo etario al que pertenece.
+De la aplicación de la medida de sanción privativa de la libertad en casos de intervención a título de participación En caso de que la persona adolescente haya intervenido en la comisión de un hecho que la ley señale como delito a título de participe, solo se podrá imponer hasta tres cuartas partes del límite máximo de la medida de sanción privativa de la libertad que esta [Ley](articulo-3.md) establece, de acuerdo con el grupo etario al que pertenece.
 
 Son formas de participación las siguientes:
 

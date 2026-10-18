@@ -17,7 +17,7 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 145
 
-La Secretaría promoverá que en la determinación de los usos del suelo se especifiquen las zonas en las que se permita el establecimiento de industrias, comercios o servicios considerados riesgosos por la gravedad de los efectos que puedan generar en los ecosistemas o en el ambiente tomándose en consideración:
+La [Secretaría](articulo-3o.md) promoverá que en la determinación de los usos del suelo se especifiquen las zonas en las que se permita el establecimiento de industrias, comercios o servicios considerados riesgosos por la gravedad de los efectos que puedan generar en los ecosistemas o en el ambiente tomándose en consideración:
 
 I.- Las condiciones topográficas, meteorológicas, climatológicas, geológicas y sísmicas de las zonas; Fracción reformada DOF 13-12-1996
 

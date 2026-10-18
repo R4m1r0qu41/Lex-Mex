@@ -19,4 +19,4 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 La Dirección y Rectoría establecerá el modelo, metodología y acciones necesarias para materializar el proceso de evaluación institucional, cuyos objetivos serán:
 
-I. Analizar y calificar el proceso educativo en las Instituciones Educativas y Jefaturas de Curso, de conformidad con el modelo educativo y los indicadores de calidad, y II. Valorar el empleo de los recursos humanos, materiales, técnicos, financieros e instalaciones.
+I. Analizar y calificar el proceso educativo en las [Instituciones Educativas](articulo-3.md) y Jefaturas de Curso, de conformidad con el modelo educativo y los indicadores de calidad, y II. Valorar el empleo de los recursos humanos, materiales, técnicos, financieros e instalaciones.

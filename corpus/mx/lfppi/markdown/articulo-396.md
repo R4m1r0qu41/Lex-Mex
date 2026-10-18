@@ -17,10 +17,10 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 396
 
-La indemnización por la violación de alguno o algunos de los derechos de propiedad industrial regulados en esta Ley, en ningún caso podrá ser inferior al cuarenta por ciento del indicador de valor legítimo presentado por la persona titular afectada, en términos del artículo [397](articulo-397.md) de esta Ley. Párrafo reformado DOF 03-04-2026
+La indemnización por la violación de alguno o algunos de los derechos de propiedad industrial regulados en esta [Ley](articulo-4.md), en ningún caso podrá ser inferior al cuarenta por ciento del indicador de valor legítimo presentado por la persona titular afectada, en términos del artículo [397](articulo-397.md) de esta Ley. Párrafo reformado DOF 03-04-2026
 
 La indemnización podrá ser reclamada, a elección de la persona titular afectada ante: Párrafo reformado DOF 03-04-2026
 
-I.- El Instituto una vez concluido el procedimiento administrativo respectivo, en los términos de esta Ley, o
+I.- El [Instituto](articulo-4.md) una vez concluido el procedimiento administrativo respectivo, en los términos de esta Ley, o
 
 II.- Los Tribunales de forma directa, conforme a lo dispuesto en la legislación común, y sin necesidad de declaración administrativa previa, atendiendo a lo dispuesto en el artículo [409](articulo-409.md) de esta Ley.

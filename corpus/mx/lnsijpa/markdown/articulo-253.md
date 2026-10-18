@@ -33,7 +33,7 @@ VI. Asimismo, las dependencias y autoridades responsables de la prevención soci
 
 VII. El Diseño con Base en Conocimientos Interdisciplinarios. Las estrategias, políticas, programas y medidas de prevención social de la violencia y la delincuencia deben tener una amplia base de conocimientos interdisciplinarios sobre los problemas que las generan, sus múltiples causas y las prácticas que hayan resultado eficaces;
 
-VIII. El Respeto a los Derechos Humanos. El Estado de Derecho y la Cultura de la Legalidad. En todos los aspectos de la prevención social de la violencia y la delincuencia se deben respetar el estado de derecho y los derechos humanos reconocidos en la Constitución, los Tratados Internacionales en la materia y las leyes aplicables. Asimismo, se deberá fomentar una cultura de legalidad en todos los ámbitos de la sociedad;
+VIII. El Respeto a los Derechos Humanos. El Estado de Derecho y la Cultura de la Legalidad. En todos los aspectos de la prevención social de la violencia y la delincuencia se deben respetar el estado de derecho y los derechos humanos reconocidos en la [Constitución](articulo-3.md), los Tratados Internacionales en la materia y las leyes aplicables. Asimismo, se deberá fomentar una cultura de legalidad en todos los ámbitos de la sociedad;
 
 IX. La Perspectiva Internacional. Las estrategias y los diagnósticos de prevención social de la violencia y la delincuencia, en el ámbito nacional, deben tener en cuenta la vinculación entre los problemas de la delincuencia nacional y la delincuencia internacional;
 

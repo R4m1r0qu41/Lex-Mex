@@ -19,6 +19,6 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 La autorización de uso de una denominación de origen o indicación geográfica protegida será nula cuando se otorgue:
 
-I.- En contravención a las disposiciones de esta Ley, o
+I.- En contravención a las disposiciones de esta [Ley](articulo-4.md), o
 
 II.- Con base en datos o documentos falsos.

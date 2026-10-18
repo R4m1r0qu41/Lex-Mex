@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 115
 
-La Secretaría, la CNE y la CONUEE deben llevar un registro de los resultados de las verificaciones que realicen en el ámbito de sus atribuciones. Dicho registro debe contener al menos la siguiente información: I. Fecha de la visita de verificación; II. Nombre, denominación o razón social de la Parte Sujeta de Obligación; III. Domicilio; IV. Nombre de la persona representante legal, en su caso, y V. Resultados de la verificación.
+La [Secretaría](articulo-5.md), la CNE y la CONUEE deben llevar un registro de los resultados de las verificaciones que realicen en el ámbito de sus atribuciones. Dicho registro debe contener al menos la siguiente información: I. Fecha de la visita de verificación; II. Nombre, denominación o razón social de la [Parte Sujeta de Obligación](articulo-5.md); III. Domicilio; IV. Nombre de la persona representante legal, en su caso, y V. Resultados de la verificación.

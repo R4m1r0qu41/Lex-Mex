@@ -17,4 +17,4 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 136
 
-El Instituto establecerá en plazas de importancia, centros de bienestar infantil para atender a los niños mayores de 45 días y menores de 7 años, hijos de militares, cuando se acredite la necesidad de esa ayuda.
+El [Instituto](articulo-4o.md) establecerá en plazas de importancia, centros de bienestar infantil para atender a los niños mayores de 45 días y menores de 7 años, hijos de militares, cuando se acredite la necesidad de esa ayuda.

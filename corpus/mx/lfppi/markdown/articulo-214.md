@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 214
 
-Para obtener el registro de una marca deberá presentarse solicitud ante el Instituto con los siguientes datos:
+Para obtener el registro de una marca deberá presentarse solicitud ante el [Instituto](articulo-4.md) con los siguientes datos:
 
 I.- El nombre, domicilio y correo electrónico de la persona solicitante; Fracción reformada DOF 03-04-2026
 
@@ -27,7 +27,7 @@ III.- La fecha de primer uso de la marca, la que no podrá ser modificada ulteri
 
 IV.- Los productos o servicios específicos en los que se aplicará la marca;
 
-V.- Los elementos sobre los cuales no se solicita protección y que se reproducen en la marca, en términos del artículo [216](articulo-216.md) de esta Ley;
+V.- Los elementos sobre los cuales no se solicita protección y que se reproducen en la marca, en términos del artículo [216](articulo-216.md) de esta [Ley](articulo-4.md);
 
 VI.- La denominación o descripción de la marca, cuando proceda; Fracción reformada DOF 03-04-2026
 

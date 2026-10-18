@@ -17,13 +17,13 @@ source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 
 # Artículo 92
 
-Los Centros Públicos deben contar con los siguientes órganos de gobierno, dirección, consulta y evaluación:
+Los [Centros Públicos](articulo-4.md) deben contar con los siguientes órganos de gobierno, dirección, consulta y evaluación:
 
 I. Órgano de Gobierno;
 
 II. Dirección General o equivalente; III. Consejo Consultivo Interno o equivalente, con un Comité Académico y un Comité Técnico;
 
-IV. Asamblea del Personal de Investigación Humanística y Científica, Desarrollo Tecnológico e Innovación;
+IV. [Asamblea del Personal](articulo-4.md) de Investigación Humanística y Científica, Desarrollo Tecnológico e Innovación;
 
 V. Comité Externo de Evaluación, cuyos integrantes realizarán sus funciones de manera honorífica, y
 

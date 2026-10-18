@@ -17,4 +17,4 @@ source_sha256: 23dcee090bbe0c4fb06c75d084cb65ce0b2e8f72a8d082e7059504412bde1614
 
 # Artículo 79
 
-La Secretaría, a través de las instancias competentes, procurará en todo momento conciliar los intereses involucrados en controversias relativas a la adopción de medidas provisionales y de violación a los derechos consagrados en la Ley y en el presente Reglamento. En cualquier caso, se dará prioridad al procedimiento arbitral.
+La [Secretaría](articulo-2o.md), a través de las instancias competentes, procurará en todo momento conciliar los intereses involucrados en controversias relativas a la adopción de medidas provisionales y de violación a los derechos consagrados en la [Ley](articulo-2o.md) y en el presente Reglamento. En cualquier caso, se dará prioridad al procedimiento arbitral.

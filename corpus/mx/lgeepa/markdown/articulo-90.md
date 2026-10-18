@@ -17,6 +17,6 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 90
 
-La Secretaría, en coordinación con la Secretaría de Salud, expedirán las normas oficiales mexicanas para el establecimiento y manejo de zonas de protección de ríos, manantiales, depósitos y en general, fuentes de abastecimiento de agua para el servicio de las poblaciones e industrias, y promoverá el establecimiento de reservas de agua para consumo humano.
+La [Secretaría](articulo-3o.md), en coordinación con la Secretaría de Salud, expedirán las normas oficiales mexicanas para el establecimiento y manejo de zonas de protección de ríos, manantiales, depósitos y en general, fuentes de abastecimiento de agua para el servicio de las poblaciones e industrias, y promoverá el establecimiento de reservas de agua para consumo humano.
 
 Artículo reformado DOF 13-12-1996

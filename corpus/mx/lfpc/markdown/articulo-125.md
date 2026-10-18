@@ -17,4 +17,4 @@ source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 
 # Artículo 125
 
-Las infracciones a lo dispuesto en esta ley serán sancionadas por la Procuraduría.
+Las infracciones a lo dispuesto en esta ley serán sancionadas por la [Procuraduría](articulo-2.md).

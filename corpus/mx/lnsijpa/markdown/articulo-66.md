@@ -17,7 +17,7 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 66
 
-El Ministerio Público Especializado en Justicia para Adolescentes Las Procuradurías Generales de Justicia o Fiscalías de las entidades federativas contarán con agentes del Ministerio Público o Fiscales Especializados en Justicia para Adolescentes que, además de las obligaciones y atribuciones previstas por la Constitución, los Tratados Internacionales de los que el Estado mexicano sea parte, el Código Nacional y leyes aplicables, tendrán las siguientes:
+El Ministerio Público Especializado en Justicia para [Adolescentes](articulo-3.md) Las Procuradurías Generales de Justicia o Fiscalías de las entidades federativas contarán con agentes del Ministerio Público o Fiscales Especializados en Justicia para Adolescentes que, además de las obligaciones y atribuciones previstas por la [Constitución](articulo-3.md), los Tratados Internacionales de los que el Estado mexicano sea parte, el [Código Nacional](articulo-3.md) y leyes aplicables, tendrán las siguientes:
 
 I. Garantizar el respeto y cumplimiento de los derechos y garantías de las personas adolescentes;
 
@@ -29,7 +29,7 @@ IV. Informar de inmediato a la persona adolescente, a sus familiares, al defenso
 
 VI. Otorgar a la persona adolescente, defensor y, en su caso, a su familia, la información sobre la investigación, salvo los casos excepcionales previstos en el Código Nacional;
 
-VII. Garantizar, siempre que resulte procedente, la aplicación de criterios de oportunidad, en los términos de esta Ley, el Código Nacional y demás disposiciones aplicables;
+VII. Garantizar, siempre que resulte procedente, la aplicación de criterios de oportunidad, en los términos de esta [Ley](articulo-3.md), el Código Nacional y demás disposiciones aplicables;
 
 VIII. Garantizar, siempre que resulte procedente, la utilización de mecanismos alternativos, a fin de cumplir con los principios de mínima intervención y subsidiariedad;
 

@@ -17,7 +17,7 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 120
 
-Corresponde a la Fiscalía coordinar la operación y centralizar la información del Banco Nacional de Datos Forenses, así como administrar el Registro Forense Federal, en términos de lo que establezca el Reglamento.
+Corresponde a la [Fiscalía](articulo-4.md) coordinar la operación y centralizar la información del [Banco Nacional de Datos Forenses](articulo-4.md), así como administrar el Registro Forense Federal, en términos de lo que establezca el [Reglamento](articulo-4.md).
 
 Corresponde a las Fiscalías y Procuradurías Locales coordinar la operación de su respectivo registro forense y compartir la información con la Fiscalía, en términos de lo que establece esta Ley.
 

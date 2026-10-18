@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 136
 
-El Expendio al Público de Gas Natural y Petrolíferos debe llevarse a cabo de conformidad con el artículo [5](../../lsh/markdown/articulo-5.md), fracción XVIII de la Ley, en los Sistemas establecidos por la Comisión en la Normatividad aplicable. Los productos que se expendan al público deben adquirirse de personas Permisionarias.
+El Expendio al Público de Gas Natural y Petrolíferos debe llevarse a cabo de conformidad con el artículo [5](../../lsh/markdown/articulo-5.md), fracción XVIII de la [Ley](articulo-3.md), en los [Sistemas](articulo-3.md) establecidos por la [Comisión](articulo-3.md) en la [Normatividad](articulo-3.md) aplicable. Los productos que se expendan al público deben adquirirse de personas Permisionarias.

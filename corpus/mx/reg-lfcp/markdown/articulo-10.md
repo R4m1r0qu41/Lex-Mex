@@ -17,6 +17,6 @@ source_sha256: 43723ba379e128c1a1c1be4b085ecc870946cdec43d56f83e7314c077361368f
 
 # Artículo 10
 
-La Secretaría resolverá dentro de los diez días siguientes a la fecha de recepción de la solicitud requisitada y, en su caso, notificará al interesado, personalmente, o por cualquier medio de comunicación electrónica cuando así lo haya aceptado expresamente el solicitante, la fecha, lugar y hora en que tendrá lugar el examen para aspirante, así como las bases y reglas a que se sujetará y el material de apoyo con el que podrá contar durante su desarrollo.
+La [Secretaría](articulo-2o.md) resolverá dentro de los diez días siguientes a la fecha de recepción de la solicitud requisitada y, en su caso, notificará al interesado, personalmente, o por cualquier medio de comunicación electrónica cuando así lo haya aceptado expresamente el solicitante, la fecha, lugar y hora en que tendrá lugar el examen para aspirante, así como las bases y reglas a que se sujetará y el material de apoyo con el que podrá contar durante su desarrollo.
 
 Artículo reformado DOF 26-11-2012

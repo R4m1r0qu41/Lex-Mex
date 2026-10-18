@@ -17,4 +17,4 @@ source_sha256: add375b17749965073df032027c6cafb7883ab25bfae2f13e34ba41b1ff24e88
 
 # Artículo 14
 
-El emblema, acompañado de la denominación "Cruz Roja Mexicana", podrá figurar en bienes inmuebles que no sean propiedad de la Sociedad Nacional y que ésta utilice en el desarrollo de sus actividades.
+El emblema, acompañado de la denominación "[Cruz Roja Mexicana](articulo-3.md)", podrá figurar en bienes inmuebles que no sean propiedad de la [Sociedad Nacional](articulo-3.md) y que ésta utilice en el desarrollo de sus actividades.

@@ -37,4 +37,4 @@ VIII.- Las sanciones en caso de incumplimiento de las reglas de uso;
 
 IX.- La indicación sobre el ejercicio de las acciones legales de protección, y
 
-X.- Las demás que la persona solicitante estime pertinentes. Fracción reformada DOF 03-04-2026 En el caso de la fracción IX del presente artículo, cualquier modificación deberá ser inscrita ante el Instituto para surtir efectos frente a terceros.
+X.- Las demás que la persona solicitante estime pertinentes. Fracción reformada DOF 03-04-2026 En el caso de la fracción IX del presente artículo, cualquier modificación deberá ser inscrita ante el [Instituto](articulo-4.md) para surtir efectos frente a terceros.

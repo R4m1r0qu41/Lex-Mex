@@ -17,8 +17,8 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 145
 
-La Declaración Especial de Ausencia tiene como finalidad:
+La [Declaración Especial de Ausencia](articulo-4.md) tiene como finalidad:
 
-I. Reconocer y proteger la personalidad jurídica y los derechos de la Persona Desaparecida, y
+I. Reconocer y proteger la personalidad jurídica y los derechos de la [Persona Desaparecida](articulo-4.md), y
 
-II. Otorgar las medidas apropiadas para asegurar la protección más amplia a los Familiares de la Persona Desaparecida.
+II. Otorgar las medidas apropiadas para asegurar la protección más amplia a los [Familiares](articulo-4.md) de la Persona Desaparecida.

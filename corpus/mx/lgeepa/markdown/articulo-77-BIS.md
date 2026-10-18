@@ -19,7 +19,7 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 Los pueblos y comunidades indígenas y afromexicanas, organizaciones sociales, personas morales, públicas o privadas, y demás personas interesadas en destinar voluntariamente a la conservación predios de su propiedad, establecerán, administrarán y manejarán dichas áreas conforme a lo siguiente: Párrafo reformado DOF 01-04-2024
 
-I.- Las áreas destinadas voluntariamente a la conservación se establecerán mediante certificado que expida la Secretaría, en el cual las reconozca como áreas naturales protegidas. Los interesados en obtener dicho certificado presentarán una solicitud que contenga:
+I.- Las áreas destinadas voluntariamente a la conservación se establecerán mediante certificado que expida la [Secretaría](articulo-3o.md), en el cual las reconozca como áreas naturales protegidas. Los interesados en obtener dicho certificado presentarán una solicitud que contenga:
 
 a) Nombre del propietario;
 

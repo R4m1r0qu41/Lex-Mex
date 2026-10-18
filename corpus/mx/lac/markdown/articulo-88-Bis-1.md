@@ -19,7 +19,7 @@ Se impondrá sanción con multa de doscientas a cinco mil Unidades de Medida y A
 
 Asimismo, les será suspendido cualquier permiso, certificado, registro, matrícula, autorización o licencia, atendiendo la gravedad de la infracción, siempre que por el incumplimiento se haya impuesto una sanción y ésta haya quedado firme en términos de ley.
 
-La Agencia Federal de Aviación Civil revocará cualquier certificado, registro, matrícula, autorización o licencia, cuando la infracción sea grave para la seguridad de las operaciones aéreas o se haya vulnerado la integridad física de terceros y sus bienes. Párrafo reformado DOF 03-05-2023
+La [Agencia Federal de Aviación Civil](articulo-2.md) revocará cualquier certificado, registro, matrícula, autorización o licencia, cuando la infracción sea grave para la seguridad de las operaciones aéreas o se haya vulnerado la integridad física de terceros y sus bienes. Párrafo reformado DOF 03-05-2023
 
 El titular de un permiso, certificado, registro, matrícula, autorización o licencia, que hubiere sido revocado, no podrá obtener, directa o indirectamente, otro permiso de los contemplados en la presente Ley dentro de un plazo de cinco años, contado a partir de la fecha en que hubiere quedado firme la resolución respectiva.
 

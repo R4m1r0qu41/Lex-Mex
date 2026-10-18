@@ -17,4 +17,4 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 149
 
-En tanto la autoridad competente dicte la resolución del acto de Verificación los sujetos a quienes se realicen, podrán continuar comercializando los bienes, realizando los procesos o prestando los servicios bajo su estricta responsabilidad. En los casos en que exista razón fundada para suponer que la continuación de esos actos afectará los objetivos legítimos de interés público tutelados por la Norma Oficial Mexicana, la autoridad competente podrá ordenar la suspensión cautelar de esos actos.
+En tanto la autoridad competente dicte la resolución del acto de [Verificación](articulo-4.md) los sujetos a quienes se realicen, podrán continuar comercializando los bienes, realizando los procesos o prestando los servicios bajo su estricta responsabilidad. En los casos en que exista razón fundada para suponer que la continuación de esos actos afectará los objetivos legítimos de interés público tutelados por la [Norma Oficial Mexicana](articulo-4.md), la autoridad competente podrá ordenar la suspensión cautelar de esos actos.

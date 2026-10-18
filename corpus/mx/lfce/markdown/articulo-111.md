@@ -17,7 +17,7 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 111
 
-La representación de los Agentes Económicos ante la Comisión deberá acreditarse mediante testimonio notarial o copia certificada del documento o instrumento que contenga las facultades para ello, de conformidad con las formalidades establecidas en la legislación aplicable, el cual podrá presentarse con el primer escrito o inscribirse en el registro de personas acreditadas que, en su caso, establezca la Comisión.
+La representación de los [Agentes Económicos](articulo-3.md) ante la [Comisión](articulo-3.md) deberá acreditarse mediante testimonio notarial o copia certificada del documento o instrumento que contenga las facultades para ello, de conformidad con las formalidades establecidas en la legislación aplicable, el cual podrá presentarse con el primer escrito o inscribirse en el registro de personas acreditadas que, en su caso, establezca la Comisión.
 
 Los Agentes Económicos o su representante legal podrán autorizar a las personas que estimen pertinente para que reciban notificaciones, realicen promociones, ofrezcan medios de prueba, concurran al desahogo de pruebas, formulen alegatos y, en general, lleven a cabo los actos necesarios para la debida sustanciación del procedimiento. El autorizado en estos términos no podrá sustituir ni delegar su autorización. Los Agentes Económicos o su representante legal podrán designar personas únicamente para oír y recibir notificaciones y documentos e imponerse de las constancias del expediente, quienes no gozarán de las facultades referidas en el párrafo anterior.
 

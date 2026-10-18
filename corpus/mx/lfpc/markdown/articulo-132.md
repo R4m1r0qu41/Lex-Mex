@@ -17,7 +17,7 @@ source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 
 # Artículo 132
 
-La Procuraduría determinará las sanciones conforme a lo dispuesto en esta ley y su reglamento, considerando como base la gravedad de la infracción y tomando en cuenta los siguientes elementos:
+La [Procuraduría](articulo-2.md) determinará las sanciones conforme a lo dispuesto en esta ley y su reglamento, considerando como base la gravedad de la infracción y tomando en cuenta los siguientes elementos:
 
 I. El perjuicio causado al consumidor o a la sociedad en general;
 

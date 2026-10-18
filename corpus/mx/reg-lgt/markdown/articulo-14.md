@@ -17,4 +17,4 @@ source_sha256: 6680a58c98673518aee46582b3137d28987c275785d1f0c97295f0d89c4b692b
 
 # Artículo 14
 
-Los representantes de las organizaciones sectoriales de Turismo, instituciones de educación superior, sectores social y privado, así como todos aquellos que participen en la Comisión como invitados por la Secretaría, sin ser servidores públicos, tendrán derecho de voz pero no de voto. La colaboración de éstos será honorífica y por tanto no recibirán emolumento o contraprestación alguna por su participación.
+Los representantes de las organizaciones sectoriales de [Turismo](articulo-2.md), instituciones de educación superior, sectores social y privado, así como todos aquellos que participen en la Comisión como invitados por la Secretaría, sin ser servidores públicos, tendrán derecho de voz pero no de voto. La colaboración de éstos será honorífica y por tanto no recibirán emolumento o contraprestación alguna por su participación.

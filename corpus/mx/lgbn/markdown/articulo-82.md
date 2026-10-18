@@ -17,7 +17,7 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # Artículo 82
 
-Los gobiernos de las entidades federativas, en auxilio de la Secretaría de Gobernación y de la Secretaría, podrán en los términos de los convenios de colaboración o coordinación que celebren, ejercer las siguientes facultades en relación con los inmuebles federales utilizados para fines religiosos y sus anexidades, con excepción de aquellos considerados como monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente: Párrafo reformado DOF 19-01-2018
+Los gobiernos de las entidades federativas, en auxilio de la [Secretaría](articulo-2.md) de Gobernación y de la Secretaría, podrán en los términos de los convenios de colaboración o coordinación que celebren, ejercer las siguientes facultades en relación con los inmuebles federales utilizados para fines religiosos y sus anexidades, con excepción de aquellos considerados como monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente: Párrafo reformado DOF 19-01-2018
 
 I.- Vigilar su conservación y preservación, así como la de los muebles ubicados en dichos inmuebles que se consideren inmovilizados o guarden conexión con el uso o destino religioso;
 

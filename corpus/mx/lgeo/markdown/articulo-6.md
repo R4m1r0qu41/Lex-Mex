@@ -17,4 +17,4 @@ source_sha256: 67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35
 
 # Artículo 6
 
-Tratándose de aguas diferentes al Agua Geotérmica, se está a lo dispuesto en la Ley de Aguas Nacionales. Lo anterior, es aplicable al agua del subsuelo en cualquier estado, cuando se trata de su manejo en superficie e introducción al Yacimiento Geotérmico, buscando siempre mantener la integridad de los acuíferos adyacentes y la sustentabilidad del yacimiento.
+Tratándose de aguas diferentes al [Agua Geotérmica](articulo-2.md), se está a lo dispuesto en la [Ley](articulo-2.md) de Aguas Nacionales. Lo anterior, es aplicable al agua del subsuelo en cualquier estado, cuando se trata de su manejo en superficie e introducción al [Yacimiento Geotérmico](articulo-2.md), buscando siempre mantener la integridad de los acuíferos adyacentes y la sustentabilidad del yacimiento.

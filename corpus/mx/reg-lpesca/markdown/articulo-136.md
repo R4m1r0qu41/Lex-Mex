@@ -19,7 +19,7 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 La solicitud de certificación y registro de unidades de cuarentena a que se refiere el [artículo anterior](articulo-135.md), se resolverá en los términos siguientes:
 
-I. Para el caso de que la solicitud se presente ante la Secretaría, ésta resolverá en un plazo de 21 días hábiles, bajo el procedimiento siguiente:
+I. Para el caso de que la solicitud se presente ante la [Secretaría](articulo-2o.md), ésta resolverá en un plazo de 21 días hábiles, bajo el procedimiento siguiente:
 
 a) La Secretaría integrará el expediente en un plazo de 7 días hábiles, dentro del cual requerirá al interesado la información o documentación faltante. De no requerir al interesado subsane las deficiencias que existieren, se considerará integrado el expediente y
 

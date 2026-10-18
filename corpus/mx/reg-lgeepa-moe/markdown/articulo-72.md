@@ -17,4 +17,4 @@ source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 
 # Artículo 72
 
-La Procuraduría llevará a cabo la inspección y vigilancia del cumplimiento de los procesos de ordenamiento ecológico conforme a las disposiciones contenidas en el presente Reglamento.
+La [Procuraduría](articulo-3o.md) llevará a cabo la inspección y vigilancia del cumplimiento de los procesos de ordenamiento ecológico conforme a las disposiciones contenidas en el presente [Reglamento](articulo-3o.md).

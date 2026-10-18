@@ -19,4 +19,4 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 Las certificaciones de inscripciones de los documentos que dieron lugar a éstas incluirán invariablemente sus avisos notariales y anotaciones preventivas.
 
-La Secretaría deberá expedir las certificaciones a que se refiere el párrafo anterior, dentro de un plazo de quince días hábiles, contado a partir de la recepción de la promoción, para lo cual verificará si en los cinco días anteriores a dicha recepción no se ha recibido en oficialía de partes una solicitud que pueda afectar derechos de terceros, en cuyo caso, lo anterior se hará constar en la certificación que se expida.
+La [Secretaría](articulo-1o.md) deberá expedir las certificaciones a que se refiere el párrafo anterior, dentro de un plazo de quince días hábiles, contado a partir de la recepción de la promoción, para lo cual verificará si en los cinco días anteriores a dicha recepción no se ha recibido en oficialía de partes una solicitud que pueda afectar derechos de terceros, en cuyo caso, lo anterior se hará constar en la certificación que se expida.

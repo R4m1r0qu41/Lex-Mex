@@ -17,4 +17,4 @@ source_sha256: 4195c0740ad46978a8b0f2d43f0ac6d77e46b0216bd6f756950b1a050044ce98
 
 # Artículo 16
 
-El Centro, una vez que haya determinado un vuelo no autorizado, puede disponer del empleo de Aeronaves interceptoras, para comunicar a la Tripulación de Vuelo de la aeronave interceptada que su conducta de vuelo está clasificada como vuelo no autorizado e instruirle para que corrija la causa que motivó su Interceptación aérea.
+El Centro, una vez que haya determinado un vuelo no autorizado, puede disponer del empleo de Aeronaves interceptoras, para comunicar a la [Tripulación de Vuelo](articulo-4.md) de la aeronave interceptada que su conducta de vuelo está clasificada como vuelo no autorizado e instruirle para que corrija la causa que motivó su Interceptación aérea.

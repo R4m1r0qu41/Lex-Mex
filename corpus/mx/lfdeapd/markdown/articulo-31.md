@@ -17,6 +17,6 @@ source_sha256: 4fadf9a6f2d22a9e48d8e29ed302456751da66eb723e0df1dc6ac45a5e4640b0
 
 # Artículo 31
 
-En el caso de la existencia previa de una declaratoria por presunción de muerte o de una declaratoria por ausencia, conforme al Código Civil Federal o bien, de aquellas que se encuentren pendientes de inscripción, a solicitud de quien tenga interés legítimo, éstas podrán ser tramitadas como Declaración Especial de Ausencia, en los términos de la presente Ley.
+En el caso de la existencia previa de una declaratoria por presunción de muerte o de una declaratoria por ausencia, conforme al Código Civil Federal o bien, de aquellas que se encuentren pendientes de inscripción, a solicitud de quien tenga interés legítimo, éstas podrán ser tramitadas como [Declaración Especial de Ausencia](articulo-3.md), en los términos de la presente Ley.
 
-De acreditarse tal supuesto, el Órgano Jurisdiccional que hubiese decretado la presunción de muerte o de ausencia, será el competente para realizar el cambio de la situación jurídica sin más trámite dilatorio que el previsto en términos de esta Ley.
+De acreditarse tal supuesto, el [Órgano Jurisdiccional](articulo-3.md) que hubiese decretado la presunción de muerte o de ausencia, será el competente para realizar el cambio de la situación jurídica sin más trámite dilatorio que el previsto en términos de esta Ley.

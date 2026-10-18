@@ -17,6 +17,6 @@ source_sha256: 2a105e5201b86ff5517ca1ef8d971224ea8c717f195fdd5fa28b916c7e622e56
 
 # Artículo 32 Bis
 
-La Fiscalía General de la República prestará apoyo y protección suficientes a jueces, peritos, testigos, víctimas y demás personas, cuando se requiera por su intervención en un procedimiento penal de su competencia sobre delitos en materia de delincuencia organizada a que refiere el Código Penal Federal.
+La [Fiscalía General](articulo-2.md) de la República prestará apoyo y protección suficientes a jueces, peritos, testigos, víctimas y demás personas, cuando se requiera por su intervención en un procedimiento penal de su competencia sobre delitos en materia de delincuencia organizada a que refiere el Código Penal Federal.
 
 Artículo adicionado DOF 20-05-2021

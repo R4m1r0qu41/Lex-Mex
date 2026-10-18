@@ -17,7 +17,7 @@ source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 
 # Artículo 76
 
-En atención a su objeto y en el marco de la política nacional, el Sistema Nacional de Centros Públicos, bajo la coordinación del Consejo Nacional, tendrá los siguientes objetivos:
+En atención a su objeto y en el marco de la política nacional, el [Sistema Nacional](articulo-4.md) de [Centros Públicos](articulo-4.md), bajo la coordinación del [Consejo Nacional](articulo-4.md), tendrá los siguientes objetivos:
 
 I. Contribuir, a través de las humanidades, las ciencias, las tecnologías y la innovación, a la construcción de una sociedad más libre, igualitaria, justa y próspera, fundada en el pensamiento racional, reflexivo, dialógico, crítico y creativo, así como en la pluralidad y equidad epistémicas;
 
@@ -25,7 +25,7 @@ II. Impulsar el avance del conocimiento universal, realizar investigación en ci
 
 III. Establecer programas nacionales de posgrado, impartidos de manera conjunta y articulada por dos o más instituciones parte del Sistema;
 
-IV. Realizar investigaciones orientadas a diagnosticar, prospectar y proponer a las autoridades competentes, así como a la sociedad en general, acciones y medidas para la prevención, atención y solución de problemáticas nacionales relacionadas con la Agenda Nacional;
+IV. Realizar investigaciones orientadas a diagnosticar, prospectar y proponer a las autoridades competentes, así como a la sociedad en general, acciones y medidas para la prevención, atención y solución de problemáticas nacionales relacionadas con la [Agenda Nacional](articulo-4.md);
 
 V. Aportar elementos e insumos para la construcción e implementación de políticas públicas orientadas al mejoramiento de las condiciones de vida en las regiones, zonas metropolitanas y territorios en que se ubiquen las sedes y subsedes de los Centros Públicos;
 

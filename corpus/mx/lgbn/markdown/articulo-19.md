@@ -17,7 +17,7 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # Artículo 19
 
-Las dependencias administradoras de inmuebles y los organismos descentralizados podrán rescatar las concesiones que otorguen sobre bienes sujetos al régimen de dominio público de la Federación, mediante indemnización, por causas de utilidad, de interés público o de seguridad nacional.
+Las dependencias administradoras de inmuebles y los organismos descentralizados podrán rescatar las concesiones que otorguen sobre bienes sujetos al régimen de dominio público de la [Federación](articulo-2.md), mediante indemnización, por causas de utilidad, de interés público o de seguridad nacional.
 
 La declaratoria de rescate hará que los bienes materia de la concesión vuelvan, de pleno derecho, desde la fecha de la declaratoria, a la posesión, control y administración del concesionante y que ingresen a su patrimonio los bienes, equipos e instalaciones destinados directamente a los fines de la concesión. Podrá autorizarse al concesionario a retirar y a disponer de los bienes, equipo e instalaciones de su propiedad afectos a la concesión, cuando los mismos no fueren útiles al concesionante y puedan ser aprovechados por el concesionario; pero, en este caso, su valor no se incluirá en el monto de la indemnización.
 

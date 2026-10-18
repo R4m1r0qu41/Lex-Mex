@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 9
 
-La persona Titular de la Dirección General del Instituto dará a conocer mediante Acuerdo los días que se considerarán como inhábiles, así como cualquier suspensión de las labores institucionales.
+La persona Titular de la Dirección General del Instituto dará a conocer mediante [Acuerdo](articulo-2.md) los días que se considerarán como inhábiles, así como cualquier suspensión de las labores institucionales.

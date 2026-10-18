@@ -17,13 +17,13 @@ source_sha256: 0e34f329befed4474eb7bc1bc195ba13bbe188edfbbabc914a44723e62eb9e44
 
 # Artículo 6o
 
-La regulación que emita la Agencia será publicada en el Diario Oficial de la Federación y deberá comprender, entre otros aspectos, los siguientes:
+La regulación que emita la [Agencia](articulo-3o.md) será publicada en el Diario Oficial de la Federación y deberá comprender, entre otros aspectos, los siguientes:
 
-I. En materia de Seguridad Industrial y Seguridad Operativa: a) La adopción y observancia obligatoria de estándares técnicos nacionales e internacionales;
+I. En materia de [Seguridad Industrial](articulo-3o.md) y [Seguridad Operativa](articulo-3o.md): a) La adopción y observancia obligatoria de estándares técnicos nacionales e internacionales;
 
-b) La prevención y contención de derrames y fugas de hidrocarburos en las instalaciones y actividades del Sector, así como los procesos de remediación de las afectaciones que en su caso resulten, en coordinación con las unidades administrativas de la Secretaría;
+b) La prevención y contención de derrames y fugas de hidrocarburos en las instalaciones y actividades del Sector, así como los procesos de remediación de las afectaciones que en su caso resulten, en coordinación con las unidades administrativas de la [Secretaría](articulo-3o.md);
 
-c) El requerimiento de garantías o cualquier otro instrumento financiero necesario para que los Regulados cuenten con coberturas financieras contingentes frente a daños o perjuicios que se pudieran generar. Dicha regulación deberá contar con la opinión favorable de la Secretaría de Energía y de la Secretaría de Hacienda y Crédito Público, y
+c) El requerimiento de garantías o cualquier otro instrumento financiero necesario para que los [Regulados](articulo-3o.md) cuenten con coberturas financieras contingentes frente a daños o perjuicios que se pudieran generar. Dicha regulación deberá contar con la opinión favorable de la Secretaría de Energía y de la Secretaría de Hacienda y Crédito Público, y
 
 d) La integridad física y operativa de las instalaciones; el análisis de riesgo y los planes de atención de contingencias y emergencias, así como su cumplimiento.
 
@@ -41,7 +41,7 @@ e) Las condiciones ambientales para prevenir la contaminación por residuos gene
 
 f) El desempeño ambiental que deberá prevalecer en el manejo integral de residuos sólidos urbanos y de manejo especial generados por las actividades del Sector;
 
-g) Las previsiones a que deberá sujetarse la operación de fuentes fijas donde se desarrollen actividades del Sector que emitan contaminantes atmosféricos, en casos de Contingencias o Emergencias ambientales;
+g) Las previsiones a que deberá sujetarse la operación de fuentes fijas donde se desarrollen actividades del Sector que emitan contaminantes atmosféricos, en casos de [Contingencias](articulo-3o.md) o [Emergencias](articulo-3o.md) ambientales;
 
 h) Las especificaciones y los requisitos del control de emisiones de contaminantes procedentes de las fuentes fijas del Sector para cumplir los niveles máximos permisibles de emisiones por contaminante o por fuente contenidos en las normas oficiales mexicanas que expida la Secretaría;
 

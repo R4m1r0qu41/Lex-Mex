@@ -19,7 +19,7 @@ Serán causas de revocación de la autorización otorgada al proveedor, las sigu
 
 I. No iniciar operaciones dentro del plazo de seis meses a partir del otorgamiento de la autorización correspondiente, o la suspensión de operaciones sin causa justificada por un periodo superior a seis meses;
 
-II. La realización de actividades contrarias a la ley, al reglamento y a las demás disposiciones aplicables, así como la no observancia de las condiciones conforme a las cuales se haya otorgado la autorización; III. La omisión de la presentación de información que le requieran la Secretaría, la Procuraduría o los auditores que correspondan, o que la que presenten sea falsa, imprecisa o incompleta;
+II. La realización de actividades contrarias a la ley, al reglamento y a las demás disposiciones aplicables, así como la no observancia de las condiciones conforme a las cuales se haya otorgado la autorización; III. La omisión de la presentación de información que le requieran la [Secretaría](articulo-2.md), la [Procuraduría](articulo-2.md) o los auditores que correspondan, o que la que presenten sea falsa, imprecisa o incompleta;
 
 IV. El indebido o inoportuno registro contable de las operaciones que haya efectuado el proveedor respecto de cada uno de los grupos constituidos, o por incumplimiento de sus obligaciones fiscales;
 

@@ -17,4 +17,4 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 1o
 
-El presente ordenamiento es de observancia general en todo el territorio nacional y en las zonas donde la Nación ejerce su soberanía y jurisdicción, y tiene por objeto reglamentar la Ley General del Equilibrio Ecológico y la Protección al Ambiente, en lo relativo al establecimiento, administración y manejo de las áreas naturales protegidas de competencia de la Federación.
+El presente ordenamiento es de observancia general en todo el territorio nacional y en las zonas donde la Nación ejerce su soberanía y jurisdicción, y tiene por objeto reglamentar la [Ley](articulo-3o.md) General del Equilibrio Ecológico y la Protección al Ambiente, en lo relativo al establecimiento, administración y manejo de las áreas naturales protegidas de competencia de la Federación.

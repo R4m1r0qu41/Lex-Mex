@@ -15,4 +15,4 @@ source_sha256: 89220c0c86445a873067e0095b4591c11847dfd11595ca3e11bbfcf09cef6754
 
 # Tercero
 
-El Programa Nacional de Economía Circular se publicará en el Diario Oficial de la Federación en un plazo no mayor a ciento ochenta días naturales, contados a partir de la publicación del Reglamento de la presente Ley. En la identificación de sectores productivos y categorías de productos del Programa 2026-2030 deben incluirse aquellos correspondientes al plástico que, en términos de los procedimientos de la Ley de Planeación, determine la Secretaría.
+El [Programa Nacional](articulo-3.md) de [Economía Circular](articulo-3.md) se publicará en el Diario Oficial de la Federación en un plazo no mayor a ciento ochenta días naturales, contados a partir de la publicación del [Reglamento](articulo-3.md) de la presente [Ley](articulo-3.md). En la identificación de sectores productivos y categorías de productos del Programa 2026-2030 deben incluirse aquellos correspondientes al plástico que, en términos de los procedimientos de la Ley de Planeación, determine la [Secretaría](articulo-3.md).

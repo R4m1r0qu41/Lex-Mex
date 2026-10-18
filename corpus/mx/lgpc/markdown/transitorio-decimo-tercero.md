@@ -15,7 +15,7 @@ source_sha256: d8dd1de3627b899bb4faf31c2812c3d5f14f7108be153d5aa8dd549b9136184a
 
 # Décimo Tercero
 
-Respecto de la fracción VI del artículo [4](articulo-4.md), en dicha certificación de competencias deberá ser extensiva a los integrantes de aquellos organismos e instituciones que por su naturaleza estén integrados al Sistema Nacional de Protección Civil.
+Respecto de la fracción VI del artículo [4](articulo-4.md), en dicha certificación de competencias deberá ser extensiva a los integrantes de aquellos organismos e instituciones que por su naturaleza estén integrados al [Sistema Nacional](articulo-2.md) de [Protección Civil](articulo-2.md).
 
 México, D.F., a 19 de abril de 2012.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. Martha Leticia Sosa Govea, Secretaria.- Dip. Gloria Romero León, Secretaria.- Rúbricas."
 

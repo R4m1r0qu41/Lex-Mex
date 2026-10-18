@@ -17,4 +17,4 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 139
 
-Los Familiares, a partir del momento en que tengan conocimiento de la desaparición, y lo hagan del conocimiento de la autoridad competente, pueden solicitar y tienen derecho a recibir de inmediato y sin restricción alguna, las medidas de ayuda, asistencia y atención previstas en los Títulos Segundo, Tercero y Cuarto de la Ley General de Víctimas.
+Los [Familiares](articulo-4.md), a partir del momento en que tengan conocimiento de la desaparición, y lo hagan del conocimiento de la autoridad competente, pueden solicitar y tienen derecho a recibir de inmediato y sin restricción alguna, las medidas de ayuda, asistencia y atención previstas en los Títulos Segundo, Tercero y Cuarto de la Ley General de [Víctimas](articulo-4.md).

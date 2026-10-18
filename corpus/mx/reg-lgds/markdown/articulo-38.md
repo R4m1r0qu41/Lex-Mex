@@ -17,4 +17,4 @@ source_sha256: aca2d65d2eef1b7c26ab431772ce7364305d103f5e4bacc87da02064df005ae3
 
 # Artículo 38
 
-Los censos, conteos y encuestas que lleve a cabo el Instituto Nacional de Estadística, Geografía e Informática, deberán generar información suficiente respecto de los indicadores a que se refiere el artículo [36](../../lgds/markdown/articulo-36.md) de la Ley. Para tal efecto, en su diseño, se tomarán en cuenta las opiniones del Consejo Nacional de Evaluación y de la Secretaría.
+Los censos, conteos y encuestas que lleve a cabo el Instituto Nacional de Estadística, Geografía e Informática, deberán generar información suficiente respecto de los indicadores a que se refiere el artículo [36](../../lgds/markdown/articulo-36.md) de la [Ley](articulo-3.md). Para tal efecto, en su diseño, se tomarán en cuenta las opiniones del Consejo Nacional de Evaluación y de la Secretaría.

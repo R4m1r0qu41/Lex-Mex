@@ -17,4 +17,4 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 39
 
-En los casos a que se refieren los artículos [37](articulo-37.md) y [38](articulo-38.md) de esta Ley, se requerirá la conformidad de las autoridades locales y municipales del lugar respecto a la seguridad y ubicación de los establecimientos correspondientes.
+En los casos a que se refieren los artículos [37](articulo-37.md) y [38](articulo-38.md) de esta [Ley](articulo-1o-Bis.md), se requerirá la conformidad de las autoridades locales y municipales del lugar respecto a la seguridad y ubicación de los establecimientos correspondientes.

@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lebhn:term:accesorio",
+    "term": "Accesorio",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lebhn",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lebhn:article:2",
+    "fraction": "I",
+    "start_char": 159,
+    "end_char": 395,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lebhn:term:incineracion",
+    "term": "Incineración",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lebhn",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lebhn:article:2",
+    "fraction": "II",
+    "start_char": 395,
+    "end_char": 656,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lebhn:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lebhn",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lebhn:article:2",
+    "fraction": "III",
+    "start_char": 656,
+    "end_char": 723,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lebhn:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lebhn",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lebhn:article:2",
+    "fraction": "IV",
+    "start_char": 723,
+    "end_char": 765,
+    "basis": "express_definition"
+  }
+]

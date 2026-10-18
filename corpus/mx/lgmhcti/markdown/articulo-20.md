@@ -17,9 +17,9 @@ source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 
 # Artículo 20
 
-El Sistema Nacional de Humanidades, Ciencias, Tecnologías e Innovación es el conjunto articulado de personas e instituciones de los sectores público, social y privado que fomentan, realizan o apoyan actividades en materia de humanidades, ciencias, tecnologías e innovación, incluidas aquellas que participen en el Ecosistema Nacional de Innovación Abierta. El Sistema Nacional está integrado por:
+El [Sistema Nacional](articulo-4.md) de Humanidades, Ciencias, Tecnologías e Innovación es el conjunto articulado de personas e instituciones de los sectores público, social y privado que fomentan, realizan o apoyan actividades en materia de humanidades, ciencias, tecnologías e innovación, incluidas aquellas que participen en el [Ecosistema Nacional de Innovación Abierta](articulo-4.md). El Sistema Nacional está integrado por:
 
-I. El Consejo Nacional;
+I. El [Consejo Nacional](articulo-4.md);
 
 II. La Secretaría de Educación Pública y demás dependencias y entidades de la Administración Pública Federal, así como las autoridades de las entidades federativas, de los municipios y de las demarcaciones, que fomenten, realicen o apoyen actividades de investigación humanística y científica, desarrollo tecnológico e innovación;
 
@@ -29,7 +29,7 @@ IV. El Órgano Interno Consultivo del Consejo Nacional y los de las entidades fe
 
 V. Las asociaciones, sociedades, empresas y fundaciones de los sectores social y privado que fomenten, realicen o apoyen actividades en la materia, incluyendo las instituciones financieras bancarias y no bancarias;
 
-VI. Los Centros Públicos y los centros públicos locales;
+VI. Los [Centros Públicos](articulo-4.md) y los centros públicos locales;
 
 VII. Las universidades e instituciones de educación superior, incluidas aquéllas reconocidas como autónomas por ley, y
 

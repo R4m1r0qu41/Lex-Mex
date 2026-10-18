@@ -25,7 +25,7 @@ III. Cuando con motivo de un vuelo de simple tránsito efectúe embarque o desem
 
 IV. No seguir las aerovías o no utilizar los aeropuertos que le hayan sido señalados en el plan de vuelo respectivo, salvo caso fortuito o de fuerza mayor, multa de dos mil a diez mil Unidades de Medida y Actualización; Fracción reformada DOF 18-06-2018
 
-V. No dar aviso a la Agencia Federal de Aviación Civil de las rutas que deje de operar, en los términos del artículo [22](articulo-22.md) de esta Ley, multa de tres mil a cinco mil Unidades de Medida y Actualización; Fracción reformada DOF 18-06-2018, 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62)
+V. No dar aviso a la [Agencia Federal de Aviación Civil](articulo-2.md) de las rutas que deje de operar, en los términos del artículo [22](articulo-22.md) de esta Ley, multa de tres mil a cinco mil Unidades de Medida y Actualización; Fracción reformada DOF 18-06-2018, 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62)
 
 VI. Vender, en forma directa, porciones aéreas en el caso de los servicios de transporte aéreo de fletamento, multa de un mil a cinco mil Unidades de Medida y Actualización; Fracción reformada DOF 18-06-2018
 
@@ -45,7 +45,7 @@ XIII. Incumplir con lo señalado en el artículo [49](articulo-49.md) de la pres
 
 XIV. No entregar mensualmente a la Agencia Federal de Aviación Civil la información señalada en el párrafo último del artículo [84](articulo-84.md) de esta Ley, multa de tres mil a cinco mil Unidades de Medida y Actualización; Fracción adicionada DOF 26-06-2017. Reformada DOF 20-05-2021, 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) XV. Transgredir las limitaciones existentes sobre tiempos de vuelo, servicio o de descanso del personal de vuelo o de sobrecargos, multa de tres mil a cinco mil Unidades de Medida y Actualización; Fracción adicionada DOF 20-05-2021
 
-XVI. Permitir que la aeronave transite sin llevar a bordo la copia certificada del Certificado de Explotador de Servicios Aéreos y la copia simple de las especificaciones de operación, con multa de cinco mil a quince mil Unidades de Medida y Actualización; Fracción adicionada DOF 20-05-2021. Reformada DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62)
+XVI. Permitir que la aeronave transite sin llevar a bordo la copia certificada del [Certificado de Explotador de Servicios Aéreos](articulo-2.md) y la copia simple de las especificaciones de operación, con multa de cinco mil a quince mil Unidades de Medida y Actualización; Fracción adicionada DOF 20-05-2021. Reformada DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62)
 
 XVII. Presentar documentación que no fue emitida por la autoridad competente para realizar la operación de una aeronave, con una multa de dos mil a diez mil Unidades de Medida y Actualización, y la cancelación de la matrícula de la aeronave de que se trate, y Fracción adicionada DOF 20-05-2021. Reformada DOF 03-05-2023 (Ed. vesp., páginas 2 a 13), 03-05-2023 (Ed. vesp., páginas 17 a 62)
 

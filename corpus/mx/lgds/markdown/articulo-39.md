@@ -17,6 +17,6 @@ source_sha256: 32822f50bb2de81185408f9450d61a49d678429c52c5379822a507c7027a5275
 
 # Artículo 39
 
-La coordinación del Sistema Nacional compete a la Secretaría, con la concurrencia de las dependencias, entidades y organismos federales, de los gobiernos municipales y de las entidades federativas, así como de las organizaciones. La Secretaría diseñará y ejecutará las políticas generales de desarrollo social. Al efecto, coordinará y promoverá la celebración de convenios y acuerdos de desarrollo social.
+La coordinación del [Sistema Nacional](articulo-5.md) compete a la [Secretaría](articulo-5.md), con la concurrencia de las dependencias, entidades y organismos federales, de los gobiernos municipales y de las entidades federativas, así como de las organizaciones. La Secretaría diseñará y ejecutará las políticas generales de desarrollo social. Al efecto, coordinará y promoverá la celebración de convenios y acuerdos de desarrollo social.
 
 La Secretaría coordinará la correspondencia entre el Programa Nacional de Desarrollo Social, los programas sectoriales y los de las entidades federativas, promoviendo que la planeación sea congruente, objetiva y participativa.

@@ -17,6 +17,6 @@ source_sha256: 8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca
 
 # Artículo 93
 
-La Comisión Local designará los comités de evaluación que sean necesarios, los cuales serán los responsables de la aplicación del examen de conocimientos prácticos de conformidad con el Manual.
+La [Comisión Local](articulo-5.md) designará los comités de evaluación que sean necesarios, los cuales serán los responsables de la aplicación del examen de conocimientos prácticos de conformidad con el [Manual](articulo-5.md).
 
 Artículo reformado DOF 22-09-2010, 11-03-2016

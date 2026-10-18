@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppi:term:diario-oficial",
+    "term": "Diario Oficial",
+    "instrument_id": "urn:lex-mx:federal:statute:lfppi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfppi:article:4",
+    "fraction": "I",
+    "start_char": 47,
+    "end_char": 104,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppi:term:gaceta",
+    "term": "Gaceta",
+    "instrument_id": "urn:lex-mx:federal:statute:lfppi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfppi:article:4",
+    "fraction": "II",
+    "start_char": 104,
+    "end_char": 158,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppi:term:instituto",
+    "term": "Instituto",
+    "instrument_id": "urn:lex-mx:federal:statute:lfppi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfppi:article:4",
+    "fraction": "III",
+    "start_char": 158,
+    "end_char": 226,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppi:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:statute:lfppi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfppi:article:4",
+    "fraction": "IV",
+    "start_char": 226,
+    "end_char": 256,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppi:term:persona-titular-de-la-direccion-general",
+    "term": "Persona Titular de la Dirección General",
+    "instrument_id": "urn:lex-mx:federal:statute:lfppi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfppi:article:4",
+    "fraction": "V",
+    "start_char": 256,
+    "end_char": 400,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppi:term:tratados-internacionales",
+    "term": "Tratados Internacionales",
+    "instrument_id": "urn:lex-mx:federal:statute:lfppi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfppi:article:4",
+    "fraction": "VI",
+    "start_char": 400,
+    "end_char": 648,
+    "basis": "express_definition"
+  }
+]

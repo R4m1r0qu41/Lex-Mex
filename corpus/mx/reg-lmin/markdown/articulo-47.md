@@ -21,4 +21,4 @@ Las solicitudes para corrección administrativa de títulos de concesión o asig
 
 A la solicitud se acompañará el título o duplicado del mismo, objeto de la corrección administrativa.
 
-Sin perjuicio de lo establecido en el [artículo siguiente](articulo-48.md), la Secretaría dispondrá de un plazo máximo de cinco días para aprobar o negar la corrección administrativa del título de concesión minera. Concluido dicho plazo sin que se emita resolución, se entenderá aprobada la solicitud respectiva y la Secretaría procederá a efectuar la corrección dentro de los cinco días siguientes.
+Sin perjuicio de lo establecido en el [artículo siguiente](articulo-48.md), la [Secretaría](articulo-1o.md) dispondrá de un plazo máximo de cinco días para aprobar o negar la corrección administrativa del título de concesión minera. Concluido dicho plazo sin que se emita resolución, se entenderá aprobada la solicitud respectiva y la Secretaría procederá a efectuar la corrección dentro de los cinco días siguientes.

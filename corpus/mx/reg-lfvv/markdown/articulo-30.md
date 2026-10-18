@@ -17,4 +17,4 @@ source_sha256: 23dcee090bbe0c4fb06c75d084cb65ce0b2e8f72a8d082e7059504412bde1614
 
 # Artículo 30
 
-El Comité podrá requerir al solicitante para que, en un plazo de tres meses, le entregue la variedad vegetal o su material de propagación en las cantidades que considere convenientes, así como los documentos e información complementarios que estime necesarios. La solicitud quedará sin efectos de no cumplir el interesado, en el plazo señalado, con los requerimientos que se le hubiesen formulado.
+El [Comité](articulo-2o.md) podrá requerir al solicitante para que, en un plazo de tres meses, le entregue la variedad vegetal o su material de propagación en las cantidades que considere convenientes, así como los documentos e información complementarios que estime necesarios. La solicitud quedará sin efectos de no cumplir el interesado, en el plazo señalado, con los requerimientos que se le hubiesen formulado.

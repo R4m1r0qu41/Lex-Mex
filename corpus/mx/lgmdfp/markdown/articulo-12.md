@@ -17,4 +17,4 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 12
 
-Para el diseño de las acciones, herramientas y el protocolo especializado para la búsqueda e investigación de niñas, niños y adolescentes, el Sistema Nacional tomará en cuenta la opinión de las autoridades del Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes.
+Para el diseño de las acciones, herramientas y el protocolo especializado para la búsqueda e investigación de niñas, niños y adolescentes, el [Sistema Nacional](articulo-4.md) tomará en cuenta la opinión de las autoridades del Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes.

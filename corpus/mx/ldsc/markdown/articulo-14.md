@@ -17,7 +17,7 @@ source_sha256: 45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80
 
 # Artículo 14
 
-La Secretaría, con el apoyo del Comité Nacional Sistema Producto Café, prestará a las personas integrantes de la cadena del café los siguientes servicios:
+La [Secretaría](articulo-3.md), con el apoyo del Comité Nacional Sistema Producto Café, prestará a las personas integrantes de la cadena del café los siguientes servicios:
 
 I. Un sistema de información básica para la consulta de precios, costos de producción y de venta, así como de mercados y oportunidades de negocio de productos elaborados con café;
 

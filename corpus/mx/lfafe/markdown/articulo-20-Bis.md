@@ -17,6 +17,6 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 20 Bis
 
-La Secretaría puede autorizar a los clubes de tiro y a los organismos establecidos en el artículo [24](articulo-24.md) de esta Ley, el registro y empleo de un campo de tiro abierto o stand de tiro cubierto o subterráneo de acuerdo con las características y requisitos establecidos en el Reglamento de esta Ley.
+La [Secretaría](articulo-1o-Bis.md) puede autorizar a los clubes de tiro y a los organismos establecidos en el artículo [24](articulo-24.md) de esta [Ley](articulo-1o-Bis.md), el registro y empleo de un campo de tiro abierto o stand de tiro cubierto o subterráneo de acuerdo con las características y requisitos establecidos en el [Reglamento](articulo-1o-Bis.md) de esta Ley.
 
 Artículo adicionado DOF 29-05-2025

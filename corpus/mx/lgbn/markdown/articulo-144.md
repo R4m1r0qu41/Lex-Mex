@@ -17,7 +17,7 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # Artículo 144
 
-Previamente a la celebración de los actos jurídicos a que se refiere el presente artículo en los que intervengan las dependencias, las unidades administrativas de la Presidencia de la República y las entidades, éstas podrán solicitar a la Secretaría, a las instituciones de crédito o a los especialistas en materia de valuación con cédula profesional expedida por autoridad competente, que determinen: Párrafo reformado DOF 20-05-2021
+Previamente a la celebración de los actos jurídicos a que se refiere el presente artículo en los que intervengan las dependencias, las unidades administrativas de la Presidencia de la República y las entidades, éstas podrán solicitar a la [Secretaría](articulo-2.md), a las instituciones de crédito o a los especialistas en materia de valuación con cédula profesional expedida por autoridad competente, que determinen: Párrafo reformado DOF 20-05-2021
 
 I.- El valor de los inmuebles respecto de los que las entidades pretendan adquirir derechos de propiedad, posesión o cualquier otro derecho real, mediante contratos de compraventa, permuta, arrendamiento financiero o cualquier otro de derecho común cuando se requiera el avalúo;
 

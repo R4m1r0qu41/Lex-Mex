@@ -17,4 +17,4 @@ source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 
 # Artículo 74
 
-El Estatuto Orgánico del Consejo Nacional reglamentará el funcionamiento del Órgano Interno Consultivo.
+El Estatuto Orgánico del [Consejo Nacional](articulo-4.md) reglamentará el funcionamiento del Órgano Interno Consultivo.

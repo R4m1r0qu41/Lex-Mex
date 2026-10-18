@@ -17,6 +17,6 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # Artículo 95
 
-La Secretaría podrá autorizar la práctica de cebar en zonas de pesca únicamente para favorecer la celebración y desarrollo de torneos.
+La [Secretaría](articulo-2o.md) podrá autorizar la práctica de cebar en zonas de pesca únicamente para favorecer la celebración y desarrollo de torneos.
 
 La autorización precisará los productos a utilizar. Queda prohibida la práctica de cebar, con productos contaminantes.

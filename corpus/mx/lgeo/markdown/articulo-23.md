@@ -17,29 +17,29 @@ source_sha256: 67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35
 
 # Artículo 23
 
-Las personas interesadas en obtener el otorgamiento de las Concesiones deben presentar la solicitud a la Secretaría, misma que debe contener al menos:
+Las personas interesadas en obtener el otorgamiento de las [Concesiones](articulo-2.md) deben presentar la solicitud a la [Secretaría](articulo-2.md), misma que debe contener al menos:
 
 I. Nombre, denominación o razón social, de la persona solicitante;
 
 II. Domicilio fiscal y domicilio para oír y recibir notificaciones, así como nombre de la persona o personas autorizadas para recibirlas;
 
-III. Que su objeto social o actividad se refiera a la Exploración y Explotación de Recursos Geotérmicos;
+III. Que su objeto social o actividad se refiera a la [Exploración](articulo-2.md) y [Explotación](articulo-2.md) de [Recursos Geotérmicos](articulo-2.md);
 
-IV. Planos de la localización georreferenciado del Área Geotérmica objeto de la solicitud de Concesión, donde se especifique la superficie, medidas y colindancias;
+IV. Planos de la localización georreferenciado del [Área Geotérmica](articulo-2.md) objeto de la solicitud de Concesión, donde se especifique la superficie, medidas y colindancias;
 
 V. Presupuesto detallado del proyecto;
 
 VI. Documentación que acredite su capacidad jurídica, técnica, administrativa y financiera, para desarrollar, operar y mantener las instalaciones necesarias para la Explotación de Recursos Geotérmicos;
 
-VII. Cronogramas calendarizados de trabajo y financiero a realizar durante la etapa de Explotación del Área Geotérmica, incluyendo las gestiones correspondientes a las obligaciones establecidas en la Ley del Sector Eléctrico y que resulten aplicables, pago de derechos y aquellos establecidos en las disposiciones en materia ambiental, indicando a detalle cada una de las actividades por efectuar y los objetivos de estas;
+VII. Cronogramas calendarizados de trabajo y financiero a realizar durante la etapa de Explotación del Área Geotérmica, incluyendo las gestiones correspondientes a las obligaciones establecidas en la [Ley](articulo-2.md) del Sector Eléctrico y que resulten aplicables, pago de derechos y aquellos establecidos en las disposiciones en materia ambiental, indicando a detalle cada una de las actividades por efectuar y los objetivos de estas;
 
-VIII. Acreditar haber obtenido y cumplido con los términos y condiciones del Permiso de Exploración;
+VIII. Acreditar haber obtenido y cumplido con los términos y condiciones del [Permiso de Exploración](articulo-2.md);
 
 IX. Documentación sobre la aportación del proyecto para el Estado y la sociedad;
 
 X. Solicitud de generación, factibilidad en la interconexión, pago de derechos y aquellos establecidos en las disposiciones en materia ambiental, y
 
-XI. Cualquier otro, expresamente previsto en esta Ley o su Reglamento.
+XI. Cualquier otro, expresamente previsto en esta Ley o su [Reglamento](articulo-2.md).
 
 El caso a que se refiere la fracción X de este artículo, la persona solicitante de una Concesión tendrá como plazo máximo tres años para obtener de las autoridades competentes los permisos correspondientes. El plazo antes señalado debe iniciar a partir de la presentación de la solicitud a que se refiere dicha fracción ante la Secretaría.
 

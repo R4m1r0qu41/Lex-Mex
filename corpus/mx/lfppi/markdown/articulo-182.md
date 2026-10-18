@@ -19,4 +19,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 La marca colectiva no será objeto de licencia, ni podrá ser transmitida a terceras personas, quedando su uso reservado a los miembros de la asociación o sociedad.
 
-Las marcas colectivas se regirán, en lo que no haya disposición especial, por lo establecido en esta Ley para las marcas.
+Las marcas colectivas se regirán, en lo que no haya disposición especial, por lo establecido en esta [Ley](articulo-4.md) para las marcas.

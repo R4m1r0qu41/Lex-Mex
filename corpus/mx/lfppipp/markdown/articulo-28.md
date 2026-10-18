@@ -17,4 +17,4 @@ source_sha256: 2a105e5201b86ff5517ca1ef8d971224ea8c717f195fdd5fa28b916c7e622e56
 
 # Artículo 28
 
-La persona que se incorpora al Programa no puede condicionar su ingreso o su estadía en el mismo, a la ejecución de determinada Medida de Protección a su favor.
+La persona que se incorpora al [Programa](articulo-2.md) no puede condicionar su ingreso o su estadía en el mismo, a la ejecución de determinada [Medida de Protección](articulo-2.md) a su favor.

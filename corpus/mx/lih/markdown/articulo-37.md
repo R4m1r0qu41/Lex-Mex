@@ -17,13 +17,13 @@ source_sha256: 8262a75eac7bfb608d4f48657ffb2714fe115d0b9694c42ac81624fd275bf5f6
 
 # Artículo 37
 
-Los Contratos preverán que el Fondo Mexicano del Petróleo y la Secretaría tendrán, entre otras, las siguientes funciones:
+Los [Contratos](articulo-3.md) preverán que el [Fondo Mexicano del Petróleo](articulo-3.md) y la [Secretaría](articulo-3.md) tendrán, entre otras, las siguientes funciones:
 
 A. Corresponde al Fondo Mexicano del Petróleo:
 
 I. Recibir de los Contratistas la información y documentación relacionada con los costos, gastos e inversiones, así como con la deducción de dichas inversiones, requeridos para la ejecución del Contrato, y llevar un registro de dichos conceptos y, en su caso, de su reconocimiento;
 
-II. Recibir el pago de las Regalías, Cuotas Contractuales para la Fase Exploratoria y demás Contraprestaciones a favor del Estado establecidas en los Contratos;
+II. Recibir el pago de las [Regalías](articulo-3.md), Cuotas Contractuales para la Fase Exploratoria y demás [Contraprestaciones](articulo-3.md) a favor del Estado establecidas en los Contratos;
 
 III. Llevar los registros de información que se requieran para calcular y determinar las Contraprestaciones establecidas en los Contratos y para realizar las demás funciones a su cargo;
 

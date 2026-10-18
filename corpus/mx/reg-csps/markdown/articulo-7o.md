@@ -17,4 +17,4 @@ source_sha256: 70464807d63da08244e495f2ff0ac30b12b30119926b84cedc7930397fcb80ef
 
 # Artículo 7o
 
-La aplicación del presente Reglamento corresponde a la Secretaría, así como a los gobiernos de las entidades federativas en sus respectivos ámbitos de competencia, de conformidad con los acuerdos de coordinación que, en su caso, se suscriban.
+La aplicación del presente Reglamento corresponde a la [Secretaría](articulo-2o.md), así como a los gobiernos de las entidades federativas en sus respectivos ámbitos de competencia, de conformidad con los acuerdos de coordinación que, en su caso, se suscriban.

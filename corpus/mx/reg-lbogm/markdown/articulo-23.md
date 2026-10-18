@@ -17,4 +17,4 @@ source_sha256: 667636f9e0ea65e72ac9d6d7b4d7563a183b75d0f140268a61929c74f5f88041
 
 # Artículo 23
 
-Quienes pretendan obtener una autorización de alguno de los OGM a que se refiere el artículo [91](../../lbogm/markdown/articulo-91.md) de la Ley, deberán presentar ante SALUD, una solicitud por escrito acompañada de la información a que se refiere el artículo [31](articulo-31.md) de este Reglamento. La solicitud deberá presentarse en original y una copia simple para acuse.
+Quienes pretendan obtener una autorización de alguno de los OGM a que se refiere el artículo [91](../../lbogm/markdown/articulo-91.md) de la [Ley](articulo-2.md), deberán presentar ante [SALUD](articulo-2.md), una solicitud por escrito acompañada de la información a que se refiere el artículo [31](articulo-31.md) de este Reglamento. La solicitud deberá presentarse en original y una copia simple para acuse.

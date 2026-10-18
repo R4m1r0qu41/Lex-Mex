@@ -19,4 +19,4 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 Las autorizaciones deberán otorgarse por tiempo determinado y, en su caso, podrán ser prorrogadas.
 
-El Reglamento que al respecto se expida señalará los términos y condiciones de las autorizaciones.
+El [Reglamento](articulo-5.md) que al respecto se expida señalará los términos y condiciones de las autorizaciones.

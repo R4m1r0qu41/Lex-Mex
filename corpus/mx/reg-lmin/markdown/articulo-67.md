@@ -17,7 +17,7 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 67
 
-El aviso sobre el inicio de operaciones de beneficio de minerales o sustancias sujetas a la aplicación de la Ley, deberá presentarse por escrito a la Secretaría dentro de los veintiún días hábiles siguientes a dicho inicio, y deberá contener:
+El aviso sobre el inicio de operaciones de beneficio de minerales o sustancias sujetas a la aplicación de la [Ley](articulo-1o.md), deberá presentarse por escrito a la [Secretaría](articulo-1o.md) dentro de los veintiún días hábiles siguientes a dicho inicio, y deberá contener:
 
 I. Nombre de la persona que lleve a cabo las operaciones de beneficio;
 

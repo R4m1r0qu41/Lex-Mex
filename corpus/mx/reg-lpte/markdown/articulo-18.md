@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 18
 
-Los Comités se integran por representantes de la Secretaría, órganos administrativos desconcentrados, empresas públicas del Estado y entidades paraestatales sectorizadas. Los Comités deben ser coordinados por las personas servidoras públicas de la Secretaría. Los requisitos y el procedimiento para la integración de los Comités deben ser establecidos en los Lineamientos de Operación.
+Los [Comités](articulo-5.md) se integran por representantes de la [Secretaría](articulo-5.md), órganos administrativos desconcentrados, empresas públicas del Estado y entidades paraestatales sectorizadas. Los Comités deben ser coordinados por las personas servidoras públicas de la Secretaría. Los requisitos y el procedimiento para la integración de los Comités deben ser establecidos en los [Lineamientos de Operación](articulo-5.md).

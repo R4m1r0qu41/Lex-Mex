@@ -17,6 +17,6 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 22
 
-El registro de los derechos de propiedad industrial será público, a excepción de las solicitudes que tengan carácter confidencial, y contendrá los expedientes relacionados con los derechos que protege esta Ley.
+El registro de los derechos de propiedad industrial será público, a excepción de las solicitudes que tengan carácter confidencial, y contendrá los expedientes relacionados con los derechos que protege esta [Ley](articulo-4.md).
 
 La publicidad se hará efectiva mediante la consulta directa a sus archivos o a las bases de datos existentes, la cual se facilitará mediante su puesta a disposición en medios de comunicación electrónica, con carácter gratuito.

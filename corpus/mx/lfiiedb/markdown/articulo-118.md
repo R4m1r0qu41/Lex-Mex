@@ -17,4 +17,4 @@ source_sha256: 7679afbbf32749e0c0bacab72644d41fc6ccdeeab3a2f25dfae8d26a065de01e
 
 # Artículo 118
 
-Los contratos de inversión estratégica relacionados con los Proyectos para el desarrollo con bienestar podrán tener por objeto una o más de los siguientes supuestos: I. La prestación de los servicios considerados en el capítulo 3000; II. El suministro, instalación y puesta en operación de equipo y bienes contemplados en el capítulo 5000, y III. La ejecución de obra y servicios relacionados con la misma, señalados en el capítulo 6000.
+Los contratos de inversión estratégica relacionados con los [Proyectos para el desarrollo con bienestar](articulo-4.md) podrán tener por objeto una o más de los siguientes supuestos: I. La prestación de los servicios considerados en el capítulo 3000; II. El suministro, instalación y puesta en operación de equipo y bienes contemplados en el capítulo 5000, y III. La ejecución de obra y servicios relacionados con la misma, señalados en el capítulo 6000.

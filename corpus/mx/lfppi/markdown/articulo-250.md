@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 250
 
-Los derechos que deriven de una solicitud de registro de marca o los que confiere una marca registrada, podrán gravarse o transmitirse en los términos y con las formalidades que establece la legislación común. Dicho gravamen o transmisión de derechos deberá inscribirse en el Instituto, de acuerdo con lo establecido en el Reglamento de esta Ley, para que pueda producir efectos en perjuicio de terceras personas. Párrafo reformado DOF 03-04-2026
+Los derechos que deriven de una solicitud de registro de marca o los que confiere una marca registrada, podrán gravarse o transmitirse en los términos y con las formalidades que establece la legislación común. Dicho gravamen o transmisión de derechos deberá inscribirse en el [Instituto](articulo-4.md), de acuerdo con lo establecido en el Reglamento de esta [Ley](articulo-4.md), para que pueda producir efectos en perjuicio de terceras personas. Párrafo reformado DOF 03-04-2026
 
 Podrá solicitarse mediante una sola promoción, la inscripción de transferencias de la titularidad de dos o más solicitudes en trámite o de dos o más marcas registradas cuando quien transfiera y quien adquiera sean las mismas personas en todos ellos.
 

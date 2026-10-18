@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 234
 
-El Instituto podrá declarar el registro y uso obligatorio de marcas en cualquier producto o servicio o prohibir o regular el uso de marcas, registradas o no, de oficio o a petición de organismos representativos, cuando: Párrafo reformado DOF 03-04-2026
+El [Instituto](articulo-4.md) podrá declarar el registro y uso obligatorio de marcas en cualquier producto o servicio o prohibir o regular el uso de marcas, registradas o no, de oficio o a petición de organismos representativos, cuando: Párrafo reformado DOF 03-04-2026
 
 I.- El uso de la marca sea un elemento asociado a competencia desleal, que cause distorsiones graves en la producción, distribución o comercialización de determinados productos o servicios;
 
@@ -25,4 +25,4 @@ II.- El uso de la marca impida la distribución, producción o comercialización
 
 III.- El uso de marcas impida, entorpezca o encarezca en casos de emergencia nacional y mientras dure ésta, la producción, prestación o distribución de bienes o servicios básicos para la población.
 
-La declaratoria correspondiente se publicará en el Diario Oficial.
+La declaratoria correspondiente se publicará en el [Diario Oficial](articulo-4.md).

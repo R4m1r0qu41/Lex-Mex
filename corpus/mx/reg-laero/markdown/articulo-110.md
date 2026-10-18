@@ -15,4 +15,4 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 # Artículo 110
 
-El administrador aeroportuario que presuma el abandono de una aeronave debe informar por escrito al comandante de aeródromo para efecto de lo dispuesto en el artículo [77](../../lac/markdown/articulo-77.md) de la Ley de Aviación Civil.
+El administrador aeroportuario que presuma el abandono de una aeronave debe informar por escrito al comandante de aeródromo para efecto de lo dispuesto en el artículo [77](../../lac/markdown/articulo-77.md) de la [Ley](articulo-2.md) de Aviación Civil.

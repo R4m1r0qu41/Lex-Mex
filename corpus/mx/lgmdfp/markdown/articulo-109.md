@@ -17,4 +17,4 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 109
 
-El Registro Nacional puede ser consultado en su versión pública, a través de la página electrónica que para tal efecto establezca la Comisión Nacional de Búsqueda, de conformidad con lo que determine el protocolo respectivo y las disposiciones jurídicas aplicables en materia de transparencia y protección de datos personales.
+El [Registro Nacional](articulo-4.md) puede ser consultado en su versión pública, a través de la página electrónica que para tal efecto establezca la [Comisión Nacional de Búsqueda](articulo-4.md), de conformidad con lo que determine el protocolo respectivo y las disposiciones jurídicas aplicables en materia de transparencia y protección de datos personales.

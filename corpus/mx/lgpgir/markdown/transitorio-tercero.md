@@ -15,4 +15,4 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # TERCERO
 
-El Reglamento de la presente Ley deberá ser expedido en un plazo no mayor de ciento ochenta días naturales contados a partir de la publicación del presente Decreto en el Diario Oficial de la Federación.
+El [Reglamento](articulo-5.md) de la presente [Ley](articulo-5.md) deberá ser expedido en un plazo no mayor de ciento ochenta días naturales contados a partir de la publicación del presente Decreto en el Diario Oficial de la Federación.

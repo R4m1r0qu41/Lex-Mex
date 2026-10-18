@@ -17,7 +17,7 @@ source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 
 # Artículo 4o
 
-Compete a la Secretaría:
+Compete a la [Secretaría](articulo-3o.md):
 
 I. Establecer políticas, criterios, mecanismos, lineamientos ecológicos, estrategias ecológicas e instrumentos de coordinación y concertación con personas, organizaciones e instituciones de los sectores público, privado y social para la realización de acciones, programas y proyectos sectoriales dentro del proceso de ordenamiento ecológico, en el ámbito de su competencia;
 
@@ -29,11 +29,11 @@ IV. Derogada. Fracción derogada DOF 28-09-2010
 
 V. Participar en la formulación de los programas de ordenamiento ecológico de regiones que se ubiquen en el territorio de dos o más entidades federativas, en coordinación con los gobiernos de los estados, sus municipios y del Distrito Federal y sus delegaciones, mediante la suscripción de los convenios respectivos;
 
-VI. Participar en la elaboración y aprobación de los programas de ordenamiento ecológico local en los casos previstos por la Ley;
+VI. Participar en la elaboración y aprobación de los programas de ordenamiento ecológico local en los casos previstos por la [Ley](articulo-3o.md);
 
 VII. Prestar apoyo técnico a los gobiernos de los estados, sus municipios y del Distrito Federal y sus delegaciones para la formulación y ejecución de los programas de ordenamiento ecológico de sus respectivas competencias;
 
-VIII. Integrar, instrumentar y administrar el Subsistema, así como emitir los criterios necesarios para promover su congruencia;
+VIII. Integrar, instrumentar y administrar el [Subsistema](articulo-3o.md), así como emitir los criterios necesarios para promover su congruencia;
 
 IX. Evaluar técnicamente los programas de ordenamiento ecológico regionales y locales expedidos por los gobiernos de los estados, sus municipios y del Distrito Federal y sus delegaciones, según corresponda, para su integración al Subsistema;
 
@@ -45,6 +45,6 @@ XII. Celebrar convenios de concertación con personas, organizaciones, grupos e 
 
 XIV. Establecer los procedimientos e instrumentos que promuevan la participación social corresponsable en el proceso de ordenamiento ecológico en el ámbito de su competencia;
 
-XV. Vigilar el cumplimiento de las disposiciones de este Reglamento e interpretarlo para efectos administrativos, emitiendo para ello los acuerdos, circulares y demás disposiciones administrativas necesarias; y
+XV. Vigilar el cumplimiento de las disposiciones de este [Reglamento](articulo-3o.md) e interpretarlo para efectos administrativos, emitiendo para ello los acuerdos, circulares y demás disposiciones administrativas necesarias; y
 
 XVI. Las demás previstas en este Reglamento y en otras disposiciones legales y reglamentarias en la materia.

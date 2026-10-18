@@ -17,4 +17,4 @@ source_sha256: a1cc8f6043c35579235fd61d2e34977e1735af4ea6919d053f89462b97742335
 
 # Artículo 39
 
-El Centro Nacional, en coordinación con la Subsecretaría, recibirá y analizará las propuestas e inquietudes formuladas por la ciudadanía en materia de prevención social de la Violencia y la delincuencia conforme a los lineamientos que el Centro Nacional emita.
+El Centro Nacional, en coordinación con la [Subsecretaría](articulo-3.md), recibirá y analizará las propuestas e inquietudes formuladas por la ciudadanía en materia de prevención social de la Violencia y la delincuencia conforme a los lineamientos que el Centro Nacional emita.

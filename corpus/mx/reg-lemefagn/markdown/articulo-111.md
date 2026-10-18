@@ -17,7 +17,7 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 111
 
-Los organismos que participen en las fases de admisión al Sistema, serán:
+Los organismos que participen en las fases de admisión al [Sistema](articulo-3.md), serán:
 
 I. Estado Mayor Conjunto de la Defensa Nacional;
 

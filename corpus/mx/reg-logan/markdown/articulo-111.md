@@ -17,7 +17,7 @@ source_sha256: 0ad7a7b6d7dffd7d9a582d74ebd6fc43e6baa79f71801a73dc70d1b77c414ded
 
 # Artículo 111
 
-Los servidores públicos de la Secretaría que infrinjan las disposiciones de la Ley y este Reglamento, serán sancionados conforme a lo dispuesto por la Ley Federal de Responsabilidades de los Servidores Públicos.
+Los servidores públicos de la Secretaría que infrinjan las disposiciones de la Ley y este [Reglamento](articulo-2o.md), serán sancionados conforme a lo dispuesto por la Ley Federal de Responsabilidades de los Servidores Públicos.
 
 Las sanciones por infracciones administrativas se impondrán sin perjuicio de las penas que en su caso procedan por la comisión de un ilícito.
 

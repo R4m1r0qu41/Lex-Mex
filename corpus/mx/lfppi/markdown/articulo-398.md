@@ -19,6 +19,6 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 De la reclamación de la persona titular afectada se dará vista a la persona infractora para que, dentro del plazo de quince días hábiles siguientes a la notificación respectiva, manifieste lo que a su derecho convenga y presente las pruebas que considere convenientes. Párrafo reformado DOF 03-04-2026
 
-Una vez desahogadas las pruebas y tomando en cuenta las manifestaciones presentadas, el Instituto determinará los daños y perjuicios ocasionados, así como el monto de la indemnización que corresponda.
+Una vez desahogadas las pruebas y tomando en cuenta las manifestaciones presentadas, el [Instituto](articulo-4.md) determinará los daños y perjuicios ocasionados, así como el monto de la indemnización que corresponda.
 
-En la tramitación del incidente al que se refiere el presente artículo, se aplicarán las mismas reglas de los procedimientos de declaración administrativa respecto del ofrecimiento, admisión y desahogo de pruebas, previstas en el artículo [333](articulo-333.md) de esta Ley.
+En la tramitación del incidente al que se refiere el presente artículo, se aplicarán las mismas reglas de los procedimientos de declaración administrativa respecto del ofrecimiento, admisión y desahogo de pruebas, previstas en el artículo [333](articulo-333.md) de esta [Ley](articulo-4.md).

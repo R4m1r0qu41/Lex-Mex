@@ -17,4 +17,4 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 162
 
-La Dirección y Rectoría formará, capacitará y actualizará al personal docente del Sistema a través de los Cursos de Inducción al Puesto; Capacitación Docente; Capacitación Integral y otros, de conformidad con el plan que para este efecto emita la Secretaría.
+La Dirección y Rectoría formará, capacitará y actualizará al personal docente del [Sistema](articulo-3.md) a través de los Cursos de Inducción al Puesto; Capacitación Docente; Capacitación Integral y otros, de conformidad con el plan que para este efecto emita la Secretaría.

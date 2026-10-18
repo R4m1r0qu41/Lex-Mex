@@ -17,4 +17,4 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 151
 
-Contenido de la Sentencia Además de los requisitos establecidos en el Código Nacional, la sentencia debe estar redactada en un lenguaje accesible para la persona adolescente y contener la medida de mayor gravedad que se impondría a este en caso de incumplimiento y las de menor gravedad por las que puede sustituirse la medida impuesta.
+Contenido de la Sentencia Además de los requisitos establecidos en el [Código Nacional](articulo-3.md), la sentencia debe estar redactada en un lenguaje accesible para la persona adolescente y contener la medida de mayor gravedad que se impondría a este en caso de incumplimiento y las de menor gravedad por las que puede sustituirse la medida impuesta.

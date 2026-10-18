@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 51
 
-Para la elaboración o actualización del PLADESHi, PEMEX y CFE deben proporcionar a la Secretaría información sobre su Plan de Sostenibilidad.
+Para la elaboración o actualización del PLADESHi, [PEMEX](articulo-5.md) y [CFE](articulo-5.md) deben proporcionar a la [Secretaría](articulo-5.md) información sobre su Plan de Sostenibilidad.

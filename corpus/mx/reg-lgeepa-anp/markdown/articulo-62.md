@@ -17,7 +17,7 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 62
 
-La Secretaría podrá proponer al titular del Ejecutivo Federal la modificación de una declaratoria de área natural protegida, cuando hayan variado las condiciones que dieron origen a su establecimiento a consecuencia de, entre otras, las siguientes circunstancias:
+La [Secretaría](articulo-3o.md) podrá proponer al titular del Ejecutivo Federal la modificación de una declaratoria de área natural protegida, cuando hayan variado las condiciones que dieron origen a su establecimiento a consecuencia de, entre otras, las siguientes circunstancias:
 
 I. El desplazamiento de las poblaciones de vida silvestre que se encuentren bajo un régimen de protección;
 

@@ -17,7 +17,7 @@ source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 
 # Artículo 67
 
-El Consejo Nacional contará con los siguientes órganos de gobierno y administración:
+El [Consejo Nacional](articulo-4.md) contará con los siguientes órganos de gobierno y administración:
 
 I. La Junta de Gobierno, y
 

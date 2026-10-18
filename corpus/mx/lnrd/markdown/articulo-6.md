@@ -15,6 +15,6 @@ source_sha256: 0a9852297132d8972d0c2f77e1b67d614bd296632109065e703bd09254187aea
 
 # Artículo 6
 
-El número de registro de la detención que otorgue el Sistema de Consulta tendrá la finalidad de establecer el seguimiento a la persona detenida, hasta que es puesta en libertad por parte de la autoridad competente en cualquiera de las etapas del proceso penal o administrativo.
+El número de registro de la detención que otorgue el [Sistema de Consulta](articulo-2.md) tendrá la finalidad de establecer el seguimiento a la persona detenida, hasta que es puesta en libertad por parte de la autoridad competente en cualquiera de las etapas del proceso penal o administrativo.
 
-Capítulo II Principios que rigen el Registro Nacional de Detenciones
+Capítulo II Principios que rigen el [Registro](articulo-2.md) Nacional de Detenciones

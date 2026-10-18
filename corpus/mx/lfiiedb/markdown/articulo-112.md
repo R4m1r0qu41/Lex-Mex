@@ -17,4 +17,4 @@ source_sha256: 7679afbbf32749e0c0bacab72644d41fc6ccdeeab3a2f25dfae8d26a065de01e
 
 # Artículo 112
 
-Si realizado el concurso la Dependencia o Entidad convocante decide no firmar el contrato respectivo, el ganador dará a conocer al Consejo dicha circunstancia para que éste resuelva lo conducente según lo que establece esta Ley o las disposiciones aplicables.
+Si realizado el concurso la [Dependencia](articulo-4.md) o [Entidad](articulo-4.md) convocante decide no firmar el contrato respectivo, el ganador dará a conocer al [Consejo](articulo-4.md) dicha circunstancia para que éste resuelva lo conducente según lo que establece esta [Ley](articulo-4.md) o las disposiciones aplicables.

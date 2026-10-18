@@ -17,4 +17,4 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 86
 
-Para la modificación de los Estándares deberá seguirse el mismo procedimiento previsto en el artículo [80](articulo-80.md) de esta Ley, en el entendido que su Reglamento podrá establecer procedimientos simplificados de modificación, cuando no impliquen cambios sustanciales.
+Para la modificación de los [Estándares](articulo-4.md) deberá seguirse el mismo procedimiento previsto en el artículo [80](articulo-80.md) de esta Ley, en el entendido que su Reglamento podrá establecer procedimientos simplificados de modificación, cuando no impliquen cambios sustanciales.

@@ -17,6 +17,6 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 # Artículo 43
 
-Los peritos médicos y/o psicólogos que realicen el dictamen médico-psicológico basado en el Protocolo de Estambul, tendrán la obligación de entregar el mismo a la autoridad ministerial de la Fiscalía Especializada que conozca del caso, a efecto de que se agregue a la carpeta de investigación, así como copia a la Víctima, a su defensor o a quien ésta designe. Párrafo reformado DOF 20-05-2021
+Los peritos médicos y/o psicólogos que realicen el dictamen médico-psicológico basado en el [Protocolo de Estambul](articulo-5.md), tendrán la obligación de entregar el mismo a la autoridad ministerial de la [Fiscalía Especializada](articulo-5.md) que conozca del caso, a efecto de que se agregue a la carpeta de investigación, así como copia a la [Víctima](articulo-5.md), a su defensor o a quien ésta designe. Párrafo reformado DOF 20-05-2021
 
-Solamente en los casos en que exista queja presentada ante la Comisión Nacional de los Derechos Humanos o ante los organismos públicos de protección de los derechos humanos competentes, se les remitirá copia para que se incluya en las mismas.
+Solamente en los casos en que exista queja presentada ante la [Comisión Nacional](articulo-5.md) de los Derechos Humanos o ante los organismos públicos de protección de los derechos humanos competentes, se les remitirá copia para que se incluya en las mismas.

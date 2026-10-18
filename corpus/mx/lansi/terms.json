@@ -1,1 +1,178 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lansi:term:agencia",
+    "term": "Agencia",
+    "instrument_id": "urn:lex-mx:federal:statute:lansi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lansi:article:3",
+    "fraction": "I",
+    "start_char": 212,
+    "end_char": 326,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lansi:term:contingencia",
+    "term": "Contingencia",
+    "instrument_id": "urn:lex-mx:federal:statute:lansi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lansi:article:3",
+    "fraction": "II",
+    "start_char": 326,
+    "end_char": 531,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lansi:term:consecuencia",
+    "term": "Consecuencia",
+    "instrument_id": "urn:lex-mx:federal:statute:lansi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lansi:article:3",
+    "fraction": "III",
+    "start_char": 531,
+    "end_char": 678,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lansi:term:emergencia",
+    "term": "Emergencia",
+    "instrument_id": "urn:lex-mx:federal:statute:lansi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lansi:article:3",
+    "fraction": "IV",
+    "start_char": 678,
+    "end_char": 866,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lansi:term:evaluacion-estrategica",
+    "term": "Evaluación estratégica",
+    "instrument_id": "urn:lex-mx:federal:statute:lansi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lansi:article:3",
+    "fraction": "V",
+    "start_char": 866,
+    "end_char": 1212,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lansi:term:externalidades",
+    "term": "Externalidades",
+    "instrument_id": "urn:lex-mx:federal:statute:lansi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lansi:article:3",
+    "fraction": "VI",
+    "start_char": 1212,
+    "end_char": 1621,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lansi:term:instalacion",
+    "term": "Instalación",
+    "instrument_id": "urn:lex-mx:federal:statute:lansi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lansi:article:3",
+    "fraction": "VII",
+    "start_char": 1621,
+    "end_char": 2201,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lansi:term:regulados",
+    "term": "Regulados",
+    "instrument_id": "urn:lex-mx:federal:statute:lansi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lansi:article:3",
+    "fraction": "VIII",
+    "start_char": 2201,
+    "end_char": 2394,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lansi:term:riesgo",
+    "term": "Riesgo",
+    "instrument_id": "urn:lex-mx:federal:statute:lansi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lansi:article:3",
+    "fraction": "IX",
+    "start_char": 2394,
+    "end_char": 2567,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lansi:term:riesgo-critico",
+    "term": "Riesgo crítico",
+    "instrument_id": "urn:lex-mx:federal:statute:lansi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lansi:article:3",
+    "fraction": "X",
+    "start_char": 2567,
+    "end_char": 2732,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lansi:term:sector-hidrocarburos-o-sector",
+    "term": "Sector Hidrocarburos o Sector",
+    "instrument_id": "urn:lex-mx:federal:statute:lansi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lansi:article:3",
+    "fraction": "XI",
+    "start_char": 2732,
+    "end_char": 3534,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lansi:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lansi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lansi:article:3",
+    "fraction": "XII",
+    "start_char": 3534,
+    "end_char": 3603,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lansi:term:seguridad-industrial",
+    "term": "Seguridad Industrial",
+    "instrument_id": "urn:lex-mx:federal:statute:lansi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lansi:article:3",
+    "fraction": "XIII",
+    "start_char": 3603,
+    "end_char": 4080,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lansi:term:seguridad-operativa",
+    "term": "Seguridad Operativa",
+    "instrument_id": "urn:lex-mx:federal:statute:lansi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lansi:article:3",
+    "fraction": "XIV",
+    "start_char": 4080,
+    "end_char": 4859,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lansi:term:sistema-de-administracion",
+    "term": "Sistema de Administración",
+    "instrument_id": "urn:lex-mx:federal:statute:lansi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lansi:article:3",
+    "fraction": "XV",
+    "start_char": 4859,
+    "end_char": 5165,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lansi:term:supervision",
+    "term": "Supervisión",
+    "instrument_id": "urn:lex-mx:federal:statute:lansi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lansi:article:3",
+    "fraction": "XVI",
+    "start_char": 5165,
+    "end_char": 5385,
+    "basis": "express_definition"
+  }
+]

@@ -17,6 +17,6 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 40
 
-Las actividades industriales y comerciales relacionadas con armas, municiones, artificios, explosivos y sustancias químicas relacionadas con éstos y demás objetos que regula esta Ley, se sujetarán a las disposiciones que dicte la Secretaría. Cuando el material sea para el uso exclusivo de la Armada de México, esas actividades se sujetarán a las disposiciones de la Secretaría de Marina.
+Las actividades industriales y comerciales relacionadas con armas, municiones, artificios, explosivos y sustancias químicas relacionadas con éstos y demás objetos que regula esta [Ley](articulo-1o-Bis.md), se sujetarán a las disposiciones que dicte la [Secretaría](articulo-1o-Bis.md). Cuando el material sea para el uso exclusivo de la Armada de México, esas actividades se sujetarán a las disposiciones de la Secretaría de Marina.
 
 Artículo reformado DOF 21-12-1995, 29-05-2025

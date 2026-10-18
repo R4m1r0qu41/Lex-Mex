@@ -19,7 +19,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 Son infracciones administrativas:
 
-I.- Realizar actos contrarios a los buenos usos y costumbres en la industria, comercio y servicios que impliquen competencia desleal y que se relacionen con la materia que esta Ley regula;
+I.- Realizar actos contrarios a los buenos usos y costumbres en la industria, comercio y servicios que impliquen competencia desleal y que se relacionen con la materia que esta [Ley](articulo-4.md) regula;
 
 II.- Efectuar, en el ejercicio de actividades industriales o mercantiles, actos que causen o induzcan al público a confusión, error o engaño, por hacer creer o suponer infundadamente:
 
@@ -87,7 +87,7 @@ XXVIII.- Usar un nombre comercial idéntico o uno semejante en grado de confusi�
 
 XXIX.- Usar sin la autorización de uso correspondiente una denominación de origen o indicación geográfica protegida;
 
-XXX.- Usar una denominación o indicación idéntica o semejante en grado de confusión a una denominación de origen o indicación geográfica nacional protegida o extranjera reconocida por el Instituto, para amparar los mismos o similares productos. Queda incluido en este supuesto, el uso de la denominación o indicación en servicios;
+XXX.- Usar una denominación o indicación idéntica o semejante en grado de confusión a una denominación de origen o indicación geográfica nacional protegida o extranjera reconocida por el [Instituto](articulo-4.md), para amparar los mismos o similares productos. Queda incluido en este supuesto, el uso de la denominación o indicación en servicios;
 
 XXXI.- Usar la traducción o transliteración de una denominación de origen o indicación geográfica nacional protegida o extranjera reconocida por el Instituto, para amparar los mismos o similares productos. Queda incluido en este supuesto, el uso de la denominación o indicación en servicios;
 

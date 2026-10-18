@@ -17,4 +17,4 @@ source_sha256: 70464807d63da08244e495f2ff0ac30b12b30119926b84cedc7930397fcb80ef
 
 # Artículo 243
 
-La Secretaría publicará periódicamente convocatorias para la autorización de los terceros a que se refiere el artículo [391 bis](../../lgs/markdown/articulo-391-bis.md) de la Ley. Con el propósito de conocer técnicamente de las solicitudes para el otorgamiento de autorizaciones de terceros, la Secretaría formará comités técnicos integrados por expertos en los campos específicos, representantes de cámaras y asociaciones y, en su caso, de las entidades de acreditación.
+La [Secretaría](articulo-2o.md) publicará periódicamente convocatorias para la autorización de los terceros a que se refiere el artículo [391 bis](../../lgs/markdown/articulo-391-bis.md) de la [Ley](articulo-2o.md). Con el propósito de conocer técnicamente de las solicitudes para el otorgamiento de autorizaciones de terceros, la Secretaría formará comités técnicos integrados por expertos en los campos específicos, representantes de cámaras y asociaciones y, en su caso, de las entidades de acreditación.

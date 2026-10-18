@@ -19,7 +19,7 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 Son causas de retiro:
 
-I. Llegar a la edad límite que fija el artículo [25](articulo-25.md) de esta Ley;
+I. Llegar a la edad límite que fija el artículo [25](articulo-25.md) de esta [Ley](articulo-4o.md);
 
 II. Quedar incapacitado en acción de armas o como consecuencia de las lesiones recibidas en ella; Fracción reformada DOF 20-11-2008
 

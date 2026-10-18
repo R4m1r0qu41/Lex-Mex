@@ -17,4 +17,4 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 95
 
-Cuando la Comisión Nacional, además de imponer la sanción respectiva, requiera al infractor para que en un plazo determinado cumpla con la obligación omitida o para que normalice la operación irregular motivo de la sanción y éste incumpla, sancionará este hecho como reincidencia.
+Cuando la [Comisión Nacional](articulo-2o.md), además de imponer la sanción respectiva, requiera al infractor para que en un plazo determinado cumpla con la obligación omitida o para que normalice la operación irregular motivo de la sanción y éste incumpla, sancionará este hecho como reincidencia.

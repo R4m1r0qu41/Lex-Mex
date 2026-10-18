@@ -17,7 +17,7 @@ source_sha256: 2a105e5201b86ff5517ca1ef8d971224ea8c717f195fdd5fa28b916c7e622e56
 
 # Artículo 22
 
-La petición de otorgar Medidas de Protección deberá contener como elementos mínimos que permitan realizar el Estudio Técnico, los siguientes:
+La petición de otorgar [Medidas de Protección](articulo-2.md) deberá contener como elementos mínimos que permitan realizar el [Estudio Técnico](articulo-2.md), los siguientes:
 
 a) Nombre completo del candidato a protección, su dirección o lugar de ubicación.
 

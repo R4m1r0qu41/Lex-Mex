@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 388
 
-Las infracciones administrativas a esta Ley o demás disposiciones derivadas de ella, serán sancionadas con:
+Las infracciones administrativas a esta [Ley](articulo-4.md) o demás disposiciones derivadas de ella, serán sancionadas con:
 
 I.- Multa hasta por el importe de doscientas cincuenta mil unidades de medida y actualización, vigente al momento en que se cometa la infracción, por cada conducta que se actualice;
 

@@ -17,6 +17,6 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 12 Nonies
 
-Las instituciones públicas o privadas que generen o tengan acceso a imágenes y mediciones generadas por satélites, aeronaves no tripuladas o mediante otras tecnologías, estarán obligadas a permitir su consulta a la Fiscalía, Fiscalías Locales, Comisión Nacional de Búsqueda y Comisiones Locales de Búsqueda exclusivamente para las acciones de búsqueda, localización, identificación e investigación de Personas Desaparecidas o No Localizadas en términos de la presente Ley.
+Las instituciones públicas o privadas que generen o tengan acceso a imágenes y mediciones generadas por satélites, aeronaves no tripuladas o mediante otras tecnologías, estarán obligadas a permitir su consulta a la [Fiscalía](articulo-4.md), [Fiscalías Locales](articulo-4.md), [Comisión Nacional de Búsqueda](articulo-4.md) y [Comisiones Locales de Búsqueda](articulo-4.md) exclusivamente para las acciones de búsqueda, localización, identificación e investigación de [Personas Desaparecidas](articulo-4.md) o No Localizadas en términos de la presente Ley.
 
 Artículo adicionado DOF 16-07-2025

@@ -17,6 +17,6 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 89
 
-La Secretaría requerirá la presentación de una póliza de seguro o garantía, por parte del solicitante de la autorización de importación o exportación, que asegure que se contará con los recursos económicos suficientes para hacer frente a cualquier contingencia y al pago de daños y perjuicios que se pudieran causar durante el proceso de movilización de los residuos peligrosos, a fin de emitir la autorización correspondiente.
+La [Secretaría](articulo-5.md) requerirá la presentación de una póliza de seguro o garantía, por parte del solicitante de la autorización de importación o exportación, que asegure que se contará con los recursos económicos suficientes para hacer frente a cualquier contingencia y al pago de daños y perjuicios que se pudieran causar durante el proceso de movilización de los residuos peligrosos, a fin de emitir la autorización correspondiente.
 
 Al fijar el monto de la póliza o garantía, se tomarán en cuenta los convenios internacionales en la materia y de los que México sea parte y las disposiciones legales aplicables en los países a los que se exporten los residuos peligrosos.

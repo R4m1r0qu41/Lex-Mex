@@ -19,7 +19,7 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 Ejecución de la resolución La resolución definitiva se ejecutará una vez que quede firme.
 
-Transcurrido el término para el cumplimiento de la resolución por parte de la Autoridad Administrativa, el Juez de Ejecución de oficio o a petición de parte requerirá a la autoridad el cumplimiento de la misma.
+Transcurrido el término para el cumplimiento de la resolución por parte de la [Autoridad Administrativa](articulo-3.md), el Juez de Ejecución de oficio o a petición de parte requerirá a la autoridad el cumplimiento de la misma.
 
 Cuando la Autoridad Administrativa manifieste haber cumplido con la resolución respectiva, el Juez de Ejecución notificará tal circunstancia al promovente, para que dentro del término de tres días manifieste lo que a su interés convenga; transcurrido dicho término sin que hubiese objeción, el Juez de Ejecución dará por cumplida la resolución y se ordenará el archivo del asunto.
 

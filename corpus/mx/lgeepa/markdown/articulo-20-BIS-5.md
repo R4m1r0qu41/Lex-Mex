@@ -29,7 +29,7 @@ IV.- Las autoridades locales harán compatibles el ordenamiento ecológico del t
 
 Asimismo, los programas de ordenamiento ecológico local preverán los mecanismos de coordinación, entre las distintas autoridades involucradas, en la formulación y ejecución de los programas;
 
-V.- Cuando un programa de ordenamiento ecológico local incluya un área natural protegida, competencia de la Federación, o parte de ella, el programa será elaborado y aprobado en forma conjunta por la Secretaría y los Gobiernos de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, según corresponda; Fracción reformada DOF 19-01-2018
+V.- Cuando un programa de ordenamiento ecológico local incluya un área natural protegida, competencia de la Federación, o parte de ella, el programa será elaborado y aprobado en forma conjunta por la [Secretaría](articulo-3o.md) y los Gobiernos de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, según corresponda; Fracción reformada DOF 19-01-2018
 
 VI.- Los programas de ordenamiento ecológico local regularán los usos del suelo, incluyendo a ejidos, comunidades y pequeñas propiedades, expresando las motivaciones que lo justifiquen;
 

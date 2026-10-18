@@ -17,6 +17,6 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 # Artículo 23
 
-Todas las autoridades, en el ámbito de sus competencias, deberán prestar a las Fiscalías Especializadas el auxilio y entregar la información que éstas les soliciten para el cumplimiento de lo dispuesto en esta Ley y demás disposiciones aplicables.
+Todas las autoridades, en el ámbito de sus competencias, deberán prestar a las [Fiscalías Especializadas](articulo-5.md) el auxilio y entregar la información que éstas les soliciten para el cumplimiento de lo dispuesto en esta [Ley](articulo-5.md) y demás disposiciones aplicables.
 
 Artículo reformado DOF 20-05-2021

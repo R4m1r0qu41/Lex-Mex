@@ -17,4 +17,4 @@ source_sha256: 51d855a586ad7017a8d8f5c36819a2bd0d3d488f3f4b23594a729418a8b776b4
 
 # Artículo 68
 
-El Modelo Integral de Atención a Víctimas establecerá los procedimientos para la integración y trámite del informe a que se refiere el artículo [66](articulo-66.md) de este Reglamento.
+El [Modelo Integral de Atención a Víctimas](articulo-3.md) establecerá los procedimientos para la integración y trámite del informe a que se refiere el artículo [66](articulo-66.md) de este Reglamento.

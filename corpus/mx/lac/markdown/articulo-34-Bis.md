@@ -15,6 +15,6 @@ source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 
 # Artículo 34 Bis
 
-Las personas concesionarias, asignatarias, permisionarias y operadoras aéreas nacionales que efectúen operaciones en el espacio aéreo nacional y en el extranjero, así como a las permisionarias y operadoras aéreas extranjeras que efectúen operaciones dentro del territorio nacional, con aeronaves de ala fija o rotativa, están obligadas a notificar a la Agencia Federal de Aviación Civil las dificultades ocurridas en el servicio de las aeronaves en operación y en mantenimiento, de acuerdo con el peso máximo certificado de despegue que determine la Agencia Federal de Aviación Civil en las disposiciones técnico-administrativas correspondientes.
+Las personas concesionarias, asignatarias, permisionarias y operadoras aéreas nacionales que efectúen operaciones en el espacio aéreo nacional y en el extranjero, así como a las permisionarias y operadoras aéreas extranjeras que efectúen operaciones dentro del territorio nacional, con aeronaves de ala fija o rotativa, están obligadas a notificar a la [Agencia Federal de Aviación Civil](articulo-2.md) las dificultades ocurridas en el servicio de las aeronaves en operación y en mantenimiento, de acuerdo con el peso máximo certificado de despegue que determine la Agencia Federal de Aviación Civil en las disposiciones técnico-administrativas correspondientes.
 
 Artículo adicionado DOF 03-05-2023

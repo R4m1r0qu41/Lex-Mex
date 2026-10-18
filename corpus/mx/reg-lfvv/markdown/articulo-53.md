@@ -17,4 +17,4 @@ source_sha256: 23dcee090bbe0c4fb06c75d084cb65ce0b2e8f72a8d082e7059504412bde1614
 
 # Artículo 53
 
-A petición de los interesados, previo pago de los derechos correspondientes, la Dirección General Jurídica expedirá copias certificadas de los asientos e inscripciones que consten en el Registro, así como certificaciones de existencia o de no inscripción.
+A petición de los interesados, previo pago de los derechos correspondientes, la Dirección General Jurídica expedirá copias certificadas de los asientos e inscripciones que consten en el [Registro](articulo-2o.md), así como certificaciones de existencia o de no inscripción.

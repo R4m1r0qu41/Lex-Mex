@@ -17,4 +17,4 @@ source_sha256: bcc21844355854fe331c842c21436d721d6c2856b5c5986715fe39f4a845b317
 
 # Artículo 19
 
-El Presidente del Sistema durará en su cargo cinco años, podrá ser reelegido para un nuevo periodo por una sola vez y podrá ser removido con el voto de dos terceras partes de los miembros presentes de la Cámara de Senadores.
+El [Presidente](articulo-2.md) del [Sistema](articulo-2.md) durará en su cargo cinco años, podrá ser reelegido para un nuevo periodo por una sola vez y podrá ser removido con el voto de dos terceras partes de los miembros presentes de la Cámara de Senadores.

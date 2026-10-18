@@ -17,9 +17,9 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 2o
 
-Las funciones del Instituto son:
+Las funciones del [Instituto](articulo-4o.md) son:
 
-I. Otorgar las prestaciones y administrar los servicios a su cargo que la presente Ley le encomienda;
+I. Otorgar las prestaciones y administrar los servicios a su cargo que la presente [Ley](articulo-4o.md) le encomienda;
 
 II. Administrar su patrimonio exclusivamente para el fin señalado en la presente Ley;
 

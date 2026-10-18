@@ -17,7 +17,7 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 26
 
-Para la constitución de nuevos Comités Consultivos Nacionales de Normalización, las Autoridades Normalizadoras deberán proponer a la Comisión por conducto del Secretariado Ejecutivo, su denominación, definición de alcance, estructura orgánica y programa de trabajo respectivo. La integración, organización, operación y funcionamiento de los Comités Consultivos Nacionales de Normalización se preverá en el Reglamento de esta Ley.
+Para la constitución de nuevos Comités Consultivos Nacionales de Normalización, las [Autoridades Normalizadoras](articulo-4.md) deberán proponer a la [Comisión](articulo-4.md) por conducto del Secretariado Ejecutivo, su denominación, definición de alcance, estructura orgánica y programa de trabajo respectivo. La integración, organización, operación y funcionamiento de los Comités Consultivos Nacionales de Normalización se preverá en el Reglamento de esta Ley.
 
 Dichos comités estarán integrados de manera equilibrada por dependencias, cámaras empresariales y confederaciones, organizaciones de industriales, prestadores de servicios, comerciantes; centros de investigación científica o tecnológica, colegios de profesionales y consumidores, entre otros, conforme a las Reglas de Operación de cada Comité.
 

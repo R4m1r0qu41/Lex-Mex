@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 367
 
-En los procedimientos de declaración administrativa, las notificaciones, emplazamientos, requerimientos, solicitud de informes o documentos, resoluciones administrativas definitivas y demás actos emitidos por el Instituto, podrán realizarse:
+En los procedimientos de declaración administrativa, las notificaciones, emplazamientos, requerimientos, solicitud de informes o documentos, resoluciones administrativas definitivas y demás actos emitidos por el [Instituto](articulo-4.md), podrán realizarse:
 
 I.- Personalmente con quien deba entenderse la diligencia, en las oficinas del Instituto o en el domicilio señalado para tal efecto en el expediente;
 
@@ -27,4 +27,4 @@ III.- A través de medios de comunicación electrónica o cualquier otro medio, 
 
 Para el caso de procedimientos de declaración administrativa de nulidad, cancelación y caducidad, previo a la notificación por edicto, la persona solicitante deberá agotar los domicilios señalados por el titular afectado en el expediente de la patente, registro, publicación o autorización respectivo, y Párrafo reformado DOF 03-04-2026
 
-V.- Mediante Gaceta.
+V.- Mediante [Gaceta](articulo-4.md).

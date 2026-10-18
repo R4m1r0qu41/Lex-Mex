@@ -19,11 +19,11 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 Serán sancionadas con multa de diez a cien veces el valor diario de la Unidad de Medida y Actualización: Párrafo reformado DOF 29-05-2025
 
-I.- Quienes posean armas sin haber hecho la manifestación de las mismas a la Secretaría; Fracción reformada DOF 29-05-2025
+I.- Quienes posean armas sin haber hecho la manifestación de las mismas a la [Secretaría](articulo-1o-Bis.md); Fracción reformada DOF 29-05-2025
 
 II. Quienes posean armas, cartuchos o municiones en lugar no autorizado;
 
-III. Quienes infrinjan lo dispuesto en el artículo [36](articulo-36.md) de esta Ley. En este caso, además de la sanción, se asegurará el arma, y
+III. Quienes infrinjan lo dispuesto en el artículo [36](articulo-36.md) de esta [Ley](articulo-1o-Bis.md). En este caso, además de la sanción, se asegurará el arma, y
 
 IV.- Las personas que posean o almacenen, sin el permiso correspondiente, una cantidad de municiones o cartuchos o sus partes constitutivas, menor o igual a la establecida en el artículo [50](articulo-50.md) de esta Ley; Fracción reformada DOF 29-05-2025
 

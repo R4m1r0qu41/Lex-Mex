@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 34
 
-Las Autoridades garantes serán responsables de garantizar, en el ámbito de su competencia, el ejercicio de los derechos de acceso a la información pública y la protección de datos personales, conforme a los principios y bases establecidos por el artículo [6](../../cpeum/markdown/articulo-6o.md)o. de la Constitución Política de los Estados Unidos Mexicanos, así como por lo previsto en esta Ley y demás disposiciones jurídicas aplicables.
+Las [Autoridades garantes](articulo-3.md) serán responsables de garantizar, en el ámbito de su competencia, el ejercicio de los derechos de acceso a la información pública y la protección de datos personales, conforme a los principios y bases establecidos por el artículo [6](../../cpeum/markdown/articulo-6o.md)o. de la Constitución Política de los Estados Unidos Mexicanos, así como por lo previsto en esta [Ley](articulo-3.md) y demás disposiciones jurídicas aplicables.

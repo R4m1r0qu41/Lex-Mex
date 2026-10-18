@@ -17,4 +17,4 @@ source_sha256: c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41
 
 # Artículo 21
 
-Son instrumentos de planeación del Sector Energético los siguientes: I. La Estrategia; II. Programa Sectorial de Energía; III. El PLATEASE; IV. El PLADESE, y V. El PLADESHi. La Secretaría debe elaborarlos y publicarlos en términos de la Ley de Planeación y conforme se establezca en el Reglamento.
+Son instrumentos de planeación del [Sector Energético](articulo-3.md) los siguientes: I. La [Estrategia](articulo-3.md); II. Programa Sectorial de Energía; III. El [PLATEASE](articulo-3.md); IV. El [PLADESE](articulo-3.md), y V. El [PLADESHi](articulo-3.md). La [Secretaría](articulo-3.md) debe elaborarlos y publicarlos en términos de la [Ley](articulo-3.md) de Planeación y conforme se establezca en el [Reglamento](articulo-3.md).

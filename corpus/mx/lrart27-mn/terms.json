@@ -1,1 +1,112 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrart27-mn:term:combustible-nuclear",
+    "term": "Combustible nuclear",
+    "instrument_id": "urn:lex-mx:federal:statute:lrart27-mn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrart27-mn:article:3",
+    "fraction": "I",
+    "start_char": 47,
+    "end_char": 311,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrart27-mn:term:instalacion-nuclear",
+    "term": "Instalación nuclear",
+    "instrument_id": "urn:lex-mx:federal:statute:lrart27-mn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrart27-mn:article:3",
+    "fraction": "II",
+    "start_char": 311,
+    "end_char": 439,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrart27-mn:term:instalacion-radiactiva",
+    "term": "Instalación radiactiva",
+    "instrument_id": "urn:lex-mx:federal:statute:lrart27-mn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrart27-mn:article:3",
+    "fraction": "III",
+    "start_char": 439,
+    "end_char": 637,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrart27-mn:term:material-nuclear",
+    "term": "Material nuclear",
+    "instrument_id": "urn:lex-mx:federal:statute:lrart27-mn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrart27-mn:article:3",
+    "fraction": "IV",
+    "start_char": 637,
+    "end_char": 718,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrart27-mn:term:material-basico",
+    "term": "Material básico",
+    "instrument_id": "urn:lex-mx:federal:statute:lrart27-mn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrart27-mn:article:3",
+    "fraction": "V",
+    "start_char": 718,
+    "end_char": 1318,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrart27-mn:term:material-fisionable-especial",
+    "term": "Material fisionable especial",
+    "instrument_id": "urn:lex-mx:federal:statute:lrart27-mn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrart27-mn:article:3",
+    "fraction": "VI",
+    "start_char": 1318,
+    "end_char": 1641,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrart27-mn:term:material-radiactivo",
+    "term": "Material radiactivo",
+    "instrument_id": "urn:lex-mx:federal:statute:lrart27-mn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrart27-mn:article:3",
+    "fraction": "VII",
+    "start_char": 1641,
+    "end_char": 1826,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrart27-mn:term:fuente-de-radiacion",
+    "term": "Fuente de radiación",
+    "instrument_id": "urn:lex-mx:federal:statute:lrart27-mn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrart27-mn:article:3",
+    "fraction": "VIII",
+    "start_char": 1826,
+    "end_char": 1943,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrart27-mn:term:mineral-radioactivo",
+    "term": "Mineral radioactivo",
+    "instrument_id": "urn:lex-mx:federal:statute:lrart27-mn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrart27-mn:article:3",
+    "fraction": "IX",
+    "start_char": 1943,
+    "end_char": 2409,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrart27-mn:term:uso-no-energetico-de-material-radiactivo",
+    "term": "Uso no energético de material radiactivo",
+    "instrument_id": "urn:lex-mx:federal:statute:lrart27-mn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrart27-mn:article:3",
+    "fraction": "X",
+    "start_char": 2409,
+    "end_char": 2809,
+    "basis": "express_definition"
+  }
+]

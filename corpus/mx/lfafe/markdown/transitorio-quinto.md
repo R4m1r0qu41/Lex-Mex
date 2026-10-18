@@ -15,4 +15,4 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Quinto
 
-Dentro de los 90 días siguientes a la fecha en que entre en vigor esta Ley, los comercios e industrias deberán ajustarse a lo preceptuado en la misma.
+Dentro de los 90 días siguientes a la fecha en que entre en vigor esta [Ley](articulo-1o-Bis.md), los comercios e industrias deberán ajustarse a lo preceptuado en la misma.

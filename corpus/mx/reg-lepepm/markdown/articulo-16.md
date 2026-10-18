@@ -17,4 +17,4 @@ source_sha256: 9080231242a59cbd78d30fb747864bc45cd63d3c4978f37086b01e45343f4244
 
 # Artículo 16
 
-Para efectos de lo establecido en el artículo [24](../../lepepm/markdown/articulo-24.md), fracción VI de la Ley, no se considera la pertenencia a juntas directivas de personas morales cuyo objeto principal sea la realización de actividades culturales, altruistas o sin fines de lucro, siempre y cuando no impida el adecuado ejercicio de su función como Persona Consejera Independiente.
+Para efectos de lo establecido en el artículo [24](../../lepepm/markdown/articulo-24.md), fracción VI de la [Ley](articulo-2.md), no se considera la pertenencia a juntas directivas de personas morales cuyo objeto principal sea la realización de actividades culturales, altruistas o sin fines de lucro, siempre y cuando no impida el adecuado ejercicio de su función como [Persona Consejera Independiente](articulo-2.md).

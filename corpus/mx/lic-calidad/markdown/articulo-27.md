@@ -19,12 +19,12 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 Los Comités Consultivos Nacionales de Normalización desarrollarán las siguientes funciones:
 
-I. Conducir el proceso de normalización de las propuestas de Normas Oficiales Mexicanas que les fueren presentadas por las Autoridades Normalizadoras;
+I. Conducir el proceso de normalización de las propuestas de [Normas Oficiales Mexicanas](articulo-4.md) que les fueren presentadas por las [Autoridades Normalizadoras](articulo-4.md);
 
 II. Constituir y coordinar a los subcomités o grupos de trabajo, necesarios para el desempeño de sus funciones;
 
 III. Elaborar su programa de trabajo;
 
-IV. A solicitud del Secretariado Ejecutivo de la Comisión entregar la lista actualizada de los miembros del comité, y
+IV. A solicitud del Secretariado Ejecutivo de la [Comisión](articulo-4.md) entregar la lista actualizada de los miembros del comité, y
 
 V. Cualquier otra actividad relacionada con sus funciones que le sea encomendada por la Autoridad Normalizadora que lo presida o por la Comisión.

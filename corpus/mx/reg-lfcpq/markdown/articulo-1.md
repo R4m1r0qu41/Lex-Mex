@@ -17,4 +17,4 @@ source_sha256: 3c0720d560455df51ca882a37390cd0fe017d1987853b8358e37d5195f718055
 
 # Artículo 1
 
-El presente ordenamiento tiene por objeto reglamentar el control de las actividades reguladas y la coordinación entre las dependencias competentes para aplicar la Ley Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos.
+El presente ordenamiento tiene por objeto reglamentar el control de las actividades reguladas y la coordinación entre las dependencias competentes para aplicar la [Ley](articulo-2.md) Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos.

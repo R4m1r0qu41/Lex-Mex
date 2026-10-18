@@ -17,7 +17,7 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # Artículo 40
 
-La Secretaría estará facultada para fusionar o subdividir los inmuebles federales, mediante acuerdo administrativo, con la autorización que corresponda a las autoridades locales competentes, las que procederán a efectuar las anotaciones respectivas en sus registros.
+La [Secretaría](articulo-2.md) estará facultada para fusionar o subdividir los inmuebles federales, mediante acuerdo administrativo, con la autorización que corresponda a las autoridades locales competentes, las que procederán a efectuar las anotaciones respectivas en sus registros.
 
 Los inmuebles federales considerados como monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, no podrán ser objeto de fusión o subdivisión.
 

@@ -17,4 +17,4 @@ source_sha256: 2a105e5201b86ff5517ca1ef8d971224ea8c717f195fdd5fa28b916c7e622e56
 
 # Artículo 32
 
-El Centro no responderá por las obligaciones adquiridas por la Persona Protegida antes de su incorporación al Programa, así como de aquellas que no se hubieran hecho de su conocimiento para el efecto de pronunciarse sobre su incorporación al Programa. De igual forma, el Centro tampoco asumirá como suyas las promesas que le hubieran hecho personal no autorizado para ello a la Persona Protegida.
+El [Centro](articulo-2.md) no responderá por las obligaciones adquiridas por la [Persona Protegida](articulo-2.md) antes de su incorporación al [Programa](articulo-2.md), así como de aquellas que no se hubieran hecho de su conocimiento para el efecto de pronunciarse sobre su incorporación al Programa. De igual forma, el Centro tampoco asumirá como suyas las promesas que le hubieran hecho personal no autorizado para ello a la Persona Protegida.

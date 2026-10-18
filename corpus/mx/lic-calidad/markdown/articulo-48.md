@@ -17,7 +17,7 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 48
 
-Cuando la Secretaría o las Autoridades Normalizadoras identifiquen, de acuerdo a la Ley Federal de Competencia Económica, que una Entidad de Acreditación u Organismo de Evaluación de la Conformidad tenga poder sustancial en uno o más mercados relevantes, darán vista a la Comisión Federal de Competencia Económica, de conformidad con la legislación aplicable.
+Cuando la [Secretaría](articulo-4.md) o las [Autoridades Normalizadoras](articulo-4.md) identifiquen, de acuerdo a la Ley Federal de Competencia Económica, que una [Entidad de Acreditación](articulo-4.md) u [Organismo de Evaluación de la Conformidad](articulo-4.md) tenga poder sustancial en uno o más mercados relevantes, darán vista a la [Comisión](articulo-4.md) Federal de Competencia Económica, de conformidad con la legislación aplicable.
 
 Capítulo II De las Entidades de Acreditación y los Organismos de Evaluación de la Conformidad
 

@@ -17,4 +17,4 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 101
 
-Las autorizaciones a que se refiere la fracción XI del artículo [88](articulo-88.md), deberán solicitarse con una antelación de 30 días naturales a su inicio. La Comisión decidirá sobre el otorgamiento del permiso dentro de un plazo de 10 días hábiles, contados a partir de la fecha en que se presente la solicitud.
+Las autorizaciones a que se refiere la fracción XI del artículo [88](articulo-88.md), deberán solicitarse con una antelación de 30 días naturales a su inicio. La [Comisión](articulo-3o.md) decidirá sobre el otorgamiento del permiso dentro de un plazo de 10 días hábiles, contados a partir de la fecha en que se presente la solicitud.

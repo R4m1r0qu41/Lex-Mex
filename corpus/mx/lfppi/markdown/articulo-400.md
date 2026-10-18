@@ -17,6 +17,6 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 400
 
-La ejecución de la resolución del incidente emitida por el Instituto podrá promoverse de conformidad con las disposiciones contenidas en el Código Nacional de Procedimientos Civiles y Familiares, ante los Tribunales Federales competentes.
+La ejecución de la resolución del incidente emitida por el [Instituto](articulo-4.md) podrá promoverse de conformidad con las disposiciones contenidas en el Código Nacional de Procedimientos Civiles y Familiares, ante los Tribunales Federales competentes.
 
 Artículo reformado DOF 14-11-2025

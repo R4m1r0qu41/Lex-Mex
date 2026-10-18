@@ -29,8 +29,8 @@ V. Vigencia del permiso;
 
 VI. Situación geográfica y profundidad de la zona de tiro autorizada, así como la distancia a la costa más cercana;
 
-VII. La cantidad que garantice la reparación de los daños, perjuicios y multa que se pudieran aplicar, por contravenir las disposiciones de la Ley o del permiso;
+VII. La cantidad que garantice la reparación de los daños, perjuicios y multa que se pudieran aplicar, por contravenir las disposiciones de la [Ley](articulo-2.md) o del permiso;
 
-VIII. Los términos y condicionantes que establezca la Secretaría para llevar a cabo el vertimiento, y
+VIII. Los términos y condicionantes que establezca la [Secretaría](articulo-2.md) para llevar a cabo el vertimiento, y
 
 IX. La obligación del titular del permiso de responder por los daños al medio ambiente que pudiera ocasionar el vertimiento.

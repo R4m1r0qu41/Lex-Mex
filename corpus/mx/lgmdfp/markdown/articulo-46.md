@@ -17,4 +17,4 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 46
 
-El Sistema Nacional sesionará válidamente con la presencia de la mayoría de sus integrantes y sus resoluciones deben ser tomadas por mayoría de votos. El Presidente tiene voto dirimente en caso de empate.
+El [Sistema Nacional](articulo-4.md) sesionará válidamente con la presencia de la mayoría de sus integrantes y sus resoluciones deben ser tomadas por mayoría de votos. El Presidente tiene voto dirimente en caso de empate.

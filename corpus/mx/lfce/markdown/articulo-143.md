@@ -17,7 +17,7 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 143
 
-Cuando el concesionario incumpla lo previsto en el [artículo anterior](articulo-142.md), además de las sanciones previstas en el artículo [127](articulo-127.md) de esta Ley, la Comisión podrá imponer los límites siguientes:
+Cuando el concesionario incumpla lo previsto en el [artículo anterior](articulo-142.md), además de las sanciones previstas en el artículo [127](articulo-127.md) de esta Ley, la [Comisión](articulo-3.md) podrá imponer los límites siguientes:
 
 I. A la concentración nacional o regional de bandas de frecuencias del espectro radioeléctrico destinado a la prestación de servicios de radiodifusión;
 
@@ -25,6 +25,6 @@ II. Al otorgamiento de nuevas concesiones de bandas de frecuencias del espectro 
 
 III. A la propiedad cruzada de empresas que controlen varios medios de comunicación que sean concesionarios de radiodifusión y telecomunicaciones que sirvan a un mismo mercado o zona de cobertura geográfica.
 
-Para efectos de lo anterior, la Comisión podrá solicitar opinión de la Agencia.
+Para efectos de lo anterior, la Comisión podrá solicitar opinión de la [Agencia](articulo-3.md).
 
 Artículo adicionado DOF 16-07-2025

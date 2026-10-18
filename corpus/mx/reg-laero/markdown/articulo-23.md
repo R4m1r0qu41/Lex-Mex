@@ -21,7 +21,7 @@ I. Las expectativas de crecimiento y desarrollo del aeropuerto por etapas;
 
 II. Las proyecciones de demanda, pasajeros, carga y operaciones, por lo menos para los siguientes quince años, las que deberán incluir la metodología de cálculos y supuestos;
 
-III. El programa de construcción, conservación, mantenimiento, expansión y modernización de la infraestructura, instalaciones y equipo conforme al Capítulo II del Título III de este Reglamento.En la elaboración de dicho programa deberán considerarse los estándares de calidad y eficiencia establecidos en el título de concesión, los que la Secretaría fijará con base en los estándares internacionales;
+III. El programa de construcción, conservación, mantenimiento, expansión y modernización de la infraestructura, instalaciones y equipo conforme al Capítulo II del Título III de este Reglamento.En la elaboración de dicho programa deberán considerarse los estándares de calidad y eficiencia establecidos en el título de concesión, los que la [Secretaría](articulo-2.md) fijará con base en los estándares internacionales;
 
 IV. El programa de inversiones detallado para los próximos cinco años, el cual será obligatorio, así como los conceptos y montos de las inversiones mayores estimadas para los diez años subsecuentes;
 

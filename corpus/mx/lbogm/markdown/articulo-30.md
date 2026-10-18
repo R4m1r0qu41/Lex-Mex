@@ -37,4 +37,4 @@ IX. Fortalecimiento de la cultura de la bioseguridad, y
 
 X. Descentralización y desarrollo regional.
 
-El Ejecutivo Federal, por conducto de las Secretarías competentes, se asegurará de poner a disposición de las empresas semilleras de las organizaciones de campesinos y de productores, de manera preferente y accesible, los resultados de la investigación científica y de innovación y desarrollo tecnológico contenidos en el Programa para el desarrollo de la bioseguridad y la biotecnología.
+El Ejecutivo Federal, por conducto de las [Secretarías](articulo-3.md) competentes, se asegurará de poner a disposición de las empresas semilleras de las organizaciones de campesinos y de productores, de manera preferente y accesible, los resultados de la investigación científica y de innovación y desarrollo tecnológico contenidos en el Programa para el desarrollo de la bioseguridad y la biotecnología.

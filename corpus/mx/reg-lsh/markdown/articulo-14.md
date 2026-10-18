@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 14
 
-La Secretaría debe suscribir y notificar el título de Asignación a Petróleos Mexicanos y a la Secretaría de Hacienda y Crédito Público. Asimismo, debe notificar al Fondo Mexicano del Petróleo la suscripción del título de Asignación, para efectos del registro fiduciario, dentro de los cinco días hábiles siguientes al inicio de la vigencia de este. Lo anterior sin perjuicio del registro o gestiones que correspondan a la Secretaría.
+La [Secretaría](articulo-3.md) debe suscribir y notificar el título de Asignación a [Petróleos Mexicanos](articulo-3.md) y a la Secretaría de Hacienda y Crédito Público. Asimismo, debe notificar al [Fondo Mexicano del Petróleo](articulo-3.md) la suscripción del título de Asignación, para efectos del registro fiduciario, dentro de los cinco días hábiles siguientes al inicio de la vigencia de este. Lo anterior sin perjuicio del registro o gestiones que correspondan a la Secretaría.

@@ -17,7 +17,7 @@ source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 
 # Artículo 114
 
-El conciliador podrá en todo momento requerir a las partes los elementos de convicción que estime necesarios para la conciliación, así como para el ejercicio de las atribuciones que a la Procuraduría le confiere la ley. Asimismo, podrá acordar la práctica de diligencias que permitan acreditar los hechos constitutivos de la reclamación. Las partes podrán aportar las pruebas que estimen necesarias para acreditar los elementos de la reclamación y del informe. Párrafo reformado DOF 04-02-2004
+El conciliador podrá en todo momento requerir a las partes los elementos de convicción que estime necesarios para la conciliación, así como para el ejercicio de las atribuciones que a la [Procuraduría](articulo-2.md) le confiere la ley. Asimismo, podrá acordar la práctica de diligencias que permitan acreditar los hechos constitutivos de la reclamación. Las partes podrán aportar las pruebas que estimen necesarias para acreditar los elementos de la reclamación y del informe. Párrafo reformado DOF 04-02-2004
 
 El conciliador podrá suspender cuando lo estime pertinente o a instancia de ambas partes, la audiencia de conciliación hasta en tres ocasiones. Asimismo, podrá requerir la emisión de un dictamen a través del cual se cuantifique en cantidad líquida la obligación contractual. Párrafo reformado DOF 04-02-2004
 

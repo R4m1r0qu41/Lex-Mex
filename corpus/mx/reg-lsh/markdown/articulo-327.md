@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 327
 
-Transcurrido el plazo máximo de la intervención, sin que la persona Permisionaria esté en condiciones de continuar con sus obligaciones objeto del permiso, se debe estar a lo previsto en el artículo [93](../../lsh/markdown/articulo-93.md) de la Ley.
+Transcurrido el plazo máximo de la intervención, sin que la persona Permisionaria esté en condiciones de continuar con sus obligaciones objeto del permiso, se debe estar a lo previsto en el artículo [93](../../lsh/markdown/articulo-93.md) de la [Ley](articulo-3.md).

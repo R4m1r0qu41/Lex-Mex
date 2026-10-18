@@ -17,7 +17,7 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 185
 
-Participación de las personas responsables de las personas adolescentes durante el cumplimiento de las medidas La Autoridad Administrativa podrá conminar a las personas responsables de las personas adolescentes, para que brinden apoyo y asistencia a la persona adolescente durante el cumplimiento de las medidas. Para estos efectos procurará lo necesario para que se cuente con:
+Participación de las personas responsables de las personas adolescentes durante el cumplimiento de las medidas La [Autoridad Administrativa](articulo-3.md) podrá conminar a las personas responsables de las personas adolescentes, para que brinden apoyo y asistencia a la persona adolescente durante el cumplimiento de las medidas. Para estos efectos procurará lo necesario para que se cuente con:
 
 I. Programas de capacitación a las personas responsables de las personas adolescentes;
 

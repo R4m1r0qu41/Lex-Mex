@@ -21,14 +21,14 @@ Para otorgar y fijar los créditos a los militares en el activo se tomará en cu
 
 I. Tiempo de servicios;
 
-II. Tener depósitos al fondo de por lo menos 6 años a su favor, excepción hecha de los casos previstos en el párrafo segundo de la fracción I del artículo [102](articulo-102.md) de esta Ley; Fracción reformada DOF 03-04-2012
+II. Tener depósitos al fondo de por lo menos 6 años a su favor, excepción hecha de los casos previstos en el párrafo segundo de la fracción I del artículo [102](articulo-102.md) de esta [Ley](articulo-4o.md); Fracción reformada DOF 03-04-2012
 
 III. Antecedentes militares;
 
 IV. En el caso de cónyuges militares que sean beneficiarios de esta Ley, se podrán otorgar individual o mancomunadamente;
 
-También podrán mancomunarse los créditos de cónyuges que no pertenezcan a la Fuerza Armada Permanente y que por su actividad laboral sean beneficiarios de créditos del Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, de la Comisión Nacional de Vivienda o de cualquier otra institución de seguridad social que otorgue esta prestación a cónyuges o concubinos de militares para adquirir vivienda; así como para la adquisición, construcción, reparación, ampliación o mejoramiento de sus habitaciones o al pago de los pasivos que tengan por los conceptos anteriores; Párrafo adicionado DOF 24-05-2017. Reformado DOF 16-07-2025
+También podrán mancomunarse los créditos de cónyuges que no pertenezcan a la [Fuerza Armada Permanente](articulo-4o.md) y que por su actividad laboral sean beneficiarios de créditos del Fondo de la Vivienda del [Instituto](articulo-4o.md) de Seguridad y Servicios Sociales de los Trabajadores del Estado, del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, de la Comisión Nacional de Vivienda o de cualquier otra institución de seguridad social que otorgue esta prestación a cónyuges o concubinos de militares para adquirir vivienda; así como para la adquisición, construcción, reparación, ampliación o mejoramiento de sus habitaciones o al pago de los pasivos que tengan por los conceptos anteriores; Párrafo adicionado DOF 24-05-2017. Reformado DOF 16-07-2025
 
 V. Se podrán otorgar créditos por segunda ocasión sólo que exista disponibilidad en el fondo y no existan solicitudes de militares que no hayan tenido este beneficio, y
 
-VI. Los casos no previstos serán resueltos por la Junta conforme a las facultades que le otorga esta Ley. Fracción reformada DOF 16-07-2025
+VI. Los casos no previstos serán resueltos por la [Junta](articulo-4o.md) conforme a las facultades que le otorga esta Ley. Fracción reformada DOF 16-07-2025

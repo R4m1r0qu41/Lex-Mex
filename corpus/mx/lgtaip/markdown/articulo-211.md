@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 211
 
-Cuando se trate de personas presuntas infractoras que no cuenten con la calidad de personas servidoras públicas, las Autoridades garantes serán las autoridades facultadas para conocer y desahogar el procedimiento sancionatorio conforme a esta Ley, y llevar a cabo las acciones conducentes para la imposición y ejecución de las sanciones.
+Cuando se trate de personas presuntas infractoras que no cuenten con la calidad de personas servidoras públicas, las [Autoridades garantes](articulo-3.md) serán las autoridades facultadas para conocer y desahogar el procedimiento sancionatorio conforme a esta [Ley](articulo-3.md), y llevar a cabo las acciones conducentes para la imposición y ejecución de las sanciones.

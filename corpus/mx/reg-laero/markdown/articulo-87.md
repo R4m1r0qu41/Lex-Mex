@@ -15,7 +15,7 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 # Artículo 87
 
-La Secretaría estará facultada para imponer en la operación y explotación de los aeródromos civiles, así como en la prestación de los servicios aeroportuarios y complementarios, y sólo por el tiempo y en la proporción que resulten estrictamente necesarios, las modalidades siguientes:
+La [Secretaría](articulo-2.md) estará facultada para imponer en la operación y explotación de los aeródromos civiles, así como en la prestación de los servicios aeroportuarios y complementarios, y sólo por el tiempo y en la proporción que resulten estrictamente necesarios, las modalidades siguientes:
 
 I. La atención de la operación de aeronaves destinadas a efectuar el traslado de personas y bienes, así como la utilización de las instalaciones y el personal del aeródromo para actividades de salvamento o auxilio;
 

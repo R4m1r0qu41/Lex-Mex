@@ -17,4 +17,4 @@ source_sha256: d23aedc9ffdb09b9202311f03023241da20445cb45aea855b37bfd9685768861
 
 # Artículo 147
 
-En el apartado de referencias deben listarse los Estándares, leyes, reglamentos, Normas Oficiales Mexicanas, Normas Internacionales, Normas Extranjeras u otros documentos de carácter técnico, cuando resulten necesarios para la aplicación y entendimiento.
+En el apartado de referencias deben listarse los Estándares, leyes, reglamentos, Normas Oficiales Mexicanas, Normas Internacionales, [Normas Extranjeras](articulo-2.md) u otros documentos de carácter técnico, cuando resulten necesarios para la aplicación y entendimiento.

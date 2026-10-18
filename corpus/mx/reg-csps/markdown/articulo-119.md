@@ -17,4 +17,4 @@ source_sha256: 70464807d63da08244e495f2ff0ac30b12b30119926b84cedc7930397fcb80ef
 
 # Artículo 119
 
-El aceite de origen animal sólo podrá extraerse de las especies que determine la Secretaría. Las especificaciones sanitarias se establecerán en las normas correspondientes.
+El aceite de origen animal sólo podrá extraerse de las especies que determine la [Secretaría](articulo-2o.md). Las especificaciones sanitarias se establecerán en las normas correspondientes.

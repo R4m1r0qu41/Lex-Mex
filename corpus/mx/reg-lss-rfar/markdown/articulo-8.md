@@ -17,7 +17,7 @@ source_sha256: 4b4529ce2b1275ea9363ab78b6e2d504cd1106bc3d10fd70f09246c38b0cd31e
 
 # Artículo 8
 
-El Consejo Técnico, a propuesta de la Comisión de Inversiones Financieras, y atendiendo lo dispuesto en los artículos [5](articulo-5.md) y [6](articulo-6.md) del presente Reglamento, así como a los límites y plazos señalados en el [artículo anterior](articulo-7.md), deberá emitir las políticas y directrices para la inversión de cada una de las Reservas y la Reserva General, mismas que deberán:
+El [Consejo Técnico](articulo-2.md), a propuesta de la Comisión de Inversiones Financieras, y atendiendo lo dispuesto en los artículos [5](articulo-5.md) y [6](articulo-6.md) del presente Reglamento, así como a los límites y plazos señalados en el [artículo anterior](articulo-7.md), deberá emitir las políticas y directrices para la inversión de cada una de las [Reservas](articulo-2.md) y la [Reserva General](articulo-2.md), mismas que deberán:
 
 I. Estar sustentadas en criterios de seguridad que busquen un adecuado balance entre el rendimiento, el riesgo y la liquidez de las inversiones;
 

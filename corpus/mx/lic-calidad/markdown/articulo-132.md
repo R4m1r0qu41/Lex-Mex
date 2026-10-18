@@ -17,4 +17,4 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 132
 
-La Secretaría podrá coordinarse, a través de convenios de colaboración u otros medios previstos en el Reglamento, con otras Autoridades Normalizadoras, el Centro Nacional de Metrología, los Institutos Designados de Metrología y demás participantes del Sistema Nacional de Infraestructura de la Calidad, para interoperar entre los sistemas de éstos y la Plataforma Tecnológica Integral de Infraestructura de la Calidad, buscando hacer más eficiente su funcionamiento.
+La [Secretaría](articulo-4.md) podrá coordinarse, a través de convenios de colaboración u otros medios previstos en el Reglamento, con otras [Autoridades Normalizadoras](articulo-4.md), el Centro Nacional de Metrología, los Institutos Designados de Metrología y demás participantes del [Sistema Nacional de Infraestructura de la Calidad](articulo-4.md), para interoperar entre los sistemas de éstos y la [Plataforma Tecnológica Integral de Infraestructura de la Calidad](articulo-4.md), buscando hacer más eficiente su funcionamiento.

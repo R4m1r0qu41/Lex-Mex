@@ -17,7 +17,7 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 12
 
-El Consejo sesionará de manera ordinaria cada seis meses o, de manera extraordinaria, cuando medie convocatoria de su Presidente.
+El [Consejo](articulo-3o.md) sesionará de manera ordinaria cada seis meses o, de manera extraordinaria, cuando medie convocatoria de su Presidente.
 
 El Consejo sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros.
 

@@ -17,6 +17,6 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 125
 
-La Dirección y Rectoría verificará que los documentos presentados por las personas aspirantes nacionales a ingresar al Sistema, que hayan realizado estudios en el extranjero, se encuentren autentificados y revalidados. Este requisito será indispensable para su participación.
+La Dirección y Rectoría verificará que los documentos presentados por las personas aspirantes nacionales a ingresar al [Sistema](articulo-3.md), que hayan realizado estudios en el extranjero, se encuentren autentificados y revalidados. Este requisito será indispensable para su participación.
 
 Artículo reformado DOF 20-03-2026

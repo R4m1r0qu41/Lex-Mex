@@ -17,9 +17,9 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 94
 
-La Comisión Nacional estará facultada para imponer las siguientes sanciones: Párrafo reformado DOF 05-01-2000
+La [Comisión Nacional](articulo-2o.md) estará facultada para imponer las siguientes sanciones: Párrafo reformado DOF 05-01-2000
 
-I. Multa de 200 a 1000 días de salario, a la Institución Financiera que no proporcione la información que le solicite la Comisión Nacional, conforme al artículo [47](articulo-47.md) de esta Ley; Fracción reformada DOF 05-01-2000
+I. Multa de 200 a 1000 días de salario, a la [Institución Financiera](articulo-2o.md) que no proporcione la información que le solicite la Comisión Nacional, conforme al artículo [47](articulo-47.md) de esta Ley; Fracción reformada DOF 05-01-2000
 
 II. Multa de 200 a 1000 días de salario, a la Institución Financiera que no proporcione la información o la documentación que le solicite la Comisión Nacional, para el cumplimiento de su objeto, de acuerdo con los artículos [12](articulo-12.md), [49](articulo-49.md), [53](articulo-53.md), [58](articulo-58.md) y [92 Bis 1](articulo-92-Bis-1.md) de esta Ley; Fracción reformada DOF 05-01-2000, 25-06-2009, 10-01-2014
 
@@ -31,7 +31,7 @@ b) El informe a que se refieren las fracciones II, III, IV y V del artículo [68
 
 c) La información adicional a que se refiere la fracción VI del artículo [68](articulo-68.md). Fracción reformada DOF 05-01-2000, 12-05-2005
 
-IV. Multa hasta por el importe de lo reclamado por el Usuario, a la Institución Financiera que no comparezca a la audiencia de conciliación a que se refiere el artículo [68](articulo-68.md) de esta Ley, siempre que dicho importe sea menor a diez mil unidades de inversión; y para el caso de que el importe reclamado por el Usuario sea igual o superior al monto antes señalado, la sanción máxima será de diez mil unidades de inversión. Fracción reformada DOF 05-01-2000, 15-06-2007, 25-06-2009
+IV. Multa hasta por el importe de lo reclamado por el [Usuario](articulo-2o.md), a la Institución Financiera que no comparezca a la audiencia de conciliación a que se refiere el artículo [68](articulo-68.md) de esta Ley, siempre que dicho importe sea menor a diez mil unidades de inversión; y para el caso de que el importe reclamado por el Usuario sea igual o superior al monto antes señalado, la sanción máxima será de diez mil unidades de inversión. Fracción reformada DOF 05-01-2000, 15-06-2007, 25-06-2009
 
 IV Bis. Multa de 300 a 1500 días de salario, a la Institución Financiera que no comparezca a la audiencia de conciliación a que se refiere el artículo [68](articulo-68.md) de esta Ley cuando la reclamación presentada por el Usuario no refiera importe alguno. Fracción adicionada DOF 25-06-2009
 

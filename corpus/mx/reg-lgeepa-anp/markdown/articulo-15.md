@@ -17,4 +17,4 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 15
 
-De cada sesión del Consejo, el Secretario Técnico levantará una minuta en la que se harán constar los acuerdos tomados.
+De cada sesión del [Consejo](articulo-3o.md), el Secretario Técnico levantará una minuta en la que se harán constar los acuerdos tomados.

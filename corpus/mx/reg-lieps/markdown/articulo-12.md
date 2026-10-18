@@ -17,7 +17,7 @@ source_sha256: cb15a70b51a87cff0f6d329d5e8a97617d71c955e46da65921037a77a83ca5f4
 
 # Artículo 12
 
-Para los efectos del artículo [19](../../lieps/markdown/articulo-19.md), fracción I de la Ley, los contribuyentes además de llevar la contabilidad de conformidad con el Código Fiscal de la Federación y su Reglamento, registrarán:
+Para los efectos del artículo [19](../../lieps/markdown/articulo-19.md), fracción I de la [Ley](articulo-1.md), los contribuyentes además de llevar la contabilidad de conformidad con el Código Fiscal de la Federación y su Reglamento, registrarán:
 
 I. El valor de los actos o actividades por los que deban pagar el impuesto, conforme a las tasas o cuota que les correspondan, y
 

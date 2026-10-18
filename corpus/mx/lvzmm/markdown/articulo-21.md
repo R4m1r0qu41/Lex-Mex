@@ -17,4 +17,4 @@ source_sha256: d9ffbbf8f19b54a93ff577abb1266e4be1316d935e79fad655242955fd80ff70
 
 # Artículo 21
 
-La Secretaría resolverá la solicitud de vertimiento en un plazo que no podrá exceder de sesenta días hábiles, dentro del cual quedan comprendidas las prevenciones y su desahogo en los términos de la presente Ley. Reforma DOF 13-04-2020: Derogó del artículo el entonces párrafo segundo
+La [Secretaría](articulo-2.md) resolverá la solicitud de vertimiento en un plazo que no podrá exceder de sesenta días hábiles, dentro del cual quedan comprendidas las prevenciones y su desahogo en los términos de la presente [Ley](articulo-2.md). Reforma DOF 13-04-2020: Derogó del artículo el entonces párrafo segundo

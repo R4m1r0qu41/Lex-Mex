@@ -17,6 +17,6 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 137
 
-El Premio Nacional de Calidad otorgado por la Secretaría tiene por objeto reconocer y premiar anualmente el esfuerzo y logros de los fabricantes, productores, comercializadores y responsables de bienes, productos, procesos y servicios, para mejorarlos constantemente, procurando la calidad, así como el cumplimiento con las Normas Oficiales Mexicanas y los Estándares obligatorios.
+El Premio Nacional de Calidad otorgado por la [Secretaría](articulo-4.md) tiene por objeto reconocer y premiar anualmente el esfuerzo y logros de los fabricantes, productores, comercializadores y responsables de bienes, productos, procesos y servicios, para mejorarlos constantemente, procurando la calidad, así como el cumplimiento con las [Normas Oficiales Mexicanas](articulo-4.md) y los [Estándares](articulo-4.md) obligatorios.
 
 El procedimiento para la selección de los acreedores al Premio Nacional de Calidad, la forma de usarlo y las demás prevenciones que sean necesarias, las establecerá el Reglamento de esta Ley.

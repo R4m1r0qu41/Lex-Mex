@@ -17,7 +17,7 @@ source_sha256: 43723ba379e128c1a1c1be4b085ecc870946cdec43d56f83e7314c077361368f
 
 # Artículo 18
 
-El aspirante que haya aprobado el examen definitivo, solicitará, dentro de los cinco días siguientes, la expedición de la habilitación al titular de la Secretaría. La habilitación deberá contener el nombre del corredor, el número de correduría que se le asigne, la plaza en que ejercerá sus funciones, fotografía reciente y la fecha de expedición.
+El aspirante que haya aprobado el examen definitivo, solicitará, dentro de los cinco días siguientes, la expedición de la habilitación al titular de la [Secretaría](articulo-2o.md). La habilitación deberá contener el nombre del corredor, el número de correduría que se le asigne, la plaza en que ejercerá sus funciones, fotografía reciente y la fecha de expedición.
 
 La Secretaría expedirá los títulos de habilitación a que se refiere este artículo, dentro de los treinta días siguientes a la fecha de presentación de la solicitud; así como también, expedirá y renovará las credenciales con las cuales se identifiquen los corredores públicos, mismas que tendrán efecto de constancias de la existencia y registro de las citadas habilitaciones.
 

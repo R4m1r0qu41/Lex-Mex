@@ -21,6 +21,6 @@ La calificación final quedará representada por la suma aritmética de cada uno
 
 CONCEPTOS DEL CONCURSO DE SELECCIÓN A. Exámenes  Académico  Capacidad física  Médico  Práctico B. Mérito C. Aptitud y competencia profesional
 
-Los conceptos, rubros y sus valores se establecen en el Manual y se comunicarán al personal convocado.
+Los conceptos, rubros y sus valores se establecen en el [Manual](articulo-5.md) y se comunicarán al personal convocado.
 
 Artículo reformado DOF 22-09-2010, 11-03-2016, 02-04-2026

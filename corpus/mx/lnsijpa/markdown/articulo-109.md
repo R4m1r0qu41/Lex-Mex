@@ -19,12 +19,12 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 Plazos especiales de prescripción Atendiendo a las reglas de prescripción establecidas en las legislaciones penales aplicables y teniendo en cuenta la edad de la persona adolescente al momento de la comisión de la conducta, la prescripción de la acción penal se ajustará a lo siguiente:
 
-I. Para las personas adolescentes del Grupo etario I, la prescripción de la acción penal, en ningún caso, podrá exceder de un año;
+I. Para las personas adolescentes del [Grupo etario I](articulo-3.md), la prescripción de la acción penal, en ningún caso, podrá exceder de un año;
 
-II. Para las personas adolescentes del Grupo etario II, la prescripción de la acción penal, en ningún caso, podrá exceder de tres años;
+II. Para las personas adolescentes del [Grupo etario II](articulo-3.md), la prescripción de la acción penal, en ningún caso, podrá exceder de tres años;
 
-III. Para adolescentes del Grupo etario III, la prescripción de la acción penal, en ningún caso, podrá exceder de cinco años.
+III. Para adolescentes del [Grupo etario III](articulo-3.md), la prescripción de la acción penal, en ningún caso, podrá exceder de cinco años.
 
-Lo previsto en las fracciones anteriores aplicará para las conductas cometidas por las personas adolescentes de conformidad con la presente Ley. En los demás casos, la prescripción será de un año.
+Lo previsto en las fracciones anteriores aplicará para las conductas cometidas por las personas adolescentes de conformidad con la presente [Ley](articulo-3.md). En los demás casos, la prescripción será de un año.
 
 Tratándose de delitos sexuales o de trata de personas cometidos por adolescentes en contra de niñas, niños y adolescentes, el plazo de prescripción empezará a correr cuando la víctima cumpla dieciocho años.

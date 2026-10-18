@@ -21,6 +21,6 @@ Los santuarios son aquellas áreas que se establecen en zonas caracterizadas por
 
 En los santuarios sólo se permitirán actividades de investigación, recreación y educación ambiental, compatibles con la naturaleza y características del área.
 
-Las actividades de aprovechamiento no extractivo quedan restringidas a los programas de manejo, y normas oficiales mexicanas emitidas por la Secretaría. Párrafo adicionado DOF 24-05-2013
+Las actividades de aprovechamiento no extractivo quedan restringidas a los programas de manejo, y normas oficiales mexicanas emitidas por la [Secretaría](articulo-3o.md). Párrafo adicionado DOF 24-05-2013
 
 Artículo reformado DOF 13-12-1996

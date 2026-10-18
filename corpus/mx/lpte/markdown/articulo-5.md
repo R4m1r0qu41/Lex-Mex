@@ -17,4 +17,4 @@ source_sha256: c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41
 
 # Artículo 5
 
-En lo no previsto por la presente Ley, se deben aplicar de manera supletoria las disposiciones contenidas en la Ley del Sector Eléctrico, la Ley del Sector Hidrocarburos, la Ley de Biocombustibles, la Ley de Geotermia y la Ley Federal del Procedimiento Administrativo.
+En lo no previsto por la presente [Ley](articulo-3.md), se deben aplicar de manera supletoria las disposiciones contenidas en la Ley del Sector Eléctrico, la Ley del Sector Hidrocarburos, la Ley de Biocombustibles, la Ley de Geotermia y la Ley Federal del Procedimiento Administrativo.

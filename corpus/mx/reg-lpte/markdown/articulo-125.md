@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 125
 
-Una vez recibidos los alegatos o transcurrido el término para presentarlos, la Secretaría, la CNE o la CONUEE, en el ámbito de sus competencias, dentro de los siguientes quince días hábiles, deben emitir la resolución que en derecho corresponda, la cual debe ser notificada personalmente o por los medios electrónicos autorizados por las Partes Sujetas de Obligación.
+Una vez recibidos los alegatos o transcurrido el término para presentarlos, la [Secretaría](articulo-5.md), la CNE o la CONUEE, en el ámbito de sus competencias, dentro de los siguientes quince días hábiles, deben emitir la resolución que en derecho corresponda, la cual debe ser notificada personalmente o por los medios electrónicos autorizados por las Partes Sujetas de Obligación.

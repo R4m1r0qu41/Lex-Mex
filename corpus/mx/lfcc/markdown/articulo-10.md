@@ -17,4 +17,4 @@ source_sha256: 0305c9a7ba90c8d0bbe973be2a134a650976ce5d25c304458cb0fd5401b8ddde
 
 # Artículo 10
 
-La Secretaría, por conducto de la Comisión, en coordinación con las dependencias y entidades de la Administración Pública Federal, tomando en cuenta la opinión de los sectores privado y académico, definirá las actividades, esquemas y programas mediante los cuales se otorgarán los beneficios y facilidades administrativas a los que podrán tener acceso las personas beneficiarias que se registren en el Padrón.
+La [Secretaría](articulo-3.md), por conducto de la [Comisión](articulo-3.md), en coordinación con las dependencias y entidades de la Administración Pública Federal, tomando en cuenta la opinión de los sectores privado y académico, definirá las actividades, esquemas y programas mediante los cuales se otorgarán los beneficios y facilidades administrativas a los que podrán tener acceso las personas beneficiarias que se registren en el [Padrón](articulo-3.md).

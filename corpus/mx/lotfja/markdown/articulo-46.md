@@ -17,4 +17,4 @@ source_sha256: b32c33fa4ed071dc8bea1ad69ce8510cdb05016967e9e4fcb60f10c6f2216628
 
 # Artículo 46
 
-Son causas de retiro forzoso de los Magistrados del Tribunal, padecer incapacidad física o mental para desempeñar el cargo, así como cumplir setenta y cinco años de edad.
+Son causas de retiro forzoso de los Magistrados del [Tribunal](articulo-2.md), padecer incapacidad física o mental para desempeñar el cargo, así como cumplir setenta y cinco años de edad.

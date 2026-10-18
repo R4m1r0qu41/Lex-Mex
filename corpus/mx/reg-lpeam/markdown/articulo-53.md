@@ -17,4 +17,4 @@ source_sha256: 4195c0740ad46978a8b0f2d43f0ac6d77e46b0216bd6f756950b1a050044ce98
 
 # Artículo 53
 
-El procedimiento de Identificación de aeronaves es la búsqueda de información entre el Centro y los integrantes del Sistema para determinar la identidad de una traza de interés de la cual se desconocen sus intenciones. La Identificación se debe realizar mediante: I. La correlación de planes de vuelo; II. La comunicación; III. La utilización de medios visuales o electrónicos, y IV. El comportamiento operacional de la Tripulación de Vuelo de la aeronave.
+El procedimiento de Identificación de aeronaves es la búsqueda de información entre el Centro y los integrantes del Sistema para determinar la identidad de una traza de interés de la cual se desconocen sus intenciones. La Identificación se debe realizar mediante: I. La correlación de planes de vuelo; II. La comunicación; III. La utilización de medios visuales o electrónicos, y IV. El comportamiento operacional de la [Tripulación de Vuelo](articulo-4.md) de la aeronave.

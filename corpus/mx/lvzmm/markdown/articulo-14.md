@@ -17,7 +17,7 @@ source_sha256: d9ffbbf8f19b54a93ff577abb1266e4be1316d935e79fad655242955fd80ff70
 
 # Artículo 14
 
-La Secretaría, al evaluar la solicitud de vertimiento de desechos u otras materias en el mar, tomará en consideración los siguientes factores:
+La [Secretaría](articulo-2.md), al evaluar la solicitud de vertimiento de desechos u otras materias en el mar, tomará en consideración los siguientes factores:
 
 I. Origen, cantidad total, forma y composición media;
 

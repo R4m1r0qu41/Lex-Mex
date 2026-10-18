@@ -15,4 +15,4 @@ source_sha256: 0a9852297132d8972d0c2f77e1b67d614bd296632109065e703bd09254187aea
 
 # Artículo 35
 
-La Secretaría implementará las medidas de seguridad para el funcionamiento del Sistema de Consulta debiendo tratar los datos personales conforme a la legislación de la materia.
+La [Secretaría](articulo-2.md) implementará las medidas de seguridad para el funcionamiento del [Sistema de Consulta](articulo-2.md) debiendo tratar los datos personales conforme a la legislación de la materia.

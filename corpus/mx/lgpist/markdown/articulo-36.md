@@ -17,6 +17,6 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 # Artículo 36
 
-En la realización de cualquier dictamen médico-psicológico, se deberán observar las directrices señaladas en esta Ley y en el Protocolo de Estambul; así como el cumplimiento de los más altos estándares internacionales de la materia.
+En la realización de cualquier dictamen médico-psicológico, se deberán observar las directrices señaladas en esta [Ley](articulo-5.md) y en el [Protocolo de Estambul](articulo-5.md); así como el cumplimiento de los más altos estándares internacionales de la materia.
 
-Las Víctimas tendrán derecho a ser examinadas por médicos especializados y/o psicólogos de su elección.
+Las [Víctimas](articulo-5.md) tendrán derecho a ser examinadas por médicos especializados y/o psicólogos de su elección.

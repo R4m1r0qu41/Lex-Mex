@@ -17,4 +17,4 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 3
 
-La aplicación de la presente Ley corresponde a las autoridades de los tres órdenes de gobierno, en el ámbito de sus respectivas competencias, y se interpretará de conformidad con los principios de promoción, respeto, protección y garantía de los derechos humanos establecidos en la Constitución Política de los Estados Unidos Mexicanos y en los Tratados Internacionales de los que el Estado mexicano sea parte, favoreciendo en todo tiempo el principio pro persona.
+La aplicación de la presente Ley corresponde a las autoridades de los tres órdenes de gobierno, en el ámbito de sus respectivas competencias, y se interpretará de conformidad con los principios de promoción, respeto, protección y garantía de los derechos humanos establecidos en la Constitución Política de los Estados Unidos Mexicanos y en los [Tratados](articulo-4.md) Internacionales de los que el Estado mexicano sea parte, favoreciendo en todo tiempo el principio pro persona.

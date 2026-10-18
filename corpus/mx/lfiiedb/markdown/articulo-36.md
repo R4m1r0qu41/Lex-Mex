@@ -17,4 +17,4 @@ source_sha256: 7679afbbf32749e0c0bacab72644d41fc6ccdeeab3a2f25dfae8d26a065de01e
 
 # Artículo 36
 
-Los contratos deberán prever la supervisión técnica, financiera y operativa del proyecto, pudiendo designarse supervisores, auditores, verificadores o cualquier otro mecanismo que garantice el cumplimiento de las obligaciones. El Interesado deberá asegurar que el proyecto se desarrolle en las mejores condiciones económicas, técnicas, financieras y operativas.
+Los contratos deberán prever la supervisión técnica, financiera y operativa del proyecto, pudiendo designarse supervisores, auditores, verificadores o cualquier otro mecanismo que garantice el cumplimiento de las obligaciones. El [Interesado](articulo-4.md) deberá asegurar que el proyecto se desarrolle en las mejores condiciones económicas, técnicas, financieras y operativas.

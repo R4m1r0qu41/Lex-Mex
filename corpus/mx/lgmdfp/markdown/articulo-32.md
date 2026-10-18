@@ -19,7 +19,7 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 Las sanciones para el delito de desaparición forzada de personas previstas en esta Ley, pueden ser aumentadas hasta en una mitad cuando:
 
-I. Durante o después de la desaparición, la Persona Desaparecida muera debido a cualquier alteración de su salud que sea consecuencia de dicha desaparición, o por enfermedad previa que no hubiere sido atendida en forma adecuada por los autores o partícipes del delito;
+I. Durante o después de la desaparición, la [Persona Desaparecida](articulo-4.md) muera debido a cualquier alteración de su salud que sea consecuencia de dicha desaparición, o por enfermedad previa que no hubiere sido atendida en forma adecuada por los autores o partícipes del delito;
 
 II. La Persona Desaparecida sea niña, niño o adolescente, mujer, mujer embarazada, persona con discapacidad o persona mayor; III. La condición de persona migrante o afrodescendiente, la pertenencia a un pueblo o comunidad indígena o cualquier otro equiparable, sea la motivación para cometer el delito;
 
@@ -29,7 +29,7 @@ V. La persona haya sido desaparecida por su actividad como defensora de derechos
 
 VI. La persona haya sido desaparecida en razón de su labor como periodista;
 
-VII. La Persona Desaparecida sea integrante de las Instituciones de Seguridad Pública;
+VII. La Persona Desaparecida sea integrante de las [Instituciones de Seguridad Pública](articulo-4.md);
 
 VIII. El o los autores tengan vínculos de parentesco, amistad, relación laboral o de confianza con la víctima, o
 

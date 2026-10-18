@@ -17,15 +17,15 @@ source_sha256: c1870db657a6564bbeb692a1778472db811a920626822de553ff5ca5194f95b4
 
 # Artículo 6
 
-Para los efectos de la presente Ley, la SEMARNAT, tiene las siguientes facultades:
+Para los efectos de la presente [Ley](articulo-2.md), la [SEMARNAT](articulo-2.md), tiene las siguientes facultades:
 
-I. Formular, conducir y coordinar la política nacional en materia de aprovechamiento y valorización de los residuos orgánicos y el tratamiento de aguas residuales para su uso directo como Biocombustibles o para su Producción;
+I. Formular, conducir y coordinar la política nacional en materia de aprovechamiento y valorización de los residuos orgánicos y el tratamiento de aguas residuales para su uso directo como [Biocombustibles](articulo-2.md) o para su [Producción](articulo-2.md);
 
 II. Promover el aprovechamiento y valorización de los residuos orgánicos y el tratamiento de aguas residuales para su uso directo como Biocombustibles o para su Producción;
 
 III. Elaborar programas que promuevan el aprovechamiento y valorización de los residuos orgánicos y el tratamiento de aguas residuales para su uso directo como Biocombustibles o para su Producción;
 
-IV. Prevenir, evaluar y controlar la contaminación de la atmósfera, el agua y el suelo por la producción de Biomasa, el aprovechamiento y valorización de residuos, el uso directo de Biomasa como Biocombustibles, así como la Producción, Almacenamiento, Transporte, Comercialización, Distribución y el Expendio al Público de los Biocombustibles;
+IV. Prevenir, evaluar y controlar la contaminación de la atmósfera, el agua y el suelo por la producción de [Biomasa](articulo-2.md), el aprovechamiento y valorización de residuos, el uso directo de Biomasa como Biocombustibles, así como la Producción, [Almacenamiento](articulo-2.md), [Transporte](articulo-2.md), [Comercialización](articulo-2.md), [Distribución](articulo-2.md) y el [Expendio al Público](articulo-2.md) de los Biocombustibles;
 
 V. Regular y supervisar la seguridad industrial y operativa, el desmantelamiento y abandono de instalaciones, y el control integral de residuos y emisiones a la atmósfera del aprovechamiento energético de residuos orgánicos, el uso directo de Biomasa como Biocombustibles, así como la Producción, Almacenamiento, Transporte, Comercialización, Distribución y Expendio al Público de los Biocombustibles;
 
@@ -43,6 +43,6 @@ XI. Emitir dictámenes en materia ambiental, seguridad industrial y operativa qu
 
 XII. Vigilar que no se realice el cambio de uso de suelo de forestal a agrícola con el fin de establecer cultivos para la producción de Biomasa para Biocombustibles;
 
-XIII. Coadyuvar con la SENER en la integración y actualización de la información que forme parte del Subsistema en materia de Biocombustibles, el aprovechamiento y valorización de residuos orgánicos y el tratamiento de aguas residuales para su uso como Biocombustibles o para su Producción, y
+XIII. Coadyuvar con la [SENER](articulo-2.md) en la integración y actualización de la información que forme parte del [Subsistema](articulo-2.md) en materia de Biocombustibles, el aprovechamiento y valorización de residuos orgánicos y el tratamiento de aguas residuales para su uso como Biocombustibles o para su Producción, y
 
 XIV. Coordinar con la SENER la elaboración de programas para la Producción de Biocombustibles a partir del aprovechamiento y valorización de residuos orgánicos, cultivos de organismos y el tratamiento de aguas residuales.

@@ -19,7 +19,7 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 Para la resolución de la solicitud de expedición de certificado de sanidad acuícola para especies de flora y fauna acuáticas de importación se llevará en los términos siguientes:
 
-I. Para el caso de que la solicitud se presente ante la Secretaría, ésta resolverá en un plazo de 15 días hábiles, bajo el procedimiento siguiente:
+I. Para el caso de que la solicitud se presente ante la [Secretaría](articulo-2o.md), ésta resolverá en un plazo de 15 días hábiles, bajo el procedimiento siguiente:
 
 a) La Secretaría integrará el expediente en un plazo de 5 días hábiles, dentro del cual requerirá al interesado la información o documentación faltante. De no requerir al interesado subsane las deficiencias que existieren, se considerará integrado el expediente y
 

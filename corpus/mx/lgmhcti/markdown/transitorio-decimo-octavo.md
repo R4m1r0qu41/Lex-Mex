@@ -15,4 +15,4 @@ source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 
 # Décimo Octavo
 
-En un plazo no mayor a ciento ochenta días, las instancias competentes deberán adecuar el Programa Especial de Ciencia, Tecnología e Innovación a lo dispuesto en la presente Ley. A partir de dicha adecuación, se deberán expedir los instrumentos de planeación que correspondan, dentro de un plazo de ciento ochenta días.
+En un plazo no mayor a ciento ochenta días, las instancias competentes deberán adecuar el [Programa Especial](articulo-4.md) de Ciencia, Tecnología e Innovación a lo dispuesto en la presente [Ley](articulo-4.md). A partir de dicha adecuación, se deberán expedir los instrumentos de planeación que correspondan, dentro de un plazo de ciento ochenta días.

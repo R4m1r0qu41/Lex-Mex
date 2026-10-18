@@ -17,6 +17,6 @@ source_sha256: 4933abadd27d345e7a5c1754af10ed429fd148b709b4a78d4f42447b5fcd546d
 
 # Artículo 19
 
-El Consejo contará con un secretario técnico, que será designado por la persona titular de la Secretaría quien deberá tener nivel mínimo de titular de Unidad. El secretario técnico será quien dará seguimiento a los acuerdos que emanen de dicha instancia; informará semestralmente al Congreso de la Unión sobre la evolución de los Programas y los resultados alcanzados, y se coordinará con los Consejos Estatales en lo conducente.
+El [Consejo](articulo-3.md) contará con un secretario técnico, que será designado por la persona titular de la [Secretaría](articulo-3.md) quien deberá tener nivel mínimo de titular de Unidad. El secretario técnico será quien dará seguimiento a los acuerdos que emanen de dicha instancia; informará semestralmente al Congreso de la Unión sobre la evolución de los [Programas](articulo-3.md) y los resultados alcanzados, y se coordinará con los [Consejos Estatales](articulo-3.md) en lo conducente.
 
 Artículo reformado DOF 01-12-2016, 13-08-2019

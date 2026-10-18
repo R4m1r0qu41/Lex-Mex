@@ -17,4 +17,4 @@ source_sha256: 70464807d63da08244e495f2ff0ac30b12b30119926b84cedc7930397fcb80ef
 
 # Artículo 227
 
-Los plazos se suspenderán cuando la Secretaría requiera al solicitante, de manera expresa y por escrito, documentos, aclaraciones o información faltante, y se reanudarán al día siguiente de que el particular desahogue el requerimiento. En caso de no desahogarse el requerimiento en el término que al efecto se conceda, la solicitud se tendrá como no presentada.
+Los plazos se suspenderán cuando la [Secretaría](articulo-2o.md) requiera al solicitante, de manera expresa y por escrito, documentos, aclaraciones o información faltante, y se reanudarán al día siguiente de que el particular desahogue el requerimiento. En caso de no desahogarse el requerimiento en el término que al efecto se conceda, la solicitud se tendrá como no presentada.

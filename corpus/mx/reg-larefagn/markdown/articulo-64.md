@@ -17,6 +17,6 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 64
 
-Las personas interesadas que se encuentran en los supuestos del artículo [63](articulo-63.md) del presente Reglamento, podrán solicitar su encuadramiento para cumplir los requisitos exigidos por la Ley, a fin de que se les permita participar en la Promoción que les corresponda.
+Las personas interesadas que se encuentran en los supuestos del artículo [63](articulo-63.md) del presente Reglamento, podrán solicitar su encuadramiento para cumplir los requisitos exigidos por la Ley, a fin de que se les permita participar en la [Promoción](articulo-5.md) que les corresponda.
 
 Artículo reformado DOF 20-03-2026

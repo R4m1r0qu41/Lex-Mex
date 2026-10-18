@@ -17,7 +17,7 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 93
 
-Con el propósito de estimular la diversificación y tecnificación de cultivos, la Secretaría promoverá la acuacultura de fomento y podrá permitirla a instituciones de investigación científica y docencia, así como a personas físicas dedicadas a actividades científicas y técnicas.
+Con el propósito de estimular la diversificación y tecnificación de cultivos, la [Secretaría](articulo-4o.md) promoverá la acuacultura de fomento y podrá permitirla a instituciones de investigación científica y docencia, así como a personas físicas dedicadas a actividades científicas y técnicas.
 
 La Secretaría podrá otorgar permiso de acuacultura de fomento a personas morales cuya actividad u objeto social sea la pesca o el cultivo, comercialización o transformación de productos acuícolas, debiendo cumplir con los mismos requisitos que se establecen para las instituciones de investigación.
 

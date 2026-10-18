@@ -19,11 +19,11 @@ Las personas proveedoras de servicios serán acreedoras a las sanciones siguient
 
 II. No cumplir dentro del plazo de cuarenta y ocho meses, contados a partir de la aprobación de la fase I del Sistema de Gestión de la Seguridad Operacional, con la implementación total de las fases de dicho Sistema, en términos de las disposiciones jurídicas aplicables, multa de un mil a tres mil Unidades de Medida y Actualización;
 
-III. No cumplir, en caso de prórroga, con la implementación de todas las fases del Sistema de Gestión de la Seguridad Operacional en el plazo otorgado por la Agencia Federal de Aviación Civil, multa de dos mil a cinco mil Unidades de Medida y Actualización;
+III. No cumplir, en caso de prórroga, con la implementación de todas las fases del Sistema de Gestión de la Seguridad Operacional en el plazo otorgado por la [Agencia Federal de Aviación Civil](articulo-2.md), multa de dos mil a cinco mil Unidades de Medida y Actualización;
 
 IV. No contar con la autorización de la gestión de los riesgos asociados a la fatiga en su fase I, de conformidad con la norma oficial mexicana y las disposiciones técnico-administrativas correspondientes, multa de un mil a tres mil Unidades de Medida y Actualización;
 
-V. No cumplir dentro del plazo de cuarenta y ocho meses, contados a partir de la aprobación de la fase I del Sistema de Gestión de los Riesgos Asociados a la Fatiga, con la implementación total de las fases de dicho Sistema, en términos de las disposiciones jurídicas aplicables, multa de un mil a cuatro mil Unidades de Medida y Actualización, y
+V. No cumplir dentro del plazo de cuarenta y ocho meses, contados a partir de la aprobación de la fase I del [Sistema de Gestión de los Riesgos Asociados a la Fatiga](articulo-2.md), con la implementación total de las fases de dicho Sistema, en términos de las disposiciones jurídicas aplicables, multa de un mil a cuatro mil Unidades de Medida y Actualización, y
 
 VI. No cumplir, en caso de prórroga, con la implementación de todas las fases del Sistema de Gestión de los Riesgos Asociados a la Fatiga en el plazo otorgado por la Agencia Federal de Aviación Civil, multa de dos mil a cinco mil Unidades de Medida y Actualización.
 

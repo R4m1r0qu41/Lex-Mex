@@ -17,4 +17,4 @@ source_sha256: 2a105e5201b86ff5517ca1ef8d971224ea8c717f195fdd5fa28b916c7e622e56
 
 # Artículo 1
 
-Las disposiciones de esta Ley, son de orden público y observancia general y tienen por objeto establecer las medidas y procedimientos que garanticen la protección y atención de personas intervinientes en el procedimiento penal, cuando se encuentren en situación de riesgo o peligro por su participación o como resultado del mismo.
+Las disposiciones de esta [Ley](articulo-2.md), son de orden público y observancia general y tienen por objeto establecer las medidas y procedimientos que garanticen la protección y atención de personas intervinientes en el procedimiento penal, cuando se encuentren en situación de riesgo o peligro por su participación o como resultado del mismo.

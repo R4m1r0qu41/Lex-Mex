@@ -21,7 +21,7 @@ La imposición de las sanciones de clausura temporal o definitiva, parcial o tot
 
 I. Se cause daño a las especies acuícolas y pesqueras o a los ecosistemas en que dichas especies se encuentran;
 
-II. El infractor no hubiere cumplido en los plazos y condiciones impuestas por la Secretaría, con las medidas de seguridad o de urgente aplicación establecidas en la presente Ley, su reglamento o normas oficiales, y
+II. El infractor no hubiere cumplido en los plazos y condiciones impuestas por la [Secretaría](articulo-4o.md), con las medidas de seguridad o de urgente aplicación establecidas en la presente Ley, su reglamento o normas oficiales, y
 
 III. Se generen riesgos de contaminación de recursos, partes y derivados de origen pesquero y acuícola para consumo humano, o se contaminen, por acción o por omisión, y puedan poner en riesgo o afectar la salud de las personas, siempre y cuando dichos incidentes sean comprobados mediante las pruebas de laboratorio y demás procedimientos previstos en las normas aplicables.
 

@@ -19,4 +19,4 @@ source_sha256: 0125eed7519ad260330f9a04f78c0e4a1ce93c06e67c98ac3c535416787656ba
 
 Los avisos se presentarán por los medios y en los plazos que se establezcan en el Reglamento de esta Ley, considerando las tecnologías y métodos más modernos y de fácil utilización.
 
-En caso de que el aviso contenga datos equívocos o incongruentes con los asientos que obren en el Registro, el Secretariado Ejecutivo prevendrá a quien haya presentado el aviso para que realice las aclaraciones respectivas, de conformidad con el Reglamento de esta Ley.
+En caso de que el aviso contenga datos equívocos o incongruentes con los asientos que obren en el [Registro](articulo-2.md), el [Secretariado Ejecutivo](articulo-2.md) prevendrá a quien haya presentado el aviso para que realice las aclaraciones respectivas, de conformidad con el Reglamento de esta Ley.

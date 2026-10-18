@@ -17,11 +17,11 @@ source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 
 # Artículo 4
 
-Para los efectos de esta Ley, se entiende por:
+Para los efectos de esta [Ley](articulo-4.md), se entiende por:
 
 I. Acceso abierto: Elemento del derecho humano a la ciencia garantizado en la fracción V del artículo [3](../../cpeum/markdown/articulo-3o.md)o. de la Constitución Política de los Estados Unidos Mexicanos, así como en los tratados internacionales de los que el Estado mexicano es parte; II. Agenda Nacional: Agenda Nacional en Materia de Humanidades, Ciencias, Tecnologías e Innovación;
 
-III. Asamblea del Personal: Asamblea del Personal de Investigación Humanística y Científica, Desarrollo Tecnológico e Innovación de los Centros Públicos;
+III. Asamblea del Personal: Asamblea del Personal de Investigación Humanística y Científica, Desarrollo Tecnológico e Innovación de los [Centros Públicos](articulo-4.md);
 
 IV. Centros Públicos: Centros Públicos de Investigación Humanística y Científica, Desarrollo Tecnológico e Innovación;
 
@@ -45,7 +45,7 @@ XIII. Gasto nacional: Gasto concurrente de los sectores público, social y priva
 
 XIV. Gasto público: Erogaciones aprobadas en los presupuestos correspondientes realizadas por la Federación, las entidades federativas, los municipios y las demarcaciones en materia de humanidades, ciencias, tecnologías e innovación;
 
-XV. Instrumentos de planeación estratégica y participativa: Programa Especial y los programas en materia de humanidades, ciencias, tecnologías e innovación de las entidades federativas, municipios y demarcaciones; XVI. Investigación en ciencia básica y de frontera: Investigación realizada en todas las áreas del saber y la que busca incrementar el conocimiento, respectivamente;
+XV. Instrumentos de planeación estratégica y participativa: [Programa Especial](articulo-4.md) y los programas en materia de humanidades, ciencias, tecnologías e innovación de las entidades federativas, municipios y demarcaciones; XVI. Investigación en ciencia básica y de frontera: Investigación realizada en todas las áreas del saber y la que busca incrementar el conocimiento, respectivamente;
 
 XVII. Ley: Ley General en Materia de Humanidades, Ciencias, Tecnologías e Innovación;
 
@@ -63,8 +63,8 @@ XXIII. Programa Sectorial: Programa Sectorial en Materia de Humanidades, Ciencia
 
 XXIV. Repositorio Nacional: Repositorio Nacional en Materia de Humanidades, Ciencias, Tecnologías e Innovación;
 
-XXV. Sector: Conjunto de Centros Públicos coordinados por el Consejo Nacional;
+XXV. Sector: Conjunto de Centros Públicos coordinados por el [Consejo Nacional](articulo-4.md);
 
 XXVI. Sistema Nacional: Sistema Nacional de Humanidades, Ciencias, Tecnologías e Innovación a que se refiere el artículo [73](../../cpeum/markdown/articulo-73.md), fracción XXIX-F, de la Constitución Política de los Estados Unidos Mexicanos, y
 
-XXVII. Sistema Nacional de Información: Sistema Nacional de Información en Materia de Humanidades, Ciencias, Tecnologías e Innovación.
+XXVII. [Sistema Nacional](articulo-4.md) de Información: Sistema Nacional de Información en Materia de Humanidades, Ciencias, Tecnologías e Innovación.

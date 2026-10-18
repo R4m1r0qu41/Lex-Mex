@@ -17,6 +17,6 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 99
 
-Las personas morales inscritas en el Registro de Peritos Mineros estarán obligadas a comunicar a la Secretaría la separación de cualquiera de los responsables que hayan designado, dentro de los tres días hábiles siguientes a tal separación y, en caso de ser el único, sustituirlo en el mismo acto, dando aviso de dicha sustitución en el plazo previsto en este artículo y señalando el número de inscripción en el registro antes mencionado del responsable sustituto.
+Las personas morales inscritas en el [Registro](articulo-1o.md) de [Peritos Mineros](articulo-1o.md) estarán obligadas a comunicar a la [Secretaría](articulo-1o.md) la separación de cualquiera de los responsables que hayan designado, dentro de los tres días hábiles siguientes a tal separación y, en caso de ser el único, sustituirlo en el mismo acto, dando aviso de dicha sustitución en el plazo previsto en este artículo y señalando el número de inscripción en el registro antes mencionado del responsable sustituto.
 
 Los trabajos periciales que se realicen a nombre de las personas morales, se suscribirán por la persona física responsable que los elaboró, quien deberá cumplir con los requisitos establecidos en el inciso c) de la fracción II del artículo [96](articulo-96.md) de este Reglamento en la fecha que los suscriba.

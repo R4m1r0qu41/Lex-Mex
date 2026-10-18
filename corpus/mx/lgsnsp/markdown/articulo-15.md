@@ -17,4 +17,4 @@ source_sha256: 7f01ee1b1deb901a23976507adccbddefbea50b0fc9a4ddceaf1225d711d50d0
 
 # Artículo 15
 
-El Poder Judicial de la Federación y los poderes judiciales de las entidades federativas colaborarán con las instancias que integran el Sistema en la formulación de estudios y en la implementación de acciones para el cumplimiento de los fines de la seguridad pública. Capítulo II Consejo Nacional de Seguridad Pública
+El Poder Judicial de la Federación y los poderes judiciales de las entidades federativas colaborarán con las instancias que integran el [Sistema](articulo-4.md) en la formulación de estudios y en la implementación de acciones para el cumplimiento de los fines de la seguridad pública. Capítulo II [Consejo Nacional](articulo-4.md) de Seguridad Pública

@@ -17,4 +17,4 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 35
 
-La Secretaría podrá suscribir bases de colaboración con otras dependencias o entidades de la Administración Pública Federal, cuyas actividades se encuentren relacionadas con la administración y manejo de las áreas naturales protegidas.
+La [Secretaría](articulo-3o.md) podrá suscribir bases de colaboración con otras dependencias o entidades de la [Administración](articulo-3o.md) Pública Federal, cuyas actividades se encuentren relacionadas con la administración y manejo de las áreas naturales protegidas.

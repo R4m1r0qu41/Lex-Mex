@@ -25,7 +25,7 @@ II Bis. Aeronave agrícola: La empleada exclusivamente para la fumigación de ca
 
 III. Aeródromo civil: Área definida de tierra o de agua adecuada para el despegue, aterrizaje, acuatizaje o movimiento de aeronaves, con instalaciones o servicios mínimos para garantizar la seguridad de su operación;
 
-III Bis. Aeródromo temporal: Área definida de tierra, adecuada para el despegue y aterrizaje de aeronaves agrícolas que realizan labores de fumigación agrícola y aquellas aeronaves autorizadas por la Agencia Federal de Aviación Civil; IV. Aeromodelo: Aeronave no tripulada, manejada por control remoto, fabricada a escala reducida del tamaño real de una aeronave tripulada, para uso exclusivamente recreativo;
+III Bis. Aeródromo temporal: Área definida de tierra, adecuada para el despegue y aterrizaje de aeronaves agrícolas que realizan labores de fumigación agrícola y aquellas aeronaves autorizadas por la [Agencia Federal de Aviación Civil](articulo-2.md); IV. Aeromodelo: Aeronave no tripulada, manejada por control remoto, fabricada a escala reducida del tamaño real de una aeronave tripulada, para uso exclusivamente recreativo;
 
 V. Aeronave Autónoma: Aeronave no tripulada que opera sin la intervención de piloto en la gestión del vuelo;
 
@@ -37,7 +37,7 @@ VII. Aeropuerto: Aeródromo civil de servicio público con instalaciones y servi
 
 VIII. Aerovía: Ruta aérea dotada de radioayudas para la navegación;
 
-IX. Agencia Federal de Aviación Civil: Órgano administrativo desconcentrado de la Secretaría de Infraestructura, Comunicaciones y Transportes, con autonomía técnica, operativa y administrativa, Autoridad de Aviación Civil del Estado mexicano;
+IX. Agencia Federal de Aviación Civil: Órgano administrativo desconcentrado de la [Secretaría](articulo-2.md) de Infraestructura, Comunicaciones y Transportes, con autonomía técnica, operativa y administrativa, Autoridad de Aviación Civil del Estado mexicano;
 
 X. Autoridad de Aviación Civil Extranjera: Autoridad rectora de un país extranjero, en materia de aviación civil;
 
@@ -57,7 +57,7 @@ XVI. Comisión Investigadora y Dictaminadora de Accidentes Aéreos: Instancia in
 
 XVII. Datos sobre seguridad operacional: Conjunto definido de hechos o valores de seguridad operacional de diversas fuentes relacionadas con la aviación, y que se utilizan para mantener o mejorar la seguridad operacional;
 
-XVIII. Disposiciones técnico-administrativas: Circulares técnicas de carácter obligatorio, emitidas por la Secretaría o la Agencia Federal de Aviación Civil de conformidad con los artículos [6](articulo-6.md) y [6 Bis](articulo-6-Bis.md) de esta Ley, respectivamente; las cuales regulan la operación, certificación de aeronaves, sistemas, equipos, licencias, certificados, aeropuertos, servicios de tránsito aéreo, búsqueda y salvamento e investigación de accidentes e incidentes y procedimientos que se difunden en la Publicación de Información Aeronáutica de México y se publican en el Diario Oficial de la Federación;
+XVIII. Disposiciones técnico-administrativas: Circulares técnicas de carácter obligatorio, emitidas por la Secretaría o la Agencia Federal de Aviación Civil de conformidad con los artículos [6](articulo-6.md) y [6 Bis](articulo-6-Bis.md) de esta Ley, respectivamente; las cuales regulan la operación, certificación de aeronaves, sistemas, equipos, licencias, certificados, aeropuertos, servicios de tránsito aéreo, búsqueda y salvamento e investigación de accidentes e incidentes y procedimientos que se difunden en la [Publicación de Información Aeronáutica](articulo-2.md) de México y se publican en el Diario Oficial de la Federación;
 
 XIX. Fatiga: Estado fisiológico que se caracteriza por una reducción de la capacidad de desempeño mental o físico debido a la falta de sueño o a periodos prolongados de vigilia, fase circadiana, o de trabajo (actividad mental y física) y que puede menoscabar el estado de alerta de una persona y su capacidad para desempeñar sus funciones relacionadas con la seguridad operacional;
 
@@ -95,11 +95,11 @@ XXXVI. Servicio de transporte aéreo no regular: El que no está sujeto a rutas,
 
 XXXVII. Servicio de transporte aéreo regular: El que está sujeto a itinerarios, frecuencias de vuelos y horarios, podrá ser nacional o internacional y de conformidad con lo establecido por esta Ley;
 
-XXXVIII. Sistema de Aeronave Pilotada a Distancia: Conjunto integrado por la Aeronave pilotada a distancia, su estación o estaciones conexas de pilotaje a distancia, los enlaces requeridos de mando y control, y cualquier otro componente;
+XXXVIII. Sistema de [Aeronave](articulo-2.md) Pilotada a Distancia: Conjunto integrado por la Aeronave pilotada a distancia, su estación o estaciones conexas de pilotaje a distancia, los enlaces requeridos de mando y control, y cualquier otro componente;
 
 XXXIX. Sistema de gestión de la seguridad operacional: Enfoque sistemático para la gestión de la seguridad operacional que incluye las estructuras orgánicas, la obligación de rendición de cuentas, las responsabilidades, las políticas y procedimientos necesarios;
 
-XL. Sistema de Gestión de los Riesgos Asociados a la Fatiga: Conjunto de reglas, procedimientos y datos que sirven para controlar y gestionar constantemente los riesgos de seguridad operacional relacionados con la fatiga, los cuales se basan en principios, conocimientos científicos y en la experiencia operacional, con el propósito de asegurar el eficaz desempeño del personal con un nivel de alerta adecuado, conocido como “FRMS” por las siglas en inglés de Fatigue Risk Management System;
+XL. Sistema de Gestión de los Riesgos Asociados a la [Fatiga](articulo-2.md): Conjunto de reglas, procedimientos y datos que sirven para controlar y gestionar constantemente los riesgos de seguridad operacional relacionados con la fatiga, los cuales se basan en principios, conocimientos científicos y en la experiencia operacional, con el propósito de asegurar el eficaz desempeño del personal con un nivel de alerta adecuado, conocido como “FRMS” por las siglas en inglés de Fatigue Risk Management System;
 
 XLI. Tratados: Los definidos como tales en la fracción I del artículo [2](../../lsct/markdown/articulo-2o.md) de la Ley sobre la Celebración de Tratados, y
 

@@ -17,7 +17,7 @@ source_sha256: 8262a75eac7bfb608d4f48657ffb2714fe115d0b9694c42ac81624fd275bf5f6
 
 # Artículo 52
 
-El Asignatario debe enterar el derecho a que se refiere el presente Título al Fondo Mexicano del Petróleo. Párrafo reformado DOF 18-03-2025
+El Asignatario debe enterar el derecho a que se refiere el presente Título al [Fondo Mexicano del Petróleo](articulo-3.md). Párrafo reformado DOF 18-03-2025
 
 El Asignatario debe cumplir ante la autoridad fiscal competente con las demás disposiciones de carácter fiscal relativas al pago de este derecho. Párrafo reformado DOF 18-03-2025
 

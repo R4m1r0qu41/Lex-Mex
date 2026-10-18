@@ -17,7 +17,7 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 # Artículo 37
 
-Las Víctimas de los delitos previstos en esta Ley tienen derecho a presentar, en cualquier momento, todos los medios de prueba que estimen convenientes.
+Las [Víctimas](articulo-5.md) de los delitos previstos en esta [Ley](articulo-5.md) tienen derecho a presentar, en cualquier momento, todos los medios de prueba que estimen convenientes.
 
 No podrá restarse valor probatorio a los dictámenes médico-psicológicos por el hecho de haber sido realizados por peritos independientes.
 

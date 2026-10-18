@@ -17,4 +17,4 @@ source_sha256: 4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f
 
 # Artículo 57
 
-Para los efectos de lo dispuesto en los artículos [29](../../liva/markdown/articulo-29.md), fracción I, y [30](../../liva/markdown/articulo-30.md), último párrafo de la Ley, tratándose de bienes tangibles, se entiende que la exportación se consuma, cuando se haya concluido con la totalidad de los actos y las formalidades para su exportación definitiva, de conformidad con la legislación aduanera.
+Para los efectos de lo dispuesto en los artículos [29](../../liva/markdown/articulo-29.md), fracción I, y [30](../../liva/markdown/articulo-30.md), último párrafo de la [Ley](articulo-1.md), tratándose de bienes tangibles, se entiende que la exportación se consuma, cuando se haya concluido con la totalidad de los actos y las formalidades para su exportación definitiva, de conformidad con la legislación aduanera.

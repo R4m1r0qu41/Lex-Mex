@@ -17,6 +17,6 @@ source_sha256: 8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca
 
 # Artículo 125
 
-Las personas titulares de las Comandancias de las Fuerzas Navales verificarán que el personal propuesto para ascender a fin de cubrir necesidades operativas, reúna primordialmente características de aptitud y actitud altamente combativa, sin que sea necesario que este personal reúna los requisitos establecidos por la Ley, para ascenso en tiempo de paz.
+Las personas titulares de las Comandancias de las Fuerzas Navales verificarán que el personal propuesto para ascender a fin de cubrir necesidades operativas, reúna primordialmente características de aptitud y actitud altamente combativa, sin que sea necesario que este personal reúna los requisitos establecidos por la [Ley](articulo-5.md), para ascenso en tiempo de paz.
 
 Artículo reformado DOF 02-04-2026

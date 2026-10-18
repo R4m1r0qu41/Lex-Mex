@@ -17,6 +17,6 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 51
 
-La Dirección y Rectoría implementará los cursos básicos de las personas con jerarquías de Jefes y Oficiales egresadas de las Instituciones Educativas que no tengan Unidad-Escuela de su especialidad, así como otros que determine la Secretaría.
+La Dirección y Rectoría implementará los cursos básicos de las personas con jerarquías de Jefes y Oficiales egresadas de las [Instituciones Educativas](articulo-3.md) que no tengan Unidad-Escuela de su especialidad, así como otros que determine la Secretaría.
 
 Artículo reformado DOF 20-03-2026

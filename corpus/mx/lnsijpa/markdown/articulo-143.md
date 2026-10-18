@@ -17,9 +17,9 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 143
 
-Sentencia Concluido el juicio, el Tribunal de Juicio Oral resolverá sobre la responsabilidad de la persona adolescente, atendiendo a lo establecido en esta Ley.
+Sentencia Concluido el juicio, el Tribunal de Juicio Oral resolverá sobre la responsabilidad de la persona adolescente, atendiendo a lo establecido en esta [Ley](articulo-3.md).
 
-El Tribunal de Juicio Oral apreciará la prueba según su libre convicción extraída de la totalidad del debate, de manera libre y lógica; sólo serán valorables y sometidos a la crítica racional, los medios de prueba obtenidos lícitamente e incorporados al debate conforme a las disposiciones del Código Nacional.
+El Tribunal de Juicio Oral apreciará la prueba según su libre convicción extraída de la totalidad del debate, de manera libre y lógica; sólo serán valorables y sometidos a la crítica racional, los medios de prueba obtenidos lícitamente e incorporados al debate conforme a las disposiciones del [Código Nacional](articulo-3.md).
 
 Sólo podrá emitirse sentencia condenatoria cuando el Tribunal de Juicio Oral adquiera la convicción de que la persona adolescente es responsable de la comisión del hecho por el que siguió el juicio. En caso de duda respecto de la responsabilidad, el Tribunal de Juicio Oral deberá absolver a la persona adolescente.
 

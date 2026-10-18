@@ -17,7 +17,7 @@ source_sha256: b32c33fa4ed071dc8bea1ad69ce8510cdb05016967e9e4fcb60f10c6f2216628
 
 # Artículo 51
 
-El Tribunal contará con un sistema profesional de carrera jurisdiccional, basado en los principios de honestidad, eficiencia, capacidad y experiencia, el cual comprenderá a los servidores públicos a que se refieren las fracciones VI a IX del artículo [42](articulo-42.md) de esta Ley.
+El [Tribunal](articulo-2.md) contará con un sistema profesional de carrera jurisdiccional, basado en los principios de honestidad, eficiencia, capacidad y experiencia, el cual comprenderá a los servidores públicos a que se refieren las fracciones VI a IX del artículo [42](articulo-42.md) de esta [Ley](articulo-2.md).
 
 El sistema abarcará las fases de ingreso, promoción, permanencia y retiro de dichos servidores públicos, de manera que se procure la excelencia por medio de concursos y evaluaciones periódicas, y de acuerdo con los procedimientos y criterios establecidos en el Estatuto correspondiente.
 

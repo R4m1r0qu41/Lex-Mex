@@ -33,6 +33,6 @@ VI. La estrategia de manejo, o
 
 VII. La identificación e inclusión de características adicionales a los considerados originalmente para la expedición del certificado.
 
-La Comisión resolverá las solicitudes de modificación a que se refiere este artículo, en un plazo de noventa días hábiles contados a partir del día siguiente en que se haya presentado dicha solicitud, aplicando en lo conducente el procedimiento previsto en el artículo [128](articulo-128.md) del presente Reglamento y tomando en consideración los requisitos establecidos en los artículos [133 TER](articulo-133-TER.md) y [133 QUÁTER](articulo-133-QUÁTER.md) de este ordenamiento.
+La [Comisión](articulo-3o.md) resolverá las solicitudes de modificación a que se refiere este artículo, en un plazo de noventa días hábiles contados a partir del día siguiente en que se haya presentado dicha solicitud, aplicando en lo conducente el procedimiento previsto en el artículo [128](articulo-128.md) del presente Reglamento y tomando en consideración los requisitos establecidos en los artículos [133 TER](articulo-133-TER.md) y [133 QUÁTER](articulo-133-QUÁTER.md) de este ordenamiento.
 
 Artículo adicionado DOF 21-05-2014

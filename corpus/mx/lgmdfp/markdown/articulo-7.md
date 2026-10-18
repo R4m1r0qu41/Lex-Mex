@@ -17,4 +17,4 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 7
 
-Las niñas, niños y adolescentes respecto de los cuales haya Noticia, Reporte o Denuncia que han desaparecido en cualquier circunstancia, se iniciará carpeta de investigación en todos los casos y se emprenderá la búsqueda especializada de manera inmediata y diferenciada, de conformidad con el protocolo especializado en búsqueda de personas menores de 18 años de edad que corresponda.
+Las niñas, niños y adolescentes respecto de los cuales haya [Noticia](articulo-4.md), [Reporte](articulo-4.md) o Denuncia que han desaparecido en cualquier circunstancia, se iniciará carpeta de investigación en todos los casos y se emprenderá la búsqueda especializada de manera inmediata y diferenciada, de conformidad con el protocolo especializado en búsqueda de personas menores de 18 años de edad que corresponda.

@@ -17,4 +17,4 @@ source_sha256: add375b17749965073df032027c6cafb7883ab25bfae2f13e34ba41b1ff24e88
 
 # Artículo 15
 
-En caso de que el bien inmueble o mueble, deje de ser utilizado para los fines propios de la Cruz Roja Mexicana, la institución deberá retirar el emblema o emblemas, y la denominación de cruz roja que sobre él haya colocado.
+En caso de que el bien inmueble o mueble, deje de ser utilizado para los fines propios de la [Cruz Roja Mexicana](articulo-3.md), la institución deberá retirar el emblema o emblemas, y la denominación de cruz roja que sobre él haya colocado.

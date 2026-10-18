@@ -17,4 +17,4 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 9
 
-Interpretación La interpretación de las disposiciones contenidas en esta Ley deberá hacerse de conformidad con la Constitución, los principios rectores del Sistema, la Ley General y los Tratados Internacionales, favoreciendo en todo tiempo a las personas adolescentes la protección más amplia.
+Interpretación La interpretación de las disposiciones contenidas en esta [Ley](articulo-3.md) deberá hacerse de conformidad con la [Constitución](articulo-3.md), los principios rectores del [Sistema](articulo-3.md), la [Ley General](articulo-3.md) y los Tratados Internacionales, favoreciendo en todo tiempo a las personas adolescentes la protección más amplia.

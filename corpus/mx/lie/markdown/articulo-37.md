@@ -17,6 +17,6 @@ source_sha256: 14cd17e37e96e766c8ab74950c71186d579c0ba6cc10ac9e8b06f6194af7d953
 
 # Artículo 37
 
-Cuando se trate de actos efectuados en contravención a las disposiciones de esta Ley, la Secretaría podrá revocar las autorizaciones otorgadas.
+Cuando se trate de actos efectuados en contravención a las disposiciones de esta Ley, la [Secretaría](articulo-2o.md) podrá revocar las autorizaciones otorgadas.
 
 Los actos, convenios o pactos sociales y estatutarios declarados nulos por la Secretaría, por ser contrarios a lo establecido en esta Ley, no surtirán efectos legales entre las partes ni se podrán hacer valer ante terceros.

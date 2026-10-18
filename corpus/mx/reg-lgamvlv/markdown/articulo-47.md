@@ -17,4 +17,4 @@ source_sha256: 71ee875c26fc6a1024ea9481ca0690721959514689d860112c3093f0176dfcfb
 
 # Artículo 47
 
-Los integrantes del Sistema proporcionarán la información necesaria para mantener actualizado el Banco Nacional, de conformidad con los lineamientos que para tal efecto emita la Secretaría de Seguridad Pública.
+Los integrantes del Sistema proporcionarán la información necesaria para mantener actualizado el [Banco Nacional](articulo-2.md), de conformidad con los lineamientos que para tal efecto emita la Secretaría de Seguridad Pública.

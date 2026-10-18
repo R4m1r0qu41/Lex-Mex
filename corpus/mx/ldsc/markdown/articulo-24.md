@@ -17,4 +17,4 @@ source_sha256: 45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80
 
 # Artículo 24
 
-Corresponde a la Secretaría formular, conducir y evaluar la política pública para el impulso a la cafeticultura mexicana, así como proponer acciones, programas o mecanismos innovadores de financiamiento, servicios de asesoría y acompañamiento técnico, con base en la disponibilidad presupuestal, que permitan a los eslabones de la cadena productiva del café acceder a apoyos establecidos por el Gobierno Federal.
+Corresponde a la [Secretaría](articulo-3.md) formular, conducir y evaluar la política pública para el impulso a la cafeticultura mexicana, así como proponer acciones, programas o mecanismos innovadores de financiamiento, servicios de asesoría y acompañamiento técnico, con base en la disponibilidad presupuestal, que permitan a los eslabones de la cadena productiva del café acceder a apoyos establecidos por el Gobierno Federal.

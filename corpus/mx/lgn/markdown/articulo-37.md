@@ -17,4 +17,4 @@ source_sha256: dfe63e9a5dca843a804e5d7878671e2899f2b088534d9ed9813e9878c20b12bd
 
 # Artículo 37
 
-Los militares con formación policial que integren el personal de la Guardia Nacional se harán merecedores a un grado en la escala jerárquica, de acuerdo con la presente Ley y su Reglamento. Las insignias que correspondan a cada grado serán especificadas en el manual que al efecto emita la Secretaría.
+Los militares con formación policial que integren el personal de la Guardia Nacional se harán merecedores a un grado en la escala jerárquica, de acuerdo con la presente Ley y su [Reglamento](articulo-2.md). Las insignias que correspondan a cada grado serán especificadas en el manual que al efecto emita la [Secretaría](articulo-2.md).

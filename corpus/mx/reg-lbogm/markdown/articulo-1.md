@@ -17,4 +17,4 @@ source_sha256: 667636f9e0ea65e72ac9d6d7b4d7563a183b75d0f140268a61929c74f5f88041
 
 # Artículo 1
 
-El presente ordenamiento tiene por objeto reglamentar la Ley de Bioseguridad de Organismos Genéticamente Modificados, a fin de proveer a su exacta observancia.
+El presente ordenamiento tiene por objeto reglamentar la [Ley](articulo-2.md) de Bioseguridad de Organismos Genéticamente Modificados, a fin de proveer a su exacta observancia.

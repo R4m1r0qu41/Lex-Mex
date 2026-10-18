@@ -21,6 +21,6 @@ La legal procedencia de los productos pesqueros se comprobará:
 
 I. Desde el momento del desembarque o cosecha, hasta su enajenación a terceros por cualquier título, con el aviso de arribo, cosecha, producción o recolección, y
 
-II. Una vez enajenados por quienes los capturen, colecten o cultiven, con la factura respectiva y, en tratándose de productos decomisados, con la constancia de donación o de adjudicación a que se refiere el artículo 28 de la Ley.
+II. Una vez enajenados por quienes los capturen, colecten o cultiven, con la factura respectiva y, en tratándose de productos decomisados, con la constancia de donación o de adjudicación a que se refiere el artículo 28 de la [Ley](articulo-2o.md).
 
 Tratándose de especies obtenidas al amparo de permisos de pesca deportivo-recreativa y de fomento, otorgados a científicos, técnicos e instituciones de investigación científica, la legal procedencia de los productos capturados se amparará con el propio permiso. Reforma 28-01-2004

@@ -19,7 +19,7 @@ Los contratos que celebre el concesionario o permisionario de un aeródromo civi
 
 I. Denominación social o nombre, según corresponda, registro federal de contribuyentes y domicilio del prestador de los servicios aeroportuarios o complementarios;
 
-II. El nombre de los socios y administradores de la sociedad mercantil prestadora de los servicios, los que deberán acompañar una manifestación suscrita por cada uno, bajo protesta de decir verdad, de que no se encuentran en los supuestos del artículo [22](../../laero/markdown/articulo-22.md) de la Ley;
+II. El nombre de los socios y administradores de la sociedad mercantil prestadora de los servicios, los que deberán acompañar una manifestación suscrita por cada uno, bajo protesta de decir verdad, de que no se encuentran en los supuestos del artículo [22](../../laero/markdown/articulo-22.md) de la [Ley](articulo-2.md);
 
 III. La descripción de los servicios que prestarán; IV. Los términos y condiciones conforme a los cuales el prestador de servicios podrá utilizar las instalaciones del aeródromo, así como la delimitación y descripción de las áreas específicas que, en su caso, tenga asignadas;
 
@@ -41,7 +41,7 @@ XII. La forma y términos en que el prestador de servicios pagará al concesiona
 
 XIII. Las reglas conforme a las cuales el prestador de servicios podrá suspender los servicios cuando no se le cubran las contraprestaciones correspondientes;
 
-XIV. La obligación de entregar toda la información financiera y estadística que requiera el concesionario o permisionario, en el entendido de que ésta deberá proporcionarse a la Secretaría cuando ésta lo solicite;
+XIV. La obligación de entregar toda la información financiera y estadística que requiera el concesionario o permisionario, en el entendido de que ésta deberá proporcionarse a la [Secretaría](articulo-2.md) cuando ésta lo solicite;
 
 XV. Las pólizas de seguro de responsabilidad civil que deberá contratar para hacer frente a los daños y perjuicios que ocasione el prestador, su personal o equipos, a las instalaciones o a terceros, en su persona o en sus bienes;
 

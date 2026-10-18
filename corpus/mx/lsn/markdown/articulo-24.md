@@ -17,4 +17,4 @@ source_sha256: 7b3cf7a0ff59f76503a97a535457c4a7dd3b1305e7a36f4fca82bd661eab1168
 
 # Artículo 24
 
-Cuando un hecho concreto que atente en contra de la Seguridad Nacional y constituya a su vez presuntamente un delito, las instancias del Consejo que conozcan del asunto decidirán sobre la oportunidad de la presentación de la denuncia, sin perjuicio de seguir ejerciendo las facultades que tengan en la esfera de su competencia, para prevenir y evitar amenazas, con independencia de las que le correspondan al Ministerio Público.
+Cuando un hecho concreto que atente en contra de la Seguridad Nacional y constituya a su vez presuntamente un delito, las instancias del [Consejo](articulo-6.md) que conozcan del asunto decidirán sobre la oportunidad de la presentación de la denuncia, sin perjuicio de seguir ejerciendo las facultades que tengan en la esfera de su competencia, para prevenir y evitar amenazas, con independencia de las que le correspondan al Ministerio Público.

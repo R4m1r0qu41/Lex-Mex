@@ -17,7 +17,7 @@ source_sha256: 71ee875c26fc6a1024ea9481ca0690721959514689d860112c3093f0176dfcfb
 
 # Artículo 5
 
-Las dependencias y entidades de la Administración Pública Federal que integran el Sistema, en el ámbito de sus atribuciones, planificarán, presupuestarán y ejecutarán las acciones necesarias para la aplicación de los Modelos.
+Las dependencias y entidades de la Administración Pública Federal que integran el Sistema, en el ámbito de sus atribuciones, planificarán, presupuestarán y ejecutarán las acciones necesarias para la aplicación de los [Modelos](articulo-2.md).
 
 La Secretaría de Gobernación podrá coordinarse con las entidades federativas y los municipios, en el ámbito de sus respectivas competencias, para planificar, presupuestar y ejecutar los programas estatales y municipales para la aplicación de los Modelos.
 

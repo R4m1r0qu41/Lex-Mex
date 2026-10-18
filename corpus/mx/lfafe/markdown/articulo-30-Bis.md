@@ -17,8 +17,8 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 30 Bis
 
-Queda prohibido a las empresas de seguridad privada utilizar armas cuya licencia particular colectiva haya sido cancelada. En este supuesto, deben entregar las armas para su resguardo a la instalación militar que determine la Secretaría, en un plazo no mayor de 15 días hábiles.
+Queda prohibido a las empresas de seguridad privada utilizar armas cuya licencia particular colectiva haya sido cancelada. En este supuesto, deben entregar las armas para su resguardo a la instalación militar que determine la [Secretaría](articulo-1o-Bis.md), en un plazo no mayor de 15 días hábiles.
 
-Una vez que las armas queden en resguardo de la Secretaría, la empresa a la que se le haya cancelado su licencia particular colectiva contará con 45 días hábiles para deshacerse de sus armas conforme a los procedimientos establecidos en el Reglamento de esta Ley.
+Una vez que las armas queden en resguardo de la Secretaría, la empresa a la que se le haya cancelado su licencia particular colectiva contará con 45 días hábiles para deshacerse de sus armas conforme a los procedimientos establecidos en el [Reglamento](articulo-1o-Bis.md) de esta [Ley](articulo-1o-Bis.md).
 
 Artículo adicionado DOF 29-05-2025

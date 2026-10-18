@@ -17,4 +17,4 @@ source_sha256: 67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35
 
 # Artículo 44
 
-Los Permisos de Usos Diversos no otorgan derechos reales a sus personas titulares, sólo generan un derecho temporal de acuerdo con el objeto de éste.
+Los Permisos de [Usos Diversos](articulo-2.md) no otorgan derechos reales a sus personas titulares, sólo generan un derecho temporal de acuerdo con el objeto de éste.

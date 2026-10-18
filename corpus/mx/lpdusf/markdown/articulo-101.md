@@ -39,9 +39,9 @@ V. Modificar o mandar reponer el acto impugnado o dictar u ordenar expedir uno n
 
 No se podrán revocar o modificar los actos administrativos en la parte no impugnada por el recurrente.
 
-El órgano encargado de resolver el recurso de revisión deberá atenderlo sin la intervención del servidor público de la Comisión Nacional que haya dictaminado la sanción administrativa que haya dado origen a la imposición del recurso correspondiente.
+El órgano encargado de resolver el recurso de revisión deberá atenderlo sin la intervención del servidor público de la [Comisión Nacional](articulo-2o.md) que haya dictaminado la sanción administrativa que haya dado origen a la imposición del recurso correspondiente.
 
-La resolución de los recursos de revisión deberá ser emitida en un plazo que no exceda a los noventa días hábiles posteriores a la fecha en que se interpuso el recurso, cuando deba ser resuelto por el Presidente, ni a los ciento veinte días hábiles cuando se trate de recursos que sean competencia de la Junta.
+La resolución de los recursos de revisión deberá ser emitida en un plazo que no exceda a los noventa días hábiles posteriores a la fecha en que se interpuso el recurso, cuando deba ser resuelto por el [Presidente](articulo-2o.md), ni a los ciento veinte días hábiles cuando se trate de recursos que sean competencia de la [Junta](articulo-2o.md).
 
 La Comisión Nacional deberá prever los mecanismos que eviten conflictos de interés entre el área que emite la resolución objeto del recurso y aquella que lo resuelve.
 

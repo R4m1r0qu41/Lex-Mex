@@ -17,7 +17,7 @@ source_sha256: e77eafda71a4c270f2e75d11f08ebb858e5d09675b4700f56382894b4624bdec
 
 # Artículo 36
 
-La Secretaría tendrá a su cargo los Registros Nacionales de Trasplantes y de Transfusiones, cuyas funciones serán:
+La Secretaría tendrá a su cargo los Registros Nacionales de Trasplantes y de [Transfusiones](articulo-6o.md), cuyas funciones serán:
 
 I.- Coordinar la distribución de órganos y tejidos en todo el territorio nacional;
 

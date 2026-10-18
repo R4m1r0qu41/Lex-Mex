@@ -17,6 +17,6 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 161
 
-Restauración del daño El Órgano Jurisdiccional podrá considerar como reparado el daño, de conformidad con lo establecido en la sentencia y a satisfacción de la víctima u ofendido, en su caso.
+Restauración del daño El [Órgano Jurisdiccional](articulo-3.md) podrá considerar como reparado el daño, de conformidad con lo establecido en la sentencia y a satisfacción de la víctima u ofendido, en su caso.
 
 La reparación del daño aceptada por la víctima u ofendido excluye la indemnización civil por responsabilidad extra-contractual.

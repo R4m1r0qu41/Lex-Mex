@@ -19,8 +19,8 @@ source_sha256: 23dcee090bbe0c4fb06c75d084cb65ce0b2e8f72a8d082e7059504412bde1614
 
 Cuando se promueva la nulidad o revocación de un título de obtentor, el interesado ocurrirá por escrito expresando los motivos y argumentos en que fundamente su acción, anexando las pruebas que estime convenientes.
 
-La promoción de nulidad o revocación será notificada al obtentor, su representante o causahabientes, en el domicilio señalado en el Registro, para que proceda con arreglo a lo dispuesto por el artículo [41](../../lfvv/markdown/articulo-41.md) de la Ley y aporte las pruebas que considere necesarias.
+La promoción de nulidad o revocación será notificada al obtentor, su representante o causahabientes, en el domicilio señalado en el [Registro](articulo-2o.md), para que proceda con arreglo a lo dispuesto por el artículo [41](../../lfvv/markdown/articulo-41.md) de la [Ley](articulo-2o.md) y aporte las pruebas que considere necesarias.
 
 Se admitirán toda clase de pruebas con excepción de la confesional. Sólo se rechazarán aquellas que no tengan relación con el fondo del asunto, sean improcedentes o contrarias a la moral y al derecho.
 
-El desahogo de las pruebas estará a cargo del Comité, cuyo dictamen será la base para dictar resolución definitiva.
+El desahogo de las pruebas estará a cargo del [Comité](articulo-2o.md), cuyo dictamen será la base para dictar resolución definitiva.

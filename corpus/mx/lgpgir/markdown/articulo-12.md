@@ -17,7 +17,7 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 12
 
-La Federación, por conducto de la Secretaría, podrá suscribir con los gobiernos de las entidades federativas convenios o acuerdos de coordinación, con el propósito de asumir las siguientes funciones, de conformidad con lo que se establece en esta Ley y con la legislación local aplicable:
+La Federación, por conducto de la [Secretaría](articulo-5.md), podrá suscribir con los gobiernos de las entidades federativas convenios o acuerdos de coordinación, con el propósito de asumir las siguientes funciones, de conformidad con lo que se establece en esta [Ley](articulo-5.md) y con la legislación local aplicable:
 
 I. La autorización y el control de las actividades realizadas por los microgeneradores de residuos peligrosos de conformidad con las normas oficiales mexicanas correspondientes;
 

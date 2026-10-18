@@ -17,14 +17,14 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 139
 
-Las Autoridades Normalizadoras y demás autoridades competentes llevarán a cabo la vigilancia permanente del mercado en los términos previstos en esta Ley, en su Reglamento y en las demás disposiciones legales aplicables, y cumpliendo los objetivos y los principios que persigue esta Ley a través de:
+Las [Autoridades Normalizadoras](articulo-4.md) y demás autoridades competentes llevarán a cabo la vigilancia permanente del mercado en los términos previstos en esta Ley, en su Reglamento y en las demás disposiciones legales aplicables, y cumpliendo los objetivos y los principios que persigue esta Ley a través de:
 
-I. Los actos de Verificación de los bienes, productos, procesos y servicios;
+I. Los actos de [Verificación](articulo-4.md) de los bienes, productos, procesos y servicios;
 
-II. Los actos de Vigilancia;
+II. Los actos de [Vigilancia](articulo-4.md);
 
-III. La supervisión de la auto declaración de conformidad por parte de los sujetos obligados por las Normas Oficiales Mexicanas y, en su caso, los Estándares; IV. La revisión sistemática de las Normas Oficiales Mexicanas y los Estándares;
+III. La supervisión de la auto declaración de conformidad por parte de los sujetos obligados por las [Normas Oficiales Mexicanas](articulo-4.md) y, en su caso, los [Estándares](articulo-4.md); IV. La revisión sistemática de las Normas Oficiales Mexicanas y los Estándares;
 
 V. La protección a los derechos de los consumidores, y
 
-VI. La adecuada coordinación entre las distintas autoridades competentes, para el adecuado funcionamiento y desarrollo del Sistema Nacional de Infraestructura de la Calidad.
+VI. La adecuada coordinación entre las distintas autoridades competentes, para el adecuado funcionamiento y desarrollo del [Sistema Nacional de Infraestructura de la Calidad](articulo-4.md).

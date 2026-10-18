@@ -17,7 +17,7 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 94
 
-Para la realización de obras y trabajos de exploración y explotación de recursos mineros dentro de las áreas naturales protegidas, el interesado deberá solicitar, ante la Comisión Nacional de Áreas Naturales Protegidas, la autorización correspondiente a que se refiere la Ley Minera, mediante escrito libre, en el que se incluya la siguiente información:
+Para la realización de obras y trabajos de exploración y explotación de recursos mineros dentro de las áreas naturales protegidas, el interesado deberá solicitar, ante la [Comisión](articulo-3o.md) Nacional de Áreas Naturales Protegidas, la autorización correspondiente a que se refiere la [Ley](articulo-3o.md) Minera, mediante escrito libre, en el que se incluya la siguiente información:
 
 I. Nombre, denominación o razón social del promovente;
 

@@ -21,7 +21,7 @@ De la aplicación de la medida de sanción privativa de la libertad en casos de 
 
 Sin perjuicio de lo anterior, la autoridad jurisdiccional podrá imponer a la persona adolescente las medidas de sanción no privativas de libertad por los delitos restantes, respecto de los cuales no se impuso una medida privativa de la libertad.
 
-La medida de sanción privativa de libertad impuesta a la persona adolescente no podrá exceder del límite máximo que esta Ley establece, de acuerdo con el grupo etario al que pertenece al momento de la comisión del hecho que la ley señale como delito.
+La medida de sanción privativa de libertad impuesta a la persona adolescente no podrá exceder del límite máximo que esta [Ley](articulo-3.md) establece, de acuerdo con el grupo etario al que pertenece al momento de la comisión del hecho que la ley señale como delito.
 
 Son formas de participación las siguientes: I. Los que dolosamente presten ayuda;
 

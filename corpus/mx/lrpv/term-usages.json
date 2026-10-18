@@ -1,1 +1,551 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:1:term-usage:104-112",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:registro",
+    "span": "Registro",
+    "start_char": 104,
+    "end_char": 112
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:1:term-usage:232-240",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:registro",
+    "span": "Registro",
+    "start_char": 232,
+    "end_char": 240
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:1:term-usage:626-647",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:entidades-federativas",
+    "span": "Entidades Federativas",
+    "start_char": 626,
+    "end_char": 647
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:3:term-usage:84-106",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:secretariado-ejecutivo",
+    "span": "Secretariado Ejecutivo",
+    "start_char": 84,
+    "end_char": 106
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:3:term-usage:171-192",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:entidades-federativas",
+    "span": "Entidades Federativas",
+    "start_char": 171,
+    "end_char": 192
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:3:term-usage:290-298",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:registro",
+    "span": "Registro",
+    "start_char": 290,
+    "end_char": 298
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:3:term-usage:403-411",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:registro",
+    "span": "Registro",
+    "start_char": 403,
+    "end_char": 411
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:3:term-usage:610-618",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:registro",
+    "span": "Registro",
+    "start_char": 610,
+    "end_char": 618
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:3:term-usage:655-676",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:entidades-federativas",
+    "span": "Entidades Federativas",
+    "start_char": 655,
+    "end_char": 676
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:3:term-usage:768-776",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:registro",
+    "span": "Registro",
+    "start_char": 768,
+    "end_char": 776
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:3:term-usage:1181-1189",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:registro",
+    "span": "Registro",
+    "start_char": 1181,
+    "end_char": 1189
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:4:term-usage:20-28",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:registro",
+    "span": "Registro",
+    "start_char": 20,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:4:term-usage:33-55",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:secretariado-ejecutivo",
+    "span": "Secretariado Ejecutivo",
+    "start_char": 33,
+    "end_char": 55
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:4:term-usage:136-173",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:consejo-nacional-de-seguridad-publica",
+    "span": "Consejo Nacional de Seguridad Pública",
+    "start_char": 136,
+    "end_char": 173
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:4:term-usage:189-211",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:secretariado-ejecutivo",
+    "span": "Secretariado Ejecutivo",
+    "start_char": 189,
+    "end_char": 211
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:6:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:registro",
+    "span": "Registro",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:6:term-usage:381-402",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:entidades-federativas",
+    "span": "Entidades Federativas",
+    "start_char": 381,
+    "end_char": 402
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:6:term-usage:452-460",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:registro",
+    "span": "Registro",
+    "start_char": 452,
+    "end_char": 460
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:6:term-usage:733-741",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:registro",
+    "span": "Registro",
+    "start_char": 733,
+    "end_char": 741
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:6:term-usage:798-819",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:entidades-federativas",
+    "span": "Entidades Federativas",
+    "start_char": 798,
+    "end_char": 819
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:7:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:registro",
+    "span": "Registro",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:7:term-usage:146-167",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:entidades-federativas",
+    "span": "Entidades Federativas",
+    "start_char": 146,
+    "end_char": 167
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:7:term-usage:322-330",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:registro",
+    "span": "Registro",
+    "start_char": 322,
+    "end_char": 330
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:7:term-usage:371-392",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:entidades-federativas",
+    "span": "Entidades Federativas",
+    "start_char": 371,
+    "end_char": 392
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:7:term-usage:697-719",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:secretariado-ejecutivo",
+    "span": "Secretariado Ejecutivo",
+    "start_char": 697,
+    "end_char": 719
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:7:term-usage:828-836",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:registro",
+    "span": "Registro",
+    "start_char": 828,
+    "end_char": 836
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:7:term-usage:876-885",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:fiscalias",
+    "span": "Fiscalías",
+    "start_char": 876,
+    "end_char": 885
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:8:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:registro",
+    "span": "Registro",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:8:term-usage:344-365",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:entidades-federativas",
+    "span": "Entidades Federativas",
+    "start_char": 344,
+    "end_char": 365
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:9:term-usage:3-25",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:secretariado-ejecutivo",
+    "span": "Secretariado Ejecutivo",
+    "start_char": 3,
+    "end_char": 25
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:10:term-usage:39-60",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:entidades-federativas",
+    "span": "Entidades Federativas",
+    "start_char": 39,
+    "end_char": 60
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:10:term-usage:136-144",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:registro",
+    "span": "Registro",
+    "start_char": 136,
+    "end_char": 144
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:11:term-usage:65-73",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:registro",
+    "span": "Registro",
+    "start_char": 65,
+    "end_char": 73
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:11:term-usage:191-199",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:registro",
+    "span": "Registro",
+    "start_char": 191,
+    "end_char": 199
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:12:term-usage:36-44",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:registro",
+    "span": "Registro",
+    "start_char": 36,
+    "end_char": 44
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:12:term-usage:228-236",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:registro",
+    "span": "Registro",
+    "start_char": 228,
+    "end_char": 236
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:13:term-usage:183-191",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:registro",
+    "span": "Registro",
+    "start_char": 183,
+    "end_char": 191
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:15:term-usage:38-46",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:registro",
+    "span": "Registro",
+    "start_char": 38,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:16:term-usage:3-25",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:secretariado-ejecutivo",
+    "span": "Secretariado Ejecutivo",
+    "start_char": 3,
+    "end_char": 25
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:17:term-usage:119-127",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:registro",
+    "span": "Registro",
+    "start_char": 119,
+    "end_char": 127
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:18:term-usage:35-56",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:entidades-federativas",
+    "span": "Entidades Federativas",
+    "start_char": 35,
+    "end_char": 56
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:18:term-usage:177-185",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:registro",
+    "span": "Registro",
+    "start_char": 177,
+    "end_char": 185
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:19:term-usage:54-62",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:registro",
+    "span": "Registro",
+    "start_char": 54,
+    "end_char": 62
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:20:term-usage:261-269",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:registro",
+    "span": "Registro",
+    "start_char": 261,
+    "end_char": 269
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:21:term-usage:55-63",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:registro",
+    "span": "Registro",
+    "start_char": 55,
+    "end_char": 63
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:21:term-usage:223-244",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:entidades-federativas",
+    "span": "Entidades Federativas",
+    "start_char": 223,
+    "end_char": 244
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:21:term-usage:487-495",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:registro",
+    "span": "Registro",
+    "start_char": 487,
+    "end_char": 495
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:22:term-usage:55-63",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:registro",
+    "span": "Registro",
+    "start_char": 55,
+    "end_char": 63
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:23:term-usage:21-29",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:registro",
+    "span": "Registro",
+    "start_char": 21,
+    "end_char": 29
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:24:term-usage:281-289",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:registro",
+    "span": "Registro",
+    "start_char": 281,
+    "end_char": 289
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:24:term-usage:294-316",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:secretariado-ejecutivo",
+    "span": "Secretariado Ejecutivo",
+    "start_char": 294,
+    "end_char": 316
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:25:term-usage:154-162",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:registro",
+    "span": "Registro",
+    "start_char": 154,
+    "end_char": 162
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:25:term-usage:263-271",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:registro",
+    "span": "Registro",
+    "start_char": 263,
+    "end_char": 271
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:25:term-usage:783-791",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:registro",
+    "span": "Registro",
+    "start_char": 783,
+    "end_char": 791
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:article:25:term-usage:930-938",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:registro",
+    "span": "Registro",
+    "start_char": 930,
+    "end_char": 938
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:transitory:segundo:term-usage:21-29",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:registro",
+    "span": "Registro",
+    "start_char": 21,
+    "end_char": 29
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:transitory:segundo:term-usage:42-51",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:vehiculos",
+    "span": "Vehículos",
+    "start_char": 42,
+    "end_char": 51
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:transitory:cuarto:term-usage:84-106",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:secretariado-ejecutivo",
+    "span": "Secretariado Ejecutivo",
+    "start_char": 84,
+    "end_char": 106
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:transitory:cuarto:term-usage:637-645",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:registro",
+    "span": "Registro",
+    "start_char": 637,
+    "end_char": 645
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:transitory:cuarto:term-usage:658-667",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:vehiculos",
+    "span": "Vehículos",
+    "start_char": 658,
+    "end_char": 667
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpv:transitory:cuarto:term-usage:770-792",
+    "provision_id": "urn:lex-mx:federal:statute:lrpv:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lrpv:term:secretariado-ejecutivo",
+    "span": "Secretariado Ejecutivo",
+    "start_char": 770,
+    "end_char": 792
+  }
+]

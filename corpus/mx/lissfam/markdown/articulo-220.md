@@ -17,4 +17,4 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 220
 
-El Gobierno Federal aportará al Instituto y al Banco Nacional del Ejército, Fuerza Aérea y Armada, SNC, las cantidades necesarias para cumplir las obligaciones que impone esta Ley, respecto a las siguientes prestaciones: seguro de vida militar, pagas de defunción, ayuda para gastos de sepelio, fondo de trabajo y fondo de ahorro.
+El Gobierno Federal aportará al [Instituto](articulo-4o.md) y al Banco Nacional del Ejército, Fuerza Aérea y Armada, SNC, las cantidades necesarias para cumplir las obligaciones que impone esta [Ley](articulo-4o.md), respecto a las siguientes prestaciones: seguro de vida militar, pagas de defunción, ayuda para gastos de sepelio, fondo de trabajo y fondo de ahorro.

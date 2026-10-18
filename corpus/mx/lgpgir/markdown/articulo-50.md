@@ -17,7 +17,7 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 50
 
-Se requiere autorización de la Secretaría para:
+Se requiere autorización de la [Secretaría](articulo-5.md) para:
 
 I. La prestación de servicios de manejo de residuos peligrosos;
 
@@ -39,4 +39,4 @@ IX. La utilización de tratamientos térmicos de residuos por esterilización o 
 
 X. La importación y exportación de residuos peligrosos, y
 
-XI. Las demás que establezcan la presente Ley y las normas oficiales mexicanas.
+XI. Las demás que establezcan la presente [Ley](articulo-5.md) y las normas oficiales mexicanas.

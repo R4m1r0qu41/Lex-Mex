@@ -17,17 +17,17 @@ source_sha256: 74f2c47c7a9282194b2972ec1366352d94f03042c6d0c7f10efde018cb9e3bfb
 
 # Artículo 14
 
-El Instituto tendrá como funciones las siguientes:
+El [Instituto](articulo-5o.md) tendrá como funciones las siguientes:
 
 I. Instrumentar, como parte de la Política Nacional de Desarrollo Social, la política de fomento y desarrollo del sector social de la economía; Fracción reformada DOF 30-12-2015
 
-II. Propiciar condiciones favorables para el crecimiento y consolidación del Sector, mediante el establecimiento del Programa de Fomento a la Economía Social;
+II. Propiciar condiciones favorables para el crecimiento y consolidación del [Sector](articulo-5o.md), mediante el establecimiento del [Programa](articulo-5o.md) de Fomento a la Economía Social;
 
 III. Vigilar el cumplimiento de las disposiciones de la presente Ley;
 
 IV. Formular y ejecutar programas y proyectos de apoyo público a la promoción, fomento y desarrollo del Sector;
 
-V. Participar en la elaboración, consecución y verificación del Plan Nacional de Desarrollo, en términos de lo dispuesto por la Ley de Planeación y demás disposiciones aplicables a las actividades económicas que desarrollen los Organismos del Sector;
+V. Participar en la elaboración, consecución y verificación del Plan Nacional de Desarrollo, en términos de lo dispuesto por la Ley de Planeación y demás disposiciones aplicables a las actividades económicas que desarrollen los [Organismos del Sector](articulo-5o.md);
 
 VI. Ser órgano consultivo del Estado en la formulación de políticas relativas al Sector, en términos de lo dispuesto por la Ley de Planeación y demás disposiciones aplicables a las actividades económicas que desarrollen los Organismos del Sector; VII. (Se deroga) Fracción derogada DOF 11-06-2013
 
@@ -41,7 +41,7 @@ XI. Promover la creación de Organismos de Representación del Sector de conform
 
 XII. Promover y apoyar la creación de Organismos del Sector que se constituyan y operen conforme a las Leyes que regulan sus materias específicas, para la prestación de servicios financieros al mismo Sector;
 
-XIII. Difundir los valores, principios y fines del Sector, así como sus principales logros empresariales y asociativos, y las demás que se establezcan en el Acuerdo; Fracción reformada DOF 11-06-2013, 30-12-2015
+XIII. Difundir los valores, principios y fines del Sector, así como sus principales logros empresariales y asociativos, y las demás que se establezcan en el [Acuerdo](articulo-5o.md); Fracción reformada DOF 11-06-2013, 30-12-2015
 
 XIV. Elaborar y mantener actualizado el catálogo de los diferentes tipos de Organismos del Sector, teniendo en cuenta los principios, valores y fines establecidos en la presente Ley;
 

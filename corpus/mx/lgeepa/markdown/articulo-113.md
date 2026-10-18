@@ -17,6 +17,6 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 113
 
-No deberán emitirse contaminantes a la atmósfera que ocasionen o puedan ocasionar desequilibrios ecológicos o daños al ambiente. En todas las emisiones a la atmósfera, deberán ser observadas las previsiones de esta Ley y de las disposiciones reglamentarias que de ella emanen, así como las normas oficiales mexicanas expedidas por la Secretaría.
+No deberán emitirse contaminantes a la atmósfera que ocasionen o puedan ocasionar desequilibrios ecológicos o daños al ambiente. En todas las emisiones a la atmósfera, deberán ser observadas las previsiones de esta Ley y de las disposiciones reglamentarias que de ella emanen, así como las normas oficiales mexicanas expedidas por la [Secretaría](articulo-3o.md).
 
 Artículo reformado DOF 13-12-1996

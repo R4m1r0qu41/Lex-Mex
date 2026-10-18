@@ -19,6 +19,6 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 En caso de fallecimiento de un militar, el familiar que acredite mediante factura original haber realizado los gastos de sepelio tendrá derecho a que se les cubra, por concepto de pagas de defunción, el equivalente a cuatro meses del haber y del sobrehaber, más cuatro meses de asignaciones cuando las estuviere percibiendo en la fecha del deceso, o cuatro meses del haber de retiro, en su caso, para atender los gastos de sepelio.
 
-Esta prestación será cubierta, en caso de militares en activo por la Unidad Ejecutora de Pago correspondiente o por el Instituto, en caso de militares retirados que a la fecha del deceso estuvieren percibiendo haber de retiro.
+Esta prestación será cubierta, en caso de militares en activo por la Unidad Ejecutora de Pago correspondiente o por el [Instituto](articulo-4o.md), en caso de militares retirados que a la fecha del deceso estuvieren percibiendo haber de retiro.
 
 Artículo reformado DOF 20-11-2008

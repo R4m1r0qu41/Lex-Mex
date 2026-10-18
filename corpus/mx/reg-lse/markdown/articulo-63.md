@@ -17,4 +17,4 @@ source_sha256: 4bcc982b308b0813469b30db61b53d5a2c41e5a7240b3b1cac2f1aeeb2c00a2e
 
 # Artículo 63
 
-El Estado y las personas particulares pueden desarrollar proyectos de Centrales Eléctricas y su infraestructura asociada. Para tales efectos, deben llevar a cabo los trámites correspondientes ante el CENACE y solicitar las autorizaciones y permisos correspondientes en los términos previstos en la Ley, el presente reglamento y en las disposiciones administrativas de carácter general que resulten aplicables.
+El Estado y las personas particulares pueden desarrollar proyectos de Centrales Eléctricas y su infraestructura asociada. Para tales efectos, deben llevar a cabo los trámites correspondientes ante el CENACE y solicitar las autorizaciones y permisos correspondientes en los términos previstos en la [Ley](articulo-2.md), el presente reglamento y en las disposiciones administrativas de carácter general que resulten aplicables.

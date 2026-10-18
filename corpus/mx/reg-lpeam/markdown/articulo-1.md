@@ -17,4 +17,4 @@ source_sha256: 4195c0740ad46978a8b0f2d43f0ac6d77e46b0216bd6f756950b1a050044ce98
 
 # Artículo 1
 
-El presente reglamento tiene por objeto regular la actuación y coordinación de las dependencias y entidades de la Administración Pública Federal que, en el ámbito de sus competencias, deban coadyuvar en la Vigilancia y Protección del Espacio Aéreo Mexicano, en términos de la Ley de Protección del Espacio Aéreo Mexicano. La aplicación e interpretación de este reglamento corresponde a la Secretaría de la Defensa Nacional y demás autoridades que resulten competentes.
+El presente reglamento tiene por objeto regular la actuación y coordinación de las dependencias y entidades de la Administración Pública Federal que, en el ámbito de sus competencias, deban coadyuvar en la [Vigilancia](articulo-4.md) y Protección del Espacio Aéreo Mexicano, en términos de la [Ley](articulo-4.md) de Protección del Espacio Aéreo Mexicano. La aplicación e interpretación de este reglamento corresponde a la Secretaría de la Defensa Nacional y demás autoridades que resulten competentes.

@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 95
 
-La CONUEE debe verificar que se inscriban en el Registro UPAC las instalaciones que se encuentran obligadas a tal efecto, y en su caso, notificar a las personas Usuarias de Patrón de Alto Consumo que hayan omitido su registro para que lo realicen.
+La CONUEE debe verificar que se inscriban en el [Registro UPAC](articulo-5.md) las instalaciones que se encuentran obligadas a tal efecto, y en su caso, notificar a las personas Usuarias de Patrón de Alto Consumo que hayan omitido su registro para que lo realicen.

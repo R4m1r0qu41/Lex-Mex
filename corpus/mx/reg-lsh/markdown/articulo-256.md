@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 256
 
-La persona titular de la presidencia del Consejo Consultivo tiene las siguientes funciones: I. Coordinar las sesiones del Consejo Consultivo; II. Solicitar a la persona secretaria técnica la elaboración de estudios sobre los asuntos que se presenten a la consideración del Consejo Consultivo, y III. Proponer los lineamientos que regulen el funcionamiento del Consejo Consultivo.
+La persona titular de la presidencia del [Consejo Consultivo](articulo-3.md) tiene las siguientes funciones: I. Coordinar las sesiones del Consejo Consultivo; II. Solicitar a la persona secretaria técnica la elaboración de estudios sobre los asuntos que se presenten a la consideración del Consejo Consultivo, y III. Proponer los lineamientos que regulen el funcionamiento del Consejo Consultivo.

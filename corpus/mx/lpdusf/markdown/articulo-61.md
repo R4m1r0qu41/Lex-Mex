@@ -17,6 +17,6 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 61
 
-La Comisión Nacional no conocerá de las reclamaciones por variaciones de las tasas de interés pactadas entre el Usuario y la Institución Financiera, cuando tales variaciones sean consecuencia directa de condiciones generales observadas en los mercados.
+La [Comisión Nacional](articulo-2o.md) no conocerá de las reclamaciones por variaciones de las tasas de interés pactadas entre el [Usuario](articulo-2o.md) y la [Institución Financiera](articulo-2o.md), cuando tales variaciones sean consecuencia directa de condiciones generales observadas en los mercados.
 
 Artículo reformado DOF 05-01-2000

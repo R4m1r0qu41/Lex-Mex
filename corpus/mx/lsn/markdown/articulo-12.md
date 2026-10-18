@@ -17,7 +17,7 @@ source_sha256: 7b3cf7a0ff59f76503a97a535457c4a7dd3b1305e7a36f4fca82bd661eab1168
 
 # Artículo 12
 
-Para la coordinación de acciones orientadas a preservar la Seguridad Nacional se establece el Consejo de Seguridad Nacional, que estará integrado por:
+Para la coordinación de acciones orientadas a preservar la Seguridad Nacional se establece el [Consejo](articulo-6.md) de Seguridad Nacional, que estará integrado por:
 
 I. El Titular del Ejecutivo Federal, quien lo presidirá;
 
@@ -37,7 +37,7 @@ VIII. El Secretario de Relaciones Exteriores; IX. El Secretario de Comunicacione
 
 X. El Fiscal General de la República, y Fracción reformada DOF 20-05-2021
 
-XI. El Director General del Centro de Investigación y Seguridad Nacional.
+XI. El Director General del [Centro](articulo-6.md) de Investigación y Seguridad Nacional.
 
 Los integrantes del Consejo no podrán nombrar suplente. En caso de ausencia del Presidente, el Secretario Ejecutivo presidirá la reunión.
 

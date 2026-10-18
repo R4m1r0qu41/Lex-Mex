@@ -17,7 +17,7 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 26
 
-Las entidades federativas y los municipios, en el ámbito de sus respectivas competencias y en coordinación con la Federación, deberán elaborar e instrumentar los programas locales para la prevención y gestión integral de los residuos sólidos urbanos y de manejo especial, de conformidad con esta Ley, con el Diagnóstico Básico para la Gestión Integral de Residuos y demás disposiciones aplicables. Dichos programas deberán contener al menos lo siguiente: Párrafo reformado DOF 19-03-2014
+Las entidades federativas y los municipios, en el ámbito de sus respectivas competencias y en coordinación con la Federación, deberán elaborar e instrumentar los programas locales para la prevención y gestión integral de los residuos sólidos urbanos y de manejo especial, de conformidad con esta [Ley](articulo-5.md), con el Diagnóstico Básico para la [Gestión Integral de Residuos](articulo-5.md) y demás disposiciones aplicables. Dichos programas deberán contener al menos lo siguiente: Párrafo reformado DOF 19-03-2014
 
 I. El diagnóstico básico para la gestión integral de residuos de su competencia, en el que se precise la capacidad y efectividad de la infraestructura disponible para satisfacer la demanda de servicios;
 
@@ -29,4 +29,4 @@ IV. Los medios de financiamiento de las acciones consideradas en los programas;
 
 V. Los mecanismos para fomentar la vinculación entre los programas municipales correspondientes, a fin de crear sinergias, y
 
-VI. La asistencia técnica que en su caso brinde la Secretaría.
+VI. La asistencia técnica que en su caso brinde la [Secretaría](articulo-5.md).

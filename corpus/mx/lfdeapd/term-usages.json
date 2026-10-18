@@ -1,1 +1,1676 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:1:term-usage:134-166",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 134,
+    "end_char": 166
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:1:term-usage:295-315",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 295,
+    "end_char": 315
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:1:term-usage:321-331",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:familiares",
+    "span": "Familiares",
+    "start_char": 321,
+    "end_char": 331
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:1:term-usage:399-420",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:organo-jurisdiccional",
+    "span": "Órgano Jurisdiccional",
+    "start_char": 399,
+    "end_char": 420
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:1:term-usage:535-555",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 535,
+    "end_char": 555
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:1:term-usage:642-662",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 642,
+    "end_char": 662
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:1:term-usage:747-757",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:familiares",
+    "span": "Familiares",
+    "start_char": 747,
+    "end_char": 757
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:2:term-usage:107-127",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 107,
+    "end_char": 127
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:2:term-usage:134-144",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:familiares",
+    "span": "Familiares",
+    "start_char": 134,
+    "end_char": 144
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:3:term-usage:128-146",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 128,
+    "end_char": 146
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:3:term-usage:411-433",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Personas Desaparecidas",
+    "start_char": 411,
+    "end_char": 433
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:3:term-usage:537-557",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 537,
+    "end_char": 557
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:3:term-usage:911-931",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 911,
+    "end_char": 931
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:3:term-usage:2028-2057",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:comision-nacional-de-busqueda",
+    "span": "Comisión Nacional de Búsqueda",
+    "start_char": 2028,
+    "end_char": 2057
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:3:term-usage:2126-2150",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:fiscalia-especializada",
+    "span": "Fiscalías Especializadas",
+    "start_char": 2126,
+    "end_char": 2150
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:4:term-usage:142-174",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 142,
+    "end_char": 174
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:4:term-usage:311-343",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 311,
+    "end_char": 343
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:4:term-usage:409-441",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 409,
+    "end_char": 441
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:4:term-usage:456-477",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:organo-jurisdiccional",
+    "span": "Órgano Jurisdiccional",
+    "start_char": 456,
+    "end_char": 477
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:4:term-usage:1614-1646",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 1614,
+    "end_char": 1646
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:4:term-usage:1672-1682",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:familiares",
+    "span": "Familiares",
+    "start_char": 1672,
+    "end_char": 1682
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:4:term-usage:1858-1890",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 1858,
+    "end_char": 1890
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:4:term-usage:2091-2111",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 2091,
+    "end_char": 2111
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:4:term-usage:2118-2128",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:familiares",
+    "span": "Familiares",
+    "start_char": 2118,
+    "end_char": 2128
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:4:term-usage:2248-2280",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 2248,
+    "end_char": 2280
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:4:term-usage:2728-2760",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 2728,
+    "end_char": 2760
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:4:term-usage:2765-2786",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:organo-jurisdiccional",
+    "span": "Órgano Jurisdiccional",
+    "start_char": 2765,
+    "end_char": 2786
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:4:term-usage:2885-2895",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:familiares",
+    "span": "Familiares",
+    "start_char": 2885,
+    "end_char": 2895
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:4:term-usage:2958-2990",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 2958,
+    "end_char": 2990
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:4:term-usage:3497-3517",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 3497,
+    "end_char": 3517
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:4:term-usage:3526-3536",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:familiares",
+    "span": "Familiares",
+    "start_char": 3526,
+    "end_char": 3536
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:4:term-usage:3579-3611",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 3579,
+    "end_char": 3611
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:4:term-usage:3616-3637",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:organo-jurisdiccional",
+    "span": "Órgano Jurisdiccional",
+    "start_char": 3616,
+    "end_char": 3637
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:4:term-usage:3673-3705",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 3673,
+    "end_char": 3705
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:4:term-usage:3872-3904",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 3872,
+    "end_char": 3904
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:4:term-usage:4254-4286",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 4254,
+    "end_char": 4286
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:4:term-usage:4359-4379",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 4359,
+    "end_char": 4379
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:5:term-usage:4-14",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:familiares",
+    "span": "Familiares",
+    "start_char": 4,
+    "end_char": 14
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:5:term-usage:92-114",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:fiscalia-especializada",
+    "span": "Fiscalía Especializada",
+    "start_char": 92,
+    "end_char": 114
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:5:term-usage:158-190",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 158,
+    "end_char": 190
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:5:term-usage:199-220",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:organo-jurisdiccional",
+    "span": "Órgano Jurisdiccional",
+    "start_char": 199,
+    "end_char": 220
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:6:term-usage:122-154",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 122,
+    "end_char": 154
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:6:term-usage:171-192",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:organo-jurisdiccional",
+    "span": "Órgano Jurisdiccional",
+    "start_char": 171,
+    "end_char": 192
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:6:term-usage:237-269",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 237,
+    "end_char": 269
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:6:term-usage:438-460",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Personas Desaparecidas",
+    "start_char": 438,
+    "end_char": 460
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:6:term-usage:467-477",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:familiares",
+    "span": "Familiares",
+    "start_char": 467,
+    "end_char": 477
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:7:term-usage:20-52",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 20,
+    "end_char": 52
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:7:term-usage:109-119",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:familiares",
+    "span": "Familiares",
+    "start_char": 109,
+    "end_char": 119
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:7:term-usage:210-230",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 210,
+    "end_char": 230
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:7:term-usage:344-354",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:familiares",
+    "span": "Familiares",
+    "start_char": 344,
+    "end_char": 354
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:7:term-usage:402-412",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:familiares",
+    "span": "Familiares",
+    "start_char": 402,
+    "end_char": 412
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:7:term-usage:423-438",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:asesor-juridico",
+    "span": "Asesor Jurídico",
+    "start_char": 423,
+    "end_char": 438
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:8:term-usage:20-52",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 20,
+    "end_char": 52
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:9:term-usage:28-50",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:fiscalia-especializada",
+    "span": "Fiscalía Especializada",
+    "start_char": 28,
+    "end_char": 50
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:9:term-usage:55-73",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 55,
+    "end_char": 73
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:9:term-usage:79-108",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:comision-nacional-de-busqueda",
+    "span": "Comisión Nacional de Búsqueda",
+    "start_char": 79,
+    "end_char": 108
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:9:term-usage:180-212",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 180,
+    "end_char": 212
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:9:term-usage:219-229",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:familiares",
+    "span": "Familiares",
+    "start_char": 219,
+    "end_char": 229
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:9:term-usage:363-383",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 363,
+    "end_char": 383
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:9:term-usage:414-436",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:fiscalia-especializada",
+    "span": "Fiscalía Especializada",
+    "start_char": 414,
+    "end_char": 436
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:9:term-usage:472-482",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:familiares",
+    "span": "Familiares",
+    "start_char": 472,
+    "end_char": 482
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:9:term-usage:527-548",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:organo-jurisdiccional",
+    "span": "Órgano Jurisdiccional",
+    "start_char": 527,
+    "end_char": 548
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:9:term-usage:583-615",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 583,
+    "end_char": 615
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:9:term-usage:711-731",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 711,
+    "end_char": 731
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:9:term-usage:741-751",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:familiares",
+    "span": "Familiares",
+    "start_char": 741,
+    "end_char": 751
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:9:term-usage:804-826",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:fiscalia-especializada",
+    "span": "Fiscalía Especializada",
+    "start_char": 804,
+    "end_char": 826
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:9:term-usage:966-976",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:familiares",
+    "span": "Familiares",
+    "start_char": 966,
+    "end_char": 976
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:9:term-usage:1079-1089",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:familiares",
+    "span": "Familiares",
+    "start_char": 1079,
+    "end_char": 1089
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:9:term-usage:1131-1149",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 1131,
+    "end_char": 1149
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:9:term-usage:1162-1177",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:asesor-juridico",
+    "span": "Asesor Jurídico",
+    "start_char": 1162,
+    "end_char": 1177
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:9:term-usage:1208-1240",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 1208,
+    "end_char": 1240
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:10:term-usage:16-48",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 16,
+    "end_char": 48
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:10:term-usage:160-180",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 160,
+    "end_char": 180
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:10:term-usage:264-284",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 264,
+    "end_char": 284
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:10:term-usage:343-365",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:fiscalia-especializada",
+    "span": "Fiscalía Especializada",
+    "start_char": 343,
+    "end_char": 365
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:10:term-usage:385-414",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:comision-nacional-de-busqueda",
+    "span": "Comisión Nacional de Búsqueda",
+    "start_char": 385,
+    "end_char": 414
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:10:term-usage:680-690",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:familiares",
+    "span": "Familiares",
+    "start_char": 680,
+    "end_char": 690
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:10:term-usage:788-808",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 788,
+    "end_char": 808
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:10:term-usage:850-870",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 850,
+    "end_char": 870
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:10:term-usage:1001-1021",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 1001,
+    "end_char": 1021
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:10:term-usage:1057-1077",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 1057,
+    "end_char": 1077
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:10:term-usage:1161-1193",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 1161,
+    "end_char": 1193
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:10:term-usage:1311-1332",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:organo-jurisdiccional",
+    "span": "Órgano Jurisdiccional",
+    "start_char": 1311,
+    "end_char": 1332
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:10:term-usage:1391-1411",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 1391,
+    "end_char": 1411
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:10:term-usage:1516-1548",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 1516,
+    "end_char": 1548
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:10:term-usage:1586-1607",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:organo-jurisdiccional",
+    "span": "Órgano Jurisdiccional",
+    "start_char": 1586,
+    "end_char": 1607
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:10:term-usage:1651-1683",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 1651,
+    "end_char": 1683
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:11:term-usage:34-66",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 34,
+    "end_char": 66
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:12:term-usage:27-59",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 27,
+    "end_char": 59
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:12:term-usage:76-96",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 76,
+    "end_char": 96
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:12:term-usage:118-145",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:mecanismo-de-apoyo-exterior",
+    "span": "Mecanismo de Apoyo Exterior",
+    "start_char": 118,
+    "end_char": 145
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:12:term-usage:164-174",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:familiares",
+    "span": "Familiares",
+    "start_char": 164,
+    "end_char": 174
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:12:term-usage:260-281",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:organo-jurisdiccional",
+    "span": "Órgano Jurisdiccional",
+    "start_char": 260,
+    "end_char": 281
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:12:term-usage:338-358",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 338,
+    "end_char": 358
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:12:term-usage:365-375",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:familiares",
+    "span": "Familiares",
+    "start_char": 365,
+    "end_char": 375
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:13:term-usage:31-63",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 31,
+    "end_char": 63
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:13:term-usage:119-140",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:organo-jurisdiccional",
+    "span": "Órgano Jurisdiccional",
+    "start_char": 119,
+    "end_char": 140
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:13:term-usage:268-288",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 268,
+    "end_char": 288
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:13:term-usage:340-361",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:organo-jurisdiccional",
+    "span": "Órgano Jurisdiccional",
+    "start_char": 340,
+    "end_char": 361
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:13:term-usage:427-459",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 427,
+    "end_char": 459
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:13:term-usage:524-544",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 524,
+    "end_char": 544
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:14:term-usage:3-24",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:organo-jurisdiccional",
+    "span": "Órgano Jurisdiccional",
+    "start_char": 3,
+    "end_char": 24
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:14:term-usage:306-327",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:organo-jurisdiccional",
+    "span": "Órgano Jurisdiccional",
+    "start_char": 306,
+    "end_char": 327
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:15:term-usage:3-24",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:organo-jurisdiccional",
+    "span": "Órgano Jurisdiccional",
+    "start_char": 3,
+    "end_char": 24
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:15:term-usage:68-90",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:fiscalia-especializada",
+    "span": "Fiscalía Especializada",
+    "start_char": 68,
+    "end_char": 90
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:15:term-usage:97-126",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:comision-nacional-de-busqueda",
+    "span": "Comisión Nacional de Búsqueda",
+    "start_char": 97,
+    "end_char": 126
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:15:term-usage:134-152",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 134,
+    "end_char": 152
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:15:term-usage:278-310",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 278,
+    "end_char": 310
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:15:term-usage:447-468",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:organo-jurisdiccional",
+    "span": "Órgano Jurisdiccional",
+    "start_char": 447,
+    "end_char": 468
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:16:term-usage:46-66",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 46,
+    "end_char": 66
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:16:term-usage:75-85",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:familiares",
+    "span": "Familiares",
+    "start_char": 75,
+    "end_char": 85
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:16:term-usage:90-111",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:organo-jurisdiccional",
+    "span": "Órgano Jurisdiccional",
+    "start_char": 90,
+    "end_char": 111
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:16:term-usage:529-547",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 529,
+    "end_char": 547
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:17:term-usage:3-24",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:organo-jurisdiccional",
+    "span": "Órgano Jurisdiccional",
+    "start_char": 3,
+    "end_char": 24
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:17:term-usage:324-353",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:comision-nacional-de-busqueda",
+    "span": "Comisión Nacional de Búsqueda",
+    "start_char": 324,
+    "end_char": 353
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:17:term-usage:549-581",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 549,
+    "end_char": 581
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:18:term-usage:152-173",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:organo-jurisdiccional",
+    "span": "Órgano Jurisdiccional",
+    "start_char": 152,
+    "end_char": 173
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:18:term-usage:215-247",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 215,
+    "end_char": 247
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:18:term-usage:315-336",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:organo-jurisdiccional",
+    "span": "Órgano Jurisdiccional",
+    "start_char": 315,
+    "end_char": 336
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:18:term-usage:364-396",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 364,
+    "end_char": 396
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:19:term-usage:21-42",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:organo-jurisdiccional",
+    "span": "Órgano Jurisdiccional",
+    "start_char": 21,
+    "end_char": 42
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:19:term-usage:60-92",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 60,
+    "end_char": 92
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:19:term-usage:335-367",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 335,
+    "end_char": 367
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:20:term-usage:27-48",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:organo-jurisdiccional",
+    "span": "Órgano Jurisdiccional",
+    "start_char": 27,
+    "end_char": 48
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:20:term-usage:58-90",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 58,
+    "end_char": 90
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:20:term-usage:180-200",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 180,
+    "end_char": 200
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:20:term-usage:207-217",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:familiares",
+    "span": "Familiares",
+    "start_char": 207,
+    "end_char": 217
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:20:term-usage:223-244",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:organo-jurisdiccional",
+    "span": "Órgano Jurisdiccional",
+    "start_char": 223,
+    "end_char": 244
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:20:term-usage:655-684",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:comision-nacional-de-busqueda",
+    "span": "Comisión Nacional de Búsqueda",
+    "start_char": 655,
+    "end_char": 684
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:21:term-usage:3-35",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 3,
+    "end_char": 35
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:21:term-usage:124-144",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 124,
+    "end_char": 144
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:21:term-usage:280-300",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 280,
+    "end_char": 300
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:21:term-usage:722-742",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 722,
+    "end_char": 742
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:21:term-usage:926-936",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:familiares",
+    "span": "Familiares",
+    "start_char": 926,
+    "end_char": 936
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:21:term-usage:1036-1056",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 1036,
+    "end_char": 1056
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:21:term-usage:1179-1199",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 1179,
+    "end_char": 1199
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:21:term-usage:1418-1438",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 1418,
+    "end_char": 1438
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:21:term-usage:1542-1562",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 1542,
+    "end_char": 1562
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:21:term-usage:1815-1835",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 1815,
+    "end_char": 1835
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:21:term-usage:1899-1919",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 1899,
+    "end_char": 1919
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:21:term-usage:1963-1973",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:familiares",
+    "span": "Familiares",
+    "start_char": 1963,
+    "end_char": 1973
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:21:term-usage:2071-2091",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 2071,
+    "end_char": 2091
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:21:term-usage:2269-2301",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 2269,
+    "end_char": 2301
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:21:term-usage:2506-2538",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 2506,
+    "end_char": 2538
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:21:term-usage:2557-2578",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:organo-jurisdiccional",
+    "span": "Órgano Jurisdiccional",
+    "start_char": 2557,
+    "end_char": 2578
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:22:term-usage:3-35",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 3,
+    "end_char": 35
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:22:term-usage:394-414",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 394,
+    "end_char": 414
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:22:term-usage:423-433",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:familiares",
+    "span": "Familiares",
+    "start_char": 423,
+    "end_char": 433
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:22:term-usage:439-471",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 439,
+    "end_char": 471
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:23:term-usage:3-24",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:organo-jurisdiccional",
+    "span": "Órgano Jurisdiccional",
+    "start_char": 3,
+    "end_char": 24
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:23:term-usage:327-348",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:organo-jurisdiccional",
+    "span": "Órgano Jurisdiccional",
+    "start_char": 327,
+    "end_char": 348
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:24:term-usage:29-49",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 29,
+    "end_char": 49
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:24:term-usage:210-242",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 210,
+    "end_char": 242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:24:term-usage:315-325",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:familiares",
+    "span": "Familiares",
+    "start_char": 315,
+    "end_char": 325
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:24:term-usage:332-352",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 332,
+    "end_char": 352
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:24:term-usage:451-472",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:organo-jurisdiccional",
+    "span": "Órgano Jurisdiccional",
+    "start_char": 451,
+    "end_char": 472
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:24:term-usage:493-525",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 493,
+    "end_char": 525
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:24:term-usage:542-552",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:familiares",
+    "span": "Familiares",
+    "start_char": 542,
+    "end_char": 552
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:24:term-usage:573-593",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 573,
+    "end_char": 593
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:24:term-usage:739-760",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:organo-jurisdiccional",
+    "span": "Órgano Jurisdiccional",
+    "start_char": 739,
+    "end_char": 760
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:25:term-usage:78-98",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 78,
+    "end_char": 98
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:25:term-usage:179-200",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:organo-jurisdiccional",
+    "span": "Órgano Jurisdiccional",
+    "start_char": 179,
+    "end_char": 200
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:25:term-usage:215-247",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 215,
+    "end_char": 247
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:25:term-usage:383-403",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 383,
+    "end_char": 403
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:25:term-usage:446-478",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 446,
+    "end_char": 478
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:25:term-usage:518-538",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 518,
+    "end_char": 538
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:26:term-usage:3-35",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 3,
+    "end_char": 35
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:26:term-usage:75-95",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 75,
+    "end_char": 95
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:26:term-usage:1050-1070",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 1050,
+    "end_char": 1070
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:26:term-usage:1267-1287",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 1267,
+    "end_char": 1287
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:26:term-usage:1330-1362",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 1330,
+    "end_char": 1362
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:27:term-usage:73-93",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 73,
+    "end_char": 93
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:28:term-usage:68-100",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 68,
+    "end_char": 100
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:28:term-usage:144-154",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:familiares",
+    "span": "Familiares",
+    "start_char": 144,
+    "end_char": 154
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:28:term-usage:212-233",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:organo-jurisdiccional",
+    "span": "Órgano Jurisdiccional",
+    "start_char": 212,
+    "end_char": 233
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:28:term-usage:272-292",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 272,
+    "end_char": 292
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:28:term-usage:366-387",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:organo-jurisdiccional",
+    "span": "Órgano Jurisdiccional",
+    "start_char": 366,
+    "end_char": 387
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:29:term-usage:23-55",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 23,
+    "end_char": 55
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:29:term-usage:128-149",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:organo-jurisdiccional",
+    "span": "Órgano Jurisdiccional",
+    "start_char": 128,
+    "end_char": 149
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:29:term-usage:297-307",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:familiares",
+    "span": "Familiares",
+    "start_char": 297,
+    "end_char": 307
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:30:term-usage:6-26",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 6,
+    "end_char": 26
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:30:term-usage:52-84",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 52,
+    "end_char": 84
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:31:term-usage:292-324",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 292,
+    "end_char": 324
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:31:term-usage:395-416",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:organo-jurisdiccional",
+    "span": "Órgano Jurisdiccional",
+    "start_char": 395,
+    "end_char": 416
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:32:term-usage:17-49",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "span": "Declaración Especial de Ausencia",
+    "start_char": 17,
+    "end_char": 49
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:32:term-usage:196-216",
+    "provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "span": "Persona Desaparecida",
+    "start_char": 196,
+    "end_char": 216
+  }
+]

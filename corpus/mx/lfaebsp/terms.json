@@ -1,1 +1,145 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:term:autoridades-aduaneras",
+    "term": "Autoridades Aduaneras",
+    "instrument_id": "urn:lex-mx:federal:statute:lfaebsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:2",
+    "fraction": "I",
+    "start_char": 48,
+    "end_char": 316,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "term": "Bienes",
+    "instrument_id": "urn:lex-mx:federal:statute:lfaebsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:2",
+    "fraction": "II",
+    "start_char": 316,
+    "end_char": 640,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes-incosteables",
+    "term": "Bienes incosteables",
+    "instrument_id": "urn:lex-mx:federal:statute:lfaebsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:2",
+    "fraction": "III",
+    "start_char": 640,
+    "end_char": 951,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:term:empresa",
+    "term": "Empresa",
+    "instrument_id": "urn:lex-mx:federal:statute:lfaebsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:2",
+    "fraction": "IV",
+    "start_char": 951,
+    "end_char": 1433,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:term:entidades-transferentes",
+    "term": "Entidades Transferentes",
+    "instrument_id": "urn:lex-mx:federal:statute:lfaebsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:2",
+    "fraction": "V",
+    "start_char": 1433,
+    "end_char": 2990,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "term": "Instituto",
+    "instrument_id": "urn:lex-mx:federal:statute:lfaebsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:2",
+    "fraction": "VI",
+    "start_char": 2990,
+    "end_char": 3224,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:term:interesado",
+    "term": "Interesado",
+    "instrument_id": "urn:lex-mx:federal:statute:lfaebsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:2",
+    "fraction": "VII",
+    "start_char": 3224,
+    "end_char": 3445,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:term:junta-de-gobierno",
+    "term": "Junta de Gobierno",
+    "instrument_id": "urn:lex-mx:federal:statute:lfaebsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:2",
+    "fraction": "VIII",
+    "start_char": 3445,
+    "end_char": 3588,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:term:ministerio-publico",
+    "term": "Ministerio Público",
+    "instrument_id": "urn:lex-mx:federal:statute:lfaebsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:2",
+    "fraction": "IX",
+    "start_char": 3588,
+    "end_char": 3818,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:term:monetizacion",
+    "term": "Monetización",
+    "instrument_id": "urn:lex-mx:federal:statute:lfaebsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:2",
+    "fraction": "X",
+    "start_char": 3818,
+    "end_char": 3944,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:term:reglamento",
+    "term": "Reglamento",
+    "instrument_id": "urn:lex-mx:federal:statute:lfaebsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:2",
+    "fraction": "XI",
+    "start_char": 3944,
+    "end_char": 4035,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lfaebsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:2",
+    "fraction": "XII",
+    "start_char": 4035,
+    "end_char": 4135,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:term:transferencia",
+    "term": "Transferencia",
+    "instrument_id": "urn:lex-mx:federal:statute:lfaebsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:2",
+    "fraction": "XIII",
+    "start_char": 4135,
+    "end_char": 4485,
+    "basis": "express_definition"
+  }
+]

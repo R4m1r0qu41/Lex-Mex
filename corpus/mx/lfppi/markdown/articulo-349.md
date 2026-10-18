@@ -21,4 +21,4 @@ La persona solicitante de las medidas provisionales a que se refiere el artícul
 
 I.- La resolución definitiva sobre el fondo de la controversia declare que no existió violación ni amenaza de violación a los derechos del solicitante de la medida, y
 
-II.- Se haya solicitado una medida provisional y no se hubiese presentado la demanda o solicitud de declaración administrativa de infracción ante la autoridad competente o ante el Instituto respecto del fondo de la controversia, dentro de un plazo de veinte días contados a partir del día hábil siguiente a la ejecución de la medida.
+II.- Se haya solicitado una medida provisional y no se hubiese presentado la demanda o solicitud de declaración administrativa de infracción ante la autoridad competente o ante el [Instituto](articulo-4.md) respecto del fondo de la controversia, dentro de un plazo de veinte días contados a partir del día hábil siguiente a la ejecución de la medida.

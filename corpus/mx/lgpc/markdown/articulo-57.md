@@ -17,6 +17,6 @@ source_sha256: d8dd1de3627b899bb4faf31c2812c3d5f14f7108be153d5aa8dd549b9136184a
 
 # Artículo 57
 
-Le corresponde a la Secretaría, a través de la Coordinación Nacional, asesorar a las entidades federativas y dependencias federales en la aplicación de los instrumentos financieros de Gestión de Riesgos.
+Le corresponde a la [Secretaría](articulo-2.md), a través de la [Coordinación Nacional](articulo-2.md), asesorar a las entidades federativas y dependencias federales en la aplicación de los instrumentos financieros de Gestión de [Riesgos](articulo-2.md).
 
 Artículo reformado DOF 19-01-2018

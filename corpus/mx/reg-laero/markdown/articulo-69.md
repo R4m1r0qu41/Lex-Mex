@@ -19,7 +19,7 @@ Los contratos terminan por:
 
 I. Acuerdo entre las partes;
 
-II. Revocación de la autorización del contrato, en términos del artículo [56](../../laero/markdown/articulo-56.md) de la Ley;
+II. Revocación de la autorización del contrato, en términos del artículo [56](../../laero/markdown/articulo-56.md) de la [Ley](articulo-2.md);
 
 III. Revocación de la concesión o permiso para operar, administrar o explotar el aeródromo civil;
 

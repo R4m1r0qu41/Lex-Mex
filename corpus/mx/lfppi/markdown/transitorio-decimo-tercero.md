@@ -15,4 +15,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # DÉCIMO TERCERO
 
-Las declaraciones administrativas que se encuentren en trámite a la entrada en vigor del presente Decreto continuarán substanciándose y se resolverán conforme a las disposiciones contenidas en la Ley de la Propiedad Industrial que se abroga.
+Las declaraciones administrativas que se encuentren en trámite a la entrada en vigor del presente Decreto continuarán substanciándose y se resolverán conforme a las disposiciones contenidas en la [Ley](articulo-4.md) de la Propiedad Industrial que se abroga.

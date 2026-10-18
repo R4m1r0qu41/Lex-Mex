@@ -17,7 +17,7 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 160
 
-[La relación de concubinato será acreditada necesariamente, y en todo caso, con la designación que el militar haya hecho de la persona interesada, como concubina o concubinario, ante el Instituto o la Secretaría de la Defensa Nacional o de Marina. La designación posterior anula la anterior, siempre que se haya formulado dentro del plazo establecido en el artículo [143](articulo-143.md) de esta Ley y acreditado las circunstancias de los incisos a) y b) de la fracción II del artículo [38](articulo-38.md) de esta Ley, se acreditarán con los medios de prueba establecidos por el Código Nacional de Procedimientos Civiles y Familiares.]
+[La relación de concubinato será acreditada necesariamente, y en todo caso, con la designación que el militar haya hecho de la persona interesada, como concubina o concubinario, ante el [Instituto](articulo-4o.md) o la Secretaría de la Defensa Nacional o de Marina. La designación posterior anula la anterior, siempre que se haya formulado dentro del plazo establecido en el artículo [143](articulo-143.md) de esta [Ley](articulo-4o.md) y acreditado las circunstancias de los incisos a) y b) de la fracción II del artículo [38](articulo-38.md) de esta Ley, se acreditarán con los medios de prueba establecidos por el Código Nacional de Procedimientos Civiles y Familiares.]
 
 Artículo reformado DOF 20-11-2008, 14-11-2025
 

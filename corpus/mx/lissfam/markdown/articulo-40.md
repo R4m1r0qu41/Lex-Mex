@@ -17,7 +17,7 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 40
 
-Los familiares del militar muerto en el activo en actos del servicio o como consecuencia de ellos, tienen derecho a una pensión equivalente al 100% del haber del grado que le hubiera correspondido para efectos de retiro y el 100% del sobrehaber, de las primas complementarias por condecoración de perseverancia y de las asignaciones de técnico que estuviere percibiendo el militar al ocurrir el fallecimiento. En caso de que haya fallecido fuera de actos del servicio, los familiares tendrán derecho a una pensión o compensación integrada como lo señala el artículo [31](articulo-31.md) de esta Ley.
+Los familiares del militar muerto en el activo en actos del servicio o como consecuencia de ellos, tienen derecho a una pensión equivalente al 100% del haber del grado que le hubiera correspondido para efectos de retiro y el 100% del sobrehaber, de las primas complementarias por condecoración de perseverancia y de las asignaciones de técnico que estuviere percibiendo el militar al ocurrir el fallecimiento. En caso de que haya fallecido fuera de actos del servicio, los familiares tendrán derecho a una pensión o compensación integrada como lo señala el artículo [31](articulo-31.md) de esta [Ley](articulo-4o.md).
 
 En el supuesto de que el militar haya muerto en acción de armas, la pensión en ningún momento será inferior al equivalente a 180 días de salario mínimo vigente en el Distrito Federal. Párrafo adicionado DOF 03-04-2012
 

@@ -23,4 +23,4 @@ I.- A partir del 18 de diciembre de 1995, hasta el 49% del capital social de soc
 
 II.- A partir del 1o. de enero del año 2001, hasta el 51% del capital social de sociedades mexicanas; y
 
-III.- A partir del 1o. de enero del año 2004, hasta el 100% del capital social de sociedades mexicanas sin necesidad de obtener la resolución favorable de la Comisión.
+III.- A partir del 1o. de enero del año 2004, hasta el 100% del capital social de sociedades mexicanas sin necesidad de obtener la resolución favorable de la [Comisión](articulo-2o.md).

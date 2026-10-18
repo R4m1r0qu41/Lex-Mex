@@ -17,7 +17,7 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 96
 
-Para poder imponer la multa que corresponda, la Comisión Nacional deberá oír previamente a la Institución Financiera presuntamente infractora y tener en cuenta las condiciones económicas de la misma, la gravedad de la falta cometida, así como la necesidad de evitar reincidencias y prácticas tendientes a contravenir las disposiciones contenidas en esta Ley.
+Para poder imponer la multa que corresponda, la [Comisión Nacional](articulo-2o.md) deberá oír previamente a la [Institución Financiera](articulo-2o.md) presuntamente infractora y tener en cuenta las condiciones económicas de la misma, la gravedad de la falta cometida, así como la necesidad de evitar reincidencias y prácticas tendientes a contravenir las disposiciones contenidas en esta Ley.
 
 La facultad de la Comisión Nacional para imponer las sanciones de carácter administrativo señaladas en esta Ley, caducará en un plazo de cinco años, contados a partir del día siguiente a aquel en que se realizó la conducta o se actualizó el supuesto de la infracción.
 

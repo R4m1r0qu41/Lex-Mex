@@ -17,6 +17,6 @@ source_sha256: 8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca
 
 # Artículo 99
 
-La Comisión Local y los comités de evaluación tomarán las medidas de seguridad que sean necesarias, a fin de garantizar la integridad del personal, instalaciones, material y equipo durante el desarrollo del examen de conocimientos prácticos.
+La [Comisión Local](articulo-5.md) y los comités de evaluación tomarán las medidas de seguridad que sean necesarias, a fin de garantizar la integridad del personal, instalaciones, material y equipo durante el desarrollo del examen de conocimientos prácticos.
 
 Artículo reformado DOF 11-03-2016

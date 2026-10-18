@@ -21,7 +21,7 @@ I. Civiles, que podrán ser: a) De servicio al público: las empleadas para la p
 
 b) Privadas: las utilizadas para usos comerciales diferentes al servicio al público o para el transporte particular sin fines de lucro, y aquellas cuyo fin expreso sea la experimentación, acrobacia, exhibición y las que por su naturaleza sean de colección, y
 
-c) Agrícola: las empleadas exclusivamente para la fumigación de campos y cultivos del sector primario, con el fin de realizar el control de plagas y enfermedades del sector agrícola, de conformidad con las disposiciones técnico-administrativa que emita la Agencia Federal de Aviación Civil.
+c) Agrícola: las empleadas exclusivamente para la fumigación de campos y cultivos del sector primario, con el fin de realizar el control de plagas y enfermedades del sector agrícola, de conformidad con las disposiciones técnico-administrativa que emita la [Agencia Federal de Aviación Civil](articulo-2.md).
 
 II. De Estado, que podrán ser:
 

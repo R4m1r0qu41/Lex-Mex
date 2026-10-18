@@ -17,4 +17,4 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 17
 
-El tiempo de servicios en el Grado se acreditará con el extracto de antecedentes que elaboren las Direcciones, mismas que encuadran al personal que controlan administrativamente, de conformidad con el Catálogo de Encuadramientos para efecto de las promociones. En todo caso, se deberá comunicar al personal las situaciones en las que se les deje de computar el tiempo de servicios en Unidades.
+El tiempo de servicios en el Grado se acreditará con el extracto de antecedentes que elaboren las [Direcciones](articulo-5.md), mismas que encuadran al personal que controlan administrativamente, de conformidad con el Catálogo de Encuadramientos para efecto de las promociones. En todo caso, se deberá comunicar al personal las situaciones en las que se les deje de computar el tiempo de servicios en Unidades.

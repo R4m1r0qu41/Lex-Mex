@@ -17,7 +17,7 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # Artículo 50
 
-La Secretaría, previa declaración de excedentes por especie, podrá otorgar permisos con carácter de excepción y de acuerdo con el interés nacional para que embarcaciones extranjeras aprovechen dicho excedente de captura permisible únicamente en la zona económica exclusiva. La declaración de excedentes a que se refiere el párrafo anterior, se establecerá mediante Acuerdo del titular de la Secretaría, el cual se publicará en el Diario Oficial de la Federación.
+La [Secretaría](articulo-2o.md), previa declaración de excedentes por especie, podrá otorgar permisos con carácter de excepción y de acuerdo con el interés nacional para que embarcaciones extranjeras aprovechen dicho excedente de captura permisible únicamente en la zona económica exclusiva. La declaración de excedentes a que se refiere el párrafo anterior, se establecerá mediante Acuerdo del titular de la Secretaría, el cual se publicará en el Diario Oficial de la Federación.
 
 El otorgamiento de estos permisos quedará sujeto a la suscripción de los convenios con los estados solicitantes. En el caso de personas de nacionalidad extranjera, se requerirá presentar solicitud por escrito y cumplir con lo siguiente:
 

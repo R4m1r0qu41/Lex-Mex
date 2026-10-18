@@ -17,7 +17,7 @@ source_sha256: 71ee875c26fc6a1024ea9481ca0690721959514689d860112c3093f0176dfcfb
 
 # Artículo 52
 
-La conducción de la Política Nacional Integral deberá:
+La conducción de la [Política Nacional Integral](articulo-2.md) deberá:
 
 I. Regir el programa a que se refiere la Ley incluyendo la evaluación periódica que corresponda;
 

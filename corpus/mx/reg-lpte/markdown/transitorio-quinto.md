@@ -15,4 +15,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # QUINTO
 
-En tanto no inicie operaciones el Sistema Nacional de Información Energética, la Secretaría, sus órganos administrativos desconcentrados, empresas públicas del Estado y entidades paraestatales sectorizadas, así como las demás dependencias que por ley estén obligadas a publicar registros o información geoespacial del Sector Energético, deben continuar con su obligación en las páginas de internet que para tal efecto se encuentren habilitadas.
+En tanto no inicie operaciones el Sistema Nacional de Información Energética, la [Secretaría](articulo-5.md), sus órganos administrativos desconcentrados, empresas públicas del Estado y entidades paraestatales sectorizadas, así como las demás dependencias que por ley estén obligadas a publicar registros o información geoespacial del Sector Energético, deben continuar con su obligación en las páginas de internet que para tal efecto se encuentren habilitadas.

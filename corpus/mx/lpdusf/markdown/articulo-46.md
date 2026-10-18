@@ -17,6 +17,6 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 46
 
-La Comisión Nacional tendrá a su cargo el Registro de Prestadores de Servicios Financieros, cuya organización y funcionamiento se sujetará a las disposiciones que al efecto expida la propia Comisión Nacional.
+La [Comisión Nacional](articulo-2o.md) tendrá a su cargo el Registro de Prestadores de Servicios Financieros, cuya organización y funcionamiento se sujetará a las disposiciones que al efecto expida la propia Comisión Nacional.
 
 Artículo reformado DOF 05-01-2000

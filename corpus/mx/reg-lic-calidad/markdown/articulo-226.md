@@ -17,4 +17,4 @@ source_sha256: d23aedc9ffdb09b9202311f03023241da20445cb45aea855b37bfd9685768861
 
 # Artículo 226
 
-En términos del artículo [6](../../lic-calidad/markdown/articulo-6.md) de la Ley, los sujetos auxiliares de las Autoridades Normalizadoras y demás autoridades competentes, como resultado de sus actividades, deben remitir a éstas, la información y documentación que detecte y suponga un incumplimiento a la Ley, a este Reglamento, a Normas Oficiales Mexicanas o a Estándares de observancia obligatoria.
+En términos del artículo [6](../../lic-calidad/markdown/articulo-6.md) de la [Ley](articulo-2.md), los sujetos auxiliares de las Autoridades Normalizadoras y demás autoridades competentes, como resultado de sus actividades, deben remitir a éstas, la información y documentación que detecte y suponga un incumplimiento a la Ley, a este Reglamento, a Normas Oficiales Mexicanas o a Estándares de observancia obligatoria.

@@ -31,4 +31,4 @@ V. Traslados;
 
 VI. Afectación a los derechos de visitantes, defensores y organizaciones observadoras, y
 
-VII. Las demás previstas en esta Ley.
+VII. Las demás previstas en esta [Ley](articulo-3.md).

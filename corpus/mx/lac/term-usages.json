@@ -1,1 +1,2234 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:2:term-usage:932-965",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 932,
+    "end_char": 965
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:2:term-usage:1935-1945",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1935,
+    "end_char": 1945
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:2:term-usage:3910-3943",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 3910,
+    "end_char": 3943
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:2:term-usage:4462-4472",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 4462,
+    "end_char": 4472
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:2:term-usage:4478-4511",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 4478,
+    "end_char": 4511
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:2:term-usage:4836-4874",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:publicacion-de-informacion-aeronautica",
+    "span": "Publicación de Información Aeronáutica",
+    "start_char": 4836,
+    "end_char": 4874
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:2:term-usage:5719-5752",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 5719,
+    "end_char": 5752
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:2:term-usage:6993-7003",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 6993,
+    "end_char": 7003
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:2:term-usage:7881-7914",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 7881,
+    "end_char": 7914
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:2:term-usage:9407-9415",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:aeronave",
+    "span": "Aeronave",
+    "start_char": 9407,
+    "end_char": 9415
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:2:term-usage:9464-9472",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:aeronave",
+    "span": "Aeronave",
+    "start_char": 9464,
+    "end_char": 9472
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:2:term-usage:9943-9949",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:fatiga",
+    "span": "Fatiga",
+    "start_char": 9943,
+    "end_char": 9949
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:5:term-usage:742-775",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 742,
+    "end_char": 775
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:6:term-usage:17-27",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 17,
+    "end_char": 27
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:6:term-usage:692-751",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:comision-investigadora-y-dictaminadora-de-accidentes-aereos",
+    "span": "Comisión Investigadora y Dictaminadora de Accidentes Aéreos",
+    "start_char": 692,
+    "end_char": 751
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:6:term-usage:1090-1128",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:publicacion-de-informacion-aeronautica",
+    "span": "Publicación de Información Aeronáutica",
+    "start_char": 1090,
+    "end_char": 1128
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:6:term-usage:1630-1640",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1630,
+    "end_char": 1640
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:6-bis:term-usage:5-38",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:6-bis",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 5,
+    "end_char": 38
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:6-bis:term-usage:865-903",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:6-bis",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:publicacion-de-informacion-aeronautica",
+    "span": "Publicación de Información Aeronáutica",
+    "start_char": 865,
+    "end_char": 903
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:6-bis:term-usage:1022-1055",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:6-bis",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 1022,
+    "end_char": 1055
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:6-bis:term-usage:1501-1512",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:6-bis",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 1501,
+    "end_char": 1512
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:6-bis:term-usage:2573-2583",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:6-bis",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2573,
+    "end_char": 2583
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:6-bis:term-usage:4693-4726",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:6-bis",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 4693,
+    "end_char": 4726
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:6-bis:term-usage:5093-5126",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:6-bis",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 5093,
+    "end_char": 5126
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:6-bis:term-usage:5129-5167",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:6-bis",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:autoridad-de-aviacion-civil-extranjera",
+    "span": "Autoridad de Aviación Civil Extranjera",
+    "start_char": 5129,
+    "end_char": 5167
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:6-bis:term-usage:5998-6031",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:6-bis",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 5998,
+    "end_char": 6031
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:6-bis:term-usage:7464-7497",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:6-bis",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 7464,
+    "end_char": 7497
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:6-bis:term-usage:9875-9908",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:6-bis",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 9875,
+    "end_char": 9908
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:6-bis:term-usage:10068-10101",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:6-bis",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 10068,
+    "end_char": 10101
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:6-bis:term-usage:10210-10220",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:6-bis",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 10210,
+    "end_char": 10220
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:6-bis:term-usage:10713-10775",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:6-bis",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:programa-de-seguridad-de-la-aviacion-civil-del-estado-mexicano",
+    "span": "Programa de Seguridad de la Aviación Civil del Estado mexicano",
+    "start_char": 10713,
+    "end_char": 10775
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:6-bis:term-usage:11349-11387",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:6-bis",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:publicacion-de-informacion-aeronautica",
+    "span": "Publicación de Información Aeronáutica",
+    "start_char": 11349,
+    "end_char": 11387
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:6-bis:term-usage:11427-11437",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:6-bis",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 11427,
+    "end_char": 11437
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:6-bis:term-usage:11627-11660",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:6-bis",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 11627,
+    "end_char": 11660
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:7:term-usage:3-36",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 3,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:7:term-usage:435-468",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 435,
+    "end_char": 468
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:7:term-usage:634-667",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 634,
+    "end_char": 667
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:7:term-usage:1298-1331",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 1298,
+    "end_char": 1331
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:7:term-usage:1463-1473",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:aeropuerto",
+    "span": "Aeropuerto",
+    "start_char": 1463,
+    "end_char": 1473
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:7-bis:term-usage:185-218",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:7-bis",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 185,
+    "end_char": 218
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:7-bis:term-usage:489-522",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:7-bis",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 489,
+    "end_char": 522
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:8-bis:term-usage:73-83",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:8-bis",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 73,
+    "end_char": 83
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:8-bis:term-usage:125-135",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:8-bis",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 125,
+    "end_char": 135
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:9:term-usage:40-50",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 40,
+    "end_char": 50
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:9:term-usage:1275-1308",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 1275,
+    "end_char": 1308
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:10:term-usage:751-761",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 751,
+    "end_char": 761
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:10-bis:term-usage:25-35",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:10-bis",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 25,
+    "end_char": 35
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:11:term-usage:1511-1544",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 1511,
+    "end_char": 1544
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:11:term-usage:1629-1667",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:autoridad-de-aviacion-civil-extranjera",
+    "span": "Autoridad de Aviación Civil Extranjera",
+    "start_char": 1629,
+    "end_char": 1667
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:11:term-usage:2100-2138",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:autoridad-de-aviacion-civil-extranjera",
+    "span": "Autoridad de Aviación Civil Extranjera",
+    "start_char": 2100,
+    "end_char": 2138
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:11:term-usage:2166-2199",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 2166,
+    "end_char": 2199
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:15:term-usage:855-865",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 855,
+    "end_char": 865
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:15:term-usage:1140-1150",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1140,
+    "end_char": 1150
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:15:term-usage:2358-2368",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2358,
+    "end_char": 2368
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:15:term-usage:2731-2741",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2731,
+    "end_char": 2741
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:15-bis:term-usage:603-636",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:15-bis",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 603,
+    "end_char": 636
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:15-bis:term-usage:721-754",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:15-bis",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 721,
+    "end_char": 754
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:15-bis:term-usage:933-966",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:15-bis",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 933,
+    "end_char": 966
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:15-bis:term-usage:1801-1834",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:15-bis",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 1801,
+    "end_char": 1834
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:15-bis:term-usage:2145-2178",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:15-bis",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 2145,
+    "end_char": 2178
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:16:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:16:term-usage:373-383",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 373,
+    "end_char": 383
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:16:term-usage:389-422",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 389,
+    "end_char": 422
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:19:term-usage:421-454",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 421,
+    "end_char": 454
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:19:term-usage:912-945",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 912,
+    "end_char": 945
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:20:term-usage:229-262",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 229,
+    "end_char": 262
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:20:term-usage:938-971",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 938,
+    "end_char": 971
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:20:term-usage:1116-1149",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 1116,
+    "end_char": 1149
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:20:term-usage:1432-1465",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 1432,
+    "end_char": 1465
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:21:term-usage:54-87",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 54,
+    "end_char": 87
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:22:term-usage:159-192",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 159,
+    "end_char": 192
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:23:term-usage:338-371",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 338,
+    "end_char": 371
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:23:term-usage:1256-1289",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 1256,
+    "end_char": 1289
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:24:term-usage:205-238",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 205,
+    "end_char": 238
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:25:term-usage:3-36",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 3,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:26:term-usage:87-120",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 87,
+    "end_char": 120
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:29:term-usage:195-228",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 195,
+    "end_char": 228
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:29:term-usage:838-871",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 838,
+    "end_char": 871
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:30:term-usage:213-246",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 213,
+    "end_char": 246
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:30:term-usage:593-626",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 593,
+    "end_char": 626
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:32:term-usage:548-581",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 548,
+    "end_char": 581
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:32:term-usage:1474-1507",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 1474,
+    "end_char": 1507
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:32-ter:term-usage:198-231",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:32-ter",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 198,
+    "end_char": 231
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:33:term-usage:863-896",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 863,
+    "end_char": 896
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:34:term-usage:3-36",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 3,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:34-bis:term-usage:353-386",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:34-bis",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 353,
+    "end_char": 386
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:34-bis:term-usage:550-583",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:34-bis",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 550,
+    "end_char": 583
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:34-quater:term-usage:118-163",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:34-quater",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:certificado-de-explotador-de-servicios-aereos",
+    "span": "Certificado de Explotador de Servicios Aéreos",
+    "start_char": 118,
+    "end_char": 163
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:34-quater:term-usage:306-316",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:34-quater",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 306,
+    "end_char": 316
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:34-quater:term-usage:322-355",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:34-quater",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 322,
+    "end_char": 355
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:35:term-usage:296-306",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 296,
+    "end_char": 306
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:35:term-usage:427-465",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:publicacion-de-informacion-aeronautica",
+    "span": "Publicación de Información Aeronáutica",
+    "start_char": 427,
+    "end_char": 465
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:36:term-usage:726-759",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 726,
+    "end_char": 759
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:37:term-usage:292-303",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 292,
+    "end_char": 303
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:37:term-usage:439-449",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 439,
+    "end_char": 449
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:38:term-usage:530-563",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 530,
+    "end_char": 563
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:38:term-usage:1106-1139",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 1106,
+    "end_char": 1139
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:38:term-usage:1414-1452",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:autoridad-de-aviacion-civil-extranjera",
+    "span": "Autoridad de Aviación Civil Extranjera",
+    "start_char": 1414,
+    "end_char": 1452
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:38:term-usage:1650-1683",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 1650,
+    "end_char": 1683
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:38:term-usage:2568-2601",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 2568,
+    "end_char": 2601
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:38:term-usage:2698-2731",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 2698,
+    "end_char": 2731
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:39:term-usage:417-450",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 417,
+    "end_char": 450
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:39:term-usage:534-567",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 534,
+    "end_char": 567
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:39:term-usage:625-635",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 625,
+    "end_char": 635
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:42:term-usage:343-376",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 343,
+    "end_char": 376
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:42:term-usage:520-553",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 520,
+    "end_char": 553
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:42:term-usage:672-705",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 672,
+    "end_char": 705
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:42-bis:term-usage:1033-1045",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:42-bis",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:procuraduria",
+    "span": "Procuraduría",
+    "start_char": 1033,
+    "end_char": 1045
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:43:term-usage:10-43",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 10,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:43:term-usage:284-317",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 284,
+    "end_char": 317
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:43:term-usage:484-517",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 484,
+    "end_char": 517
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:45:term-usage:763-773",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 763,
+    "end_char": 773
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:45:term-usage:840-848",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:tratados",
+    "span": "Tratados",
+    "start_char": 840,
+    "end_char": 848
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:45:term-usage:1267-1300",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 1267,
+    "end_char": 1300
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:47:term-usage:64-97",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 64,
+    "end_char": 97
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:47:term-usage:494-527",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 494,
+    "end_char": 527
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:47-bis:term-usage:2996-3029",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:47-bis",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 2996,
+    "end_char": 3029
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:47-bis:term-usage:5124-5157",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:47-bis",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 5124,
+    "end_char": 5157
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:47-bis:term-usage:5163-5175",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:47-bis",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:procuraduria",
+    "span": "Procuraduría",
+    "start_char": 5163,
+    "end_char": 5175
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:47-bis:term-usage:10386-10394",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:47-bis",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:tratados",
+    "span": "Tratados",
+    "start_char": 10386,
+    "end_char": 10394
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:47-bis-1:term-usage:383-391",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:47-bis-1",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:tratados",
+    "span": "Tratados",
+    "start_char": 383,
+    "end_char": 391
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:47-bis-2:term-usage:264-276",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:47-bis-2",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:procuraduria",
+    "span": "Procuraduría",
+    "start_char": 264,
+    "end_char": 276
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:47-bis-2:term-usage:843-855",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:47-bis-2",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:procuraduria",
+    "span": "Procuraduría",
+    "start_char": 843,
+    "end_char": 855
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:47-bis-3:term-usage:3-15",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:47-bis-3",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:procuraduria",
+    "span": "Procuraduría",
+    "start_char": 3,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:74:term-usage:535-568",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 535,
+    "end_char": 568
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:74:term-usage:736-769",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 736,
+    "end_char": 769
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:76:term-usage:438-471",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:76",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 438,
+    "end_char": 471
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:76:term-usage:676-709",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:76",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 676,
+    "end_char": 709
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:76-bis:term-usage:25-35",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:76-bis",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 25,
+    "end_char": 35
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:76-bis:term-usage:64-97",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:76-bis",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 64,
+    "end_char": 97
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:76-bis:term-usage:153-163",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:76-bis",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 153,
+    "end_char": 163
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:77:term-usage:3-36",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 3,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:77:term-usage:203-236",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 203,
+    "end_char": 236
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:77:term-usage:700-733",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 700,
+    "end_char": 733
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:77:term-usage:1111-1144",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 1111,
+    "end_char": 1144
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78:term-usage:155-188",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 155,
+    "end_char": 188
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78:term-usage:296-317",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:seguridad-operacional",
+    "span": "Seguridad operacional",
+    "start_char": 296,
+    "end_char": 317
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-bis:term-usage:3-36",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-bis",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 3,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-bis-1:term-usage:3-36",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-bis-1",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 3,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-bis-1:term-usage:497-543",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-bis-1",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:sistema-de-gestion-de-la-seguridad-operacional",
+    "span": "Sistema de gestión de la seguridad operacional",
+    "start_char": 497,
+    "end_char": 543
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-bis-1:term-usage:1142-1188",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-bis-1",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:sistema-de-gestion-de-la-seguridad-operacional",
+    "span": "Sistema de gestión de la seguridad operacional",
+    "start_char": 1142,
+    "end_char": 1188
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-bis-1:term-usage:1290-1311",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-bis-1",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:seguridad-operacional",
+    "span": "Seguridad operacional",
+    "start_char": 1290,
+    "end_char": 1311
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-bis-1:term-usage:1699-1720",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-bis-1",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:seguridad-operacional",
+    "span": "Seguridad operacional",
+    "start_char": 1699,
+    "end_char": 1720
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-bis-1:term-usage:1945-1955",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-bis-1",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1945,
+    "end_char": 1955
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-bis-1:term-usage:2019-2060",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-bis-1",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:programa-estatal-de-seguridad-operacional",
+    "span": "Programa Estatal de Seguridad Operacional",
+    "start_char": 2019,
+    "end_char": 2060
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-bis-1:term-usage:2510-2551",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-bis-1",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:programa-estatal-de-seguridad-operacional",
+    "span": "Programa Estatal de Seguridad Operacional",
+    "start_char": 2510,
+    "end_char": 2551
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-bis-2:term-usage:99-145",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-bis-2",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:sistema-de-gestion-de-la-seguridad-operacional",
+    "span": "Sistema de gestión de la seguridad operacional",
+    "start_char": 99,
+    "end_char": 145
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-bis-2:term-usage:222-255",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-bis-2",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 222,
+    "end_char": 255
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-bis-2:term-usage:580-591",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-bis-2",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:aeropuerto",
+    "span": "Aeropuertos",
+    "start_char": 580,
+    "end_char": 591
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-bis-3:term-usage:3-49",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-bis-3",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:sistema-de-gestion-de-la-seguridad-operacional",
+    "span": "Sistema de gestión de la seguridad operacional",
+    "start_char": 3,
+    "end_char": 49
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-bis-3:term-usage:331-352",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-bis-3",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:seguridad-operacional",
+    "span": "Seguridad operacional",
+    "start_char": 331,
+    "end_char": 352
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-bis-3:term-usage:781-827",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-bis-3",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:sistema-de-gestion-de-la-seguridad-operacional",
+    "span": "Sistema de gestión de la seguridad operacional",
+    "start_char": 781,
+    "end_char": 827
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-bis-3:term-usage:1204-1250",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-bis-3",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:sistema-de-gestion-de-la-seguridad-operacional",
+    "span": "Sistema de gestión de la seguridad operacional",
+    "start_char": 1204,
+    "end_char": 1250
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-bis-4:term-usage:15-48",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-bis-4",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 15,
+    "end_char": 48
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-bis-4:term-usage:693-731",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-bis-4",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:autoridad-de-aviacion-civil-extranjera",
+    "span": "Autoridad de Aviación Civil Extranjera",
+    "start_char": 693,
+    "end_char": 731
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-bis-4:term-usage:759-792",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-bis-4",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 759,
+    "end_char": 792
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-bis-5:term-usage:68-114",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-bis-5",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:sistema-de-gestion-de-la-seguridad-operacional",
+    "span": "Sistema de gestión de la seguridad operacional",
+    "start_char": 68,
+    "end_char": 114
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-bis-5:term-usage:768-801",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-bis-5",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 768,
+    "end_char": 801
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-bis-7:term-usage:508-541",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-bis-7",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 508,
+    "end_char": 541
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-bis-7:term-usage:735-768",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-bis-7",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 735,
+    "end_char": 768
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-bis-8:term-usage:50-96",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-bis-8",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:sistema-de-gestion-de-la-seguridad-operacional",
+    "span": "Sistema de gestión de la seguridad operacional",
+    "start_char": 50,
+    "end_char": 96
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-bis-8:term-usage:190-211",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-bis-8",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:seguridad-operacional",
+    "span": "Seguridad operacional",
+    "start_char": 190,
+    "end_char": 211
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-bis-9:term-usage:62-95",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-bis-9",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 62,
+    "end_char": 95
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-bis-10:term-usage:52-85",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-bis-10",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 52,
+    "end_char": 85
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-bis-11:term-usage:3-36",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-bis-11",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 3,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-bis-11:term-usage:371-377",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-bis-11",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:fatiga",
+    "span": "Fatiga",
+    "start_char": 371,
+    "end_char": 377
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-quater:term-usage:660-693",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-quater",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 660,
+    "end_char": 693
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-septies:term-usage:15-48",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-septies",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 15,
+    "end_char": 48
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-septies:term-usage:1176-1214",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-septies",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:autoridad-de-aviacion-civil-extranjera",
+    "span": "Autoridad de Aviación Civil Extranjera",
+    "start_char": 1176,
+    "end_char": 1214
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-septies:term-usage:1242-1275",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-septies",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 1242,
+    "end_char": 1275
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-octies:term-usage:3-36",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-octies",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 3,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-octies:term-usage:1474-1507",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-octies",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 1474,
+    "end_char": 1507
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-octies:term-usage:1520-1582",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-octies",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:programa-de-seguridad-de-la-aviacion-civil-del-estado-mexicano",
+    "span": "Programa de Seguridad de la Aviación Civil del Estado mexicano",
+    "start_char": 1520,
+    "end_char": 1582
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-nonies:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-nonies",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-nonies:term-usage:106-117",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-nonies",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:aeropuerto",
+    "span": "Aeropuertos",
+    "start_char": 106,
+    "end_char": 117
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-nonies:term-usage:143-176",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-nonies",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 143,
+    "end_char": 176
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-nonies:term-usage:482-515",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-nonies",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 482,
+    "end_char": 515
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-nonies:term-usage:568-630",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-nonies",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:programa-de-seguridad-de-la-aviacion-civil-del-estado-mexicano",
+    "span": "Programa de Seguridad de la Aviación Civil del Estado mexicano",
+    "start_char": 568,
+    "end_char": 630
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-nonies:term-usage:820-853",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-nonies",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 820,
+    "end_char": 853
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-nonies:term-usage:917-950",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-nonies",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 917,
+    "end_char": 950
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-nonies:term-usage:1305-1343",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-nonies",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:autoridad-de-aviacion-civil-extranjera",
+    "span": "Autoridad de Aviación Civil Extranjera",
+    "start_char": 1305,
+    "end_char": 1343
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-nonies:term-usage:1681-1714",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-nonies",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 1681,
+    "end_char": 1714
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-nonies:term-usage:2153-2186",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-nonies",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 2153,
+    "end_char": 2186
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-nonies:term-usage:2251-2284",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-nonies",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 2251,
+    "end_char": 2284
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-nonies:term-usage:2845-2878",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-nonies",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 2845,
+    "end_char": 2878
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-nonies:term-usage:2946-2979",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-nonies",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 2946,
+    "end_char": 2979
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-nonies:term-usage:3225-3235",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-nonies",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3225,
+    "end_char": 3235
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-nonies:term-usage:3635-3668",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-nonies",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 3635,
+    "end_char": 3668
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-nonies:term-usage:5014-5047",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-nonies",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 5014,
+    "end_char": 5047
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-nonies:term-usage:5835-5868",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-nonies",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 5835,
+    "end_char": 5868
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-nonies:term-usage:6336-6369",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-nonies",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 6336,
+    "end_char": 6369
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-nonies:term-usage:6929-6962",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-nonies",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 6929,
+    "end_char": 6962
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:78-nonies:term-usage:7097-7130",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:78-nonies",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 7097,
+    "end_char": 7130
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:80:term-usage:431-441",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 431,
+    "end_char": 441
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:80:term-usage:1235-1245",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1235,
+    "end_char": 1245
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:80:term-usage:1261-1294",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 1261,
+    "end_char": 1294
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:81:term-usage:17-27",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 17,
+    "end_char": 27
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:81:term-usage:123-182",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:comision-investigadora-y-dictaminadora-de-accidentes-aereos",
+    "span": "Comisión Investigadora y Dictaminadora de Accidentes Aéreos",
+    "start_char": 123,
+    "end_char": 182
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:81:term-usage:626-685",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:comision-investigadora-y-dictaminadora-de-accidentes-aereos",
+    "span": "Comisión Investigadora y Dictaminadora de Accidentes Aéreos",
+    "start_char": 626,
+    "end_char": 685
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:81:term-usage:1009-1019",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1009,
+    "end_char": 1019
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:81-bis:term-usage:3-62",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:81-bis",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:comision-investigadora-y-dictaminadora-de-accidentes-aereos",
+    "span": "Comisión Investigadora y Dictaminadora de Accidentes Aéreos",
+    "start_char": 3,
+    "end_char": 62
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:81-bis:term-usage:3004-3037",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:81-bis",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 3004,
+    "end_char": 3037
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:81-ter:term-usage:68-78",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:81-ter",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 68,
+    "end_char": 78
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:81-ter:term-usage:1421-1431",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:81-ter",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1421,
+    "end_char": 1431
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:81-ter:term-usage:2115-2125",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:81-ter",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2115,
+    "end_char": 2125
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:82:term-usage:502-535",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:82",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 502,
+    "end_char": 535
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:82-bis:term-usage:3-36",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:82-bis",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 3,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:82-ter:term-usage:3-36",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:82-ter",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 3,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:82-ter:term-usage:153-212",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:82-ter",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:comision-investigadora-y-dictaminadora-de-accidentes-aereos",
+    "span": "Comisión Investigadora y Dictaminadora de Accidentes Aéreos",
+    "start_char": 153,
+    "end_char": 212
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:82-quater:term-usage:3-36",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:82-quater",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 3,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:84:term-usage:3-36",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 3,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:84:term-usage:597-630",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 597,
+    "end_char": 630
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:84:term-usage:785-818",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 785,
+    "end_char": 818
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:84:term-usage:899-932",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 899,
+    "end_char": 932
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:84:term-usage:1978-2011",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 1978,
+    "end_char": 2011
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:84:term-usage:2775-2808",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 2775,
+    "end_char": 2808
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:84:term-usage:2951-2984",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 2951,
+    "end_char": 2984
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:84-ter:term-usage:3-36",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:84-ter",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 3,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:84-ter:term-usage:161-194",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:84-ter",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 161,
+    "end_char": 194
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:85:term-usage:3-36",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:85",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 3,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:86:term-usage:178-211",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:86",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 178,
+    "end_char": 211
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:86:term-usage:561-571",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:86",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 561,
+    "end_char": 571
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:86:term-usage:2505-2538",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:86",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 2505,
+    "end_char": 2538
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:86:term-usage:3029-3062",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:86",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 3029,
+    "end_char": 3062
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:86:term-usage:4507-4517",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:86",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 4507,
+    "end_char": 4517
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:86:term-usage:5514-5547",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:86",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 5514,
+    "end_char": 5547
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:86:term-usage:6003-6036",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:86",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 6003,
+    "end_char": 6036
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:86:term-usage:6754-6787",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:86",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 6754,
+    "end_char": 6787
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:86:term-usage:7817-7850",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:86",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 7817,
+    "end_char": 7850
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:86-bis:term-usage:210-243",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:86-bis",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 210,
+    "end_char": 243
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:87:term-usage:1251-1284",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 1251,
+    "end_char": 1284
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:87:term-usage:2570-2603",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 2570,
+    "end_char": 2603
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:87:term-usage:3412-3445",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 3412,
+    "end_char": 3445
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:87:term-usage:4078-4123",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:certificado-de-explotador-de-servicios-aereos",
+    "span": "Certificado de Explotador de Servicios Aéreos",
+    "start_char": 4078,
+    "end_char": 4123
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:88:term-usage:2806-2839",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 2806,
+    "end_char": 2839
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:88:term-usage:3782-3815",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 3782,
+    "end_char": 3815
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:88:term-usage:6165-6198",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 6165,
+    "end_char": 6198
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:88:term-usage:7169-7202",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 7169,
+    "end_char": 7202
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:88-bis:term-usage:820-853",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:88-bis",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 820,
+    "end_char": 853
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:88-bis:term-usage:1300-1355",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:88-bis",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:sistema-de-gestion-de-los-riesgos-asociados-a-la-fatiga",
+    "span": "Sistema de Gestión de los Riesgos Asociados a la Fatiga",
+    "start_char": 1300,
+    "end_char": 1355
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:88-bis:term-usage:1621-1676",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:88-bis",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:sistema-de-gestion-de-los-riesgos-asociados-a-la-fatiga",
+    "span": "Sistema de Gestión de los Riesgos Asociados a la Fatiga",
+    "start_char": 1621,
+    "end_char": 1676
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:88-bis:term-usage:1705-1738",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:88-bis",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 1705,
+    "end_char": 1738
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:88-bis:term-usage:2165-2220",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:88-bis",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:sistema-de-gestion-de-los-riesgos-asociados-a-la-fatiga",
+    "span": "Sistema de Gestión de los Riesgos Asociados a la Fatiga",
+    "start_char": 2165,
+    "end_char": 2220
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:88-bis-1:term-usage:652-685",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:88-bis-1",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 652,
+    "end_char": 685
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:88-ter:term-usage:369-402",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:88-ter",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 369,
+    "end_char": 402
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:88-quater:term-usage:654-687",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:88-quater",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 654,
+    "end_char": 687
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:89:term-usage:242-275",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:89",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 242,
+    "end_char": 275
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lac:article:89:term-usage:422-455",
+    "provision_id": "urn:lex-mx:federal:statute:lac:article:89",
+    "term_id": "urn:lex-mx:federal:statute:lac:term:agencia-federal-de-aviacion-civil",
+    "span": "Agencia Federal de Aviación Civil",
+    "start_char": 422,
+    "end_char": 455
+  }
+]

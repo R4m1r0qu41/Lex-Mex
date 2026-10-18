@@ -17,7 +17,7 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 Los transportistas y operadores aéreos, salvo en casos de emergencia, únicamente podrán operar en aquellos aeródromos civiles que cuenten con concesión o permiso y cuya clasificación y categoría corresponda a los servicios que presten y a las aeronaves con las que operen, así como a los itinerarios, las rutas y, en el caso de los operadores, los planes de vuelo aprobados. En todo momento deberán observar las limitaciones técnicas y operacionales que se derivan de dicha categoría.
 
-Los transportistas y operadores aéreos únicamente podrán efectuar aterrizajes en lugares distintos a un aeródromo en casos de emergencia y de vuelos de auxilio, búsqueda y salvamento. Tratándose de operadores aéreos, podrán aterrizar en lugares distintos a un aeródromo siempre que dada la naturaleza de la actividad o del evento, no sea factible la utilización de uno, cuenten con el plan de vuelo aprobado y con la aprobación previa de la Secretaría.
+Los transportistas y operadores aéreos únicamente podrán efectuar aterrizajes en lugares distintos a un aeródromo en casos de emergencia y de vuelos de auxilio, búsqueda y salvamento. Tratándose de operadores aéreos, podrán aterrizar en lugares distintos a un aeródromo siempre que dada la naturaleza de la actividad o del evento, no sea factible la utilización de uno, cuenten con el plan de vuelo aprobado y con la aprobación previa de la [Secretaría](articulo-2.md).
 
 Título Segundo De las concesiones y permisos para los aeródromos civiles
 

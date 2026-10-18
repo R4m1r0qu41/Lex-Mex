@@ -15,4 +15,4 @@ source_sha256: c1870db657a6564bbeb692a1778472db811a920626822de553ff5ca5194f95b4
 
 # Décimo Primero
 
-La Secretaría de Economía debe expedir los formatos para la metodología prevista en el artículo 19 de la Ley de Biocombustibles, dentro de los trescientos sesenta días siguientes a la fecha de su entrada en vigor.
+La Secretaría de Economía debe expedir los formatos para la metodología prevista en el artículo 19 de la [Ley](articulo-2.md) de [Biocombustibles](articulo-2.md), dentro de los trescientos sesenta días siguientes a la fecha de su entrada en vigor.

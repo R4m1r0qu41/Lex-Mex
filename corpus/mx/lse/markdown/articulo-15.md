@@ -17,4 +17,4 @@ source_sha256: aa96853f010885bdf85160e944e5c0ef5c3c8e95422dfede280d228cf064310a
 
 # Artículo 15
 
-Las instrucciones que el CENACE emite en el ejercicio del Control Operativo del Sistema Eléctrico Nacional son obligatorias para todos los integrantes del sector eléctrico.
+Las instrucciones que el [CENACE](articulo-3.md) emite en el ejercicio del [Control Operativo del Sistema Eléctrico Nacional](articulo-3.md) son obligatorias para todos los integrantes del sector eléctrico.

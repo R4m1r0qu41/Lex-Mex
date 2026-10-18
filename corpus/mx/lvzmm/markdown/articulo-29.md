@@ -17,6 +17,6 @@ source_sha256: d9ffbbf8f19b54a93ff577abb1266e4be1316d935e79fad655242955fd80ff70
 
 # Artículo 29
 
-Los actos de Inspección y vigilancia se llevarán a cabo por personal acreditado de la Secretaría debidamente autorizado.
+Los actos de Inspección y vigilancia se llevarán a cabo por personal acreditado de la [Secretaría](articulo-2.md) debidamente autorizado.
 
 Para tal efecto se expedirá credencial oficial que acredite su personalidad, así como el oficio de comisión debidamente fundado y motivado.

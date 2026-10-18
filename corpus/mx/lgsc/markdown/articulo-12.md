@@ -27,7 +27,7 @@ III. Nombres de las personas que hayan resultado electas para integrar por prime
 
 IV. La suscripción de los certificados de aportación, así como las condiciones y plazos para pagarlos.
 
-Los socios fundadores deberán acreditar su identidad y ratificar su voluntad de constituir la sociedad cooperativa, y de ser suyas las firmas autógrafas o huellas dactilares que obren en el acta constitutiva, ante el Instituto, utilizando para tal efecto el sistema electrónico del Padrón Nacional de Sociedades Cooperativas.
+Los socios fundadores deberán acreditar su identidad y ratificar su voluntad de constituir la sociedad cooperativa, y de ser suyas las firmas autógrafas o huellas dactilares que obren en el acta constitutiva, ante el [Instituto](articulo-3.md), utilizando para tal efecto el sistema electrónico del Padrón Nacional de Sociedades Cooperativas.
 
 Los actos cooperativos posteriores a la constitución de las Sociedades Cooperativas que deban inscribirse para dar publicidad ante terceros también deberán inscribirse en el Padrón Nacional de Sociedades Cooperativas del Instituto, quien tramitará su inscripción ante el Registro Público de Comercio.
 

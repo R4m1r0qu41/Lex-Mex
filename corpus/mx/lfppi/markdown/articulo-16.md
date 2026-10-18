@@ -17,6 +17,6 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 16
 
-Ante la falta de pago de las tarifas que correspondan el Instituto requerirá a la persona solicitante, por única ocasión, para que exhiba el comprobante respectivo en un plazo de cinco días. En caso de no cumplir con el requerimiento dentro del plazo señalado, la solicitud o promoción será desechada de plano.
+Ante la falta de pago de las tarifas que correspondan el [Instituto](articulo-4.md) requerirá a la persona solicitante, por única ocasión, para que exhiba el comprobante respectivo en un plazo de cinco días. En caso de no cumplir con el requerimiento dentro del plazo señalado, la solicitud o promoción será desechada de plano.
 
 Artículo reformado DOF 03-04-2026

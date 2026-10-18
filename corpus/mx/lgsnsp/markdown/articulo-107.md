@@ -17,4 +17,4 @@ source_sha256: 7f01ee1b1deb901a23976507adccbddefbea50b0fc9a4ddceaf1225d711d50d0
 
 # Artículo 107
 
-Las bases de datos constituyen subconjuntos sistematizados de la información contenida en el Sistema Nacional de Información que comparten las Instituciones de Seguridad Pública relativa a la incidencia delictiva, las investigaciones, órdenes de detención y aprehensión, órdenes de protección para mujeres, adolescentes, niñas y niños, procesos penales, sentencias o ejecución de penas, y aquellas que determine el Consejo Nacional.
+Las bases de datos constituyen subconjuntos sistematizados de la información contenida en el [Sistema](articulo-4.md) Nacional de Información que comparten las [Instituciones de Seguridad Pública](articulo-4.md) relativa a la incidencia delictiva, las investigaciones, órdenes de detención y aprehensión, órdenes de protección para mujeres, adolescentes, niñas y niños, procesos penales, sentencias o ejecución de penas, y aquellas que determine el [Consejo Nacional](articulo-4.md).

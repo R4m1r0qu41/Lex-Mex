@@ -15,7 +15,7 @@ source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 
 # Artículo 47 Bis 2
 
-Con el fin de dar cumplimiento a las disposiciones señaladas en este capítulo, los concesionarios o permisionarios de servicio al público de transporte aéreo deberán de contar con un módulo de atención al pasajero en cada una de las terminales en donde operen. La Procuraduría deberá establecer mecanismos para regular estos módulos y garantizar que los procedimientos que ahí se realicen se hagan de forma sencilla y expedita.
+Con el fin de dar cumplimiento a las disposiciones señaladas en este capítulo, los concesionarios o permisionarios de servicio al público de transporte aéreo deberán de contar con un módulo de atención al pasajero en cada una de las terminales en donde operen. La [Procuraduría](articulo-2.md) deberá establecer mecanismos para regular estos módulos y garantizar que los procedimientos que ahí se realicen se hagan de forma sencilla y expedita.
 
 El concesionario o permisionario podrá implementar procedimientos electrónicos con el fin de agilizar los procesos de atención al pasajero y su seguimiento, siempre y cuando informe de manera clara y oportuna sobre su funcionamiento al pasajero y, en caso de que este lo requiera, le brinde el apoyo necesario para su uso.
 

@@ -29,6 +29,6 @@ IV. Tener de preferencia una profesión o licenciatura relacionada con los medio
 
 V. No desempeñar, ni haber desempeñado, cargos de dirección nacional o estatal, en algún partido o agrupación política, en los dos años anteriores a su designación;
 
-VI. No desempeñar, ni haber desempeñado, cargo de Secretario de Estado, Procurador o Fiscal General de la República, Gobernador, Jefe de Gobierno de la Ciudad de México, diputado o senador en el año anterior a su nombramiento, y Fracción reformada DOF 20-05-2021
+VI. No desempeñar, ni haber desempeñado, cargo de [Secretario](articulo-2.md) de Estado, Procurador o Fiscal General de la República, Gobernador, Jefe de Gobierno de la Ciudad de México, diputado o senador en el año anterior a su nombramiento, y Fracción reformada DOF 20-05-2021
 
 VII. No haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión.

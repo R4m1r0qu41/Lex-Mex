@@ -17,4 +17,4 @@ source_sha256: 67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35
 
 # Artículo 30
 
-El Reglamento de la presente Ley debe establecer, entre otros aspectos, el procedimiento y requisitos para el otorgamiento de Permisos de Exploración, Concesiones, prórrogas, y demás situaciones particulares como los avisos de Aprovechamiento Geotérmico Exento y las demás no previstas en la presente Ley.
+El [Reglamento](articulo-2.md) de la presente [Ley](articulo-2.md) debe establecer, entre otros aspectos, el procedimiento y requisitos para el otorgamiento de Permisos de [Exploración](articulo-2.md), [Concesiones](articulo-2.md), prórrogas, y demás situaciones particulares como los avisos de [Aprovechamiento Geotérmico Exento](articulo-2.md) y las demás no previstas en la presente Ley.

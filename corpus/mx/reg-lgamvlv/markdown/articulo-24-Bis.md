@@ -17,7 +17,7 @@ source_sha256: 71ee875c26fc6a1024ea9481ca0690721959514689d860112c3093f0176dfcfb
 
 # Artículo 24 Bis
 
-Para la ejecución de los Modelos de Sanción, deberán considerarse los siguientes aspectos:
+Para la ejecución de los [Modelos](articulo-2.md) de Sanción, deberán considerarse los siguientes aspectos:
 
 I. Procedimientos judiciales que eviten estereotipos, elementos discriminatorios por razón de género y la revictimización;
 

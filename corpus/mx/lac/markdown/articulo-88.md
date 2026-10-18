@@ -35,7 +35,7 @@ IX. Iniciar el vuelo sin cerciorarse de la vigencia del certificado de aeronaveg
 
 X. Operar la aeronave de manera negligente o fuera de los límites y parámetros establecidos por el fabricante de la misma, sin que medie causa justificada, multa de trescientas a tres mil Unidades de Medida y Actualización; Fracción reformada DOF 18-06-2018
 
-XI. No informar a la Agencia Federal de Aviación Civil o al comandante del aeropuerto más cercano, en el caso de incidentes o accidentes aéreos, dentro de las cuarenta y ocho horas siguientes a que tengan conocimiento de ellos, multa de trescientas a tres mil Unidades de Medida y Actualización; Fracción reformada DOF 18-06-2018, 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62)
+XI. No informar a la [Agencia Federal de Aviación Civil](articulo-2.md) o al comandante del aeropuerto más cercano, en el caso de incidentes o accidentes aéreos, dentro de las cuarenta y ocho horas siguientes a que tengan conocimiento de ellos, multa de trescientas a tres mil Unidades de Medida y Actualización; Fracción reformada DOF 18-06-2018, 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62)
 
 XII. No utilizar durante la operación de la aeronave los servicios e instalaciones de ayudas a la navegación aérea; en caso de ser aplicable, multa de trescientas a tres mil Unidades de Medida y Actualización; Fracción reformada DOF 28-12-2001, 18-06-2018
 

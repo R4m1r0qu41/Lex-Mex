@@ -25,9 +25,9 @@ I. El 100% del monto original de las inversiones realizadas para la Exploración
 
 II. El 25% del monto original de las inversiones realizadas para el desarrollo y explotación de yacimientos de Petróleo o Gas Natural, en cada ejercicio, y
 
-III. El 10% del monto original de las inversiones realizadas en infraestructura de Almacenamiento y transporte indispensable para la ejecución del Contrato, como oleoductos, gasoductos, terminales, transporte o tanques de Almacenamiento necesarios para llevar la Producción Contractual a los puntos de entrega, medición o fiscalización determinados en cada Contrato, en cada ejercicio.
+III. El 10% del monto original de las inversiones realizadas en infraestructura de Almacenamiento y transporte indispensable para la ejecución del [Contrato](articulo-3.md), como oleoductos, gasoductos, terminales, transporte o tanques de Almacenamiento necesarios para llevar la [Producción Contractual](articulo-3.md) a los puntos de entrega, medición o fiscalización determinados en cada Contrato, en cada ejercicio.
 
-Cuando el Contratista utilice bienes de las inversiones a que se refiere este artículo que no hubieran sido deducidos en su totalidad conforme al Título Tercero de esta Ley, para efectos de este Título sólo podrán deducir el saldo pendiente por depreciar de los bienes que correspondan a dicho Contrato en términos de los lineamientos que al respecto emita la Secretaría.
+Cuando el Contratista utilice bienes de las inversiones a que se refiere este artículo que no hubieran sido deducidos en su totalidad conforme al Título Tercero de esta Ley, para efectos de este Título sólo podrán deducir el saldo pendiente por depreciar de los bienes que correspondan a dicho Contrato en términos de los lineamientos que al respecto emita la [Secretaría](articulo-3.md).
 
 Para efectos de la pérdida fiscal prevista en el artículo [57](../../lisr/markdown/articulo-57.md) de la Ley del Impuesto sobre la Renta, los contribuyentes que realicen actividades en las regiones de áreas marinas con tirante de agua superior a quinientos metros, podrán disminuir dicha pérdida ocurrida en un ejercicio de la utilidad fiscal de los quince ejercicios siguientes hasta agotarlo.
 
@@ -43,7 +43,7 @@ c) Reflejen el porcentaje de la participación que le corresponda a cada integra
 
 II. El operador deberá entregar a cada integrante del consorcio una relación de las operaciones que realice al amparo del Contrato, debiendo conservar copia de la misma, así como un duplicado de los comprobantes con requisitos fiscales que le hayan expedido, los que deberán coincidir con dicha relación;
 
-III. El operador expedirá los comprobantes fiscales a los integrantes del consorcio que amparen los gastos realizados en cada Periodo derivado de la ejecución del Contrato que efectivamente haya cubierto cada integrante del consorcio; Fracción reformada DOF 07-12-2016
+III. El operador expedirá los comprobantes fiscales a los integrantes del consorcio que amparen los gastos realizados en cada [Periodo](articulo-3.md) derivado de la ejecución del Contrato que efectivamente haya cubierto cada integrante del consorcio; Fracción reformada DOF 07-12-2016
 
 IV. El operador deberá proporcionar, a más tardar el día 15 de febrero de cada año, a la autoridad fiscal, la información de las operaciones realizadas en el ejercicio inmediato anterior por cuenta de los integrantes del consorcio, identificando por cada uno la parte proporcional que les corresponda del total de las operaciones efectuadas;
 
@@ -51,7 +51,7 @@ V. Los integrantes del consorcio podrán deducir, en forma individual, la parte 
 
 VII. El operador sólo podrá deducir la parte proporcional del importe total amparado en los comprobantes que le sean expedidos en términos de la fracción I, inciso b), anterior, que corresponda a los gastos que efectivamente haya cubierto en cada Periodo; Fracción reformada DOF 07-12-2016
 
-VIII. Los integrantes del consorcio podrán optar por recibir cada uno, en la proporción que les corresponda dentro del consorcio, las Contraprestaciones que de acuerdo al Contrato deban cubrirse al Contratista, o que las Contraprestaciones sean entregadas al operador para que éste las distribuya entre los integrantes del consorcio en las proporciones respectivas.
+VIII. Los integrantes del consorcio podrán optar por recibir cada uno, en la proporción que les corresponda dentro del consorcio, las [Contraprestaciones](articulo-3.md) que de acuerdo al Contrato deban cubrirse al Contratista, o que las Contraprestaciones sean entregadas al operador para que éste las distribuya entre los integrantes del consorcio en las proporciones respectivas.
 
 En este último caso, el operador no podrá deducir los montos que de dichas Contraprestaciones distribuya a los integrantes del consorcio. Asimismo, el operador no considerará ingreso acumulable los montos que de dichas Contraprestaciones efectivamente distribuya a los integrantes del consorcio, y
 

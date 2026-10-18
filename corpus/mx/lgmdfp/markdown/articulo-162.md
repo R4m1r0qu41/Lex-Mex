@@ -17,4 +17,4 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 162
 
-Las Fiscalías Especializadas deben intercambiar la información que favorezca la investigación de los delitos previstos en esta Ley y que permita la identificación y sanción de los responsables.
+Las [Fiscalías Especializadas](articulo-4.md) deben intercambiar la información que favorezca la investigación de los delitos previstos en esta Ley y que permita la identificación y sanción de los responsables.

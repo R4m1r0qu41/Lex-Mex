@@ -17,6 +17,6 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 60
 
-La Promoción General arrojará resultados que permitan al Estado Mayor promover a las personas con jerarquía de Mayores y Oficiales al grado inmediato superior, siempre que acrediten los requisitos señalados en los artículos [8](../../larefam/markdown/articulo-8.md), [18](../../larefam/markdown/articulo-18.md) y [20](../../larefam/markdown/articulo-20.md) de la Ley.
+La [Promoción](articulo-5.md) General arrojará resultados que permitan al [Estado Mayor](articulo-5.md) promover a las personas con jerarquía de Mayores y Oficiales al grado inmediato superior, siempre que acrediten los requisitos señalados en los artículos [8](../../larefam/markdown/articulo-8.md), [18](../../larefam/markdown/articulo-18.md) y [20](../../larefam/markdown/articulo-20.md) de la Ley.
 
 Artículo reformado DOF 20-03-2026

@@ -21,4 +21,4 @@ La protección conferida a un diseño industrial no comprenderá los elementos o
 
 No se protegerá un diseño industrial cuando su aspecto comprenda únicamente los elementos o características a los que se refiere el párrafo anterior.
 
-Será registrable el diseño industrial contenido en una parte de un producto o cuando el diseño radica en una forma destinada a permitir el montaje o la conexión múltiple de productos o su conexión dentro de un sistema modular, siempre y cuando cumpla con los requisitos señalados en el artículo [65](articulo-65.md) de esta Ley.
+Será registrable el diseño industrial contenido en una parte de un producto o cuando el diseño radica en una forma destinada a permitir el montaje o la conexión múltiple de productos o su conexión dentro de un sistema modular, siempre y cuando cumpla con los requisitos señalados en el artículo [65](articulo-65.md) de esta [Ley](articulo-4.md).

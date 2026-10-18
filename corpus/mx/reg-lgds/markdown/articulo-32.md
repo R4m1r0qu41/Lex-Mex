@@ -17,4 +17,4 @@ source_sha256: aca2d65d2eef1b7c26ab431772ce7364305d103f5e4bacc87da02064df005ae3
 
 # Artículo 32
 
-La Secretaría, en ejercicio de la atribución que le confiere el artículo [43](../../lgds/markdown/articulo-43.md), fracción IV de la Ley, diseñará y coordinará programas y apoyos federales en las zonas de atención prioritaria, para lo cual definirá y propondrá la aplicación de políticas específicas que deberán tomarse en consideración en los programas de desarrollo social.
+La Secretaría, en ejercicio de la atribución que le confiere el artículo [43](../../lgds/markdown/articulo-43.md), fracción IV de la [Ley](articulo-3.md), diseñará y coordinará programas y apoyos federales en las zonas de atención prioritaria, para lo cual definirá y propondrá la aplicación de políticas específicas que deberán tomarse en consideración en los programas de desarrollo social.

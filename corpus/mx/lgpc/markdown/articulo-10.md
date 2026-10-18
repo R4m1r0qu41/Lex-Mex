@@ -17,7 +17,7 @@ source_sha256: d8dd1de3627b899bb4faf31c2812c3d5f14f7108be153d5aa8dd549b9136184a
 
 # Artículo 10
 
-La Gestión Integral de Riesgos considera, entre otras, las siguientes fases anticipadas a la ocurrencia de un agente perturbador:
+La [Gestión Integral de Riesgos](articulo-2.md) considera, entre otras, las siguientes fases anticipadas a la ocurrencia de un agente perturbador:
 
 I. Conocimiento del origen y naturaleza de los riesgos, además de los procesos de construcción social de los mismos;
 

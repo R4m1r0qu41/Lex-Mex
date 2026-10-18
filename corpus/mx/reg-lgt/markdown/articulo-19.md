@@ -17,7 +17,7 @@ source_sha256: 6680a58c98673518aee46582b3137d28987c275785d1f0c97295f0d89c4b692b
 
 # Artículo 19
 
-Al Consejo le corresponde: I. Proponer a la Secretaría estrategias y acciones que detonen el desarrollo nacional, regional y local, a través de los Destinos y Productos Turísticos del país;
+Al Consejo le corresponde: I. Proponer a la Secretaría estrategias y acciones que detonen el desarrollo nacional, regional y local, a través de los Destinos y [Productos Turísticos](articulo-2.md) del país;
 
 II. Proponer acciones a la Secretaría que difundan y enriquezcan la promoción y fomento de los Destinos y Productos Turísticos del país;
 

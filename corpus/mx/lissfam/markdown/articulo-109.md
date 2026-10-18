@@ -17,4 +17,4 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 109
 
-La Junta Directiva conocerá y resolverá los montos máximos de los créditos que se otorguen, la protección de los préstamos, así como los precios máximos de venta de las habitaciones cuya adquisición o construcción pueda ser objeto de los créditos que se otorguen con cargo al fondo.
+La [Junta](articulo-4o.md) Directiva conocerá y resolverá los montos máximos de los créditos que se otorguen, la protección de los préstamos, así como los precios máximos de venta de las habitaciones cuya adquisición o construcción pueda ser objeto de los créditos que se otorguen con cargo al fondo.

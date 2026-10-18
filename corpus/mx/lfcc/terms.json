@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:term:persona-beneficiaria",
+    "term": "Persona beneficiaria",
+    "instrument_id": "urn:lex-mx:federal:statute:lfcc",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfcc:article:3",
+    "fraction": "I",
+    "start_char": 47,
+    "end_char": 206,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:statute:lfcc",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfcc:article:3",
+    "fraction": "II",
+    "start_char": 206,
+    "end_char": 257,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:term:comision",
+    "term": "Comisión",
+    "instrument_id": "urn:lex-mx:federal:statute:lfcc",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfcc:article:3",
+    "fraction": "III",
+    "start_char": 257,
+    "end_char": 733,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:term:padron",
+    "term": "Padrón",
+    "instrument_id": "urn:lex-mx:federal:statute:lfcc",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfcc:article:3",
+    "fraction": "IV",
+    "start_char": 733,
+    "end_char": 796,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:term:reglamento",
+    "term": "Reglamento",
+    "instrument_id": "urn:lex-mx:federal:statute:lfcc",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfcc:article:3",
+    "fraction": "V",
+    "start_char": 796,
+    "end_char": 875,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lfcc",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfcc:article:3",
+    "fraction": "VI",
+    "start_char": 875,
+    "end_char": 914,
+    "basis": "express_definition"
+  }
+]

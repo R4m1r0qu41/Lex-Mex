@@ -17,4 +17,4 @@ source_sha256: 9080231242a59cbd78d30fb747864bc45cd63d3c4978f37086b01e45343f4244
 
 # Artículo 79
 
-En términos del artículo [31](../../lepepm/markdown/articulo-31.md) de la Ley, los acuerdos y actas del Consejo de Administración y de sus comités se deben difundir en la página de internet de Petróleos Mexicanos dentro de los diez días hábiles posteriores a su adopción o autorización y, en caso de que se requiera elaborar versiones públicas de dichos documentos, el plazo se extiende por diez días hábiles más.
+En términos del artículo [31](../../lepepm/markdown/articulo-31.md) de la [Ley](articulo-2.md), los acuerdos y actas del [Consejo de Administración](articulo-2.md) y de sus comités se deben difundir en la página de internet de Petróleos Mexicanos dentro de los diez días hábiles posteriores a su adopción o autorización y, en caso de que se requiera elaborar versiones públicas de dichos documentos, el plazo se extiende por diez días hábiles más.

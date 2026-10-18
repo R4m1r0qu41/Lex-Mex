@@ -17,4 +17,4 @@ source_sha256: 70464807d63da08244e495f2ff0ac30b12b30119926b84cedc7930397fcb80ef
 
 # Artículo 132
 
-La etiqueta de los tés o infusiones que se elaboren con las plantas o partes de ellas que la Secretaría determine mediante las listas correspondientes, deberá incluir la siguiente leyenda de advertencia: “Atención: No consumirse durante el embarazo”.
+La etiqueta de los tés o infusiones que se elaboren con las plantas o partes de ellas que la [Secretaría](articulo-2o.md) determine mediante las listas correspondientes, deberá incluir la siguiente leyenda de advertencia: “Atención: No consumirse durante el embarazo”.

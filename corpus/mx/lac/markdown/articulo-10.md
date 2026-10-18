@@ -21,6 +21,6 @@ I. Hubiere cumplido con las obligaciones señaladas en la concesión que se pret
 
 II. Lo solicite a más tardar un año antes de su conclusión; III. Hubiere realizado un mejoramiento en la calidad de los servicios prestados durante la vigencia de la concesión, de acuerdo con las verificaciones sistemáticas practicadas conforme a los indicadores de eficiencia y seguridad que se determinen en los reglamentos respectivos y demás disposiciones aplicables, y
 
-IV. Acepte las nuevas condiciones que establezca la Secretaría, con base en esta Ley.
+IV. Acepte las nuevas condiciones que establezca la [Secretaría](articulo-2.md), con base en esta Ley.
 
 Sección Primera Bis De las asignaciones Sección adicionada DOF 03-05-2023

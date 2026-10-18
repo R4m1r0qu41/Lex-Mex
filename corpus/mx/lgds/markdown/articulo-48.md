@@ -17,4 +17,4 @@ source_sha256: 32822f50bb2de81185408f9450d61a49d678429c52c5379822a507c7027a5275
 
 # Artículo 48
 
-La Comisión Nacional tiene por objeto consolidar la integralidad y el federalismo sobre bases de coordinación, colaboración y concertación de estrategias y programas de desarrollo social.
+La [Comisión Nacional](articulo-5.md) tiene por objeto consolidar la integralidad y el federalismo sobre bases de coordinación, colaboración y concertación de estrategias y programas de desarrollo social.

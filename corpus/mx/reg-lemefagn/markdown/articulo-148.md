@@ -17,4 +17,4 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 148
 
-El personal que cause baja de alguna de las Instituciones Educativas antes de la fecha de graduación, pero que haya cumplido los requisitos académicos establecidos en el plan o programa de estudios, tendrá derecho a que le sean expedidos los certificados de estudios y las constancias respectivas.
+El personal que cause baja de alguna de las [Instituciones Educativas](articulo-3.md) antes de la fecha de graduación, pero que haya cumplido los requisitos académicos establecidos en el plan o programa de estudios, tendrá derecho a que le sean expedidos los certificados de estudios y las constancias respectivas.

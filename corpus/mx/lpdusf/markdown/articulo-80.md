@@ -17,7 +17,7 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 80
 
-Corresponde a la Comisión Nacional adoptar todas aquellas medidas necesarias para el cumplimiento de los laudos dictados por la misma, para lo cual mandará, en su caso, que se pague a la persona en cuyo favor se hubiere emitido el laudo, o se le restituya el servicio financiero que demande. Párrafo reformado DOF 10-01-2014
+Corresponde a la [Comisión Nacional](articulo-2o.md) adoptar todas aquellas medidas necesarias para el cumplimiento de los laudos dictados por la misma, para lo cual mandará, en su caso, que se pague a la persona en cuyo favor se hubiere emitido el laudo, o se le restituya el servicio financiero que demande. Párrafo reformado DOF 10-01-2014
 
 Los convenios celebrados ante la Comisión Nacional tendrán el carácter de una sentencia ejecutoria.
 

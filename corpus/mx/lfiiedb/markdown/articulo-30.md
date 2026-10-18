@@ -17,4 +17,4 @@ source_sha256: 7679afbbf32749e0c0bacab72644d41fc6ccdeeab3a2f25dfae8d26a065de01e
 
 # Artículo 30
 
-La Secretaría incluirá disposiciones para la implementación de los Esquemas de Participación Mixta, en los Lineamientos que emita en términos del artículo [6](articulo-6.md) de esta Ley.
+La [Secretaría](articulo-4.md) incluirá disposiciones para la implementación de los [Esquemas de Participación Mixta](articulo-4.md), en los Lineamientos que emita en términos del artículo [6](articulo-6.md) de esta [Ley](articulo-4.md).

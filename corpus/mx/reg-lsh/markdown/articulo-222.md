@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 222
 
-Son causales de conclusión anticipada de la Mediación, las siguientes: I. Desistimiento por común acuerdo; II. Por la muerte de la persona propietaria o titular del inmueble; III. Por imposibilidad material de continuarlo por causas sobrevenidas, y IV. Los demás casos en que proceda dar por concluido el trámite de la Mediación de conformidad con la Normatividad aplicable.
+Son causales de conclusión anticipada de la [Mediación](articulo-3.md), las siguientes: I. Desistimiento por común acuerdo; II. Por la muerte de la persona propietaria o titular del inmueble; III. Por imposibilidad material de continuarlo por causas sobrevenidas, y IV. Los demás casos en que proceda dar por concluido el trámite de la Mediación de conformidad con la [Normatividad](articulo-3.md) aplicable.

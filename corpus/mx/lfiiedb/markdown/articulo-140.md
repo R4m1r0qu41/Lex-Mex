@@ -17,4 +17,4 @@ source_sha256: 7679afbbf32749e0c0bacab72644d41fc6ccdeeab3a2f25dfae8d26a065de01e
 
 # Artículo 140
 
-El incumplimiento a las disposiciones de la presente Ley, por parte de las personas servidoras públicas será sancionado por la autoridad competente conforme a lo dispuesto en la Ley General de Responsabilidades Administrativas y demás disposiciones jurídicas aplicables.
+El incumplimiento a las disposiciones de la presente [Ley](articulo-4.md), por parte de las personas servidoras públicas será sancionado por la autoridad competente conforme a lo dispuesto en la Ley General de Responsabilidades Administrativas y demás disposiciones jurídicas aplicables.

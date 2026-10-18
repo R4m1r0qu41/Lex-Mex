@@ -17,4 +17,4 @@ source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 
 # Artículo 64
 
-La Secretaría emitirá lineamientos y criterios que determinen formatos y los estándares para la presentación de los productos derivados del proceso de ordenamiento ecológico que corresponda, para su inclusión en el Subsistema.
+La [Secretaría](articulo-3o.md) emitirá lineamientos y criterios que determinen formatos y los estándares para la presentación de los productos derivados del proceso de ordenamiento ecológico que corresponda, para su inclusión en el [Subsistema](articulo-3o.md).

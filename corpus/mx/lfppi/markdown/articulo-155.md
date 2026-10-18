@@ -19,11 +19,11 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 Un registro de modelo de utilidad solo podrá ser declarado nulo en los siguientes casos:
 
-I.- Cuando la materia protegida no pueda ser objeto de un registro de modelo de utilidad, carezca de novedad o de aplicación industrial, en términos de esta Ley;
+I.- Cuando la materia protegida no pueda ser objeto de un registro de modelo de utilidad, carezca de novedad o de aplicación industrial, en términos de esta [Ley](articulo-4.md);
 
 II.- Cuando no divulgue el modelo de utilidad de manera suficientemente clara y completa para que pueda ser realizada por un técnico en la materia;
 
-III.- Cuando la o las reivindicaciones excedan de la divulgación contenida en la solicitud tal como fue inicialmente presentada ante el Instituto;
+III.- Cuando la o las reivindicaciones excedan de la divulgación contenida en la solicitud tal como fue inicialmente presentada ante el [Instituto](articulo-4.md);
 
 IV.- Cuando sea resultado de una solicitud divisional que haya sido tramitada en contravención a lo dispuesto por el artículo [100](articulo-100.md) de esta Ley;
 
@@ -35,7 +35,7 @@ VII.- Cuando se haya concedido en contravención al artículo [50](articulo-50.m
 
 VIII.- Se deroga. Fracción derogada DOF 03-04-2026
 
-Las acciones de nulidad previstas en este artículo podrán ejercerse en cualquier tiempo, a partir de la fecha en que surta efectos la publicación del registro en la Gaceta.
+Las acciones de nulidad previstas en este artículo podrán ejercerse en cualquier tiempo, a partir de la fecha en que surta efectos la publicación del registro en la [Gaceta](articulo-4.md).
 
 Si las causales de nulidad afectan parcialmente al registro de modelo de utilidad, éste se declarará parcialmente nulo.
 

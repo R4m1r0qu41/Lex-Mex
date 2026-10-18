@@ -17,7 +17,7 @@ source_sha256: 74f2c47c7a9282194b2972ec1366352d94f03042c6d0c7f10efde018cb9e3bfb
 
 # Artículo 46
 
-La Secretaría creará el Programa de Fomento a la Economía Social así como los programas regionales y especiales, cuyo objeto será atender iniciativas productivas del Sector mediante el apoyo a proyectos productivos, la constitución, desarrollo, consolidación y expansión de Organismos del Sector y la participación en esquemas de financiamiento social.
+La [Secretaría](articulo-5o.md) creará el [Programa](articulo-5o.md) de Fomento a la Economía Social así como los programas regionales y especiales, cuyo objeto será atender iniciativas productivas del [Sector](articulo-5o.md) mediante el apoyo a proyectos productivos, la constitución, desarrollo, consolidación y expansión de [Organismos del Sector](articulo-5o.md) y la participación en esquemas de financiamiento social.
 
 Los Programas operarán con recursos públicos asignados en el Presupuesto de Egresos de la Federación, así como con los recursos derivados de los convenios que se establezcan con las Entidades Federativas y Municipios.
 

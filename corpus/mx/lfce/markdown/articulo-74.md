@@ -17,4 +17,4 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 74
 
-Las Autoridades Públicas prestarán, dentro del ámbito de su competencia, el auxilio que le sea requerido por los servidores públicos de la Autoridad Investigadora para el cumplimiento de sus atribuciones y aplicación de esta Ley.
+Las [Autoridades Públicas](articulo-3.md) prestarán, dentro del ámbito de su competencia, el auxilio que le sea requerido por los servidores públicos de la [Autoridad Investigadora](articulo-3.md) para el cumplimiento de sus atribuciones y aplicación de esta Ley.

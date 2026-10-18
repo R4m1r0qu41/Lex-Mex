@@ -17,13 +17,13 @@ source_sha256: bcc21844355854fe331c842c21436d721d6c2856b5c5986715fe39f4a845b317
 
 # Artículo 15
 
-La Junta de Gobierno es la autoridad suprema del Sistema y tendrá las siguientes atribuciones indelegables:
+La [Junta de Gobierno](articulo-2.md) es la autoridad suprema del [Sistema](articulo-2.md) y tendrá las siguientes atribuciones indelegables:
 
 I. Establecer las políticas generales y definir las prioridades a las que deberá sujetarse el Sistema, relativas al cumplimiento de su objeto, así como en materia de finanzas, investigación, desarrollo tecnológico y administración general;
 
-II. Aprobar, a propuesta del Presidente, el programa anual de actividades en el que se prevean propuestas y cumplimiento de metas específicas para el mejoramiento en la prestación del servicio de radiodifusión, en coordinación con los medios públicos de radiodifusión, mediante principios básicos en materia de producción y programación;
+II. Aprobar, a propuesta del [Presidente](articulo-2.md), el programa anual de actividades en el que se prevean propuestas y cumplimiento de metas específicas para el mejoramiento en la prestación del servicio de radiodifusión, en coordinación con los medios públicos de radiodifusión, mediante principios básicos en materia de producción y programación;
 
-III. Fomentar entre los medios públicos de radiodifusión el cabal cumplimiento de las normas que regulan su actividad, así como de los actos y resoluciones que emitan las autoridades administrativas competentes; IV. Valorar y, en su caso, remitir a la Secretaría y a la Secretaría de Gobernación las propuestas de modificaciones legales y reglamentarias en materia de regulación de medios públicos de radiodifusión, considerando el proyecto que presente el Presidente;
+III. Fomentar entre los medios públicos de radiodifusión el cabal cumplimiento de las normas que regulan su actividad, así como de los actos y resoluciones que emitan las autoridades administrativas competentes; IV. Valorar y, en su caso, remitir a la [Secretaría](articulo-2.md) y a la Secretaría de Gobernación las propuestas de modificaciones legales y reglamentarias en materia de regulación de medios públicos de radiodifusión, considerando el proyecto que presente el Presidente;
 
 V. Aprobar los programas y anteproyectos de presupuestos anuales de ingresos y egresos del Sistema, así como sus modificaciones, en los términos de la legislación aplicable, tomando en consideración las propuestas que le presente el Presidente;
 
@@ -33,13 +33,13 @@ VII. Remitir los anteproyectos de presupuestos a la Dependencia competente para 
 
 VIII. Conocer y aprobar los informes sobre el ejercicio del presupuesto autorizado que le presente el Presidente;
 
-IX. Examinar y, en su caso, aprobar el informe anual de actividades del Sistema así como los demás informes generales o especiales que la Junta de Gobierno le requiera, en el marco de las obligaciones que esta Ley impone al Presidente;
+IX. Examinar y, en su caso, aprobar el informe anual de actividades del Sistema así como los demás informes generales o especiales que la Junta de Gobierno le requiera, en el marco de las obligaciones que esta [Ley](articulo-2.md) impone al Presidente;
 
-X. Aprobar la estructura básica de la organización del Sistema y las modificaciones que procedan a la misma, así como aprobar el Estatuto Orgánico, considerando la propuesta del Presidente;
+X. Aprobar la estructura básica de la organización del Sistema y las modificaciones que procedan a la misma, así como aprobar el [Estatuto Orgánico](articulo-2.md), considerando la propuesta del Presidente;
 
 XI. Aprobar las políticas para implementar los indicadores y evaluaciones de desempeño de los empleados del Sistema, atendiendo a la propuesta que presente el Presidente;
 
-XII. Nombrar y remover, a propuesta de su Presidente, al Secretario de la Junta de Gobierno y al Prosecretario, quien suplirá en sus ausencias al Secretario;
+XII. Nombrar y remover, a propuesta de su Presidente, al [Secretario](articulo-2.md) de la Junta de Gobierno y al Prosecretario, quien suplirá en sus ausencias al Secretario;
 
 XIII. Nombrar y remover a propuesta del Presidente, a los servidores públicos del Sistema que ocupen cargos dentro de las dos jerarquías administrativas inferiores a la de aquél, en los términos que señale el Estatuto Orgánico;
 
@@ -55,7 +55,7 @@ XVIII. Constituir comités con fines específicos con base en la disponibilidad 
 
 XX. Aprobar anualmente, a propuesta del Presidente, el informe de actividades del Sistema a fin de que éste lo presente a los Poderes Ejecutivo y Legislativo de la Unión;
 
-XXI. Considerar y resolver sobre las propuestas, proyectos y recomendaciones que le presenta el Consejo Ciudadano;
+XXI. Considerar y resolver sobre las propuestas, proyectos y recomendaciones que le presenta el [Consejo Ciudadano](articulo-2.md);
 
 XXII. Resolver sobre otros asuntos que el Presidente de la Junta de Gobierno, cualquiera de sus miembros o el Presidente someta a su consideración, y
 

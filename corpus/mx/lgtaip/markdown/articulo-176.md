@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 176
 
-Una vez emitida la nueva resolución por la Autoridad garante local responsable de la entidad federativa, según corresponda, en cumplimiento al fallo del recurso de inconformidad, la notificará sin demora, a través de la Plataforma Nacional a la Autoridad garante federal, así como al sujeto obligado que corresponda, a través de su Unidad de Transparencia para efecto del cumplimiento.
+Una vez emitida la nueva resolución por la [Autoridad garante local](articulo-3.md) responsable de la entidad federativa, según corresponda, en cumplimiento al fallo del recurso de inconformidad, la notificará sin demora, a través de la [Plataforma Nacional](articulo-3.md) a la [Autoridad garante federal](articulo-3.md), así como al sujeto obligado que corresponda, a través de su [Unidad de Transparencia](articulo-3.md) para efecto del cumplimiento.

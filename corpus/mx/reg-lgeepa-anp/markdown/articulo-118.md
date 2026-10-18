@@ -17,4 +17,4 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 118
 
-El régimen establecido por la Ley y el presente reglamento para las áreas naturales protegidas deberá mantenerse sobre el predio, aun cuando la vigencia de documento a que se refiere el segundo supuesto de la fracción III del [artículo anterior](articulo-117.md) haya concluido.
+El régimen establecido por la [Ley](articulo-3o.md) y el presente reglamento para las áreas naturales protegidas deberá mantenerse sobre el predio, aun cuando la vigencia de documento a que se refiere el segundo supuesto de la fracción III del [artículo anterior](articulo-117.md) haya concluido.

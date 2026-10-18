@@ -17,4 +17,4 @@ source_sha256: 4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f
 
 # Artículo 36
 
-Para los efectos del artículo [15](../../liva/markdown/articulo-15.md), fracción IX de la Ley, se entiende por seguros de vida, los que bajo esta denominación señale la Ley General de Instituciones y Sociedades Mutualistas de Seguros.
+Para los efectos del artículo [15](../../liva/markdown/articulo-15.md), fracción IX de la [Ley](articulo-1.md), se entiende por seguros de vida, los que bajo esta denominación señale la Ley General de Instituciones y Sociedades Mutualistas de Seguros.

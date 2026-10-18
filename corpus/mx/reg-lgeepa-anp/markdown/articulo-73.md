@@ -21,7 +21,7 @@ En la formulación del programa de manejo se deberá promover la participación 
 
 I. Los habitantes, propietarios y poseedores de los predios que conforman el área respectiva;
 
-II. Dependencias de la Administración Pública Federal que, por su competencia, pudieran aportar elementos al programa;
+II. Dependencias de la [Administración](articulo-3o.md) Pública Federal que, por su competencia, pudieran aportar elementos al programa;
 
 III. Los gobiernos estatales, municipales y del Distrito Federal, en su caso, y
 

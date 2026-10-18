@@ -17,6 +17,6 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 119 Bis 8
 
-La certificación, verificación, dictámenes de prueba o evaluación de la conformidad de las normas oficiales mexicanas y demás disposiciones jurídicas en materia TIF las realizará el SENASICA a iniciativa propia o a petición del interesado, pudiendo hacerlo directamente o a través de organismos de certificación, unidades de verificación o laboratorios de pruebas acreditados en los términos de las disposiciones aplicables.
+La certificación, verificación, dictámenes de prueba o evaluación de la conformidad de las normas oficiales mexicanas y demás disposiciones jurídicas en materia TIF las realizará el [SENASICA](articulo-4o.md) a iniciativa propia o a petición del interesado, pudiendo hacerlo directamente o a través de organismos de certificación, unidades de verificación o laboratorios de pruebas acreditados en los términos de las disposiciones aplicables.
 
 Artículo adicionado DOF 30-05-2012

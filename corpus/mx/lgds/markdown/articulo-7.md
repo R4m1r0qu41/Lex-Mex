@@ -17,4 +17,4 @@ source_sha256: 32822f50bb2de81185408f9450d61a49d678429c52c5379822a507c7027a5275
 
 # Artículo 7
 
-Toda persona tiene derecho a participar y a beneficiarse de los programas de desarrollo social, de acuerdo con los principios rectores de la Política de Desarrollo Social, en los términos que establezca la normatividad de cada programa.
+Toda persona tiene derecho a participar y a beneficiarse de los programas de desarrollo social, de acuerdo con los principios rectores de la [Política de Desarrollo Social](articulo-5.md), en los términos que establezca la normatividad de cada programa.

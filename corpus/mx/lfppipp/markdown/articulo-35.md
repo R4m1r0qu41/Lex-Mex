@@ -17,6 +17,6 @@ source_sha256: 2a105e5201b86ff5517ca1ef8d971224ea8c717f195fdd5fa28b916c7e622e56
 
 # Artículo 35
 
-El Centro, una vez concluido el Procedimiento Penal e impuestas las sanciones del caso podrá, siempre que estime que se mantiene la circunstancia de amenaza o peligro extender la continuación de las Medidas de Protección.
+El [Centro](articulo-2.md), una vez concluido el Procedimiento Penal e impuestas las sanciones del caso podrá, siempre que estime que se mantiene la circunstancia de amenaza o peligro extender la continuación de las [Medidas de Protección](articulo-2.md).
 
 Artículo reformado DOF 17-06-2016

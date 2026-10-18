@@ -17,7 +17,7 @@ source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 
 En caso de que, durante el desarrollo del proceso de selección, alguno de los integrantes del Comité Técnico de Selección advierta posibles irregularidades, las comunicará a los demás miembros para el efecto de que se aclaren o subsanen; en caso contrario, el Comité suspenderá el proceso respectivo hasta en tanto la Secretaría determine las medidas que procedan.
 
-El representante de la Secretaría en el Comité Técnico de Selección, dentro de los quince días hábiles siguientes a la fecha en que se seleccionó al ganador o se declaró desierto el concurso, certificará con base en las constancias que integran el expediente respectivo, si el proceso de selección se llevó a cabo conforme a los procedimientos y plazos previstos en la Ley, en este Reglamento y en las demás disposiciones aplicables, así como de acuerdo con las bases de la convocatoria respectiva.
+El representante de la Secretaría en el Comité Técnico de Selección, dentro de los quince días hábiles siguientes a la fecha en que se seleccionó al ganador o se declaró desierto el concurso, certificará con base en las constancias que integran el expediente respectivo, si el proceso de selección se llevó a cabo conforme a los procedimientos y plazos previstos en la [Ley](articulo-2.md), en este Reglamento y en las demás disposiciones aplicables, así como de acuerdo con las bases de la convocatoria respectiva.
 
 En caso de que en el desarrollo del proceso de selección se presente alguna inconformidad o se interponga el recurso de revocación previsto en la Ley, la certificación a que se refiere el párrafo anterior se realizará una vez que se emita la resolución correspondiente.
 

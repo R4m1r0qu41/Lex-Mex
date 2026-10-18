@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 109
 
-Dentro del plazo de dos meses contados a partir del día hábil siguiente al que surta efectos la publicación de la solicitud a la que se refiere el artículo [107](articulo-107.md) de esta Ley, el Instituto podrá recibir información de cualquier persona, relativa a si dicha solicitud cumple con lo dispuesto en los artículos [47](articulo-47.md) a [49](articulo-49.md), [58](articulo-58.md) y [65](articulo-65.md) de esta Ley.
+Dentro del plazo de dos meses contados a partir del día hábil siguiente al que surta efectos la publicación de la solicitud a la que se refiere el artículo [107](articulo-107.md) de esta [Ley](articulo-4.md), el [Instituto](articulo-4.md) podrá recibir información de cualquier persona, relativa a si dicha solicitud cumple con lo dispuesto en los artículos [47](articulo-47.md) a [49](articulo-49.md), [58](articulo-58.md) y [65](articulo-65.md) de esta Ley.
 
 Cuando así lo estime conveniente, el Instituto podrá considerar dicha información como documento de apoyo técnico para el examen de fondo que sobre la solicitud se realice, sin estar obligado a resolver sobre el alcance de la misma. El Instituto dará vista a la persona solicitante de los datos y documentos aportados para que, en su caso, presente lo que a su derecho convenga.
 

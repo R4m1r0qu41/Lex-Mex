@@ -1,1 +1,112 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:term:asesor-juridico",
+    "term": "Asesor Jurídico",
+    "instrument_id": "urn:lex-mx:federal:statute:lfdeapd",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:3",
+    "fraction": "I",
+    "start_char": 43,
+    "end_char": 172,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:term:comision-ejecutiva",
+    "term": "Comisión Ejecutiva",
+    "instrument_id": "urn:lex-mx:federal:statute:lfdeapd",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:3",
+    "fraction": "II",
+    "start_char": 172,
+    "end_char": 245,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:term:comision-nacional-de-busqueda",
+    "term": "Comisión Nacional de Búsqueda",
+    "instrument_id": "urn:lex-mx:federal:statute:lfdeapd",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:3",
+    "fraction": "III",
+    "start_char": 245,
+    "end_char": 330,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:term:declaracion-especial-de-ausencia",
+    "term": "Declaración Especial de Ausencia",
+    "instrument_id": "urn:lex-mx:federal:statute:lfdeapd",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:3",
+    "fraction": "IV",
+    "start_char": 330,
+    "end_char": 436,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:term:familiares",
+    "term": "Familiares",
+    "instrument_id": "urn:lex-mx:federal:statute:lfdeapd",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:3",
+    "fraction": "V",
+    "start_char": 436,
+    "end_char": 989,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:term:fiscalia-especializada",
+    "term": "Fiscalía Especializada",
+    "instrument_id": "urn:lex-mx:federal:statute:lfdeapd",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:3",
+    "fraction": "VI",
+    "start_char": 989,
+    "end_char": 1491,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:term:mecanismo-de-apoyo-exterior",
+    "term": "Mecanismo de Apoyo Exterior",
+    "instrument_id": "urn:lex-mx:federal:statute:lfdeapd",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:3",
+    "fraction": "VII",
+    "start_char": 1491,
+    "end_char": 2510,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:term:organo-jurisdiccional",
+    "term": "Órgano Jurisdiccional",
+    "instrument_id": "urn:lex-mx:federal:statute:lfdeapd",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:3",
+    "fraction": "VIII",
+    "start_char": 2510,
+    "end_char": 2611,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:term:persona-desaparecida",
+    "term": "Persona Desaparecida",
+    "instrument_id": "urn:lex-mx:federal:statute:lfdeapd",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:3",
+    "fraction": "IX",
+    "start_char": 2611,
+    "end_char": 2784,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:term:reporte",
+    "term": "Reporte",
+    "instrument_id": "urn:lex-mx:federal:statute:lfdeapd",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:3",
+    "fraction": "X",
+    "start_char": 2784,
+    "end_char": 2896,
+    "basis": "express_definition"
+  }
+]

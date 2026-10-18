@@ -17,7 +17,7 @@ source_sha256: 71ee875c26fc6a1024ea9481ca0690721959514689d860112c3093f0176dfcfb
 
 # Artículo 8
 
-La evaluación de los Modelos se llevará a cabo de manera anual, para lo cual la Secretaría Ejecutiva podrá apoyarse en instituciones externas y organizaciones de la sociedad civil con experiencia en la materia y reconocido prestigio profesional. Dicha evaluación incluirá:
+La evaluación de los [Modelos](articulo-2.md) se llevará a cabo de manera anual, para lo cual la [Secretaría Ejecutiva](articulo-2.md) podrá apoyarse en instituciones externas y organizaciones de la sociedad civil con experiencia en la materia y reconocido prestigio profesional. Dicha evaluación incluirá:
 
 I. Los recursos utilizados en la ejecución de los Modelos;
 

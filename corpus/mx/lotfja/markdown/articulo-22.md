@@ -17,9 +17,9 @@ source_sha256: b32c33fa4ed071dc8bea1ad69ce8510cdb05016967e9e4fcb60f10c6f2216628
 
 # Artículo 22
 
-La Junta de Gobierno y Administración se integrará por:
+La [Junta](articulo-2.md) de Gobierno y Administración se integrará por:
 
-I. El Presidente del Tribunal, quien también será el Presidente de la Junta de Gobierno y Administración;
+I. El [Presidente del Tribunal](articulo-2.md), quien también será el Presidente de la Junta de Gobierno y Administración;
 
 II. Dos Magistrados de Sala Superior, y
 

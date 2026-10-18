@@ -21,6 +21,6 @@ I. Por declaración de la persona concesionaria, asignataria, operadora aérea o
 
 II. Cuando transcurridos treinta días desde la fecha en que se tuvieron las últimas noticias oficiales o particulares de la aeronave, se ignore su paradero.
 
-La Agencia Federal de Aviación Civil declarará la pérdida y cancelará las inscripciones correspondientes. Párrafo reformado DOF 03-05-2023
+La [Agencia Federal de Aviación Civil](articulo-2.md) declarará la pérdida y cancelará las inscripciones correspondientes. Párrafo reformado DOF 03-05-2023
 
 Capítulo XVI Bis De la investigación administrativa (regulatory investigation) Capítulo adicionado DOF 03-05-2023

@@ -17,6 +17,6 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 140
 
-Cuando exista un gravamen inscrito ante el Instituto o se reclame la titularidad de una patente o registro, la persona beneficiaria del gravamen, o en su caso, quien reclame la titularidad de una patente o registro, podrá presentar el pago de las anualidades correspondientes a la conservación de los derechos de una patente o registro de modelo de utilidad o esquema de trazado de circuito integrado, o, en su caso, la renovación del registro de un diseño industrial, conforme a las reglas y especificaciones que establezca el Acuerdo emitido por la persona Titular de la Dirección General para tal efecto.
+Cuando exista un gravamen inscrito ante el [Instituto](articulo-4.md) o se reclame la titularidad de una patente o registro, la persona beneficiaria del gravamen, o en su caso, quien reclame la titularidad de una patente o registro, podrá presentar el pago de las anualidades correspondientes a la conservación de los derechos de una patente o registro de modelo de utilidad o esquema de trazado de circuito integrado, o, en su caso, la renovación del registro de un diseño industrial, conforme a las reglas y especificaciones que establezca el Acuerdo emitido por la persona Titular de la Dirección General para tal efecto.
 
 Artículo reformado DOF 03-04-2026

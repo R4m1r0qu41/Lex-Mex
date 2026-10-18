@@ -17,6 +17,6 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # Artículo 53
 
-Las dependencias y las unidades administrativas de la Presidencia de la República, aportarán el uno al millar sobre el monto de los precios por las adquisiciones onerosas de inmuebles que se realicen a favor de la Federación para el servicio de dichas instituciones públicas. Tal aportación se realizará al Fondo a que se refiere el artículo [33](articulo-33.md) de esta Ley.
+Las dependencias y las unidades administrativas de la Presidencia de la República, aportarán el uno al millar sobre el monto de los precios por las adquisiciones onerosas de inmuebles que se realicen a favor de la [Federación](articulo-2.md) para el servicio de dichas instituciones públicas. Tal aportación se realizará al Fondo a que se refiere el artículo [33](articulo-33.md) de esta Ley.
 
 Artículo reformado DOF 20-05-2021

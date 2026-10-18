@@ -17,6 +17,6 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 69
 
-Las negociaciones y campos de tiro, abiertos o subterráneos, que se dediquen a las actividades reguladas en esta Ley, tienen obligación de dar las facilidades necesarias a la Secretaría para practicar visitas de verificación de sus actividades.
+Las negociaciones y campos de tiro, abiertos o subterráneos, que se dediquen a las actividades reguladas en esta [Ley](articulo-1o-Bis.md), tienen obligación de dar las facilidades necesarias a la [Secretaría](articulo-1o-Bis.md) para practicar visitas de verificación de sus actividades.
 
 Artículo reformado DOF 29-05-2025

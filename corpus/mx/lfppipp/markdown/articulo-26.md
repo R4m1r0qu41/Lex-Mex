@@ -17,8 +17,8 @@ source_sha256: 2a105e5201b86ff5517ca1ef8d971224ea8c717f195fdd5fa28b916c7e622e56
 
 # Artículo 26
 
-Una vez concluido el Estudio Técnico, el Director adoptará la decisión que corresponda, la cual podría ser reconsiderada a solicitud del Fiscal, con independencia de lo previsto en el artículo [20](articulo-20.md), párrafo segundo de la presente Ley, la que será en el siguiente sentido: Párrafo reformado DOF 20-05-2021
+Una vez concluido el [Estudio Técnico](articulo-2.md), el [Director](articulo-2.md) adoptará la decisión que corresponda, la cual podría ser reconsiderada a solicitud del [Fiscal](articulo-2.md), con independencia de lo previsto en el artículo [20](articulo-20.md), párrafo segundo de la presente [Ley](articulo-2.md), la que será en el siguiente sentido: Párrafo reformado DOF 20-05-2021
 
-a) Incorporar a la persona al Programa y establecer las Medidas de Protección que se le aplicarán.
+a) Incorporar a la persona al [Programa](articulo-2.md) y establecer las [Medidas de Protección](articulo-2.md) que se le aplicarán.
 
 b) No incorporar al Programa.

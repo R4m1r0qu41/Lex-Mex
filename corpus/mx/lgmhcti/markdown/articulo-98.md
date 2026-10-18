@@ -17,7 +17,7 @@ source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 
 # Artículo 98
 
-Las Asambleas del Personal de los Centros Públicos serán de naturaleza consultiva y se integrarán por todas las personas adscritas al Centro Público de que se trate que realicen directamente investigación humanística o científica, desarrollo tecnológico o innovación.
+Las Asambleas del Personal de los [Centros Públicos](articulo-4.md) serán de naturaleza consultiva y se integrarán por todas las personas adscritas al Centro Público de que se trate que realicen directamente investigación humanística o científica, desarrollo tecnológico o innovación.
 
 Con antelación a su presentación ante los Órganos de Gobierno y de conformidad con la normativa aplicable, las Asambleas conocerán y opinarán sobre los proyectos de programas institucionales de los Centros Públicos y sus reformas.
 

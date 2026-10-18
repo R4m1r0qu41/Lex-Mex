@@ -17,6 +17,6 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 84 Bis
 
-A la persona que introduzca o participe en la introducción al territorio nacional, sin los permisos correspondientes, de armas, sus piezas o componentes, cargadores, municiones o cartuchos, artificios, explosivos o substancias químicas relacionadas, de las que no están reservadas para el uso exclusivo de la Fuerza Armada Permanente, se le impondrá de seis a doce años de prisión y multa de trescientas veces el valor diario de la Unidad de Medida y Actualización.
+A la persona que introduzca o participe en la introducción al territorio nacional, sin los permisos correspondientes, de armas, sus piezas o componentes, cargadores, municiones o cartuchos, artificios, explosivos o substancias químicas relacionadas, de las que no están reservadas para el uso exclusivo de la [Fuerza Armada Permanente](articulo-1o-Bis.md), se le impondrá de seis a doce años de prisión y multa de trescientas veces el valor diario de la Unidad de Medida y Actualización.
 
 Artículo adicionado DOF 24-12-1998. Reformado DOF 29-05-2025

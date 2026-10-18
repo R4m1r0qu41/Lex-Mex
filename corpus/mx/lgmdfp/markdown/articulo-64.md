@@ -17,12 +17,12 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 64
 
-El Consejo Ciudadano integrará de entre sus miembros un Comité para la evaluación y seguimiento de las acciones emprendidas por la Comisión Nacional de Búsqueda, que tendrá las siguientes atribuciones:
+El [Consejo Ciudadano](articulo-4.md) integrará de entre sus miembros un Comité para la evaluación y seguimiento de las acciones emprendidas por la [Comisión Nacional de Búsqueda](articulo-4.md), que tendrá las siguientes atribuciones:
 
 I. Solicitar información relacionada a los procedimientos de búsqueda y localización a la Comisión Nacional de Búsqueda;
 
 II. Conocer y emitir recomendaciones sobre los criterios de idoneidad, convenios, lineamientos, programas y reglamentos que emita la Comisión Nacional de Búsqueda;
 
-III. Dar seguimiento a la implementación del Programa Nacional de Búsqueda de Personas Desaparecidas; IV. Contribuir, de acuerdo a lo establecido en la presente Ley y su Reglamento, a la participación directa de los Familiares en el ejercicio de sus atribuciones, y
+III. Dar seguimiento a la implementación del Programa Nacional de Búsqueda de [Personas Desaparecidas](articulo-4.md); IV. Contribuir, de acuerdo a lo establecido en la presente Ley y su [Reglamento](articulo-4.md), a la participación directa de los [Familiares](articulo-4.md) en el ejercicio de sus atribuciones, y
 
 V. Las demás que determine el Consejo Nacional Ciudadano, en el marco de sus atribuciones.

@@ -17,7 +17,7 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 1
 
-La presente Ley es reglamentaria de las disposiciones de la Constitución Política de los Estados Unidos Mexicanos que se refieren a la protección al ambiente en materia de prevención y gestión integral de residuos, en el territorio nacional.
+La presente [Ley](articulo-5.md) es reglamentaria de las disposiciones de la Constitución Política de los Estados Unidos Mexicanos que se refieren a la protección al ambiente en materia de prevención y gestión integral de residuos, en el territorio nacional.
 
 Sus disposiciones son de orden público e interés social y tienen por objeto garantizar el derecho de toda persona al medio ambiente sano y propiciar el desarrollo sustentable a través de la prevención de la generación, valorización y gestión integral de los residuos peligrosos, mineros y metalúrgicos, sólidos urbanos, de manejo especial; prevenir la contaminación de sitios con estos residuos y llevar a cabo su remediación, así como establecer las bases para: Párrafo reformado DOF 05-11-2013, 08-05-2023
 

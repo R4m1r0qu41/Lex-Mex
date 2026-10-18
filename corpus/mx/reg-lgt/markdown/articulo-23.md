@@ -25,10 +25,10 @@ II. Fortalecer las ventajas competitivas de la oferta turística;
 
 III. Establecer mecanismos que permitan facilitar el financiamiento y la inversión pública y privada en proyectos con potencial turístico;
 
-IV. Impulsar la Promoción Turística para contribuir a la diversificación de mercados, así como al desarrollo del sector, mediante la adopción, entre otras, de las siguientes estrategias: a) Fomentar el desarrollo del mercado nacional mediante la difusión de los Atractivos y Destinos Turísticos, e
+IV. Impulsar la [Promoción Turística](articulo-2.md) para contribuir a la diversificación de mercados, así como al desarrollo del sector, mediante la adopción, entre otras, de las siguientes estrategias: a) Fomentar el desarrollo del mercado nacional mediante la difusión de los Atractivos y [Destinos Turísticos](articulo-2.md), e
 
 b) Incrementar la Promoción Turística en los mercados tradicionales y, simultáneamente, impulsar la diversificación de mercados;
 
-V. Fomentar el desarrollo sustentable de los Destinos Turísticos y ampliar los beneficios sociales y económicos de las comunidades receptoras de la afluencia turística, mediante el fortalecimiento de la contribución del Turismo a la conservación del patrimonio nacional y a su uso sustentable, y
+V. Fomentar el desarrollo sustentable de los Destinos Turísticos y ampliar los beneficios sociales y económicos de las comunidades receptoras de la afluencia turística, mediante el fortalecimiento de la contribución del [Turismo](articulo-2.md) a la conservación del patrimonio nacional y a su uso sustentable, y
 
 VI. Los demás que a juicio de la Secretaría contribuyan a fortalecer el Turismo, en términos de las disposiciones aplicables.

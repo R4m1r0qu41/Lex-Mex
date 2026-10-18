@@ -17,4 +17,4 @@ source_sha256: 4195c0740ad46978a8b0f2d43f0ac6d77e46b0216bd6f756950b1a050044ce98
 
 # Artículo 50
 
-Los procedimientos de actuación para la Vigilancia, Detección, Identificación, Interceptación aérea y Seguimiento en territorio nacional, deben ser establecidos por el Consejo, conforme a lo previsto en la Ley, este reglamento y demás disposiciones jurídicas aplicables.
+Los procedimientos de actuación para la [Vigilancia](articulo-4.md), Detección, Identificación, Interceptación aérea y Seguimiento en territorio nacional, deben ser establecidos por el Consejo, conforme a lo previsto en la [Ley](articulo-4.md), este reglamento y demás disposiciones jurídicas aplicables.

@@ -17,7 +17,7 @@ source_sha256: 4933abadd27d345e7a5c1754af10ed429fd148b709b4a78d4f42447b5fcd546d
 
 # Artículo 20
 
-El Consejo se reunirá trimestralmente de manera ordinaria, de acuerdo con el calendario que se apruebe en la primera sesión ordinaria del ejercicio, pudiendo celebrar las reuniones extraordinarias que se requieran.
+El [Consejo](articulo-3.md) se reunirá trimestralmente de manera ordinaria, de acuerdo con el calendario que se apruebe en la primera sesión ordinaria del ejercicio, pudiendo celebrar las reuniones extraordinarias que se requieran.
 
 El Consejo sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros, siempre que se cuente con la asistencia del presidente o su suplente, y que la mayoría de los asistentes sean representantes de la Administración Pública Federal.
 

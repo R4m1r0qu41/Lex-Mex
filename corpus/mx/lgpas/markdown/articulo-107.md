@@ -17,7 +17,7 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 107
 
-Los certificados de sanidad acuícola podrán ser expedidos directamente por el SENASICA o a través de los organismos de certificación, acreditados y aprobados en términos de la Ley Federal sobre Metrología y Normalización y del reglamento de esta Ley.
+Los certificados de sanidad acuícola podrán ser expedidos directamente por el [SENASICA](articulo-4o.md) o a través de los organismos de certificación, acreditados y aprobados en términos de la Ley Federal sobre Metrología y Normalización y del reglamento de esta Ley.
 
 Los Comités de Sanidad Acuícola serán órganos auxiliares para que el SENASICA lleve a cabo la prevención, diagnóstico y control de enfermedades. La organización y funcionamiento de dichos Comités se determinará en el reglamento que al efecto se expida.
 

@@ -17,6 +17,6 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 21
 
-Por cada miembro propietario se designará un suplente, excepto cuando se trate de los miembros del Consejo Asesor que participen a título individual, los cuales deberán asistir personalmente.
+Por cada miembro propietario se designará un suplente, excepto cuando se trate de los miembros del [Consejo](articulo-3o.md) Asesor que participen a título individual, los cuales deberán asistir personalmente.
 
 En ningún caso el total de integrantes de estos Consejos Asesores excederá de 21 miembros.

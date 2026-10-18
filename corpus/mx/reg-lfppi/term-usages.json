@@ -1,1 +1,875 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:2:term-usage:21-31",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 21,
+    "end_char": 31
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:2:term-usage:416-426",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 416,
+    "end_char": 426
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:2:term-usage:433-440",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:acuerdo",
+    "span": "Acuerdo",
+    "start_char": 433,
+    "end_char": 440
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:2:term-usage:837-844",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:acuerdo",
+    "span": "Acuerdo",
+    "start_char": 837,
+    "end_char": 844
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:2:term-usage:1063-1073",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1063,
+    "end_char": 1073
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:2:term-usage:1217-1227",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1217,
+    "end_char": 1227
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:2:term-usage:1562-1572",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1562,
+    "end_char": 1572
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:4:term-usage:295-303",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:acuerdo",
+    "span": "Acuerdos",
+    "start_char": 295,
+    "end_char": 303
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:5:term-usage:354-362",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:acuerdo",
+    "span": "Acuerdos",
+    "start_char": 354,
+    "end_char": 362
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:6:term-usage:80-90",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 80,
+    "end_char": 90
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:6:term-usage:218-225",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:acuerdo",
+    "span": "Acuerdo",
+    "start_char": 218,
+    "end_char": 225
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:9:term-usage:81-88",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:acuerdo",
+    "span": "Acuerdo",
+    "start_char": 81,
+    "end_char": 88
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:11:term-usage:174-184",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 174,
+    "end_char": 184
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:11:term-usage:638-648",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 638,
+    "end_char": 648
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:11:term-usage:1320-1330",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1320,
+    "end_char": 1330
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:11:term-usage:1460-1467",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:acuerdo",
+    "span": "Acuerdo",
+    "start_char": 1460,
+    "end_char": 1467
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:11:term-usage:1765-1772",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:acuerdo",
+    "span": "Acuerdo",
+    "start_char": 1765,
+    "end_char": 1772
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:11:term-usage:1992-2002",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1992,
+    "end_char": 2002
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:11:term-usage:2302-2309",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:acuerdo",
+    "span": "Acuerdo",
+    "start_char": 2302,
+    "end_char": 2309
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:11:term-usage:2435-2442",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:acuerdo",
+    "span": "Acuerdo",
+    "start_char": 2435,
+    "end_char": 2442
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:11:term-usage:5332-5342",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 5332,
+    "end_char": 5342
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:12:term-usage:130-205",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:centros-de-fomento-economico-para-el-bienestar-en-las-entidades-federativas",
+    "span": "Centros de Fomento Económico para el Bienestar en las entidades federativas",
+    "start_char": 130,
+    "end_char": 205
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:12:term-usage:449-456",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:acuerdo",
+    "span": "Acuerdo",
+    "start_char": 449,
+    "end_char": 456
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:13:term-usage:47-57",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 47,
+    "end_char": 57
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:13:term-usage:385-460",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:centros-de-fomento-economico-para-el-bienestar-en-las-entidades-federativas",
+    "span": "Centros de Fomento Económico para el Bienestar en las entidades federativas",
+    "start_char": 385,
+    "end_char": 460
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:14:term-usage:460-470",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 460,
+    "end_char": 470
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:17:term-usage:799-806",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:acuerdo",
+    "span": "Acuerdo",
+    "start_char": 799,
+    "end_char": 806
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:20:term-usage:283-293",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 283,
+    "end_char": 293
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:20:term-usage:1065-1075",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1065,
+    "end_char": 1075
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:20:term-usage:1479-1489",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1479,
+    "end_char": 1489
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:21:term-usage:197-207",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 197,
+    "end_char": 207
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:21:term-usage:714-724",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 714,
+    "end_char": 724
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:22:term-usage:517-527",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 517,
+    "end_char": 527
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:23:term-usage:104-114",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 104,
+    "end_char": 114
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:26:term-usage:212-219",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:acuerdo",
+    "span": "Acuerdo",
+    "start_char": 212,
+    "end_char": 219
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:29:term-usage:334-341",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:acuerdo",
+    "span": "Acuerdo",
+    "start_char": 334,
+    "end_char": 341
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:36:term-usage:448-455",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:acuerdo",
+    "span": "Acuerdo",
+    "start_char": 448,
+    "end_char": 455
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:43:term-usage:285-295",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:43",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 285,
+    "end_char": 295
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:48:term-usage:356-366",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:48",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 356,
+    "end_char": 366
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:49:term-usage:156-166",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 156,
+    "end_char": 166
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:61:term-usage:316-326",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:61",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 316,
+    "end_char": 326
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:62:term-usage:314-324",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:62",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 314,
+    "end_char": 324
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:69:term-usage:610-620",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:69",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 610,
+    "end_char": 620
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:79:term-usage:248-258",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:79",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 248,
+    "end_char": 258
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:81:term-usage:372-382",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:81",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 372,
+    "end_char": 382
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:82:term-usage:812-835",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:82",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:acuerdo-de-colaboracion",
+    "span": "Acuerdo de colaboración",
+    "start_char": 812,
+    "end_char": 835
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:83:term-usage:247-254",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:83",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:acuerdo",
+    "span": "Acuerdo",
+    "start_char": 247,
+    "end_char": 254
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:87:term-usage:37-47",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:87",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 37,
+    "end_char": 47
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:89:term-usage:73-83",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:89",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 73,
+    "end_char": 83
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:91:term-usage:67-77",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:91",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 67,
+    "end_char": 77
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:93:term-usage:71-81",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:93",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 71,
+    "end_char": 81
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:94:term-usage:320-355",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:94",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:clasificacion-internacional-vigente",
+    "span": "Clasificación Internacional Vigente",
+    "start_char": 320,
+    "end_char": 355
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:94:term-usage:746-781",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:94",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:clasificacion-internacional-vigente",
+    "span": "Clasificación Internacional Vigente",
+    "start_char": 746,
+    "end_char": 781
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:94:term-usage:912-947",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:94",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:clasificacion-internacional-vigente",
+    "span": "Clasificación Internacional Vigente",
+    "start_char": 912,
+    "end_char": 947
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:94:term-usage:970-977",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:94",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:acuerdo",
+    "span": "Acuerdo",
+    "start_char": 970,
+    "end_char": 977
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:97:term-usage:207-217",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:97",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 207,
+    "end_char": 217
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:99:term-usage:184-194",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:99",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 184,
+    "end_char": 194
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:102:term-usage:23-33",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:102",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 23,
+    "end_char": 33
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:104:term-usage:23-33",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:104",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 23,
+    "end_char": 33
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:105:term-usage:286-321",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:105",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:clasificacion-internacional-vigente",
+    "span": "Clasificación Internacional Vigente",
+    "start_char": 286,
+    "end_char": 321
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:108:term-usage:366-401",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:108",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:clasificacion-internacional-vigente",
+    "span": "Clasificación Internacional Vigente",
+    "start_char": 366,
+    "end_char": 401
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:110:term-usage:201-211",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:110",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 201,
+    "end_char": 211
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:113:term-usage:124-134",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:113",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 124,
+    "end_char": 134
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:114:term-usage:124-199",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:114",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:centros-de-fomento-economico-para-el-bienestar-en-las-entidades-federativas",
+    "span": "Centros de Fomento Económico para el Bienestar en las entidades federativas",
+    "start_char": 124,
+    "end_char": 199
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:119:term-usage:231-241",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:119",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 231,
+    "end_char": 241
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:120:term-usage:514-549",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:120",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:clasificacion-internacional-vigente",
+    "span": "Clasificación Internacional Vigente",
+    "start_char": 514,
+    "end_char": 549
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:125:term-usage:262-272",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:125",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 262,
+    "end_char": 272
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:127:term-usage:688-698",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:127",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 688,
+    "end_char": 698
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:128:term-usage:73-83",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:128",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 73,
+    "end_char": 83
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:135:term-usage:148-158",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:135",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 148,
+    "end_char": 158
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:136:term-usage:130-205",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:136",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:centros-de-fomento-economico-para-el-bienestar-en-las-entidades-federativas",
+    "span": "Centros de Fomento Económico para el Bienestar en las entidades federativas",
+    "start_char": 130,
+    "end_char": 205
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:137:term-usage:71-81",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:137",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 71,
+    "end_char": 81
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:138:term-usage:119-129",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:138",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 119,
+    "end_char": 129
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:145:term-usage:682-692",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:145",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 682,
+    "end_char": 692
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:146:term-usage:213-223",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:146",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 213,
+    "end_char": 223
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:152:term-usage:189-199",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:152",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 189,
+    "end_char": 199
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:160:term-usage:358-366",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:160",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:acuerdo",
+    "span": "Acuerdos",
+    "start_char": 358,
+    "end_char": 366
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:166:term-usage:927-934",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:166",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:acuerdo",
+    "span": "Acuerdo",
+    "start_char": 927,
+    "end_char": 934
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:186:term-usage:602-612",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:186",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 602,
+    "end_char": 612
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:186:term-usage:1667-1674",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:186",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:acuerdo",
+    "span": "Acuerdo",
+    "start_char": 1667,
+    "end_char": 1674
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:187:term-usage:241-248",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:187",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:acuerdo",
+    "span": "Acuerdo",
+    "start_char": 241,
+    "end_char": 248
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:188:term-usage:322-329",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:188",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:acuerdo",
+    "span": "Acuerdo",
+    "start_char": 322,
+    "end_char": 329
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:190:term-usage:169-179",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:190",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 169,
+    "end_char": 179
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:191:term-usage:427-437",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:191",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 427,
+    "end_char": 437
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:191:term-usage:758-765",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:191",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:acuerdo",
+    "span": "Acuerdo",
+    "start_char": 758,
+    "end_char": 765
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:192:term-usage:368-378",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:192",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 368,
+    "end_char": 378
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:194:term-usage:193-203",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:194",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 193,
+    "end_char": 203
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:197:term-usage:364-371",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:197",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:acuerdo",
+    "span": "Acuerdo",
+    "start_char": 364,
+    "end_char": 371
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:transitory:primero:term-usage:251-261",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:transitory:primero",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 251,
+    "end_char": 261
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:transitory:primero:term-usage:357-364",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:transitory:primero",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:acuerdo",
+    "span": "Acuerdo",
+    "start_char": 357,
+    "end_char": 364
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:transitory:primero:term-usage:499-509",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:transitory:primero",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 499,
+    "end_char": 509
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:transitory:segundo:term-usage:13-23",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 13,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:transitory:tercero:term-usage:62-72",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 62,
+    "end_char": 72
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:transitory:tercero:term-usage:289-299",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 289,
+    "end_char": 299
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:transitory:tercero:term-usage:635-645",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 635,
+    "end_char": 645
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:transitory:cuarto:term-usage:87-97",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 87,
+    "end_char": 97
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:transitory:cuarto:term-usage:177-187",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfppi:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 177,
+    "end_char": 187
+  }
+]

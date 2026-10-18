@@ -17,4 +17,4 @@ source_sha256: 43723ba379e128c1a1c1be4b085ecc870946cdec43d56f83e7314c077361368f
 
 # Artículo 27
 
-La Secretaría autorizará el o los sellos necesarios para que el corredor realice sus funciones. El uso del sello está reservado en forma exclusiva al corredor.
+La [Secretaría](articulo-2o.md) autorizará el o los sellos necesarios para que el corredor realice sus funciones. El uso del sello está reservado en forma exclusiva al corredor.

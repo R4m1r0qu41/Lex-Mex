@@ -15,4 +15,4 @@ source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 
 # Décimo Cuarto
 
-A partir de la entrada en vigor de esta Ley, las referencias en otros ordenamientos, normas, procedimientos, actos e instrumentos jurídicos que hagan mención al Repositorio Nacional de Acceso Abierto a Recursos de Información Científica, Tecnológica y de Innovación, de Calidad e Interés Social y Cultural, se entenderán hechas al Repositorio Nacional en Materia de Humanidades, Ciencias, Tecnologías e Innovación.
+A partir de la entrada en vigor de esta [Ley](articulo-4.md), las referencias en otros ordenamientos, normas, procedimientos, actos e instrumentos jurídicos que hagan mención al [Repositorio Nacional](articulo-4.md) de Acceso Abierto a Recursos de Información Científica, Tecnológica y de Innovación, de Calidad e Interés Social y Cultural, se entenderán hechas al Repositorio Nacional en Materia de Humanidades, Ciencias, Tecnologías e Innovación.

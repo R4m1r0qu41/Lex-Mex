@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 237
 
-La renovación del registro de una marca deberá solicitarse por la persona titular, dentro de los seis meses anteriores al vencimiento de su vigencia. Sin embargo, el Instituto dará trámite a aquellas solicitudes que se presenten dentro de un plazo de seis meses posteriores a la terminación de la vigencia del registro. Párrafo reformado DOF 03-04-2026
+La renovación del registro de una marca deberá solicitarse por la persona titular, dentro de los seis meses anteriores al vencimiento de su vigencia. Sin embargo, el [Instituto](articulo-4.md) dará trámite a aquellas solicitudes que se presenten dentro de un plazo de seis meses posteriores a la terminación de la vigencia del registro. Párrafo reformado DOF 03-04-2026
 
 Al presentar la solicitud de renovación, la persona titular deberá declarar el uso real y efectivo de la marca, indicando los productos o servicios específicos a los que ésta se aplica, acompañando el pago de la tarifa correspondiente. Párrafo reformado DOF 03-04-2026
 

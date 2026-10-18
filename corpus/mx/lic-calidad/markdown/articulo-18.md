@@ -17,31 +17,31 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 18
 
-Además de las facultades expresamente conferidas en la presente Ley y en su Reglamento, la Comisión tiene las siguientes atribuciones: I. Dirigir y coordinar el Sistema Nacional de Infraestructura de la Calidad;
+Además de las facultades expresamente conferidas en la presente Ley y en su Reglamento, la [Comisión](articulo-4.md) tiene las siguientes atribuciones: I. Dirigir y coordinar el [Sistema Nacional de Infraestructura de la Calidad](articulo-4.md);
 
-II. Revisar, analizar y aprobar anualmente el Programa, su suplemento, y vigilar su cumplimiento;
+II. Revisar, analizar y aprobar anualmente el [Programa](articulo-4.md), su suplemento, y vigilar su cumplimiento;
 
-III. Establecer directrices, estrategias y otras medidas para promover y difundir la infraestructura de la calidad, mejorar y modernizar la elaboración de Normas Oficiales Mexicanas y Estándares, así como para fomentar su cumplimiento;
+III. Establecer directrices, estrategias y otras medidas para promover y difundir la infraestructura de la calidad, mejorar y modernizar la elaboración de [Normas Oficiales Mexicanas](articulo-4.md) y [Estándares](articulo-4.md), así como para fomentar su cumplimiento;
 
-IV. Autorizar la creación de los Comités Consultivos Nacionales de Normalización a propuesta de las Autoridades Normalizadoras;
+IV. Autorizar la creación de los Comités Consultivos Nacionales de Normalización a propuesta de las [Autoridades Normalizadoras](articulo-4.md);
 
 V. Opinar cuando se requiera, sobre el registro de Organismos Nacionales de Estandarización;
 
-VI. Opinar sobre la autorización de las Entidades de Acreditación;
+VI. Opinar sobre la autorización de las [Entidades de Acreditación](articulo-4.md);
 
 VII. Supervisar a los Comités Consultivos Nacionales de Normalización en el proceso de normalización;
 
 VIII. Cuando durante el proceso de normalización, a su juicio, se ponga en riesgo la atención a un objetivo legítimo de interés público, emitirá las recomendaciones pertinentes a la Autoridad Normalizadora que presida el Comité Consultivo Nacional de Normalización a fin de que tome las medidas necesarias.
 
-IX. Proponer las medidas que se estimen oportunas para el fomento de la infraestructura de la Calidad, así como aquellas necesarias para resolver las quejas que presenten los interesados sobre aspectos relacionados con las actividades de la Infraestructura de la Calidad.
+IX. Proponer las medidas que se estimen oportunas para el fomento de la infraestructura de la Calidad, así como aquellas necesarias para resolver las quejas que presenten los interesados sobre aspectos relacionados con las actividades de la [Infraestructura de la Calidad](articulo-4.md).
 
 X. Resolver las discrepancias que puedan presentarse en los trabajos de los Comités Consultivos Nacionales de Normalización;
 
-XI. Aprobar la integración de grupos de trabajo para el estudio e investigación de temáticas específicas en materia de normalización, estandarización, Evaluación de la Conformidad y metrología;
+XI. Aprobar la integración de grupos de trabajo para el estudio e investigación de temáticas específicas en materia de normalización, estandarización, [Evaluación de la Conformidad](articulo-4.md) y metrología;
 
 XII. Proponer, instaurar o aprobar indicadores que permitan evaluar y dar seguimiento al Programa;
 
-XIII. Evaluar los programas de Verificación, Vigilancia y vigilancia del mercado que las Autoridades Normalizadoras presenten ante la Comisión;
+XIII. Evaluar los programas de [Verificación](articulo-4.md), [Vigilancia](articulo-4.md) y vigilancia del mercado que las Autoridades Normalizadoras presenten ante la Comisión;
 
 XIV. Promover la evaluación de Normas Oficiales Mexicanas vigentes, conforme a las mejores prácticas internacionales y las disposiciones aplicables en materia de mejora regulatoria;
 

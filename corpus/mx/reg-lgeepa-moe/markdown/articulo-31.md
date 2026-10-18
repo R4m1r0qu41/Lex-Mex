@@ -17,7 +17,7 @@ source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 
 # Artículo 31
 
-Una vez decretado el programa de ordenamiento ecológico general del territorio, la Secretaría iniciará la etapa de ejecución mediante la realización de las siguientes acciones:
+Una vez decretado el programa de ordenamiento ecológico general del territorio, la [Secretaría](articulo-3o.md) iniciará la etapa de ejecución mediante la realización de las siguientes acciones:
 
 I. Promover la aplicación de los instrumentos de política ambiental identificados en las estrategias ecológicas para resolver y prevenir conflictos ambientales;
 

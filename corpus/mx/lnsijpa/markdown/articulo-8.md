@@ -17,7 +17,7 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 8
 
-Presunciones de edad Si existen dudas de que una persona es adolescente se le presumirá como tal y quedará sometida a esta Ley, hasta en tanto se pruebe lo contrario. Cuando exista la duda de que se trata de una persona mayor o menor de doce años, se presumirá niña o niño.
+Presunciones de edad Si existen dudas de que una persona es adolescente se le presumirá como tal y quedará sometida a esta [Ley](articulo-3.md), hasta en tanto se pruebe lo contrario. Cuando exista la duda de que se trata de una persona mayor o menor de doce años, se presumirá niña o niño.
 
 Si la duda se refiere al grupo etario al que pertenece la persona adolescente se presumirá que forma parte del que le sea más favorable.
 

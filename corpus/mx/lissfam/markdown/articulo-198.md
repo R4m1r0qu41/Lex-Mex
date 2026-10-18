@@ -19,4 +19,4 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 Al notificarse la resolución anterior, que tendrá carácter de provisional, los interesados podrán ejercitar dentro de un plazo de quince días el recurso de reconsideración, contando con quince días para la presentación de pruebas si las ofrecieran precisamente en el escrito con que interpusieron el recurso. El recurso de reconsideración a que se refiere este artículo, se rechazará de plano en lo que se refiere a lo ya resuelto por la Dirección encargada de tramitar administrativamente los retiros respectivamente, de las Secretarías de la Defensa Nacional o de Marina, en su caso. Párrafo reformado DOF 20-11-2008
 
-Si dentro del primer plazo manifiestan su conformidad o dejaren que transcurra en silencio, lo que significará una aceptación tácita, se tendrá como definitiva la resolución de la Junta.
+Si dentro del primer plazo manifiestan su conformidad o dejaren que transcurra en silencio, lo que significará una aceptación tácita, se tendrá como definitiva la resolución de la [Junta](articulo-4o.md).

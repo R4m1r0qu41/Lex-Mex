@@ -17,4 +17,4 @@ source_sha256: dfe63e9a5dca843a804e5d7878671e2899f2b088534d9ed9813e9878c20b12bd
 
 # Artículo 51
 
-El Comandante emitirá los lineamientos para el correcto empleo de los equipos de autoprotección, como escudos, cascos, chalecos a prueba de balas y medios de transporte a prueba de balas, que disminuyan la necesidad de emplear armas de cualquier tipo. Capítulo II De la Posesión
+El [Comandante](articulo-2.md) emitirá los lineamientos para el correcto empleo de los equipos de autoprotección, como escudos, cascos, chalecos a prueba de balas y medios de transporte a prueba de balas, que disminuyan la necesidad de emplear armas de cualquier tipo. Capítulo II De la Posesión

@@ -17,7 +17,7 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 137
 
-La Secretaría, por conducto de la Procuraduría Federal de Protección al Ambiente, realizará dentro de las áreas naturales protegidas los actos de inspección y vigilancia del cumplimiento de las disposiciones contenidas en el presente Reglamento, así como las que del mismo se deriven. Para los efectos establecidos en este artículo, la Secretaría observará las formalidades que para la materia se señalan en el Título Sexto de la Ley.
+La [Secretaría](articulo-3o.md), por conducto de la Procuraduría Federal de Protección al Ambiente, realizará dentro de las áreas naturales protegidas los actos de inspección y vigilancia del cumplimiento de las disposiciones contenidas en el presente Reglamento, así como las que del mismo se deriven. Para los efectos establecidos en este artículo, la Secretaría observará las formalidades que para la materia se señalan en el Título Sexto de la [Ley](articulo-3o.md).
 
 En cumplimiento de lo anterior, la Secretaría requerirá a los responsables que corresponda, la presentación de información y documentación relativa al cumplimiento de las disposiciones referidas.
 

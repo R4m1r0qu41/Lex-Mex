@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 4
 
-La actuación administrativa en los procedimientos previstos en la Ley y en este reglamento se debe desarrollar conforme a los principios de economía, competitividad, sencillez, celeridad, eficiencia, legalidad, simplificación administrativa, mejores prácticas de la industria, transparencia, imparcialidad, máxima publicidad, igualdad y buena fe.
+La actuación administrativa en los procedimientos previstos en la [Ley](articulo-3.md) y en este reglamento se debe desarrollar conforme a los principios de economía, competitividad, sencillez, celeridad, eficiencia, legalidad, simplificación administrativa, mejores prácticas de la industria, transparencia, imparcialidad, máxima publicidad, igualdad y buena fe.

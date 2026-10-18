@@ -21,4 +21,4 @@ El reconocimiento de una denominación de origen o indicación geográfica prote
 
 Queda comprendida en este supuesto, la importación de los productos legítimos a los que se aplique la denominación de origen o indicación geográfica protegida en el extranjero, que realice cualquier persona para su uso, distribución o comercialización en México.
 
-La realización de cualquier actividad contemplada en el presente artículo no constituirá infracción administrativa o delito en los términos de esta Ley.
+La realización de cualquier actividad contemplada en el presente artículo no constituirá infracción administrativa o delito en los términos de esta [Ley](articulo-4.md).

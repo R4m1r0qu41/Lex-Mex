@@ -17,7 +17,7 @@ source_sha256: 67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35
 
 # Artículo 4
 
-Las actividades a que se refiere la presente Ley son de utilidad pública preferente sobre cualquier otro uso o aprovechamiento del subsuelo de los terrenos. Lo anterior, salvo que se trate de usos o aprovechamientos por actividades de la industria de los hidrocarburos.
+Las actividades a que se refiere la presente [Ley](articulo-2.md) son de utilidad pública preferente sobre cualquier otro uso o aprovechamiento del subsuelo de los terrenos. Lo anterior, salvo que se trate de usos o aprovechamientos por actividades de la industria de los hidrocarburos.
 
 Las actividades que regula esta Ley deben realizarse con estricto apego a la normatividad y disposiciones que resulten aplicables, incluidas aquellas relativas a la consulta indígena, previa, libre e informada.
 

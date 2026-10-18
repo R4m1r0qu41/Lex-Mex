@@ -17,8 +17,8 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 92 Bis 2
 
-La Comisión Nacional podrá, además de la imposición de la sanción que corresponda, amonestar al infractor, o bien, solamente amonestarlo, considerando sus antecedentes personales, la gravedad de la conducta, que no se cuente con elementos que permitan demostrar que se afecten intereses de terceros o del propio sistema financiero, así como la existencia de atenuantes.
+La [Comisión Nacional](articulo-2o.md) podrá, además de la imposición de la sanción que corresponda, amonestar al infractor, o bien, solamente amonestarlo, considerando sus antecedentes personales, la gravedad de la conducta, que no se cuente con elementos que permitan demostrar que se afecten intereses de terceros o del propio sistema financiero, así como la existencia de atenuantes.
 
-En todo caso, la Comisión Nacional podrá abstenerse de sancionar a las Instituciones Financieras, siempre y cuando se justifique la causa de tal abstención y se refieran a hechos, actos u omisiones que no revistan gravedad, no exista reincidencia, no se cuente con elementos que permitan demostrar que se afecten los intereses de terceros o del propio sistema financiero y no constituyan delito.
+En todo caso, la Comisión Nacional podrá abstenerse de sancionar a las [Instituciones Financieras](articulo-2o.md), siempre y cuando se justifique la causa de tal abstención y se refieran a hechos, actos u omisiones que no revistan gravedad, no exista reincidencia, no se cuente con elementos que permitan demostrar que se afecten los intereses de terceros o del propio sistema financiero y no constituyan delito.
 
 Artículo adicionado DOF 10-01-2014

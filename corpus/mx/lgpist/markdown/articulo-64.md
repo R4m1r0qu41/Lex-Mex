@@ -19,7 +19,7 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 El Centro Nacional de Información recibirá los datos de las detenciones que realicen los agentes policiales y registrará adicionalmente los siguientes datos:
 
-I. Nombre del agente policial que realiza el Reporte Administrativo;
+I. Nombre del agente policial que realiza el [Reporte](articulo-5.md) Administrativo;
 
 II. Lugar desde donde se realiza el Reporte Administrativo;
 

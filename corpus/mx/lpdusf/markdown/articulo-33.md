@@ -17,6 +17,6 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 33
 
-El Consejo Consultivo Nacional estará integrado por el Presidente quien lo presidirá, así como por dos representantes de la Secretaría, un representante por cada una de las Comisiones Nacionales, tres representantes de las Instituciones Financieras y tres más de los Usuarios.
+El Consejo Consultivo Nacional estará integrado por el [Presidente](articulo-2o.md) quien lo presidirá, así como por dos representantes de la [Secretaría](articulo-2o.md), un representante por cada una de las [Comisiones Nacionales](articulo-2o.md), tres representantes de las [Instituciones Financieras](articulo-2o.md) y tres más de los [Usuarios](articulo-2o.md).
 
 Los Consejos Consultivos Regionales estarán integrados por los Delegados Regionales o, en su caso, Estatales de la Comisión Nacional, así como por los demás miembros que acuerde el Consejo Consultivo Nacional y por los representantes de los Usuarios y de las Instituciones Financieras que sean necesarios para el desempeño de las funciones específicas.

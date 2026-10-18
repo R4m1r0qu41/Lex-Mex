@@ -17,7 +17,7 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 135
 
-Para la imposición de las sanciones por infracciones a esta Ley, la Secretaría tomará en cuenta:
+Para la imposición de las sanciones por infracciones a esta Ley, la [Secretaría](articulo-4o.md) tomará en cuenta:
 
 I. La gravedad de la infracción;
 

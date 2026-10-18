@@ -17,7 +17,7 @@ source_sha256: 43723ba379e128c1a1c1be4b085ecc870946cdec43d56f83e7314c077361368f
 
 # Artículo 73
 
-La Secretaría aplicará las sanciones que correspondan por el incumplimiento a lo dispuesto en la Ley y este reglamento. Aclaración al párrafo DOF 15-06-1993
+La [Secretaría](articulo-2o.md) aplicará las sanciones que correspondan por el incumplimiento a lo dispuesto en la [Ley](articulo-2o.md) y este reglamento. Aclaración al párrafo DOF 15-06-1993
 
 La declaración de cancelación definitiva será dictada por el Secretario de Economía. Párrafo reformado DOF 26-11-2012
 

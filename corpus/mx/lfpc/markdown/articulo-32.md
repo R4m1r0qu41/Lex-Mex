@@ -23,7 +23,7 @@ La información o publicidad que compare productos o servicios, sean de una mism
 
 Queda prohibido incluir en la información o publicidad en la que se comercialice un producto o servicio, toda leyenda o información que indique que han sido avalados, aprobados, recomendados o certificados por sociedades o asociaciones profesionales, cuando éstas carezcan de la documentación apropiada que soporte con evidencia científica, objetiva y fehaciente, las cualidades o propiedades del producto o servicio, o cualquier otro requisito señalado en las leyes aplicables para acreditar las mismas. Párrafo adicionado DOF 11-01-2018
 
-La Procuraduría podrá emitir lineamientos para el análisis y verificación de dicha información o publicidad a fin de evitar que se induzca a error o confusión al consumidor, considerando el contexto temporal en que se difunde, el momento en que se transmite respecto de otros contenidos difundidos en el mismo medio y las circunstancias económicas o especiales del mercado.
+La [Procuraduría](articulo-2.md) podrá emitir lineamientos para el análisis y verificación de dicha información o publicidad a fin de evitar que se induzca a error o confusión al consumidor, considerando el contexto temporal en que se difunde, el momento en que se transmite respecto de otros contenidos difundidos en el mismo medio y las circunstancias económicas o especiales del mercado.
 
 En el análisis y verificación de la información o publicidad, la Procuraduría comprobará que la misma sea veraz, comprobable, clara y apegada a esta Ley y a las demás disposiciones aplicables. Párrafo adicionado DOF 13-05-2016
 

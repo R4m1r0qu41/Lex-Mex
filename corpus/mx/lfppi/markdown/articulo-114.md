@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 114
 
-Cuando a juicio del Instituto sea necesario para efectuar el examen de fondo, se podrá requerir a la persona solicitante para que exhiba información o documentación adicional o complementaria, incluida aquélla relativa a la búsqueda o examen practicado por oficinas extranjeras, en el plazo al que se refiere el artículo [111](articulo-111.md) de esta Ley. Párrafo reformado DOF 03-04-2026
+Cuando a juicio del [Instituto](articulo-4.md) sea necesario para efectuar el examen de fondo, se podrá requerir a la persona solicitante para que exhiba información o documentación adicional o complementaria, incluida aquélla relativa a la búsqueda o examen practicado por oficinas extranjeras, en el plazo al que se refiere el artículo [111](articulo-111.md) de esta [Ley](articulo-4.md). Párrafo reformado DOF 03-04-2026
 
 El Instituto podrá considerar o requerir el resultado del examen de fondo o su equivalente realizado por oficinas extranjeras de patentes, el cual será contemplado como un documento de apoyo técnico para el efecto de determinar si la invención, cuya patente se solicita, cumple con los requisitos establecidos en esta Ley.
 

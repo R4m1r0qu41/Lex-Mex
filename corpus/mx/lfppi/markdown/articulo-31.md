@@ -29,4 +29,4 @@ IV.- El domicilio para oír y recibir notificaciones en el territorio nacional, 
 
 V.- El comprobante de pago de la tarifa correspondiente, y
 
-VI.- Los demás que prevengan esta Ley y su Reglamento.
+VI.- Los demás que prevengan esta [Ley](articulo-4.md) y su Reglamento.

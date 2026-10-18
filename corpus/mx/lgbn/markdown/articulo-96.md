@@ -17,7 +17,7 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # Artículo 96
 
-Los actos jurídicos relacionados con inmuebles en los que sean parte la Federación y que en los términos de esta Ley requieran la intervención de notario, se celebrarán ante los Notarios del Patrimonio Inmobiliario Federal que nombrará la Secretaría, entre los autorizados legalmente para ejercer el notariado, cuya lista hará pública.
+Los actos jurídicos relacionados con inmuebles en los que sean parte la [Federación](articulo-2.md) y que en los términos de esta Ley requieran la intervención de notario, se celebrarán ante los Notarios del Patrimonio Inmobiliario Federal que nombrará la [Secretaría](articulo-2.md), entre los autorizados legalmente para ejercer el notariado, cuya lista hará pública.
 
 Los Notarios del Patrimonio Inmobiliario Federal llevarán protocolo especial para los actos jurídicos de este ramo, y sus respectivos apéndices e índices de instrumentos y con los demás requisitos que la ley exija para la validez de los actos notariales. Estos protocolos especiales serán autorizados por las autoridades competentes de las entidades federativas, cuando así lo exijan las leyes locales aplicables, y por la Secretaría. Los notarios deberán dar aviso del cierre y apertura de cada protocolo especial a la Secretaría y remitirle un ejemplar del índice de instrumentos cada vez que se cierre un protocolo especial. Esta dependencia podrá realizar revisiones o requerir información periódica sobre los protocolos especiales, para verificar el cumplimiento de las disposiciones legales aplicables.
 

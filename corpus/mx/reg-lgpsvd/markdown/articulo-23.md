@@ -21,7 +21,7 @@ La elaboración y ejecución de políticas, programas y acciones en materia de p
 
 II. Fractura del tejido social: pérdida de valores o a la ausencia de ética, la falta de cultura de legalidad y respeto a las normas implícitas que indican lo que es correcto e incorrecto para convivir socialmente en paz;
 
-III. Falta de Cohesión Social;
+III. Falta de [Cohesión Social](articulo-3.md);
 
 IV. Exclusión social: dificultad para acceder de manera equitativa a los derechos sociales básicos como ciudadano;
 

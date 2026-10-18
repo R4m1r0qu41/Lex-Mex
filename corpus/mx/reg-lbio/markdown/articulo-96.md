@@ -17,4 +17,4 @@ source_sha256: 7df3d678efda2306b68d3c0f5ca0e3e92b9066d5f773128f4ae19cb26bf44fff
 
 # Artículo 96
 
-Las personas titulares de los permisos deben permitir el ejercicio de las visitas de verificación o los mecanismos que la SENER, SADER y SEMARNAT en el ámbito de sus respectivas atribuciones realicen para comprobar el cumplimiento de la Ley, el Reglamento y demás disposiciones aplicables. Para lo anterior, pueden desarrollar sistemas de monitoreo que integren la información de los insumos para uso y producción como Biocombustibles y su Trazabilidad.
+Las personas titulares de los permisos deben permitir el ejercicio de las visitas de verificación o los mecanismos que la [SENER](articulo-3.md), [SADER](articulo-3.md) y [SEMARNAT](articulo-3.md) en el ámbito de sus respectivas atribuciones realicen para comprobar el cumplimiento de la [Ley](articulo-3.md), el [Reglamento](articulo-3.md) y demás disposiciones aplicables. Para lo anterior, pueden desarrollar sistemas de monitoreo que integren la información de los insumos para uso y producción como Biocombustibles y su [Trazabilidad](articulo-3.md).

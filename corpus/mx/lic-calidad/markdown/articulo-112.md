@@ -21,7 +21,7 @@ El patrimonio del Centro Nacional de Metrología se integrará con:
 
 I. Los bienes que le aporte el Gobierno Federal;
 
-II. Los recursos que anualmente le asigne el Gobierno Federal dentro del presupuesto aprobado a la Secretaría;
+II. Los recursos que anualmente le asigne el Gobierno Federal dentro del presupuesto aprobado a la [Secretaría](articulo-4.md);
 
 III. Los ingresos que perciba por los servicios que proporcione y los que resulten del aprovechamiento de sus bienes;
 

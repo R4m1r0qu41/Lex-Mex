@@ -17,7 +17,7 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 38
 
-El periodo de consulta pública del proyecto de Norma Oficial Mexicana previsto en el artículo [35](articulo-35.md), fracción V de esta Ley, no podrá ser menor de sesenta días naturales y se ajustará al Reglamento de esta Ley. Conforme a lo previsto en los tratados internacionales de los que los Estados Unidos Mexicanos sea parte podrá aumentarse el plazo para la recepción de los comentarios durante el periodo de consulta pública.
+El periodo de consulta pública del proyecto de [Norma Oficial Mexicana](articulo-4.md) previsto en el artículo [35](articulo-35.md), fracción V de esta Ley, no podrá ser menor de sesenta días naturales y se ajustará al Reglamento de esta Ley. Conforme a lo previsto en los tratados internacionales de los que los Estados Unidos Mexicanos sea parte podrá aumentarse el plazo para la recepción de los comentarios durante el periodo de consulta pública.
 
 Para tales efectos, el proyecto deberá de hacerse público en formatos accesibles y adaptables. Los proyectos se deberán publicar íntegramente, si es el caso, con sus respectivos anexos, formatos y demás elementos que lo constituyen.
 

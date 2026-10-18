@@ -17,4 +17,4 @@ source_sha256: 6680a58c98673518aee46582b3137d28987c275785d1f0c97295f0d89c4b692b
 
 # Artículo 34
 
-El contenido del Sistema Estadístico podrá difundirse por medios audiovisuales, electrónicos y demás medios que resulten posibles de conformidad con los avances tecnológicos.
+El contenido del [Sistema Estadístico](articulo-2.md) podrá difundirse por medios audiovisuales, electrónicos y demás medios que resulten posibles de conformidad con los avances tecnológicos.

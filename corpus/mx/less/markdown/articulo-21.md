@@ -17,6 +17,6 @@ source_sha256: 74f2c47c7a9282194b2972ec1366352d94f03042c6d0c7f10efde018cb9e3bfb
 
 # Artículo 21
 
-El Consejo es el órgano del Instituto de participación ciudadana y conformación plural, que tendrá por objeto analizar y proponer acciones que incidan en el cumplimiento del Programa de Fomento a la Economía Social.
+El [Consejo](articulo-5o.md) es el órgano del [Instituto](articulo-5o.md) de participación ciudadana y conformación plural, que tendrá por objeto analizar y proponer acciones que incidan en el cumplimiento del [Programa](articulo-5o.md) de Fomento a la Economía Social.
 
 Artículo reformado DOF 11-06-2013

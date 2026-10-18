@@ -17,6 +17,6 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 168
 
-La Fiscalía, así como las Fiscalías Locales y las instituciones de Seguridad Pública, con el apoyo de la Comisión Nacional de Búsqueda, deben capacitar, en el ámbito de sus competencias, al personal ministerial, policial, pericial y demás personal para el desarrollo de las funciones, los cuales serán acorde a los objetivos señalados en el artículo [68](articulo-68.md) de esta Ley conforme a los más altos estándares internacionales, técnicos y científicos para la búsqueda, investigación y análisis de pruebas de los delitos a que se refiere este ordenamiento, con pleno respeto a los derechos humanos y con enfoque psicosocial.
+La [Fiscalía](articulo-4.md), así como las [Fiscalías Locales](articulo-4.md) y las instituciones de Seguridad Pública, con el apoyo de la [Comisión Nacional de Búsqueda](articulo-4.md), deben capacitar, en el ámbito de sus competencias, al personal ministerial, policial, pericial y demás personal para el desarrollo de las funciones, los cuales serán acorde a los objetivos señalados en el artículo [68](articulo-68.md) de esta Ley conforme a los más altos estándares internacionales, técnicos y científicos para la búsqueda, investigación y análisis de pruebas de los delitos a que se refiere este ordenamiento, con pleno respeto a los derechos humanos y con enfoque psicosocial.
 
 Artículo reformado DOF 20-05-2021, 16-07-2025

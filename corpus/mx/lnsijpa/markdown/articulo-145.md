@@ -25,7 +25,7 @@ La duración máxima de las medidas de sanción que se podrá imponer a la perso
 
 La duración máxima de las medidas de sanción que se podrá imponer a las personas adolescentes que al momento de la comisión de la conducta tuvieren entre dieciséis años y menos de dieciocho años será de cinco años.
 
-Las medidas de sanción privativas de libertad solo podrán imponerse por las conductas establecidas en el artículo [164](articulo-164.md) de esta Ley.
+Las medidas de sanción privativas de libertad solo podrán imponerse por las conductas establecidas en el artículo [164](articulo-164.md) de esta [Ley](articulo-3.md).
 
 Para la tentativa punible no procederá la imposición de las medidas de sanción privativas de libertad.
 

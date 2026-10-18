@@ -17,13 +17,13 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 11
 
-La Comisión Nacional está facultada para:
+La [Comisión Nacional](articulo-2o.md) está facultada para:
 
-I. Atender y resolver las consultas que le presenten los Usuarios, sobre asuntos de su competencia;
+I. Atender y resolver las consultas que le presenten los [Usuarios](articulo-2o.md), sobre asuntos de su competencia;
 
 II. Atender y, en su caso, resolver las reclamaciones que formulen los Usuarios, sobre los asuntos que sean competencia de la Comisión Nacional; Fracción reformada DOF 05-01-2000
 
-III. Llevar a cabo el procedimiento conciliatorio entre el Usuario y la Institución Financiera en los términos previstos en esta Ley, así como entre una Institución Financiera y varios Usuarios, exclusivamente en los casos en que éstos hayan contratado un mismo producto o servicio, mediante la celebración de un solo contrato, para lo cual dichos Usuarios deberán apegarse a lo establecido en el último párrafo del artículo [63](articulo-63.md) de esta Ley, así como emitir dictámenes de conformidad con la misma. Fracción reformada DOF 05-01-2000, 25-06-2009
+III. Llevar a cabo el procedimiento conciliatorio entre el Usuario y la [Institución Financiera](articulo-2o.md) en los términos previstos en esta Ley, así como entre una Institución Financiera y varios Usuarios, exclusivamente en los casos en que éstos hayan contratado un mismo producto o servicio, mediante la celebración de un solo contrato, para lo cual dichos Usuarios deberán apegarse a lo establecido en el último párrafo del artículo [63](articulo-63.md) de esta Ley, así como emitir dictámenes de conformidad con la misma. Fracción reformada DOF 05-01-2000, 25-06-2009
 
 IV. Actuar como árbitro en amigable composición o en juicio arbitral de estricto derecho, de conformidad con esta Ley y con los convenios arbitrales celebrados entre las partes en conflicto, así como llevar a cabo las acciones necesarias para la organización, funcionamiento y promoción del Sistema Arbitral en Materia Financiera, en los términos previstos en esta Ley, y mantener un padrón de árbitros independientes; Fracción reformada DOF 05-01-2000, 12-05-2005, 25-06-2009, 10-01-2014
 
@@ -43,7 +43,7 @@ VIII. Emitir recomendaciones a las autoridades federales y locales para coadyuva
 
 IX. Emitir recomendaciones a las Instituciones Financieras y hacerlas del conocimiento de sus organismos, asociaciones gremiales y del público en general, así como emitir recomendaciones generales, en las materias de su competencia; Fracción reformada DOF 10-01-2014
 
-X. Formular recomendaciones al Ejecutivo Federal a través de la Secretaría, para la elaboración de iniciativas de leyes, reglamentos, decretos y acuerdos en las materias de su competencia, a fin de dar cumplimiento al objeto de esta Ley y al de la Comisión Nacional, así como para el sano desarrollo del sistema financiero mexicano;
+X. Formular recomendaciones al Ejecutivo Federal a través de la [Secretaría](articulo-2o.md), para la elaboración de iniciativas de leyes, reglamentos, decretos y acuerdos en las materias de su competencia, a fin de dar cumplimiento al objeto de esta Ley y al de la Comisión Nacional, así como para el sano desarrollo del sistema financiero mexicano;
 
 XI. Concertar y celebrar convenios con las Instituciones Financieras, así como con las autoridades federales y locales con objeto de dar cumplimiento a esta Ley. Los convenios con las autoridades federales podrán incluir, entre otros aspectos, el intercambio de información sobre los contratos de adhesión, publicidad, modelos de estados de cuenta, Unidades Especializadas de atención a usuarios, productos y servicios financieros; Fracción reformada DOF 12-05-2005
 
@@ -107,7 +107,7 @@ XL. Elaborar y publicar estadísticas relativas a las Instituciones Financieras 
 
 XLI. Regular y supervisar en el ámbito de su competencia el cumplimiento de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, en los términos señalados en el referido texto legal, y Fracción adicionada DOF 25-06-2009
 
-XLII. Emitir, con el acuerdo de su Junta de Gobierno, disposiciones de carácter general en las que se definan las actividades que se aparten de las sanas prácticas y usos relativos al ofrecimiento y comercialización de las operaciones y servicios financieros por parte de las Instituciones Financieras.
+XLII. Emitir, con el acuerdo de su [Junta](articulo-2o.md) de Gobierno, disposiciones de carácter general en las que se definan las actividades que se aparten de las sanas prácticas y usos relativos al ofrecimiento y comercialización de las operaciones y servicios financieros por parte de las Instituciones Financieras.
 
 Dichas disposiciones no podrán oponerse a las demás disposiciones o reglas que emitan otras autoridades en el ejercicio de sus atribuciones. Fracción adicionada DOF 10-01-2014
 

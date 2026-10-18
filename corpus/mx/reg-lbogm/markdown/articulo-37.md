@@ -17,7 +17,7 @@ source_sha256: 667636f9e0ea65e72ac9d6d7b4d7563a183b75d0f140268a61929c74f5f88041
 
 # Artículo 37
 
-Las Secretarías competentes y SALUD podrán revisar los permisos y autorizaciones otorgados en el ámbito de su respectiva competencia, cuando se presenten cualquiera de los supuestos establecidos en los artículos [69](../../lbogm/markdown/articulo-69.md) y [98](../../lbogm/markdown/articulo-98.md) de la Ley.
+Las [Secretarías competentes](articulo-2.md) y [SALUD](articulo-2.md) podrán revisar los permisos y autorizaciones otorgados en el ámbito de su respectiva competencia, cuando se presenten cualquiera de los supuestos establecidos en los artículos [69](../../lbogm/markdown/articulo-69.md) y [98](../../lbogm/markdown/articulo-98.md) de la [Ley](articulo-2.md).
 
 La revisión de permisos y autorizaciones otorgados por las Secretarías se realizará conforme al siguiente procedimiento:
 

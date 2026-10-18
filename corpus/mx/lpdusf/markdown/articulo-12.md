@@ -17,6 +17,6 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 12
 
-Para el debido cumplimiento de las facultades que esta Ley atribuye a la Comisión Nacional, las Instituciones Financieras, las unidades administrativas de la Secretaría, las Comisiones Nacionales, así como las demás dependencias y entidades de la Administración Pública Federal y órganos constitucionales autónomos que tengan competencia en materia financiera, deberán proporcionarle la información y documentación que se les solicite, en el ámbito de su competencia, en términos de los convenios de intercambio de información en los que se determinen los términos y condiciones a los que deberán sujetarse para llevar a cabo el citado intercambio de información.
+Para el debido cumplimiento de las facultades que esta Ley atribuye a la [Comisión Nacional](articulo-2o.md), las [Instituciones Financieras](articulo-2o.md), las unidades administrativas de la [Secretaría](articulo-2o.md), las Comisiones Nacionales, así como las demás dependencias y entidades de la Administración Pública Federal y órganos constitucionales autónomos que tengan competencia en materia financiera, deberán proporcionarle la información y documentación que se les solicite, en el ámbito de su competencia, en términos de los convenios de intercambio de información en los que se determinen los términos y condiciones a los que deberán sujetarse para llevar a cabo el citado intercambio de información.
 
 Artículo reformado DOF 10-01-2014

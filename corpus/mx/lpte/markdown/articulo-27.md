@@ -17,4 +17,4 @@ source_sha256: c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41
 
 # Artículo 27
 
-La Secretaría, la Secretaría de Hacienda y Crédito Público, la Secretaría de Medio Ambiente y Recursos Naturales, la Comisión Nacional de Energía y la CONUEE, en el ámbito de sus atribuciones, deben promover que existan las condiciones legales, regulatorias y fiscales para facilitar el cumplimiento de las metas y sus disposiciones reglamentarias para todos los integrantes del Sector Energético.
+La [Secretaría](articulo-3.md), la Secretaría de Hacienda y Crédito Público, la Secretaría de Medio Ambiente y Recursos Naturales, la Comisión Nacional de Energía y la [CONUEE](articulo-3.md), en el ámbito de sus atribuciones, deben promover que existan las condiciones legales, regulatorias y fiscales para facilitar el cumplimiento de las metas y sus disposiciones reglamentarias para todos los integrantes del [Sector Energético](articulo-3.md).

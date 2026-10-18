@@ -15,4 +15,4 @@ source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 
 # Vigésimo Segundo
 
-Los Centros Públicos sin estructura propia constituirán los órganos de gobierno, dirección, consulta y evaluación mencionados en la presente Ley, con apego a sus instrumentos de creación y la demás normativa que les resulte aplicable.
+Los [Centros Públicos](articulo-4.md) sin estructura propia constituirán los órganos de gobierno, dirección, consulta y evaluación mencionados en la presente [Ley](articulo-4.md), con apego a sus instrumentos de creación y la demás normativa que les resulte aplicable.

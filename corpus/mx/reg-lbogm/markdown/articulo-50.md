@@ -17,4 +17,4 @@ source_sha256: 667636f9e0ea65e72ac9d6d7b4d7563a183b75d0f140268a61929c74f5f88041
 
 # Artículo 50
 
-El Sistema Nacional de Información sobre Bioseguridad estará a cargo de la Secretaría Ejecutiva. La información que integre el Sistema estará disponible en portal de Internet de la CIBIOGEM y deberá ser actualizado permanentemente.
+El Sistema Nacional de Información sobre Bioseguridad estará a cargo de la [Secretaría Ejecutiva](articulo-2.md). La información que integre el Sistema estará disponible en portal de Internet de la CIBIOGEM y deberá ser actualizado permanentemente.

@@ -17,4 +17,4 @@ source_sha256: b3c906475b455176de73da17f4f93a73f295965dc9bcca854b48417c7d4d3cfc
 
 # Artículo 105
 
-La lista de OGMs que cuenten con autorización, será elaborada y expedida por la SSA, considerando los resultados de la evaluación caso por caso de los posibles riesgos de dichos organismos para la salud humana, y se publicará para su conocimiento y difusión en el Diario Oficial de la Federación. Sus finalidades serán indicar la situación jurídica en que se encuentren esos OGMs, y determinar los casos en los cuales los OGMs autorizados conforme a esta Ley puedan ser comercializados e importados.
+La lista de OGMs que cuenten con autorización, será elaborada y expedida por la [SSA](articulo-3.md), considerando los resultados de la evaluación caso por caso de los posibles riesgos de dichos organismos para la salud humana, y se publicará para su conocimiento y difusión en el Diario Oficial de la Federación. Sus finalidades serán indicar la situación jurídica en que se encuentren esos OGMs, y determinar los casos en los cuales los OGMs autorizados conforme a esta Ley puedan ser comercializados e importados.

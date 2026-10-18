@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 268
 
-Para efectos de este reglamento, se entiende por visitas de verificación a las diligencias que realizan la Secretaría o la Comisión para supervisar y verificar, en el ámbito de sus respectivas competencias, el cumplimiento de la Ley, del presente reglamento, Normas Oficiales Mexicanas, disposiciones administrativas de carácter general y demás Normatividad aplicable al sector hidrocarburos, de conformidad con lo establecido en la orden de visita que se expida.
+Para efectos de este reglamento, se entiende por visitas de verificación a las diligencias que realizan la [Secretaría](articulo-3.md) o la [Comisión](articulo-3.md) para supervisar y verificar, en el ámbito de sus respectivas competencias, el cumplimiento de la [Ley](articulo-3.md), del presente reglamento, Normas Oficiales Mexicanas, disposiciones administrativas de carácter general y demás [Normatividad](articulo-3.md) aplicable al sector hidrocarburos, de conformidad con lo establecido en la orden de visita que se expida.

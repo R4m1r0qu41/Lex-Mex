@@ -15,7 +15,7 @@ source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 
 # Artículo 23
 
-El patrimonio de la Procuraduría estará integrado por:
+El patrimonio de la [Procuraduría](articulo-2.md) estará integrado por:
 
 I. Los bienes con que cuenta;
 

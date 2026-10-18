@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 308
 
-La Secretaría y la Comisión, en el ámbito de sus competencias, pueden emitir la Normatividad respecto de los procedimientos de ocupación temporal y de intervención, así como de la continuidad de las operaciones de las actividades objeto de la ocupación temporal o intervención.
+La [Secretaría](articulo-3.md) y la [Comisión](articulo-3.md), en el ámbito de sus competencias, pueden emitir la [Normatividad](articulo-3.md) respecto de los procedimientos de ocupación temporal y de intervención, así como de la continuidad de las operaciones de las actividades objeto de la ocupación temporal o intervención.

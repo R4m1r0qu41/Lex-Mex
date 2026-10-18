@@ -17,7 +17,7 @@ source_sha256: 4b4529ce2b1275ea9363ab78b6e2d504cd1106bc3d10fd70f09246c38b0cd31e
 
 # Artículo 7
 
-El Consejo Técnico, a propuesta de la Comisión de Inversiones Financieras, deberá determinar los límites máximos de inversión y características para la inversión de cada una de las Reservas y la Reserva General, considerando los tipos de valores, títulos de crédito u otros derechos en que se podrán realizar las inversiones, así como su plazo máximo, características del emisor o de la emisión, y otras que estime pertinentes, con base en lo siguiente:
+El [Consejo Técnico](articulo-2.md), a propuesta de la Comisión de Inversiones Financieras, deberá determinar los límites máximos de inversión y características para la inversión de cada una de las [Reservas](articulo-2.md) y la [Reserva General](articulo-2.md), considerando los tipos de valores, títulos de crédito u otros derechos en que se podrán realizar las inversiones, así como su plazo máximo, características del emisor o de la emisión, y otras que estime pertinentes, con base en lo siguiente:
 
 I. Hasta el 100% en instrumentos de deuda gubernamental, a cualquier plazo;
 

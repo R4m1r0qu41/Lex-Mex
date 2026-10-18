@@ -31,4 +31,4 @@ V. No realizar actividad alguna dentro de los tres meses posteriores a su otorga
 
 VI. Transferir el permiso, y
 
-VII. Incumplir cualquiera de las obligaciones o condiciones establecidas en esta Ley, así como en materia ambiental.
+VII. Incumplir cualquiera de las obligaciones o condiciones establecidas en esta [Ley](articulo-2.md), así como en materia ambiental.

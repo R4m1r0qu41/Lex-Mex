@@ -17,4 +17,4 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 # Artículo 44
 
-En el dictamen médico-psicológico basado en el Protocolo de Estambul, quedará asentado que se realizó con el consentimiento de la Víctima y se señalarán los nombres, el número de cédula profesional o de certificación, la experiencia con la que cuenta en la materia médica y psicológica, así como las firmas de los peritos en medicina y psicología que lo practicaron.
+En el dictamen médico-psicológico basado en el [Protocolo de Estambul](articulo-5.md), quedará asentado que se realizó con el consentimiento de la [Víctima](articulo-5.md) y se señalarán los nombres, el número de cédula profesional o de certificación, la experiencia con la que cuenta en la materia médica y psicológica, así como las firmas de los peritos en medicina y psicología que lo practicaron.

@@ -17,7 +17,7 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 1o Bis
 
-En la presente Ley, se entiende por:
+En la presente [Ley](articulo-1o-Bis.md), se entiende por:
 
 I.- Ley, la Ley Federal de Armas de Fuego y Explosivos;
 
@@ -27,7 +27,7 @@ III.- Reglamento, el Reglamento de la Ley Federal de Armas de Fuego y Explosivos
 
 IV.- Arma o armas, al arma o armas de fuego;
 
-V.- Arma o armas de fuego, todo instrumento que cuente con cañón y que lance a través de éste un proyectil o bala por la acción de una deflagración de pólvora; por sus efectos similares a un arma de fuego, se incluyen en esta categoría las armas accionadas por algún tipo de gas inerte, aire comprimido o pistón que generen una energía cinética superior a los 140 Joules;
+V.- [Arma o armas](articulo-1o-Bis.md) de fuego, todo instrumento que cuente con cañón y que lance a través de éste un proyectil o bala por la acción de una deflagración de pólvora; por sus efectos similares a un arma de fuego, se incluyen en esta categoría las armas accionadas por algún tipo de gas inerte, aire comprimido o pistón que generen una energía cinética superior a los 140 Joules;
 
 VI.- Artificios, los iniciadores, detonadores, mechas de seguridad, cordones detonantes, pirotécnicos, y cualquier instrumento, máquina o ingenio con aplicación al uso de explosivos; VII.- Fuerza Armada Permanente, las instituciones a que hace referencia el artículo [89](../../cpeum/markdown/articulo-89.md) fracción VI de la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -39,7 +39,7 @@ X.- Cargadores, accesorio, dispositivo o cinta que almacena y alimenta de munici
 
 XI.- Municiones, los cartuchos, proyectiles o balas accionadas por deflagración de pólvora que se lanzan a través de un arma de fuego;
 
-XII.- Militares, las personas que legalmente integran la Fuerza Armada Permanente, en situación de retiro o en activo;
+XII.- Militares, las personas que legalmente integran la [Fuerza Armada Permanente](articulo-1o-Bis.md), en situación de retiro o en activo;
 
 XIII.- Artefacto explosivo improvisado, todo aquel dispositivo que pueda integrarse o ensamblarse con una carga explosiva, incendiaria, tóxica, artificios o sustancias químicas, biológicas o radiológicas, diseñado para destruir, incapacitar, distraer o causar daño a instalaciones, infraestructura o personas.
 

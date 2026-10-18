@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 198
 
-Ante el incumplimiento en la obtención de la autorización de participación cruzada por parte de la persona Permisionaria o por realizar operaciones en condiciones de participación cruzada sin una autorización, la Secretaría y la Comisión deben llevar a cabo los procedimientos administrativos correspondientes, en el ámbito de sus competencias.
+Ante el incumplimiento en la obtención de la autorización de participación cruzada por parte de la persona Permisionaria o por realizar operaciones en condiciones de participación cruzada sin una autorización, la [Secretaría](articulo-3.md) y la [Comisión](articulo-3.md) deben llevar a cabo los procedimientos administrativos correspondientes, en el ámbito de sus competencias.

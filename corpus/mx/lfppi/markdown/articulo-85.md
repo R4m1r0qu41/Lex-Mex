@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 85
 
-Además de los requisitos señalados en el artículo [94](articulo-94.md) de esta Ley, la solicitud de registro deberá contener: I.- La manifestación bajo protesta de decir verdad, de la fecha y lugar de la primera explotación comercial ordinaria del esquema de trazado en alguna parte del mundo, o de que éste no ha sido explotado;
+Además de los requisitos señalados en el artículo [94](articulo-94.md) de esta [Ley](articulo-4.md), la solicitud de registro deberá contener: I.- La manifestación bajo protesta de decir verdad, de la fecha y lugar de la primera explotación comercial ordinaria del esquema de trazado en alguna parte del mundo, o de que éste no ha sido explotado;
 
 II.- Una descripción para la comprensión del esquema de trazado;
 

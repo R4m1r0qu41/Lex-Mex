@@ -21,4 +21,4 @@ La persona solicitante tendrá un plazo adicional de dos meses para cumplir los 
 
 La solicitud se tendrá por abandonada si la persona solicitante no da cumplimiento a los requerimientos formulados dentro del plazo inicial o en el adicional a que se refiere este artículo, o no presenta el comprobante de pago de las tarifas correspondientes. Párrafo reformado DOF 03-04-2026
 
-Si lo considera pertinente, el Instituto podrá continuar de oficio la tramitación de la declaración en los términos del presente Capítulo.
+Si lo considera pertinente, el [Instituto](articulo-4.md) podrá continuar de oficio la tramitación de la declaración en los términos del presente Capítulo.

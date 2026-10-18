@@ -17,4 +17,4 @@ source_sha256: 667636f9e0ea65e72ac9d6d7b4d7563a183b75d0f140268a61929c74f5f88041
 
 # Artículo 63
 
-Cuando la Secretaría competente emplace al presunto infractor y éste comparezca mediante escrito aceptando las irregularidades circunstanciadas en el acta de inspección, la Secretaría procederá, dentro de los veinte días hábiles siguientes, a dictar la resolución respectiva.
+Cuando la [Secretaría competente](articulo-2.md) emplace al presunto infractor y éste comparezca mediante escrito aceptando las irregularidades circunstanciadas en el acta de inspección, la Secretaría procederá, dentro de los veinte días hábiles siguientes, a dictar la resolución respectiva.

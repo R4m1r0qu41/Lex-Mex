@@ -17,7 +17,7 @@ source_sha256: 4b4529ce2b1275ea9363ab78b6e2d504cd1106bc3d10fd70f09246c38b0cd31e
 
 # Artículo 17
 
-El reintegro de los recursos a la Reserva de Operación para Contingencias y Financiamiento, por concepto de fondos no ejercidos en su totalidad en el programa prioritario de inversión o los utilizados para apoyar o financiar a las Reservas Operativas, conforme a lo dispuesto en los artículos [277](../../lss/markdown/articulo-277.md) C y [283](../../lss/markdown/articulo-283.md) de la Ley, deberá incluir los costos financieros correspondientes, los cuales consistirán en el rendimiento obtenido en la inversión de la Reserva de Operación para Contingencias y Financiamiento, durante el periodo que duró el apoyo o financiamiento.
+El reintegro de los recursos a la [Reserva](articulo-2.md) de Operación para Contingencias y Financiamiento, por concepto de fondos no ejercidos en su totalidad en el programa prioritario de inversión o los utilizados para apoyar o financiar a las Reservas Operativas, conforme a lo dispuesto en los artículos [277](../../lss/markdown/articulo-277.md) C y [283](../../lss/markdown/articulo-283.md) de la Ley, deberá incluir los costos financieros correspondientes, los cuales consistirán en el rendimiento obtenido en la inversión de la Reserva de Operación para Contingencias y Financiamiento, durante el periodo que duró el apoyo o financiamiento.
 
 En caso de que no exista saldo en la Reserva de Operación para Contingencias y Financiamiento, el cálculo de los intereses se efectuará considerando el rendimiento obtenido en la inversión de las Reservas Operativas, durante el periodo que duró el financiamiento.
 

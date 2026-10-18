@@ -17,4 +17,4 @@ source_sha256: 7b3cf7a0ff59f76503a97a535457c4a7dd3b1305e7a36f4fca82bd661eab1168
 
 # Artículo 22
 
-Los servidores públicos del Centro estarán sujetos a los mecanismos de control de confiabilidad que determine el Estatuto.
+Los servidores públicos del [Centro](articulo-6.md) estarán sujetos a los mecanismos de control de confiabilidad que determine el Estatuto.

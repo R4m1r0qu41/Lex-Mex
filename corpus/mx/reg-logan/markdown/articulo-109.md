@@ -17,4 +17,4 @@ source_sha256: 0ad7a7b6d7dffd7d9a582d74ebd6fc43e6baa79f71801a73dc70d1b77c414ded
 
 # Artículo 109
 
-Para la imposición de las sanciones previstas en la Ley y este Reglamento, la Secretaría se sujetará a lo dispuesto por la Ley Federal de Procedimiento Administrativo.
+Para la imposición de las sanciones previstas en la Ley y este [Reglamento](articulo-2o.md), la Secretaría se sujetará a lo dispuesto por la Ley Federal de Procedimiento Administrativo.

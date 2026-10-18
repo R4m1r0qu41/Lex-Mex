@@ -17,4 +17,4 @@ source_sha256: 6680a58c98673518aee46582b3137d28987c275785d1f0c97295f0d89c4b692b
 
 # Artículo 110
 
-Las visitas de verificación que tengan por objeto vigilar el cumplimiento de las Normas Oficiales Mexicanas en materia de Turismo, serán realizadas por la Secretaría o por las Unidades de Verificación acreditadas y aprobadas en términos de la Ley Federal Sobre Metrología y Normalización y su Reglamento.
+Las visitas de verificación que tengan por objeto vigilar el cumplimiento de las Normas Oficiales Mexicanas en materia de [Turismo](articulo-2.md), serán realizadas por la Secretaría o por las Unidades de Verificación acreditadas y aprobadas en términos de la Ley Federal Sobre Metrología y Normalización y su Reglamento.

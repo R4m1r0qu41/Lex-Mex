@@ -27,8 +27,8 @@ III. La remuneración o estimación, en cualquier forma, de labores personales;
 
 IV. Actos de naturaleza pericial, judicial o administrativa, o
 
-V. Se trate de actividades que puedan afectar los objetivos legítimos de interés público tutelados por las Normas Oficiales Mexicanas de metrología legal.
+V. Se trate de actividades que puedan afectar los objetivos legítimos de interés público tutelados por las [Normas Oficiales Mexicanas](articulo-4.md) de metrología legal.
 
-Lo previsto en el párrafo anterior también será aplicable a los instrumentos para medir sujetos a control metrológico legal, tanto de fabricación nacional o de importación, que cuenten con programas informáticos o software legalmente relevante y que se utilicen en las actividades de medición establecidas en las Normas Oficiales Mexicanas de metrología legal y los Estándares ahí referidos. La aprobación de modelo de los instrumentos para medir sujetos a control metrológico legal se sujetará a lo previsto en el Reglamento de esta Ley.
+Lo previsto en el párrafo anterior también será aplicable a los instrumentos para medir sujetos a control metrológico legal, tanto de fabricación nacional o de importación, que cuenten con programas informáticos o software legalmente relevante y que se utilicen en las actividades de medición establecidas en las Normas Oficiales Mexicanas de metrología legal y los [Estándares](articulo-4.md) ahí referidos. La aprobación de modelo de los instrumentos para medir sujetos a control metrológico legal se sujetará a lo previsto en el Reglamento de esta Ley.
 
 El Centro Nacional de Metrología o los Institutos Designados de Metrología que correspondan podrán revocar la aprobación del modelo o prototipo cuando existan causas justificadas para ello.

@@ -15,4 +15,4 @@ source_sha256: 2a105e5201b86ff5517ca1ef8d971224ea8c717f195fdd5fa28b916c7e622e56
 
 # CUARTO
 
-Se derogan todas aquellas disposiciones contrarias al objeto de esta Ley.
+Se derogan todas aquellas disposiciones contrarias al objeto de esta [Ley](articulo-2.md).

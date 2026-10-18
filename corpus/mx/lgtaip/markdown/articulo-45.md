@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 45
 
-La Plataforma Nacional contará con los módulos siguientes: I. Solicitudes de acceso a la información; II. Gestión de medios de impugnación; III. Portales de obligaciones de transparencia; IV. Comunicación entre las Autoridades garantes y sujetos obligados, y V. Cualquier otro que determine el Sistema Nacional.
+La [Plataforma Nacional](articulo-3.md) contará con los módulos siguientes: I. Solicitudes de acceso a la información; II. Gestión de medios de impugnación; III. Portales de obligaciones de transparencia; IV. Comunicación entre las [Autoridades garantes](articulo-3.md) y sujetos obligados, y V. Cualquier otro que determine el [Sistema Nacional](articulo-3.md).

@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 135
 
-Cuando las personas Permisionarias de Distribución por medio de Ductos vendan el producto, deben desagregar en su facturación el precio del producto, así como cada uno de los servicios involucrados en su entrega, conforme a lo previsto en la Ley y el presente reglamento.
+Cuando las personas Permisionarias de Distribución por medio de [Ductos](articulo-3.md) vendan el producto, deben desagregar en su facturación el precio del producto, así como cada uno de los servicios involucrados en su entrega, conforme a lo previsto en la [Ley](articulo-3.md) y el presente reglamento.

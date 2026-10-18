@@ -17,6 +17,6 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 1
 
-Las disposiciones del presente ordenamiento tienen por objeto reglamentar la Ley de Educación Militar del Ejército, Fuerza Aérea y Guardia Nacional en lo concerniente al Sistema Educativo Militar, el proceso educativo, la admisión, las altas, bajas y reingresos al Sistema Educativo Militar, así como la acreditación, certificación y revalidación de estudios en los términos previstos por la legislación aplicable al Sistema Educativo Nacional.
+Las disposiciones del presente ordenamiento tienen por objeto reglamentar la Ley de Educación Militar del Ejército, Fuerza Aérea y Guardia Nacional en lo concerniente al [Sistema](articulo-3.md) Educativo Militar, el proceso educativo, la admisión, las altas, bajas y reingresos al Sistema Educativo Militar, así como la acreditación, certificación y revalidación de estudios en los términos previstos por la legislación aplicable al Sistema Educativo Nacional.
 
 Artículo reformado DOF 20-03-2026

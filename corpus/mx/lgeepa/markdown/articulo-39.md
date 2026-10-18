@@ -21,6 +21,6 @@ Las autoridades competentes promoverán la incorporación de contenidos relacion
 
 Asimismo, propiciarán la participación comprometida de los medios de comunicación masiva en el fortalecimiento de la conciencia ecológica, y la socialización de proyectos de desarrollo sustentable. Párrafo reformado DOF 07-01-2000
 
-La Secretaría, con la participación de la Secretaría de Educación Pública, promoverá que las instituciones de Educación Superior y los organismos dedicados a la investigación científica y tecnológica, desarrollen planes y programas para la formación de especialistas en la materia en todo el territorio nacional y para la investigación de las causas y efectos de los fenómenos ambientales.
+La [Secretaría](articulo-3o.md), con la participación de la Secretaría de Educación Pública, promoverá que las instituciones de Educación Superior y los organismos dedicados a la investigación científica y tecnológica, desarrollen planes y programas para la formación de especialistas en la materia en todo el territorio nacional y para la investigación de las causas y efectos de los fenómenos ambientales.
 
 La Secretaría mediante diversas acciones promoverá la generación de conocimientos estratégicos acerca de la naturaleza, la interacción entre los elementos de los ecosistemas, incluido el ser humano, la evolución y transformación de los mismos, a fin de contar con información para la elaboración de programas que fomenten la prevención, restauración, conservación y protección del ambiente. Párrafo adicionado DOF 07-01-2000

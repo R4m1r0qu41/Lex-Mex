@@ -17,4 +17,4 @@ source_sha256: 45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80
 
 # Artículo 54
 
-La Comisión podrá proponer a la Secretaría, acciones para fortalecer económicamente los precios del café, y buscar nuevas aportaciones, las cuales podrán provenir, entre otras, de parte de las personas productoras o de otros sectores de la cadena productiva del café, con el objetivo de otorgar apoyos a quienes lo siembran, cultivan o cosechan cuando los precios sean bajos o, en su caso, se destinen al manejo de coberturas de precios y de garantías de crédito para la comercialización de café.
+La [Comisión](articulo-3.md) podrá proponer a la [Secretaría](articulo-3.md), acciones para fortalecer económicamente los precios del café, y buscar nuevas aportaciones, las cuales podrán provenir, entre otras, de parte de las personas productoras o de otros sectores de la cadena productiva del café, con el objetivo de otorgar apoyos a quienes lo siembran, cultivan o cosechan cuando los precios sean bajos o, en su caso, se destinen al manejo de coberturas de precios y de garantías de crédito para la comercialización de café.

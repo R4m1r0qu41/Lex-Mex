@@ -1,1 +1,3980 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:1:term-usage:170-179",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 170,
+    "end_char": 179
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:1:term-usage:222-228",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 222,
+    "end_char": 228
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:1:term-usage:1049-1072",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:entidades-transferentes",
+    "span": "Entidades Transferentes",
+    "start_char": 1049,
+    "end_char": 1072
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:1:term-usage:1726-1732",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 1726,
+    "end_char": 1732
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:1:term-usage:2118-2124",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 2118,
+    "end_char": 2124
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:1:term-usage:2380-2389",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 2380,
+    "end_char": 2389
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:1:term-usage:2875-2885",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2875,
+    "end_char": 2885
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:1:term-usage:2921-2931",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2921,
+    "end_char": 2931
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:1:term-usage:3184-3190",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 3184,
+    "end_char": 3190
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:1:term-usage:3271-3280",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 3271,
+    "end_char": 3280
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:1:term-usage:3427-3450",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:entidades-transferentes",
+    "span": "Entidades Transferentes",
+    "start_char": 3427,
+    "end_char": 3450
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:1:term-usage:3564-3570",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 3564,
+    "end_char": 3570
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:1:term-usage:3574-3583",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 3574,
+    "end_char": 3583
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:1:term-usage:3790-3796",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 3790,
+    "end_char": 3796
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:1:term-usage:3863-3872",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 3863,
+    "end_char": 3872
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:1:term-usage:4007-4013",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 4007,
+    "end_char": 4013
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:1:term-usage:4675-4688",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:transferencia",
+    "span": "Transferencia",
+    "start_char": 4675,
+    "end_char": 4688
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:1:term-usage:4696-4702",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 4696,
+    "end_char": 4702
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:1:term-usage:4706-4715",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 4706,
+    "end_char": 4715
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:1:term-usage:4879-4885",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 4879,
+    "end_char": 4885
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:1:term-usage:4973-4982",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 4973,
+    "end_char": 4982
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:1:term-usage:5197-5203",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 5197,
+    "end_char": 5203
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:1:term-usage:5284-5293",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 5284,
+    "end_char": 5293
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:1:term-usage:5404-5416",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:monetizacion",
+    "span": "Monetización",
+    "start_char": 5404,
+    "end_char": 5416
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:1:term-usage:5470-5476",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 5470,
+    "end_char": 5476
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:1:term-usage:5480-5503",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:entidades-transferentes",
+    "span": "Entidades Transferentes",
+    "start_char": 5480,
+    "end_char": 5503
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:1:term-usage:5982-5991",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 5982,
+    "end_char": 5991
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:1:term-usage:6099-6105",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 6099,
+    "end_char": 6105
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:1:term-usage:6616-6626",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 6616,
+    "end_char": 6626
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:1:term-usage:6664-6674",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 6664,
+    "end_char": 6674
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:2:term-usage:101-111",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 101,
+    "end_char": 111
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:2:term-usage:127-137",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 127,
+    "end_char": 137
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:2:term-usage:142-152",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 142,
+    "end_char": 152
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:2:term-usage:646-652",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 646,
+    "end_char": 652
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:2:term-usage:837-847",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 837,
+    "end_char": 847
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:2:term-usage:1318-1327",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 1318,
+    "end_char": 1327
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:2:term-usage:1466-1487",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:autoridades-aduaneras",
+    "span": "Autoridades Aduaneras",
+    "start_char": 1466,
+    "end_char": 1487
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:2:term-usage:2644-2650",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 2644,
+    "end_char": 2650
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:2:term-usage:2699-2708",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 2699,
+    "end_char": 2708
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:2:term-usage:2835-2845",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2835,
+    "end_char": 2845
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:2:term-usage:3337-3343",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 3337,
+    "end_char": 3343
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:2:term-usage:3496-3505",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 3496,
+    "end_char": 3505
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:2:term-usage:4190-4210",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:entidades-transferentes",
+    "span": "Entidad Transferente",
+    "start_char": 4190,
+    "end_char": 4210
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:2:term-usage:4229-4235",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 4229,
+    "end_char": 4235
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:2:term-usage:4259-4268",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 4259,
+    "end_char": 4268
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:3:term-usage:8-21",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:transferencia",
+    "span": "Transferencia",
+    "start_char": 8,
+    "end_char": 21
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:3:term-usage:29-35",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 29,
+    "end_char": 35
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:3:term-usage:59-68",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 59,
+    "end_char": 68
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:3:term-usage:74-97",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:entidades-transferentes",
+    "span": "Entidades Transferentes",
+    "start_char": 74,
+    "end_char": 97
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:3:term-usage:238-244",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 238,
+    "end_char": 244
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:3:term-usage:291-297",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 291,
+    "end_char": 297
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:3:term-usage:327-347",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:entidades-transferentes",
+    "span": "Entidad Transferente",
+    "start_char": 327,
+    "end_char": 347
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:3:term-usage:518-524",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 518,
+    "end_char": 524
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:3:term-usage:529-546",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 529,
+    "end_char": 546
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:3:term-usage:612-625",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:transferencia",
+    "span": "Transferencia",
+    "start_char": 612,
+    "end_char": 625
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:3:term-usage:657-663",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 657,
+    "end_char": 663
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:3:term-usage:820-826",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 820,
+    "end_char": 826
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:3:term-usage:944-953",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 944,
+    "end_char": 953
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:3:term-usage:1058-1064",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 1058,
+    "end_char": 1064
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:3:term-usage:1103-1112",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 1103,
+    "end_char": 1112
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:4:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:4:term-usage:113-119",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 113,
+    "end_char": 119
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:5:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:5:term-usage:31-37",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 31,
+    "end_char": 37
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:5:term-usage:98-121",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:entidades-transferentes",
+    "span": "Entidades Transferentes",
+    "start_char": 98,
+    "end_char": 121
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:5:term-usage:351-357",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 351,
+    "end_char": 357
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:5:term-usage:420-429",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 420,
+    "end_char": 429
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:5:term-usage:773-779",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 773,
+    "end_char": 779
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:5:term-usage:1036-1042",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 1036,
+    "end_char": 1042
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:5:term-usage:1123-1146",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:entidades-transferentes",
+    "span": "Entidades Transferentes",
+    "start_char": 1123,
+    "end_char": 1146
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:5:term-usage:1678-1701",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:entidades-transferentes",
+    "span": "Entidades Transferentes",
+    "start_char": 1678,
+    "end_char": 1701
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:5:term-usage:1756-1765",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 1756,
+    "end_char": 1765
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:6:term-usage:10-16",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 10,
+    "end_char": 16
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:6:term-usage:171-177",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 171,
+    "end_char": 177
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:6:term-usage:238-247",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 238,
+    "end_char": 247
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:6:term-usage:432-441",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 432,
+    "end_char": 441
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:6:term-usage:457-466",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 457,
+    "end_char": 466
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:6:term-usage:521-527",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 521,
+    "end_char": 527
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:6:term-usage:851-857",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 851,
+    "end_char": 857
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:6-bis:term-usage:10-16",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:6-bis",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 10,
+    "end_char": 16
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:6-bis:term-usage:445-451",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:6-bis",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 445,
+    "end_char": 451
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:6-bis:term-usage:603-612",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:6-bis",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 603,
+    "end_char": 612
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:6-ter:term-usage:4-27",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:6-ter",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:entidades-transferentes",
+    "span": "Entidades Transferentes",
+    "start_char": 4,
+    "end_char": 27
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:6-ter:term-usage:161-167",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:6-ter",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 161,
+    "end_char": 167
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:6-ter:term-usage:229-242",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:6-ter",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:transferencia",
+    "span": "Transferencia",
+    "start_char": 229,
+    "end_char": 242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:6-ter:term-usage:260-269",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:6-ter",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 260,
+    "end_char": 269
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:6-ter:term-usage:340-349",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:6-ter",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 340,
+    "end_char": 349
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:6-ter:term-usage:479-485",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:6-ter",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 479,
+    "end_char": 485
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:6-ter:term-usage:638-647",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:6-ter",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 638,
+    "end_char": 647
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:6-quater:term-usage:4-10",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:6-quater",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 4,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:6-quater:term-usage:80-89",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:6-quater",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 80,
+    "end_char": 89
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:6-quater:term-usage:99-112",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:6-quater",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:transferencia",
+    "span": "Transferencia",
+    "start_char": 99,
+    "end_char": 112
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:6-quater:term-usage:264-284",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:6-quater",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:entidades-transferentes",
+    "span": "Entidad Transferente",
+    "start_char": 264,
+    "end_char": 284
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:6-quater:term-usage:501-510",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:6-quater",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 501,
+    "end_char": 510
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:6-quater:term-usage:589-599",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:6-quater",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 589,
+    "end_char": 599
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:6-quater:term-usage:633-650",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:6-quater",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 633,
+    "end_char": 650
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:6-quater:term-usage:671-680",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:6-quater",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 671,
+    "end_char": 680
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:6-quater:term-usage:709-715",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:6-quater",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 709,
+    "end_char": 715
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:6-quater:term-usage:922-931",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:6-quater",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 922,
+    "end_char": 931
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:6-quater:term-usage:984-990",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:6-quater",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 984,
+    "end_char": 990
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:7:term-usage:25-31",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 25,
+    "end_char": 31
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:7:term-usage:210-219",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 210,
+    "end_char": 219
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:7:term-usage:363-369",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 363,
+    "end_char": 369
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:7:term-usage:524-534",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 524,
+    "end_char": 534
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:7:term-usage:565-574",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 565,
+    "end_char": 574
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:7:term-usage:650-656",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 650,
+    "end_char": 656
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:8:term-usage:77-83",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 77,
+    "end_char": 83
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:8:term-usage:169-178",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 169,
+    "end_char": 178
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:9:term-usage:71-81",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 71,
+    "end_char": 81
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:9:term-usage:398-404",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 398,
+    "end_char": 404
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:9:term-usage:597-603",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 597,
+    "end_char": 603
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:10:term-usage:42-51",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 42,
+    "end_char": 51
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:10:term-usage:238-244",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 238,
+    "end_char": 244
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:11:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:11:term-usage:92-98",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 92,
+    "end_char": 98
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:12:term-usage:35-41",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 35,
+    "end_char": 41
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:12:term-usage:151-157",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 151,
+    "end_char": 157
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:12:term-usage:247-253",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 247,
+    "end_char": 253
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:13:term-usage:16-22",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 16,
+    "end_char": 22
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:13:term-usage:47-56",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 47,
+    "end_char": 56
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:13:term-usage:445-451",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 445,
+    "end_char": 451
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:13:term-usage:591-600",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 591,
+    "end_char": 600
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:13:term-usage:918-927",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 918,
+    "end_char": 927
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:13:term-usage:2293-2302",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 2293,
+    "end_char": 2302
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:14:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:14:term-usage:94-100",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 94,
+    "end_char": 100
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:14:term-usage:231-237",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 231,
+    "end_char": 237
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:15:term-usage:4-10",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 4,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:15:term-usage:106-115",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 106,
+    "end_char": 115
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:16:term-usage:4-10",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 4,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:16:term-usage:157-166",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 157,
+    "end_char": 166
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:17:term-usage:82-91",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 82,
+    "end_char": 91
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:18:term-usage:93-102",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 93,
+    "end_char": 102
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:19:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:19:term-usage:311-317",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 311,
+    "end_char": 317
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:19:term-usage:362-369",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:empresa",
+    "span": "Empresa",
+    "start_char": 362,
+    "end_char": 369
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:19:term-usage:375-392",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 375,
+    "end_char": 392
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:21:term-usage:296-305",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 296,
+    "end_char": 305
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:22:term-usage:3-20",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 3,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:22:term-usage:162-168",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 162,
+    "end_char": 168
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:22:term-usage:285-295",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 285,
+    "end_char": 295
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:22:term-usage:351-368",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 351,
+    "end_char": 368
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:22:term-usage:593-599",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 593,
+    "end_char": 599
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:22:term-usage:846-855",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 846,
+    "end_char": 855
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:22:term-usage:897-914",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 897,
+    "end_char": 914
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:22:term-usage:920-926",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 920,
+    "end_char": 926
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:22:term-usage:1217-1223",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 1217,
+    "end_char": 1223
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:22:term-usage:1324-1333",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 1324,
+    "end_char": 1333
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:22:term-usage:1395-1401",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 1395,
+    "end_char": 1401
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:23:term-usage:36-42",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 36,
+    "end_char": 42
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:23:term-usage:238-244",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 238,
+    "end_char": 244
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:23-bis:term-usage:19-26",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:23-bis",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:empresa",
+    "span": "Empresa",
+    "start_char": 19,
+    "end_char": 26
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:23-bis:term-usage:715-722",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:23-bis",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:empresa",
+    "span": "Empresa",
+    "start_char": 715,
+    "end_char": 722
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:23-bis:term-usage:919-928",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:23-bis",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 919,
+    "end_char": 928
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:23-bis:term-usage:1133-1150",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:23-bis",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 1133,
+    "end_char": 1150
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:24:term-usage:36-42",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 36,
+    "end_char": 42
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:24:term-usage:130-139",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 130,
+    "end_char": 139
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:24:term-usage:266-276",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:interesado",
+    "span": "Interesado",
+    "start_char": 266,
+    "end_char": 276
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:24:term-usage:510-516",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 510,
+    "end_char": 516
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:25:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:25:term-usage:35-45",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:interesado",
+    "span": "Interesado",
+    "start_char": 35,
+    "end_char": 45
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:25:term-usage:98-104",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 98,
+    "end_char": 104
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:25:term-usage:354-360",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 354,
+    "end_char": 360
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:25:term-usage:384-394",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:interesado",
+    "span": "Interesado",
+    "start_char": 384,
+    "end_char": 394
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:25:term-usage:483-493",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:interesado",
+    "span": "Interesado",
+    "start_char": 483,
+    "end_char": 493
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:26:term-usage:21-27",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 21,
+    "end_char": 27
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:26:term-usage:394-403",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 394,
+    "end_char": 403
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:27:term-usage:123-129",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 123,
+    "end_char": 129
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:27:term-usage:186-195",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 186,
+    "end_char": 195
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:27:term-usage:286-295",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 286,
+    "end_char": 295
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:27:term-usage:551-557",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 551,
+    "end_char": 557
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:27:term-usage:600-606",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 600,
+    "end_char": 606
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:27:term-usage:676-682",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 676,
+    "end_char": 682
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:27:term-usage:746-755",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 746,
+    "end_char": 755
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:27:term-usage:808-814",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 808,
+    "end_char": 814
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:27:term-usage:847-860",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:transferencia",
+    "span": "Transferencia",
+    "start_char": 847,
+    "end_char": 860
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:27:term-usage:1181-1194",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:transferencia",
+    "span": "Transferencia",
+    "start_char": 1181,
+    "end_char": 1194
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:27:term-usage:1198-1207",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 1198,
+    "end_char": 1207
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:27:term-usage:1215-1221",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 1215,
+    "end_char": 1221
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:27:term-usage:1304-1313",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 1304,
+    "end_char": 1313
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:27:term-usage:1390-1396",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 1390,
+    "end_char": 1396
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:28:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:28:term-usage:104-110",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 104,
+    "end_char": 110
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:28:term-usage:166-172",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 166,
+    "end_char": 172
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:28:term-usage:250-259",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 250,
+    "end_char": 259
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:29:term-usage:30-36",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 30,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:29:term-usage:81-90",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 81,
+    "end_char": 90
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:31:term-usage:163-169",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 163,
+    "end_char": 169
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:31:term-usage:195-204",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 195,
+    "end_char": 204
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:31:term-usage:264-270",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 264,
+    "end_char": 270
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:31:term-usage:441-464",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:entidades-transferentes",
+    "span": "Entidades Transferentes",
+    "start_char": 441,
+    "end_char": 464
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:31:term-usage:920-929",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 920,
+    "end_char": 929
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:31:term-usage:1210-1219",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 1210,
+    "end_char": 1219
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:31:term-usage:1253-1259",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 1253,
+    "end_char": 1259
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:31:term-usage:1291-1300",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 1291,
+    "end_char": 1300
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:31:term-usage:1370-1376",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 1370,
+    "end_char": 1376
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:31:term-usage:1498-1507",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 1498,
+    "end_char": 1507
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:32:term-usage:889-906",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 889,
+    "end_char": 906
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:32:term-usage:1607-1616",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 1607,
+    "end_char": 1616
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:34:term-usage:235-241",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 235,
+    "end_char": 241
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:34:term-usage:794-800",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 794,
+    "end_char": 800
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:35:term-usage:24-30",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 24,
+    "end_char": 30
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:35:term-usage:35-44",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 35,
+    "end_char": 44
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:35:term-usage:167-177",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 167,
+    "end_char": 177
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:36:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:36:term-usage:30-36",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 30,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:36:term-usage:87-93",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 87,
+    "end_char": 93
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:36:term-usage:561-570",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 561,
+    "end_char": 570
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:36:term-usage:769-786",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 769,
+    "end_char": 786
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:36:term-usage:792-801",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 792,
+    "end_char": 801
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:36:term-usage:1489-1498",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 1489,
+    "end_char": 1498
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:36:term-usage:1615-1632",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 1615,
+    "end_char": 1632
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:38:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:38:term-usage:31-37",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 31,
+    "end_char": 37
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:38:term-usage:319-328",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 319,
+    "end_char": 328
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:38:term-usage:368-374",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 368,
+    "end_char": 374
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:38:term-usage:1079-1088",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 1079,
+    "end_char": 1088
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:38:term-usage:1234-1240",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 1234,
+    "end_char": 1240
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:38:term-usage:1300-1309",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 1300,
+    "end_char": 1309
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:38-bis:term-usage:117-126",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:38-bis",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 117,
+    "end_char": 126
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:39:term-usage:336-342",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 336,
+    "end_char": 342
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:39:term-usage:409-419",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 409,
+    "end_char": 419
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:39:term-usage:483-492",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 483,
+    "end_char": 492
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:39:term-usage:641-651",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 641,
+    "end_char": 651
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:39:term-usage:763-772",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 763,
+    "end_char": 772
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:40:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:40:term-usage:259-268",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 259,
+    "end_char": 268
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:41:term-usage:29-38",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 29,
+    "end_char": 38
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:41:term-usage:105-122",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 105,
+    "end_char": 122
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:41-bis:term-usage:373-382",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:41-bis",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 373,
+    "end_char": 382
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:41-bis:term-usage:685-694",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:41-bis",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 685,
+    "end_char": 694
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:41-bis:term-usage:1133-1143",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:41-bis",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1133,
+    "end_char": 1143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:42:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:43:term-usage:15-21",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 15,
+    "end_char": 21
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:43:term-usage:684-690",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 684,
+    "end_char": 690
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:43:term-usage:1029-1046",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 1029,
+    "end_char": 1046
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:43:term-usage:1936-1942",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 1936,
+    "end_char": 1942
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:43:term-usage:2141-2150",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 2141,
+    "end_char": 2150
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:44:term-usage:364-370",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 364,
+    "end_char": 370
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:45:term-usage:97-117",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:entidades-transferentes",
+    "span": "Entidad Transferente",
+    "start_char": 97,
+    "end_char": 117
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:45:term-usage:211-217",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 211,
+    "end_char": 217
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:47:term-usage:1891-1897",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 1891,
+    "end_char": 1897
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:47:term-usage:1932-1941",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 1932,
+    "end_char": 1941
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:48:term-usage:212-218",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 212,
+    "end_char": 218
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:48:term-usage:223-232",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 223,
+    "end_char": 232
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:48:term-usage:286-295",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 286,
+    "end_char": 295
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:49:term-usage:1387-1396",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 1387,
+    "end_char": 1396
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:49:term-usage:1525-1534",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 1525,
+    "end_char": 1534
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:51:term-usage:39-48",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:51",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 39,
+    "end_char": 48
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:51:term-usage:206-215",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:51",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 206,
+    "end_char": 215
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:51:term-usage:584-593",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:51",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 584,
+    "end_char": 593
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:51:term-usage:960-969",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:51",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 960,
+    "end_char": 969
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:51:term-usage:1166-1175",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:51",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 1166,
+    "end_char": 1175
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:52:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:53:term-usage:68-77",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:53",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 68,
+    "end_char": 77
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:53:term-usage:245-254",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:53",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 245,
+    "end_char": 254
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:53:term-usage:440-449",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:53",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 440,
+    "end_char": 449
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:53:term-usage:779-788",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:53",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 779,
+    "end_char": 788
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:53:term-usage:1178-1187",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:53",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 1178,
+    "end_char": 1187
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:56:term-usage:34-40",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:56",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 34,
+    "end_char": 40
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:58:term-usage:411-420",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 411,
+    "end_char": 420
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:58:term-usage:489-498",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 489,
+    "end_char": 498
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:61:term-usage:55-64",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:61",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 55,
+    "end_char": 64
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:61:term-usage:216-225",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:61",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 216,
+    "end_char": 225
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:64:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:64",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:67:term-usage:58-67",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:67",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 58,
+    "end_char": 67
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:68:term-usage:4-10",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 4,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:68:term-usage:80-89",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 80,
+    "end_char": 89
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:68:term-usage:156-166",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 156,
+    "end_char": 166
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:68:term-usage:487-493",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 487,
+    "end_char": 493
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:68:term-usage:540-549",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 540,
+    "end_char": 549
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:68:term-usage:608-614",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 608,
+    "end_char": 614
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:68:term-usage:1068-1077",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 1068,
+    "end_char": 1077
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:68:term-usage:1247-1253",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 1247,
+    "end_char": 1253
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:68:term-usage:1697-1703",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 1697,
+    "end_char": 1703
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:68:term-usage:1825-1842",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 1825,
+    "end_char": 1842
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:69:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:69",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:69:term-usage:55-61",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:69",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 55,
+    "end_char": 61
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:69:term-usage:93-103",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:69",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 93,
+    "end_char": 103
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:69:term-usage:140-146",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:69",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 140,
+    "end_char": 146
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:69:term-usage:630-639",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:69",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 630,
+    "end_char": 639
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:70:term-usage:74-80",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:70",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 74,
+    "end_char": 80
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:70:term-usage:107-116",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:70",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 107,
+    "end_char": 116
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:70:term-usage:203-209",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:70",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 203,
+    "end_char": 209
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:70:term-usage:373-379",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:70",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 373,
+    "end_char": 379
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:71:term-usage:23-29",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:71",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 23,
+    "end_char": 29
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:71:term-usage:190-199",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:71",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 190,
+    "end_char": 199
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:72:term-usage:105-114",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:72",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 105,
+    "end_char": 114
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:72:term-usage:183-189",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:72",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 183,
+    "end_char": 189
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:72:term-usage:487-496",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:72",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 487,
+    "end_char": 496
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:72:term-usage:669-690",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:72",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:autoridades-aduaneras",
+    "span": "Autoridades Aduaneras",
+    "start_char": 669,
+    "end_char": 690
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:72:term-usage:713-719",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:72",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 713,
+    "end_char": 719
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:72:term-usage:746-764",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:72",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:ministerio-publico",
+    "span": "Ministerio Público",
+    "start_char": 746,
+    "end_char": 764
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:72:term-usage:1055-1064",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:72",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 1055,
+    "end_char": 1064
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:72:term-usage:1167-1176",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:72",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 1167,
+    "end_char": 1176
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:73:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:73",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:73:term-usage:56-62",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:73",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 56,
+    "end_char": 62
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:73:term-usage:238-247",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:73",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 238,
+    "end_char": 247
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:73:term-usage:270-287",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:73",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 270,
+    "end_char": 287
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:73:term-usage:332-338",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:73",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 332,
+    "end_char": 338
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:74:term-usage:29-38",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 29,
+    "end_char": 38
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:74:term-usage:140-146",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 140,
+    "end_char": 146
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:74:term-usage:228-237",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 228,
+    "end_char": 237
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:74:term-usage:303-309",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 303,
+    "end_char": 309
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:75:term-usage:14-20",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 14,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:75:term-usage:133-142",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 133,
+    "end_char": 142
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:75:term-usage:432-441",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 432,
+    "end_char": 441
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:75:term-usage:496-505",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 496,
+    "end_char": 505
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:75:term-usage:561-567",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 561,
+    "end_char": 567
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:75:term-usage:638-644",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 638,
+    "end_char": 644
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:75:term-usage:707-716",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 707,
+    "end_char": 716
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:75:term-usage:779-800",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:autoridades-aduaneras",
+    "span": "Autoridades Aduaneras",
+    "start_char": 779,
+    "end_char": 800
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:76:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:76",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:76:term-usage:256-262",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:76",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 256,
+    "end_char": 262
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:76:term-usage:417-426",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:76",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 417,
+    "end_char": 426
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:76:term-usage:474-484",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:76",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 474,
+    "end_char": 484
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:77:term-usage:18-27",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 18,
+    "end_char": 27
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:77:term-usage:431-440",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 431,
+    "end_char": 440
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:78:term-usage:38-47",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:78",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 38,
+    "end_char": 47
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:78:term-usage:185-191",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:78",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 185,
+    "end_char": 191
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:78:term-usage:199-222",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:78",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:entidades-transferentes",
+    "span": "Entidades Transferentes",
+    "start_char": 199,
+    "end_char": 222
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:78:term-usage:368-374",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:78",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 368,
+    "end_char": 374
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:78:term-usage:522-532",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:78",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 522,
+    "end_char": 532
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:78:term-usage:612-618",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:78",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 612,
+    "end_char": 618
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:78:term-usage:909-918",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:78",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 909,
+    "end_char": 918
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:78:term-usage:1060-1070",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:78",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1060,
+    "end_char": 1070
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:78:term-usage:1302-1308",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:78",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 1302,
+    "end_char": 1308
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:78:term-usage:1384-1393",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:78",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 1384,
+    "end_char": 1393
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:78:term-usage:2924-2941",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:78",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 2924,
+    "end_char": 2941
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:78:term-usage:3330-3339",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:78",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 3330,
+    "end_char": 3339
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:78:term-usage:3992-4001",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:78",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 3992,
+    "end_char": 4001
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:78:term-usage:4097-4114",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:78",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 4097,
+    "end_char": 4114
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:78:term-usage:4163-4173",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:78",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 4163,
+    "end_char": 4173
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:79:term-usage:22-31",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 22,
+    "end_char": 31
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:79:term-usage:92-109",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 92,
+    "end_char": 109
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:80:term-usage:3-20",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 3,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:80:term-usage:106-116",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 106,
+    "end_char": 116
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:80:term-usage:279-289",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 279,
+    "end_char": 289
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:80:term-usage:632-649",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 632,
+    "end_char": 649
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:80:term-usage:738-755",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 738,
+    "end_char": 755
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:80:term-usage:772-782",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 772,
+    "end_char": 782
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:80:term-usage:815-825",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 815,
+    "end_char": 825
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:80:term-usage:1118-1128",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1118,
+    "end_char": 1128
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:80:term-usage:1162-1179",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 1162,
+    "end_char": 1179
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:80:term-usage:1283-1300",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 1283,
+    "end_char": 1300
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:80:term-usage:1568-1577",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 1568,
+    "end_char": 1577
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:81:term-usage:3-20",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 3,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:81:term-usage:198-207",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 198,
+    "end_char": 207
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:81:term-usage:416-425",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 416,
+    "end_char": 425
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:81:term-usage:756-773",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 756,
+    "end_char": 773
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:81:term-usage:1582-1591",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 1582,
+    "end_char": 1591
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:81:term-usage:1860-1869",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 1860,
+    "end_char": 1869
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:81:term-usage:1985-1994",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 1985,
+    "end_char": 1994
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:81:term-usage:2210-2219",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 2210,
+    "end_char": 2219
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:81:term-usage:2644-2654",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2644,
+    "end_char": 2654
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:81:term-usage:2781-2798",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 2781,
+    "end_char": 2798
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:81:term-usage:2878-2888",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 2878,
+    "end_char": 2888
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:81:term-usage:2979-2985",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 2979,
+    "end_char": 2985
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:81:term-usage:3026-3036",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 3026,
+    "end_char": 3036
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:81:term-usage:3105-3114",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 3105,
+    "end_char": 3114
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:81:term-usage:3406-3415",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 3406,
+    "end_char": 3415
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:81:term-usage:3587-3596",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 3587,
+    "end_char": 3596
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:81:term-usage:3840-3849",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 3840,
+    "end_char": 3849
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:82:term-usage:24-33",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:82",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 24,
+    "end_char": 33
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:82:term-usage:69-79",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:82",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 69,
+    "end_char": 79
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:82:term-usage:87-97",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:82",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 87,
+    "end_char": 97
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:82:term-usage:266-272",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:82",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 266,
+    "end_char": 272
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:83:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:83",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:83:term-usage:54-77",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:83",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:entidades-transferentes",
+    "span": "Entidades Transferentes",
+    "start_char": 54,
+    "end_char": 77
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:83:term-usage:95-101",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:83",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 95,
+    "end_char": 101
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:84:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:84:term-usage:117-127",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 117,
+    "end_char": 127
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:84:term-usage:377-394",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 377,
+    "end_char": 394
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:84:term-usage:399-408",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 399,
+    "end_char": 408
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:85:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:85",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:85:term-usage:582-592",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:85",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 582,
+    "end_char": 592
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:85:term-usage:1011-1021",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:85",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1011,
+    "end_char": 1021
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:85:term-usage:1037-1047",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:85",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1037,
+    "end_char": 1047
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:86:term-usage:24-33",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:86",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 24,
+    "end_char": 33
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:86:term-usage:70-80",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:86",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 70,
+    "end_char": 80
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:87:term-usage:24-33",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 24,
+    "end_char": 33
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:87:term-usage:121-130",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 121,
+    "end_char": 130
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:87:term-usage:461-470",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 461,
+    "end_char": 470
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:87:term-usage:670-687",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 670,
+    "end_char": 687
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:87:term-usage:769-778",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 769,
+    "end_char": 778
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:87:term-usage:831-841",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 831,
+    "end_char": 841
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:87:term-usage:885-902",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 885,
+    "end_char": 902
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:87:term-usage:996-1013",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 996,
+    "end_char": 1013
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:87:term-usage:1151-1168",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 1151,
+    "end_char": 1168
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:87:term-usage:1387-1404",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 1387,
+    "end_char": 1404
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:87:term-usage:1429-1446",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 1429,
+    "end_char": 1446
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:87:term-usage:1500-1509",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 1500,
+    "end_char": 1509
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:87:term-usage:1565-1582",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 1565,
+    "end_char": 1582
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:87:term-usage:1967-1976",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 1967,
+    "end_char": 1976
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:87:term-usage:2042-2059",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 2042,
+    "end_char": 2059
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:87:term-usage:2411-2417",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 2411,
+    "end_char": 2417
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:87:term-usage:2422-2431",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 2422,
+    "end_char": 2431
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:87:term-usage:2563-2572",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 2563,
+    "end_char": 2572
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:87:term-usage:2883-2900",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 2883,
+    "end_char": 2900
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:87:term-usage:3005-3022",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 3005,
+    "end_char": 3022
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:87:term-usage:3164-3181",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 3164,
+    "end_char": 3181
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:88:term-usage:35-44",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 35,
+    "end_char": 44
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:88:term-usage:257-266",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 257,
+    "end_char": 266
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:88:term-usage:302-311",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 302,
+    "end_char": 311
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:89:term-usage:140-146",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:89",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 140,
+    "end_char": 146
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:89:term-usage:165-174",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:89",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 165,
+    "end_char": 174
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:89:term-usage:267-273",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:89",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 267,
+    "end_char": 273
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:89:term-usage:866-872",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:89",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 866,
+    "end_char": 872
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:89:term-usage:894-903",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:89",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 894,
+    "end_char": 903
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:89:term-usage:1469-1478",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:89",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 1469,
+    "end_char": 1478
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:89:term-usage:1560-1580",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:89",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:entidades-transferentes",
+    "span": "Entidad Transferente",
+    "start_char": 1560,
+    "end_char": 1580
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:89:term-usage:1706-1715",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:89",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 1706,
+    "end_char": 1715
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:89:term-usage:1867-1873",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:89",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 1867,
+    "end_char": 1873
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:89:term-usage:1995-2004",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:89",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 1995,
+    "end_char": 2004
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:90:term-usage:96-102",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:90",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 96,
+    "end_char": 102
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:90:term-usage:236-253",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:90",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 236,
+    "end_char": 253
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:90:term-usage:376-385",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:90",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 376,
+    "end_char": 385
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:90:term-usage:808-825",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:90",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 808,
+    "end_char": 825
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:90:term-usage:896-902",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:90",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 896,
+    "end_char": 902
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:90:term-usage:1104-1113",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:90",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 1104,
+    "end_char": 1113
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:90:term-usage:1320-1326",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:90",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 1320,
+    "end_char": 1326
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:90:term-usage:1865-1874",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:90",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 1865,
+    "end_char": 1874
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:90:term-usage:1913-1922",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:90",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 1913,
+    "end_char": 1922
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:90:term-usage:2520-2529",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:90",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 2520,
+    "end_char": 2529
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:90:term-usage:2745-2751",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:90",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 2745,
+    "end_char": 2751
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:91:term-usage:43-49",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:91",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 43,
+    "end_char": 49
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:92:term-usage:81-94",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:92",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:transferencia",
+    "span": "Transferencia",
+    "start_char": 81,
+    "end_char": 94
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:92:term-usage:102-108",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:92",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 102,
+    "end_char": 108
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:92:term-usage:241-247",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:92",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 241,
+    "end_char": 247
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:92:term-usage:429-435",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:92",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 429,
+    "end_char": 435
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:92:term-usage:598-604",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:92",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 598,
+    "end_char": 604
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:93:term-usage:41-47",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:93",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 41,
+    "end_char": 47
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:93:term-usage:72-81",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:93",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:instituto",
+    "span": "Instituto",
+    "start_char": 72,
+    "end_char": 81
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:93:term-usage:291-297",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:93",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 291,
+    "end_char": 297
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:transitory:segundo:term-usage:51-57",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 51,
+    "end_char": 57
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:transitory:cuarto:term-usage:60-66",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 60,
+    "end_char": 66
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:transitory:quinto:term-usage:49-55",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 49,
+    "end_char": 55
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:transitory:sexto:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:transitory:sexto:term-usage:72-78",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 72,
+    "end_char": 78
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:transitory:septimo:term-usage:81-87",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 81,
+    "end_char": 87
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:transitory:noveno:term-usage:59-65",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 59,
+    "end_char": 65
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:transitory:noveno:term-usage:225-231",
+    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
+    "span": "Bienes",
+    "start_char": 225,
+    "end_char": 231
+  }
+]

@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lotfja:term:junta",
+    "term": "Junta",
+    "instrument_id": "urn:lex-mx:federal:statute:lotfja",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lotfja:article:2",
+    "fraction": "I",
+    "start_char": 45,
+    "end_char": 95,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lotfja:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:statute:lotfja",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lotfja:article:2",
+    "fraction": "II",
+    "start_char": 95,
+    "end_char": 170,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lotfja:term:presidente-del-tribunal",
+    "term": "Presidente del Tribunal",
+    "instrument_id": "urn:lex-mx:federal:statute:lotfja",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lotfja:article:2",
+    "fraction": "III",
+    "start_char": 170,
+    "end_char": 266,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lotfja:term:tribunal",
+    "term": "Tribunal",
+    "instrument_id": "urn:lex-mx:federal:statute:lotfja",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lotfja:article:2",
+    "fraction": "IV",
+    "start_char": 266,
+    "end_char": 401,
+    "basis": "express_definition"
+  }
+]

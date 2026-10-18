@@ -17,6 +17,6 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 167
 
-La persona física o moral que contrate a una persona trabajadora que esté laborando o haya laborado o a una persona profesionista, asesora o consultora que preste o haya prestado sus servicios para otra persona, con el fin de obtener secretos industriales de ésta, se considerará responsable en los términos de esta Ley. Párrafo reformado DOF 03-04-2026
+La persona física o moral que contrate a una persona trabajadora que esté laborando o haya laborado o a una persona profesionista, asesora o consultora que preste o haya prestado sus servicios para otra persona, con el fin de obtener secretos industriales de ésta, se considerará responsable en los términos de esta [Ley](articulo-4.md). Párrafo reformado DOF 03-04-2026
 
 También será responsable la persona física o moral que por cualquier medio ilícito obtenga información que contemple un secreto industrial.

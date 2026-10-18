@@ -15,4 +15,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Vigésimo Cuarto
 
-Para efectos de lo previsto en el último párrafo del artículo Décimo Noveno transitorio de la Ley, la solicitud que presente Petróleos Mexicanos debe sujetarse a lo previsto en los artículos [25](../../lsh/markdown/articulo-25.md) y [28](../../lsh/markdown/articulo-28.md) de la Ley y lo previsto en el presente reglamento.
+Para efectos de lo previsto en el último párrafo del artículo Décimo Noveno transitorio de la [Ley](articulo-3.md), la solicitud que presente [Petróleos Mexicanos](articulo-3.md) debe sujetarse a lo previsto en los artículos [25](../../lsh/markdown/articulo-25.md) y [28](../../lsh/markdown/articulo-28.md) de la Ley y lo previsto en el presente reglamento.

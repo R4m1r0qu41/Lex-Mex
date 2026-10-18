@@ -17,4 +17,4 @@ source_sha256: 4195c0740ad46978a8b0f2d43f0ac6d77e46b0216bd6f756950b1a050044ce98
 
 # Artículo 57
 
-La Interceptación aérea y la Consolidación deben incluir la participación de las autoridades competentes mediante el reporte o denuncia que haga el Centro, a través del Personal Técnico de Operaciones de Vigilancia Aérea, a efecto de que se ejecuten las acciones legales o administrativas que correspondan.
+La Interceptación aérea y la [Consolidación](articulo-4.md) deben incluir la participación de las autoridades competentes mediante el reporte o denuncia que haga el Centro, a través del [Personal Técnico de Operaciones de Vigilancia Aérea](articulo-4.md), a efecto de que se ejecuten las acciones legales o administrativas que correspondan.

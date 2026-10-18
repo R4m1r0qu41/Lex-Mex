@@ -17,4 +17,4 @@ source_sha256: 7b3cf7a0ff59f76503a97a535457c4a7dd3b1305e7a36f4fca82bd661eab1168
 
 # Artículo 62
 
-Fuera de los casos y condiciones previstos por esta Ley, ninguna persona estará obligada a proporcionar información a los servidores públicos adscritos al Centro.
+Fuera de los casos y condiciones previstos por esta Ley, ninguna persona estará obligada a proporcionar información a los servidores públicos adscritos al [Centro](articulo-6.md).

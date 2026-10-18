@@ -17,4 +17,4 @@ source_sha256: b19bcf104673af06117a6d4f3c947591f7a65999f19bad3dcfe2599a29bb3ab0
 
 # Artículo 71
 
-Además de las gestiones ante la Secretaría, la persona titular del Permiso de Exploración, Permiso para Usos Diversos, Concesión o Aprovechamiento Geotérmico Exento, que cuente con una concesión de agua para el desarrollo de las actividades de su Permiso, Concesión o aviso también deben informar a la CONAGUA sobre la existencia de un evento de fuerza mayor o caso fortuito.
+Además de las gestiones ante la [Secretaría](articulo-3.md), la persona titular del Permiso de Exploración, Permiso para Usos Diversos, Concesión o Aprovechamiento Geotérmico Exento, que cuente con una concesión de agua para el desarrollo de las actividades de su Permiso, Concesión o aviso también deben informar a la [CONAGUA](articulo-3.md) sobre la existencia de un evento de fuerza mayor o caso fortuito.

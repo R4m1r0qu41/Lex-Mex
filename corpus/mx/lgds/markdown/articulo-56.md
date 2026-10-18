@@ -23,7 +23,7 @@ I. Emitir opiniones y formular propuestas sobre la aplicación y orientación de
 
 II. Impulsar la participación ciudadana y de las organizaciones en el seguimiento, operación y evaluación de la Política Nacional de Desarrollo Social;
 
-III. Apoyar a la Secretaría en la promoción ante los gobiernos estatales y municipales y para el cumplimiento de la Política Nacional de Desarrollo Social;
+III. Apoyar a la [Secretaría](articulo-5.md) en la promoción ante los gobiernos estatales y municipales y para el cumplimiento de la Política Nacional de Desarrollo Social;
 
 IV. Proponer a la Secretaría los temas que por su importancia ameriten ser sometidos a consulta pública;
 
@@ -31,7 +31,7 @@ V. Proponer y propiciar la colaboración de organismos públicos y privados, nac
 
 VI. Proponer la realización de estudios e investigaciones en la materia;
 
-VII. Solicitar a las dependencias responsables de la Política de Desarrollo Social información sobre los programas y acciones que éstas realizan;
+VII. Solicitar a las dependencias responsables de la [Política de Desarrollo Social](articulo-5.md) información sobre los programas y acciones que éstas realizan;
 
 VIII. Recomendar la realización de auditorías a programas prioritarios cuando existan causas que lo ameriten; IX. Promover la celebración de convenios con dependencias del Ejecutivo Federal, entidades federativas, municipios y organizaciones, para la instrumentación de los programas relacionados con el desarrollo social;
 

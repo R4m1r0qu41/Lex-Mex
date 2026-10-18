@@ -17,4 +17,4 @@ source_sha256: 7df3d678efda2306b68d3c0f5ca0e3e92b9066d5f773128f4ae19cb26bf44fff
 
 # Artículo 94
 
-Las personas titulares de los permisos y Autorizaciones otorgados por la SENER están obligados a comprobar la propiedad o posesión legítima de los terrenos, insumos y equipos que se utilicen para realizar las actividades al amparo de sus permisos.
+Las personas titulares de los permisos y [Autorizaciones](articulo-3.md) otorgados por la [SENER](articulo-3.md) están obligados a comprobar la propiedad o posesión legítima de los terrenos, insumos y equipos que se utilicen para realizar las actividades al amparo de sus permisos.

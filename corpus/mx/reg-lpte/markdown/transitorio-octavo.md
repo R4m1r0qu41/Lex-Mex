@@ -15,4 +15,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # OCTAVO
 
-Por única ocasión y durante el primer ciclo de planeación referido en los artículos 56 y 58 del Reglamento, el Consejo puede reunirse como mínimo una vez en el mismo año al de la entrada en vigor del presente Reglamento.
+Por única ocasión y durante el primer ciclo de planeación referido en los artículos 56 y 58 del [Reglamento](articulo-5.md), el [Consejo](articulo-5.md) puede reunirse como mínimo una vez en el mismo año al de la entrada en vigor del presente Reglamento.

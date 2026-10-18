@@ -17,4 +17,4 @@ source_sha256: 9478163ef6ab468edc2be8def3bf84efedd03da5b6c166fba0430bfcb6d8467c
 
 # Artículo 9
 
-La Persona Consejera de los Trabajadores es libremente designada y removida, en cualquier momento, por el sindicato titular del respectivo contrato colectivo de trabajo, en los términos que el propio sindicato determine. La designación y remoción a que se refiere el párrafo anterior debe ser notificada a la persona titular de la presidencia del Consejo de Administración dentro de los dos días hábiles siguientes a que se realice dicha determinación.
+La [Persona Consejera de los Trabajadores](articulo-2.md) es libremente designada y removida, en cualquier momento, por el sindicato titular del respectivo contrato colectivo de trabajo, en los términos que el propio sindicato determine. La designación y remoción a que se refiere el párrafo anterior debe ser notificada a la persona titular de la presidencia del [Consejo de Administración](articulo-2.md) dentro de los dos días hábiles siguientes a que se realice dicha determinación.

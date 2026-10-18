@@ -17,4 +17,4 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 22
 
-Principios generales del procedimiento El Sistema estará basado en un proceso acusatorio y oral en el que se observarán los principios de publicidad, contradicción, concentración, continuidad e inmediación con las adecuaciones y excepciones propias del sistema especializado.
+Principios generales del procedimiento El [Sistema](articulo-3.md) estará basado en un proceso acusatorio y oral en el que se observarán los principios de publicidad, contradicción, concentración, continuidad e inmediación con las adecuaciones y excepciones propias del sistema especializado.

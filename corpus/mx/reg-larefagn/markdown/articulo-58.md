@@ -17,6 +17,6 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 58
 
-Las personas participantes que hayan obtenido empíricamente los conocimientos de su especialidad, deberán presentar el dictamen técnico aprobatorio de sus capacidades y habilidades, expedido por la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército, Fuerza Aérea y Guardia Nacional.
+Las personas participantes que hayan obtenido empíricamente los conocimientos de su especialidad, deberán presentar el dictamen técnico aprobatorio de sus capacidades y habilidades, expedido por la [Dirección](articulo-5.md) General de Educación Militar y Rectoría de la Universidad del Ejército, Fuerza Aérea y Guardia Nacional.
 
 Artículo reformado DOF 20-03-2026

@@ -17,4 +17,4 @@ source_sha256: 45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80
 
 # Artículo 64
 
-La Comisión, junto con todas las organizaciones productivas y demás integrantes de la cadena productiva, impulsará buenas prácticas en el desarrollo de los mercados especializados de café orgánico, de comercio justo y de café bajo sombra o café amigable con la biodiversidad, entre otros.
+La [Comisión](articulo-3.md), junto con todas las organizaciones productivas y demás integrantes de la cadena productiva, impulsará buenas prácticas en el desarrollo de los mercados especializados de café orgánico, de comercio justo y de café bajo sombra o café amigable con la biodiversidad, entre otros.

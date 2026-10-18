@@ -15,7 +15,7 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 # Artículo 24
 
-La Secretaría debe remitir el programa maestro de desarrollo para opinión de la Secretaría de la Defensa Nacional, la que contará con veinticinco días hábiles a partir de su notificación para emitir la opinión respectiva, en caso de que esa Secretaría no emita su opinión dentro del plazo señalado se entenderá que no tiene observaciones.
+La [Secretaría](articulo-2.md) debe remitir el programa maestro de desarrollo para opinión de la Secretaría de la Defensa Nacional, la que contará con veinticinco días hábiles a partir de su notificación para emitir la opinión respectiva, en caso de que esa Secretaría no emita su opinión dentro del plazo señalado se entenderá que no tiene observaciones.
 
 La Secretaría resolverá lo conducente dentro de los cuarenta y cinco días hábiles siguientes a que sea presentado el programa maestro de desarrollo. La Secretaría podrá negar la autorización del programa cuando éste no reúna los requisitos establecidos, no cumpla con los estándares de eficiencia y calidad, o no se apegue a las disposiciones aplicables.
 

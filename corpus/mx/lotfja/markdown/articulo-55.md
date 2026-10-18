@@ -29,7 +29,7 @@ IV. Rendir los informes previos y justificados cuando los actos reclamados en lo
 
 V. Tramitar los incidentes, recursos, aclaraciones de sentencias, así como la queja, cuando se trate de juicios que se ventilen ante la Sección;
 
-VI. Enviar al Presidente del Tribunal las excusas, excitativas de justicia y recusaciones de los Magistrados que integren la Sección, para efectos de turno;
+VI. Enviar al [Presidente del Tribunal](articulo-2.md) las excusas, excitativas de justicia y recusaciones de los Magistrados que integren la Sección, para efectos de turno;
 
 VII. Dictar los acuerdos y providencias de trámite necesarios cuando a juicio de la Sección se beneficie la rapidez del proceso;
 

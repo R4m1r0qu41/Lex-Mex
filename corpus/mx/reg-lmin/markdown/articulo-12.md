@@ -17,7 +17,7 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 12
 
-El servicio de información geológico-minera, geofísica, geoquímica y minera del país y el sistema público de información del mismo, será proporcionado por el Servicio Geológico:
+El servicio de información geológico-minera, geofísica, geoquímica y minera del país y el sistema público de información del mismo, será proporcionado por el [Servicio Geológico](articulo-1o.md):
 
 I. Respecto a requerimientos informativos precisos y particulares sobre una zona o sustancia; II. Por orden de presentación de la solicitud correspondiente, y
 

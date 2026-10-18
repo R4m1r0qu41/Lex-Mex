@@ -17,4 +17,4 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 86
 
-Para los efectos del [artículo anterior](articulo-85.md), la Comisión Nacional contará con un cuerpo de Defensores que prestarán los servicios de orientación jurídica y defensoría legal, únicamente a solicitud del Usuario.
+Para los efectos del [artículo anterior](articulo-85.md), la [Comisión Nacional](articulo-2o.md) contará con un cuerpo de [Defensores](articulo-2o.md) que prestarán los servicios de orientación jurídica y defensoría legal, únicamente a solicitud del [Usuario](articulo-2o.md).

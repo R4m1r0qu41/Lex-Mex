@@ -17,6 +17,6 @@ source_sha256: 32822f50bb2de81185408f9450d61a49d678429c52c5379822a507c7027a5275
 
 # Artículo 37 Bis
 
-El Instituto llevará a cabo la actualización de los lineamientos y criterios técnicos para la definición, identificación y medición de la pobreza, procurando la homogeneidad y comparabilidad de la información. La actualización de los lineamientos y criterios técnicos deberá mejorar la medición y garantizar que los indicadores de mediciones anteriores puedan seguir siendo estimados en el tiempo y espacio.
+El [Instituto](articulo-5.md) llevará a cabo la actualización de los lineamientos y criterios técnicos para la definición, identificación y medición de la pobreza, procurando la homogeneidad y comparabilidad de la información. La actualización de los lineamientos y criterios técnicos deberá mejorar la medición y garantizar que los indicadores de mediciones anteriores puedan seguir siendo estimados en el tiempo y espacio.
 
 Artículo adicionado DOF 16-07-2025

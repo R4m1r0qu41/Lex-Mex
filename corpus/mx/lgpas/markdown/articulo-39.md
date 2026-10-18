@@ -19,7 +19,7 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 Para los fines y objetivos de la presente Ley, los planes de manejo pesquero deberán incluir:
 
-I. Los objetivos de manejo definidos por el Consejo Nacional de Pesca y los Consejos Estatales de Pesca y Acuacultura;
+I. Los objetivos de manejo definidos por el Consejo Nacional de [Pesca](articulo-4o.md) y los Consejos Estatales de Pesca y [Acuacultura](articulo-4o.md);
 
 II. Descripción de las características biológicas de las especies sujetas a explotación; III. La forma en que se organizará la administración del área y los mecanismos de participación de los individuos y comunidades asentadas en la misma;
 

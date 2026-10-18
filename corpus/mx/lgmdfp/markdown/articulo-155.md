@@ -17,6 +17,6 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 155
 
-Las Fiscalías Especializadas pueden otorgar, con apoyo de la Comisión Ejecutiva y de las Comisiones de Víctimas, como medida de protección para enfrentar el riesgo, la entrega de equipo celular, radio o telefonía satelital, instalación de sistemas de seguridad en inmuebles, vigilancia a través de patrullajes, entrega de chalecos antibalas, detector de metales, autos blindados, y demás medios de protección que se requieran para salvaguardar la vida, integridad y libertad de las personas protegidas a que se refiere el artículo [153](articulo-153.md) de esta Ley, conforme a la legislación aplicable.
+Las [Fiscalías Especializadas](articulo-4.md) pueden otorgar, con apoyo de la [Comisión Ejecutiva](articulo-4.md) y de las [Comisiones de Víctimas](articulo-4.md), como medida de protección para enfrentar el riesgo, la entrega de equipo celular, radio o telefonía satelital, instalación de sistemas de seguridad en inmuebles, vigilancia a través de patrullajes, entrega de chalecos antibalas, detector de metales, autos blindados, y demás medios de protección que se requieran para salvaguardar la vida, integridad y libertad de las personas protegidas a que se refiere el artículo [153](articulo-153.md) de esta Ley, conforme a la legislación aplicable.
 
 Cuando se trate de personas defensoras de los derechos humanos o periodistas se estará también a lo dispuesto en la Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas.

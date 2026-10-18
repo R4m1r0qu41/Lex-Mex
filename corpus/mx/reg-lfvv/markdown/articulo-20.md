@@ -17,6 +17,6 @@ source_sha256: 23dcee090bbe0c4fb06c75d084cb65ce0b2e8f72a8d082e7059504412bde1614
 
 # Artículo 20
 
-El Presidente dirigirá los trabajos, asignará funciones a sus miembros y presidirá las sesiones del Comité.
+El Presidente dirigirá los trabajos, asignará funciones a sus miembros y presidirá las sesiones del [Comité](articulo-2o.md).
 
 El Secretario Técnico ejecutará los acuerdos del Comité, coordinará los trabajos de los grupos de apoyo técnico y recibirá y tramitará las solicitudes de título de obtentor.

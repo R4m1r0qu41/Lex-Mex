@@ -15,7 +15,7 @@ source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 
 # Artículo 8 Bis
 
-Cuando el empleo de una aeronave amenace la seguridad de la aviación, la Secretaría de la Defensa Nacional coadyuvará con la Secretaría para garantizar la protección del espacio aéreo en lo siguiente: I. Solicitar a las personas propietarias o la tripulación de una aeronave nacional o extranjera de servicio privado no comercial, los documentos que amparen que la aeronave cuenta con los certificados de aeronavegabilidad y licencia establecidos en el estado de su matrícula;
+Cuando el empleo de una aeronave amenace la seguridad de la aviación, la [Secretaría](articulo-2.md) de la Defensa Nacional coadyuvará con la Secretaría para garantizar la protección del espacio aéreo en lo siguiente: I. Solicitar a las personas propietarias o la tripulación de una aeronave nacional o extranjera de servicio privado no comercial, los documentos que amparen que la aeronave cuenta con los certificados de aeronavegabilidad y licencia establecidos en el estado de su matrícula;
 
 II. Verificar que los talleres aeronáuticos y centros de capacitación y adiestramiento, y la producción en el caso de fábricas de aeronaves y sus componentes, no se empleen para propósitos incompatibles con la aviación civil, y
 

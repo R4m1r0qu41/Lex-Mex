@@ -17,4 +17,4 @@ source_sha256: aca2d65d2eef1b7c26ab431772ce7364305d103f5e4bacc87da02064df005ae3
 
 # Artículo 21
 
-Se prohíbe la utilización del Padrón de Beneficiarios con fines político-electorales, comerciales o de cualquier índole distinta a su objeto y fines señalados en la Ley y este Reglamento. Su uso indebido será sancionado en términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y demás disposiciones legales aplicables.
+Se prohíbe la utilización del Padrón de Beneficiarios con fines político-electorales, comerciales o de cualquier índole distinta a su objeto y fines señalados en la [Ley](articulo-3.md) y este Reglamento. Su uso indebido será sancionado en términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y demás disposiciones legales aplicables.

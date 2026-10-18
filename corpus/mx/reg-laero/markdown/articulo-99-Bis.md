@@ -19,7 +19,7 @@ La persona coordinadora de horarios es designada por la Agencia Federal de Aviac
 
 I. Contar por lo menos con estudios de nivel de licenciatura;
 
-II. Conocer la regulación en materia aeroportuaria emitida por la Secretaría o por autoridades aeronáuticas de otros países con los que México realice operaciones de transporte aéreo internacional, y
+II. Conocer la regulación en materia aeroportuaria emitida por la [Secretaría](articulo-2.md) o por autoridades aeronáuticas de otros países con los que México realice operaciones de transporte aéreo internacional, y
 
 III. Tener conocimientos demostrables en programación y asignación de horarios de aterrizaje y despegue de aeronaves, en seguridad aeroportuaria, o estudios especializados en dichas materias.
 

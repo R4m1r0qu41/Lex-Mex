@@ -17,6 +17,6 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 130
 
-Corresponde al sector industrial informar al Centro Nacional de Metrología, a los Institutos Designados de Metrología y a la Secretaría de los avances y mejoras susceptibles de ser incorporados al sistema de metrología que no contravengan el marco jurídico aplicable.
+Corresponde al sector industrial informar al Centro Nacional de Metrología, a los Institutos Designados de Metrología y a la [Secretaría](articulo-4.md) de los avances y mejoras susceptibles de ser incorporados al sistema de metrología que no contravengan el marco jurídico aplicable.
 
 La Secretaría, el Centro Nacional de Metrología y los Institutos Designados de Metrología analizarán y, en caso de considerarlo pertinente, incorporarán dichas mejoras a las actividades que realicen para fortalecer el sistema de metrología.

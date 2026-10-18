@@ -17,4 +17,4 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 40
 
-La Secretaría del Trabajo y Previsión Social, promoverá el desarrollo de la capacitación y adiestramiento en y para el trabajo en materia de protección al ambiente, y de preservación y restauración del equilibrio ecológico, con arreglo a lo que establece esta Ley y de conformidad con los sistemas, métodos y procedimientos que prevenga la legislación especial. Asimismo, propiciará la incorporación de contenidos ecológicos en los programas de las comisiones mixtas de seguridad e higiene.
+La [Secretaría](articulo-3o.md) del Trabajo y Previsión Social, promoverá el desarrollo de la capacitación y adiestramiento en y para el trabajo en materia de protección al ambiente, y de preservación y restauración del equilibrio ecológico, con arreglo a lo que establece esta Ley y de conformidad con los sistemas, métodos y procedimientos que prevenga la legislación especial. Asimismo, propiciará la incorporación de contenidos ecológicos en los programas de las comisiones mixtas de seguridad e higiene.

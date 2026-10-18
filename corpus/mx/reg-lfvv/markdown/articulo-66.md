@@ -17,4 +17,4 @@ source_sha256: 23dcee090bbe0c4fb06c75d084cb65ce0b2e8f72a8d082e7059504412bde1614
 
 # Artículo 66
 
-El SNICS o la delegación estatal, habida cuenta de la gravedad de la infracción y de la naturaleza de la medida solicitada, determinará la práctica de la medida provisional apropiada, así como el importe de la fianza y de la contrafianza. Sólo se aceptará la exhibición de pólizas otorgadas por instituciones legalmente acreditadas.
+El [SNICS](articulo-2o.md) o la delegación estatal, habida cuenta de la gravedad de la infracción y de la naturaleza de la medida solicitada, determinará la práctica de la medida provisional apropiada, así como el importe de la fianza y de la contrafianza. Sólo se aceptará la exhibición de pólizas otorgadas por instituciones legalmente acreditadas.

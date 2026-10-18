@@ -17,4 +17,4 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 6o
 
-Los integrantes de la Junta Directiva durarán en sus funciones el tiempo que subsista su designación; sus nombramientos podrán ser revocados libremente por quienes los hayan expedido.
+Los integrantes de la [Junta](articulo-4o.md) Directiva durarán en sus funciones el tiempo que subsista su designación; sus nombramientos podrán ser revocados libremente por quienes los hayan expedido.

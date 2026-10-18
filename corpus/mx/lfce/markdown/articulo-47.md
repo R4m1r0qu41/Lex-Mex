@@ -17,6 +17,6 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 47
 
-La Comisión se sujetará a lo dispuesto por el artículo [5](../../lfprh/markdown/articulo-5.md), fracción II, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y demás disposiciones legales y administrativas aplicables.
+La [Comisión](articulo-3.md) se sujetará a lo dispuesto por el artículo [5](../../lfprh/markdown/articulo-5.md), fracción II, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y demás disposiciones legales y administrativas aplicables.
 
 Artículo reformado DOF 16-07-2025

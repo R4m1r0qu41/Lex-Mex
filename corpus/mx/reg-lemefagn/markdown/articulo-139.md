@@ -17,6 +17,6 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 139
 
-Baja es la separación de la persona discente de las Instituciones Educativas de conformidad con lo establecido en el Reglamento de cada Institución Educativa.
+Baja es la separación de la persona discente de las [Instituciones Educativas](articulo-3.md) de conformidad con lo establecido en el Reglamento de cada Institución Educativa.
 
 Artículo reformado DOF 20-03-2026

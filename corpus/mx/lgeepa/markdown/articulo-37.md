@@ -19,7 +19,7 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 En la formulación de normas oficiales mexicanas en materia ambiental deberá considerarse que el cumplimiento de sus previsiones deberá realizarse de conformidad con las características de cada proceso productivo o actividad sujeta a regulación, sin que ello implique el uso obligatorio de tecnologías específicas.
 
-Cuando las normas oficiales mexicanas en materia ambiental establezcan el uso de equipos, procesos o tecnologías específicas, los destinatarios de las mismas podrán proponer a la Secretaría para su aprobación, los equipos, procesos o tecnologías alternativos mediante los cuales se ajustarán a las previsiones correspondientes.
+Cuando las normas oficiales mexicanas en materia ambiental establezcan el uso de equipos, procesos o tecnologías específicas, los destinatarios de las mismas podrán proponer a la [Secretaría](articulo-3o.md) para su aprobación, los equipos, procesos o tecnologías alternativos mediante los cuales se ajustarán a las previsiones correspondientes.
 
 Para tal efecto, los interesados acompañarán a su propuesta la justificación en que ésta se sustente para cumplir con los objetivos y finalidades establecidos en la norma oficial mexicana de que se trate.
 

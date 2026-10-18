@@ -17,6 +17,6 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 60
 
-La Comisión Nacional está facultada para actuar como conciliador entre las Instituciones Financieras y los Usuarios, con el objeto de proteger los intereses de estos últimos.
+La [Comisión Nacional](articulo-2o.md) está facultada para actuar como conciliador entre las [Instituciones Financieras](articulo-2o.md) y los [Usuarios](articulo-2o.md), con el objeto de proteger los intereses de estos últimos.
 
 Tratándose de diferencias que surjan respecto al cumplimiento de fideicomisos, la Comisión Nacional sólo conocerá de las reclamaciones que presenten los fideicomitentes o fideicomisarios en contra de los fiduciarios.

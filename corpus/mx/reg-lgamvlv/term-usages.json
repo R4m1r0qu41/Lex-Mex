@@ -1,1 +1,929 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:3:term-usage:122-148",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:politica-nacional-integral",
+    "span": "Política Nacional Integral",
+    "start_char": 122,
+    "end_char": 148
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:4:term-usage:52-78",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:politica-nacional-integral",
+    "span": "Política Nacional Integral",
+    "start_char": 52,
+    "end_char": 78
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:4:term-usage:158-165",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:modelos",
+    "span": "Modelos",
+    "start_char": 158,
+    "end_char": 165
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:4:term-usage:1816-1823",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:modelos",
+    "span": "Modelos",
+    "start_char": 1816,
+    "end_char": 1823
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:4:term-usage:1854-1874",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:diagnostico-nacional",
+    "span": "Diagnóstico Nacional",
+    "start_char": 1854,
+    "end_char": 1874
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:5:term-usage:217-224",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:modelos",
+    "span": "Modelos",
+    "start_char": 217,
+    "end_char": 224
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:5:term-usage:473-480",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:modelos",
+    "span": "Modelos",
+    "start_char": 473,
+    "end_char": 480
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:6:term-usage:49-69",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 49,
+    "end_char": 69
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:6:term-usage:160-167",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:modelos",
+    "span": "Modelos",
+    "start_char": 160,
+    "end_char": 167
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:7:term-usage:3-23",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 3,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:7:term-usage:110-117",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:modelos",
+    "span": "Modelos",
+    "start_char": 110,
+    "end_char": 117
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:8:term-usage:21-28",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:modelos",
+    "span": "Modelos",
+    "start_char": 21,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:8:term-usage:80-100",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 80,
+    "end_char": 100
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:8:term-usage:324-331",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:modelos",
+    "span": "Modelos",
+    "start_char": 324,
+    "end_char": 331
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:8:term-usage:404-410",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:modelos",
+    "span": "Modelo",
+    "start_char": 404,
+    "end_char": 410
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:8:term-usage:454-460",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:modelos",
+    "span": "Modelo",
+    "start_char": 454,
+    "end_char": 460
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:10:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:modelos",
+    "span": "Modelo",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:10:term-usage:235-241",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:modelos",
+    "span": "Modelo",
+    "start_char": 235,
+    "end_char": 241
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:11:term-usage:22-28",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:modelos",
+    "span": "Modelo",
+    "start_char": 22,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:11:term-usage:106-112",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:modelos",
+    "span": "Modelo",
+    "start_char": 106,
+    "end_char": 112
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:14:term-usage:1733-1750",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:comision-nacional",
+    "span": "Comisión Nacional",
+    "start_char": 1733,
+    "end_char": 1750
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:14:term-usage:1756-1776",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 1756,
+    "end_char": 1776
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:15:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:modelos",
+    "span": "Modelo",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:15:term-usage:254-280",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:politica-nacional-integral",
+    "span": "Política Nacional Integral",
+    "start_char": 254,
+    "end_char": 280
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:15:term-usage:390-396",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:modelos",
+    "span": "Modelo",
+    "start_char": 390,
+    "end_char": 396
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:15:term-usage:722-728",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:modelos",
+    "span": "Modelo",
+    "start_char": 722,
+    "end_char": 728
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:15-bis:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:15-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:modelos",
+    "span": "Modelo",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:18:term-usage:87-94",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:modelos",
+    "span": "Modelos",
+    "start_char": 87,
+    "end_char": 94
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:23:term-usage:4-11",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:modelos",
+    "span": "Modelos",
+    "start_char": 4,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:24:term-usage:84-91",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:modelos",
+    "span": "Modelos",
+    "start_char": 84,
+    "end_char": 91
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:24:term-usage:183-190",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:modelos",
+    "span": "Modelos",
+    "start_char": 183,
+    "end_char": 190
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:24:term-usage:931-937",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:modelos",
+    "span": "Modelo",
+    "start_char": 931,
+    "end_char": 937
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:24:term-usage:2125-2132",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:modelos",
+    "span": "Modelos",
+    "start_char": 2125,
+    "end_char": 2132
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:24-bis:term-usage:25-32",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:24-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:modelos",
+    "span": "Modelos",
+    "start_char": 25,
+    "end_char": 32
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:25:term-usage:248-265",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:comision-nacional",
+    "span": "Comisión Nacional",
+    "start_char": 248,
+    "end_char": 265
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:26:term-usage:48-54",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:modelos",
+    "span": "Modelo",
+    "start_char": 48,
+    "end_char": 54
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:26:term-usage:1369-1375",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:modelos",
+    "span": "Modelo",
+    "start_char": 1369,
+    "end_char": 1375
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:27:term-usage:3-23",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 3,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:27:term-usage:45-87",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:mecanismos-para-el-adelanto-de-las-mujeres",
+    "span": "Mecanismos para el adelanto de las mujeres",
+    "start_char": 45,
+    "end_char": 87
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:27:term-usage:193-199",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:modelos",
+    "span": "Modelo",
+    "start_char": 193,
+    "end_char": 199
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:27:term-usage:1022-1028",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:modelos",
+    "span": "Modelo",
+    "start_char": 1022,
+    "end_char": 1028
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:28:term-usage:101-118",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:28",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:comision-nacional",
+    "span": "Comisión Nacional",
+    "start_char": 101,
+    "end_char": 118
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:28:term-usage:123-143",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:28",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 123,
+    "end_char": 143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:28:term-usage:150-192",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:28",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:mecanismos-para-el-adelanto-de-las-mujeres",
+    "span": "Mecanismos para el adelanto de las mujeres",
+    "start_char": 150,
+    "end_char": 192
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:29:term-usage:586-600",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:banco-nacional",
+    "span": "Banco Nacional",
+    "start_char": 586,
+    "end_char": 600
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:29:term-usage:1060-1080",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 1060,
+    "end_char": 1080
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:32:term-usage:346-366",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:32",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 346,
+    "end_char": 366
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:32:term-usage:495-512",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:32",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:comision-nacional",
+    "span": "Comisión Nacional",
+    "start_char": 495,
+    "end_char": 512
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:35:term-usage:117-134",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:comision-nacional",
+    "span": "Comisión Nacional",
+    "start_char": 117,
+    "end_char": 134
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:35:term-usage:154-174",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 154,
+    "end_char": 174
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:35:term-usage:519-536",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:comision-nacional",
+    "span": "Comisión Nacional",
+    "start_char": 519,
+    "end_char": 536
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:35:term-usage:561-581",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 561,
+    "end_char": 581
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:36:term-usage:26-46",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 26,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:36:term-usage:834-851",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:comision-nacional",
+    "span": "Comisión Nacional",
+    "start_char": 834,
+    "end_char": 851
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:36:term-usage:891-908",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:comision-nacional",
+    "span": "Comisión Nacional",
+    "start_char": 891,
+    "end_char": 908
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:36-bis:term-usage:306-323",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:36-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:comision-nacional",
+    "span": "Comisión Nacional",
+    "start_char": 306,
+    "end_char": 323
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:36-bis:term-usage:732-749",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:36-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:comision-nacional",
+    "span": "Comisión Nacional",
+    "start_char": 732,
+    "end_char": 749
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:36-bis:term-usage:1216-1233",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:36-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:comision-nacional",
+    "span": "Comisión Nacional",
+    "start_char": 1216,
+    "end_char": 1233
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:36-bis:term-usage:1253-1273",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:36-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 1253,
+    "end_char": 1273
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:36-ter:term-usage:477-494",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:36-ter",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:comision-nacional",
+    "span": "Comisión Nacional",
+    "start_char": 477,
+    "end_char": 494
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:36-ter:term-usage:511-531",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:36-ter",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 511,
+    "end_char": 531
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:38:term-usage:142-159",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:comision-nacional",
+    "span": "Comisión Nacional",
+    "start_char": 142,
+    "end_char": 159
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:38:term-usage:225-242",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:comision-nacional",
+    "span": "Comisión Nacional",
+    "start_char": 225,
+    "end_char": 242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:38:term-usage:511-528",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:comision-nacional",
+    "span": "Comisión Nacional",
+    "start_char": 511,
+    "end_char": 528
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:38:term-usage:845-862",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:comision-nacional",
+    "span": "Comisión Nacional",
+    "start_char": 845,
+    "end_char": 862
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:38:term-usage:946-963",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:comision-nacional",
+    "span": "Comisión Nacional",
+    "start_char": 946,
+    "end_char": 963
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:38:term-usage:1145-1162",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:comision-nacional",
+    "span": "Comisión Nacional",
+    "start_char": 1145,
+    "end_char": 1162
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:38:term-usage:1478-1495",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:comision-nacional",
+    "span": "Comisión Nacional",
+    "start_char": 1478,
+    "end_char": 1495
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:38:term-usage:2166-2183",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:comision-nacional",
+    "span": "Comisión Nacional",
+    "start_char": 2166,
+    "end_char": 2183
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:38:term-usage:2254-2271",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:comision-nacional",
+    "span": "Comisión Nacional",
+    "start_char": 2254,
+    "end_char": 2271
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:38:term-usage:2296-2316",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 2296,
+    "end_char": 2316
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:38:term-usage:2608-2625",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:comision-nacional",
+    "span": "Comisión Nacional",
+    "start_char": 2608,
+    "end_char": 2625
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:38-bis:term-usage:1115-1135",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:38-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 1115,
+    "end_char": 1135
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:40:term-usage:763-779",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:40",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:estado-de-riesgo",
+    "span": "Estado de Riesgo",
+    "start_char": 763,
+    "end_char": 779
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:42-bis:term-usage:4-46",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:42-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:mecanismos-para-el-adelanto-de-las-mujeres",
+    "span": "Mecanismos para el adelanto de las mujeres",
+    "start_char": 4,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:44:term-usage:318-338",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:44",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 318,
+    "end_char": 338
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:45:term-usage:28-48",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:45",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 28,
+    "end_char": 48
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:47:term-usage:97-111",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:banco-nacional",
+    "span": "Banco Nacional",
+    "start_char": 97,
+    "end_char": 111
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:48:term-usage:183-203",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:48",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:diagnostico-nacional",
+    "span": "Diagnóstico Nacional",
+    "start_char": 183,
+    "end_char": 203
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:49:term-usage:28-70",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:mecanismos-para-el-adelanto-de-las-mujeres",
+    "span": "Mecanismos para el adelanto de las mujeres",
+    "start_char": 28,
+    "end_char": 70
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:51:term-usage:29-71",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:mecanismos-para-el-adelanto-de-las-mujeres",
+    "span": "Mecanismos para el adelanto de las mujeres",
+    "start_char": 29,
+    "end_char": 71
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:52:term-usage:20-46",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:52",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:politica-nacional-integral",
+    "span": "Política Nacional Integral",
+    "start_char": 20,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:54:term-usage:240-282",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:54",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:mecanismos-para-el-adelanto-de-las-mujeres",
+    "span": "Mecanismos para el adelanto de las mujeres",
+    "start_char": 240,
+    "end_char": 282
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:54:term-usage:698-724",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:54",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:politica-nacional-integral",
+    "span": "Política Nacional Integral",
+    "start_char": 698,
+    "end_char": 724
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:54:term-usage:1694-1708",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:54",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:banco-nacional",
+    "span": "Banco Nacional",
+    "start_char": 1694,
+    "end_char": 1708
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:54:term-usage:1810-1824",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:54",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:banco-nacional",
+    "span": "Banco Nacional",
+    "start_char": 1810,
+    "end_char": 1824
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:54:term-usage:1865-1879",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:54",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:banco-nacional",
+    "span": "Banco Nacional",
+    "start_char": 1865,
+    "end_char": 1879
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:59-bis:term-usage:355-375",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:59-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 355,
+    "end_char": 375
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:60:term-usage:55-75",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:60",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 55,
+    "end_char": 75
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:60:term-usage:687-704",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:60",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:comision-nacional",
+    "span": "Comisión Nacional",
+    "start_char": 687,
+    "end_char": 704
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:60:term-usage:710-717",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:60",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:modelos",
+    "span": "Modelos",
+    "start_char": 710,
+    "end_char": 717
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:60:term-usage:1276-1283",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:60",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:modelos",
+    "span": "Modelos",
+    "start_char": 1276,
+    "end_char": 1283
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:60:term-usage:1357-1374",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:60",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:comision-nacional",
+    "span": "Comisión Nacional",
+    "start_char": 1357,
+    "end_char": 1374
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:60:term-usage:1545-1571",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:60",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:politica-nacional-integral",
+    "span": "Política Nacional Integral",
+    "start_char": 1545,
+    "end_char": 1571
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:62:term-usage:299-306",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:62",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:modelos",
+    "span": "Modelos",
+    "start_char": 299,
+    "end_char": 306
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:62:term-usage:1457-1464",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:62",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:modelos",
+    "span": "Modelos",
+    "start_char": 1457,
+    "end_char": 1464
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:63:term-usage:42-84",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:63",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:mecanismos-para-el-adelanto-de-las-mujeres",
+    "span": "Mecanismos para el adelanto de las mujeres",
+    "start_char": 42,
+    "end_char": 84
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:63:term-usage:245-271",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:63",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:politica-nacional-integral",
+    "span": "Política Nacional Integral",
+    "start_char": 245,
+    "end_char": 271
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:64:term-usage:42-84",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:64",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:mecanismos-para-el-adelanto-de-las-mujeres",
+    "span": "Mecanismos para el adelanto de las mujeres",
+    "start_char": 42,
+    "end_char": 84
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:64:term-usage:234-260",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:64",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:politica-nacional-integral",
+    "span": "Política Nacional Integral",
+    "start_char": 234,
+    "end_char": 260
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:65:term-usage:91-97",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:65",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:modelos",
+    "span": "Modelo",
+    "start_char": 91,
+    "end_char": 97
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:65:term-usage:169-189",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:65",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 169,
+    "end_char": 189
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:65:term-usage:208-215",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:65",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:term:modelos",
+    "span": "Modelos",
+    "start_char": 208,
+    "end_char": 215
+  }
+]

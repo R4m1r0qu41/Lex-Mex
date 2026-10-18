@@ -1,1 +1,189 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfce:term:agente-economico",
+    "term": "Agente Económico",
+    "instrument_id": "urn:lex-mx:federal:statute:lfce",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfce:article:3",
+    "fraction": "I",
+    "start_char": 48,
+    "end_char": 359,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfce:term:agencia",
+    "term": "Agencia",
+    "instrument_id": "urn:lex-mx:federal:statute:lfce",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfce:article:3",
+    "fraction": "I Bis",
+    "start_char": 359,
+    "end_char": 467,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfce:term:autoridad-investigadora",
+    "term": "Autoridad Investigadora",
+    "instrument_id": "urn:lex-mx:federal:statute:lfce",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfce:article:3",
+    "fraction": "II",
+    "start_char": 467,
+    "end_char": 571,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfce:term:autoridad-publica",
+    "term": "Autoridad Pública",
+    "instrument_id": "urn:lex-mx:federal:statute:lfce",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfce:article:3",
+    "fraction": "III",
+    "start_char": 571,
+    "end_char": 947,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfce:term:barreras-a-la-competencia-y-la-libre-concurrencia",
+    "term": "Barreras a la Competencia y la Libre Concurrencia",
+    "instrument_id": "urn:lex-mx:federal:statute:lfce",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfce:article:3",
+    "fraction": "IV",
+    "start_char": 947,
+    "end_char": 1452,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfce:term:comision",
+    "term": "Comisión",
+    "instrument_id": "urn:lex-mx:federal:statute:lfce",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfce:article:3",
+    "fraction": "V",
+    "start_char": 1452,
+    "end_char": 1536,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfce:term:crt",
+    "term": "CRT",
+    "instrument_id": "urn:lex-mx:federal:statute:lfce",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfce:article:3",
+    "fraction": "VI",
+    "start_char": 1536,
+    "end_char": 1623,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfce:term:disposiciones-regulatorias",
+    "term": "Disposiciones Regulatorias",
+    "instrument_id": "urn:lex-mx:federal:statute:lfce",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfce:article:3",
+    "fraction": "VIII",
+    "start_char": 1698,
+    "end_char": 1906,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfce:term:informacion-confidencial",
+    "term": "Información Confidencial",
+    "instrument_id": "urn:lex-mx:federal:statute:lfce",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfce:article:3",
+    "fraction": "IX",
+    "start_char": 1906,
+    "end_char": 2216,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfce:term:informacion-publica",
+    "term": "Información Pública",
+    "instrument_id": "urn:lex-mx:federal:statute:lfce",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfce:article:3",
+    "fraction": "X",
+    "start_char": 2216,
+    "end_char": 2372,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfce:term:informacion-reservada",
+    "term": "Información Reservada",
+    "instrument_id": "urn:lex-mx:federal:statute:lfce",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfce:article:3",
+    "fraction": "XI",
+    "start_char": 2372,
+    "end_char": 2507,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfce:term:persona-comisionada",
+    "term": "Persona Comisionada",
+    "instrument_id": "urn:lex-mx:federal:statute:lfce",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfce:article:3",
+    "fraction": "XI Bis",
+    "start_char": 2507,
+    "end_char": 2641,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfce:term:organo-encargado-de-la-instruccion",
+    "term": "Órgano encargado de la instrucción",
+    "instrument_id": "urn:lex-mx:federal:statute:lfce",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfce:article:3",
+    "fraction": "XII",
+    "start_char": 2641,
+    "end_char": 2848,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfce:term:pleno",
+    "term": "Pleno",
+    "instrument_id": "urn:lex-mx:federal:statute:lfce",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfce:article:3",
+    "fraction": "XIII",
+    "start_char": 2848,
+    "end_char": 3066,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfce:term:procuraduria",
+    "term": "Procuraduría",
+    "instrument_id": "urn:lex-mx:federal:statute:lfce",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfce:article:3",
+    "fraction": "XIV",
+    "start_char": 3066,
+    "end_char": 3126,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfce:term:reglamento",
+    "term": "Reglamento",
+    "instrument_id": "urn:lex-mx:federal:statute:lfce",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfce:article:3",
+    "fraction": "XIV Bis",
+    "start_char": 3126,
+    "end_char": 3234,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfce:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lfce",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfce:article:3",
+    "fraction": "XV",
+    "start_char": 3234,
+    "end_char": 3276,
+    "basis": "express_definition"
+  }
+]

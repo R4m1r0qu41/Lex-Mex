@@ -17,6 +17,6 @@ source_sha256: aca2d65d2eef1b7c26ab431772ce7364305d103f5e4bacc87da02064df005ae3
 
 # Artículo 37
 
-Las personas o grupos sociales en situación de pobreza serán aquéllos que identifique la Secretaría, con sujeción a los lineamientos y criterios que para la definición, identificación y medición de la pobreza establezca el Consejo Nacional de Evaluación. Para tales efectos, el Consejo Nacional de Evaluación deberá mantener actualizados los indicadores referidos en el artículo [36](../../lgds/markdown/articulo-36.md) de la Ley, con base en la información que genere el Instituto Nacional de Estadística, Geografía e Informática, independientemente de otros datos que estime convenientes.
+Las personas o grupos sociales en situación de pobreza serán aquéllos que identifique la Secretaría, con sujeción a los lineamientos y criterios que para la definición, identificación y medición de la pobreza establezca el Consejo Nacional de Evaluación. Para tales efectos, el Consejo Nacional de Evaluación deberá mantener actualizados los indicadores referidos en el artículo [36](../../lgds/markdown/articulo-36.md) de la [Ley](articulo-3.md), con base en la información que genere el Instituto Nacional de Estadística, Geografía e Informática, independientemente de otros datos que estime convenientes.
 
 La Secretaría, tomando en consideración la opinión y recomendación del Consejo Nacional de Evaluación, determinará los criterios y lineamientos para la medición de los índices de marginación y la identificación de los grupos vulnerables.

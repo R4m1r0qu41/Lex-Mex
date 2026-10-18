@@ -17,9 +17,9 @@ source_sha256: 4933abadd27d345e7a5c1754af10ed429fd148b709b4a78d4f42447b5fcd546d
 
 # Artículo 12
 
-La Secretaría tendrá en materia de coordinación y desarrollo de la competitividad de las MIPYMES, las siguientes responsabilidades:
+La [Secretaría](articulo-3.md) tendrá en materia de coordinación y desarrollo de la competitividad de las [MIPYMES](articulo-3.md), las siguientes responsabilidades:
 
-I. La Secretaría promoverá ante las instancias competentes que los programas y apoyos previstos en esta Ley a favor de las MIPYMES, sean canalizados a las mismas, para lo cual tomará las medidas necesarias conforme al Reglamento;
+I. La Secretaría promoverá ante las instancias competentes que los programas y apoyos previstos en esta [Ley](articulo-3.md) a favor de las MIPYMES, sean canalizados a las mismas, para lo cual tomará las medidas necesarias conforme al [Reglamento](articulo-3.md);
 
 II. Impulsar un entorno favorable para la creación, desarrollo y crecimiento con calidad de las MIPYMES;
 
@@ -27,11 +27,11 @@ III. Promover con las Entidades Federativas, los Municipios y las demarcaciones 
 
 IV. Evaluar de manera conjunta con las Entidades Federativas, con los Municipios y las demarcaciones territoriales de la Ciudad de México, los resultados de los convenios a que se refiere la fracción anterior para formular nuevas acciones. Lo anterior, sin perjuicio de las facultades de las autoridades competentes en la materia; Fracción reformada DOF 19-05-2017
 
-V. Evaluar anualmente el desempeño de la Competitividad nacional en relación al entorno internacional;
+V. Evaluar anualmente el desempeño de la [Competitividad](articulo-3.md) nacional en relación al entorno internacional;
 
-VI. Proponer la actualización de los Programas de manera continua para establecer objetivos en el corto, mediano y largo plazo; VII. Realizar la función de coordinación a que se refiere la presente Ley, para el desarrollo de la competitividad de las MIPYMES;
+VI. Proponer la actualización de los [Programas](articulo-3.md) de manera continua para establecer objetivos en el corto, mediano y largo plazo; VII. Realizar la función de coordinación a que se refiere la presente Ley, para el desarrollo de la competitividad de las MIPYMES;
 
-VIII. Desarrollar a través de los instrumentos con que cuenta y los que genere, un sistema general de información y consulta para la planeación sobre los sectores productivos y Cadenas Productivas;
+VIII. Desarrollar a través de los instrumentos con que cuenta y los que genere, un sistema general de información y consulta para la planeación sobre los sectores productivos y [Cadenas Productivas](articulo-3.md);
 
 IX. Proponer a través de las instancias competentes, la homologación de la normativa y trámites, por lo que se refiere a la materia de la presente Ley, y
 

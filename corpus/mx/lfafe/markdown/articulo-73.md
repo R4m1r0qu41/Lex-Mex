@@ -17,6 +17,6 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 73
 
-Las personas permisionarias y titulares de las licencias están obligadas a cumplir con las medidas de información, control, vigilancia y seguridad que establezca la Secretaría, con sujeción a esta Ley y su Reglamento.
+Las personas permisionarias y titulares de las licencias están obligadas a cumplir con las medidas de información, control, vigilancia y seguridad que establezca la [Secretaría](articulo-1o-Bis.md), con sujeción a esta [Ley](articulo-1o-Bis.md) y su [Reglamento](articulo-1o-Bis.md).
 
 Artículo reformado DOF 29-05-2025

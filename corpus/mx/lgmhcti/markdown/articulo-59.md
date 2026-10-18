@@ -17,7 +17,7 @@ source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 
 # Artículo 59
 
-Para la implementación del Sistema Nacional de Información, el Consejo Nacional deberá realizar lo siguiente:
+Para la implementación del [Sistema Nacional de Información](articulo-4.md), el [Consejo Nacional](articulo-4.md) deberá realizar lo siguiente:
 
 I. Apoyar, articular y coordinar, de conformidad con la disponibilidad presupuestaria, la integración y operación de una red de cómputo científico de alto rendimiento con las universidades, instituciones de educación superior y centros de investigación del sector público, que permita la operación óptima del Sistema Nacional de Información, así como el uso eficiente de las capacidades instaladas en el país que hayan sido financiadas con recursos públicos; II. Promover un gobierno de datos del Sistema Nacional de Información, mediante lineamientos y políticas que permitan establecer una metodología y lenguaje común de los sistemas informáticos, así como regular la seguridad, sostenibilidad, gestión y preservación a largo plazo de los recursos de información, en congruencia con los principios y disposiciones que emita la instancia correspondiente de la Administración Pública Federal y demás normativa aplicable en materia de tecnologías de la información y comunicación;
 

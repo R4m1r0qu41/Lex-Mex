@@ -17,4 +17,4 @@ source_sha256: aa96853f010885bdf85160e944e5c0ef5c3c8e95422dfede280d228cf064310a
 
 # Artículo 23
 
-Con relación a la producción de sus propias Centrales Eléctricas, las Generadoras pueden realizar las actividades de comercialización a que se refiere el artículo [112](articulo-112.md) de la presente Ley, exceptuando la prestación del Suministro Eléctrico. Sobre dichas actividades no aplican ni la separación legal, ni las reglas a que se refiere el artículo [8](articulo-8.md) de esta Ley.
+Con relación a la producción de sus propias [Centrales Eléctricas](articulo-3.md), las [Generadoras](articulo-3.md) pueden realizar las actividades de comercialización a que se refiere el artículo [112](articulo-112.md) de la presente Ley, exceptuando la prestación del [Suministro Eléctrico](articulo-3.md). Sobre dichas actividades no aplican ni la separación legal, ni las reglas a que se refiere el artículo [8](articulo-8.md) de esta Ley.

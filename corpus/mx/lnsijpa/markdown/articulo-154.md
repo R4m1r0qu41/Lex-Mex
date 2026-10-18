@@ -23,7 +23,7 @@ I. Garantizar el cumplimiento de sus derechos;
 
 II. Posibilitar su desarrollo personal;
 
-III. Escuchar, tomar en cuenta su opinión e involucrarla activamente en la elaboración y ejecución de su Plan Individualizado de Actividades o Plan Individualizado de Ejecución;
+III. Escuchar, tomar en cuenta su opinión e involucrarla activamente en la elaboración y ejecución de su [Plan Individualizado de Actividades](articulo-3.md) o [Plan Individualizado de Ejecución](articulo-3.md);
 
 IV. Minimizar los efectos negativos que la medida de sanción pudiera tener en su vida futura, y
 

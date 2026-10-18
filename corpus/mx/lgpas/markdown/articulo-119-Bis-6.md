@@ -17,6 +17,6 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 119 Bis 6
 
-El SENASICA promoverá que los establecimientos de procesamiento primario de recursos, partes y derivados de origen pesquero y acuícola obtengan la denominación TIF, previo cumplimiento de las disposiciones de esta Ley, de las normas oficiales mexicanas que de ella deriven y demás disposiciones que emita el propio SENASICA en materia de sanidad e inocuidad pesquera y acuícola y buenas prácticas aplicables a dichos recursos.
+El [SENASICA](articulo-4o.md) promoverá que los establecimientos de procesamiento primario de recursos, partes y derivados de origen pesquero y acuícola obtengan la denominación TIF, previo cumplimiento de las disposiciones de esta Ley, de las normas oficiales mexicanas que de ella deriven y demás disposiciones que emita el propio SENASICA en materia de sanidad e inocuidad pesquera y acuícola y buenas prácticas aplicables a dichos recursos.
 
 Artículo adicionado DOF 30-05-2012

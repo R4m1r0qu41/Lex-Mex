@@ -17,7 +17,7 @@ source_sha256: d9ffbbf8f19b54a93ff577abb1266e4be1316d935e79fad655242955fd80ff70
 
 # Artículo 50
 
-Las notificaciones, citatorios, emplazamientos, requerimiento de informes o documentos y las resoluciones que emita la Secretaría, se realizarán en el domicilio señalado por el imputado y con las personas autorizadas para tales efectos. El notificador deberá cerciorarse del domicilio del interesado y deberá entregar copia del acto que se notifique y señalar la fecha y hora en que la notificación se efectúa, recabando el nombre y firma de la persona con quien se entienda la diligencia. Si ésta se niega, se hará constar en la cédula de notificación, sin que ello afecte su validez.
+Las notificaciones, citatorios, emplazamientos, requerimiento de informes o documentos y las resoluciones que emita la [Secretaría](articulo-2.md), se realizarán en el domicilio señalado por el imputado y con las personas autorizadas para tales efectos. El notificador deberá cerciorarse del domicilio del interesado y deberá entregar copia del acto que se notifique y señalar la fecha y hora en que la notificación se efectúa, recabando el nombre y firma de la persona con quien se entienda la diligencia. Si ésta se niega, se hará constar en la cédula de notificación, sin que ello afecte su validez.
 
 De no encontrarse la persona que debe ser notificada, se dejará citatorio con cualquier persona que se encuentre en el domicilio, para que el interesado espere al notificador a una hora fija del día hábil siguiente. Si el domicilio se encontrare cerrado, el citatorio se dejará con el vecino más cercano, debiéndose asentar tal circunstancia.
 

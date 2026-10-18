@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 133
 
-Cuando resulte procedente el otorgamiento del certificado complementario, el Instituto lo comunicará a la persona solicitante para que dentro del plazo de un mes, presente el comprobante del pago de la tarifa correspondiente a la expedición del título del certificado, así como el relativo al pago del periodo de ajuste respectivo.
+Cuando resulte procedente el otorgamiento del certificado complementario, el [Instituto](articulo-4.md) lo comunicará a la persona solicitante para que dentro del plazo de un mes, presente el comprobante del pago de la tarifa correspondiente a la expedición del título del certificado, así como el relativo al pago del periodo de ajuste respectivo.
 
 Si vencido el plazo anterior, la persona solicitante no cumple con lo requerido se tendrá por abandonada la solicitud.
 

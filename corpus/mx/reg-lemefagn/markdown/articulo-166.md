@@ -17,4 +17,4 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 166
 
-La investigación en el Sistema es un proceso que, mediante la aplicación del método científico, procura obtener información relevante y fidedigna para entender, verificar, corregir o aplicar el conocimiento. Se caracteriza por ser reflexiva, sistemática y metódica, y tiene por finalidad obtener conocimientos y solucionar problemas humanísticos, científicos, tecnológicos y militares.
+La investigación en el [Sistema](articulo-3.md) es un proceso que, mediante la aplicación del método científico, procura obtener información relevante y fidedigna para entender, verificar, corregir o aplicar el conocimiento. Se caracteriza por ser reflexiva, sistemática y metódica, y tiene por finalidad obtener conocimientos y solucionar problemas humanísticos, científicos, tecnológicos y militares.

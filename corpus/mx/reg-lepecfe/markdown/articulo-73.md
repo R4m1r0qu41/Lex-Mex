@@ -17,4 +17,4 @@ source_sha256: 9478163ef6ab468edc2be8def3bf84efedd03da5b6c166fba0430bfcb6d8467c
 
 # Artículo 73
 
-Para los efectos del artículo [130](../../lepecfe/markdown/articulo-130.md), párrafo tercero de la Ley, el contrato de prestación de servicios profesionales que se celebre con la Persona Comisaria designada, se debe formalizar entre esta y la Comisión Federal de Electricidad.
+Para los efectos del artículo [130](../../lepecfe/markdown/articulo-130.md), párrafo tercero de la [Ley](articulo-2.md), el contrato de prestación de servicios profesionales que se celebre con la [Persona Comisaria](articulo-2.md) designada, se debe formalizar entre esta y la Comisión Federal de Electricidad.

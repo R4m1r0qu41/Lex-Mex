@@ -17,4 +17,4 @@ source_sha256: 7679afbbf32749e0c0bacab72644d41fc6ccdeeab3a2f25dfae8d26a065de01e
 
 # Artículo 136
 
-La Secretaría, en su caso, podrá establecer en los lineamientos el seguimiento de los recursos asignados, como consecuencia de los Apoyos otorgados, lo anterior, sin que ello interfiera con las atribuciones conferidas a los órganos fiscalizadores, ni sustituya las funciones de control, auditoría y fiscalización previstas en la legislación aplicable.
+La [Secretaría](articulo-4.md), en su caso, podrá establecer en los lineamientos el seguimiento de los recursos asignados, como consecuencia de los [Apoyos](articulo-4.md) otorgados, lo anterior, sin que ello interfiera con las atribuciones conferidas a los órganos fiscalizadores, ni sustituya las funciones de control, auditoría y fiscalización previstas en la legislación aplicable.

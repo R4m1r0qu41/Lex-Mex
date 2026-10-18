@@ -17,4 +17,4 @@ source_sha256: b3c906475b455176de73da17f4f93a73f295965dc9bcca854b48417c7d4d3cfc
 
 # Artículo 76
 
-El transporte de OGMs o de productos que los contengan, así como el tránsito de dichos organismos y productos por el territorio nacional, cuando tengan como destino otro país, se regirán por las normas oficiales mexicanas que expidan de manera conjunta las Secretarías competentes, con la participación de la Secretaría de Comunicaciones y Transportes.
+El transporte de OGMs o de productos que los contengan, así como el tránsito de dichos organismos y productos por el territorio nacional, cuando tengan como destino otro país, se regirán por las normas oficiales mexicanas que expidan de manera conjunta las [Secretarías](articulo-3.md) competentes, con la participación de la Secretaría de Comunicaciones y Transportes.

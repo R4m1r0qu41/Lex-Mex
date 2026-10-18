@@ -17,7 +17,7 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 143 BIS
 
-Las personas discentes que causen baja sin importar el año que se encontraban cursando, podrán reingresar por una sola ocasión a la Institución Educativa de la cual causaron baja, únicamente en los casos siguientes: Párrafo reformado DOF 20-03-2026
+Las personas discentes que causen baja sin importar el año que se encontraban cursando, podrán reingresar por una sola ocasión a la [Institución Educativa](articulo-3.md) de la cual causaron baja, únicamente en los casos siguientes: Párrafo reformado DOF 20-03-2026
 
 I. Cuando aprueben el examen especial correspondiente a las asignaturas que hayan motivado su baja;
 

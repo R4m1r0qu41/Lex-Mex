@@ -17,4 +17,4 @@ source_sha256: bcc21844355854fe331c842c21436d721d6c2856b5c5986715fe39f4a845b317
 
 # Artículo 28
 
-El Presidente del Sistema dotará de las instalaciones y elementos indispensables para el desarrollo de las reuniones del Consejo Ciudadano.
+El [Presidente](articulo-2.md) del [Sistema](articulo-2.md) dotará de las instalaciones y elementos indispensables para el desarrollo de las reuniones del [Consejo Ciudadano](articulo-2.md).

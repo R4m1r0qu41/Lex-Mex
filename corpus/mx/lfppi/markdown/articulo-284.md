@@ -19,4 +19,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 Para los efectos de este Capítulo se admitirán toda clase de pruebas con excepción de la confesional y testimonial, salvo que el testimonio o la confesión estén contenidos en documental, así como las que sean contrarias a la moral y al derecho.
 
-El Instituto podrá realizar en cualquier tiempo, antes de la declaración, las investigaciones que estime pertinentes y allegarse de los elementos que considere necesarios.
+El [Instituto](articulo-4.md) podrá realizar en cualquier tiempo, antes de la declaración, las investigaciones que estime pertinentes y allegarse de los elementos que considere necesarios.

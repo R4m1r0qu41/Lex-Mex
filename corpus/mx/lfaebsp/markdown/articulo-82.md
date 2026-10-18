@@ -17,6 +17,6 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 82
 
-El Director General del Instituto deberá remitir semestralmente a la Secretaría y a la Secretaría de la Función Pública, un informe en donde se detalle su operación, avances en los procedimientos a que se refiere esta Ley, así como respecto de la enajenación de los Bienes que fueron puestos a su disposición.
+El Director General del [Instituto](articulo-2o.md) deberá remitir semestralmente a la [Secretaría](articulo-2o.md) y a la Secretaría de la Función Pública, un informe en donde se detalle su operación, avances en los procedimientos a que se refiere esta Ley, así como respecto de la enajenación de los [Bienes](articulo-2o.md) que fueron puestos a su disposición.
 
 Artículo reformado DOF 23-02-2005, 09-08-2019

@@ -29,7 +29,7 @@ V. Lados, rumbos, distancias horizontales y colindancias del perímetro del nuev
 
 VI. Liga o ligas topográficas del punto de partida del nuevo lote o lotes al punto o puntos de partida del lote o lotes que se sustituyen, en su caso.
 
-Sin perjuicio de lo anterior, la Secretaría podrá desaprobar las solicitudes a que se refiere el presente artículo, si sus titulares incumplieron con las obligaciones establecidas en el artículo [27](../../lmin/markdown/articulo-27.md) de la Ley, previo requerimiento al interesado para su cumplimiento.
+Sin perjuicio de lo anterior, la [Secretaría](articulo-1o.md) podrá desaprobar las solicitudes a que se refiere el presente artículo, si sus titulares incumplieron con las obligaciones establecidas en el artículo [27](../../lmin/markdown/articulo-27.md) de la [Ley](articulo-1o.md), previo requerimiento al interesado para su cumplimiento.
 
 En las solicitudes de división se deberá precisar adicionalmente el nombre del titular o titulares de los nuevos lotes, siempre y cuando éstos sean copropietarios de los derechos de la concesión que ampare el lote por dividir, así como la indicación de a cuál de ellos corresponderán los derechos y obligaciones que deriven de la expropiación, ocupación temporal o constitución de servidumbre, atendiendo a las razones que hayan fundamentado la afectación.
 

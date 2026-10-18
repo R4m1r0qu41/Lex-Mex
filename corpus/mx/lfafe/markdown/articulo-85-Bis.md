@@ -23,7 +23,7 @@ I.- A las personas que fabriquen o exporten armas, municiones, piezas, component
 
 II.- A comerciantes de armas que, sin permiso, transmitan la propiedad de los objetos a que se refiere la fracción I;
 
-III.- A las personas que dispongan indebidamente de las armas con que se haya dotado a las instituciones policiales y de procuración de justicia federales, estatales, municipales, de las alcaldías o de la Fuerza Armada Permanente, y
+III.- A las personas que dispongan indebidamente de las armas con que se haya dotado a las instituciones policiales y de procuración de justicia federales, estatales, municipales, de las alcaldías o de la [Fuerza Armada Permanente](articulo-1o-Bis.md), y
 
 IV.- A las personas que fabriquen o ensamblen armas a partir de piezas, componentes o accesorios originales, improvisados, artesanales o en partes maquinadas tridimensionalmente, así como a los que fabriquen aditamentos para convertir armas semiautomáticas en automáticas.
 

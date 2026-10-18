@@ -17,4 +17,4 @@ source_sha256: 3a86c9bc8afe7162bbcc0c31a28250ca91cfbf2cb6a08deddae0653977ae3d3f
 
 # Artículo 6
 
-La Secretaría emitirá respuesta a la solicitud de autorización para Autoridades, Instituciones y personas físicas que realicen el canto, ejecución, reproducción, interpretación y uso del Himno Nacional, en espectáculos previstos por el artículo [40](../../lebhn/markdown/articulo-40.md) de la Ley, contando con previa opinión de la Secretaría de Cultura; dicha exhibición podrá realizarse en la lengua indígena de la comunidad que corresponda, o en su caso, afromexicana en términos del presente reglamento.
+La [Secretaría](articulo-2.md) emitirá respuesta a la solicitud de autorización para Autoridades, Instituciones y personas físicas que realicen el canto, ejecución, reproducción, interpretación y uso del Himno Nacional, en espectáculos previstos por el artículo [40](../../lebhn/markdown/articulo-40.md) de la [Ley](articulo-2.md), contando con previa opinión de la Secretaría de Cultura; dicha exhibición podrá realizarse en la lengua indígena de la comunidad que corresponda, o en su caso, afromexicana en términos del presente reglamento.

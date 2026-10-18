@@ -17,4 +17,4 @@ source_sha256: b3c906475b455176de73da17f4f93a73f295965dc9bcca854b48417c7d4d3cfc
 
 # Artículo 112
 
-La aplicación de las normas oficiales mexicanas en materia de bioseguridad, así como los actos de inspección y vigilancia corresponderán exclusivamente a las Secretarías competentes en los términos de esta Ley. El cumplimiento de dichas normas podrá ser evaluado por los organismos de certificación, unidades de verificación y laboratorios de pruebas aprobados por dichas Secretarías de conformidad con las disposiciones reglamentarias que deriven del presente ordenamiento y con la Ley Federal sobre Metrología y Normalización.
+La aplicación de las normas oficiales mexicanas en materia de bioseguridad, así como los actos de inspección y vigilancia corresponderán exclusivamente a las [Secretarías](articulo-3.md) competentes en los términos de esta Ley. El cumplimiento de dichas normas podrá ser evaluado por los organismos de certificación, unidades de verificación y laboratorios de pruebas aprobados por dichas Secretarías de conformidad con las disposiciones reglamentarias que deriven del presente ordenamiento y con la Ley Federal sobre Metrología y Normalización.

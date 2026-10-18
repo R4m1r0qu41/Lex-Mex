@@ -17,7 +17,7 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 5o
 
-La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros tendrá como finalidad promover, asesorar, proteger y defender los derechos e intereses de los Usuarios frente a las Instituciones Financieras, arbitrar sus diferencias de manera imparcial y proveer a la equidad en las relaciones entre éstos, así como supervisar y regular de conformidad con lo previsto en las leyes relativas al sistema financiero, a las Instituciones Financieras, a fin de procurar la protección de los intereses de los Usuarios.
+La [Comisión Nacional](articulo-2o.md) para la Protección y Defensa de los [Usuarios](articulo-2o.md) de Servicios Financieros tendrá como finalidad promover, asesorar, proteger y defender los derechos e intereses de los Usuarios frente a las [Instituciones Financieras](articulo-2o.md), arbitrar sus diferencias de manera imparcial y proveer a la equidad en las relaciones entre éstos, así como supervisar y regular de conformidad con lo previsto en las leyes relativas al sistema financiero, a las Instituciones Financieras, a fin de procurar la protección de los intereses de los Usuarios.
 
 La Comisión Nacional procurará el establecimiento de programas educativos, y de otra índole en materia de cultura financiera, para lo cual los elaborará y propondrá a las autoridades competentes.
 

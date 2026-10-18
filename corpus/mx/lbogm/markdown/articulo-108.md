@@ -17,7 +17,7 @@ source_sha256: b3c906475b455176de73da17f4f93a73f295965dc9bcca854b48417c7d4d3cfc
 
 # Artículo 108
 
-La CIBIOGEM, a través de su Secretaría Ejecutiva, desarrollará el Sistema Nacional de Información sobre Bioseguridad que tendrá por objeto organizar, actualizar y difundir la información sobre bioseguridad. En dicho Sistema, la CIBIOGEM deberá integrar, entre otros aspectos, la información correspondiente al Registro.
+La [CIBIOGEM](articulo-3.md), a través de su [Secretaría](articulo-3.md) Ejecutiva, desarrollará el Sistema Nacional de Información sobre [Bioseguridad](articulo-3.md) que tendrá por objeto organizar, actualizar y difundir la información sobre bioseguridad. En dicho Sistema, la CIBIOGEM deberá integrar, entre otros aspectos, la información correspondiente al [Registro](articulo-3.md).
 
 La CIBIOGEM reunirá informes y documentos relevantes que resulten de las actividades científicas, académicas, trabajos técnicos o de cualquier otra índole en materia de bioseguridad, incluyendo la inocuidad de OGMs, realizados por personas físicas o morales, nacionales o extranjeras, los que serán remitidos y organizados por el Sistema Nacional de Información sobre Bioseguridad. Además, elaborará y publicará anualmente un informe detallado de la situación general existente en el país en materia de biotecnología y bioseguridad materia de esta Ley.
 

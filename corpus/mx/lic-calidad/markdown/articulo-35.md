@@ -19,15 +19,15 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 El procedimiento de normalización consta de las siguientes etapas que serán progresivas y sucesivas:
 
-I. Elaboración o aceptación de la propuesta por la Autoridad Normalizadora;
+I. Elaboración o aceptación de la propuesta por la [Autoridad Normalizadora](articulo-4.md);
 
-II. Presentación de la propuesta al Comité Consultivo Nacional de Normalización correspondiente para su análisis y revisión, en cuyo momento, se considerará como un anteproyecto de Norma Oficial Mexicana; III. En caso de que el Comité Consultivo Nacional de Normalización lo considere conveniente, constitución del grupo de trabajo correspondiente, para el estudio y la discusión del anteproyecto correspondiente.
+II. Presentación de la propuesta al Comité Consultivo Nacional de Normalización correspondiente para su análisis y revisión, en cuyo momento, se considerará como un anteproyecto de [Norma Oficial Mexicana](articulo-4.md); III. En caso de que el Comité Consultivo Nacional de Normalización lo considere conveniente, constitución del grupo de trabajo correspondiente, para el estudio y la discusión del anteproyecto correspondiente.
 
 En su caso, presentación de los resultados del estudio y discusión del anteproyecto por parte del grupo de trabajo ante el Comité Consultivo Nacional de Normalización;
 
 IV. Deliberación por parte del Comité Consultivo Nacional de Normalización que podrá ser afirmativa, con modificaciones o negativa, resultado que comunicará a la Autoridad Normalizadora;
 
-V. En caso de que el resultado de la deliberación sea afirmativo, la Autoridad Normalizadora ordenará la publicación en el Diario Oficial de la Federación de un Aviso del proyecto de la Norma Oficial Mexicana que contenga un extracto de éste, mismo que estará disponible en su totalidad en la Plataforma Tecnológica Integral de Infraestructura de la Calidad, para su consulta pública.
+V. En caso de que el resultado de la deliberación sea afirmativo, la Autoridad Normalizadora ordenará la publicación en el Diario Oficial de la Federación de un Aviso del proyecto de la Norma Oficial Mexicana que contenga un extracto de éste, mismo que estará disponible en su totalidad en la [Plataforma Tecnológica Integral de Infraestructura de la Calidad](articulo-4.md), para su consulta pública.
 
 En caso de que el resultado de la deliberación resulte en modificaciones, la Autoridad Normalizadora tendrá un plazo de treinta días naturales para atenderlas y presentar al Comité Consultivo Nacional de Normalización un anteproyecto modificado, en cuyo caso, se reiniciará el procedimiento previsto en este artículo a partir de la fracción III anterior.
 
@@ -41,7 +41,7 @@ VIII. Presentación, por el grupo de trabajo, ante el Comité Consultivo Naciona
 
 La resolución definitiva del Comité Consultivo Nacional de Normalización deberá ser comunicada a la Autoridad Normalizadora;
 
-IX. Notificada la resolución definitiva a la Autoridad Normalizadora, ésta solicitará a la Secretaría la publicación en la Plataforma Tecnológica Integral de Infraestructura de la Calidad de las respuestas a los comentarios recibidos durante la consulta pública, y
+IX. Notificada la resolución definitiva a la Autoridad Normalizadora, ésta solicitará a la [Secretaría](articulo-4.md) la publicación en la Plataforma Tecnológica Integral de Infraestructura de la Calidad de las respuestas a los comentarios recibidos durante la consulta pública, y
 
 X. En caso de que el Comité Consultivo Nacional de Normalización apruebe el proyecto de Norma Oficial Mexicana objeto de resolución definitiva, la Autoridad Normalizadora deberá expedir la Norma Oficial Mexicana y ordenar su publicación en el Diario Oficial de la Federación, así como solicitar su publicación en la Plataforma Tecnológica Integral de Infraestructura de la Calidad.
 

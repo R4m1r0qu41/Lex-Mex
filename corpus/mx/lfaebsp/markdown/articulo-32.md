@@ -25,7 +25,7 @@ II.- Las que no hubieren cumplido con cualquiera de las obligaciones derivadas d
 
 III.- Aquéllas que hubieren proporcionado información que resulte falsa o que hayan actuado con dolo o mala fe, en algún procedimiento realizado por la Administración Pública Federal para la adjudicación de un bien;
 
-IV.- Aquéllas que hubieren participado en procedimientos similares con el Gobierno Federal y se encuentren en situación de atraso en el pago de los bienes por causas imputables a ellos mismos, salvo los casos previstos en los lineamientos que para tal efecto expida la Junta de Gobierno; Fracción reformada DOF 23-02-2005
+IV.- Aquéllas que hubieren participado en procedimientos similares con el Gobierno Federal y se encuentren en situación de atraso en el pago de los bienes por causas imputables a ellos mismos, salvo los casos previstos en los lineamientos que para tal efecto expida la [Junta de Gobierno](articulo-2o.md); Fracción reformada DOF 23-02-2005
 
 V.- Aquéllas a las que se les declare en concurso civil o mercantil;
 
@@ -37,4 +37,4 @@ VIII.- Los servidores públicos y terceros especializados que por sus funciones 
 
 IX.- Las demás que por cualquier causa se encuentren impedidas para ello por disposición de Ley.
 
-Para los efectos de las fracciones III y IV, el Instituto llevará un registro de las personas que se ubiquen en los supuestos previstos por las mismas. Párrafo reformado DOF 09-08-2019
+Para los efectos de las fracciones III y IV, el [Instituto](articulo-2o.md) llevará un registro de las personas que se ubiquen en los supuestos previstos por las mismas. Párrafo reformado DOF 09-08-2019

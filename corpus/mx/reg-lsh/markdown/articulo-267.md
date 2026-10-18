@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 267
 
-Sin perjuicio de su ejercicio directo, para supervisar y verificar el cumplimiento de los ordenamientos regulatorios del sector hidrocarburos, la Secretaría o la Comisión, pueden auxiliarse de manera enunciativa y no limitativa, de terceras personas especialistas, unidades de verificación e inspección y demás organismos de evaluación de la conformidad, siempre y cuando se encuentren acreditadas y aprobadas, según corresponda, en términos de la Normatividad aplicable.
+Sin perjuicio de su ejercicio directo, para supervisar y verificar el cumplimiento de los ordenamientos regulatorios del sector hidrocarburos, la [Secretaría](articulo-3.md) o la [Comisión](articulo-3.md), pueden auxiliarse de manera enunciativa y no limitativa, de terceras personas especialistas, unidades de verificación e inspección y demás organismos de evaluación de la conformidad, siempre y cuando se encuentren acreditadas y aprobadas, según corresponda, en términos de la [Normatividad](articulo-3.md) aplicable.

@@ -15,6 +15,6 @@ source_sha256: 0a9852297132d8972d0c2f77e1b67d614bd296632109065e703bd09254187aea
 
 # Artículo 29
 
-La plataforma tecnológica del Registro emitirá certificados digitales sobre los registros de las detenciones y las consultas que haga la autoridad conforme a sus atribuciones y perfiles de acceso. Dichos certificados servirán para acreditar la existencia y contenido del registro frente a cualquier requerimiento que formule la autoridad facultada para hacerlo. La veracidad de la información es responsabilidad de la autoridad que la genera.
+La plataforma tecnológica del [Registro](articulo-2.md) emitirá certificados digitales sobre los registros de las detenciones y las consultas que haga la autoridad conforme a sus atribuciones y perfiles de acceso. Dichos certificados servirán para acreditar la existencia y contenido del registro frente a cualquier requerimiento que formule la autoridad facultada para hacerlo. La veracidad de la información es responsabilidad de la autoridad que la genera.
 
-La plataforma tecnológica del Sistema de Consulta también emitirá certificados digitales.
+La plataforma tecnológica del [Sistema de Consulta](articulo-2.md) también emitirá certificados digitales.

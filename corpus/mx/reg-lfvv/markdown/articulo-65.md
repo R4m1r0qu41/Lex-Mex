@@ -19,4 +19,4 @@ source_sha256: 23dcee090bbe0c4fb06c75d084cb65ce0b2e8f72a8d082e7059504412bde1614
 
 La práctica de diligencias relativas a la adopción de medidas provisionales sólo podrá autorizarse a solicitud de quien acredite ser el titular del derecho, su representante legal, su causahabiente, su cesionario o aquella persona que por cualquier forma de transmisión explote y aproveche la variedad vegetal y su material de propagación.
 
-La solicitud se hará por escrito, proporcionando la información necesaria para la identificación de los presuntos responsables, o de los bienes, servicios o establecimientos con los cuales o en donde se cometa alguna de las infracciones previstas en el artículo [48](../../lfvv/markdown/articulo-48.md) de la Ley, acompañando las pruebas que tuviese en su poder.
+La solicitud se hará por escrito, proporcionando la información necesaria para la identificación de los presuntos responsables, o de los bienes, servicios o establecimientos con los cuales o en donde se cometa alguna de las infracciones previstas en el artículo [48](../../lfvv/markdown/articulo-48.md) de la [Ley](articulo-2o.md), acompañando las pruebas que tuviese en su poder.

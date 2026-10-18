@@ -17,4 +17,4 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # Artículo 22
 
-En caso de duda sobre la interpretación de las disposiciones de esta Ley, se estará a lo que resuelva, para efectos administrativos, la Secretaría.
+En caso de duda sobre la interpretación de las disposiciones de esta Ley, se estará a lo que resuelva, para efectos administrativos, la [Secretaría](articulo-2.md).

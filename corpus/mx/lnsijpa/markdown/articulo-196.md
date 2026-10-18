@@ -17,6 +17,6 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 196
 
-Hechos señalados como delitos que ameriten la medida de sanción de internamiento Para la aplicación de procesos restaurativos que impliquen un encuentro de la persona adolescente con la víctima u ofendido en caso de hechos señalados como delitos que ameriten la medida de sanción de internamiento, las reuniones previas de preparación a que se refiere esta Ley, no podrán durar menos de seis meses.
+Hechos señalados como delitos que ameriten la medida de sanción de internamiento Para la aplicación de procesos restaurativos que impliquen un encuentro de la persona adolescente con la víctima u ofendido en caso de hechos señalados como delitos que ameriten la medida de sanción de internamiento, las reuniones previas de preparación a que se refiere esta [Ley](articulo-3.md), no podrán durar menos de seis meses.
 
 Los procesos restaurativos que impliquen un encuentro entre las partes, solo podrán llevarse por petición de la víctima u ofendido, a partir de que la medida de sanción quede firme y hasta antes de su cumplimiento.

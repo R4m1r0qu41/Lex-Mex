@@ -17,4 +17,4 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 2o
 
-En lo no previsto en el presente Reglamento y en la Ley, se aplicarán supletoriamente las disposiciones de la Ley Federal de Procedimiento Administrativo.
+En lo no previsto en el presente Reglamento y en la [Ley](articulo-1o.md), se aplicarán supletoriamente las disposiciones de la Ley Federal de Procedimiento Administrativo.

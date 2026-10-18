@@ -17,4 +17,4 @@ source_sha256: c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41
 
 # Artículo 97
 
-Las personas servidoras públicas encargadas de la aplicación y vigilancia del cumplimiento de esta Ley, pueden ser acreedoras a las sanciones administrativas aplicables en caso de incumplimiento de sus disposiciones de acuerdo con lo dispuesto en la Ley General de Responsabilidades Administrativas y demás legislación que resulte aplicable, sin perjuicio de la responsabilidad civil y penal a que haya lugar.
+Las personas servidoras públicas encargadas de la aplicación y vigilancia del cumplimiento de esta [Ley](articulo-3.md), pueden ser acreedoras a las sanciones administrativas aplicables en caso de incumplimiento de sus disposiciones de acuerdo con lo dispuesto en la Ley General de Responsabilidades Administrativas y demás legislación que resulte aplicable, sin perjuicio de la responsabilidad civil y penal a que haya lugar.

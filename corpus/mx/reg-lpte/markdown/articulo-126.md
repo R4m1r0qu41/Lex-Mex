@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 126
 
-La resolución del procedimiento administrativo de sanción debe contener: I. Las sanciones a que se haya hecho acreedora la Parte Sujeta de Obligación; II. Las obligaciones a las que se haya hecho acreedora la Parte Sujeta de Obligación y las acciones que debe llevar a cabo para corregir las violaciones o irregularidades acreditadas, y III. Los plazos para el cumplimiento de las obligaciones de la Parte Sujeta de Obligación que se deriven de la resolución.
+La resolución del procedimiento administrativo de sanción debe contener: I. Las sanciones a que se haya hecho acreedora la [Parte Sujeta de Obligación](articulo-5.md); II. Las obligaciones a las que se haya hecho acreedora la Parte Sujeta de Obligación y las acciones que debe llevar a cabo para corregir las violaciones o irregularidades acreditadas, y III. Los plazos para el cumplimiento de las obligaciones de la Parte Sujeta de Obligación que se deriven de la resolución.

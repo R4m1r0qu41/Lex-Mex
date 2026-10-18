@@ -17,7 +17,7 @@ source_sha256: 7b3cf7a0ff59f76503a97a535457c4a7dd3b1305e7a36f4fca82bd661eab1168
 
 # Artículo 58
 
-En los meses en que inicien los periodos ordinarios de sesiones del Congreso, el Secretario Técnico del Consejo deberá rendir a la Comisión Bicamaral un informe general de las actividades desarrolladas en el semestre inmediato anterior.
+En los meses en que inicien los periodos ordinarios de sesiones del Congreso, el Secretario Técnico del [Consejo](articulo-6.md) deberá rendir a la Comisión Bicamaral un informe general de las actividades desarrolladas en el semestre inmediato anterior.
 
 La Comisión Bicamaral podrá citar al Secretario Técnico para que explique el contenido del informe.
 

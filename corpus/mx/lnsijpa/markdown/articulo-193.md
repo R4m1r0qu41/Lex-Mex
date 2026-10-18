@@ -19,6 +19,6 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 Procedencia Los procesos restaurativos serán procedentes para todos los hechos señalados como delitos y podrán ser aplicados a partir de que quede firme la sentencia que imponga una medida de sanción a una persona adolescente.
 
-El Órgano Especializado en Mecanismos Alternativos se asegurará de que los casos sean revisados y, en su caso, atendidos por facilitadores especializados en los términos de esta Ley, quienes revisarán los casos y determinarán la viabilidad del proceso restaurativo, en conjunto con el Juez de Ejecución.
+El Órgano Especializado en Mecanismos Alternativos se asegurará de que los casos sean revisados y, en su caso, atendidos por facilitadores especializados en los términos de esta [Ley](articulo-3.md), quienes revisarán los casos y determinarán la viabilidad del proceso restaurativo, en conjunto con el Juez de Ejecución.
 
-Los facilitadores especializados requerirán capacitación en justicia restaurativa en ejecución de medidas de sanción, los que estarán adscritos a la Autoridad Administrativa.
+Los facilitadores especializados requerirán capacitación en justicia restaurativa en ejecución de medidas de sanción, los que estarán adscritos a la [Autoridad Administrativa](articulo-3.md).

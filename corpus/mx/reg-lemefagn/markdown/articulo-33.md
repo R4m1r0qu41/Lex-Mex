@@ -17,13 +17,13 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 33
 
-Las autoridades del Sistema, son:
+Las autoridades del [Sistema](articulo-3.md), son:
 
 I. La persona titular de la Secretaría; Fracción reformada DOF 20-03-2026
 
 II. La persona titular de la Dirección y Rectoría; Fracción reformada DOF 20-03-2026
 
-III. Las personas titulares de las Direcciones de las Instituciones Educativas; Fracción reformada DOF 20-03-2026
+III. Las personas titulares de las Direcciones de las [Instituciones Educativas](articulo-3.md); Fracción reformada DOF 20-03-2026
 
 IV. Las personas titulares de las Jefaturas de los Cursos de Informática, Archivología y de aquellos otros cursos que determine la Secretaría, y Fracción reformada DOF 27-01-2012, 20-03-2026
 

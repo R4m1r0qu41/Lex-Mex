@@ -21,7 +21,7 @@ Las personas docentes civiles, ya sea de base o contratada por servicios profesi
 
 I. Cumplir los objetivos establecidos en los planes y programas de estudio, en el marco de la materia o materias que impartan;
 
-II. Acatar las disposiciones legales y técnicas que regulan el proceso educativo dentro de las Instituciones Educativas;
+II. Acatar las disposiciones legales y técnicas que regulan el proceso educativo dentro de las [Instituciones Educativas](articulo-3.md);
 
 III. Ser ejemplo de buena conducta para la formación integral de los discentes;
 

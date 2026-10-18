@@ -17,4 +17,4 @@ source_sha256: dfe63e9a5dca843a804e5d7878671e2899f2b088534d9ed9813e9878c20b12bd
 
 # Artículo 15
 
-La persona titular de la Comandancia debe ostentar la jerarquía de General de División de Guardia Nacional y será nombrada por la persona titular de la Presidencia de la República a propuesta de la persona titular de la Secretaría. Las ausencias del Comandante se suplirán conforme lo disponga el reglamento respectivo.
+La persona titular de la Comandancia debe ostentar la jerarquía de General de División de Guardia Nacional y será nombrada por la persona titular de la Presidencia de la República a propuesta de la persona titular de la [Secretaría](articulo-2.md). Las ausencias del [Comandante](articulo-2.md) se suplirán conforme lo disponga el reglamento respectivo.

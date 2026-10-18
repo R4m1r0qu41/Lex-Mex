@@ -17,4 +17,4 @@ source_sha256: add375b17749965073df032027c6cafb7883ab25bfae2f13e34ba41b1ff24e88
 
 # Artículo 7
 
-El emblema y la denominación "Cruz Roja" en su uso protector se otorga a las personas, los bienes, las unidades, los medios de transporte y el material sanitarios, cuando desarrollan cualquiera de las actividades que les son propias en el marco de un conflicto armado; representa la inviolabilidad de la Misión Médica y recuerda a los combatientes que la Misión Médica está protegida, debe ser respetada y no debe ser atacada.
+El emblema y la denominación "Cruz Roja" en su uso protector se otorga a las personas, los bienes, las unidades, los medios de transporte y el material sanitarios, cuando desarrollan cualquiera de las actividades que les son propias en el marco de un conflicto armado; representa la inviolabilidad de la [Misión Médica](articulo-3.md) y recuerda a los combatientes que la Misión Médica está protegida, debe ser respetada y no debe ser atacada.

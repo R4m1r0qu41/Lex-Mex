@@ -15,6 +15,6 @@ source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 
 # Artículo 32 Ter
 
-La operación, mantenimiento y los horarios de funcionamiento de las aeronaves pilotadas y pilotadas a distancia de uso agrícola se regirán por las disposiciones técnico-administrativas que emita la Agencia Federal de Aviación Civil.
+La operación, mantenimiento y los horarios de funcionamiento de las aeronaves pilotadas y pilotadas a distancia de uso agrícola se regirán por las disposiciones técnico-administrativas que emita la [Agencia Federal de Aviación Civil](articulo-2.md).
 
 Artículo adicionado DOF 03-05-2023

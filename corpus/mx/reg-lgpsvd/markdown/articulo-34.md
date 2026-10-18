@@ -17,7 +17,7 @@ source_sha256: a1cc8f6043c35579235fd61d2e34977e1735af4ea6919d053f89462b97742335
 
 # Artículo 34
 
-Para la realización del Diagnóstico Participativo, podrá utilizarse lo siguiente:
+Para la realización del [Diagnóstico Participativo](articulo-3.md), podrá utilizarse lo siguiente:
 
 I. Instrumentos de investigación, encuestas, entrevistas, consultas comunitarias, auto reportes, análisis de actores, análisis de datos y estadísticas oficiales, estudios comparativos de modelos o prácticas exitosas, referencias hemerográficas, muestreos de grupos focales, mapas conceptuales, recorridos exploratorios y evaluaciones de impacto, entre otros;
 

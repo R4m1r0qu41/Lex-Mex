@@ -17,4 +17,4 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 138
 
-La Secretaría, las demás Autoridades Normalizadoras, el Centro Nacional de Metrología y los Institutos Designados de Metrología, podrán celebrar convenios de colaboración y concertación con instituciones de enseñanza superior y asociaciones o colegios de profesionales, para constituir programas de estudio y capacitación con el objeto de formar técnicos calificados y promover las actividades a que se refiere esta Ley.
+La [Secretaría](articulo-4.md), las demás [Autoridades Normalizadoras](articulo-4.md), el Centro Nacional de Metrología y los Institutos Designados de Metrología, podrán celebrar convenios de colaboración y concertación con instituciones de enseñanza superior y asociaciones o colegios de profesionales, para constituir programas de estudio y capacitación con el objeto de formar técnicos calificados y promover las actividades a que se refiere esta Ley.

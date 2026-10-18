@@ -17,7 +17,7 @@ source_sha256: b32c33fa4ed071dc8bea1ad69ce8510cdb05016967e9e4fcb60f10c6f2216628
 
 # Artículo 42
 
-El Tribunal tendrá los servidores públicos siguientes:
+El [Tribunal](articulo-2.md) tendrá los servidores públicos siguientes:
 
 I. Magistrados de Sala Superior;
 

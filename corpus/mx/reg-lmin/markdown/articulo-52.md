@@ -17,7 +17,7 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 52
 
-Cuando la solicitud de ocupación temporal o servidumbre no venga acompañada del documento con que se acredite fehacientemente la conformidad del afectado o se trate de expropiaciones, la Secretaría iniciará el procedimiento administrativo de acuerdo a lo siguiente:
+Cuando la solicitud de ocupación temporal o servidumbre no venga acompañada del documento con que se acredite fehacientemente la conformidad del afectado o se trate de expropiaciones, la [Secretaría](articulo-1o.md) iniciará el procedimiento administrativo de acuerdo a lo siguiente:
 
 I. La Secretaría dará a conocer por escrito al afectado la solicitud de expropiación, ocupación temporal o constitución de servidumbre, para que dentro de un plazo de quince días, manifieste lo que a su derecho convenga;
 
@@ -33,7 +33,7 @@ VI. Desahogada la visita, el inspector levantará acta circunstanciada que deber
 
 VII. El inspector deberá rendir a la Secretaría dictamen técnico fundado, dentro de un plazo máximo de quince días naturales siguientes al desahogo de la visita;
 
-VIII. La Secretaría, con base en el dictamen técnico, resolverá sobre la procedencia de la ocupación temporal o constitución de servidumbre señalando como monto de la indemnización el correspondiente al avalúo practicado por el INDAABIN, o bien, someterá a la consideración del Titular del Ejecutivo Federal el decreto de expropiación respectivo, y
+VIII. La Secretaría, con base en el dictamen técnico, resolverá sobre la procedencia de la ocupación temporal o constitución de servidumbre señalando como monto de la indemnización el correspondiente al avalúo practicado por el [INDAABIN](articulo-1o.md), o bien, someterá a la consideración del Titular del Ejecutivo Federal el decreto de expropiación respectivo, y
 
 IX. El plazo para emitir la resolución cuando se tenga que realizar la visita, no podrá ser mayor a seis meses a partir de la presentación de la solicitud, y se podrán admitir para su deshago las pruebas que durante el procedimiento aporten las partes.
 

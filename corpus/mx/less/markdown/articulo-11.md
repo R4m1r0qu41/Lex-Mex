@@ -17,7 +17,7 @@ source_sha256: 74f2c47c7a9282194b2972ec1366352d94f03042c6d0c7f10efde018cb9e3bfb
 
 # Artículo 11
 
-Los Organismos del Sector realizarán sus actividades conforme a las leyes que regulen su naturaleza jurídica específica, sus estatutos sociales y de acuerdo con las siguientes prácticas:
+Los [Organismos del Sector](articulo-5o.md) realizarán sus actividades conforme a las leyes que regulen su naturaleza jurídica específica, sus estatutos sociales y de acuerdo con las siguientes prácticas:
 
 I. Preeminencia del ser humano y su trabajo sobre el capital;
 
@@ -29,9 +29,9 @@ IV. Trabajo en beneficio mutuo y de la comunidad;
 
 V. Propiedad social o paritaria de los medios de producción;
 
-VI. Participación económica de los Asociados en justicia y equidad;
+VI. Participación económica de los [Asociados](articulo-5o.md) en justicia y equidad;
 
-VII. Reconocimiento del derecho a afiliarse como Asociado a las personas que presten servicios personales en los Organismos del Sector, sobre la base de su capacitación en los principios y valores del Sector, y el cumplimiento de los requisitos que establezcan sus bases constitutivas;
+VII. Reconocimiento del derecho a afiliarse como Asociado a las personas que presten servicios personales en los Organismos del Sector, sobre la base de su capacitación en los principios y valores del [Sector](articulo-5o.md), y el cumplimiento de los requisitos que establezcan sus bases constitutivas;
 
 VIII. Destino de excedentes a la prestación de servicios de carácter social, al crecimiento de sus reservas y fondos, y a reintegrar a sus Asociados parte de los mismos en proporción al uso de los servicios o a la participación en el trabajo del Organismo del Sector;
 

@@ -17,4 +17,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 267
 
-La protección que esta Ley concede a la denominación de origen e indicación geográfica se inicia con la declaración que al efecto emita el Instituto.
+La protección que esta [Ley](articulo-4.md) concede a la denominación de origen e indicación geográfica se inicia con la declaración que al efecto emita el [Instituto](articulo-4.md).

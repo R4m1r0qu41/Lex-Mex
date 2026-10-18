@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcsaeps:term:envase-primario",
+    "term": "Envase primario",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mcsaeps",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcsaeps:article:1268",
+    "fraction": "I",
+    "start_char": 49,
+    "end_char": 221,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcsaeps:term:envase-secundario",
+    "term": "Envase secundario",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mcsaeps",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcsaeps:article:1268",
+    "fraction": "II",
+    "start_char": 221,
+    "end_char": 359,
+    "basis": "express_definition"
+  }
+]

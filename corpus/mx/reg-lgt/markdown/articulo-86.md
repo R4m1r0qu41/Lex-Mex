@@ -17,7 +17,7 @@ source_sha256: 6680a58c98673518aee46582b3137d28987c275785d1f0c97295f0d89c4b692b
 
 # Artículo 86
 
-El Sistema de Clasificación Hotelera tendrá, cuando menos, los siguientes objetivos:
+El [Sistema de Clasificación Hotelera](articulo-2.md) tendrá, cuando menos, los siguientes objetivos:
 
 I. Ordenar, estandarizar y homologar, a través de procesos y un instrumento de clasificación, la categoría de los establecimientos hoteleros del país; Fracción reformada DOF 25-11-2025
 

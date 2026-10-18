@@ -17,4 +17,4 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 83
 
-La responsabilidad sobre el contenido de los Estándares, así como del cumplimiento con lo previsto en esta Ley y su Reglamento, recaerá exclusivamente en los Organismos Nacionales de Estandarización, sujetos facultados para estandarizar o, en su caso, las Autoridades Normalizadoras que hayan emitido los Estándares.
+La responsabilidad sobre el contenido de los [Estándares](articulo-4.md), así como del cumplimiento con lo previsto en esta Ley y su Reglamento, recaerá exclusivamente en los Organismos Nacionales de Estandarización, sujetos facultados para estandarizar o, en su caso, las [Autoridades Normalizadoras](articulo-4.md) que hayan emitido los Estándares.

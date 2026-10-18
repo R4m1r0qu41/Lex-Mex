@@ -15,4 +15,4 @@ source_sha256: 8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca
 
 # SEGUNDO
 
-Las sanciones de “pase a depósito” conforme a la Ley de Disciplina de la Armada de México en vigor hasta el 13 de diciembre de 2002, para efectos de evaluación de la conducta militar del personal en términos del presente Reglamento, se entenderán como sanciones de “pase a disposición en espera de órdenes”, de conformidad con la Ley de Disciplina para el Personal de la Armada de México en vigor.
+Las sanciones de “pase a depósito” conforme a la [Ley](articulo-5.md) de Disciplina de la Armada de México en vigor hasta el 13 de diciembre de 2002, para efectos de evaluación de la conducta militar del personal en términos del presente Reglamento, se entenderán como sanciones de “pase a disposición en espera de órdenes”, de conformidad con la Ley de Disciplina para el Personal de la Armada de México en vigor.

@@ -17,13 +17,13 @@ source_sha256: b32c33fa4ed071dc8bea1ad69ce8510cdb05016967e9e4fcb60f10c6f2216628
 
 # Artículo 23
 
-Son facultades de la Junta de Gobierno y Administración, las siguientes:
+Son facultades de la [Junta](articulo-2.md) de Gobierno y Administración, las siguientes:
 
-I. Proponer, para aprobación del Pleno General, el proyecto de Reglamento Interior del Tribunal;
+I. Proponer, para aprobación del Pleno General, el proyecto de Reglamento Interior del [Tribunal](articulo-2.md);
 
 II. Expedir los acuerdos necesarios para el buen funcionamiento del Tribunal;
 
-III. Aprobar la formulación del proyecto de presupuesto del Tribunal, para los efectos señalados en el artículo [16](articulo-16.md), fracción II de esta Ley; IV. Realizar la evaluación interna de los servidores públicos que le requiera el Pleno General, para los efectos del artículo [16](articulo-16.md), fracción VI, de esta Ley. La evaluación se basará en los elementos objetivos y datos estadísticos sobre el desempeño del cargo, de conformidad con las disposiciones aplicables;
+III. Aprobar la formulación del proyecto de presupuesto del Tribunal, para los efectos señalados en el artículo [16](articulo-16.md), fracción II de esta [Ley](articulo-2.md); IV. Realizar la evaluación interna de los servidores públicos que le requiera el Pleno General, para los efectos del artículo [16](articulo-16.md), fracción VI, de esta Ley. La evaluación se basará en los elementos objetivos y datos estadísticos sobre el desempeño del cargo, de conformidad con las disposiciones aplicables;
 
 V. Llevar a cabo los estudios necesarios para determinar las regiones, sedes y número de las Salas Regionales; las sedes y número de las Salas Auxiliares; la competencia material y territorial de las Salas Especializadas, así como las materias específicas de competencia de las Secciones de la Sala Superior y los criterios conforme a los cuales se ejercerá la facultad de atracción, de acuerdo con lo que establezcan las disposiciones aplicables;
 

@@ -17,4 +17,4 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 96
 
-El Instituto de Seguridad Social destinará para los gastos de operación y administración del Fondo hasta un máximo del 2.0% (dos punto cero por ciento) de las aportaciones anuales correspondientes al seguro colectivo de retiro del fondo del seguro colectivo de retiro, para lo cual informará a la Junta Directiva, en los periodos que se determine, sobre los resultados de la administración del fondo.
+El [Instituto](articulo-4o.md) de Seguridad Social destinará para los gastos de operación y administración del Fondo hasta un máximo del 2.0% (dos punto cero por ciento) de las aportaciones anuales correspondientes al seguro colectivo de retiro del fondo del seguro colectivo de retiro, para lo cual informará a la [Junta](articulo-4o.md) Directiva, en los periodos que se determine, sobre los resultados de la administración del fondo.

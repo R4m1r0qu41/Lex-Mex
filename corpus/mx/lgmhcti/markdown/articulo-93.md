@@ -17,7 +17,7 @@ source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 
 # Artículo 93
 
-La dependencia o entidad coordinadora del sector que corresponda presidirá el Órgano de Gobierno del Centro Público de que se trate, cuya integración se regirá por su instrumento de creación. El Consejo Nacional, la Secretaría de Educación Pública y la Secretaría de Hacienda y Crédito Público formarán parte de los Órganos de Gobierno, y una persona representante de la Secretaría de la Función Pública asistirá a las sesiones en su carácter de Comisaria, sin perjuicio de la legislación sectorial aplicable. En todo caso, la Administración Pública Federal deberá tener una representación significativamente mayoritaria en los Órganos de Gobierno.
+La dependencia o entidad coordinadora del sector que corresponda presidirá el Órgano de Gobierno del [Centro Público](articulo-4.md) de que se trate, cuya integración se regirá por su instrumento de creación. El [Consejo Nacional](articulo-4.md), la Secretaría de Educación Pública y la Secretaría de Hacienda y Crédito Público formarán parte de los Órganos de Gobierno, y una persona representante de la Secretaría de la Función Pública asistirá a las sesiones en su carácter de Comisaria, sin perjuicio de la legislación sectorial aplicable. En todo caso, la Administración Pública Federal deberá tener una representación significativamente mayoritaria en los Órganos de Gobierno.
 
 Los Órganos de Gobierno sesionarán válidamente con la asistencia de por lo menos la mitad más una de las personas que lo integren y siempre que la mayoría de quienes asisten sean representantes de la Administración Pública Federal. Las resoluciones se tomarán por mayoría de las personas integrantes presentes y la persona presidenta tendrá voto de calidad en caso de empate.
 
@@ -27,7 +27,7 @@ I. Aprobar, a propuesta de la persona titular de la Dirección General o equival
 
 II. Establecer las políticas generales de los Centros Públicos, así como las prioridades y criterios para el ejercicio presupuestario y de gasto público que les corresponda, en congruencia con los fines, principios y bases de la política pública;
 
-III. Aprobar y evaluar, en el marco de las disposiciones jurídicas aplicables, a propuesta de la persona titular de la Dirección General o equivalente, los programas y proyectos sustantivos, considerando su calidad y factibilidad, así como la opinión de la Asamblea del Personal del Centro Público de que se trate;
+III. Aprobar y evaluar, en el marco de las disposiciones jurídicas aplicables, a propuesta de la persona titular de la Dirección General o equivalente, los programas y proyectos sustantivos, considerando su calidad y factibilidad, así como la opinión de la [Asamblea del Personal](articulo-4.md) del Centro Público de que se trate;
 
 IV. Aprobar, a propuesta de la persona titular de la Dirección General o equivalente, la distribución del presupuesto anual definitivo del Centro Público, así como el programa de inversiones, de acuerdo con el monto total autorizado de su presupuesto;
 
@@ -45,4 +45,4 @@ XI. Aprobar anualmente los informes de desempeño, los presupuestos y los estado
 
 XII. Establecer, a propuesta de la persona titular de la Dirección General o equivalente, las bases y criterios generales de confidencialidad que deberá observar cualquier persona vinculada a un Centro Público que concluya su empleo, cargo, comisión o actividad, para el eventual uso y aprovechamiento de la información que hubiese conocido o generado durante o con motivo de su desempeño, en los casos en que una vez separada del Centro Público decida colaborar en forma inmediata con otra dependencia o entidad, pública o privada, de conformidad con la normativa aplicable, y
 
-XIII. Las demás que se prevean en esta Ley y el instrumento de creación respectivo.
+XIII. Las demás que se prevean en esta [Ley](articulo-4.md) y el instrumento de creación respectivo.

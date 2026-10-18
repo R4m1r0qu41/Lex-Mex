@@ -17,4 +17,4 @@ source_sha256: d9ffbbf8f19b54a93ff577abb1266e4be1316d935e79fad655242955fd80ff70
 
 # Artículo 18
 
-La Secretaría otorgará permiso para vertimiento a personas físicas o morales de nacionalidad mexicana o extranjeras, previo el cumplimiento de los requisitos que se establecen en la presente Ley, conforme a las Normas Oficiales Mexicanas, o en su caso, en función de la evaluación de los resultados de los estudios técnicos e información científica aplicable en la materia, que deberá presentar el interesado.
+La [Secretaría](articulo-2.md) otorgará permiso para vertimiento a personas físicas o morales de nacionalidad mexicana o extranjeras, previo el cumplimiento de los requisitos que se establecen en la presente [Ley](articulo-2.md), conforme a las Normas Oficiales Mexicanas, o en su caso, en función de la evaluación de los resultados de los estudios técnicos e información científica aplicable en la materia, que deberá presentar el interesado.

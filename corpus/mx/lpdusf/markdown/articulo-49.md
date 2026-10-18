@@ -17,7 +17,7 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 49
 
-La Comisión Nacional, en el ámbito de su competencia y bajo los términos de los convenios de intercambio de información a los que se refiere el artículo [12](articulo-12.md) de la presente Ley, solicitará a las autoridades financieras que tengan a su cargo otorgar las autorizaciones para el funcionamiento y operación de las Instituciones Financieras, los siguientes documentos: Párrafo reformado DOF 10-01-2014
+La [Comisión Nacional](articulo-2o.md), en el ámbito de su competencia y bajo los términos de los convenios de intercambio de información a los que se refiere el artículo [12](articulo-12.md) de la presente Ley, solicitará a las autoridades financieras que tengan a su cargo otorgar las autorizaciones para el funcionamiento y operación de las [Instituciones Financieras](articulo-2o.md), los siguientes documentos: Párrafo reformado DOF 10-01-2014
 
 I. Copia de la escritura constitutiva de la Institución Financiera y sus reformas o modificaciones;
 

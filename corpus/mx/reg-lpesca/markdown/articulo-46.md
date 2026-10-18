@@ -29,7 +29,7 @@ III. Nombre de la especie o especies que pretendan capturarse, y
 
 IV. Delimitar el área de operación donde se llevarán a cabo los trabajos.
 
-La Secretaría resolverá dichas solicitudes de permiso dentro de un plazo de 15 días hábiles, bajo el procedimiento siguiente:
+La [Secretaría](articulo-2o.md) resolverá dichas solicitudes de permiso dentro de un plazo de 15 días hábiles, bajo el procedimiento siguiente:
 
 I. La Secretaría integrará el expediente en un plazo de 5 días hábiles, dentro del cual requerirá al interesado la información o documentación faltante. De no requerir al interesado subsane las deficiencias que existieren, se considerará integrado el expediente, y
 

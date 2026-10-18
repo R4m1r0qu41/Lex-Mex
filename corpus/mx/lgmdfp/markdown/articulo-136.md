@@ -17,4 +17,4 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 136
 
-La Comisión Ejecutiva y las Comisiones de Víctimas deben proporcionar, en el ámbito de sus atribuciones, medidas de ayuda, asistencia y atención, por sí mismas o en coordinación con otras instituciones competentes, en los términos del presente Título y de la Ley General de Víctimas.
+La [Comisión Ejecutiva](articulo-4.md) y las [Comisiones de Víctimas](articulo-4.md) deben proporcionar, en el ámbito de sus atribuciones, medidas de ayuda, asistencia y atención, por sí mismas o en coordinación con otras instituciones competentes, en los términos del presente Título y de la Ley General de [Víctimas](articulo-4.md).

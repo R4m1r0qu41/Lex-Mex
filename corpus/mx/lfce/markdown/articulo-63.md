@@ -27,8 +27,8 @@ III. Los efectos de la concentración en el mercado relevante con respecto a los
 
 IV. La participación de los involucrados en la concentración en otros agentes económicos y la participación de otros agentes económicos en los involucrados en la concentración, siempre que dichos agentes económicos participen directa o indirectamente en el mercado relevante o en mercados relacionados. Cuando no sea posible identificar dicha participación, esta circunstancia deberá quedar plenamente justificada;
 
-V. Los elementos que aporten los Agentes Económicos para acreditar la mayor eficiencia del mercado que se lograría derivada de la concentración y que incidirá favorablemente en el proceso de competencia y libre concurrencia.
+V. Los elementos que aporten los [Agentes Económicos](articulo-3.md) para acreditar la mayor eficiencia del mercado que se lograría derivada de la concentración y que incidirá favorablemente en el proceso de competencia y libre concurrencia.
 
-Para dichos efectos, en términos de las Disposiciones Regulatorias que al efecto se emitan, el Agente Económico deberá demostrar que las ganancias en eficiencia del mercado que se derivarán específicamente de la concentración superarán de forma continuada sus posibles efectos anticompetitivos en dicho mercado y resultarán en una mejora al bienestar del consumidor, y Fracción reformada DOF 16-07-2025
+Para dichos efectos, en términos de las [Disposiciones Regulatorias](articulo-3.md) que al efecto se emitan, el Agente Económico deberá demostrar que las ganancias en eficiencia del mercado que se derivarán específicamente de la concentración superarán de forma continuada sus posibles efectos anticompetitivos en dicho mercado y resultarán en una mejora al bienestar del consumidor, y Fracción reformada DOF 16-07-2025
 
 VI. Los demás criterios e instrumentos analíticos que se establezcan en las Disposiciones Regulatorias y los criterios técnicos.

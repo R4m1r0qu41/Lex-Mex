@@ -17,4 +17,4 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # Artículo 102
 
-La Secretaría, aplicando criterios de sustentabilidad, regulará el crecimiento ordenado de la acuacultura, en coordinación con las autoridades competentes y los gobiernos estatales y municipales, atendiendo principalmente a las zonas con potencial para desarrollar esta actividad, mediante la expedición de concesiones, permisos o autorizaciones por especie o grupos de especies.
+La [Secretaría](articulo-2o.md), aplicando criterios de sustentabilidad, regulará el crecimiento ordenado de la acuacultura, en coordinación con las autoridades competentes y los gobiernos estatales y municipales, atendiendo principalmente a las zonas con potencial para desarrollar esta actividad, mediante la expedición de concesiones, permisos o autorizaciones por especie o grupos de especies.

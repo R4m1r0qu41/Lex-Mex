@@ -17,4 +17,4 @@ source_sha256: 4195c0740ad46978a8b0f2d43f0ac6d77e46b0216bd6f756950b1a050044ce98
 
 # Artículo 55
 
-El procedimiento de Identificación debe incluir la participación de la AFAC mediante la declaratoria de Alertamiento aéreo que realice el Centro, a través del Personal Técnico de Operaciones de Vigilancia Aérea, a efecto de que se ejecuten las acciones administrativas que correspondan.
+El procedimiento de Identificación debe incluir la participación de la [AFAC](articulo-4.md) mediante la declaratoria de Alertamiento aéreo que realice el Centro, a través del [Personal Técnico de Operaciones de Vigilancia Aérea](articulo-4.md), a efecto de que se ejecuten las acciones administrativas que correspondan.

@@ -15,7 +15,7 @@ source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 
 # Artículo 29
 
-Las aeronaves para uso particular extranjeras pueden sobrevolar el espacio aéreo nacional y realizar aterrizajes y despegues en territorio mexicano, siempre que cuenten con la autorización de la Agencia Federal de Aviación Civil. Párrafo reformado DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicado íntegro sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62)
+Las aeronaves para uso particular extranjeras pueden sobrevolar el espacio aéreo nacional y realizar aterrizajes y despegues en territorio mexicano, siempre que cuenten con la autorización de la [Agencia Federal de Aviación Civil](articulo-2.md). Párrafo reformado DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicado íntegro sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62)
 
 El primer aterrizaje de dichas aeronaves debe hacerse en un aeropuerto internacional, donde debe tramitarse la autorización correspondiente y cumplirse con los requisitos establecidos en las disposiciones técnico-administrativas aplicables. Párrafo adicionado DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Reformado DOF 03-05-2023 (Ed. vesp., páginas 17 a 62)
 

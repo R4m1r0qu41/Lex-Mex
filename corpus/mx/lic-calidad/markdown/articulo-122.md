@@ -17,4 +17,4 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 122
 
-Los usuarios o poseedores de los instrumentos para medir tienen la obligación de permitir que cualquier persona afectada por el resultado de una medición se cerciore de que los procedimientos empleados en ella son los apropiados y corresponden a lo dispuesto en las Normas Oficiales Mexicanas aplicables y los Estándares ahí previstos.
+Los usuarios o poseedores de los instrumentos para medir tienen la obligación de permitir que cualquier persona afectada por el resultado de una medición se cerciore de que los procedimientos empleados en ella son los apropiados y corresponden a lo dispuesto en las [Normas Oficiales Mexicanas](articulo-4.md) aplicables y los [Estándares](articulo-4.md) ahí previstos.

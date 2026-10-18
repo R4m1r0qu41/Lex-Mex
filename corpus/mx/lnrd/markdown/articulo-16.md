@@ -15,7 +15,7 @@ source_sha256: 0a9852297132d8972d0c2f77e1b67d614bd296632109065e703bd09254187aea
 
 # Artículo 16
 
-Las condiciones y perfiles de acceso al Registro serán determinados por la Secretaría, conforme a los siguientes niveles:
+Las condiciones y perfiles de acceso al [Registro](articulo-2.md) serán determinados por la [Secretaría](articulo-2.md), conforme a los siguientes niveles:
 
 I. Administrador: perfil orientado a sujetos obligados que tienen acceso a todas las opciones del Registro y que realizan funciones adicionales a las operativas, como es el caso de altas, bajas y cambios a catálogos, consultas, reportes especiales y configuración de funciones del Sistema;
 

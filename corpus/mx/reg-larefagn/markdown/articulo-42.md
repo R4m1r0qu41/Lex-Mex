@@ -17,7 +17,7 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 42
 
-Son causas de exclusión para participar en las Promociones correspondientes:
+Son causas de exclusión para participar en las [Promociones](articulo-5.md) correspondientes:
 
 I. Estar comprendido en cualesquiera de las situaciones previstas en el artículo [35](../../larefam/markdown/articulo-35.md) de la Ley;
 
@@ -33,4 +33,4 @@ VI. Haber renunciado, aplazado, reprobado o no terminar por cualquier motivo imp
 
 VII. No acreditar buena salud; VIII. En los casos del personal especialista, carecer de certificado, título o diploma, para comprobar su carácter de técnico o profesionista, cuando no cuente con escalafón propio, y
 
-IX. En los casos del personal especialista que haya obtenido sus conocimientos empíricamente, no contar con el dictamen aprobatorio o de la acreditación por parte de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército, Fuerza Aérea y Guardia Nacional respecto de sus capacidades y habilidades, con base en el artículo [21](../../larefam/markdown/articulo-21.md) de la Ley. Fracción reformada DOF 20-03-2026
+IX. En los casos del personal especialista que haya obtenido sus conocimientos empíricamente, no contar con el dictamen aprobatorio o de la acreditación por parte de la [Dirección](articulo-5.md) General de Educación Militar y Rectoría de la Universidad del Ejército, Fuerza Aérea y Guardia Nacional respecto de sus capacidades y habilidades, con base en el artículo [21](../../larefam/markdown/articulo-21.md) de la Ley. Fracción reformada DOF 20-03-2026

@@ -17,4 +17,4 @@ source_sha256: 1405f36fd836ff74d059ebe7e50ae439cbb9e5e291a317514667f34a26f72a23
 
 # Artículo 102
 
-El Centro Nacional de Control del Gas Natural debe prestar los servicios de Transporte y Almacenamiento en la infraestructura de la que sea titular como persona Permisionaria. Con independencia de su actividad como persona Permisionaria de Transporte y de Almacenamiento, el Centro Nacional de Control del Gas Natural debe sujetarse a las reglas de operación que emita la Comisión Nacional de Energía para los gestores de los Sistemas Integrados.
+El Centro Nacional de Control del [Gas Natural](articulo-5.md) debe prestar los servicios de [Transporte](articulo-5.md) y [Almacenamiento](articulo-5.md) en la infraestructura de la que sea titular como persona [Permisionaria](articulo-5.md). Con independencia de su actividad como persona Permisionaria de Transporte y de Almacenamiento, el Centro Nacional de Control del Gas Natural debe sujetarse a las reglas de operación que emita la Comisión Nacional de Energía para los gestores de los [Sistemas Integrados](articulo-5.md).

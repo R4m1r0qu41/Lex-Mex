@@ -19,7 +19,7 @@ source_sha256: 43723ba379e128c1a1c1be4b085ecc870946cdec43d56f83e7314c077361368f
 
 La habilitación para ejercer como corredor se dejará sin efectos por cualquiera de las causas siguientes:
 
-I.- No iniciar sus funciones dentro de los plazos señalados en el artículo [12](../../lfcp/markdown/articulo-12.md) de la Ley;
+I.- No iniciar sus funciones dentro de los plazos señalados en el artículo [12](../../lfcp/markdown/articulo-12.md) de la [Ley](articulo-2o.md);
 
 II.- Renuncia expresa;
 

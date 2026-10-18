@@ -23,7 +23,7 @@ I.- Enajenación a título oneroso;
 
 II.- Permuta con las entidades; los gobiernos de las entidades federativas y de los municipios o con sus respectivas entidades paraestatales, o con los particulares, respecto de inmuebles que por su ubicación, características y aptitudes satisfagan necesidades de las partes; Fracción reformada DOF 19-01-2018
 
-III.- Enajenación a título oneroso o gratuito, de conformidad con los criterios que determine la Secretaría, atendiendo la opinión de la Secretaría de Desarrollo Social, a favor de instituciones públicas que tengan a su cargo resolver problemas de habitación popular para atender necesidades colectivas;
+III.- Enajenación a título oneroso o gratuito, de conformidad con los criterios que determine la [Secretaría](articulo-2.md), atendiendo la opinión de la Secretaría de Desarrollo Social, a favor de instituciones públicas que tengan a su cargo resolver problemas de habitación popular para atender necesidades colectivas;
 
 IV.- Venta a los propietarios de los predios colindantes, de los terrenos que habiendo constituido vías públicas hubiesen sido retirados de dicho servicio, o los bordos, zanjas, setos, vallados u otros elementos divisorios que les hayan servido de límite. Si fueren varios los colindantes y desearen ejercer este derecho, la venta se hará a prorrata;
 
@@ -49,7 +49,7 @@ XIV.- Arrendamiento en forma total o parcial, y
 
 XV.- Los demás actos de carácter oneroso que se justifiquen en términos de esta Ley o de las leyes aplicables.
 
-Los inmuebles federales considerados como monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, no podrán ser objeto de desincorporación del régimen de dominio público de la Federación.
+Los inmuebles federales considerados como monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, no podrán ser objeto de desincorporación del régimen de dominio público de la [Federación](articulo-2.md).
 
 Los inmuebles federales señalados en el párrafo anterior, con excepción de aquéllos nacionalizados a que se refiere el artículo Decimoséptimo Transitorio de la Constitución Política de los Estados Unidos Mexicanos, antes o después de su promulgación, podrán ser otorgados en comodato a favor de personas de derecho privado que no tengan fines de lucro, siempre y cuando garanticen su uso social, y se comprometan a absorber los costos de restauración, conservación y mantenimiento necesarios y a dar a los inmuebles un uso compatible con su naturaleza.
 

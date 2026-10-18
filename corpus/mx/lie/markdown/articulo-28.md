@@ -17,6 +17,6 @@ source_sha256: 14cd17e37e96e766c8ab74950c71186d579c0ba6cc10ac9e8b06f6194af7d953
 
 # Artículo 28
 
-La Comisión deberá resolver las solicitudes sometidas a su consideración dentro de un plazo que no excederá de 45 días hábiles contados a partir de la fecha de presentación de la solicitud respectiva, en los términos establecidos en el Reglamento de la presente Ley.
+La [Comisión](articulo-2o.md) deberá resolver las solicitudes sometidas a su consideración dentro de un plazo que no excederá de 45 días hábiles contados a partir de la fecha de presentación de la solicitud respectiva, en los términos establecidos en el Reglamento de la presente Ley.
 
-En caso de que la Comisión no resuelva en el plazo señalado, la solicitud se considerará aprobada en los términos presentados. A petición expresa del interesado, la Secretaría deberá expedir la autorización correspondiente.
+En caso de que la Comisión no resuelva en el plazo señalado, la solicitud se considerará aprobada en los términos presentados. A petición expresa del interesado, la [Secretaría](articulo-2o.md) deberá expedir la autorización correspondiente.

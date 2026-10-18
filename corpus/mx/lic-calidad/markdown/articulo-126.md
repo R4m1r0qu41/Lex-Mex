@@ -17,4 +17,4 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 126
 
-Los instrumentos para medir sujetos a una Norma Oficial Mexicana en materia de metrología legal y que cuenten con aprobación de modelo o prototipo en términos del artículo [124](articulo-124.md) de esta Ley, deben cumplir con los procedimientos para la Evaluación de la Conformidad previstos en esas normas.
+Los instrumentos para medir sujetos a una [Norma Oficial Mexicana](articulo-4.md) en materia de metrología legal y que cuenten con aprobación de modelo o prototipo en términos del artículo [124](articulo-124.md) de esta Ley, deben cumplir con los procedimientos para la [Evaluación de la Conformidad](articulo-4.md) previstos en esas normas.

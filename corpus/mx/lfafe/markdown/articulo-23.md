@@ -17,6 +17,6 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 23
 
-Las armas que formen parte de una colección pueden enajenarse como tal, o por unidades, en los términos de las disposiciones de esta Ley y previo permiso escrito de la Secretaría.
+Las armas que formen parte de una colección pueden enajenarse como tal, o por unidades, en los términos de las disposiciones de esta [Ley](articulo-1o-Bis.md) y previo permiso escrito de la [Secretaría](articulo-1o-Bis.md).
 
 Artículo reformado DOF 29-05-2025

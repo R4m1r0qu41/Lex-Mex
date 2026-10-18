@@ -17,4 +17,4 @@ source_sha256: bcc21844355854fe331c842c21436d721d6c2856b5c5986715fe39f4a845b317
 
 # Artículo 27
 
-Las reglas de funcionamiento y organización del Consejo Ciudadano se establecerán en el Estatuto Orgánico.
+Las reglas de funcionamiento y organización del [Consejo Ciudadano](articulo-2.md) se establecerán en el [Estatuto Orgánico](articulo-2.md).

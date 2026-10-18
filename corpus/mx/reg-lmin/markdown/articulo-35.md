@@ -17,13 +17,13 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 35
 
-Para efecto de lo dispuesto en el inciso b) de la fracción II del artículo [13 BIS](../../lmin/markdown/articulo-13-BIS.md) de la Ley, los requisitos que deberán acreditar los participantes son los siguientes:
+Para efecto de lo dispuesto en el inciso b) de la fracción II del artículo [13 BIS](../../lmin/markdown/articulo-13-BIS.md) de la [Ley](articulo-1o.md), los requisitos que deberán acreditar los participantes son los siguientes:
 
 I. Capacidad jurídica:
 
 a) Ser de nacionalidad mexicana tratándose de personas físicas;
 
-b) Estar inscritos en el Registro Agrario Nacional, en el caso de ejidos o comunidades agrarias, mediante la constancia respectiva;
+b) Estar inscritos en el [Registro](articulo-1o.md) Agrario Nacional, en el caso de ejidos o comunidades agrarias, mediante la constancia respectiva;
 
 c) Comprobar que cumplen con las condiciones y requerimientos establecidos en el artículo 11 de la Ley si se trata de personas morales, por medio de testimonio original o, en su caso, copia certificada notarial de su escritura constitutiva o de la que consigne sus estatutos vigentes, y
 
@@ -39,7 +39,7 @@ c) Tener celebrado un contrato de prestación de servicios o de obra con una emp
 
 Para comprobar los casos mencionados en los incisos a) y b) anteriores, se presentará el curriculum del participante o del personal técnico a su servicio, según el caso, y respecto del inciso c), copia certificada del contrato celebrado.
 
-Para efectos de esta fracción, se establecerá en las bases del concurso, el procedimiento mediante el cual la Secretaría calificará y determinará que los interesados acreditan, en su caso, la capacidad técnica, y
+Para efectos de esta fracción, se establecerá en las bases del concurso, el procedimiento mediante el cual la [Secretaría](articulo-1o.md) calificará y determinará que los interesados acreditan, en su caso, la capacidad técnica, y
 
 III. Capacidad económica: un valor monetario equivalente en moneda nacional a la inversión mínima en obras y trabajos de exploración prevista en el artículo [59](articulo-59.md), o su actualización conforme el artículo [60](articulo-60.md), ambos del presente Reglamento, para el primer año. Para efectos de su comprobación:
 

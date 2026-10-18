@@ -17,4 +17,4 @@ source_sha256: 9080231242a59cbd78d30fb747864bc45cd63d3c4978f37086b01e45343f4244
 
 # Artículo 68
 
-Para los efectos del artículo [125](../../lepepm/markdown/articulo-125.md), párrafo tercero de la Ley, el contrato de prestación de servicios profesionales que se celebre con la Persona Comisaria designada, se debe formalizar entre esta y Petróleos Mexicanos.
+Para los efectos del artículo [125](../../lepepm/markdown/articulo-125.md), párrafo tercero de la [Ley](articulo-2.md), el contrato de prestación de servicios profesionales que se celebre con la [Persona Comisaria](articulo-2.md) designada, se debe formalizar entre esta y Petróleos Mexicanos.

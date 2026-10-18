@@ -17,4 +17,4 @@ source_sha256: 4bcc982b308b0813469b30db61b53d5a2c41e5a7240b3b1cac2f1aeeb2c00a2e
 
 # Artículo 50
 
-La generación de energía eléctrica en términos del artículo 30 de la Ley bajo la figura autoconsumo, puede ser de la siguiente forma: I. Aislado, o II. Interconectado. Esta figura requiere la obtención del permiso de generación correspondiente y está sujeta al cumplimiento de lo previsto en las disposiciones administrativas en materia de autoconsumo que emita la CNE.
+La generación de energía eléctrica en términos del artículo 30 de la [Ley](articulo-2.md) bajo la figura autoconsumo, puede ser de la siguiente forma: I. Aislado, o II. Interconectado. Esta figura requiere la obtención del permiso de generación correspondiente y está sujeta al cumplimiento de lo previsto en las disposiciones administrativas en materia de autoconsumo que emita la CNE.

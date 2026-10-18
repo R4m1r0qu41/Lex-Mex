@@ -29,7 +29,7 @@ c. Los límites político-administrativos;
 
 d. Las áreas de atención prioritaria;
 
-e. Las áreas de desarrollo de la industria de hidrocarburos, la cual es de exclusiva jurisdicción federal, en los términos previstos en el artículo 95 de la Ley de Hidrocarburos, y
+e. Las áreas de desarrollo de la industria de hidrocarburos, la cual es de exclusiva jurisdicción federal, en los términos previstos en el artículo 95 de la [Ley](articulo-3o.md) de Hidrocarburos, y
 
 f. La demás información necesaria para lograr la etapa de caracterización; Fracción reformada DOF 31-10-2014
 

@@ -15,4 +15,4 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # CUARTO
 
-Los interesados utilizarán los formatos, en un plazo no mayor a 30 días naturales, contados a partir de la fecha en que la Secretaría publique dichos formatos.
+Los interesados utilizarán los formatos, en un plazo no mayor a 30 días naturales, contados a partir de la fecha en que la [Secretaría](articulo-2o.md) publique dichos formatos.

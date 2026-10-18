@@ -17,7 +17,7 @@ source_sha256: 23dcee090bbe0c4fb06c75d084cb65ce0b2e8f72a8d082e7059504412bde1614
 
 # Artículo 64
 
-La Secretaría, a través del SNICS y de las delegaciones estatales, en los procedimientos administrativos para la imposición de sanciones por las infracciones que establece la Ley, podrá adoptar, además, las siguientes medidas provisionales: I.- Ordenar el retiro de la circulación o impedir ésta, respecto de variedades vegetales o material de propagación, con los que se infrinjan los derechos tutelados por la Ley;
+La [Secretaría](articulo-2o.md), a través del [SNICS](articulo-2o.md) y de las delegaciones estatales, en los procedimientos administrativos para la imposición de sanciones por las infracciones que establece la [Ley](articulo-2o.md), podrá adoptar, además, las siguientes medidas provisionales: I.- Ordenar el retiro de la circulación o impedir ésta, respecto de variedades vegetales o material de propagación, con los que se infrinjan los derechos tutelados por la Ley;
 
 II.- Ordenar que se retiren de la circulación los objetos, empaques, envases, embalajes, papelería, material publicitario y similares, con los que se infrinja alguno de los derechos tutelados por la Ley;
 

@@ -17,7 +17,7 @@ source_sha256: 0ad7a7b6d7dffd7d9a582d74ebd6fc43e6baa79f71801a73dc70d1b77c414ded
 
 # Artículo 2o
 
-Para los efectos de este Reglamento, además de lo establecido en la Ley de Organizaciones Ganaderas, se entiende por:
+Para los efectos de este [Reglamento](articulo-2o.md), además de lo establecido en la Ley de Organizaciones Ganaderas, se entiende por:
 
 I. Asociación: asociación ganadera local general o especializada;
 
@@ -35,7 +35,7 @@ VII. Ganadero: persona física o moral que se dedica a la cría, producción, fo
 
 VIII. Lineamientos Técnico-Genealógicos: disposiciones emitidas por la Secretaría en donde se indican los procedimientos para el registro genealógico y productivo de los animales domésticos; IX. Marca: muesca o arete en las orejas del animal que lo identifica y señala a su propietario;
 
-X. Organizaciones ganaderas: las asociaciones ganaderas locales generales y especializadas, las uniones ganaderas regionales generales o estatales y especializadas y la Confederación Nacional de Organizaciones Ganaderas, todas ellas debidamente constituidas en términos de la Ley;
+X. Organizaciones ganaderas: las asociaciones ganaderas locales generales y especializadas, las uniones ganaderas regionales generales o estatales y especializadas y la [Confederación](articulo-2o.md) Nacional de Organizaciones Ganaderas, todas ellas debidamente constituidas en términos de la Ley;
 
 XI. Organización nacional de productores por rama especializada: organización que cuenta con presencia en más de cinco entidades federativas y que agrupa a ganaderos criadores de ganado de registro que se rigen por los lineamientos Técnico-Genealógicos;
 

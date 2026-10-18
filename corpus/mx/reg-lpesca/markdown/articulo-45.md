@@ -19,7 +19,7 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 Son obligaciones de los concesionarios:
 
-I. Extraer o capturar exclusivamente las especies autorizadas, en las zonas determinadas por la Secretaría;
+I. Extraer o capturar exclusivamente las especies autorizadas, en las zonas determinadas por la [Secretaría](articulo-2o.md);
 
 II. Colaborar en las tareas de exploración que la Secretaría determine;
 

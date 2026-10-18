@@ -29,4 +29,4 @@ IV.- Las manifestaciones u objeciones a cada uno de los puntos de la solicitud d
 
 VI.- Los fundamentos de derecho.
 
-Para la presentación del escrito y el ofrecimiento de pruebas será aplicable lo dispuesto en el artículo [331](articulo-331.md) de esta Ley.
+Para la presentación del escrito y el ofrecimiento de pruebas será aplicable lo dispuesto en el artículo [331](articulo-331.md) de esta [Ley](articulo-4.md).

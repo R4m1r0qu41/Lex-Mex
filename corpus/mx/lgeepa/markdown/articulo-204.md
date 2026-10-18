@@ -17,6 +17,6 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 204
 
-Cuando por infracción a las disposiciones de esta Ley se hubieren ocasionado daños o perjuicios, los interesados podrán solicitar a la Secretaría, la formulación de un dictamen técnico al respecto, el cual tendrá valor de prueba, en caso de ser presentado en juicio.
+Cuando por infracción a las disposiciones de esta Ley se hubieren ocasionado daños o perjuicios, los interesados podrán solicitar a la [Secretaría](articulo-3o.md), la formulación de un dictamen técnico al respecto, el cual tendrá valor de prueba, en caso de ser presentado en juicio.
 
 Artículo adicionado DOF 13-12-1996

@@ -15,4 +15,4 @@ source_sha256: 0ad7a7b6d7dffd7d9a582d74ebd6fc43e6baa79f71801a73dc70d1b77c414ded
 
 # CUARTO
 
-Durante el primer año de vigencia el plazo a que se refiere el artículo [78](articulo-78.md) de este Reglamento, será de treinta días hábiles, contados a partir de que el Registro Nacional de Organismos Ganaderos reciba las solicitudes para su dictamen.
+Durante el primer año de vigencia el plazo a que se refiere el artículo [78](articulo-78.md) de este [Reglamento](articulo-2o.md), será de treinta días hábiles, contados a partir de que el Registro Nacional de Organismos [Ganaderos](articulo-2o.md) reciba las solicitudes para su dictamen.

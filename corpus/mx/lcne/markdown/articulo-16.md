@@ -17,11 +17,11 @@ source_sha256: 7c13fd20564f1e7230268a0943cc226368b24c44886d6738c479f4c42cbe77de
 
 # Artículo 16
 
-La persona titular de la Dirección General de la Comisión tiene las siguientes facultades:
+La persona titular de la Dirección General de la [Comisión](articulo-6.md) tiene las siguientes facultades:
 
 I. Administrar y representar legalmente a la Comisión, tanto en su carácter de autoridad del Sector Energético, como de órgano administrativo desconcentrado, con la suma de facultades generales y especiales que, en su caso, requiera conforme a la legislación aplicable;
 
-II. Acordar con la persona titular de la Secretaría el despacho de los asuntos de su competencia;
+II. Acordar con la persona titular de la [Secretaría](articulo-6.md) el despacho de los asuntos de su competencia;
 
 III. Planear, programar, organizar, coordinar, controlar y evaluar el funcionamiento de las unidades administrativas de la Comisión, conforme a los instrumentos normativos de planeación y demás disposiciones jurídicas aplicables;
 

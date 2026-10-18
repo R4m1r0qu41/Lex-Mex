@@ -17,4 +17,4 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 33
 
-Celeridad procesal Los procesos en los que están involucradas personas adolescentes se realizarán sin demora y con la mínima duración posible, por lo que las autoridades y órganos operadores del Sistema, deberán ejercer sus funciones y atender las solicitudes de los interesados con prontitud y eficacia, sin causar dilaciones injustificadas, siempre que no afecte el derecho de defensa.
+Celeridad procesal Los procesos en los que están involucradas personas adolescentes se realizarán sin demora y con la mínima duración posible, por lo que las autoridades y órganos operadores del [Sistema](articulo-3.md), deberán ejercer sus funciones y atender las solicitudes de los interesados con prontitud y eficacia, sin causar dilaciones injustificadas, siempre que no afecte el derecho de defensa.

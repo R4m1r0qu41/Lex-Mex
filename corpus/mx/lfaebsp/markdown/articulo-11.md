@@ -17,6 +17,6 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 11
 
-El Instituto, o el depositario, comodatario, interventor, liquidador o administrador de los Bienes, contratarán seguros para el caso de pérdida o daño de los mismos. Párrafo reformado DOF 09-08-2019
+El [Instituto](articulo-2o.md), o el depositario, comodatario, interventor, liquidador o administrador de los [Bienes](articulo-2o.md), contratarán seguros para el caso de pérdida o daño de los mismos. Párrafo reformado DOF 09-08-2019
 
 Lo dispuesto en el párrafo anterior, no será aplicable cuando por razón de la naturaleza jurídica, características o el tipo de riesgos a los que están expuestos los bienes, el costo de aseguramiento no guarde relación directa con el beneficio que pudiera obtenerse. Párrafo adicionado DOF 23-02-2005

@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 11
 
-Las tarifas por los servicios que presta el Instituto serán fijadas por su Junta de Gobierno, en coordinación con la Secretaría de Economía, con la aprobación de la Secretaría de Hacienda y Crédito Público, y deberán publicarse mediante Acuerdo de la persona Titular de la Dirección General en el Diario Oficial.
+Las tarifas por los servicios que presta el [Instituto](articulo-4.md) serán fijadas por su Junta de Gobierno, en coordinación con la Secretaría de Economía, con la aprobación de la Secretaría de Hacienda y Crédito Público, y deberán publicarse mediante Acuerdo de la persona Titular de la Dirección General en el [Diario Oficial](articulo-4.md).
 
 Para la determinación de los montos de las tarifas se deberán considerar, entre otros factores:
 

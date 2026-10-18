@@ -21,6 +21,6 @@ La importación de productos del tabaco y de productos accesorios al tabaco, se 
 
 I. Los importadores y distribuidores deberán tener domicilio en México;
 
-II. Podrán importarse los productos del tabaco y los productos accesorios al tabaco, siempre que el importador exhiba la documentación establecida en las disposiciones reglamentarias de esta Ley, y
+II. Podrán importarse los productos del tabaco y los productos accesorios al tabaco, siempre que el importador exhiba la documentación establecida en las disposiciones reglamentarias de esta [Ley](articulo-6.md), y
 
-III. La Secretaría podrá muestrear y analizar los productos del tabaco y los productos accesorios al tabaco importados, a fin de verificar el cumplimiento de las disposiciones aplicables. Cuando se encuentre que el producto muestreado no cumple con las disposiciones citadas, la Secretaría procederá conforme a lo establecido en esta Ley, sus reglamentos y demás disposiciones aplicables.
+III. La [Secretaría](articulo-6.md) podrá muestrear y analizar los productos del tabaco y los productos accesorios al tabaco importados, a fin de verificar el cumplimiento de las disposiciones aplicables. Cuando se encuentre que el producto muestreado no cumple con las disposiciones citadas, la Secretaría procederá conforme a lo establecido en esta Ley, sus reglamentos y demás disposiciones aplicables.

@@ -25,7 +25,7 @@ II. Proponer al comité de operación y horarios acciones tendientes a disminuir
 
 III. Presentar al comité de operación y horarios situaciones relevantes y recurrentes que afecten el desarrollo de las operaciones, a efecto de proponer medidas correctivas en el ámbito de su competencia;
 
-IV. Elaborar un reporte a la Agencia Federal de Aviación Civil de aquellas demoras imputables a las personas transportistas aéreas sobre los horarios ad hoc asignados por disponibilidad durante la temporada para las sanciones correspondientes, conforme a lo previsto en la Ley de Aviación Civil, y Fracción reformada DOF 29-08-2025
+IV. Elaborar un reporte a la Agencia Federal de Aviación Civil de aquellas demoras imputables a las personas transportistas aéreas sobre los horarios ad hoc asignados por disponibilidad durante la temporada para las sanciones correspondientes, conforme a lo previsto en la [Ley](articulo-2.md) de Aviación Civil, y Fracción reformada DOF 29-08-2025
 
 V. Entregar la información necesaria al coordinador de horarios, para el ejercicio de sus funciones.
 

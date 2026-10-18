@@ -17,8 +17,8 @@ source_sha256: 8262a75eac7bfb608d4f48657ffb2714fe115d0b9694c42ac81624fd275bf5f6
 
 # Artículo 17
 
-La Utilidad Operativa se determinará cada Periodo y será el resultado de disminuir del Valor Contractual de los Hidrocarburos los siguientes conceptos:
+La [Utilidad Operativa](articulo-3.md) se determinará cada [Periodo](articulo-3.md) y será el resultado de disminuir del [Valor Contractual de los Hidrocarburos](articulo-3.md) los siguientes conceptos:
 
-I. El monto de las Regalías efectivamente pagado por el Contratista en el Periodo, y
+I. El monto de las [Regalías](articulo-3.md) efectivamente pagado por el Contratista en el Periodo, y
 
-II. La Contraprestación correspondiente a la recuperación de costos determinada de conformidad con el artículo [16](articulo-16.md) de esta Ley.
+II. La [Contraprestación](articulo-3.md) correspondiente a la recuperación de costos determinada de conformidad con el artículo [16](articulo-16.md) de esta Ley.

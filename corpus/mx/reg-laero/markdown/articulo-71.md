@@ -27,4 +27,4 @@ En el caso de que cualquiera de las empresas constituidas de conformidad con las
 
 En los supuestos a que se refiere este artículo, los transportistas y operadores aéreos, así como las empresas de autoprestación referidas, deberán reunir los requisitos necesarios para prestarse los servicios complementarios del caso.
 
-El concesionario o permisionario también podrá celebrar contratos con los transportistas aéreos para que presten los servicios complementarios a terceros, en cuyo caso quedarán sujetos a todas las condiciones previstas para los demás prestadores de servicios complementarios, de acuerdo con lo dispuesto en la Ley, este Reglamento y demás normas aplicables.
+El concesionario o permisionario también podrá celebrar contratos con los transportistas aéreos para que presten los servicios complementarios a terceros, en cuyo caso quedarán sujetos a todas las condiciones previstas para los demás prestadores de servicios complementarios, de acuerdo con lo dispuesto en la [Ley](articulo-2.md), este Reglamento y demás normas aplicables.

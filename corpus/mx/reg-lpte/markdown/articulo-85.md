@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 85
 
-Los Certificados de Energías Limpias pueden homologarse con otros instrumentos, como los bonos de carbono, en términos de lo establecido en la LSE y su reglamento, para lo cual las Centrales Eléctricas deben cumplir con los estándares verificables que determine la Secretaría.
+Los Certificados de Energías Limpias pueden homologarse con otros instrumentos, como los bonos de carbono, en términos de lo establecido en la [LSE](articulo-5.md) y su reglamento, para lo cual las Centrales Eléctricas deben cumplir con los estándares verificables que determine la [Secretaría](articulo-5.md).

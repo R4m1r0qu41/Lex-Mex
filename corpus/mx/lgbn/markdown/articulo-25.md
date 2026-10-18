@@ -17,4 +17,4 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # Artículo 25
 
-Los bienes muebles al servicio de los órganos de los Poderes Legislativo y Judicial de la Federación, se regirán por las leyes correspondientes y por las normas que los mismos emitan. En todo caso, podrán desincorporar del régimen de dominio público de la Federación los bienes muebles que estén a su servicio y que por su uso, aprovechamiento o estado de conservación no sean ya adecuados o resulte inconveniente su utilización en el mismo, a fin de proceder a su enajenación.
+Los bienes muebles al servicio de los órganos de los Poderes Legislativo y Judicial de la [Federación](articulo-2.md), se regirán por las leyes correspondientes y por las normas que los mismos emitan. En todo caso, podrán desincorporar del régimen de dominio público de la Federación los bienes muebles que estén a su servicio y que por su uso, aprovechamiento o estado de conservación no sean ya adecuados o resulte inconveniente su utilización en el mismo, a fin de proceder a su enajenación.

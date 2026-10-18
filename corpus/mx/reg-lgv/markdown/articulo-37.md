@@ -21,4 +21,4 @@ La Comisión Ejecutiva cuenta con un Comisario Público y con una unidad encarga
 
 Dichas autoridades ejercen las facultades que le confieren la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales y las demás disposiciones legales aplicables.
 
-Los Comisionados, los titulares del Registro, la Asesoría Jurídica Federal y de la unidad administrativa responsable del Fondo, así como todos los servidores públicos de la Comisión Ejecutiva, están sujetos a la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y demás ordenamientos aplicables.
+Los Comisionados, los titulares del Registro, la Asesoría Jurídica Federal y de la unidad administrativa responsable del [Fondo](articulo-3.md), así como todos los servidores públicos de la Comisión Ejecutiva, están sujetos a la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y demás ordenamientos aplicables.

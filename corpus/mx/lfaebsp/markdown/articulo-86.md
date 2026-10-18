@@ -17,7 +17,7 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 86
 
-El Director General del Instituto será designado por el titular de la Secretaría, previo acuerdo del Ejecutivo Federal, debiendo recaer en la persona que cumpla con los siguientes requisitos: Párrafo reformado DOF 09-08-2019
+El Director General del [Instituto](articulo-2o.md) será designado por el titular de la [Secretaría](articulo-2o.md), previo acuerdo del Ejecutivo Federal, debiendo recaer en la persona que cumpla con los siguientes requisitos: Párrafo reformado DOF 09-08-2019
 
 I.- Ser ciudadano mexicano por nacimiento, que no adquiera otra nacionalidad y esté en pleno goce y ejercicio de sus derechos civiles y políticos;
 

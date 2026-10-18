@@ -19,4 +19,4 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 Los titulares de las dependencias y de las unidades administrativas de la Presidencia de la República, así como los órganos de gobierno de las entidades deberán establecer comités de bienes muebles para la autorización, control y seguimiento de las operaciones respectivas, según corresponda. Párrafo reformado DOF 20-05-2021
 
-La integración y funcionamiento de estos comités se sujetarán a las normas que emita la Secretaría y a las bases generales que dicten dichos órganos, en los términos de los artículos [129](articulo-129.md) y [139](articulo-139.md) de esta Ley, respectivamente.
+La integración y funcionamiento de estos comités se sujetarán a las normas que emita la [Secretaría](articulo-2.md) y a las bases generales que dicten dichos órganos, en los términos de los artículos [129](articulo-129.md) y [139](articulo-139.md) de esta Ley, respectivamente.

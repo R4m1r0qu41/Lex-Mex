@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 100
 
-El otorgamiento de permisos de importación y exportación de Hidrocarburos, Petrolíferos y Petroquímicos se debe llevar a cabo por la Secretaría en términos de la Ley, la Ley de Comercio Exterior, la planeación vinculante y demás Normatividad aplicable.
+El otorgamiento de permisos de importación y exportación de Hidrocarburos, Petrolíferos y Petroquímicos se debe llevar a cabo por la [Secretaría](articulo-3.md) en términos de la [Ley](articulo-3.md), la Ley de Comercio Exterior, la planeación vinculante y demás [Normatividad](articulo-3.md) aplicable.

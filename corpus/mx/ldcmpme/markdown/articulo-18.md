@@ -17,7 +17,7 @@ source_sha256: 4933abadd27d345e7a5c1754af10ed429fd148b709b4a78d4f42447b5fcd546d
 
 # Artículo 18
 
-El Consejo estará conformado por los integrantes siguientes: Párrafo reformado DOF 13-08-2019
+El [Consejo](articulo-3.md) estará conformado por los integrantes siguientes: Párrafo reformado DOF 13-08-2019
 
 I. El Secretario de Economía, quien lo presidirá;
 
@@ -57,10 +57,10 @@ XIX. El Presidente de la Cámara de la Industria de la Transformación de Nuevo 
 
 XX. El Presidente del Consejo de Cámaras Industriales de Jalisco;
 
-XXI. Tres miembros de los Sectores que incidan en el cumplimiento de los objetivos de esta Ley, quienes serán designados por la Secretaría, y
+XXI. Tres miembros de los [Sectores](articulo-3.md) que incidan en el cumplimiento de los objetivos de esta [Ley](articulo-3.md), quienes serán designados por la [Secretaría](articulo-3.md), y
 
 XXII. Dos representantes del Congreso del Trabajo y un representante de la Unión Nacional de Trabajadores.
 
-El Consejo podrá invitar a participar en las sesiones, con voz pero sin voto, a otras dependencias, entidades, miembros de los Consejos Estatales y especialistas en los temas a discusión.
+El Consejo podrá invitar a participar en las sesiones, con voz pero sin voto, a otras dependencias, entidades, miembros de los [Consejos Estatales](articulo-3.md) y especialistas en los temas a discusión.
 
 Por cada uno de los miembros propietarios se deberá nombrar un suplente, en el caso de las dependencias y entidades de la Administración Pública Federal, deberá tener al menos el nivel de director general o su equivalente. En las ausencias del presidente del Consejo, asumirá sus funciones el Subsecretario que designe la persona titular de la Secretaría. Párrafo reformado DOF 01-12-2016, 13-08-2019

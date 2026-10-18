@@ -15,7 +15,7 @@ source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 
 # Artículo 35
 
-Sin perjuicio de la intervención que otras disposiciones legales asignen a distintas dependencias, la Procuraduría podrá:
+Sin perjuicio de la intervención que otras disposiciones legales asignen a distintas dependencias, la [Procuraduría](articulo-2.md) podrá:
 
 I. Ordenar al proveedor que suspenda la información o publicidad que viole las disposiciones de esta ley y, en su caso, al medio que la difunda; Fracción reformada DOF 04-02-2004
 

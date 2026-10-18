@@ -17,7 +17,7 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # Artículo 137
 
-Quienes pretendan obtener, por parte de la Secretaría, la acreditación y aprobación como terceros, cumplirán con lo siguiente:
+Quienes pretendan obtener, por parte de la [Secretaría](articulo-2o.md), la acreditación y aprobación como terceros, cumplirán con lo siguiente:
 
 I. Presentar una solicitud con los requisitos siguientes: a) Nombre y domicilio del interesado,
 
@@ -27,4 +27,4 @@ c) Ubicación de las instalaciones del laboratorio de pruebas y descripción del
 
 II. Aprobar, de conformidad con las normas aplicables, la evaluación que para tal efecto realice la Secretaría, y
 
-III. Con las demás disposiciones contenidas en la Ley Federal sobre Metrología y Normalización y requisitos de carácter técnico que señalen las normas aplicables.
+III. Con las demás disposiciones contenidas en la [Ley](articulo-2o.md) Federal sobre Metrología y Normalización y requisitos de carácter técnico que señalen las normas aplicables.

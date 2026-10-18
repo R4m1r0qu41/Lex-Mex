@@ -17,4 +17,4 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 55
 
-Los servidores públicos integrantes de la Comisión Nacional de Búsqueda deben estar certificados y especializados en materia de búsqueda, de conformidad con los criterios que establezca el Sistema Nacional.
+Los servidores públicos integrantes de la [Comisión Nacional de Búsqueda](articulo-4.md) deben estar certificados y especializados en materia de búsqueda, de conformidad con los criterios que establezca el [Sistema Nacional](articulo-4.md).

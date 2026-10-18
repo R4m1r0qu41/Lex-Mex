@@ -17,7 +17,7 @@ source_sha256: 43723ba379e128c1a1c1be4b085ecc870946cdec43d56f83e7314c077361368f
 
 # Artículo 12
 
-La Secretaría notificará directamente o a través del colegio de corredores local, a más tardar el día siguiente, el resultado del examen al sustentante de forma personal, o por cualquier medio de comunicación electrónica, siempre que lo hubiese aceptado expresamente el solicitante. En caso de resultar aprobado, expedirá la constancia que acredite la calidad de aspirante.
+La [Secretaría](articulo-2o.md) notificará directamente o a través del colegio de corredores local, a más tardar el día siguiente, el resultado del examen al sustentante de forma personal, o por cualquier medio de comunicación electrónica, siempre que lo hubiese aceptado expresamente el solicitante. En caso de resultar aprobado, expedirá la constancia que acredite la calidad de aspirante.
 
 El sustentante que no apruebe el examen de aspirante, pero que obtenga una calificación mayor a 6.5 podrá volver a sustentar otro en cuanto lo solicite de conformidad con el calendario de exámenes publicado en el Diario Oficial de la Federación por la Secretaría; si la calificación es inferior a 6.5 no podrá volver a sustentar otro sino hasta transcurridos seis meses posteriores de la fecha de presentación del mismo.
 

@@ -17,4 +17,4 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 # Artículo 20
 
-Toda investigación de los delitos de tortura y otros tratos o penas crueles, inhumanos o degradantes; así como de los delitos vinculados a este, se llevará a cabo con base en lo establecido en la presente Ley y de conformidad con los más altos estándares internacionales.
+Toda investigación de los delitos de tortura y otros tratos o penas crueles, inhumanos o degradantes; así como de los delitos vinculados a este, se llevará a cabo con base en lo establecido en la presente [Ley](articulo-5.md) y de conformidad con los más altos estándares internacionales.

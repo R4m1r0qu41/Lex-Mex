@@ -17,4 +17,4 @@ source_sha256: 70464807d63da08244e495f2ff0ac30b12b30119926b84cedc7930397fcb80ef
 
 # Artículo 121
 
-La manteca vegetal deberá elaborarse únicamente a partir de los aceites vegetales comestibles señalados por la Secretaría en la lista correspondiente.
+La manteca vegetal deberá elaborarse únicamente a partir de los aceites vegetales comestibles señalados por la [Secretaría](articulo-2o.md) en la lista correspondiente.

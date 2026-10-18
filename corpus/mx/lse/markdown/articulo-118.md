@@ -17,4 +17,4 @@ source_sha256: aa96853f010885bdf85160e944e5c0ef5c3c8e95422dfede280d228cf064310a
 
 # Artículo 118
 
-El CENACE debe restringir o suspender la participación en el Mercado Eléctrico Mayorista a quienes incurran en incumplimientos graves a las Reglas del Mercado, sin requerir la intervención previa de autoridad alguna, en tanto no regularicen su situación y no cubran las obligaciones derivadas de sus incumplimientos.
+El [CENACE](articulo-3.md) debe restringir o suspender la participación en el [Mercado Eléctrico Mayorista](articulo-3.md) a quienes incurran en incumplimientos graves a las [Reglas del Mercado](articulo-3.md), sin requerir la intervención previa de autoridad alguna, en tanto no regularicen su situación y no cubran las obligaciones derivadas de sus incumplimientos.

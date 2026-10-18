@@ -17,6 +17,6 @@ source_sha256: 23dcee090bbe0c4fb06c75d084cb65ce0b2e8f72a8d082e7059504412bde1614
 
 # Artículo 88
 
-El SNICS impondrá las sanciones con arreglo a lo dispuesto en la Ley, en este Reglamento y en las demás disposiciones aplicables.
+El [SNICS](articulo-2o.md) impondrá las sanciones con arreglo a lo dispuesto en la [Ley](articulo-2o.md), en este Reglamento y en las demás disposiciones aplicables.
 
 Si hubieren bienes asegurados, se pondrán a disposición de la Tesorería de la Federación para su aplicación en el pago de las sanciones que se impongan y de los gastos que se originen.

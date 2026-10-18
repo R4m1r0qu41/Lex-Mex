@@ -17,4 +17,4 @@ source_sha256: 3c0720d560455df51ca882a37390cd0fe017d1987853b8358e37d5195f718055
 
 # Artículo 16
 
-La autoridad federal competente que en el marco de los compromisos de cooperación internacional relativos al objeto de la Ley sea notificada del envío al territorio nacional de precursores químicos o productos químicos esenciales, ingresará esta información en la base de datos dentro de los tres días siguientes.
+La autoridad federal competente que en el marco de los compromisos de cooperación internacional relativos al objeto de la [Ley](articulo-2.md) sea notificada del envío al territorio nacional de precursores químicos o productos químicos esenciales, ingresará esta información en la base de datos dentro de los tres días siguientes.

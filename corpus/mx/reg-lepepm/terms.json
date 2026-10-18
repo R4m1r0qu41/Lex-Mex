@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:term:comite-especial",
+    "term": "Comité Especial",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lepepm",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:2",
+    "fraction": "I",
+    "start_char": 76,
+    "end_char": 137,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:term:consejo-de-administracion",
+    "term": "Consejo de Administración",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lepepm",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:2",
+    "fraction": "II",
+    "start_char": 137,
+    "end_char": 221,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lepepm",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:2",
+    "fraction": "III",
+    "start_char": 221,
+    "end_char": 293,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:term:persona-comisaria",
+    "term": "Persona Comisaria",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lepepm",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:2",
+    "fraction": "IV",
+    "start_char": 293,
+    "end_char": 439,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:term:personas-consejeras",
+    "term": "Personas Consejeras",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lepepm",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:2",
+    "fraction": "V",
+    "start_char": 439,
+    "end_char": 581,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:term:personas-consejeras-independientes",
+    "term": "Personas Consejeras Independientes",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lepepm",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:2",
+    "fraction": "VI",
+    "start_char": 581,
+    "end_char": 731,
+    "basis": "express_definition"
+  }
+]

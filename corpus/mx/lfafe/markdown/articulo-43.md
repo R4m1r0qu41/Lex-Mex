@@ -17,6 +17,6 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 43
 
-La Secretaría puede negar, suspender o cancelar discrecionalmente los permisos a que se refiere el [artículo anterior](articulo-42.md), cuando las actividades amparadas con los permisos entrañen peligro para la seguridad de las personas, instalaciones, o puedan alterar la tranquilidad o el orden público.
+La [Secretaría](articulo-1o-Bis.md) puede negar, suspender o cancelar discrecionalmente los permisos a que se refiere el [artículo anterior](articulo-42.md), cuando las actividades amparadas con los permisos entrañen peligro para la seguridad de las personas, instalaciones, o puedan alterar la tranquilidad o el orden público.
 
 Artículo reformado DOF 08-02-1985, 29-05-2025

@@ -17,11 +17,11 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 91
 
-Las actas que se asienten en los libros del Registro contendrán:
+Las actas que se asienten en los libros del [Registro](articulo-1o.md) contendrán:
 
 I. Número progresivo de la misma;
 
-II. Fecha y hora de presentación de la solicitud en la Secretaría;
+II. Fecha y hora de presentación de la solicitud en la [Secretaría](articulo-1o.md);
 
 III. Clase, fecha y datos de identificación del documento;
 

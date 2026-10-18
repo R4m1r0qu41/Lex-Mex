@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 215
 
-En caso de que el incumplimiento de las determinaciones de las Autoridades garantes implique la presunta comisión de un delito, estos deberán denunciar los hechos ante la autoridad competente.
+En caso de que el incumplimiento de las determinaciones de las [Autoridades garantes](articulo-3.md) implique la presunta comisión de un delito, estos deberán denunciar los hechos ante la autoridad competente.

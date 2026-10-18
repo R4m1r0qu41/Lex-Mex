@@ -17,7 +17,7 @@ source_sha256: 51d855a586ad7017a8d8f5c36819a2bd0d3d488f3f4b23594a729418a8b776b4
 
 # Artículo 81
 
-La Comisión Ejecutiva cubrirá con cargo al Fondo la compensación a las víctimas de violaciones a los derechos humanos cometidas por parte de autoridades federales, cuando la víctima reúna los requisitos previstos en las fracciones I y II del artículo [78](articulo-78.md) de este Reglamento, así como los siguientes:
+La Comisión Ejecutiva cubrirá con cargo al [Fondo](articulo-3.md) la compensación a las víctimas de violaciones a los derechos humanos cometidas por parte de autoridades federales, cuando la víctima reúna los requisitos previstos en las fracciones I y II del artículo [78](articulo-78.md) de este Reglamento, así como los siguientes:
 
 I. Cuente con una resolución de las señaladas en el artículo [65](../../lgv/markdown/articulo-65.md) de la Ley, y
 

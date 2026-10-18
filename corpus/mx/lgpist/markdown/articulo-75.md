@@ -17,6 +17,6 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 # Artículo 75
 
-El Director Ejecutivo, así como el personal del Mecanismo Nacional de Prevención, deberán poseer experiencia y especialización en materia de prevención e investigación de la tortura y otros tratos o penas crueles, inhumanos o degradantes.
+El Director Ejecutivo, así como el personal del [Mecanismo Nacional de Prevención](articulo-5.md), deberán poseer experiencia y especialización en materia de prevención e investigación de la tortura y otros tratos o penas crueles, inhumanos o degradantes.
 
 El Reglamento establecerá los elementos generales para que el personal del Mecanismo Nacional de Prevención esté integrado por profesionales que integren un grupo de trabajo multidisciplinario, en cuya integración se garantizará el principio de paridad de género, y sea incluyente al considerar a los grupos étnicos y minoritarios del país. Párrafo reformado DOF 28-04-2022

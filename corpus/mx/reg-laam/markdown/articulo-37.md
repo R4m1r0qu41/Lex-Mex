@@ -17,7 +17,7 @@ source_sha256: 8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca
 
 # Artículo 37
 
-La información obtenida por la Jefatura de Operaciones para ser presentada al Mando Supremo, estará integrada por: Párrafo reformado DOF 02-04-2026
+La información obtenida por la [Jefatura de Operaciones](articulo-5.md) para ser presentada al [Mando Supremo](articulo-5.md), estará integrada por: Párrafo reformado DOF 02-04-2026
 
 I. Grado y nombre del personal convocado, incluyendo su fotografía y estado de salud de acuerdo con el examen médico;
 
@@ -27,6 +27,6 @@ III. Aptitud y competencia profesional: Será la obtenida del total de las hojas
 
 IV. Conducta civil y militar: Se obtendrá del concepto de disciplina contenida en las hojas de actuación y en los registros oficiales correspondientes, y
 
-V. Antigüedad en el grado: Se acreditará con el despacho o documento oficial que se haya expedido para el grado que se ostenta, conforme al artículo [45](../../laam/markdown/articulo-45.md) de la Ley.
+V. Antigüedad en el grado: Se acreditará con el despacho o documento oficial que se haya expedido para el grado que se ostenta, conforme al artículo [45](../../laam/markdown/articulo-45.md) de la [Ley](articulo-5.md).
 
 Artículo reformado DOF 22-09-2010, 11-03-2016

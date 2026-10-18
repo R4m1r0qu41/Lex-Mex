@@ -17,6 +17,6 @@ source_sha256: 23dcee090bbe0c4fb06c75d084cb65ce0b2e8f72a8d082e7059504412bde1614
 
 # Artículo 28
 
-El Comité rechazará las denominaciones propuestas que no reúnan los requisitos establecidos en el [artículo anterior](articulo-27.md), en cuyo caso requerirá al solicitante que proponga otra dentro del plazo de treinta días naturales a partir de que dicho solicitante reciba la notificación correspondiente.
+El [Comité](articulo-2o.md) rechazará las denominaciones propuestas que no reúnan los requisitos establecidos en el [artículo anterior](articulo-27.md), en cuyo caso requerirá al solicitante que proponga otra dentro del plazo de treinta días naturales a partir de que dicho solicitante reciba la notificación correspondiente.
 
 El solicitante podrá cambiar la propuesta de la denominación de su variedad vegetal, siempre que la solicitud esté en trámite y justifique su cambio a satisfacción del Comité.

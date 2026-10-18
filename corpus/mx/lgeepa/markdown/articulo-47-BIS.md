@@ -41,7 +41,7 @@ c) De aprovechamiento sustentable de los recursos naturales: Aquellas superficie
 
 En dichas subzonas se permitirán exclusivamente el aprovechamiento y manejo de los recursos naturales renovables, siempre que estas acciones generen beneficios preferentemente para los pobladores locales, la investigación científica, la educación ambiental y el desarrollo de actividades turísticas de bajo impacto ambiental.
 
-Asimismo, el aprovechamiento sustentable de la vida silvestre podrá llevarse a cabo siempre y cuando se garantice su reproducción controlada o se mantengan o incrementen las poblaciones de las especies aprovechadas y el hábitat del que dependen; y se sustenten en los planes correspondientes autorizados por la Secretaría, conforme a las disposiciones legales y reglamentarias aplicables.
+Asimismo, el aprovechamiento sustentable de la vida silvestre podrá llevarse a cabo siempre y cuando se garantice su reproducción controlada o se mantengan o incrementen las poblaciones de las especies aprovechadas y el hábitat del que dependen; y se sustenten en los planes correspondientes autorizados por la [Secretaría](articulo-3o.md), conforme a las disposiciones legales y reglamentarias aplicables.
 
 d) De aprovechamiento sustentable de los ecosistemas: Aquellas superficies con usos agrícolas, pesqueros y pecuarios actuales.
 

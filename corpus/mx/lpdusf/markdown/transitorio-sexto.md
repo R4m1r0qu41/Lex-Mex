@@ -15,4 +15,4 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # SEXTO
 
-El personal de las Comisiones Nacionales que en aplicación de la presente Ley pase a formar parte de la Comisión Nacional, en ninguna forma resultará afectado en sus derechos laborales adquiridos.
+El personal de las [Comisiones Nacionales](articulo-2o.md) que en aplicación de la presente Ley pase a formar parte de la Comisión Nacional, en ninguna forma resultará afectado en sus derechos laborales adquiridos.

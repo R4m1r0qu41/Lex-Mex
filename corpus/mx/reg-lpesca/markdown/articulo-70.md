@@ -17,6 +17,6 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # Artículo 70
 
-La Secretaría podrá otorgar permisos para recolectar y exhibir o vender especies acuáticas con fines de ornato, a quienes demuestren disponer de instalaciones y capacidad técnica para realizar las capturas y su exhibición o comercio.
+La [Secretaría](articulo-2o.md) podrá otorgar permisos para recolectar y exhibir o vender especies acuáticas con fines de ornato, a quienes demuestren disponer de instalaciones y capacidad técnica para realizar las capturas y su exhibición o comercio.
 
 La Secretaría no otorgará estos permisos con fines de ornato, cuando se pretenda recolectar especies sujetas a alguna categoría de protección, de conformidad con las normas y demás disposiciones legales aplicables.

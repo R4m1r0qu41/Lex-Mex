@@ -23,7 +23,7 @@ I.- Los documentos que acrediten el registro de la unidad de manejo para la cons
 
 II.- Mapa de ubicación del predio donde se pretende establecer, así como la superficie que pretende abarcar;
 
-III.- Proyecto de manejo elaborado por el propietario, poseedor legítimo del predio o predios, por su responsable técnico, o en su caso, por el concesionario. Dicho proyecto deberá ser congruente a lo establecido en la Ley, la Ley General de Vida Silvestre y las demás disposiciones legales y reglamentarias aplicables;
+III.- Proyecto de manejo elaborado por el propietario, poseedor legítimo del predio o predios, por su responsable técnico, o en su caso, por el concesionario. Dicho proyecto deberá ser congruente a lo establecido en la [Ley](articulo-3o.md), la Ley General de Vida Silvestre y las demás disposiciones legales y reglamentarias aplicables;
 
 IV.- Especies que serán aprovechadas, y
 

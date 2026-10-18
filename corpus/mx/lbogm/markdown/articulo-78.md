@@ -17,4 +17,4 @@ source_sha256: b3c906475b455176de73da17f4f93a73f295965dc9bcca854b48417c7d4d3cfc
 
 # Artículo 78
 
-Los avisos se deberán presentar a la SEMARNAT o a la SAGARPA, conforme a las atribuciones que esta Ley les confiere, en los formatos oficiales que se expidan para tal efecto. El contenido de los formatos lo determinarán dichas Secretarías, con la previa aprobación de la Comisión Federal de Mejora Regulatoria. En dichos formatos se determinará la información y documentación que deba presentar el interesado. Los formatos se deberán publicar en el Diario Oficial de la Federación.
+Los avisos se deberán presentar a la [SEMARNAT](articulo-3.md) o a la [SAGARPA](articulo-3.md), conforme a las atribuciones que esta Ley les confiere, en los formatos oficiales que se expidan para tal efecto. El contenido de los formatos lo determinarán dichas [Secretarías](articulo-3.md), con la previa aprobación de la Comisión Federal de Mejora Regulatoria. En dichos formatos se determinará la información y documentación que deba presentar el interesado. Los formatos se deberán publicar en el Diario Oficial de la Federación.

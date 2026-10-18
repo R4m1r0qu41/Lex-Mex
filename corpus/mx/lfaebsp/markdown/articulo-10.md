@@ -17,6 +17,6 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 10
 
-La autoridad competente o, en su caso, el Instituto hará constar en los registros públicos que correspondan, de conformidad con las disposiciones aplicables, el nombramiento del depositario, interventor, liquidador o administrador de los Bienes, activos o empresas.
+La autoridad competente o, en su caso, el [Instituto](articulo-2o.md) hará constar en los registros públicos que correspondan, de conformidad con las disposiciones aplicables, el nombramiento del depositario, interventor, liquidador o administrador de los [Bienes](articulo-2o.md), activos o empresas.
 
 Artículo reformado DOF 09-08-2019

@@ -17,4 +17,4 @@ source_sha256: b3c906475b455176de73da17f4f93a73f295965dc9bcca854b48417c7d4d3cfc
 
 # Artículo 97
 
-Los OGMs autorizados por la SSA podrán ser libremente comercializados e importados para su comercialización, al igual que los productos que contengan dichos organismos y los productos derivados de los mismos. Lo anterior sin perjuicio de que dichos organismos autorizados, los productos que los contengan y los productos derivados queden sujetos al régimen de control sanitario general que establece la Ley General de Salud y sus reglamentos y, en caso de que les sean aplicables, los requisitos fitozoosanitarios que correspondan.
+Los OGMs autorizados por la [SSA](articulo-3.md) podrán ser libremente comercializados e importados para su comercialización, al igual que los productos que contengan dichos organismos y los productos derivados de los mismos. Lo anterior sin perjuicio de que dichos organismos autorizados, los productos que los contengan y los productos derivados queden sujetos al régimen de control sanitario general que establece la Ley General de Salud y sus reglamentos y, en caso de que les sean aplicables, los requisitos fitozoosanitarios que correspondan.

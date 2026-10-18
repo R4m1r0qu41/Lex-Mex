@@ -17,13 +17,13 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 3o
 
-El patrimonio del Instituto se constituye por:
+El patrimonio del [Instituto](articulo-4o.md) se constituye por:
 
 I. Los bienes, derechos y obligaciones que integran sus inventarios y registros;
 
 II. Las cuotas que aporten los militares y sus familiares derechohabientes en los términos que para este objeto establezcan las disposiciones legales;
 
-III. Las aportaciones del Gobierno Federal señaladas en esta Ley, para prestaciones específicas;
+III. Las aportaciones del Gobierno Federal señaladas en esta [Ley](articulo-4o.md), para prestaciones específicas;
 
 IV. Una cantidad anual a cargo del Gobierno Federal, equivalente a un 15% de los haberes, haberes de retiro y de las pensiones de los miembros de las Fuerzas Armadas Mexicanas y de sus familiares, según corresponda; para las demás prestaciones que, conforme a esta Ley, deba otorgar el Instituto; Fracción reformada DOF 20-11-2008
 

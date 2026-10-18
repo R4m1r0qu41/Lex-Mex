@@ -17,4 +17,4 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 98
 
-Lo dispuesto en el presente Capítulo, no excluye la imposición de las sanciones que conforme a ésta u otras leyes fueren aplicables por la Comisión Nacional, respecto de otras infracciones o delitos, ni respecto a otras sanciones que corresponda imponer a otras autoridades financieras y demás autoridades competentes.
+Lo dispuesto en el presente Capítulo, no excluye la imposición de las sanciones que conforme a ésta u otras leyes fueren aplicables por la [Comisión Nacional](articulo-2o.md), respecto de otras infracciones o delitos, ni respecto a otras sanciones que corresponda imponer a otras autoridades financieras y demás autoridades competentes.

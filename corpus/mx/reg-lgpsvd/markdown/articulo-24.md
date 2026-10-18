@@ -17,4 +17,4 @@ source_sha256: a1cc8f6043c35579235fd61d2e34977e1735af4ea6919d053f89462b97742335
 
 # Artículo 24
 
-La Secretaría podrá suscribir instrumentos jurídicos con las entidades federativas, los municipios y las demarcaciones territoriales del Distrito Federal, a efecto de coordinar esfuerzos para que el diagnóstico, la planeación, el diseño, la implementación y la evaluación de los programas y acciones de prevención social se ajusten al Programa Nacional.
+La [Secretaría](articulo-3.md) podrá suscribir instrumentos jurídicos con las entidades federativas, los municipios y las demarcaciones territoriales del Distrito Federal, a efecto de coordinar esfuerzos para que el diagnóstico, la planeación, el diseño, la implementación y la evaluación de los programas y acciones de prevención social se ajusten al Programa Nacional.

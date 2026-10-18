@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 70
 
-La Secretaría debe definir el nivel de desagregación de los registros de información a que hace referencia el [artículo anterior](articulo-69.md), de conformidad con las disposiciones que para tal efecto emita. La actualización de los registros de información puede ajustarse con base en las recomendaciones que realice el Consejo y conforme a las prioridades para la elaboración y actualización de los Instrumentos de Planeación del Sector Energético.
+La [Secretaría](articulo-5.md) debe definir el nivel de desagregación de los registros de información a que hace referencia el [artículo anterior](articulo-69.md), de conformidad con las disposiciones que para tal efecto emita. La actualización de los registros de información puede ajustarse con base en las recomendaciones que realice el [Consejo](articulo-5.md) y conforme a las prioridades para la elaboración y actualización de los [Instrumentos de Planeación del Sector Energético](articulo-5.md).

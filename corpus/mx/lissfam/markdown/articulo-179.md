@@ -17,4 +17,4 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 179
 
-Las direcciones de las Secretarías de la Defensa Nacional y de Marina en su caso, que tengan relación con el manejo del personal, están obligadas a comunicar al órgano encargado administrativamente de tramitar los retiros, los nombres de los militares que cumplirán la edad límite señalada en el artículo [25](articulo-25.md) de esta Ley, con un mínimo de seis meses de anticipación a que ocurra esta causal, a fin de iniciar el trámite respectivo, sujetándose al procedimiento establecido en este capítulo.
+Las direcciones de las Secretarías de la Defensa Nacional y de Marina en su caso, que tengan relación con el manejo del personal, están obligadas a comunicar al órgano encargado administrativamente de tramitar los retiros, los nombres de los militares que cumplirán la edad límite señalada en el artículo [25](articulo-25.md) de esta [Ley](articulo-4o.md), con un mínimo de seis meses de anticipación a que ocurra esta causal, a fin de iniciar el trámite respectivo, sujetándose al procedimiento establecido en este capítulo.

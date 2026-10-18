@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 92
 
-Las personas Usuarias Finales que soliciten su inscripción en el Registro UPAC deben acreditar que las instalaciones a registrar cumplen con los criterios y requisitos que sean emitidos por la CONUEE en las disposiciones administrativas de carácter general aplicables para ser considerado Usuario de Patrón de Alto Consumo.
+Las personas Usuarias Finales que soliciten su inscripción en el [Registro UPAC](articulo-5.md) deben acreditar que las instalaciones a registrar cumplen con los criterios y requisitos que sean emitidos por la CONUEE en las disposiciones administrativas de carácter general aplicables para ser considerado Usuario de Patrón de Alto Consumo.

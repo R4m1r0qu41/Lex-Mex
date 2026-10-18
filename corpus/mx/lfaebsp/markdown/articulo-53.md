@@ -19,7 +19,7 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 El procedimiento se desarrollará en los siguientes términos:
 
-I. El Instituto deberá mostrar a través de medios electrónicos el bien objeto de la subasta debiendo proporcionar una descripción del mismo; Fracción reformada DOF 09-08-2019
+I. El [Instituto](articulo-2o.md) deberá mostrar a través de medios electrónicos el bien objeto de la subasta debiendo proporcionar una descripción del mismo; Fracción reformada DOF 09-08-2019
 
 II. El Instituto establecerá un período de al menos 240 horas para que los postores realicen sus ofertas a través de los medios electrónicos y de acuerdo con el formato que para tal efecto determine el Instituto; Fracción reformada DOF 09-08-2019
 

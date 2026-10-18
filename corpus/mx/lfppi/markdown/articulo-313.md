@@ -17,6 +17,6 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 313
 
-La autorización de uso caducará: I.- Cuando deje de usarse durante los tres años inmediatos anteriores a la solicitud de declaración administrativa de caducidad, salvo que exista causa justificada a juicio del Instituto, o
+La autorización de uso caducará: I.- Cuando deje de usarse durante los tres años inmediatos anteriores a la solicitud de declaración administrativa de caducidad, salvo que exista causa justificada a juicio del [Instituto](articulo-4.md), o
 
 II.- Por terminación de su vigencia.

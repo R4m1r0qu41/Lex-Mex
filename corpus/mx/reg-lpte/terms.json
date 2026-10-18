@@ -1,1 +1,277 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpte:term:cenagas",
+    "term": "CENAGAS",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lpte",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpte:article:5",
+    "fraction": "I",
+    "start_char": 365,
+    "end_char": 421,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpte:term:cfe",
+    "term": "CFE",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lpte",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpte:article:5",
+    "fraction": "II",
+    "start_char": 421,
+    "end_char": 492,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpte:term:consejo",
+    "term": "Consejo",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lpte",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpte:article:5",
+    "fraction": "III",
+    "start_char": 492,
+    "end_char": 540,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpte:term:comite",
+    "term": "Comité",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lpte",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpte:article:5",
+    "fraction": "IV",
+    "start_char": 540,
+    "end_char": 601,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpte:term:instrumentos-de-planeacion-del-sector-energetico",
+    "term": "Instrumentos de Planeación del Sector Energético",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lpte",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpte:article:5",
+    "fraction": "V",
+    "start_char": 601,
+    "end_char": 722,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpte:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lpte",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpte:article:5",
+    "fraction": "VI",
+    "start_char": 722,
+    "end_char": 774,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpte:term:lineamientos-de-operacion",
+    "term": "Lineamientos de Operación",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lpte",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpte:article:5",
+    "fraction": "VII",
+    "start_char": 774,
+    "end_char": 870,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpte:term:lse",
+    "term": "LSE",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lpte",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpte:article:5",
+    "fraction": "VIII",
+    "start_char": 870,
+    "end_char": 907,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpte:term:lsh",
+    "term": "LSH",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lpte",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpte:article:5",
+    "fraction": "IX",
+    "start_char": 907,
+    "end_char": 946,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpte:term:parte-sujeta-de-obligacion",
+    "term": "Parte Sujeta de Obligación",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lpte",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpte:article:5",
+    "fraction": "X",
+    "start_char": 946,
+    "end_char": 1507,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpte:term:pam",
+    "term": "PAM",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lpte",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpte:article:5",
+    "fraction": "XI",
+    "start_char": 1507,
+    "end_char": 1687,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpte:term:pemex",
+    "term": "PEMEX",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lpte",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpte:article:5",
+    "fraction": "XII",
+    "start_char": 1687,
+    "end_char": 1748,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpte:term:pnd",
+    "term": "PND",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lpte",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpte:article:5",
+    "fraction": "XIII",
+    "start_char": 1748,
+    "end_char": 1788,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpte:term:procfe",
+    "term": "PROCFE",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lpte",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpte:article:5",
+    "fraction": "XIV",
+    "start_char": 1788,
+    "end_char": 1982,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpte:term:propemex",
+    "term": "PROPEMEX",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lpte",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpte:article:5",
+    "fraction": "XV",
+    "start_char": 1982,
+    "end_char": 2179,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpte:term:prosener",
+    "term": "PROSENER",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lpte",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpte:article:5",
+    "fraction": "XVI",
+    "start_char": 2179,
+    "end_char": 2225,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpte:term:plan-quinquenal-de-expansion-del-sistrangas",
+    "term": "Plan Quinquenal de Expansión del SISTRANGAS",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lpte",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpte:article:5",
+    "fraction": "XVII",
+    "start_char": 2225,
+    "end_char": 2496,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpte:term:plan-quinquenal-de-expansion-y-optimizacion-de-la-infraestructura",
+    "term": "Plan Quinquenal de Expansión y Optimización de la Infraestructura",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lpte",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpte:article:5",
+    "fraction": "XVIII",
+    "start_char": 2496,
+    "end_char": 2847,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpte:term:pspemex",
+    "term": "PSPEMEX",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lpte",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpte:article:5",
+    "fraction": "XIX",
+    "start_char": 2847,
+    "end_char": 3062,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpte:term:pvirce",
+    "term": "PVIRCE",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lpte",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpte:article:5",
+    "fraction": "XX",
+    "start_char": 3062,
+    "end_char": 3209,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpte:term:registros-e-informacion-geoespacial",
+    "term": "Registros e Información Geoespacial",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lpte",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpte:article:5",
+    "fraction": "XXI",
+    "start_char": 3209,
+    "end_char": 3705,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpte:term:registro-upac",
+    "term": "Registro UPAC",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lpte",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpte:article:5",
+    "fraction": "XXII",
+    "start_char": 3705,
+    "end_char": 3799,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpte:term:reglamento",
+    "term": "Reglamento",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lpte",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpte:article:5",
+    "fraction": "XXIII",
+    "start_char": 3799,
+    "end_char": 3878,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpte:term:risener",
+    "term": "RISENER",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lpte",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpte:article:5",
+    "fraction": "XXIV",
+    "start_char": 3878,
+    "end_char": 3944,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpte:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lpte",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpte:article:5",
+    "fraction": "XXV",
+    "start_char": 3944,
+    "end_char": 3986,
+    "basis": "express_definition"
+  }
+]

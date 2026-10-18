@@ -17,4 +17,4 @@ source_sha256: dfe63e9a5dca843a804e5d7878671e2899f2b088534d9ed9813e9878c20b12bd
 
 # Artículo 57
 
-Las personas titulares de los organismos de los distintos niveles de mando de la Guardia Nacional supervisarán el control y resguardo del armamento que tengan a su cargo. La baja del armamento por robo, extravío, destrucción, decomiso, aseguramiento u otros motivos, se deberá hacer del conocimiento de la Secretaría, dentro de las setenta y dos horas posteriores a los hechos.
+Las personas titulares de los organismos de los distintos niveles de mando de la Guardia Nacional supervisarán el control y resguardo del armamento que tengan a su cargo. La baja del armamento por robo, extravío, destrucción, decomiso, aseguramiento u otros motivos, se deberá hacer del conocimiento de la [Secretaría](articulo-2.md), dentro de las setenta y dos horas posteriores a los hechos.

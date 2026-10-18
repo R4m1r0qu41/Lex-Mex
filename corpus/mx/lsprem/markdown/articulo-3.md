@@ -17,4 +17,4 @@ source_sha256: bcc21844355854fe331c842c21436d721d6c2856b5c5986715fe39f4a845b317
 
 # Artículo 3
 
-El Sistema Público de Radiodifusión del Estado Mexicano tendrá su domicilio legal en la Ciudad de México, Distrito Federal.
+El [Sistema](articulo-2.md) Público de Radiodifusión del Estado Mexicano tendrá su domicilio legal en la Ciudad de México, Distrito Federal.

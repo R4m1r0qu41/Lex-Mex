@@ -17,7 +17,7 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 94
 
-Uso prioritario Las autoridades aplicarán prioritariamente las soluciones alternas previstas en esta Ley.
+Uso prioritario Las autoridades aplicarán prioritariamente las soluciones alternas previstas en esta [Ley](articulo-3.md).
 
 Desde su primera intervención, el Ministerio Público, el asesor jurídico o el defensor explicarán a las víctimas y a las personas adolescentes, según corresponda, los mecanismos alternativos disponibles y sus efectos, exhortándoles a utilizarlos para alcanzar alguna solución alterna en los casos en que proceda.
 

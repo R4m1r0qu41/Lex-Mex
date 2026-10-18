@@ -17,4 +17,4 @@ source_sha256: 4fadf9a6f2d22a9e48d8e29ed302456751da66eb723e0df1dc6ac45a5e4640b0
 
 # Artículo 32
 
-La resolución de Declaración Especial de Ausencia no eximirá a las autoridades competentes, de continuar con las investigaciones encaminadas al esclarecimiento de la verdad y de la búsqueda de la Persona Desaparecida hasta que no se conozca su paradero y haya sido plenamente identificada.
+La resolución de [Declaración Especial de Ausencia](articulo-3.md) no eximirá a las autoridades competentes, de continuar con las investigaciones encaminadas al esclarecimiento de la verdad y de la búsqueda de la [Persona Desaparecida](articulo-3.md) hasta que no se conozca su paradero y haya sido plenamente identificada.

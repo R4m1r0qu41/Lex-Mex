@@ -17,4 +17,4 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # Artículo 68
 
-Queda prohibido que embarcaciones pesqueras de bandera extranjera desembarquen en puertos mexicanos productos pesqueros provenientes de la pesca comercial, excepto en caso de siniestro o en aquellos casos en que expresamente lo autorice la Secretaría.
+Queda prohibido que embarcaciones pesqueras de bandera extranjera desembarquen en puertos mexicanos productos pesqueros provenientes de la pesca comercial, excepto en caso de siniestro o en aquellos casos en que expresamente lo autorice la [Secretaría](articulo-2o.md).

@@ -17,4 +17,4 @@ source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 
 # Artículo 28
 
-Para fomentar la participación social corresponsable durante el periodo de consulta pública, la Secretaría organizará foros regionales a través de los órganos de consulta a que se refiere el artículo [159](../../lgeepa/markdown/articulo-159.md) de la Ley.
+Para fomentar la participación social corresponsable durante el periodo de consulta pública, la [Secretaría](articulo-3o.md) organizará foros regionales a través de los órganos de consulta a que se refiere el artículo [159](../../lgeepa/markdown/articulo-159.md) de la [Ley](articulo-3o.md).

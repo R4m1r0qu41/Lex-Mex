@@ -17,4 +17,4 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 115
 
-La Secretaría promoverá que en la determinación de usos del suelo que definan los programas de desarrollo urbano respectivos, se consideren las condiciones topográficas, climatológicas y meteorológicas, para asegurar la adecuada dispersión de contaminantes.
+La [Secretaría](articulo-3o.md) promoverá que en la determinación de usos del suelo que definan los programas de desarrollo urbano respectivos, se consideren las condiciones topográficas, climatológicas y meteorológicas, para asegurar la adecuada dispersión de contaminantes.

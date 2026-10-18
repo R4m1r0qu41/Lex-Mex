@@ -19,21 +19,21 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 Para los efectos de la presente Ley se entiende por:
 
-I. Acreditación: al reconocimiento emitido por una Entidad de Acreditación por la cual se reconoce la competencia técnica y confiabilidad de las entidades para operar como Organismos de Evaluación de la Conformidad, para llevar a cabo la Evaluación de la Conformidad.
+I. Acreditación: al reconocimiento emitido por una [Entidad de Acreditación](articulo-4.md) por la cual se reconoce la competencia técnica y confiabilidad de las entidades para operar como [Organismos de Evaluación de la Conformidad](articulo-4.md), para llevar a cabo la [Evaluación de la Conformidad](articulo-4.md).
 
-II. Acuerdo de equivalencia: una resolución que especifica las condiciones mediante las cuales se reconocen unilateralmente o recíprocamente los reglamentos técnicos extranjeros, las medidas sanitarias o fitosanitarias, o los resultados de los procedimientos de evaluación de la conformidad emitidos por los organismos en el territorio de otro país y que contemplen cuando menos el mismo grado de conformidad para lograr los objetivos legítimos perseguidos por las Normas Oficiales Mexicanas apropiadas.
+II. Acuerdo de equivalencia: una resolución que especifica las condiciones mediante las cuales se reconocen unilateralmente o recíprocamente los reglamentos técnicos extranjeros, las medidas sanitarias o fitosanitarias, o los resultados de los procedimientos de evaluación de la conformidad emitidos por los organismos en el territorio de otro país y que contemplen cuando menos el mismo grado de conformidad para lograr los objetivos legítimos perseguidos por las [Normas Oficiales Mexicanas](articulo-4.md) apropiadas.
 
-III. Acuerdo de reconocimiento mutuo: un acuerdo intergubernamental que especifica las condiciones mediante las cuales se reconocen recíprocamente los resultados de los procedimientos de evaluación de la conformidad emitidos por los organismos de evaluación de la conformidad en el territorio de otro país que demuestren el cumplimiento de las Normas Oficiales Mexicanas o Estándares apropiados.
+III. Acuerdo de reconocimiento mutuo: un acuerdo intergubernamental que especifica las condiciones mediante las cuales se reconocen recíprocamente los resultados de los procedimientos de evaluación de la conformidad emitidos por los organismos de evaluación de la conformidad en el territorio de otro país que demuestren el cumplimiento de las Normas Oficiales Mexicanas o [Estándares](articulo-4.md) apropiados.
 
-IV. Aprobación: al acto por el cual una Autoridad Normalizadora reconoce a los Organismos de Evaluación de la Conformidad que hayan obtenido la Acreditación, para realizar la Evaluación de la Conformidad relacionada con Normas Oficiales Mexicanas, Estándares, Normas Internacionales ahí referidos o de otras disposiciones legales.
+IV. Aprobación: al acto por el cual una [Autoridad Normalizadora](articulo-4.md) reconoce a los Organismos de Evaluación de la Conformidad que hayan obtenido la [Acreditación](articulo-4.md), para realizar la Evaluación de la Conformidad relacionada con Normas Oficiales Mexicanas, Estándares, [Normas Internacionales](articulo-4.md) ahí referidos o de otras disposiciones legales.
 
 V. Arreglo de reconocimiento mutuo o arreglo de reconocimiento multilateral: un arreglo internacional o regional entre los organismos de acreditación, que reconoce la equivalencia de los sistemas de acreditación basado en la revisión por pares o entre organismos de evaluación de la conformidad, que reconocen los resultados de dicha evaluación.
 
 VI. Autoridad Normalizadora: a las dependencias o entidades competentes de la Administración Pública Federal que tengan atribuciones o facultades expresas para realizar actividades de normalización y estandarización.
 
-VII. Comisión: a la Comisión Nacional de Infraestructura de la Calidad.
+VII. Comisión: a la Comisión Nacional de [Infraestructura de la Calidad](articulo-4.md).
 
-VIII. Comités Mexicanos: a los comités creados por la Comisión a solicitud de la Secretaría o de las Autoridades Normalizadoras para la atención de organismos internacionales de normalización. Los Comités Mexicanos deberán estar integrados por los diversos sectores interesados de acuerdo con lo previsto en el Reglamento de esta Ley.
+VIII. Comités Mexicanos: a los comités creados por la [Comisión](articulo-4.md) a solicitud de la [Secretaría](articulo-4.md) o de las Autoridades Normalizadoras para la atención de organismos internacionales de normalización. Los Comités Mexicanos deberán estar integrados por los diversos sectores interesados de acuerdo con lo previsto en el Reglamento de esta Ley.
 
 IX. Entidades de Acreditación: a las personas morales debidamente autorizadas por la Secretaría para conocer, tramitar y resolver las solicitudes de Acreditación y, en su caso, emitir las Acreditaciones a favor de aquéllos que pretendan operar como Organismos de Evaluación de la Conformidad. X. Estándar: al documento técnico que prevé un uso común y repetido de reglas, especificaciones, atributos o métodos de prueba aplicables a un bien, producto, proceso o servicio, así como aquéllas relativas a terminología, simbología, embalaje, marcado, etiquetado o concordaciones.
 
@@ -69,4 +69,4 @@ XXVI. Verificación: a la actividad que realizan las autoridades competentes par
 
 XXVII. Vigilancia: al acto por el cual las autoridades competentes revisan que las actividades de las Entidades de Acreditación y los Organismos de Evaluación de la Conformidad se realicen conforme a lo establecido en la presente Ley.
 
-La Secretaría, en coordinación con el Centro Nacional de Metrología, publicará en la Plataforma Tecnológica Integral de Infraestructura de la Calidad, los términos y definiciones complementarios que sean necesarios en relación con la presente Ley en materia de metrología, de conformidad con los parámetros internacionales que corresponda y su aplicación será de uso general.
+La Secretaría, en coordinación con el Centro Nacional de Metrología, publicará en la [Plataforma Tecnológica Integral de Infraestructura de la Calidad](articulo-4.md), los términos y definiciones complementarios que sean necesarios en relación con la presente Ley en materia de metrología, de conformidad con los parámetros internacionales que corresponda y su aplicación será de uso general.

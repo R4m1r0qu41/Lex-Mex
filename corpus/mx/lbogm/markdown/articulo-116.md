@@ -17,7 +17,7 @@ source_sha256: b3c906475b455176de73da17f4f93a73f295965dc9bcca854b48417c7d4d3cfc
 
 # Artículo 116
 
-Cuando las Secretarías competentes ordenen alguna de las medidas previstas en el [artículo anterior](articulo-115.md), indicarán al interesado las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se ordene el retiro de las medidas impuestas.
+Cuando las [Secretarías](articulo-3.md) competentes ordenen alguna de las medidas previstas en el [artículo anterior](articulo-115.md), indicarán al interesado las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se ordene el retiro de las medidas impuestas.
 
 Si el interesado se rehusare a llevar a cabo las acciones para subsanar las irregularidades que motivaron la imposición de la o las medidas de que se trate, la Secretaría que las haya impuesto las realizará inmediatamente, con cargo total al interesado renuente.
 

@@ -17,7 +17,7 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 33
 
-Tienen derecho al 100% del haber de la jerarquía que se reconozca para efectos de retiro, como base de cálculo para determinar el monto del haber de retiro en la forma establecida en el artículo [31](articulo-31.md) de esta Ley:
+Tienen derecho al 100% del haber de la jerarquía que se reconozca para efectos de retiro, como base de cálculo para determinar el monto del haber de retiro en la forma establecida en el artículo [31](articulo-31.md) de esta [Ley](articulo-4o.md):
 
 I. Los militares incapacitados en acción de armas o a consecuencia de lesiones recibidas en ella;
 

@@ -19,9 +19,9 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 No se requerirá la autorización de concentraciones a que se refiere el artículo [86](articulo-86.md) de esta Ley en los casos siguientes:
 
-I. Cuando la transacción implique una reestructuración corporativa, en la cual los Agentes Económicos pertenezcan al mismo grupo de interés económico y ningún tercero participe en la concentración;
+I. Cuando la transacción implique una reestructuración corporativa, en la cual los [Agentes Económicos](articulo-3.md) pertenezcan al mismo grupo de interés económico y ningún tercero participe en la concentración;
 
-II. Cuando el titular de acciones, partes sociales o unidades de participación incremente su participación relativa en el capital social de una sociedad en la que tenga el control de la misma desde su constitución o inicio de operaciones, o bien, cuando el Pleno haya autorizado la adquisición de dicho control y posteriormente incremente su participación relativa en el capital social de la referida sociedad;
+II. Cuando el titular de acciones, partes sociales o unidades de participación incremente su participación relativa en el capital social de una sociedad en la que tenga el control de la misma desde su constitución o inicio de operaciones, o bien, cuando el [Pleno](articulo-3.md) haya autorizado la adquisición de dicho control y posteriormente incremente su participación relativa en el capital social de la referida sociedad;
 
 III. Cuando se trate de la constitución de fideicomisos de administración, garantía o de cualquier otra clase en la que un Agente Económico aporte sus activos, acciones, partes sociales o unidades de participación sin que la finalidad o consecuencia necesaria sea la transferencia de dichos activos, acciones, partes sociales o unidades de participación a una sociedad distinta tanto del fideicomitente como de la institución fiduciaria correspondiente. Sin embargo, en caso de ejecución del fideicomiso de garantía se deberá de notificar si se actualiza alguno de los umbrales referidos en el artículo [86](articulo-86.md) de esta Ley;
 
@@ -39,4 +39,4 @@ d) Dirigir o influenciar directa o indirectamente la administración, operación
 
 VII. Se deroga Fracción derogada DOF 16-07-2025
 
-VIII. En los demás casos que establezcan las Disposiciones Regulatorias.
+VIII. En los demás casos que establezcan las [Disposiciones Regulatorias](articulo-3.md).

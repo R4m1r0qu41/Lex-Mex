@@ -17,6 +17,6 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 119 Bis 2
 
-El SENASICA certificará a petición de parte, previo cumplimiento de las disposiciones de esta Ley y demás que de ella emanen, la instalación y funcionamiento de establecimientos Tipo Inspección Federal dedicados al procesamiento primario de recursos, partes y derivados de origen pesquero y acuícola para consumo humano.
+El [SENASICA](articulo-4o.md) certificará a petición de parte, previo cumplimiento de las disposiciones de esta Ley y demás que de ella emanen, la instalación y funcionamiento de establecimientos Tipo Inspección Federal dedicados al procesamiento primario de recursos, partes y derivados de origen pesquero y acuícola para consumo humano.
 
 Artículo adicionado DOF 30-05-2012

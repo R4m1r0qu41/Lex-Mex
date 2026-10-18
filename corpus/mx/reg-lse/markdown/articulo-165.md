@@ -17,4 +17,4 @@ source_sha256: 4bcc982b308b0813469b30db61b53d5a2c41e5a7240b3b1cac2f1aeeb2c00a2e
 
 # Artículo 165
 
-Los términos y convenios que se refieren en el artículo [80](../../lse/markdown/articulo-80.md) de la Ley, bajo los cuales las Integrantes del Sector Eléctrico deben colaborar dentro de los pequeños sistemas eléctricos, pueden ser propuestos para autorización de la Secretaría, por las propias Integrantes del Sector Eléctrico, el CENACE, la Empresa Pública del Estado o la CNE.
+Los términos y convenios que se refieren en el artículo [80](../../lse/markdown/articulo-80.md) de la [Ley](articulo-2.md), bajo los cuales las Integrantes del Sector Eléctrico deben colaborar dentro de los pequeños sistemas eléctricos, pueden ser propuestos para autorización de la Secretaría, por las propias Integrantes del Sector Eléctrico, el CENACE, la Empresa Pública del Estado o la CNE.

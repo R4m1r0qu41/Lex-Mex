@@ -17,7 +17,7 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 220
 
-Formulación de la solicitud Las personas legitimadas al iniciar una controversia judicial deberán presentarla por escrito ante la administración del juzgado de ejecución, la cual deberá indicar: I. Nombre del promovente, y cuando este sea persona diversa al que está sujeto a una medida de internamiento, deberá señalar domicilio o forma para recibir notificaciones y documentos, en términos del Código Nacional;
+Formulación de la solicitud Las personas legitimadas al iniciar una controversia judicial deberán presentarla por escrito ante la administración del juzgado de ejecución, la cual deberá indicar: I. Nombre del promovente, y cuando este sea persona diversa al que está sujeto a una medida de internamiento, deberá señalar domicilio o forma para recibir notificaciones y documentos, en términos del [Código Nacional](articulo-3.md);
 
 II. Juez competente;
 

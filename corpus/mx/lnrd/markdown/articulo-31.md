@@ -15,4 +15,4 @@ source_sha256: 0a9852297132d8972d0c2f77e1b67d614bd296632109065e703bd09254187aea
 
 # Artículo 31
 
-El Sistema de Consulta del Registro es una herramienta tecnológica que permite a cualquier persona realizar una búsqueda sobre personas detenidas.
+El [Sistema de Consulta](articulo-2.md) del [Registro](articulo-2.md) es una herramienta tecnológica que permite a cualquier persona realizar una búsqueda sobre personas detenidas.

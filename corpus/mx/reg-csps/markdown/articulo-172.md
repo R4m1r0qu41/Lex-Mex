@@ -17,4 +17,4 @@ source_sha256: 70464807d63da08244e495f2ff0ac30b12b30119926b84cedc7930397fcb80ef
 
 # Artículo 172
 
-La Secretaría podrá solicitar la siguiente información: I. Descripción del producto, en la que se señale: a. Nombre de cada ingrediente, nombre científico en el caso de plantas y la monografía para aquellas sustancias no comunes y b. Fórmula cuantitativa; II. Modo de empleo, y III. Muestra de la etiqueta original e información con la que se comercialice.
+La [Secretaría](articulo-2o.md) podrá solicitar la siguiente información: I. Descripción del producto, en la que se señale: a. Nombre de cada ingrediente, nombre científico en el caso de plantas y la monografía para aquellas sustancias no comunes y b. Fórmula cuantitativa; II. Modo de empleo, y III. Muestra de la etiqueta original e información con la que se comercialice.

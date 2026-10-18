@@ -17,9 +17,9 @@ source_sha256: d8dd1de3627b899bb4faf31c2812c3d5f14f7108be153d5aa8dd549b9136184a
 
 # Artículo 29
 
-El Consejo Nacional sesionará ordinariamente en pleno por lo menos una vez al año y extraordinariamente cuando sea convocado por el Presidente de la República. Corresponde al Secretario Ejecutivo:
+El [Consejo Nacional](articulo-2.md) sesionará ordinariamente en pleno por lo menos una vez al año y extraordinariamente cuando sea convocado por el Presidente de la República. Corresponde al Secretario Ejecutivo:
 
-I. Presentar a la consideración del Consejo Nacional el Informe del Avance del Programa Nacional;
+I. Presentar a la consideración del Consejo Nacional el Informe del Avance del [Programa Nacional](articulo-2.md);
 
 II. Concertar con los poderes Legislativo y Judicial de la Unión, así como con las autoridades de las entidades federativas y con las organizaciones voluntarias, privadas y sociales el cumplimiento del Programa Nacional;
 
@@ -31,7 +31,7 @@ V. Compilar los acuerdos que se tomen en el Consejo Nacional, llevar el archivo 
 
 VI. Informar periódicamente al Consejo Nacional y a su Presidente de sus actividades;
 
-VII. Celebrar convenios de coordinación, colaboración y concertación necesarios para el cumplimiento de los fines del Sistema Nacional;
+VII. Celebrar convenios de coordinación, colaboración y concertación necesarios para el cumplimiento de los fines del [Sistema Nacional](articulo-2.md);
 
 VIII. Verificar el cumplimiento de las disposiciones de esta Ley, los convenios generales y específicos en la materia, así como las demás disposiciones aplicables e informar lo conducente al Consejo Nacional;
 

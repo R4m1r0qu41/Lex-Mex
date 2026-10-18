@@ -17,6 +17,6 @@ source_sha256: 8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca
 
 # Artículo 72
 
-Los procedimientos específicos para la aplicación de los exámenes médicos, registro, control y trámite de la documentación correspondiente, serán establecidos en el Manual y en la Directiva de Promoción.
+Los procedimientos específicos para la aplicación de los exámenes médicos, registro, control y trámite de la documentación correspondiente, serán establecidos en el [Manual](articulo-5.md) y en la [Directiva de Promoción](articulo-5.md).
 
 Artículo reformado DOF 22-09-2010, 11-03-2016

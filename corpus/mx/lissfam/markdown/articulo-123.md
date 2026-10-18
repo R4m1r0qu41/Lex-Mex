@@ -21,9 +21,9 @@ Las operaciones a que se refiere el [artículo anterior](articulo-122.md), se su
 
 I. El plazo para cubrir el precio del inmueble no excederá de 15 años;
 
-II. La tasa de interés será la que fije la Junta Directiva, pero no excederá del 8% anual sobre saldos insolutos;
+II. La tasa de interés será la que fije la [Junta](articulo-4o.md) Directiva, pero no excederá del 8% anual sobre saldos insolutos;
 
-III. Si el militar hubiese pagado sus abonos con regularidad durante cinco años o más y se viere imposibilitado de continuar cubriéndolos, tendrá derecho a que el Instituto remate en subasta pública el inmueble y que el producto, una vez pagado el saldo insoluto y sus accesorios, se le entregue el remanente;
+III. Si el militar hubiese pagado sus abonos con regularidad durante cinco años o más y se viere imposibilitado de continuar cubriéndolos, tendrá derecho a que el [Instituto](articulo-4o.md) remate en subasta pública el inmueble y que el producto, una vez pagado el saldo insoluto y sus accesorios, se le entregue el remanente;
 
 IV. Si la imposibilidad del pago ocurre dentro de los cinco primeros años, el inmueble será devuelto al Instituto, rescindiéndose el contrato y sólo se cobrará al militar el importe de las rentas causadas durante el periodo de ocupación del inmueble, devolviéndose la diferencia entre éstas y lo que hubiere abonado a cuenta del precio. Para los efectos de este artículo, se fijará desde la celebración del contrato la renta mensual que se le asigne al inmueble, y
 

@@ -17,7 +17,7 @@ source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 
 # Artículo 106
 
-Dentro de los procedimientos a que se refiere este capítulo, las partes podrán realizar la consignación ante la Procuraduría, mediante la exhibición de billetes de depósito expedidos por institución legalmente facultada para ello:
+Dentro de los procedimientos a que se refiere este capítulo, las partes podrán realizar la consignación ante la [Procuraduría](articulo-2.md), mediante la exhibición de billetes de depósito expedidos por institución legalmente facultada para ello:
 
 I. Cuando el acreedor rehuse recibir la cantidad correspondiente;
 

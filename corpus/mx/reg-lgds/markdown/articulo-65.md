@@ -17,4 +17,4 @@ source_sha256: aca2d65d2eef1b7c26ab431772ce7364305d103f5e4bacc87da02064df005ae3
 
 # Artículo 65
 
-Los proyectos de coinversión social serán objeto de control, seguimiento y evaluación en los términos previstos en la Ley y en las demás disposiciones jurídicas aplicables.
+Los proyectos de coinversión social serán objeto de control, seguimiento y evaluación en los términos previstos en la [Ley](articulo-3.md) y en las demás disposiciones jurídicas aplicables.

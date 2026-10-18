@@ -25,7 +25,7 @@ II. Contar con las instalaciones dignas y seguras y con los artículos necesario
 
 III. Recibir a su ingreso al Centro Especializado, la valoración médica que deberá comprender un examen exhaustivo a fin de determinar sus necesidades básicas y específicas de atención de salud, y
 
-IV. Recibir la atención médica especializada, la cual deberá brindarse en hospitales o lugares específicos establecidos en el Centro Especializado, en los términos establecidos en la presente Ley.
+IV. Recibir la atención médica especializada, la cual deberá brindarse en hospitales o lugares específicos establecidos en el Centro Especializado, en los términos establecidos en la presente [Ley](articulo-3.md).
 
 Además de éstos, las madres adolescentes con medida de internamiento tendrán los siguientes derechos:
 
@@ -35,7 +35,7 @@ II. A permanecer con sus hijas o hijos menores de tres años mientras dure la me
 
 III. Acceder, a los medios necesarios que les permitan a las mujeres con hijas e hijos a su cargo adoptar disposiciones respecto a su cuidado, y
 
-IV. Para el caso de las mujeres que deseen conservar la custodia de la hija o el hijo menor de tres años, durante su estancia en el Centro Especializado y no hubiera familiar que pudiera hacerse responsable en la familia de origen, la Autoridad Administrativa establecerá los criterios para garantizar el ingreso de la niña o el niño, ante lo cual se notificará a la Procuraduría de Protección competente. Por su parte, las hijas e hijos que acompañan a sus madres en un Centro Especializado tendrán los siguientes derechos:
+IV. Para el caso de las mujeres que deseen conservar la custodia de la hija o el hijo menor de tres años, durante su estancia en el Centro Especializado y no hubiera familiar que pudiera hacerse responsable en la familia de origen, la [Autoridad Administrativa](articulo-3.md) establecerá los criterios para garantizar el ingreso de la niña o el niño, ante lo cual se notificará a la [Procuraduría de Protección](articulo-3.md) competente. Por su parte, las hijas e hijos que acompañan a sus madres en un Centro Especializado tendrán los siguientes derechos:
 
 I. En el caso de que las hijas e hijos permanezcan con sus madres en el Centro Especializado, deberán recibir alimentación adecuada y saludable acorde con su edad y sus necesidades de salud con la finalidad de contribuir a su desarrollo físico y mental;
 
@@ -47,7 +47,7 @@ La Autoridad Administrativa coadyuvará con las autoridades corresponsables, en 
 
 Las niñas y niños nacidos dentro del Centro Especializado tienen derecho a la identidad. Queda prohibida toda alusión a este lugar de nacimiento en el acta del registro civil correspondiente y en las certificaciones que se expidan. Será responsabilidad del Centro Especializado tramitar el acta de nacimiento.
 
-En el supuesto de que la madre no deseara conservar la custodia de sus hijas e hijos, éstos serán entregados en un plazo no mayor a veinticuatro horas por parte de las autoridades del Centro Especializado a la Procuraduría de Protección competente, la que realizará los trámites correspondientes de acuerdo con la Ley General y demás legislación aplicable.
+En el supuesto de que la madre no deseara conservar la custodia de sus hijas e hijos, éstos serán entregados en un plazo no mayor a veinticuatro horas por parte de las autoridades del Centro Especializado a la Procuraduría de Protección competente, la que realizará los trámites correspondientes de acuerdo con la [Ley General](articulo-3.md) y demás legislación aplicable.
 
 La institucionalización procederá como último recurso y por el menor tiempo posible, priorizando las opciones de cuidado en un entorno familiar.
 

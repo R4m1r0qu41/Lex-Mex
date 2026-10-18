@@ -17,6 +17,6 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 295
 
-En caso de que la acreditación sea cancelada, el Instituto suspenderá los efectos de la declaración de la indicación geográfica protegida hasta en tanto se acredite una nueva persona responsable.
+En caso de que la acreditación sea cancelada, el [Instituto](articulo-4.md) suspenderá los efectos de la declaración de la indicación geográfica protegida hasta en tanto se acredite una nueva persona responsable.
 
 Artículo reformado DOF 03-04-2026

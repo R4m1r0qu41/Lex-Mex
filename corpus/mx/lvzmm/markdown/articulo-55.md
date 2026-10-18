@@ -17,6 +17,6 @@ source_sha256: d9ffbbf8f19b54a93ff577abb1266e4be1316d935e79fad655242955fd80ff70
 
 # Artículo 55
 
-No se hará acreedor a ninguna sanción, quien haya realizado vertimiento por caso fortuito o fuerza mayor, siempre y cuando se justifique la acción implementada a satisfacción de la Secretaría.
+No se hará acreedor a ninguna sanción, quien haya realizado vertimiento por caso fortuito o fuerza mayor, siempre y cuando se justifique la acción implementada a satisfacción de la [Secretaría](articulo-2.md).
 
 Lo anterior no lo exime de la obligación de reparar, compensar, remediar o restaurar los daños ocasionados por el vertimiento.

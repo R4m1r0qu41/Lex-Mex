@@ -1,1 +1,222 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lspcapf:term:ascenso",
+    "term": "Ascenso",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lspcapf",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2",
+    "fraction": "I",
+    "start_char": 106,
+    "end_char": 278,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lspcapf:term:capacidades-profesionales",
+    "term": "Capacidades profesionales",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lspcapf",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2",
+    "fraction": "II",
+    "start_char": 278,
+    "end_char": 549,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lspcapf:term:convenio",
+    "term": "Convenio",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lspcapf",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2",
+    "fraction": "III",
+    "start_char": 549,
+    "end_char": 897,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lspcapf:term:cuerpo-de-funcion",
+    "term": "Cuerpo de función",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lspcapf",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2",
+    "fraction": "IV",
+    "start_char": 897,
+    "end_char": 1207,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lspcapf:term:dgrh",
+    "term": "DGRH",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lspcapf",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2",
+    "fraction": "V",
+    "start_char": 1207,
+    "end_char": 1367,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lspcapf:term:expediente",
+    "term": "Expediente",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lspcapf",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2",
+    "fraction": "VI",
+    "start_char": 1367,
+    "end_char": 1743,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lspcapf:term:experiencia",
+    "term": "Experiencia",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lspcapf",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2",
+    "fraction": "VII",
+    "start_char": 1743,
+    "end_char": 2076,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lspcapf:term:finalista",
+    "term": "Finalista",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lspcapf",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2",
+    "fraction": "VIII",
+    "start_char": 2076,
+    "end_char": 2236,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lspcapf:term:incentivo",
+    "term": "Incentivo",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lspcapf",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2",
+    "fraction": "IX",
+    "start_char": 2236,
+    "end_char": 2481,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lspcapf:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lspcapf",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2",
+    "fraction": "X",
+    "start_char": 2481,
+    "end_char": 2571,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lspcapf:term:merito",
+    "term": "Mérito",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lspcapf",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2",
+    "fraction": "XI",
+    "start_char": 2571,
+    "end_char": 3186,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lspcapf:term:movimiento-o-trayectoria-lateral",
+    "term": "Movimiento o trayectoria lateral",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lspcapf",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2",
+    "fraction": "XII",
+    "start_char": 3186,
+    "end_char": 3379,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lspcapf:term:persona-servidora-publica-de-libre-designacion",
+    "term": "Persona servidora pública de libre designación",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lspcapf",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2",
+    "fraction": "XIII",
+    "start_char": 3379,
+    "end_char": 3628,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lspcapf:term:programa-anual-de-planeacion-del-sistema",
+    "term": "Programa Anual de Planeación del Sistema",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lspcapf",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2",
+    "fraction": "XIV",
+    "start_char": 3628,
+    "end_char": 4034,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lspcapf:term:programa-operativo-anual-del-sistema",
+    "term": "Programa Operativo Anual del Sistema",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lspcapf",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2",
+    "fraction": "XV",
+    "start_char": 4034,
+    "end_char": 4327,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lspcapf:term:promocion",
+    "term": "Promoción",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lspcapf",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2",
+    "fraction": "XVI",
+    "start_char": 4327,
+    "end_char": 4563,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lspcapf:term:puestos-de-designacion-directa",
+    "term": "Puestos de designación directa",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lspcapf",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2",
+    "fraction": "XVII",
+    "start_char": 4563,
+    "end_char": 4866,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lspcapf:term:puestos-de-libre-designacion",
+    "term": "Puestos de libre designación",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lspcapf",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2",
+    "fraction": "XVIII",
+    "start_char": 4866,
+    "end_char": 5155,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lspcapf:term:rebeldia",
+    "term": "Rebeldía",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lspcapf",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2",
+    "fraction": "XIX",
+    "start_char": 5155,
+    "end_char": 5414,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lspcapf:term:unidad",
+    "term": "Unidad",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lspcapf",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspcapf:article:2",
+    "fraction": "XX",
+    "start_char": 5414,
+    "end_char": 5557,
+    "basis": "express_definition"
+  }
+]

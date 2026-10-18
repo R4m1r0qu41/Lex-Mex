@@ -17,4 +17,4 @@ source_sha256: 70464807d63da08244e495f2ff0ac30b12b30119926b84cedc7930397fcb80ef
 
 # Artículo 69
 
-Como medida de seguridad sanitaria, la Secretaría determinará el destino de las canales o sus partes que se encuentren en expendios, transportes y depósitos, cuando no se cumpla con lo dispuesto en este título o carezcan de envase o éste se encuentre violado o roto.
+Como medida de seguridad sanitaria, la [Secretaría](articulo-2o.md) determinará el destino de las canales o sus partes que se encuentren en expendios, transportes y depósitos, cuando no se cumpla con lo dispuesto en este título o carezcan de envase o éste se encuentre violado o roto.

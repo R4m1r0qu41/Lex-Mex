@@ -17,4 +17,4 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 44
 
-El Sistema Nacional tiene como objetivo diseñar y evaluar de manera eficiente y armónica los recursos del Estado Mexicano para establecer las bases generales, políticas públicas y procedimientos entre las autoridades de todos los órdenes de gobierno para la búsqueda, localización e identificación de Personas Desaparecidas y No Localizadas, así como para la prevención, investigación y sanción de los delitos en materia de esta Ley.
+El [Sistema Nacional](articulo-4.md) tiene como objetivo diseñar y evaluar de manera eficiente y armónica los recursos del Estado Mexicano para establecer las bases generales, políticas públicas y procedimientos entre las autoridades de todos los órdenes de gobierno para la búsqueda, localización e identificación de [Personas Desaparecidas](articulo-4.md) y No Localizadas, así como para la prevención, investigación y sanción de los delitos en materia de esta Ley.

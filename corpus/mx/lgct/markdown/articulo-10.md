@@ -17,13 +17,13 @@ source_sha256: 9f964bc5c075d7cf47e5e9df7c2fbe262eb5bd1794de9b230dbd72026a51ae5e
 
 # Artículo 10
 
-Para efectos de lo anterior, la Secretaría establecerá los lineamientos para la ejecución y evaluación del Programa contra el Tabaquismo, que comprenderá, entre otras, las siguientes acciones:
+Para efectos de lo anterior, la [Secretaría](articulo-6.md) establecerá los lineamientos para la ejecución y evaluación del Programa contra el Tabaquismo, que comprenderá, entre otras, las siguientes acciones:
 
 I. La promoción de la salud;
 
 II. El diagnóstico, prevención, tratamiento y rehabilitación del tabaquismo y de los padecimientos originados por él;
 
-III. La educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niños y adolescentes, a través de métodos individuales, colectivos o de comunicación masiva, incluyendo la orientación a la población para que se abstenga de fumar al interior de los espacios libres de humo de tabaco que establezca esta Ley, sus reglamentos y demás disposiciones aplicables;
+III. La educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niños y adolescentes, a través de métodos individuales, colectivos o de comunicación masiva, incluyendo la orientación a la población para que se abstenga de fumar al interior de los espacios libres de humo de tabaco que establezca esta [Ley](articulo-6.md), sus reglamentos y demás disposiciones aplicables;
 
 IV. La elaboración periódica de un programa de seguimiento y evaluación de metas y logros del Programa contra el Tabaquismo que incluya al menos las conductas relacionadas al tabaco y su impacto en la salud;
 

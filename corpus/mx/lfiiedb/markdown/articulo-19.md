@@ -17,4 +17,4 @@ source_sha256: 7679afbbf32749e0c0bacab72644d41fc6ccdeeab3a2f25dfae8d26a065de01e
 
 # Artículo 19
 
-Aquellos fondos o cualquier fideicomiso público creados por mandato de ley o decreto del Ejecutivo Federal, que tengan por objeto la ejecución de Proyectos para el desarrollo con bienestar en los sectores materia de la presente Ley, podrán utilizarse, así como participar de los mecanismos de inversión contenidos en la misma, siempre que dichas acciones se realicen conforme a sus fines, reglas de operación, en su caso, y al marco jurídico que los rige.
+Aquellos fondos o cualquier fideicomiso público creados por mandato de ley o decreto del Ejecutivo Federal, que tengan por objeto la ejecución de [Proyectos para el desarrollo con bienestar](articulo-4.md) en los sectores materia de la presente [Ley](articulo-4.md), podrán utilizarse, así como participar de los mecanismos de inversión contenidos en la misma, siempre que dichas acciones se realicen conforme a sus fines, reglas de operación, en su caso, y al marco jurídico que los rige.

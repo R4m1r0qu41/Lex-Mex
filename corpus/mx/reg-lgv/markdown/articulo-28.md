@@ -21,8 +21,8 @@ La Comisión Ejecutiva tiene como unidades administrativas básicas las siguient
 
 I. El Registro Nacional de Víctimas;
 
-II. La unidad administrativa responsable del Fondo de Ayuda, Asistencia y Reparación Integral, y
+II. La unidad administrativa responsable del [Fondo](articulo-3.md) de Ayuda, Asistencia y Reparación Integral, y
 
 III. La Asesoría Jurídica Federal.
 
-Asimismo, la Comisión Ejecutiva contará con las unidades administrativas y el personal de dirección, técnico y administrativo, necesario para el despacho eficaz de sus atribuciones, conforme al Estatuto Orgánico y de acuerdo a su presupuesto autorizado para el ejercicio fiscal correspondiente.
+Asimismo, la Comisión Ejecutiva contará con las unidades administrativas y el personal de dirección, técnico y administrativo, necesario para el despacho eficaz de sus atribuciones, conforme al [Estatuto Orgánico](articulo-3.md) y de acuerdo a su presupuesto autorizado para el ejercicio fiscal correspondiente.

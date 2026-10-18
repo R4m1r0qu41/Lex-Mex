@@ -17,4 +17,4 @@ source_sha256: 45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80
 
 # Artículo 28
 
-La Comisión propondrá a la Secretaría mecanismos de capacitación para la gestión de recursos para las personas productoras a fin de mejorar la cultura financiera.
+La [Comisión](articulo-3.md) propondrá a la [Secretaría](articulo-3.md) mecanismos de capacitación para la gestión de recursos para las personas productoras a fin de mejorar la cultura financiera.

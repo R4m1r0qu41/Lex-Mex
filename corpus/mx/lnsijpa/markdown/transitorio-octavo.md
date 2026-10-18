@@ -15,4 +15,4 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Octavo
 
-Prohibición de acumulación de procesos No procederá la acumulación de procedimientos de justicia para adolescentes, cuando alguno de ellos se esté tramitando conforme a la presente Ley y el otro procedimiento conforme a la Ley anterior.
+Prohibición de acumulación de procesos No procederá la acumulación de procedimientos de justicia para adolescentes, cuando alguno de ellos se esté tramitando conforme a la presente [Ley](articulo-3.md) y el otro procedimiento conforme a la Ley anterior.

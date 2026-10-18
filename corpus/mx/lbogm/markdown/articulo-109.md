@@ -17,4 +17,4 @@ source_sha256: b3c906475b455176de73da17f4f93a73f295965dc9bcca854b48417c7d4d3cfc
 
 # Artículo 109
 
-El Registro, que estará a cargo de la Secretaría Ejecutiva de la CIBIOGEM, tendrá carácter público y tiene por objeto la inscripción de la información relativa a las actividades con OGMs, así como de los propios organismos. Su funcionamiento y lo que puede ser objeto de inscripción se determinarán en las disposiciones reglamentarias que deriven de esta Ley. La SEMARNAT, la SAGARPA y la SSA contribuirán a la organización y funcionamiento del Registro.
+El [Registro](articulo-3.md), que estará a cargo de la [Secretaría](articulo-3.md) Ejecutiva de la [CIBIOGEM](articulo-3.md), tendrá carácter público y tiene por objeto la inscripción de la información relativa a las actividades con OGMs, así como de los propios organismos. Su funcionamiento y lo que puede ser objeto de inscripción se determinarán en las disposiciones reglamentarias que deriven de esta Ley. La [SEMARNAT](articulo-3.md), la [SAGARPA](articulo-3.md) y la [SSA](articulo-3.md) contribuirán a la organización y funcionamiento del Registro.

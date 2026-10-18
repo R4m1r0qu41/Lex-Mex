@@ -21,8 +21,8 @@ Para efectos del [artículo anterior](articulo-131.md), se considerarán como re
 
 I.- El periodo que transcurre entre la fecha de recepción y la fecha de la resolución favorable del examen de forma;
 
-II.- Los periodos atribuibles a acciones u omisiones de la persona solicitante, tendientes a retrasar el procedimiento de otorgamiento de la patente y los plazos adicionales empleados, conforme al artículo [117](articulo-117.md) de esta Ley; Fracción reformada DOF 03-04-2026
+II.- Los periodos atribuibles a acciones u omisiones de la persona solicitante, tendientes a retrasar el procedimiento de otorgamiento de la patente y los plazos adicionales empleados, conforme al artículo [117](articulo-117.md) de esta [Ley](articulo-4.md); Fracción reformada DOF 03-04-2026
 
-III.- Los periodos no atribuibles a acciones u omisiones del Instituto o que queden fuera de su control, tales como los que transcurran en la substanciación de cualquier medio de impugnación administrativo o jurisdiccional o que deriven de los mismos, y
+III.- Los periodos no atribuibles a acciones u omisiones del [Instituto](articulo-4.md) o que queden fuera de su control, tales como los que transcurran en la substanciación de cualquier medio de impugnación administrativo o jurisdiccional o que deriven de los mismos, y
 
 IV.- Los periodos atribuibles a causas de fuerza mayor o caso fortuito.

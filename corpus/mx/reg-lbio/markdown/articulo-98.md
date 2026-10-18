@@ -17,4 +17,4 @@ source_sha256: 7df3d678efda2306b68d3c0f5ca0e3e92b9066d5f773128f4ae19cb26bf44fff
 
 # Artículo 98
 
-La evaluación del impacto ambiental a la que se refiere el artículo 6, fracción VI de la Ley debe efectuarse conforme a lo previsto en la normatividad aplicable.
+La evaluación del impacto ambiental a la que se refiere el artículo 6, fracción VI de la [Ley](articulo-3.md) debe efectuarse conforme a lo previsto en la normatividad aplicable.

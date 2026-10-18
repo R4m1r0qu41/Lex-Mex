@@ -17,7 +17,7 @@ source_sha256: 51d855a586ad7017a8d8f5c36819a2bd0d3d488f3f4b23594a729418a8b776b4
 
 # Artículo 7
 
-Las dependencias y entidades de la Administración Pública Federal y la Procuraduría General de la República, en la ejecución de acciones de atención, asistencia y protección a las víctimas, se sujetarán al Modelo Integral de Atención a Víctimas.
+Las dependencias y entidades de la Administración Pública Federal y la Procuraduría General de la República, en la ejecución de acciones de atención, asistencia y protección a las víctimas, se sujetarán al [Modelo Integral de Atención a Víctimas](articulo-3.md).
 
 La Comisión Ejecutiva puede celebrar convenios de coordinación con las entidades federativas y sus municipios, en el ámbito de sus respectivas competencias, a efecto de coadyuvar en la atención, asistencia y protección a las víctimas.
 

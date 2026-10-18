@@ -17,7 +17,7 @@ source_sha256: 71ee875c26fc6a1024ea9481ca0690721959514689d860112c3093f0176dfcfb
 
 # Artículo 10
 
-El Modelo de Prevención es el conjunto de acciones encaminadas a promover y difundir los derechos de las mujeres e identificar factores de riesgo con el fin de evitar actos de violencia. Sin perjuicio de lo previsto en el Programa, el Modelo se integrará por las siguientes acciones:
+El [Modelo](articulo-2.md) de Prevención es el conjunto de acciones encaminadas a promover y difundir los derechos de las mujeres e identificar factores de riesgo con el fin de evitar actos de violencia. Sin perjuicio de lo previsto en el Programa, el Modelo se integrará por las siguientes acciones:
 
 I. Sensibilizar, concientizar y educar para prevenir la violencia en todos sus tipos y Modalidades previstas en la Ley;
 

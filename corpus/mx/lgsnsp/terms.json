@@ -1,1 +1,145 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:term:academias-o-institutos",
+    "term": "Academias o Institutos",
+    "instrument_id": "urn:lex-mx:federal:statute:lgsnsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:4",
+    "fraction": "I",
+    "start_char": 71,
+    "end_char": 331,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:term:centros-de-comando-y-control",
+    "term": "Centros de Comando y Control",
+    "instrument_id": "urn:lex-mx:federal:statute:lgsnsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:4",
+    "fraction": "II",
+    "start_char": 331,
+    "end_char": 454,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:term:conferencias-nacionales",
+    "term": "Conferencias Nacionales",
+    "instrument_id": "urn:lex-mx:federal:statute:lgsnsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:4",
+    "fraction": "III",
+    "start_char": 454,
+    "end_char": 555,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:term:consejo-nacional",
+    "term": "Consejo Nacional",
+    "instrument_id": "urn:lex-mx:federal:statute:lgsnsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:4",
+    "fraction": "IV",
+    "start_char": 555,
+    "end_char": 619,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:term:fondos-de-ayuda-federal",
+    "term": "Fondos de Ayuda Federal",
+    "instrument_id": "urn:lex-mx:federal:statute:lgsnsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:4",
+    "fraction": "V",
+    "start_char": 619,
+    "end_char": 711,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:term:gabinete-federal",
+    "term": "Gabinete Federal",
+    "instrument_id": "urn:lex-mx:federal:statute:lgsnsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:4",
+    "fraction": "VI",
+    "start_char": 711,
+    "end_char": 775,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:term:instituciones-de-procuracion-de-justicia",
+    "term": "Instituciones de Procuración de Justicia",
+    "instrument_id": "urn:lex-mx:federal:statute:lgsnsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:4",
+    "fraction": "VII",
+    "start_char": 775,
+    "end_char": 1061,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:term:instituciones-de-seguridad-publica",
+    "term": "Instituciones de Seguridad Pública",
+    "instrument_id": "urn:lex-mx:federal:statute:lgsnsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:4",
+    "fraction": "VIII",
+    "start_char": 1061,
+    "end_char": 1343,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:term:instituciones-policiales",
+    "term": "Instituciones Policiales",
+    "instrument_id": "urn:lex-mx:federal:statute:lgsnsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:4",
+    "fraction": "IX",
+    "start_char": 1343,
+    "end_char": 1787,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:statute:lgsnsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:4",
+    "fraction": "X",
+    "start_char": 1787,
+    "end_char": 1814,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lgsnsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:4",
+    "fraction": "XI",
+    "start_char": 1814,
+    "end_char": 1904,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:term:secretariado-ejecutivo",
+    "term": "Secretariado Ejecutivo",
+    "instrument_id": "urn:lex-mx:federal:statute:lgsnsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:4",
+    "fraction": "XII",
+    "start_char": 1904,
+    "end_char": 2002,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgsnsp:term:sistema",
+    "term": "Sistema",
+    "instrument_id": "urn:lex-mx:federal:statute:lgsnsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:4",
+    "fraction": "XIII",
+    "start_char": 2002,
+    "end_char": 2058,
+    "basis": "express_definition"
+  }
+]

@@ -17,4 +17,4 @@ source_sha256: 23dcee090bbe0c4fb06c75d084cb65ce0b2e8f72a8d082e7059504412bde1614
 
 # Artículo 4o
 
-Los derechos del obtentor y de sus causahabientes, consagrados en la Ley y en el presente Reglamento, se ejercerán libremente, sin más limitaciones que las conducentes para la protección de la biodiversidad.
+Los derechos del obtentor y de sus causahabientes, consagrados en la [Ley](articulo-2o.md) y en el presente Reglamento, se ejercerán libremente, sin más limitaciones que las conducentes para la protección de la biodiversidad.

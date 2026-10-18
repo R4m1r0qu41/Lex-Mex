@@ -17,4 +17,4 @@ source_sha256: 7f01ee1b1deb901a23976507adccbddefbea50b0fc9a4ddceaf1225d711d50d0
 
 # Artículo 77
 
-La permanencia es el resultado del cumplimiento constante de los requisitos establecidos en la presente Ley para continuar en el servicio activo de las Instituciones de Seguridad Pública. Tratándose de la Guardia Nacional se observará lo previsto en el último párrafo del artículo [48](articulo-48.md) de esta Ley. Sección V Terminación del Servicio Profesional de Carrera
+La permanencia es el resultado del cumplimiento constante de los requisitos establecidos en la presente [Ley](articulo-4.md) para continuar en el servicio activo de las [Instituciones de Seguridad Pública](articulo-4.md). Tratándose de la Guardia Nacional se observará lo previsto en el último párrafo del artículo [48](articulo-48.md) de esta Ley. Sección V Terminación del Servicio Profesional de Carrera

@@ -17,7 +17,7 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 75
 
-La nulidad, suspensión o insubsistencia de derechos a que se refiere el [artículo anterior](articulo-74.md), se resolverá por la Secretaría a petición de la parte afectada, conforme al siguiente procedimiento:
+La nulidad, suspensión o insubsistencia de derechos a que se refiere el [artículo anterior](articulo-74.md), se resolverá por la [Secretaría](articulo-1o.md) a petición de la parte afectada, conforme al siguiente procedimiento:
 
 I. La parte afectada presentará su petición por escrito en la que, expresará el nombre del lote o lotes involucrados y número de título o de expediente, así como las razones y pruebas que ofrezca para fundar la petición. En caso de que existan uno o varios terceros perjudicados, el interesado deberá presentar las copias necesarias para correr traslado de la documentación a los mismos, a efecto de que se les de vista para que manifiesten lo que a su derecho convenga;
 

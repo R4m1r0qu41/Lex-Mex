@@ -17,15 +17,15 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 80
 
-Para la elaboración de los Estándares se seguirá el siguiente procedimiento, mismo que se detallará en el Reglamento de esta Ley:
+Para la elaboración de los [Estándares](articulo-4.md) se seguirá el siguiente procedimiento, mismo que se detallará en el Reglamento de esta Ley:
 
-I. Elaboración de la propuesta de Estándar por los Organismos Nacionales de Estandarización, los demás sujetos facultados para estandarizar o, por excepción, por las Autoridades Normalizadoras;
+I. Elaboración de la propuesta de Estándar por los Organismos Nacionales de Estandarización, los demás sujetos facultados para estandarizar o, por excepción, por las [Autoridades Normalizadoras](articulo-4.md);
 
 II. Presentación de la propuesta de Estándar al comité técnico de estandarización correspondiente para su análisis, revisión y deliberación, en cuyo momento, se considerará como un anteproyecto de Estándar;
 
 III. En caso de que el comité técnico de estandarización correspondiente lo considere conveniente, constitución del grupo de trabajo para el análisis y revisión del anteproyecto de Estándar; IV. En su caso, presentación de los resultados del análisis y revisión del anteproyecto de Estándar por parte del grupo de trabajo ante el comité técnico de estandarización, para su deliberación;
 
-V. En caso de que el resultado de la deliberación del comité técnico de estandarización sea afirmativo, quien haya elaborado la propuesta de Estándar lo enviará a la Secretaría para la publicación de un extracto del proyecto en la Plataforma Tecnológica Integral de Infraestructura de la Calidad, para su consulta pública.
+V. En caso de que el resultado de la deliberación del comité técnico de estandarización sea afirmativo, quien haya elaborado la propuesta de Estándar lo enviará a la [Secretaría](articulo-4.md) para la publicación de un extracto del proyecto en la [Plataforma Tecnológica Integral de Infraestructura de la Calidad](articulo-4.md), para su consulta pública.
 
 Cuando la elaboración de la propuesta del Estándar la haya realizado una Autoridad Normalizadora se publicará el proyecto completo en la Plataforma Tecnológica Integral de Infraestructura de la Calidad;
 

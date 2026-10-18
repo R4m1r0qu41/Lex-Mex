@@ -17,4 +17,4 @@ source_sha256: 70464807d63da08244e495f2ff0ac30b12b30119926b84cedc7930397fcb80ef
 
 # Artículo 128
 
-Cuando la Secretaría tenga conocimiento, basado en resultados de investigación científica, de que una hierba o mezclas de ellas muestra indicios de efectos tóxicos o acumulativos o cualquier otro riesgo a la salud, no permitirá su importación e impedirá su elaboración, almacenamiento, distribución y venta, y aplicará las medidas de seguridad necesarias. Asimismo, deberá proceder de inmediato a incluirlas en la lista correspondiente, misma que se publicará en el Diario Oficial de la Federación.
+Cuando la [Secretaría](articulo-2o.md) tenga conocimiento, basado en resultados de investigación científica, de que una hierba o mezclas de ellas muestra indicios de efectos tóxicos o acumulativos o cualquier otro riesgo a la salud, no permitirá su importación e impedirá su elaboración, almacenamiento, distribución y venta, y aplicará las medidas de seguridad necesarias. Asimismo, deberá proceder de inmediato a incluirlas en la lista correspondiente, misma que se publicará en el Diario Oficial de la Federación.

@@ -17,7 +17,7 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 92
 
-En el área objetiva se consolidará la puntuación que se obtenga de la revisión del expediente de cada una de las personas participantes. Estos aspectos, serán insertados en el formato de la hoja individual denominada “Puntuación objetiva” del sistema computarizado de la Promoción Superior, la cual considerará los siguientes parámetros: Párrafo reformado DOF 20-03-2026
+En el área objetiva se consolidará la puntuación que se obtenga de la revisión del expediente de cada una de las personas participantes. Estos aspectos, serán insertados en el formato de la hoja individual denominada “Puntuación objetiva” del sistema computarizado de la [Promoción](articulo-5.md) Superior, la cual considerará los siguientes parámetros: Párrafo reformado DOF 20-03-2026
 
 I. Aspectos positivos:
 
@@ -37,11 +37,11 @@ Se calificarán los cargos que la persona participante haya desempeñado en las 
 
 CARGOS Y COMISIONES DESEMPEÑADOS AÑOS PUNTOS PERSONAS CADETES 4 0 PERSONA ENCUADRADA EN UNIDADES 2 19.006 PERSONA INSTRUCTORA DE MATERIAS TÁCTICAS 1 10.9865 PERSONA OFICIAL ESTUDIANTE EN PLANTEL NACIONAL 3 29.9208 PERSONA COMANDANTE DE COMPAÑÍA, ESCUADRÓN O 2 32.923 BATERÍA PERSONA JEFE DE SECCIÓN DE ESTADO MAYOR DE 1 19.032 BRIGADA, CUERPO DE EJÉRCITO, ZONA O REGIÓN MILITAR PERSONA JEFE DE SECCIÓN DE INSTRUCCIÓN, 3 52.4505 INFORMACIÓN Y OPERACIONES, O SECCIÓN DE PERSONAL, ABASTECIMIENTOS Y AYUDANTÍA PERSONA AYUDANTE GENERAL DEL ALTO MANDO 1 23.0214 PERSONA SUBJEFE DE ESTADO MAYOR DE ZONA MILITAR 3 62.9625 PERSONA AGREGADA MILITAR ADJUNTA 2 42.0325 PERSONA JEFE DE SUBSECCIÓN DEL ESTADO MAYOR DE 3 63.02 LA DEFENSA NACIONAL PERSONA COMANDANTE DE CORPORACIÓN 4 86.0529 PERSONA AYUDANTE GENERAL DEL HEROICO COLEGIO 2 40.004 MILITAR PERSONA GENERAL EN INSTRUCCIÓN EN EL COLEGIO DE 1 16.9725 DEFENSA NACIONAL PERSONA JEFE DE SECCIÓN DEL ESTADO MAYOR DE LA 2 48.0267 DEFENSA NACIONAL PERSONA COMANDANTE DE GUARNICIÓN 2 46.939 PERSONA COMANDANTE DE ZONA MILITAR 3 75.076 PERSONA AGREGADA MILITAR TITULAR 2 46.053 Párrafo con Tabla reformado DOF 20-03-2026
 
-La Comisión de Evaluación podrá determinar la puntuación para los cargos o comisiones no referidos en la tabla anterior, considerando el nivel de responsabilidad y el periodo de desempeño.
+La [Comisión de Evaluación](articulo-5.md) podrá determinar la puntuación para los cargos o comisiones no referidos en la tabla anterior, considerando el nivel de responsabilidad y el periodo de desempeño.
 
 C. Preparación profesional:
 
-a. De conformidad con el artículo [8](../../larefam/markdown/articulo-8.md), fracción V de la Ley, se considerarán los cursos de formación, aplicación, capacitación, actualización, especialización, perfeccionamiento o superiores, los cuales se especifican en el Plan General de Educación Militar. b. También se tomarán en cuenta los cursos de capacitación, perfeccionamiento o superiores realizados en el país o en el extranjero, siempre y cuando en ambos casos se relacionen con el arma, servicio, guardia nacional o especialidad de quien los efectúe. Respecto a los cursos civiles, éstos deberán encontrarse registrados en la Dirección General de Educación Militar y Rectoría del Ejército, Fuerza Aérea y Guardia Nacional. Inciso reformado DOF 20-03-2026
+a. De conformidad con el artículo [8](../../larefam/markdown/articulo-8.md), fracción V de la Ley, se considerarán los cursos de formación, aplicación, capacitación, actualización, especialización, perfeccionamiento o superiores, los cuales se especifican en el Plan General de Educación Militar. b. También se tomarán en cuenta los cursos de capacitación, perfeccionamiento o superiores realizados en el país o en el extranjero, siempre y cuando en ambos casos se relacionen con el arma, servicio, guardia nacional o especialidad de quien los efectúe. Respecto a los cursos civiles, éstos deberán encontrarse registrados en la [Dirección](articulo-5.md) General de Educación Militar y Rectoría del Ejército, Fuerza Aérea y Guardia Nacional. Inciso reformado DOF 20-03-2026
 
 c. Asimismo, se otorgarán puntos adicionales al personal que acredite haber obtenido uno de los tres primeros lugares en cursos nacionales o en el extranjero.
 

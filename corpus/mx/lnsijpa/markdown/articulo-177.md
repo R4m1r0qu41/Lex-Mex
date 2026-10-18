@@ -17,6 +17,6 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 177
 
-Competencia del Órgano Jurisdiccional. El Juez de Ejecución es la autoridad judicial responsable del control y supervisión de la legalidad de la aplicación y ejecución de las medidas de sanción y de internamiento preventivo; debe resolver los incidentes que se presenten durante la ejecución de las medidas de sanción y de internamiento preventivo y garantizar el cumplimiento de los objetivos fijados por esta Ley.
+Competencia del [Órgano Jurisdiccional](articulo-3.md). El Juez de Ejecución es la autoridad judicial responsable del control y supervisión de la legalidad de la aplicación y ejecución de las medidas de sanción y de internamiento preventivo; debe resolver los incidentes que se presenten durante la ejecución de las medidas de sanción y de internamiento preventivo y garantizar el cumplimiento de los objetivos fijados por esta [Ley](articulo-3.md).
 
 En ningún caso, autoridades administrativas o diferentes al Órgano Jurisdiccional podrán decretar la modificación, sustitución o el cumplimiento anticipado de la medida impuesta.

@@ -17,7 +17,7 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 181
 
-El tiempo de servicios comprende tanto el de los efectivos como el de los abonos y será computado en la forma establecida en la Ley para la Comprobación, Ajuste y Cómputo de Servicios aplicable a cada una de las Secretarías, según corresponda.
+El tiempo de servicios comprende tanto el de los efectivos como el de los abonos y será computado en la forma establecida en la [Ley](articulo-4o.md) para la Comprobación, Ajuste y Cómputo de Servicios aplicable a cada una de las Secretarías, según corresponda.
 
 La fracción que exceda de seis meses, será computada como un año completo, únicamente para efectos del cálculo del haber de retiro, pensión o compensación.
 

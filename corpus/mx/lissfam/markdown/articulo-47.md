@@ -17,4 +17,4 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 47
 
-Los hijos adoptivos sólo tendrán derecho a los beneficios que establece esta Ley cuando la adopción se haya hecho por el militar antes de haber cumplido 45 años de edad.
+Los hijos adoptivos sólo tendrán derecho a los beneficios que establece esta [Ley](articulo-4o.md) cuando la adopción se haya hecho por el militar antes de haber cumplido 45 años de edad.

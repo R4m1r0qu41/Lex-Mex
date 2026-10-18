@@ -17,4 +17,4 @@ source_sha256: 1405f36fd836ff74d059ebe7e50ae439cbb9e5e291a317514667f34a26f72a23
 
 # Artículo 166
 
-La aplicación y la interpretación para efectos administrativos de esta Ley corresponde, en el ámbito de sus atribuciones, a las Secretarías de Energía, de Hacienda y Crédito Público y de Economía, a la Comisión Nacional de Energía y a la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos.
+La aplicación y la interpretación para efectos administrativos de esta Ley corresponde, en el ámbito de sus atribuciones, a las Secretarías de Energía, de Hacienda y Crédito Público y de Economía, a la Comisión Nacional de Energía y a la [Agencia](articulo-5.md) Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector [Hidrocarburos](articulo-5.md).

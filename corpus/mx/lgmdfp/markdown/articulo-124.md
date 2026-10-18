@@ -17,7 +17,7 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 124
 
-El Banco Nacional de Datos Forenses, además de la información pericial y forense, útil para la identificación de una persona, debe contar con una base de datos de información genética que contenga, como mínimo: I. La información genética de los Familiares en primer grado en línea recta ascendente o descendente, o segundo grado en línea colateral, de las Personas Desaparecidas y No Localizadas, conforme se requiera, y
+El [Banco Nacional de Datos Forenses](articulo-4.md), además de la información pericial y forense, útil para la identificación de una persona, debe contar con una base de datos de información genética que contenga, como mínimo: I. La información genética de los [Familiares](articulo-4.md) en primer grado en línea recta ascendente o descendente, o segundo grado en línea colateral, de las [Personas Desaparecidas](articulo-4.md) y No Localizadas, conforme se requiera, y
 
 II. La información genética de terceras personas en los casos en que así lo requiera la autoridad ministerial o judicial que corresponda, como datos o medios de prueba.
 

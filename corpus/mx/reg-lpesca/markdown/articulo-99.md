@@ -17,4 +17,4 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # Artículo 99
 
-La pesca de consumo doméstico que efectúen los residentes en las riberas y en las costas no requiere concesión, permiso o autorización, pero el interesado deberá respetar las vedas y normas que la Secretaría señale.
+La pesca de consumo doméstico que efectúen los residentes en las riberas y en las costas no requiere concesión, permiso o autorización, pero el interesado deberá respetar las vedas y normas que la [Secretaría](articulo-2o.md) señale.

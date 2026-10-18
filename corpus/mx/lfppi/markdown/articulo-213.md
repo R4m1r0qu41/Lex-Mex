@@ -17,6 +17,6 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 213
 
-El nombre comercial se regirá en lo que sea aplicable y no haya disposición especial, por lo establecido en esta Ley para las marcas.
+El nombre comercial se regirá en lo que sea aplicable y no haya disposición especial, por lo establecido en esta [Ley](articulo-4.md) para las marcas.
 
 Capítulo VI Del Registro de Marcas

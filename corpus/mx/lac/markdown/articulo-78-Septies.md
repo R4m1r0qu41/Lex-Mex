@@ -15,11 +15,11 @@ source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 
 # Artículo 78 Septies
 
-Una vez que la Agencia Federal de Aviación Civil haya aplicado la totalidad de las fases del plan de implementación del Sistema de gestión de los riesgos asociados a la fatiga, expedirá a las personas proveedoras de servicio su aprobación, en caso de proceder, quienes estarán sujetas a ser supervisadas mediante las visitas de vigilancia, de conformidad con esta Ley, el reglamento correspondiente, normas oficiales mexicanas y las disposiciones técnico-administrativas correspondientes.
+Una vez que la [Agencia Federal de Aviación Civil](articulo-2.md) haya aplicado la totalidad de las fases del plan de implementación del Sistema de gestión de los riesgos asociados a la fatiga, expedirá a las personas proveedoras de servicio su aprobación, en caso de proceder, quienes estarán sujetas a ser supervisadas mediante las visitas de vigilancia, de conformidad con esta Ley, el reglamento correspondiente, normas oficiales mexicanas y las disposiciones técnico-administrativas correspondientes.
 
 Las personas proveedoras de servicio que cuenten con una aprobación otorgada en la gestión de los riesgos asociados a la fatiga estarán sujetas a ser auditadas mediante visitas de vigilancia de conformidad con la norma oficial mexicana y las disposiciones técnico-administrativas correspondientes, las cuales tendrán como objetivo la revisión de la gestión del riesgo asociado a la fatiga mediante el enfoque que las personas proveedoras de servicios hayan implementado, para asegurarse que en forma preventiva y continua se sigan cumpliendo los requisitos establecidos.
 
-La aprobación, o documentación equivalente a lo establecido en los artículos anteriores, que sea expedida por una Autoridad de Aviación Civil Extranjera, serán convalidados por la Agencia Federal de Aviación Civil, siempre y cuando ese país cumpla con los estándares y métodos recomendados por la Organización de Aviación Civil Internacional.
+La aprobación, o documentación equivalente a lo establecido en los artículos anteriores, que sea expedida por una [Autoridad de Aviación Civil Extranjera](articulo-2.md), serán convalidados por la Agencia Federal de Aviación Civil, siempre y cuando ese país cumpla con los estándares y métodos recomendados por la Organización de Aviación Civil Internacional.
 
 Artículo adicionado DOF 03-05-2023
 

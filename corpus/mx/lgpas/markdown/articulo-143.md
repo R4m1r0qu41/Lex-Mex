@@ -17,7 +17,7 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 143
 
-A los productos o bienes decomisados, se les dará el destino que disponga la Secretaría, conforme a las siguientes alternativas:
+A los productos o bienes decomisados, se les dará el destino que disponga la [Secretaría](articulo-4o.md), conforme a las siguientes alternativas:
 
 I. Remate en subasta pública;
 

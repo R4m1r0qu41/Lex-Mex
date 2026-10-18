@@ -17,7 +17,7 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 7o
 
-Las personas físicas o morales interesadas en administrar un área natural protegida deberán demostrar ante la Secretaría que cuentan con capacidad técnica, financiera o de gestión y, presentar un programa de trabajo acorde con lo previsto en el programa de manejo, que contenga la siguiente información:
+Las personas físicas o morales interesadas en administrar un área natural protegida deberán demostrar ante la [Secretaría](articulo-3o.md) que cuentan con capacidad técnica, financiera o de gestión y, presentar un programa de trabajo acorde con lo previsto en el programa de manejo, que contenga la siguiente información:
 
 I.- Objetivos y metas que se pretenden alcanzar;
 

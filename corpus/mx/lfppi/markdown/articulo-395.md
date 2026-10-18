@@ -17,6 +17,6 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 395
 
-Las sanciones establecidas en esta Ley y demás disposiciones derivadas de ella, se impondrán además de la indemnización que corresponda por daños y perjuicios, o la reparación del daño material a las personas afectadas.
+Las sanciones establecidas en esta [Ley](articulo-4.md) y demás disposiciones derivadas de ella, se impondrán además de la indemnización que corresponda por daños y perjuicios, o la reparación del daño material a las personas afectadas.
 
 Artículo reformado DOF 03-04-2026

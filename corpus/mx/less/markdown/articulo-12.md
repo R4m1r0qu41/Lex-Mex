@@ -19,10 +19,10 @@ source_sha256: 74f2c47c7a9282194b2972ec1366352d94f03042c6d0c7f10efde018cb9e3bfb
 
 En lo no previsto por la presente Ley se aplicará supletoriamente:
 
-I. La legislación específica de las distintas figuras en que se constituyan los Organismos del Sector;
+I. La legislación específica de las distintas figuras en que se constituyan los [Organismos del Sector](articulo-5o.md);
 
 II. En su caso la Legislación Civil Federal, y
 
 III. Los usos y prácticas imperantes entre los Organismos del Sector.
 
-El Ejecutivo Federal, a través de la Secretaría, interpretará para efectos administrativos los preceptos de la presente Ley. Párrafo reformado DOF 30-12-2015
+El Ejecutivo Federal, a través de la [Secretaría](articulo-5o.md), interpretará para efectos administrativos los preceptos de la presente Ley. Párrafo reformado DOF 30-12-2015

@@ -17,6 +17,6 @@ source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 
 # Artículo 94
 
-Las comprobaciones de calidad, especificaciones o cualquier otra característica, se efectuarán conforme a las normas oficiales mexicanas; a falta de éstas, conforme las normas mexicanas o a los métodos o procedimientos que determinen la Secretaría o la dependencia competente del Ejecutivo Federal, previa audiencia de los interesados.
+Las comprobaciones de calidad, especificaciones o cualquier otra característica, se efectuarán conforme a las normas oficiales mexicanas; a falta de éstas, conforme las normas mexicanas o a los métodos o procedimientos que determinen la [Secretaría](articulo-2.md) o la dependencia competente del Ejecutivo Federal, previa audiencia de los interesados.
 
 Artículo reformado DOF 04-02-2004

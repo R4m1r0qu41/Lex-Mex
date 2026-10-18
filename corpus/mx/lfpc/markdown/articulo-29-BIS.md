@@ -15,6 +15,6 @@ source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 
 # Artículo 29 BIS
 
-La Procuraduría determinará y aplicará controles de confianza para todo su personal en los términos que establezca el Procurador en los lineamientos correspondientes, como medida para asegurar su probidad y honestidad, y en particular tratándose de quienes realicen o supervisen labores de verificación y vigilancia establecidas en el capítulo XII de la propia ley, se les aplicarán, además de los que se establezcan en los lineamientos referidos, exámenes psicológicos, toxicológicos, patrimoniales y socioeconómicos.
+La [Procuraduría](articulo-2.md) determinará y aplicará controles de confianza para todo su personal en los términos que establezca el Procurador en los lineamientos correspondientes, como medida para asegurar su probidad y honestidad, y en particular tratándose de quienes realicen o supervisen labores de verificación y vigilancia establecidas en el capítulo XII de la propia ley, se les aplicarán, además de los que se establezcan en los lineamientos referidos, exámenes psicológicos, toxicológicos, patrimoniales y socioeconómicos.
 
 Artículo adicionado DOF 26-05-2011

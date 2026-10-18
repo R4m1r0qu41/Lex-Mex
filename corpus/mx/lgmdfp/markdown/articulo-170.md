@@ -17,4 +17,4 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 170
 
-La Comisión Nacional de Búsqueda emitirá los lineamientos que permitan a cada orden de gobierno determinar el número de integrantes que conformarán los Grupos de Búsqueda de conformidad con las cifras de los índices del delito de desaparición forzada de personas y la cometida por particulares, así como de Personas No Localizadas que existan en cada Entidad Federativa o Municipio.
+La [Comisión Nacional de Búsqueda](articulo-4.md) emitirá los lineamientos que permitan a cada orden de gobierno determinar el número de integrantes que conformarán los Grupos de Búsqueda de conformidad con las cifras de los índices del delito de desaparición forzada de personas y la cometida por particulares, así como de [Personas No Localizadas](articulo-4.md) que existan en cada [Entidad Federativa](articulo-4.md) o Municipio.

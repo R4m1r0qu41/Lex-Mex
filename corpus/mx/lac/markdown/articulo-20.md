@@ -17,7 +17,7 @@ source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 
 La prestación de servicios de transporte aéreo internacional regular por personas morales mexicanas estará sujeta a lo siguiente:
 
-I. Para la operación de las rutas correspondientes, se requiere de la autorización que otorgue la Agencia Federal de Aviación Civil; Fracción reformada DOF 03-05-2023
+I. Para la operación de las rutas correspondientes, se requiere de la autorización que otorgue la [Agencia Federal de Aviación Civil](articulo-2.md); Fracción reformada DOF 03-05-2023
 
 II. Las autorizaciones respectivas únicamente se otorgarán a las personas que cuenten con concesión para prestar el servicio de transporte aéreo regular nacional;
 

@@ -17,4 +17,4 @@ source_sha256: 3c0720d560455df51ca882a37390cd0fe017d1987853b8358e37d5195f718055
 
 # Artículo 18
 
-La Secretaría de Comunicaciones y Transportes sólo podrá verificar el cumplimiento de las obligaciones previstas por la Ley, o que los sujetos se encuentran en el caso previsto en los artículos [7](articulo-7.md) de este Reglamento y 10 de la Ley, mediante visita que les practique en su domicilio.
+La Secretaría de Comunicaciones y Transportes sólo podrá verificar el cumplimiento de las obligaciones previstas por la [Ley](articulo-2.md), o que los sujetos se encuentran en el caso previsto en los artículos [7](articulo-7.md) de este Reglamento y 10 de la Ley, mediante visita que les practique en su domicilio.

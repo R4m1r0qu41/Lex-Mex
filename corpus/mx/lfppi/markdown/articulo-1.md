@@ -17,6 +17,6 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 1
 
-Las disposiciones de esta Ley son de orden público y de observancia general en toda la República, sin perjuicio de lo establecido en los Tratados Internacionales de los que México sea parte.
+Las disposiciones de esta [Ley](articulo-4.md) son de orden público y de observancia general en toda la República, sin perjuicio de lo establecido en los [Tratados Internacionales](articulo-4.md) de los que México sea parte.
 
-Su aplicación administrativa corresponde al Ejecutivo Federal por conducto del Instituto Mexicano de la Propiedad Industrial.
+Su aplicación administrativa corresponde al Ejecutivo Federal por conducto del [Instituto](articulo-4.md) Mexicano de la Propiedad Industrial.

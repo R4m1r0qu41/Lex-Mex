@@ -17,9 +17,9 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 62
 
-La Evaluación de la Conformidad, comprende el proceso técnico de demostración de cumplimiento con las Normas Oficiales Mexicanas o con Estándares.
+La [Evaluación de la Conformidad](articulo-4.md), comprende el proceso técnico de demostración de cumplimiento con las [Normas Oficiales Mexicanas](articulo-4.md) o con [Estándares](articulo-4.md).
 
-Las autoridades normalizadoras o los Organismos de Evaluación de la Conformidad podrán evaluar la conformidad a petición de parte, para fines particulares, oficiales, de importación o de exportación. Los resultados de la Evaluación de la Conformidad se harán constar por escrito.
+Las autoridades normalizadoras o los [Organismos de Evaluación de la Conformidad](articulo-4.md) podrán evaluar la conformidad a petición de parte, para fines particulares, oficiales, de importación o de exportación. Los resultados de la Evaluación de la Conformidad se harán constar por escrito.
 
 La evaluación de la conformidad podrá ser efectuada por parte de las autoridades normalizadoras, a falta de infraestructura en el sector privado para llevarla a cabo.
 

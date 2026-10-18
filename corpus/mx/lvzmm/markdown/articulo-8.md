@@ -17,7 +17,7 @@ source_sha256: d9ffbbf8f19b54a93ff577abb1266e4be1316d935e79fad655242955fd80ff70
 
 # Artículo 8
 
-La Secretaría evaluará el origen, las circunstancias y efectos del vertimiento considerando la justificación que para tal efecto presente el interesado, en los siguientes términos:
+La [Secretaría](articulo-2.md) evaluará el origen, las circunstancias y efectos del vertimiento considerando la justificación que para tal efecto presente el interesado, en los siguientes términos:
 
 I. La necesidad de efectuar el vertimiento, posterior a que el interesado demuestre que no es posible otra alternativa;
 

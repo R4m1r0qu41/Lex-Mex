@@ -15,4 +15,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # QUINTO
 
-El Instituto Mexicano de la Propiedad Industrial participará con la Secretaría de Salud, a través de la Comisión Federal para la Protección contra Riesgos Sanitarios, en el establecimiento del mecanismo de colaboración técnica que corresponda, para las invenciones en materia de medicamentos alopáticos. Dicho mecanismo entrará en vigor a los ciento veinte días hábiles siguientes al de la publicación del presente Decreto en el Diario Oficial de la Federación.
+El [Instituto](articulo-4.md) Mexicano de la Propiedad Industrial participará con la Secretaría de Salud, a través de la Comisión Federal para la Protección contra Riesgos Sanitarios, en el establecimiento del mecanismo de colaboración técnica que corresponda, para las invenciones en materia de medicamentos alopáticos. Dicho mecanismo entrará en vigor a los ciento veinte días hábiles siguientes al de la publicación del presente Decreto en el [Diario Oficial](articulo-4.md) de la Federación.

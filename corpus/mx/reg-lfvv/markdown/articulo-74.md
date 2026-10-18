@@ -23,7 +23,7 @@ I.- El solicitante y el infractor podrán convenir sobre el destino de los biene
 
 II.- Si se ha iniciado proceso jurisdiccional para la reparación del daño material o del pago de daños y perjuicios, se pondrán a disposición de la autoridad judicial competente, y
 
-III.- Si transcurridos noventa días naturales contados a partir de la fecha en que se dictó resolución definitiva no se ha presentado ninguno de los supuestos a que se refieren las fracciones I y II anteriores, el Consejo Técnico del SNICS podrá:
+III.- Si transcurridos noventa días naturales contados a partir de la fecha en que se dictó resolución definitiva no se ha presentado ninguno de los supuestos a que se refieren las fracciones I y II anteriores, el Consejo Técnico del [SNICS](articulo-2o.md) podrá:
 
 a) Donar los bienes asegurados a dependencias y entidades de la Administración Pública Federal, Estatal y Municipal y a instituciones públicas de beneficencia o de seguridad social, cuando no se afecte el interés público, o
 

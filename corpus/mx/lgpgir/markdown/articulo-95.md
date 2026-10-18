@@ -17,6 +17,6 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 95
 
-La regulación de la generación y manejo integral de los residuos sólidos urbanos y los residuos de manejo especial, se llevará a cabo conforme a lo que establezca la presente Ley, la Ley General de Economía Circular, las disposiciones emitidas por las legislaturas de las entidades federativas y demás disposiciones aplicables.
+La regulación de la generación y manejo integral de los residuos sólidos urbanos y los residuos de manejo especial, se llevará a cabo conforme a lo que establezca la presente [Ley](articulo-5.md), la Ley General de Economía Circular, las disposiciones emitidas por las legislaturas de las entidades federativas y demás disposiciones aplicables.
 
 Artículo reformado DOF 19-01-2026

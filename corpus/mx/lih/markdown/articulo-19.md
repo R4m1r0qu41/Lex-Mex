@@ -27,7 +27,7 @@ III. Los donativos;
 
 IV. Los costos y gastos por concepto de servidumbres, derechos de vía, ocupaciones temporales o permanentes, arrendamientos o adquisición de terrenos, indemnizaciones y cualquier otra figura análoga, que se derive de lo dispuesto en el artículo [56](../../lsh/markdown/articulo-56.md) y en el Capítulo IV del Título Cuarto de la Ley del Sector Hidrocarburos; Fracción reformada DOF 18-03-2025
 
-V. Los costos en que se incurra por servicios de asesoría, excepto aquéllos previstos en los lineamientos que emita la Secretaría;
+V. Los costos en que se incurra por servicios de asesoría, excepto aquéllos previstos en los lineamientos que emita la [Secretaría](articulo-3.md);
 
 VI. Los gastos derivados del incumplimiento de las normas aplicables, incluyendo las de administración de riesgos;
 
@@ -43,7 +43,7 @@ XI. Los costos legales por cualquier arbitraje o disputa que involucre al Contra
 
 XII. Las comisiones pagadas a corredores;
 
-XIII. Los pagos por concepto de Regalías y Cuotas Contractuales para la Fase Exploratoria correspondientes al Contrato, así como los pagos de Contraprestaciones, gastos, costos e inversiones correspondientes a otros Contratos;
+XIII. Los pagos por concepto de [Regalías](articulo-3.md) y Cuotas Contractuales para la Fase Exploratoria correspondientes al [Contrato](articulo-3.md), así como los pagos de [Contraprestaciones](articulo-3.md), gastos, costos e inversiones correspondientes a otros Contratos;
 
 XIV. Los costos, gastos e inversiones por encima de referencias o precios de mercado razonables, de conformidad con lo que se establezca en las reglas y bases sobre el registro de costos, gastos e inversiones del Contrato, y
 

@@ -19,12 +19,12 @@ source_sha256: 74f2c47c7a9282194b2972ec1366352d94f03042c6d0c7f10efde018cb9e3bfb
 
 El Director General, tendrá las siguientes facultades:
 
-I. Ejercer la representación legal del Instituto;
+I. Ejercer la representación legal del [Instituto](articulo-5o.md);
 
 II. Elaborar el programa anual de actividades del Instituto;
 
-III. Elaborar, proponer y someter a consideración del titular de la Secretaría, para su aprobación, los programas y acciones de fomento y desarrollo a la actividad económica del Sector; Fracción reformada DOF 30-12-2015
+III. Elaborar, proponer y someter a consideración del titular de la [Secretaría](articulo-5o.md), para su aprobación, los programas y acciones de fomento y desarrollo a la actividad económica del [Sector](articulo-5o.md); Fracción reformada DOF 30-12-2015
 
 IV. Presentar un informe anual de actividades a la Secretaría, y turnarlo a las Comisiones competentes del Congreso de la Unión, para su conocimiento, y Fracción reformada DOF 11-06-2013
 
-V. Las demás que señale el Acuerdo del Instituto. Fracción reformada DOF 11-06-2013
+V. Las demás que señale el [Acuerdo](articulo-5o.md) del Instituto. Fracción reformada DOF 11-06-2013

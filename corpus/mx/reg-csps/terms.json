@@ -1,1 +1,134 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-csps:term:anomalia-sanitaria",
+    "term": "Anomalía sanitaria",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-csps",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-csps:article:2",
+    "fraction": "I",
+    "start_char": 54,
+    "end_char": 254,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-csps:term:apendice",
+    "term": "Apéndice",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-csps",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-csps:article:2",
+    "fraction": "II",
+    "start_char": 254,
+    "end_char": 459,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-csps:term:condicion-sanitaria",
+    "term": "Condición sanitaria",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-csps",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-csps:article:2",
+    "fraction": "III",
+    "start_char": 459,
+    "end_char": 615,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-csps:term:dependencias",
+    "term": "Dependencias",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-csps",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-csps:article:2",
+    "fraction": "IV",
+    "start_char": 615,
+    "end_char": 690,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-csps:term:etiqueta",
+    "term": "Etiqueta",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-csps",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-csps:article:2",
+    "fraction": "V",
+    "start_char": 690,
+    "end_char": 930,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-csps:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-csps",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-csps:article:2",
+    "fraction": "VI",
+    "start_char": 930,
+    "end_char": 966,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-csps:term:lote",
+    "term": "Lote",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-csps",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-csps:article:2",
+    "fraction": "VII",
+    "start_char": 966,
+    "end_char": 1071,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-csps:term:normas",
+    "term": "Normas",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-csps",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-csps:article:2",
+    "fraction": "VIII",
+    "start_char": 1071,
+    "end_char": 1119,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-csps:term:producto",
+    "term": "Producto",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-csps",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-csps:article:2",
+    "fraction": "IX",
+    "start_char": 1119,
+    "end_char": 1211,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-csps:term:riesgo",
+    "term": "Riesgo",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-csps",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-csps:article:2",
+    "fraction": "X",
+    "start_char": 1211,
+    "end_char": 1351,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-csps:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-csps",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-csps:article:2",
+    "fraction": "XI",
+    "start_char": 1351,
+    "end_char": 1395,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-csps:term:tercero-autorizado",
+    "term": "Tercero autorizado",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-csps",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-csps:article:2",
+    "fraction": "XII",
+    "start_char": 1395,
+    "end_char": 1675,
+    "basis": "express_definition"
+  }
+]

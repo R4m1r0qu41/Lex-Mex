@@ -19,9 +19,9 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 Además de las facultades expresamente conferidas en la presente Ley y en su Reglamento, el Secretariado Ejecutivo tiene las siguientes atribuciones:
 
-I. Dirigir, planificar y coordinar los aspectos operativos de la labor del Consejo Técnico y los grupos de trabajo tanto de éste como de la Comisión, así como los aspectos logísticos u organizacionales de la Comisión;
+I. Dirigir, planificar y coordinar los aspectos operativos de la labor del Consejo Técnico y los grupos de trabajo tanto de éste como de la [Comisión](articulo-4.md), así como los aspectos logísticos u organizacionales de la Comisión;
 
-II. Coordinar entre las Autoridades Normalizadoras que las acciones y programas de Verificación y Vigilancia y vigilancia del mercado, se lleven a cabo con oportunidad y fomenten la calidad en los servicios que prestan las Entidades de Acreditación y los Organismos de Evaluación de la Conformidad;
+II. Coordinar entre las [Autoridades Normalizadoras](articulo-4.md) que las acciones y programas de [Verificación](articulo-4.md) y [Vigilancia](articulo-4.md) y vigilancia del mercado, se lleven a cabo con oportunidad y fomenten la calidad en los servicios que prestan las [Entidades de Acreditación](articulo-4.md) y los [Organismos de Evaluación de la Conformidad](articulo-4.md);
 
 III. Asesorar al Presidente, así como a los miembros de la Comisión y del Consejo Técnico en el desempeño de sus funciones;
 

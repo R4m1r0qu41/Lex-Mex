@@ -15,7 +15,7 @@ source_sha256: 0a9852297132d8972d0c2f77e1b67d614bd296632109065e703bd09254187aea
 
 # Artículo 23
 
-La actualización de la información del Registro que lleven a cabo las instituciones de procuración de justicia o administrativas deberá contener, cuando menos, lo siguiente:
+La actualización de la información del [Registro](articulo-2.md) que lleven a cabo las instituciones de procuración de justicia o administrativas deberá contener, cuando menos, lo siguiente:
 
 I. Datos de la persona detenida, que serán:
 
@@ -55,4 +55,4 @@ VII. Autoridad que recibe a la persona detenida, así como el día y hora de la 
 
 VIII. En caso de fallecimiento durante la detención o privación de libertad, las circunstancias y causas del deceso y el destino final de la persona fallecida, y
 
-IX. Los demás datos que determine el Centro Nacional de Información conforme a sus atribuciones, que permitan atender el objeto de la presente Ley.
+IX. Los demás datos que determine el [Centro Nacional de Información](articulo-2.md) conforme a sus atribuciones, que permitan atender el objeto de la presente [Ley](articulo-2.md).

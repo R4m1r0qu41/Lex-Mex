@@ -17,4 +17,4 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 148
 
-Cuando sean inexactos los datos o información contenidos en las etiquetas, envases o empaques de los productos, cualesquiera que éstos sean, así como la publicidad que de ellos se haga, las autoridades competentes de forma coordinada con la Secretaría podrán ordenar su modificación, concediendo el término estrictamente necesario para ello, sin perjuicio de imponer la sanción que proceda.
+Cuando sean inexactos los datos o información contenidos en las etiquetas, envases o empaques de los productos, cualesquiera que éstos sean, así como la publicidad que de ellos se haga, las autoridades competentes de forma coordinada con la [Secretaría](articulo-4.md) podrán ordenar su modificación, concediendo el término estrictamente necesario para ello, sin perjuicio de imponer la sanción que proceda.

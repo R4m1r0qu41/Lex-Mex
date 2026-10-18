@@ -17,9 +17,9 @@ source_sha256: 0e34f329befed4474eb7bc1bc195ba13bbe188edfbbabc914a44723e62eb9e44
 
 # Artículo 37
 
-El fideicomiso público al cual se deberán aportar los remanentes de ingresos propios excedentes que obtenga la Agencia, se sujetará a lo siguiente:
+El fideicomiso público al cual se deberán aportar los remanentes de ingresos propios excedentes que obtenga la [Agencia](articulo-3o.md), se sujetará a lo siguiente:
 
-I. Si al finalizar el ejercicio fiscal existiera saldo remanente de ingresos propios excedentes, el Director Ejecutivo de la Agencia instruirá su aportación al fideicomiso público constituido por la Secretaría, en una institución de banca de desarrollo;
+I. Si al finalizar el ejercicio fiscal existiera saldo remanente de ingresos propios excedentes, el Director Ejecutivo de la Agencia instruirá su aportación al fideicomiso público constituido por la [Secretaría](articulo-3o.md), en una institución de banca de desarrollo;
 
 II. La Agencia instruirá al fiduciario la aplicación de los recursos de este fideicomiso a la cobertura de gastos necesarios para cumplir con sus funciones en posteriores ejercicios fiscales, respetando los principios a los que hace referencia el artículo [134](../../cpeum/markdown/articulo-134.md) de la Constitución Política de los Estados Unidos Mexicanos y estando sujetos a la evaluación y al control de la Auditoría Superior de la Federación y de la Secretaría de la Función Pública;
 

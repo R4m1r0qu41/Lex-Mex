@@ -17,4 +17,4 @@ source_sha256: d9ffbbf8f19b54a93ff577abb1266e4be1316d935e79fad655242955fd80ff70
 
 # Artículo 39
 
-Cualquier persona que tenga conocimiento de violaciones a esta Ley, lo informará de inmediato a la Secretaría, para que ésta dentro del ámbito de sus atribuciones, tome las acciones correspondientes.
+Cualquier persona que tenga conocimiento de violaciones a esta [Ley](articulo-2.md), lo informará de inmediato a la [Secretaría](articulo-2.md), para que ésta dentro del ámbito de sus atribuciones, tome las acciones correspondientes.

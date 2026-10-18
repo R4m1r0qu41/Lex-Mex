@@ -17,4 +17,4 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 4
 
-Están sujetos a lo dispuesto por esta Ley todos los Agentes Económicos. Serán responsables solidarios los Agentes Económicos que hayan tomado o adoptado la decisión, así como instruido o ejercido influencia decisiva en la toma de decisión, y el directamente involucrado en la realización de la conducta prohibida por esta Ley.
+Están sujetos a lo dispuesto por esta Ley todos los [Agentes Económicos](articulo-3.md). Serán responsables solidarios los Agentes Económicos que hayan tomado o adoptado la decisión, así como instruido o ejercido influencia decisiva en la toma de decisión, y el directamente involucrado en la realización de la conducta prohibida por esta Ley.

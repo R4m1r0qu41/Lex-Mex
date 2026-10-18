@@ -17,4 +17,4 @@ source_sha256: 1405f36fd836ff74d059ebe7e50ae439cbb9e5e291a317514667f34a26f72a23
 
 # Artículo 29
 
-La legislación mercantil y el derecho común son aplicables para la celebración y ejecución de los Contratos Mixtos.
+La legislación mercantil y el derecho común son aplicables para la celebración y ejecución de los [Contratos Mixtos](articulo-5.md).

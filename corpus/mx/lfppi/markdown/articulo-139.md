@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 139
 
-Para inscribir una transmisión, licencia o gravamen de una solicitud en trámite, patente o registro en el Instituto, bastará formular la petición correspondiente en los términos que fije el Reglamento de esta Ley.
+Para inscribir una transmisión, licencia o gravamen de una solicitud en trámite, patente o registro en el [Instituto](articulo-4.md), bastará formular la petición correspondiente en los términos que fije el Reglamento de esta [Ley](articulo-4.md).
 
 En el caso de que exista un gravamen inscrito previamente y éste no haya sido cancelado, la solicitud de inscripción de transmisión será desechada de plano. Párrafo adicionado DOF 03-04-2026
 

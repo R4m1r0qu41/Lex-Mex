@@ -19,7 +19,7 @@ Cuando se presente una emergencia deberá constituirse un centro operativo de em
 
 El centro operativo de emergencia será convocado por el comandante de aeródromo civil y estará integrado por un representante del prestador de los servicios a la navegación aérea; el administrador aeroportuario o, en su caso, un representante del permisionario del aeródromo civil; un representante del concesionario o permisionario del servicio del transporte aéreo, en caso de que se encuentre involucrado, así como cualquier otra autoridad que, a criterio de dicho grupo, se requiera.
 
-El comandante de aeródromo civil presidirá el centro operativo de emergencia, salvo cuando se cometan actos de interferencia ilícita o en caso de prevención de desastres, en los que presidirá el responsable que designe la Secretaría de Gobernación.
+El comandante de aeródromo civil presidirá el centro operativo de emergencia, salvo cuando se cometan actos de interferencia ilícita o en caso de prevención de desastres, en los que presidirá el responsable que designe la [Secretaría](articulo-2.md) de Gobernación.
 
 Título Décimo De la autoridad aeroportuaria y coordinación de autoridades
 

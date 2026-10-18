@@ -17,7 +17,7 @@ source_sha256: 4b4529ce2b1275ea9363ab78b6e2d504cd1106bc3d10fd70f09246c38b0cd31e
 
 # Artículo 6
 
-Las Reservas y la Reserva General sólo podrán invertirse en valores, títulos de crédito y otros derechos que reúnan las siguientes características:
+Las [Reservas](articulo-2.md) y la [Reserva General](articulo-2.md) sólo podrán invertirse en valores, títulos de crédito y otros derechos que reúnan las siguientes características:
 
 I. Sus riesgos puedan ser medidos y administrados por el Instituto, y
 

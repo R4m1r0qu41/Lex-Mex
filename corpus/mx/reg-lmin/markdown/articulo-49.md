@@ -19,4 +19,4 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 Las solicitudes para la expedición de duplicado del título de concesión o asignación minera deberán contener los datos a que aluden los artículos [4](articulo-4o.md)o. y 44, fracción I de este Reglamento.
 
-Los duplicados se expedirán dentro de los cinco días siguientes a la recepción de la solicitud respectiva conteniendo los datos y constancias que obren inscritos en el Registro.
+Los duplicados se expedirán dentro de los cinco días siguientes a la recepción de la solicitud respectiva conteniendo los datos y constancias que obren inscritos en el [Registro](articulo-1o.md).

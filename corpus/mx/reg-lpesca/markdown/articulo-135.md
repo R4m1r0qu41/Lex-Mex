@@ -17,7 +17,7 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # Artículo 135
 
-La Secretaría o, en su caso, los terceros acreditados y aprobados, en los términos de las normas aplicables, certificarán y registrarán las unidades de cuarentena, previo cumplimiento de los requisitos siguientes:
+La [Secretaría](articulo-2o.md) o, en su caso, los terceros acreditados y aprobados, en los términos de las normas aplicables, certificarán y registrarán las unidades de cuarentena, previo cumplimiento de los requisitos siguientes:
 
 I. Presentar solicitud, la que contendrá: a) Nombre y domicilio del interesado y
 

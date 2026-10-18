@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 21
 
-Las opiniones, diagnósticos, estudios, análisis, prospectivas y recomendaciones, o cualquier otro insumo desarrollado por los Comités o sus grupos de trabajo no son de carácter vinculante para el Consejo.
+Las opiniones, diagnósticos, estudios, análisis, prospectivas y recomendaciones, o cualquier otro insumo desarrollado por los [Comités](articulo-5.md) o sus grupos de trabajo no son de carácter vinculante para el [Consejo](articulo-5.md).

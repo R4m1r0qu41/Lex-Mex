@@ -17,4 +17,4 @@ source_sha256: 9478163ef6ab468edc2be8def3bf84efedd03da5b6c166fba0430bfcb6d8467c
 
 # Artículo 41
 
-Para efectos de lo indicado por el artículo [83](../../lepecfe/markdown/articulo-83.md), fracción XXV de la Ley, no se consideran contrataciones directamente relacionadas con la operación y confiabilidad de instalaciones nucleares, los requerimientos administrativos que tenga la Comisión Federal de Electricidad.
+Para efectos de lo indicado por el artículo [83](../../lepecfe/markdown/articulo-83.md), fracción XXV de la [Ley](articulo-2.md), no se consideran contrataciones directamente relacionadas con la operación y confiabilidad de instalaciones nucleares, los requerimientos administrativos que tenga la Comisión Federal de Electricidad.

@@ -17,4 +17,4 @@ source_sha256: b3c906475b455176de73da17f4f93a73f295965dc9bcca854b48417c7d4d3cfc
 
 # Artículo 82
 
-Se exceptúa de la presentación de aviso, la utilización confinada o importación para esa actividad, en caso de que el OGM de que se trate se exente de dicho requisito en las listas que expidan las Secretarías conforme a esta Ley.
+Se exceptúa de la presentación de aviso, la utilización confinada o importación para esa actividad, en caso de que el OGM de que se trate se exente de dicho requisito en las listas que expidan las [Secretarías](articulo-3.md) conforme a esta Ley.

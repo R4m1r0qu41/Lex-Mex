@@ -17,7 +17,7 @@ source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 
 # Artículo 36
 
-Los derechos de autor y propiedad industrial sobre las obras e invenciones derivados de procesos de investigación humanística y científica, desarrollo tecnológico e innovación financiados con recursos públicos a través del Consejo Nacional deberán redundar y reservarse para el bienestar del pueblo de México. Lo anterior, en los términos de la legislación aplicable y de los tratados en materia de propiedad intelectual de los que el Estado mexicano sea parte.
+Los derechos de autor y propiedad industrial sobre las obras e invenciones derivados de procesos de investigación humanística y científica, desarrollo tecnológico e innovación financiados con recursos públicos a través del [Consejo Nacional](articulo-4.md) deberán redundar y reservarse para el bienestar del pueblo de México. Lo anterior, en los términos de la legislación aplicable y de los tratados en materia de propiedad intelectual de los que el Estado mexicano sea parte.
 
 Por tratarse de obras de interés para el patrimonio cultural nacional, el Consejo Nacional será el titular de los derechos de propiedad intelectual derivados de las actividades y proyectos que apoye, salvo pacto en contrario y sin perjuicio de los derechos morales implicados ni del derecho de las personas inventoras, diseñadoras o creadoras a ser reconocidas con tal carácter.
 

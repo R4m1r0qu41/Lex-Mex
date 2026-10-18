@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 23
 
-Corresponde a la Secretaría, la elaboración, publicación y actualización de los Instrumentos de Planeación del Sector Energético conforme a lo establecido en la Ley y el Reglamento.
+Corresponde a la [Secretaría](articulo-5.md), la elaboración, publicación y actualización de los [Instrumentos de Planeación del Sector Energético](articulo-5.md) conforme a lo establecido en la [Ley](articulo-5.md) y el [Reglamento](articulo-5.md).

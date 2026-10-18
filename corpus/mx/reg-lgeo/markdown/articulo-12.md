@@ -17,4 +17,4 @@ source_sha256: b19bcf104673af06117a6d4f3c947591f7a65999f19bad3dcfe2599a29bb3ab0
 
 # Artículo 12
 
-La Secretaría debe promover la implementación de las mejores prácticas, nuevas tecnologías, innovación y eficiencia energética en materia de geotermia, para lo cual debe revisar y, en su caso, actualizar la regulación que emita, al menos cada cinco años.
+La [Secretaría](articulo-3.md) debe promover la implementación de las mejores prácticas, nuevas tecnologías, innovación y eficiencia energética en materia de geotermia, para lo cual debe revisar y, en su caso, actualizar la regulación que emita, al menos cada cinco años.

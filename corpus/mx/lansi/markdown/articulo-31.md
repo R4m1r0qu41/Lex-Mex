@@ -19,15 +19,15 @@ source_sha256: 0e34f329befed4474eb7bc1bc195ba13bbe188edfbbabc914a44723e62eb9e44
 
 Son facultades del Director Ejecutivo:
 
-I. Administrar y representar legalmente a la Agencia, con la suma de facultades generales y especiales, incluyendo facultades para actos de administración y de dominio que, en su caso, requiera conforme a la legislación aplicable;
+I. Administrar y representar legalmente a la [Agencia](articulo-3o.md), con la suma de facultades generales y especiales, incluyendo facultades para actos de administración y de dominio que, en su caso, requiera conforme a la legislación aplicable;
 
 II. Dirigir las actividades de la Agencia;
 
 III. Nombrar y remover libremente a los servidores públicos de la Agencia;
 
-IV. Expedir las reglas y disposiciones de carácter general en materia de Seguridad Industrial y Seguridad Operativa, así como las normas oficiales mexicanas en materia de protección ambiental, que sean competencia de la Agencia conforme a la presente Ley;
+IV. Expedir las reglas y disposiciones de carácter general en materia de [Seguridad Industrial](articulo-3o.md) y [Seguridad Operativa](articulo-3o.md), así como las normas oficiales mexicanas en materia de protección ambiental, que sean competencia de la Agencia conforme a la presente Ley;
 
-V. Formular el anteproyecto de presupuesto anual y presentarlo ante la Secretaría para su entrega a la Secretaría de Hacienda y Crédito Público;
+V. Formular el anteproyecto de presupuesto anual y presentarlo ante la [Secretaría](articulo-3o.md) para su entrega a la Secretaría de Hacienda y Crédito Público;
 
 VI. Ejercer o autorizar el ejercicio del presupuesto autorizado a la Agencia;
 

@@ -21,8 +21,8 @@ La resolución definitiva deberá contener al menos lo siguiente:
 
 I. La apreciación de los medios de convicción conducentes para tener o no por acreditada la realización de la práctica monopólica o concentración ilícita;
 
-II. En el caso de una práctica monopólica relativa, la determinación de que el o los Agentes Económicos responsables tienen poder sustancial en términos de esta Ley;
+II. En el caso de una práctica monopólica relativa, la determinación de que el o los [Agentes Económicos](articulo-3.md) responsables tienen poder sustancial en términos de esta Ley;
 
-III. La determinación de si se ordena la supresión definitiva de la práctica monopólica o concentración ilícita o de sus efectos o la determinación de realizar actos o acciones cuya omisión haya causado la práctica monopólica o concentración ilícita, así como los medios y plazos para acreditar el cumplimiento de dicha determinación ante la Comisión, y
+III. La determinación de si se ordena la supresión definitiva de la práctica monopólica o concentración ilícita o de sus efectos o la determinación de realizar actos o acciones cuya omisión haya causado la práctica monopólica o concentración ilícita, así como los medios y plazos para acreditar el cumplimiento de dicha determinación ante la [Comisión](articulo-3.md), y
 
 IV. La determinación sobre imposición de sanciones.

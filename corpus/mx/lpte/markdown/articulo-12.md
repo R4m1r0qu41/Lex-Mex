@@ -17,4 +17,4 @@ source_sha256: c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41
 
 # Artículo 12
 
-El Instituto Nacional de Electricidad y Energías Limpias es un organismo público descentralizado de la Administración Pública Federal, con personalidad jurídica, patrimonio propio y autonomía de gestión, sectorizado en la Secretaría, de conformidad con las disposiciones aplicables de la Ley Federal de Entidades Paraestatales.
+El Instituto Nacional de Electricidad y [Energías Limpias](articulo-3.md) es un organismo público descentralizado de la Administración Pública Federal, con personalidad jurídica, patrimonio propio y autonomía de gestión, sectorizado en la [Secretaría](articulo-3.md), de conformidad con las disposiciones aplicables de la [Ley](articulo-3.md) Federal de Entidades Paraestatales.

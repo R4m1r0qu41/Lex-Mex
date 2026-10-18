@@ -17,4 +17,4 @@ source_sha256: 0ad7a7b6d7dffd7d9a582d74ebd6fc43e6baa79f71801a73dc70d1b77c414ded
 
 # Artículo 21
 
-A la Confederación Nacional de Organizaciones Ganaderas podrán afiliarse libremente las uniones y organizaciones nacionales de productores por rama especializada o por especie-producto, las cuales ingresarán de acuerdo con sus propios estatutos y los de la Confederación.
+A la [Confederación](articulo-2o.md) Nacional de Organizaciones Ganaderas podrán afiliarse libremente las uniones y organizaciones nacionales de productores por rama especializada o por especie-producto, las cuales ingresarán de acuerdo con sus propios estatutos y los de la Confederación.

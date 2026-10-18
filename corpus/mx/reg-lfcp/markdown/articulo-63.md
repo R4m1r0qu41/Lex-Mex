@@ -17,4 +17,4 @@ source_sha256: 43723ba379e128c1a1c1be4b085ecc870946cdec43d56f83e7314c077361368f
 
 # Artículo 63
 
-Las separaciones temporales de los corredores por plazos mayores de 20 días y menores de 90, requerirán de previo aviso a la Secretaría, señalando las causas de la separación y la conformidad del corredor suplente de auxiliarlo en el desempeño de sus funciones.
+Las separaciones temporales de los corredores por plazos mayores de 20 días y menores de 90, requerirán de previo aviso a la [Secretaría](articulo-2o.md), señalando las causas de la separación y la conformidad del corredor suplente de auxiliarlo en el desempeño de sus funciones.

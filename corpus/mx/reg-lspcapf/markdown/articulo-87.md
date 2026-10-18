@@ -15,7 +15,7 @@ source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 
 # Artículo 87
 
-La Secretaría, en coordinación con las dependencias, debe elaborar el Programa Operativo Anual del Sistema, el cual está sujeto a la disponibilidad presupuestaria del ejercicio fiscal que corresponda, y debe contener, como mínimo, los elementos siguientes: Párrafo reformado DOF 04-01-2024
+La Secretaría, en coordinación con las dependencias, debe elaborar el [Programa Operativo Anual del Sistema](articulo-2.md), el cual está sujeto a la disponibilidad presupuestaria del ejercicio fiscal que corresponda, y debe contener, como mínimo, los elementos siguientes: Párrafo reformado DOF 04-01-2024
 
 I. Diagnóstico;
 

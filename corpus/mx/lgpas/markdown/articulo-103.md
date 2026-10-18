@@ -17,7 +17,7 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 103
 
-La Secretaría, ejercerá sus atribuciones y facultades en materia de sanidad de especies acuícolas a través del SENASICA, de conformidad con esta Ley, sus disposiciones reglamentarias, las normas oficiales que de ella deriven y los demás ordenamientos que resulten aplicables.
+La [Secretaría](articulo-4o.md), ejercerá sus atribuciones y facultades en materia de sanidad de especies acuícolas a través del [SENASICA](articulo-4o.md), de conformidad con esta Ley, sus disposiciones reglamentarias, las normas oficiales que de ella deriven y los demás ordenamientos que resulten aplicables.
 
 Cuando, por razón de la materia y de conformidad con la Ley Orgánica de la Administración Pública Federal u otras disposiciones legales aplicables, se requiera de la intervención de otras dependencias, la Secretaría ejercerá sus atribuciones en coordinación con las mismas.
 

@@ -17,4 +17,4 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 46
 
-Los requisitos exigidos por esta Ley a los familiares de un militar para tener derecho a las prestaciones derivadas de la muerte de éste deben estar reunidos al acaecer el fallecimiento.
+Los requisitos exigidos por esta [Ley](articulo-4o.md) a los familiares de un militar para tener derecho a las prestaciones derivadas de la muerte de éste deben estar reunidos al acaecer el fallecimiento.

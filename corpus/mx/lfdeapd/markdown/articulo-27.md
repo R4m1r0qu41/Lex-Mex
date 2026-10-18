@@ -17,4 +17,4 @@ source_sha256: 4fadf9a6f2d22a9e48d8e29ed302456751da66eb723e0df1dc6ac45a5e4640b0
 
 # Artículo 27
 
-Las obligaciones de carácter mercantil y fiscal a las que esté sujeta la Persona Desaparecida surtirán efectos suspensivos hasta en tanto no sea localizada con o sin vida.
+Las obligaciones de carácter mercantil y fiscal a las que esté sujeta la [Persona Desaparecida](articulo-3.md) surtirán efectos suspensivos hasta en tanto no sea localizada con o sin vida.

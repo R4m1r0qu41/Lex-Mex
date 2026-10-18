@@ -17,4 +17,4 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 115
 
-Utilización de medios electrónicos Se podrán utilizar para la realización de todos los actos procesales los medios electrónicos y tecnológicos previstos en el Código Nacional.
+Utilización de medios electrónicos Se podrán utilizar para la realización de todos los actos procesales los medios electrónicos y tecnológicos previstos en el [Código Nacional](articulo-3.md).

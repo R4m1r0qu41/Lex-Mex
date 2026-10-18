@@ -17,7 +17,7 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 41
 
-Cualquier persona podrá consultar en las oficinas de la Secretaría, los asientos e inscripciones que obren en el Registro y obtener, previo pago de los derechos correspondientes, las constancias de inscripción, las certificaciones o las copias certificadas que soliciten de dichos asientos, así como de los documentos con ellos relacionados.
+Cualquier persona podrá consultar en las oficinas de la [Secretaría](articulo-3o.md), los asientos e inscripciones que obren en el [Registro](articulo-3o.md) y obtener, previo pago de los derechos correspondientes, las constancias de inscripción, las certificaciones o las copias certificadas que soliciten de dichos asientos, así como de los documentos con ellos relacionados.
 
 Los interesados en obtener copias certificadas de las constancias de inscripción que obran en el Registro Nacional de Áreas Naturales Protegidas, deberán presentar una solicitud por escrito, indicando su interés y el número de constancias que requiera.
 

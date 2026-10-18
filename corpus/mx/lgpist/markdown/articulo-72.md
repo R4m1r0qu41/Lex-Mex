@@ -17,4 +17,4 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 # Artículo 72
 
-Para garantizar de manera integral la prevención de la tortura y otros tratos o penas crueles, inhumanas o degradantes, se crea el Mecanismo Nacional de Prevención como la instancia encargada de la supervisión permanente y sistemática de los lugares de privación de libertad en todo el territorio nacional, conforme al Protocolo Facultativo de la Convención contra la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+Para garantizar de manera integral la prevención de la tortura y otros tratos o penas crueles, inhumanas o degradantes, se crea el [Mecanismo Nacional de Prevención](articulo-5.md) como la instancia encargada de la supervisión permanente y sistemática de los lugares de privación de libertad en todo el territorio nacional, conforme al Protocolo Facultativo de la Convención contra la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.

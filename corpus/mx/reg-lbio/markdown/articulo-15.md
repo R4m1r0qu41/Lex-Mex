@@ -17,4 +17,4 @@ source_sha256: 7df3d678efda2306b68d3c0f5ca0e3e92b9066d5f773128f4ae19cb26bf44fff
 
 # Artículo 15
 
-La SENER debe promover la investigación, el desarrollo tecnológico, la Transferencia de Tecnología y la formación de recursos humanos especializados para el desarrollo de proyectos de Biocombustibles, a fin de optimizar el Aprovechamiento de este recurso a nivel nacional, así como atender necesidades energéticas básicas en comunidades rurales y zonas urbanas marginadas.
+La [SENER](articulo-3.md) debe promover la investigación, el desarrollo tecnológico, la [Transferencia de Tecnología](articulo-3.md) y la formación de recursos humanos especializados para el desarrollo de proyectos de Biocombustibles, a fin de optimizar el [Aprovechamiento](articulo-3.md) de este recurso a nivel nacional, así como atender necesidades energéticas básicas en comunidades rurales y zonas urbanas marginadas.

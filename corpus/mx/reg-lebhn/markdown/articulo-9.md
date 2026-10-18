@@ -17,4 +17,4 @@ source_sha256: 3a86c9bc8afe7162bbcc0c31a28250ca91cfbf2cb6a08deddae0653977ae3d3f
 
 # Artículo 9
 
-Cuando la solicitud cumpla con todos los requisitos, la Secretaría deberá dar respuesta en un plazo no mayor a cinco días hábiles; transcurrido dicho término sin que se notifique la misma, se tendrá por atendida dicha solicitud en sentido negativo.
+Cuando la solicitud cumpla con todos los requisitos, la [Secretaría](articulo-2.md) deberá dar respuesta en un plazo no mayor a cinco días hábiles; transcurrido dicho término sin que se notifique la misma, se tendrá por atendida dicha solicitud en sentido negativo.

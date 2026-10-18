@@ -17,4 +17,4 @@ source_sha256: 4195c0740ad46978a8b0f2d43f0ac6d77e46b0216bd6f756950b1a050044ce98
 
 # Artículo 41
 
-La determinación de ZVP a que se refiere el artículo [20](../../lpeam/markdown/articulo-20.md), fracción IV, de la Ley, debe considerar lo siguiente: I. Eventos cívico-militares a los que asista la persona titular del Ejecutivo Federal u otros jefes de Estado o de gobierno; II. Áreas geográficas en donde se registre mayor incidencia de vuelos no autorizados o clandestinos, y III. Otros que el Centro determine.
+La determinación de [ZVP](articulo-4.md) a que se refiere el artículo [20](../../lpeam/markdown/articulo-20.md), fracción IV, de la [Ley](articulo-4.md), debe considerar lo siguiente: I. Eventos cívico-militares a los que asista la persona titular del Ejecutivo Federal u otros jefes de Estado o de gobierno; II. Áreas geográficas en donde se registre mayor incidencia de vuelos no autorizados o clandestinos, y III. Otros que el Centro determine.

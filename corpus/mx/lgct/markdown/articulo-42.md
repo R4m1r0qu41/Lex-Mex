@@ -17,4 +17,4 @@ source_sha256: 9f964bc5c075d7cf47e5e9df7c2fbe262eb5bd1794de9b230dbd72026a51ae5e
 
 # Artículo 42
 
-Cualquier persona podrá presentar ante la autoridad correspondiente una denuncia en caso de que observe el incumplimiento de cualquiera de las obligaciones establecidas en esta Ley, sus reglamentos y demás disposiciones aplicables.
+Cualquier persona podrá presentar ante la autoridad correspondiente una denuncia en caso de que observe el incumplimiento de cualquiera de las obligaciones establecidas en esta [Ley](articulo-6.md), sus reglamentos y demás disposiciones aplicables.

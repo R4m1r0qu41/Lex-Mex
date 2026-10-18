@@ -17,13 +17,13 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 94
 
-El área de salud se encontrará a cargo de la Dirección General de Sanidad y consistirá en un examen médico al personal participante para determinar su estado de salud, mediante el siguiente procedimiento:
+El área de salud se encontrará a cargo de la [Dirección](articulo-5.md) General de Sanidad y consistirá en un examen médico al personal participante para determinar su estado de salud, mediante el siguiente procedimiento:
 
-I. La evaluación médica se aplicará dentro del período general de pruebas en el Centro Integral de Evaluación o en la instalación sanitaria militar que se designe.
+I. La evaluación médica se aplicará dentro del período general de pruebas en el [Centro Integral de Evaluación](articulo-5.md) o en la instalación sanitaria militar que se designe.
 
 Carecerán de validez los resultados de estudios médicos que presenten las personas participantes antes, durante o después de la fecha de su participación y que sean expedidos por cualquier otra institución civil o militar distintas a las señaladas en el párrafo anterior; Fracción reformada DOF 20-03-2026
 
-II. El horario de los exámenes se establecerá en el Instructivo para la Promoción superior, y
+II. El horario de los exámenes se establecerá en el Instructivo para la [Promoción](articulo-5.md) superior, y
 
 III. El examen médico comprenderá los estudios siguientes:
 

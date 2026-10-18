@@ -17,9 +17,9 @@ source_sha256: b3c906475b455176de73da17f4f93a73f295965dc9bcca854b48417c7d4d3cfc
 
 # Artículo 19
 
-La CIBIOGEM es una Comisión Intersecretarial que tiene por objeto formular y coordinar las políticas de la Administración Pública Federal relativas a la bioseguridad de los OGMs, la cual tendrá las funciones que establezcan las disposiciones reglamentarias que deriven de esta Ley, conforme a las siguientes bases:
+La [CIBIOGEM](articulo-3.md) es una Comisión Intersecretarial que tiene por objeto formular y coordinar las políticas de la Administración Pública Federal relativas a la bioseguridad de los OGMs, la cual tendrá las funciones que establezcan las disposiciones reglamentarias que deriven de esta Ley, conforme a las siguientes bases:
 
-I. La CIBIOGEM estará integrada por los titulares de las Secretarías de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; Medio Ambiente y Recursos Naturales; Salud; Educación Pública; Hacienda y Crédito Público, y Economía, así como por el Director General del CONACyT;
+I. La CIBIOGEM estará integrada por los titulares de las [Secretarías](articulo-3.md) de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; [Medio Ambiente](articulo-3.md) y Recursos Naturales; Salud; Educación Pública; Hacienda y Crédito Público, y Economía, así como por el Director General del [CONACyT](articulo-3.md);
 
 II. La CIBIOGEM tendrá una Presidencia que será rotatoria entre los titulares de las Secretarías de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, de Medio Ambiente y Recursos Naturales y de Salud, y cuyo ejercicio, funciones y duración se determinarán en las disposiciones reglamentarias correspondientes. También habrá una Vicepresidencia cuyo titular será el Director General del CONACyT, quien presidirá las sesiones en ausencia del Presidente, coadyuvará con la Comisión y con el Secretario Ejecutivo en el ejercicio de sus funciones y realizará las actividades que le encomiende la propia CIBIOGEM en los términos que establezcan las disposiciones reglamentarias que deriven de la presente Ley;
 

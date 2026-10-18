@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 178
 
-Una vez cumplimentada la resolución a que se refiere el [artículo anterior](articulo-177.md) por parte del sujeto obligado, este debe informar a la Autoridad garante local respecto de su cumplimiento, lo cual debe hacer dentro del plazo previsto en el [artículo anterior](articulo-177.md).
+Una vez cumplimentada la resolución a que se refiere el [artículo anterior](articulo-177.md) por parte del sujeto obligado, este debe informar a la [Autoridad garante local](articulo-3.md) respecto de su cumplimiento, lo cual debe hacer dentro del plazo previsto en el [artículo anterior](articulo-177.md).

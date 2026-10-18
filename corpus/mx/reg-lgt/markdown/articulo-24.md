@@ -17,15 +17,15 @@ source_sha256: 6680a58c98673518aee46582b3137d28987c275785d1f0c97295f0d89c4b692b
 
 # Artículo 24
 
-En la formulación y ejecución de las políticas y estrategias en materia de Turismo, la Secretaría, en coordinación con los Estados, Municipios y el Distrito Federal, en el ámbito de sus respectivas competencias, podrán:
+En la formulación y ejecución de las políticas y estrategias en materia de [Turismo](articulo-2.md), la Secretaría, en coordinación con los Estados, Municipios y el Distrito Federal, en el ámbito de sus respectivas competencias, podrán:
 
-I. Instrumentar programas de difusión cultural y de educación que contribuyan a la diversificación de los Atractivos Turísticos y fomenten su respeto y conservación;
+I. Instrumentar programas de difusión cultural y de educación que contribuyan a la diversificación de los [Atractivos Turísticos](articulo-2.md) y fomenten su respeto y conservación;
 
-II. Promover en los Destinos Turísticos la construcción o, en su caso, adecuación de Infraestructura y Equipamiento Urbanos, con el objetivo de fortalecer el Turismo Accesible;
+II. Promover en los [Destinos Turísticos](articulo-2.md) la construcción o, en su caso, adecuación de Infraestructura y Equipamiento Urbanos, con el objetivo de fortalecer el [Turismo Accesible](articulo-2.md);
 
 III. Impulsar el financiamiento de Servicios Turísticos accesibles a los trabajadores y asalariados;
 
-IV. Evaluar el impacto del Desarrollo Turístico en relación con:
+IV. Evaluar el impacto del [Desarrollo Turístico](articulo-2.md) en relación con:
 
 a) La conservación de los recursos naturales y del medio ambiente en general;
 

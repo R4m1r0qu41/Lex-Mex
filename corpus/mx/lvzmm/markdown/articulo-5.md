@@ -17,9 +17,9 @@ source_sha256: d9ffbbf8f19b54a93ff577abb1266e4be1316d935e79fad655242955fd80ff70
 
 # Artículo 5
 
-La Secretaría es la autoridad en materia de vertimientos y tendrá las siguientes facultades:
+La [Secretaría](articulo-2.md) es la autoridad en materia de vertimientos y tendrá las siguientes facultades:
 
-I. Otorgar y cancelar los permisos de vertimientos y vigilar su cumplimiento; asimismo, suspender cualquier vertimiento deliberado de desechos u otras materias que contravenga las disposiciones de la presente Ley;
+I. Otorgar y cancelar los permisos de vertimientos y vigilar su cumplimiento; asimismo, suspender cualquier vertimiento deliberado de desechos u otras materias que contravenga las disposiciones de la presente [Ley](articulo-2.md);
 
 II. Realizar visitas de inspección y vigilancia;
 
@@ -39,7 +39,7 @@ IX. Se deroga. Fracción derogada DOF 13-04-2020
 
 X. Establecer y expedir los criterios respecto de las materias o substancias que podrán ser objeto de solicitudes de vertimientos;
 
-XI. Interpretar y aplicar las disposiciones del Protocolo 1996 relativo al Convenio sobre la Prevención de la Contaminación del Mar por Vertimiento de Desechos y Otras Materias, 1972, adoptado en la ciudad de Londres;
+XI. Interpretar y aplicar las disposiciones del Protocolo 1996 relativo al Convenio sobre la Prevención de la Contaminación del Mar por Vertimiento de [Desechos](articulo-2.md) y Otras Materias, 1972, adoptado en la ciudad de Londres;
 
 XII. Se deroga. Fracción derogada DOF 13-04-2020
 

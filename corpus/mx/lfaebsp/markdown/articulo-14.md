@@ -17,6 +17,6 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 14
 
-El Instituto, así como los depositarios, liquidadores, administradores o interventores de los Bienes, activos o empresas, darán todas las facilidades para que las autoridades competentes que así lo requieran, practiquen con dichos Bienes todas las diligencias que resulten necesarias.
+El [Instituto](articulo-2o.md), así como los depositarios, liquidadores, administradores o interventores de los [Bienes](articulo-2o.md), activos o empresas, darán todas las facilidades para que las autoridades competentes que así lo requieran, practiquen con dichos Bienes todas las diligencias que resulten necesarias.
 
 Artículo reformado DOF 09-08-2019

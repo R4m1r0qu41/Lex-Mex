@@ -17,4 +17,4 @@ source_sha256: 89220c0c86445a873067e0095b4591c11847dfd11595ca3e11bbfcf09cef6754
 
 # Artículo 40
 
-El cumplimiento de las obligaciones se clasifica como de: I. Cumplimiento directo, cuando la persona productora o importadora aplica mecanismos directos de circularidad sin mediación de terceras personas, y II. Cumplimiento indirecto, cuando la persona productora o importadora aplica mecanismos indirectos de circularidad con intervención de terceras personas, a través del acuerdo celebrado para el Encadenamiento Sustentable o mediante compensación ambiental.
+El cumplimiento de las obligaciones se clasifica como de: I. Cumplimiento directo, cuando la persona productora o importadora aplica mecanismos directos de circularidad sin mediación de terceras personas, y II. Cumplimiento indirecto, cuando la persona productora o importadora aplica mecanismos indirectos de circularidad con intervención de terceras personas, a través del acuerdo celebrado para el [Encadenamiento Sustentable](articulo-3.md) o mediante compensación ambiental.

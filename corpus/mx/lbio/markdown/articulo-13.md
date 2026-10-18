@@ -17,9 +17,9 @@ source_sha256: c1870db657a6564bbeb692a1778472db811a920626822de553ff5ca5194f95b4
 
 # Artículo 13
 
-El apartado sobre el uso de los Biocombustibles contenido en el Plan para la Transición Energética y el Aprovechamiento Sustentable de la Energía debe contemplar, cuando menos, los elementos siguientes:
+El apartado sobre el uso de los [Biocombustibles](articulo-2.md) contenido en el Plan para la Transición Energética y el Aprovechamiento Sustentable de la Energía debe contemplar, cuando menos, los elementos siguientes:
 
-I. Las metas de corto plazo para el uso directo de Biomasa como Biocombustible, así como la Producción, Almacenamiento, Transporte, Comercialización, Distribución y Expendio al Público de Biocombustibles y su uso sustentable;
+I. Las metas de corto plazo para el uso directo de [Biomasa](articulo-2.md) como Biocombustible, así como la [Producción](articulo-2.md), [Almacenamiento](articulo-2.md), [Transporte](articulo-2.md), [Comercialización](articulo-2.md), [Distribución](articulo-2.md) y [Expendio al Público](articulo-2.md) de Biocombustibles y su uso sustentable;
 
 II. Las metas anuales para la sustitución de combustibles fósiles por Biocombustibles;
 
@@ -29,7 +29,7 @@ IV. La estimación de los recursos necesarios y su fuente de financiamiento para
 
 V. La delimitación de:
 
-a) Las responsabilidades de las dependencias y entidades de la Administración Pública Federal, las cuales deben atender a los criterios de transversalidad e integralidad previstos en la Estrategia, y
+a) Las responsabilidades de las dependencias y entidades de la Administración Pública Federal, las cuales deben atender a los criterios de transversalidad e integralidad previstos en la [Estrategia](articulo-2.md), y
 
 b) Los tiempos de ejecución, revisión y evaluación de los resultados;
 

@@ -17,6 +17,6 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 140
 
-La generación, manejo y disposición final de los residuos de lenta degradación deberá sujetarse a lo que se establezca en las normas oficiales mexicanas que al respecto expida la Secretaría, en coordinación con la Secretaría de Economía.
+La generación, manejo y disposición final de los residuos de lenta degradación deberá sujetarse a lo que se establezca en las normas oficiales mexicanas que al respecto expida la [Secretaría](articulo-3o.md), en coordinación con la Secretaría de Economía.
 
 Artículo reformado DOF 13-12-1996, 09-04-2012

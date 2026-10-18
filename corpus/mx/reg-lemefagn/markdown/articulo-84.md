@@ -17,7 +17,7 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 84
 
-Las Instituciones Educativas mantendrán la vigencia de sus planes de estudio de conformidad con lo establecido en el artículo [22](../../lemefam/markdown/articulo-22.md) de la Ley.
+Las [Instituciones Educativas](articulo-3.md) mantendrán la vigencia de sus planes de estudio de conformidad con lo establecido en el artículo [22](../../lemefam/markdown/articulo-22.md) de la Ley.
 
 Al concluir dicha vigencia, las Instituciones Educativas propondrán a la Secretaría las modificaciones que procedan con el sustento que avale la propuesta.
 

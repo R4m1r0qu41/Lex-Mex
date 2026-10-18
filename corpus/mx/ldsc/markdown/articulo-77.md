@@ -17,4 +17,4 @@ source_sha256: 45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80
 
 # Artículo 77
 
-En los programas de fomento de la Secretaría de Economía, que involucren la importación de cualquier tipo de café bajo cualquier forma, deberán cumplirse los requisitos y normatividades aplicables.
+En los programas de fomento de la [Secretaría](articulo-3.md) de Economía, que involucren la importación de cualquier tipo de café bajo cualquier forma, deberán cumplirse los requisitos y normatividades aplicables.

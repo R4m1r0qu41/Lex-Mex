@@ -19,7 +19,7 @@ source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 
 En términos de las disposiciones jurídicas aplicables, a las entidades federativas les corresponden las siguientes facultades en materia de humanidades, ciencias, tecnologías e innovación:
 
-I. Establecer la integración y articulación del sistema de humanidades, ciencias, tecnologías e innovación de la entidad federativa correspondiente, de conformidad con la presente Ley;
+I. Establecer la integración y articulación del sistema de humanidades, ciencias, tecnologías e innovación de la entidad federativa correspondiente, de conformidad con la presente [Ley](articulo-4.md);
 
 II. Integrar, formular, conducir, ejecutar y evaluar la política local en la materia, conforme a los fines, principios y bases de las políticas públicas previstos en esta Ley;
 
@@ -37,9 +37,9 @@ IX. Operar los mecanismos e instrumentos públicos locales de fomento y apoyo qu
 
 X. Promover instancias de colaboración, cooperación y articulación metropolitana y regional para el mejor diseño e instrumentación de sus políticas, estrategias, acciones y proyectos en la materia;
 
-XI. Establecer y administrar los sistemas locales de información sobre investigación humanística y científica, desarrollo tecnológico e innovación, así como contribuir a la integración del Sistema Nacional de Información y participar en la formulación de los lineamientos que emitan las autoridades federales;
+XI. Establecer y administrar los sistemas locales de información sobre investigación humanística y científica, desarrollo tecnológico e innovación, así como contribuir a la integración del [Sistema Nacional de Información](articulo-4.md) y participar en la formulación de los lineamientos que emitan las autoridades federales;
 
-XII. Participar en la integración de la Agenda Nacional mediante la formulación de propuestas sobre líneas de acción en torno de asuntos estratégicos o prioritarios para el desarrollo del país y temas de interés público nacional o de atención indispensable en la materia;
+XII. Participar en la integración de la [Agenda Nacional](articulo-4.md) mediante la formulación de propuestas sobre líneas de acción en torno de asuntos estratégicos o prioritarios para el desarrollo del país y temas de interés público nacional o de atención indispensable en la materia;
 
 XIII. Celebrar los convenios necesarios para el ejercicio óptimo de sus facultades, y
 

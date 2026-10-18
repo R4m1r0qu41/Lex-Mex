@@ -17,7 +17,7 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # Artículo 130
 
-Se requerirá del certificado de sanidad acuícola expedido por la Secretaría o por terceros acreditados y aprobados, en los casos siguientes:
+Se requerirá del certificado de sanidad acuícola expedido por la [Secretaría](articulo-2o.md) o por terceros acreditados y aprobados, en los casos siguientes:
 
 I. Cuando las especies acuícolas vivas, en cualesquiera de sus fases de desarrollo, se produzcan en instalaciones ubicadas en el territorio nacional y se movilicen de una granja a otra o se pretendan introducir a un cuerpo de agua de jurisdicción federal distinto, o se destinen a la exportación, y
 

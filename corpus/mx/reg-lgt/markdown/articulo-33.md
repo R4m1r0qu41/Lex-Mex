@@ -17,7 +17,7 @@ source_sha256: 6680a58c98673518aee46582b3137d28987c275785d1f0c97295f0d89c4b692b
 
 # Artículo 33
 
-La integración y operación del Sistema Estadístico tendrá los siguientes objetivos:
+La integración y operación del [Sistema Estadístico](articulo-2.md) tendrá los siguientes objetivos:
 
 I. Disponer de la información necesaria del sector turístico nacional, monitorear su comportamiento y promover la toma oportuna de decisiones, y
 

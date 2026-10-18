@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 55
 
-Para el seguimiento y coordinación de la planeación vinculante del Sector Energético, el Consejo puede solicitar a los órganos administrativos desconcentrados, empresas públicas del Estado y entidades paraestatales sectorizadas de la Secretaría, un informe periódico sobre las proyecciones de corto y mediano plazo de la infraestructura del Sector Energético.
+Para el seguimiento y coordinación de la planeación vinculante del Sector Energético, el [Consejo](articulo-5.md) puede solicitar a los órganos administrativos desconcentrados, empresas públicas del Estado y entidades paraestatales sectorizadas de la [Secretaría](articulo-5.md), un informe periódico sobre las proyecciones de corto y mediano plazo de la infraestructura del Sector Energético.

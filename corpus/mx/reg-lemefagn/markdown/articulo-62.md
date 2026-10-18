@@ -17,4 +17,4 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 62
 
-La evaluación de la calidad de la educación deberá ser realizada en forma integral y calificada cualitativa y cuantitativamente, a fin de establecer las acciones que permitan el desarrollo del Sistema, para obtener una mejora continua en el proceso educativo.
+La evaluación de la calidad de la educación deberá ser realizada en forma integral y calificada cualitativa y cuantitativamente, a fin de establecer las acciones que permitan el desarrollo del [Sistema](articulo-3.md), para obtener una mejora continua en el proceso educativo.

@@ -17,4 +17,4 @@ source_sha256: 45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80
 
 # Artículo 57
 
-La Secretaría fomentará el mejoramiento de las calidades del cultivo agroforestal de café bajo diversos sistemas de producción que se realizan en México, como son, el sistema tradicional, el de sombra diversificada, el de sombra especializada y el policultivo comercial.
+La [Secretaría](articulo-3.md) fomentará el mejoramiento de las calidades del cultivo agroforestal de café bajo diversos sistemas de producción que se realizan en México, como son, el sistema tradicional, el de sombra diversificada, el de sombra especializada y el policultivo comercial.

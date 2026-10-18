@@ -17,4 +17,4 @@ source_sha256: 70464807d63da08244e495f2ff0ac30b12b30119926b84cedc7930397fcb80ef
 
 # Artículo 246
 
-La Secretaría autorizará a los terceros que cumplan con los requisitos y procedimientos que para el efecto establezca y podrá, en cualquier momento, realizar visitas de verificación, para comprobar que las condiciones bajo las cuales se otorgó la autorización correspondiente son cumplidas por éstos.
+La [Secretaría](articulo-2o.md) autorizará a los terceros que cumplan con los requisitos y procedimientos que para el efecto establezca y podrá, en cualquier momento, realizar visitas de verificación, para comprobar que las condiciones bajo las cuales se otorgó la autorización correspondiente son cumplidas por éstos.

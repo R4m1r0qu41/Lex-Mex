@@ -17,7 +17,7 @@ source_sha256: 43723ba379e128c1a1c1be4b085ecc870946cdec43d56f83e7314c077361368f
 
 # Artículo 70
 
-El corredor responsable de la infracción a las disposiciones señaladas en la Ley y este reglamento, sin perjuicio de la responsabilidad civil o penal en que incurra, se hará acreedor a las siguientes sanciones:
+El corredor responsable de la infracción a las disposiciones señaladas en la [Ley](articulo-2o.md) y este reglamento, sin perjuicio de la responsabilidad civil o penal en que incurra, se hará acreedor a las siguientes sanciones:
 
 I.- Amonestación por escrito:
 
@@ -25,7 +25,7 @@ a) Por tardanza injustificada en alguna actuación o trámite, solicitados y exp
 
 b) Por separarse del ejercicio de sus funciones o cambiar de domicilio sin dar el aviso correspondiente;
 
-c) Por cualquier otro incumplimiento de importancia menor, a juicio de la Secretaría; Inciso reformado DOF 26-11-2012
+c) Por cualquier otro incumplimiento de importancia menor, a juicio de la [Secretaría](articulo-2o.md); Inciso reformado DOF 26-11-2012
 
 d) Por no proporcionar la información y documentos en la forma y a las autoridades que señala el artículo [58](articulo-58.md) de este reglamento; Inciso reformado DOF 26-11-2012
 

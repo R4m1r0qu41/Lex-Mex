@@ -17,6 +17,6 @@ source_sha256: 71ee875c26fc6a1024ea9481ca0690721959514689d860112c3093f0176dfcfb
 
 # Artículo 7
 
-La Secretaría Ejecutiva, en coordinación con los integrantes del Sistema, llevará a cabo la evaluación de los Modelos.
+La [Secretaría Ejecutiva](articulo-2.md), en coordinación con los integrantes del Sistema, llevará a cabo la evaluación de los [Modelos](articulo-2.md).
 
 Artículo reformado DOF 25-11-2013

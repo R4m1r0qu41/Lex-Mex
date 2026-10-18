@@ -17,7 +17,7 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 15
 
-Los contratos para llevar a cabo obras y trabajos dentro de lotes amparados por asignaciones mineras expedidas a favor del Servicio Geológico a que se refiere el artículo 9, fracción XXIII de la Ley serán de obra pública y se adjudicarán mediante licitación pública, ajustándose a lo siguiente:
+Los contratos para llevar a cabo obras y trabajos dentro de lotes amparados por asignaciones mineras expedidas a favor del [Servicio Geológico](articulo-1o.md) a que se refiere el artículo 9, fracción XXIII de la [Ley](articulo-1o.md) serán de obra pública y se adjudicarán mediante licitación pública, ajustándose a lo siguiente:
 
 I. Tener por objeto la realización de obras y trabajos de exploración regional o a semidetalle;
 

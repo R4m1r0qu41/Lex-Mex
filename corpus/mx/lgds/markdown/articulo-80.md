@@ -17,6 +17,6 @@ source_sha256: 32822f50bb2de81185408f9450d61a49d678429c52c5379822a507c7027a5275
 
 # Artículo 80
 
-De acuerdo con los resultados de las evaluaciones, el Instituto podrá emitir las sugerencias y recomendaciones que considere pertinentes al Ejecutivo Federal y hacerlas del conocimiento público. El Instituto pondrá a disposición del público la evaluación integral de la Política de Desarrollo Social y el informe general sobre el resultado de dicha evaluación, a través del portal institucional y en términos de lo previsto en la legislación en materia de transparencia.
+De acuerdo con los resultados de las evaluaciones, el [Instituto](articulo-5.md) podrá emitir las sugerencias y recomendaciones que considere pertinentes al Ejecutivo Federal y hacerlas del conocimiento público. El Instituto pondrá a disposición del público la evaluación integral de la [Política de Desarrollo Social](articulo-5.md) y el informe general sobre el resultado de dicha evaluación, a través del portal institucional y en términos de lo previsto en la legislación en materia de transparencia.
 
 Artículo reformado DOF 16-07-2025

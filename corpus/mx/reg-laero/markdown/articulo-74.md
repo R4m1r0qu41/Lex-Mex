@@ -15,4 +15,4 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 # Artículo 74
 
-Los transportistas y operadores aéreos que consideren que el concesionario o permisionario no se ajusta a lo dispuesto en el artículo [53](../../laero/markdown/articulo-53.md) de la Ley, podrán presentar su inconformidad ante la Secretaría, a fin de que previa audiencia del concesionario o permisionario resuelva lo conducente conforme a lo dispuesto en los capítulos XIV y XV de la Ley.
+Los transportistas y operadores aéreos que consideren que el concesionario o permisionario no se ajusta a lo dispuesto en el artículo [53](../../laero/markdown/articulo-53.md) de la [Ley](articulo-2.md), podrán presentar su inconformidad ante la [Secretaría](articulo-2.md), a fin de que previa audiencia del concesionario o permisionario resuelva lo conducente conforme a lo dispuesto en los capítulos XIV y XV de la Ley.

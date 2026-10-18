@@ -15,4 +15,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # CUARTO
 
-En tanto el Ejecutivo Federal expide el Reglamento de la presente Ley, continuará en vigor, en lo que no se oponga a ésta, el Reglamento de la Ley de la Propiedad Industrial, publicado en el Diario Oficial de la Federación el 23 de noviembre de 1994, así como sus posteriores reformas y adiciones.
+En tanto el Ejecutivo Federal expide el Reglamento de la presente [Ley](articulo-4.md), continuará en vigor, en lo que no se oponga a ésta, el Reglamento de la Ley de la Propiedad Industrial, publicado en el [Diario Oficial](articulo-4.md) de la Federación el 23 de noviembre de 1994, así como sus posteriores reformas y adiciones.

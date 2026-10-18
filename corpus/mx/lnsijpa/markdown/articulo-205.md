@@ -17,7 +17,7 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 205
 
-Acuerdo de inicio Una vez recibida la petición, el Centro de Internamiento para Adolescentes determinará un acuerdo en alguno de los siguientes sentidos:
+Acuerdo de inicio Una vez recibida la petición, el Centro de Internamiento para [Adolescentes](articulo-3.md) determinará un acuerdo en alguno de los siguientes sentidos:
 
 I. Admitir la petición e iniciar el trámite del procedimiento;
 
@@ -27,6 +27,6 @@ III. Desechar por ser notoriamente improcedente.
 
 El acuerdo de la autoridad deberá realizarse por escrito dentro de las veinticuatro horas siguientes y notificarse a la persona promovente de manera inmediata.
 
-En caso de haberse realizado una prevención, el peticionario tendrá un plazo de setenta y dos horas para subsanarla, en caso de no hacerlo, se tendrá por desechada. En caso de desechamiento, el peticionario podrá inconformarse ante el Juez de Ejecución en los términos de esta Ley.
+En caso de haberse realizado una prevención, el peticionario tendrá un plazo de setenta y dos horas para subsanarla, en caso de no hacerlo, se tendrá por desechada. En caso de desechamiento, el peticionario podrá inconformarse ante el Juez de Ejecución en los términos de esta [Ley](articulo-3.md).
 
 En caso de que no se emita el acuerdo o emitido el mismo no se notifique, dentro de las veinticuatro horas siguientes se entenderá que fue admitida la petición.

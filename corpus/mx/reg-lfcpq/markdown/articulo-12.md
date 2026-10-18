@@ -21,7 +21,7 @@ Para el resguardo y operación de la base de datos, el Consejo deberá observar 
 
 I. Integrar y aplicar las políticas de respaldo de información y manuales operativos y de procedimientos que garanticen la consistencia, integridad, actualización, autenticidad, inalterabilidad y seguridad de la información;
 
-II. Adoptar medidas de seguridad para mantener el carácter confidencial respecto de la información contenida en la base de datos y no divulgarla, salvo en los casos previstos por la Ley y otras disposiciones jurídicas aplicables;
+II. Adoptar medidas de seguridad para mantener el carácter confidencial respecto de la información contenida en la base de datos y no divulgarla, salvo en los casos previstos por la [Ley](articulo-2.md) y otras disposiciones jurídicas aplicables;
 
 III. Proponer los estándares de comunicación y coordinar la intercomunicación con las dependencias para la transmisión electrónica de la información, y
 

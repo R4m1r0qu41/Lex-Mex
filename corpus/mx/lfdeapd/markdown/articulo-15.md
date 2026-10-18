@@ -17,4 +17,4 @@ source_sha256: 4fadf9a6f2d22a9e48d8e29ed302456751da66eb723e0df1dc6ac45a5e4640b0
 
 # Artículo 15
 
-El Órgano Jurisdiccional podrá requerir al Ministerio Público de la Fiscalía Especializada, a la Comisión Nacional de Búsqueda y a la Comisión Ejecutiva que le remitan información pertinente que obre en sus expedientes, en copia certificada, para el análisis y resolución de la Declaración Especial de Ausencia. Las autoridades requeridas tendrán un plazo de cinco días hábiles contados a partir de que reciban el requerimiento, para remitirla al Órgano Jurisdiccional.
+El [Órgano Jurisdiccional](articulo-3.md) podrá requerir al Ministerio Público de la [Fiscalía Especializada](articulo-3.md), a la [Comisión Nacional de Búsqueda](articulo-3.md) y a la [Comisión Ejecutiva](articulo-3.md) que le remitan información pertinente que obre en sus expedientes, en copia certificada, para el análisis y resolución de la [Declaración Especial de Ausencia](articulo-3.md). Las autoridades requeridas tendrán un plazo de cinco días hábiles contados a partir de que reciban el requerimiento, para remitirla al Órgano Jurisdiccional.

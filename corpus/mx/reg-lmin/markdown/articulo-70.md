@@ -17,7 +17,7 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 70
 
-Los titulares de concesiones mineras con más de seis años de vigencia están obligados a rendir a la Secretaría, de manera anual un informe sobre la producción, beneficio y destino de minerales o sustancias por el período enero-diciembre, dentro de los primeros treinta días hábiles del año siguiente al que se reporta. Dicho informe deberá contener:
+Los titulares de concesiones mineras con más de seis años de vigencia están obligados a rendir a la [Secretaría](articulo-1o.md), de manera anual un informe sobre la producción, beneficio y destino de minerales o sustancias por el período enero-diciembre, dentro de los primeros treinta días hábiles del año siguiente al que se reporta. Dicho informe deberá contener:
 
 I. Nombre del titular de la concesión minera o de quien lleve a cabo estas obras y trabajos mediante contrato, o de la persona que realice las operaciones de beneficio;
 

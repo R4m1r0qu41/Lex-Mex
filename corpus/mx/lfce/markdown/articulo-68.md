@@ -27,7 +27,7 @@ III. Nombre, denominación o razón social y, en caso de conocerlo, el domicilio
 
 IV. Descripción sucinta de los hechos que motivan la denuncia;
 
-V. En el caso de prácticas monopólicas relativas o concentraciones ilícitas, descripción de los principales bienes o servicios involucrados, precisando su uso en el mercado y, en caso de conocerlo, la lista de los bienes o servicios iguales, similares o sustancialmente relacionados del denunciado y de los principales Agentes Económicos que los procesen, produzcan, distribuyan o comercialicen en el territorio nacional;
+V. En el caso de prácticas monopólicas relativas o concentraciones ilícitas, descripción de los principales bienes o servicios involucrados, precisando su uso en el mercado y, en caso de conocerlo, la lista de los bienes o servicios iguales, similares o sustancialmente relacionados del denunciado y de los principales [Agentes Económicos](articulo-3.md) que los procesen, produzcan, distribuyan o comercialicen en el territorio nacional;
 
 VI. Listado de los documentos y los medios de convicción que acompañen a su denuncia, relacionados de manera precisa con los hechos denunciados, y
 

@@ -17,7 +17,7 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 19
 
-Los residuos de manejo especial se clasifican como se indica a continuación, salvo cuando se trate de residuos considerados como peligrosos en esta Ley y en las normas oficiales mexicanas correspondientes:
+Los residuos de manejo especial se clasifican como se indica a continuación, salvo cuando se trate de residuos considerados como peligrosos en esta [Ley](articulo-5.md) y en las normas oficiales mexicanas correspondientes:
 
 I. Residuos de las rocas o los productos de su descomposición que sólo puedan utilizarse para la fabricación de materiales de construcción o se destinen para este fin, así como los productos derivados de la descomposición de las rocas, excluidos de la competencia federal conforme a las fracciones IV y V del artículo 5 de la Ley Minera;
 
@@ -39,4 +39,4 @@ IX. Pilas que contengan litio, níquel, mercurio, cadmio, manganeso, plomo, zinc
 
 X. Los neumáticos usados, y Fracción adicionada DOF 04-06-2014
 
-XI. Otros que determine la Secretaría de común acuerdo con las entidades federativas y municipios, que así lo convengan para facilitar su gestión integral. Fracción recorrida DOF 19-03-2014, 04-06-2014
+XI. Otros que determine la [Secretaría](articulo-5.md) de común acuerdo con las entidades federativas y municipios, que así lo convengan para facilitar su gestión integral. Fracción recorrida DOF 19-03-2014, 04-06-2014

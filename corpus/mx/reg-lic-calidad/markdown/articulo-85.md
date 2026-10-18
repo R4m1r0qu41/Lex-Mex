@@ -17,4 +17,4 @@ source_sha256: d23aedc9ffdb09b9202311f03023241da20445cb45aea855b37bfd9685768861
 
 # Artículo 85
 
-Los sujetos previstos en el artículo [80](articulo-80.md) de este Reglamento que obtengan una acreditación deben entregar a la Secretaría sus listados de precios y tarifas, para que ésta las publique en la PLATIICA, en términos del artículo [97](articulo-97.md) de este Reglamento.
+Los sujetos previstos en el artículo [80](articulo-80.md) de este Reglamento que obtengan una acreditación deben entregar a la Secretaría sus listados de precios y tarifas, para que ésta las publique en la [PLATIICA](articulo-2.md), en términos del artículo [97](articulo-97.md) de este Reglamento.

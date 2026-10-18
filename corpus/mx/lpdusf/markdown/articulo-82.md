@@ -17,7 +17,7 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 82
 
-La Comisión Nacional, para el desempeño de las facultades establecidas en este Capítulo, podrá emplear las siguientes medidas de apremio:
+La [Comisión Nacional](articulo-2o.md), para el desempeño de las facultades establecidas en este Capítulo, podrá emplear las siguientes medidas de apremio:
 
 I. Multas, en los términos señalados en esta Ley, y
 

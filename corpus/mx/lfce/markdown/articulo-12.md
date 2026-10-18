@@ -17,13 +17,13 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 12
 
-La Comisión tendrá las siguientes atribuciones:
+La [Comisión](articulo-3.md) tendrá las siguientes atribuciones:
 
 I. Garantizar la libre concurrencia y competencia económica; prevenir, investigar y combatir los monopolios, las prácticas monopólicas, las concentraciones y demás restricciones al funcionamiento eficiente de los mercados, e imponer las sanciones derivadas de dichas conductas, en los términos de esta Ley;
 
-II. Ordenar medidas para eliminar barreras a la competencia y la libre concurrencia; determinar la existencia y regular el acceso a insumos esenciales, así como ordenar la desincorporación de activos, derechos, partes sociales o acciones de los Agentes Económicos en las proporciones necesarias para eliminar efectos anticompetitivos;
+II. Ordenar medidas para eliminar barreras a la competencia y la libre concurrencia; determinar la existencia y regular el acceso a insumos esenciales, así como ordenar la desincorporación de activos, derechos, partes sociales o acciones de los [Agentes Económicos](articulo-3.md) en las proporciones necesarias para eliminar efectos anticompetitivos;
 
-III. Practicar visitas de verificación en los términos de esta Ley y su Reglamento, citar a declarar a las personas relacionadas con la materia de la investigación y requerir la exhibición de papeles, libros, documentos, archivos e información generada por medios electrónicos, ópticos o de cualquier otra tecnología, a fin de comprobar el cumplimiento de esta Ley, realizar diligencias de inspección o recolectar datos a través de cualquier herramienta, así como solicitar el apoyo de la fuerza pública o de cualquier Autoridad Pública para el eficaz desempeño de las atribuciones a que se refiere esta Ley; Fracción reformada DOF 16-07-2025
+III. Practicar visitas de verificación en los términos de esta Ley y su [Reglamento](articulo-3.md), citar a declarar a las personas relacionadas con la materia de la investigación y requerir la exhibición de papeles, libros, documentos, archivos e información generada por medios electrónicos, ópticos o de cualquier otra tecnología, a fin de comprobar el cumplimiento de esta Ley, realizar diligencias de inspección o recolectar datos a través de cualquier herramienta, así como solicitar el apoyo de la fuerza pública o de cualquier [Autoridad Pública](articulo-3.md) para el eficaz desempeño de las atribuciones a que se refiere esta Ley; Fracción reformada DOF 16-07-2025
 
 IV. Establecer acuerdos y convenios de coordinación con las Autoridades Públicas para el combate y prevención de monopolios, prácticas monopólicas, concentraciones ilícitas, barreras a la libre concurrencia y la competencia económica y demás restricciones al funcionamiento eficiente de los mercados;
 
@@ -41,7 +41,7 @@ X. Resolver sobre los asuntos de su competencia y sancionar administrativamente 
 
 XI. Resolver sobre condiciones de competencia, competencia efectiva, existencia de poder sustancial en el mercado relevante u otras cuestiones relativas al proceso de libre concurrencia o competencia económica a que hacen referencia ésta u otras leyes y reglamentos; XII. Se deroga Fracción derogada DOF 16-07-2025
 
-XIII. Emitir opinión, a solicitud del Ejecutivo Federal, por sí o por conducto de la Secretaría, respecto de los anteproyectos de leyes, disposiciones, reglas, acuerdos, circulares y demás actos administrativos de carácter general que pretendan emitir Autoridades Públicas, cuando puedan tener efectos contrarios al proceso de libre concurrencia y competencia económica de conformidad con las disposiciones legales aplicables, sin que estas opiniones tengan efectos vinculantes; Fracción reformada DOF 16-07-2025
+XIII. Emitir opinión, a solicitud del Ejecutivo Federal, por sí o por conducto de la [Secretaría](articulo-3.md), respecto de los anteproyectos de leyes, disposiciones, reglas, acuerdos, circulares y demás actos administrativos de carácter general que pretendan emitir Autoridades Públicas, cuando puedan tener efectos contrarios al proceso de libre concurrencia y competencia económica de conformidad con las disposiciones legales aplicables, sin que estas opiniones tengan efectos vinculantes; Fracción reformada DOF 16-07-2025
 
 XIV. Se deroga Fracción derogada DOF 16-07-2025
 
@@ -49,7 +49,7 @@ XV. Se deroga Fracción derogada DOF 16-07-2025
 
 XVI. Resolver sobre las solicitudes de opinión formal, y emitir orientaciones generales en materia de libre concurrencia y competencia económica que le sean formuladas de conformidad con los artículos [104](articulo-104.md) a [110](articulo-110.md) de esta Ley;
 
-XVII. Emitir Disposiciones Regulatorias para el cumplimiento de sus atribuciones, así como su estatuto orgánico, que deberán publicarse en el Diario Oficial de la Federación.
+XVII. Emitir [Disposiciones Regulatorias](articulo-3.md) para el cumplimiento de sus atribuciones, así como su estatuto orgánico, que deberán publicarse en el Diario Oficial de la Federación.
 
 Con independencia de la emisión y publicación de las Disposiciones Regulatorias, la Comisión podrá expedir lineamientos y criterios técnicos, así como guías de carácter orientador para el efectivo cumplimiento de esta Ley; Fracción reformada DOF 16-07-2025
 
@@ -65,7 +65,7 @@ XXII. Se deroga Fracción derogada DOF 16-07-2025
 
 XXIII. Realizar u ordenar la realización de estudios, trabajos de investigación e informes generales en materia de libre concurrencia y competencia económica, en su caso, con propuestas de liberalización, desregulación o modificación normativa, cuando detecte riesgos al proceso de libre concurrencia y competencia económica, identifique un problema de competencia o así se lo soliciten otras Autoridades Públicas;
 
-XXIV. Aprobar los lineamientos para el funcionamiento del Pleno;
+XXIV. Aprobar los lineamientos para el funcionamiento del [Pleno](articulo-3.md);
 
 XXV. Elaborar el programa anual de trabajo y el informe trimestral de actividades que deberá ser presentado a los Poderes Ejecutivo y Legislativo Federal por conducto del Comisionado Presidente;
 
@@ -87,7 +87,7 @@ XXXIII. Declarar la existencia o inexistencia de condiciones de competencia efec
 
 XXXIV. Establecer las medidas e imponer las obligaciones específicas que permitan la desagregación efectiva de la red local del Agente Económico Preponderante en el sector de las telecomunicaciones; Fracción adicionada DOF 16-07-2025
 
-XXXV. Compartir información y establecer mecanismos de coordinación con la CRT y, en su caso, con la Agencia; Fracción adicionada DOF 16-07-2025
+XXXV. Compartir información y establecer mecanismos de coordinación con la [CRT](articulo-3.md) y, en su caso, con la [Agencia](articulo-3.md); Fracción adicionada DOF 16-07-2025
 
 XXXVI. Analizar, evaluar y, en su caso, autorizar los planes de separación estructural que le representen los Agentes Económicos Preponderantes a efecto de reducir su participación nacional por debajo del cincuenta por ciento en el sector donde hayan sido determinados como preponderantes; Fracción adicionada DOF 16-07-2025
 

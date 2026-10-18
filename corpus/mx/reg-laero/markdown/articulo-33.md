@@ -15,7 +15,7 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 # Artículo 33
 
-La Secretaría aprobará la ubicación de las instalaciones del cuerpo de rescate y extinción de incendios, la torre de control, la comandancia de aeródromo y de las demás autoridades que cuenten con atribuciones dentro del aeródromo, en coordinación con el concesionario o permisionario y las autoridades competentes. Al efecto, la Secretaría considerará criterios de eficiencia, seguridad, técnico- operativos y estratégicos, estándares internacionales, así como el programa maestro de desarrollo.
+La [Secretaría](articulo-2.md) aprobará la ubicación de las instalaciones del cuerpo de rescate y extinción de incendios, la torre de control, la comandancia de aeródromo y de las demás autoridades que cuenten con atribuciones dentro del aeródromo, en coordinación con el concesionario o permisionario y las autoridades competentes. Al efecto, la Secretaría considerará criterios de eficiencia, seguridad, técnico- operativos y estratégicos, estándares internacionales, así como el programa maestro de desarrollo.
 
 La Secretaría, sin perjuicio de lo dispuesto en otras leyes, determinará en el título de concesión o permiso respectivo las superficies, instalaciones y servicio libres de cargo que los concesionarios o permisionarios deberán proporcionar a las autoridades cuyas atribuciones sean indispensables de llevarse a cabo dentro del aeródromo. Dichas instalaciones serán sólo las necesarias para el ejercicio de sus funciones.
 

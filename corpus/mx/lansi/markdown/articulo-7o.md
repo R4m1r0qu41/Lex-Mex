@@ -21,7 +21,7 @@ Los actos administrativos a que se refiere la fracción XVIII del artículo [5](
 
 I. Autorizaciones en materia de impacto y riesgo ambiental del Sector Hidrocarburos; de carbonoductos; instalaciones de tratamiento, confinamiento o eliminación de residuos peligrosos; aprovechamientos forestales en selvas tropicales, y especies de difícil regeneración; así como obras y actividades en humedales, manglares, lagunas, ríos, lagos y esteros conectados con el mar, litorales o las zonas federales de las áreas antes mencionadas, en términos del artículo [28](../../lgeepa/markdown/articulo-28.md) de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y del Reglamento de la materia;
 
-II. Autorización para emitir olores, gases o partículas sólidas o líquidas a la atmósfera por las Instalaciones del Sector Hidrocarburos, en términos del artículo [111 Bis](../../lgeepa/markdown/articulo-111-BIS.md) de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y del Reglamento de la materia;
+II. Autorización para emitir olores, gases o partículas sólidas o líquidas a la atmósfera por las [Instalaciones](articulo-3o.md) del Sector Hidrocarburos, en términos del artículo [111 Bis](../../lgeepa/markdown/articulo-111-BIS.md) de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y del Reglamento de la materia;
 
 III. Autorizaciones en materia de residuos peligrosos en el Sector Hidrocarburos, previstas en el artículo [50](../../lgpgir/markdown/articulo-50.md), fracciones I a IX, de la Ley General para la Prevención y Gestión Integral de los Residuos y de los reglamentos en la materia;
 

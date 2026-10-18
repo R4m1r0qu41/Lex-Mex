@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 194
 
-Cuando un acto deba ser inscrito en el Registro de Transferencia de Tecnología, en términos de lo previsto en el artículo [137](../../lfppi/markdown/articulo-137.md) de la Ley, se estará a lo dispuesto en el artículo [21](articulo-21.md) del presente Reglamento.
+Cuando un acto deba ser inscrito en el Registro de Transferencia de Tecnología, en términos de lo previsto en el artículo [137](../../lfppi/markdown/articulo-137.md) de la Ley, se estará a lo dispuesto en el artículo [21](articulo-21.md) del presente [Reglamento](articulo-2.md).

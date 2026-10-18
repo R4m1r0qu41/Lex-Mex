@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 122
 
-Será procedente la rectificación de errores de forma del título de una patente o registro, previsto en el artículo [119](articulo-119.md) de esta Ley.
+Será procedente la rectificación de errores de forma del título de una patente o registro, previsto en el artículo [119](articulo-119.md) de esta [Ley](articulo-4.md).
 
 Si la rectificación concierne a las reivindicaciones o a los elementos que sirvan para interpretarlas, los errores deberán ser evidentes para una persona técnica en la materia. Párrafo reformado DOF 03-04-2026
 

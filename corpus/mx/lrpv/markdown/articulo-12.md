@@ -17,4 +17,4 @@ source_sha256: 0125eed7519ad260330f9a04f78c0e4a1ce93c06e67c98ac3c535416787656ba
 
 # Artículo 12
 
-La inscripción de un vehículo en el Registro presume la existencia del mismo, su pertenencia a la persona que aparece en aquél como propietario, la validez de los actos jurídicos que se relacionan con el mismo y que obran en el Registro salvo prueba en contrario, de conformidad con las disposiciones jurídicas aplicables.
+La inscripción de un vehículo en el [Registro](articulo-2.md) presume la existencia del mismo, su pertenencia a la persona que aparece en aquél como propietario, la validez de los actos jurídicos que se relacionan con el mismo y que obran en el Registro salvo prueba en contrario, de conformidad con las disposiciones jurídicas aplicables.

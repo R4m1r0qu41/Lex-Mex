@@ -17,7 +17,7 @@ source_sha256: 9f964bc5c075d7cf47e5e9df7c2fbe262eb5bd1794de9b230dbd72026a51ae5e
 
 # Artículo 35
 
-La Secretaría promoverá la participación de la sociedad civil en la prevención del tabaquismo y el control de los productos del tabaco en las siguientes acciones:
+La [Secretaría](articulo-6.md) promoverá la participación de la sociedad civil en la prevención del tabaquismo y el control de los productos del tabaco en las siguientes acciones:
 
 I. Promoción de los espacios 100 por ciento libres de humo de tabaco y emisiones; Fracción reformada DOF 17-02-2022
 
@@ -31,4 +31,4 @@ V. Difusión de las disposiciones legales en materia del control de los producto
 
 VI. Coordinación con los consejos nacional y estatales contra las adicciones, y
 
-VII. Las acciones de auxilio de aplicación de esta Ley como la denuncia ciudadana.
+VII. Las acciones de auxilio de aplicación de esta [Ley](articulo-6.md) como la denuncia ciudadana.

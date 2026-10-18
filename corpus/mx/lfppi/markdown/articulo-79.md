@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 79
 
-La renovación del registro de un diseño industrial deberá solicitarse por la persona titular dentro de los seis meses anteriores al vencimiento de su vigencia. Sin embargo, el Instituto dará trámite a aquellas solicitudes que se presenten dentro del plazo de gracia al que hace referencia la fracción II del artículo [160](articulo-160.md) de esta Ley.
+La renovación del registro de un diseño industrial deberá solicitarse por la persona titular dentro de los seis meses anteriores al vencimiento de su vigencia. Sin embargo, el [Instituto](articulo-4.md) dará trámite a aquellas solicitudes que se presenten dentro del plazo de gracia al que hace referencia la fracción II del artículo [160](articulo-160.md) de esta [Ley](articulo-4.md).
 
 El Instituto deberá resolver respecto de la renovación del registro de un diseño industrial, en un plazo máximo de dos meses contados a partir de la fecha de presentación de la solicitud o, en su caso, de la fecha en que se subsane el último requerimiento realizado por el Instituto.
 

@@ -17,6 +17,6 @@ source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 
 # Artículo 20
 
-La Secretaría integrará un grupo de trabajo intersecretarial para el ordenamiento ecológico general del territorio, en el que estarán representadas las dependencias y entidades de la Administración Pública Federal cuyas atribuciones incidan en el patrón de ocupación del territorio.
+La [Secretaría](articulo-3o.md) integrará un grupo de trabajo intersecretarial para el ordenamiento ecológico general del territorio, en el que estarán representadas las dependencias y entidades de la Administración Pública Federal cuyas atribuciones incidan en el patrón de ocupación del territorio.
 
 Artículo reformado DOF 28-09-2010

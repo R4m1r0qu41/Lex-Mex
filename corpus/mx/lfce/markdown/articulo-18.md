@@ -17,15 +17,15 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 18
 
-El Pleno deliberará de forma colegiada y decidirá los casos por mayoría de votos, salvo las decisiones que requieran una mayoría calificada en los términos de esta Ley.
+El [Pleno](articulo-3.md) deliberará de forma colegiada y decidirá los casos por mayoría de votos, salvo las decisiones que requieran una mayoría calificada en los términos de esta Ley.
 
 Las deliberaciones del Pleno deberán contar con los votos de todos los Comisionados. Los Comisionados no podrán abstenerse de votar. Los Comisionados que se encuentren ausentes durante las sesiones del Pleno deberán emitir su voto por escrito antes de la sesión o dentro de los cinco días siguientes a la sesión respectiva.
 
 En los casos en que los Comisionados no puedan ejercer su voto por causas debidamente justificadas o estén impedidos para ello, y exista empate en la votación del Pleno, el Comisionado Presidente contará con voto de calidad para decidir estos casos.
 
-Las sesiones del Pleno serán de carácter público, a través de la versión estenográfica que se publicará en el sitio de Internet de la Comisión, excepto aquellas porciones en que se traten temas con Información Confidencial o Reservada. Sólo será considerada Información Confidencial la declarada como tal bajo los supuestos establecidos en esta Ley y demás disposiciones aplicables. El Pleno deberá fundar y motivar la resolución en la que determine que una sesión no será pública. Párrafo reformado DOF 16-07-2025
+Las sesiones del Pleno serán de carácter público, a través de la versión estenográfica que se publicará en el sitio de Internet de la [Comisión](articulo-3.md), excepto aquellas porciones en que se traten temas con [Información Confidencial](articulo-3.md) o Reservada. Sólo será considerada Información Confidencial la declarada como tal bajo los supuestos establecidos en esta Ley y demás disposiciones aplicables. El Pleno deberá fundar y motivar la resolución en la que determine que una sesión no será pública. Párrafo reformado DOF 16-07-2025
 
-La Comisión deberá hacer público el posicionamiento de cada una de las Personas Comisionadas sobre los asuntos listados en el orden del día, el cual será redactado en lenguaje ciudadano, que deberá contener una descripción de los hechos de cada asunto en cuestión, así como el sentido del voto y el razonamiento que lo sustenta. Párrafo reformado DOF 16-07-2025
+La Comisión deberá hacer público el posicionamiento de cada una de las [Personas Comisionadas](articulo-3.md) sobre los asuntos listados en el orden del día, el cual será redactado en lenguaje ciudadano, que deberá contener una descripción de los hechos de cada asunto en cuestión, así como el sentido del voto y el razonamiento que lo sustenta. Párrafo reformado DOF 16-07-2025
 
 Los acuerdos y resoluciones del Pleno también serán de carácter público y sólo se reservarán las partes que contengan Información Confidencial o Reservada, en los términos establecidos en esta Ley y demás disposiciones aplicables.
 

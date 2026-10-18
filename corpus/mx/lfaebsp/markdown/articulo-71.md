@@ -17,6 +17,6 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 71
 
-Para la destrucción de Bienes se estará a lo dispuesto por la Ley de Tesorería de la Federación y su reglamento, requiriéndose adicionalmente la autorización previa del Director General del Instituto.
+Para la destrucción de [Bienes](articulo-2o.md) se estará a lo dispuesto por la Ley de Tesorería de la Federación y su reglamento, requiriéndose adicionalmente la autorización previa del Director General del [Instituto](articulo-2o.md).
 
 Artículo reformado DOF 09-08-2019

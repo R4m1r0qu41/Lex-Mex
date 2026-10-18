@@ -17,4 +17,4 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 84
 
-El trámite de las autorizaciones a que se refiere este Capítulo, se sujetará a lo dispuesto en la Ley Federal de Procedimiento Administrativo.
+El trámite de las autorizaciones a que se refiere este Capítulo, se sujetará a lo dispuesto en la [Ley](articulo-5.md) Federal de Procedimiento Administrativo.

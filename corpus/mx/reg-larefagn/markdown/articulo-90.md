@@ -17,4 +17,4 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 90
 
-Se entiende por proceso de evaluación a las actividades que realiza la Comisión de Evaluación para dar cumplimiento al propósito que le establece el artículo [33](../../larefam/markdown/articulo-33.md) de la Ley.
+Se entiende por proceso de evaluación a las actividades que realiza la [Comisión de Evaluación](articulo-5.md) para dar cumplimiento al propósito que le establece el artículo [33](../../larefam/markdown/articulo-33.md) de la Ley.

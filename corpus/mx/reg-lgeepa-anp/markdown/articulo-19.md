@@ -17,4 +17,4 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 19
 
-Previo a la instalación de un Consejo Asesor, la Secretaría a través de la Comisión Nacional de Áreas Naturales Protegidas, realizará las acciones de concertación necesarias con los diversos sectores involucrados. El Consejo Asesor, quedará formalmente instalado en la sesión que para tal efecto se celebre, debiéndose levantar un acta que deberá ser firmada por cada uno de los Consejeros.
+Previo a la instalación de un [Consejo](articulo-3o.md) Asesor, la [Secretaría](articulo-3o.md) a través de la [Comisión](articulo-3o.md) Nacional de Áreas Naturales Protegidas, realizará las acciones de concertación necesarias con los diversos sectores involucrados. El Consejo Asesor, quedará formalmente instalado en la sesión que para tal efecto se celebre, debiéndose levantar un acta que deberá ser firmada por cada uno de los Consejeros.

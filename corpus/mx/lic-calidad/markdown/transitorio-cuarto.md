@@ -15,4 +15,4 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # CUARTO
 
-Las Propuestas, Anteproyectos y Proyectos de Normas Oficiales Mexicanas y Estándares que a la fecha de entrada en vigor del presente Decreto se encuentren en trámite y que no hayan sido publicados, deberán ajustarse a lo dispuesto por las Ley Federal sobre Metrología y Normalización, su Reglamento y demás disposiciones secundarias vigentes al momento de su elaboración y hasta su conclusión.
+Las Propuestas, Anteproyectos y Proyectos de [Normas Oficiales Mexicanas](articulo-4.md) y [Estándares](articulo-4.md) que a la fecha de entrada en vigor del presente Decreto se encuentren en trámite y que no hayan sido publicados, deberán ajustarse a lo dispuesto por las Ley Federal sobre Metrología y Normalización, su Reglamento y demás disposiciones secundarias vigentes al momento de su elaboración y hasta su conclusión.

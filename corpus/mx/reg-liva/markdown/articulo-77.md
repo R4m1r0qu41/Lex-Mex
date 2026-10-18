@@ -17,4 +17,4 @@ source_sha256: 4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f
 
 # Artículo 77
 
-Para los efectos de las obligaciones establecidas en la Ley, el Servicio de Administración Tributaria podrá otorgar facilidades administrativas mediante reglas de carácter general para el cumplimiento de las obligaciones mencionadas, tratándose de los sectores de contribuyentes a quienes se les otorgan facilidades administrativas para los efectos del impuesto sobre la renta.
+Para los efectos de las obligaciones establecidas en la [Ley](articulo-1.md), el Servicio de Administración Tributaria podrá otorgar facilidades administrativas mediante reglas de carácter general para el cumplimiento de las obligaciones mencionadas, tratándose de los sectores de contribuyentes a quienes se les otorgan facilidades administrativas para los efectos del impuesto sobre la renta.

@@ -17,7 +17,7 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 61
 
-Reglas Generales Será competente para conocer de un asunto el Órgano Jurisdiccional del lugar en el que ocurrió el hecho que la ley señale como delito.
+Reglas Generales Será competente para conocer de un asunto el [Órgano Jurisdiccional](articulo-3.md) del lugar en el que ocurrió el hecho que la ley señale como delito.
 
 Para determinar la competencia de los órganos federales o locales, según corresponda, se observarán las siguientes reglas:
 

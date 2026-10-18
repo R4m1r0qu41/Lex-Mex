@@ -1,1 +1,189 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lissfam:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:statute:lissfam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lissfam:article:4",
+    "fraction": "I",
+    "start_char": 48,
+    "end_char": 134,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lissfam:term:instituto",
+    "term": "Instituto",
+    "instrument_id": "urn:lex-mx:federal:statute:lissfam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lissfam:article:4",
+    "fraction": "II",
+    "start_char": 134,
+    "end_char": 219,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lissfam:term:junta",
+    "term": "Junta",
+    "instrument_id": "urn:lex-mx:federal:statute:lissfam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lissfam:article:4",
+    "fraction": "III",
+    "start_char": 219,
+    "end_char": 341,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lissfam:term:fuerza-armada-permanente",
+    "term": "Fuerza Armada Permanente",
+    "instrument_id": "urn:lex-mx:federal:statute:lissfam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lissfam:article:4",
+    "fraction": "IV",
+    "start_char": 341,
+    "end_char": 469,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lissfam:term:militares",
+    "term": "Militares",
+    "instrument_id": "urn:lex-mx:federal:statute:lissfam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lissfam:article:4",
+    "fraction": "V",
+    "start_char": 469,
+    "end_char": 699,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lissfam:term:derechohabiente",
+    "term": "Derechohabiente",
+    "instrument_id": "urn:lex-mx:federal:statute:lissfam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lissfam:article:4",
+    "fraction": "VI",
+    "start_char": 699,
+    "end_char": 900,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lissfam:term:beneficiario",
+    "term": "Beneficiario",
+    "instrument_id": "urn:lex-mx:federal:statute:lissfam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lissfam:article:4",
+    "fraction": "VII",
+    "start_char": 900,
+    "end_char": 1018,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lissfam:term:deudos",
+    "term": "Deudos",
+    "instrument_id": "urn:lex-mx:federal:statute:lissfam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lissfam:article:4",
+    "fraction": "VIII",
+    "start_char": 1018,
+    "end_char": 1083,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lissfam:term:declaracion-de-procedencia-de-retiro",
+    "term": "Declaración de Procedencia de Retiro",
+    "instrument_id": "urn:lex-mx:federal:statute:lissfam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lissfam:article:4",
+    "fraction": "IX",
+    "start_char": 1083,
+    "end_char": 1432,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lissfam:term:haber-o-haberes",
+    "term": "Haber o haberes",
+    "instrument_id": "urn:lex-mx:federal:statute:lissfam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lissfam:article:4",
+    "fraction": "X",
+    "start_char": 1432,
+    "end_char": 1561,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lissfam:term:prima-de-perseverancia",
+    "term": "Prima de perseverancia",
+    "instrument_id": "urn:lex-mx:federal:statute:lissfam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lissfam:article:4",
+    "fraction": "XI",
+    "start_char": 1561,
+    "end_char": 1809,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lissfam:term:asignacion-de-tecnico",
+    "term": "Asignación de técnico",
+    "instrument_id": "urn:lex-mx:federal:statute:lissfam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lissfam:article:4",
+    "fraction": "XII",
+    "start_char": 1809,
+    "end_char": 1991,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lissfam:term:asignacion-de-tecnico-especial",
+    "term": "Asignación de técnico especial",
+    "instrument_id": "urn:lex-mx:federal:statute:lissfam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lissfam:article:4",
+    "fraction": "XIII",
+    "start_char": 1991,
+    "end_char": 2198,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lissfam:term:asignacion-de-vuelo-y-de-salto",
+    "term": "Asignación de vuelo y de salto",
+    "instrument_id": "urn:lex-mx:federal:statute:lissfam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lissfam:article:4",
+    "fraction": "XIV",
+    "start_char": 2198,
+    "end_char": 2440,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lissfam:term:sobrehaber",
+    "term": "Sobrehaber",
+    "instrument_id": "urn:lex-mx:federal:statute:lissfam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lissfam:article:4",
+    "fraction": "XV",
+    "start_char": 2440,
+    "end_char": 2660,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lissfam:term:sobrehaber-minimo-vigente",
+    "term": "Sobrehaber mínimo vigente",
+    "instrument_id": "urn:lex-mx:federal:statute:lissfam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lissfam:article:4",
+    "fraction": "XVI",
+    "start_char": 2660,
+    "end_char": 2825,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lissfam:term:sueldo-base-de-servidor-publico",
+    "term": "Sueldo Base de Servidor Público",
+    "instrument_id": "urn:lex-mx:federal:statute:lissfam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lissfam:article:4",
+    "fraction": "XVII",
+    "start_char": 2825,
+    "end_char": 3138,
+    "basis": "express_definition"
+  }
+]

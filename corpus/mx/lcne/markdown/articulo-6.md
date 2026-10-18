@@ -25,4 +25,4 @@ II. Comisión: Comisión Nacional de Energía;
 
 III. Secretaría: Secretaría de Energía, y
 
-IV. Sujeto Regulado: Las Empresas Públicas del Estado, las personas físicas y morales de los sectores público, social y privado que realicen Actividades en materia energética.
+IV. Sujeto Regulado: Las Empresas Públicas del Estado, las personas físicas y morales de los sectores público, social y privado que realicen [Actividades en materia energética](articulo-6.md).

@@ -17,4 +17,4 @@ source_sha256: 0e34f329befed4474eb7bc1bc195ba13bbe188edfbbabc914a44723e62eb9e44
 
 # Artículo 16
 
-Los Regulados deberán contar con un área responsable de la implementación, evaluación y mejora del Sistema de Administración.
+Los [Regulados](articulo-3o.md) deberán contar con un área responsable de la implementación, evaluación y mejora del [Sistema de Administración](articulo-3o.md).

@@ -29,12 +29,12 @@ IV.- Cuando se porte un arma distinta a la que ampara la licencia;
 
 V.- Cuando el arma amparada por la licencia se modifique en sus características originales;
 
-VI.- Cuando la expedición de la licencia se haya basado en engaño, o cuando a juicio de la Secretaría hayan desaparecido los motivos que se tuvieron en cuenta para otorgarla o que por causa superveniente se dejare de satisfacer algún otro requisito necesario para su expedición; Fracción reformada DOF 29-05-2025
+VI.- Cuando la expedición de la licencia se haya basado en engaño, o cuando a juicio de la [Secretaría](articulo-1o-Bis.md) hayan desaparecido los motivos que se tuvieron en cuenta para otorgarla o que por causa superveniente se dejare de satisfacer algún otro requisito necesario para su expedición; Fracción reformada DOF 29-05-2025
 
 VII.- Por resolución de autoridad competente;
 
 VIII.- Cuando sus poseedores cambien de domicilio sin manifestarlo a la Secretaría; Fracción reformada DOF 29-05-2025
 
-IX.- Por no cumplir el interesado las disposiciones de esta Ley, de sus Reglamentos o las de la Secretaría dictadas con base en esos Ordenamientos. Fracción reformada DOF 29-05-2025
+IX.- Por no cumplir el interesado las disposiciones de esta [Ley](articulo-1o-Bis.md), de sus [Reglamentos](articulo-1o-Bis.md) o las de la Secretaría dictadas con base en esos Ordenamientos. Fracción reformada DOF 29-05-2025
 
 La suspensión de las licencias de portación de armas procederá a juicio de la Secretaría conforme a los procedimientos establecidos en el Reglamento de esta Ley. Párrafo reformado DOF 29-05-2025

@@ -17,4 +17,4 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 66
 
-Quienes generen y manejen residuos peligrosos y requieran de un confinamiento dentro de sus instalaciones, deberán apegarse a las disposiciones de esta Ley, las que establezca el Reglamento y a las especificaciones respecto de la ubicación, diseño, construcción y operación de las celdas de confinamiento, así como de almacenamiento y tratamiento previo al confinamiento de los residuos, contenidas en las normas oficiales mexicanas correspondientes.
+Quienes generen y manejen residuos peligrosos y requieran de un confinamiento dentro de sus instalaciones, deberán apegarse a las disposiciones de esta [Ley](articulo-5.md), las que establezca el [Reglamento](articulo-5.md) y a las especificaciones respecto de la ubicación, diseño, construcción y operación de las celdas de confinamiento, así como de almacenamiento y tratamiento previo al confinamiento de los residuos, contenidas en las normas oficiales mexicanas correspondientes.

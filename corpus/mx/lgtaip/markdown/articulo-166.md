@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 166
 
-Una vez que la Autoridad garante federal reciba el recurso de inconformidad examinará su procedencia y, en su caso, requerirá los elementos que considere necesarios a la Autoridad garante local responsable.
+Una vez que la [Autoridad garante federal](articulo-3.md) reciba el recurso de inconformidad examinará su procedencia y, en su caso, requerirá los elementos que considere necesarios a la [Autoridad garante local](articulo-3.md) responsable.

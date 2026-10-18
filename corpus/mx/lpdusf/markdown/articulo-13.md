@@ -17,4 +17,4 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 13
 
-La Comisión Nacional deberá guardar estricta reserva sobre la información y documentos que conozca con motivo de su objeto, relacionada con los depósitos, servicios o cualquier tipo de operaciones llevadas a cabo por las Instituciones Financieras. Solamente en el caso de que dicha información o documentos sean solicitados por la autoridad judicial, en virtud de providencia dictada en juicio en el que el titular sea parte, la Comisión Nacional estará legalmente facultada para proporcionarlos.
+La [Comisión Nacional](articulo-2o.md) deberá guardar estricta reserva sobre la información y documentos que conozca con motivo de su objeto, relacionada con los depósitos, servicios o cualquier tipo de operaciones llevadas a cabo por las [Instituciones Financieras](articulo-2o.md). Solamente en el caso de que dicha información o documentos sean solicitados por la autoridad judicial, en virtud de providencia dictada en juicio en el que el titular sea parte, la Comisión Nacional estará legalmente facultada para proporcionarlos.

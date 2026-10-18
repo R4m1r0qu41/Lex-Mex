@@ -17,4 +17,4 @@ source_sha256: 7679afbbf32749e0c0bacab72644d41fc6ccdeeab3a2f25dfae8d26a065de01e
 
 # Artículo 137
 
-Las acciones de seguimiento previstas en esta Ley tendrán por objeto fortalecer la calidad técnica de los Proyectos Procedentes y mejorar la trazabilidad de su ejecución, y no sustituirán ni condicionarán las evaluaciones, registros o autorizaciones que deban realizarse conforme a las disposiciones jurídicas aplicables en materia presupuestaria, financiera o administrativa aplicable.
+Las acciones de seguimiento previstas en esta [Ley](articulo-4.md) tendrán por objeto fortalecer la calidad técnica de los [Proyectos Procedentes](articulo-4.md) y mejorar la trazabilidad de su ejecución, y no sustituirán ni condicionarán las evaluaciones, registros o autorizaciones que deban realizarse conforme a las disposiciones jurídicas aplicables en materia presupuestaria, financiera o administrativa aplicable.

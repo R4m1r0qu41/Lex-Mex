@@ -29,7 +29,7 @@ IV. Concertar acciones con organizaciones en materia de desarrollo social;
 
 V. Fomentar la organización y participación ciudadana en los programas de desarrollo social;
 
-VI. Ejercer los fondos y recursos federales descentralizados o convenidos en materia social, en los términos de las leyes respectivas; así como informar a la Secretaría sobre el avance y resultados generados con los mismos;
+VI. Ejercer los fondos y recursos federales descentralizados o convenidos en materia social, en los términos de las leyes respectivas; así como informar a la [Secretaría](articulo-5.md) sobre el avance y resultados generados con los mismos;
 
 VII. Informar a la sociedad sobre las acciones en torno al desarrollo social, y
 

@@ -17,9 +17,9 @@ source_sha256: 0125eed7519ad260330f9a04f78c0e4a1ce93c06e67c98ac3c535416787656ba
 
 # Artículo 3
 
-La aplicación de la presente Ley corresponde al Ejecutivo Federal, por conducto del Secretariado Ejecutivo, el cual tendrá las facultades siguientes:
+La aplicación de la presente Ley corresponde al Ejecutivo Federal, por conducto del [Secretariado Ejecutivo](articulo-2.md), el cual tendrá las facultades siguientes:
 
-I.- Acordar con las Entidades Federativas las reglas a que se sujetarán el suministro, intercambio y sistematización de la información del Registro y, en general, sobre su operación, funcionamiento y administración;
+I.- Acordar con las [Entidades Federativas](articulo-2.md) las reglas a que se sujetarán el suministro, intercambio y sistematización de la información del [Registro](articulo-2.md) y, en general, sobre su operación, funcionamiento y administración;
 
 II.- Operar, regular y mantener el Registro, así como procurar su buen funcionamiento y el intercambio de información entre los distintos órdenes de gobierno;
 

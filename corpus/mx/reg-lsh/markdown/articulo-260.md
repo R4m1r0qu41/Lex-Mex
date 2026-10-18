@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 260
 
-La Secretaría de Economía en colaboración con la Secretaría y la Comisión pueden celebrar convenios o acuerdos para establecer mecanismos que permitan formalizar proyectos para el fomento industrial y de inversión en el sector hidrocarburos.
+La [Secretaría](articulo-3.md) de Economía en colaboración con la Secretaría y la [Comisión](articulo-3.md) pueden celebrar convenios o acuerdos para establecer mecanismos que permitan formalizar proyectos para el fomento industrial y de inversión en el sector hidrocarburos.

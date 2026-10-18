@@ -17,9 +17,9 @@ source_sha256: 2a105e5201b86ff5517ca1ef8d971224ea8c717f195fdd5fa28b916c7e622e56
 
 # Artículo 3
 
-Las Dependencias y Entidades de la Administración Pública Federal, en el ámbito de su competencia, están obligadas a prestar la colaboración que les requiera la Fiscalía General de la República, por conducto del Centro para la aplicación de las Medidas de Protección previstas en esta Ley. Párrafo reformado DOF 20-05-2021
+Las Dependencias y Entidades de la Administración Pública Federal, en el ámbito de su competencia, están obligadas a prestar la colaboración que les requiera la [Fiscalía General](articulo-2.md) de la República, por conducto del [Centro](articulo-2.md) para la aplicación de las [Medidas de Protección](articulo-2.md) previstas en esta [Ley](articulo-2.md). Párrafo reformado DOF 20-05-2021
 
-La administración y ejecución de las medidas de protección contempladas en el Programa, son independientes del desarrollo del Procedimiento Penal, el cual sólo servirá para determinar y eliminar los factores de riesgo de la persona sujeta a protección.
+La administración y ejecución de las medidas de protección contempladas en el [Programa](articulo-2.md), son independientes del desarrollo del Procedimiento Penal, el cual sólo servirá para determinar y eliminar los factores de riesgo de la persona sujeta a protección.
 
 La información y documentación relacionada con las personas protegidas, será considerada como reservada y confidencial, en los términos que dispone la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, con excepción de aquella de carácter estadístico la cual podrá ser proporcionada en los términos de la ley referida, siempre y cuando no ponga en riesgo la seguridad de las personas sujetas a protección.
 

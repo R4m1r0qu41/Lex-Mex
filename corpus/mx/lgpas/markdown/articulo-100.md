@@ -21,4 +21,4 @@ Los permisos de acuacultura tendrán una vigencia de hasta cinco años de acuerd
 
 Podrán ser prorrogados en los casos y condiciones que se determinen en el propio reglamento, y serán intransferibles.
 
-Para la acuacultura comercial el titular deberá entregar un informe al IMIPAS a la mitad del plazo estipulado en el permiso, y con base en el dictamen emitido por el Instituto se podrá prorrogar la concesión. Párrafo reformado DOF 04-12-2023
+Para la acuacultura comercial el titular deberá entregar un informe al [IMIPAS](articulo-4o.md) a la mitad del plazo estipulado en el permiso, y con base en el dictamen emitido por el Instituto se podrá prorrogar la concesión. Párrafo reformado DOF 04-12-2023

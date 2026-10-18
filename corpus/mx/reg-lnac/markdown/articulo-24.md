@@ -27,4 +27,4 @@ II.- Certificados de Nacionalidad Mexicana, y
 
 III.- Cartas de Naturalización.
 
-Los Libros de Registro de documentos de nacionalidad mexicana por nacimiento y por naturalización, son clasificados como confidenciales por contener datos personales, de conformidad con lo dispuesto por la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, con las excepciones previstas en el citado ordenamiento legal.
+Los Libros de Registro de documentos de nacionalidad mexicana por nacimiento y por naturalización, son clasificados como confidenciales por contener datos personales, de conformidad con lo dispuesto por la [Ley](articulo-2.md) Federal de Transparencia y Acceso a la Información Pública Gubernamental, con las excepciones previstas en el citado ordenamiento legal.

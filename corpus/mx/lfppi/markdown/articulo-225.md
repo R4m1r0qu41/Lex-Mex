@@ -17,11 +17,11 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 225
 
-Concluido el plazo de un mes al que se refiere el artículo [221](articulo-221.md) de esta Ley, se procederá a realizar el examen de forma de la solicitud.
+Concluido el plazo de un mes al que se refiere el artículo [221](articulo-221.md) de esta [Ley](articulo-4.md), se procederá a realizar el examen de forma de la solicitud.
 
 Finalizado el examen de forma, se procederá a realizar el examen de fondo, a fin de verificar si la marca es registrable en los términos de esta Ley.
 
-Si la solicitud o la documentación exhibida no cumple con los requisitos legales o reglamentarios o si existe algún impedimento para el registro de la marca, o bien, en caso de presentarse oposición a la solicitud, el Instituto lo comunicará por escrito a la persona solicitante para que manifieste lo que a su derecho convenga y presente las pruebas que estime convenientes.
+Si la solicitud o la documentación exhibida no cumple con los requisitos legales o reglamentarios o si existe algún impedimento para el registro de la marca, o bien, en caso de presentarse oposición a la solicitud, el [Instituto](articulo-4.md) lo comunicará por escrito a la persona solicitante para que manifieste lo que a su derecho convenga y presente las pruebas que estime convenientes.
 
 El Instituto otorgará un plazo de dos meses a la persona solicitante para que manifieste lo que a su derecho convenga en relación con los requisitos, oposiciones o impedimentos.
 

@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 350
 
-Cuando se resuelva el procedimiento de declaración administrativa de infracción, el Instituto pondrá a disposición de la persona afectada la fianza o contrafianza que, en su caso, se hubiesen exhibido.
+Cuando se resuelva el procedimiento de declaración administrativa de infracción, el [Instituto](articulo-4.md) pondrá a disposición de la persona afectada la fianza o contrafianza que, en su caso, se hubiesen exhibido.
 
 Lo anterior, con independencia de la indemnización por los daños y perjuicios que correspondan a la persona titular afectada sobre el fondo de la controversia.
 

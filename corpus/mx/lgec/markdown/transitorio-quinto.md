@@ -15,4 +15,4 @@ source_sha256: 89220c0c86445a873067e0095b4591c11847dfd11595ca3e11bbfcf09cef6754
 
 # Quinto
 
-Las legislaturas locales que no efectúen la armonización que se indica en el transitorio anterior deberán aplicar las disposiciones de esta Ley, en el ámbito local.
+Las legislaturas locales que no efectúen la armonización que se indica en el transitorio anterior deberán aplicar las disposiciones de esta [Ley](articulo-3.md), en el ámbito local.

@@ -17,7 +17,7 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 33
 
-La Secretaría determinará en las bases del concurso un monto específico para la contraprestación económica o para la prima por descubrimiento, pero en ningún caso para ambas.
+La [Secretaría](articulo-1o.md) determinará en las bases del concurso un monto específico para la contraprestación económica o para la prima por descubrimiento, pero en ningún caso para ambas.
 
 Si la Secretaría no fija un monto específico, en los términos del párrafo anterior, ambos montos deberán ser ofrecidos por los participantes en la segunda fase del concurso, conforme a lo dispuesto en las bases del mismo. En este supuesto, el ganador del concurso será aquél que presente la mejor propuesta económica con base en el método a que se refiere la fracción V del artículo [31](articulo-31.md) de este Reglamento.
 

@@ -17,7 +17,7 @@ source_sha256: 4b4529ce2b1275ea9363ab78b6e2d504cd1106bc3d10fd70f09246c38b0cd31e
 
 # Artículo 5
 
-La inversión de las Reservas y de la Reserva General deberá realizarse en valores a cargo del Gobierno Federal o de emisores de alta calidad crediticia, que paguen una tasa de interés competitiva, en las mejores condiciones de seguridad, rendimiento y liquidez, según los límites de inversión que se establezcan en las políticas y directrices a que se refiere este Reglamento.
+La inversión de las [Reservas](articulo-2.md) y de la [Reserva General](articulo-2.md) deberá realizarse en valores a cargo del Gobierno Federal o de emisores de alta calidad crediticia, que paguen una tasa de interés competitiva, en las mejores condiciones de seguridad, rendimiento y liquidez, según los límites de inversión que se establezcan en las políticas y directrices a que se refiere este Reglamento.
 
 La inversión de las Reservas y de la Reserva General tendrá como objetivos:
 

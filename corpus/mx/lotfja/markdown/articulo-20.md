@@ -27,7 +27,7 @@ III. Ejercer su facultad de atracción para resolver los procedimientos administ
 
 El ejercicio de la facultad de atracción podrá ser solicitada por cualquiera de los Magistrados de la Sección Tercera, o bien por el Pleno de las Salas Especializadas en materia de Responsabilidades Administrativas, por mayoría de votos de sus integrantes;
 
-IV. Resolver el recurso de reclamación que proceda en los términos de la Ley General de Responsabilidades Administrativas;
+IV. Resolver el recurso de reclamación que proceda en los términos de la [Ley](articulo-2.md) General de Responsabilidades Administrativas;
 
 V. Fijar jurisprudencia, con la aprobación de cinco precedentes en el mismo sentido no interrumpidos por otro en contrario;
 
@@ -45,7 +45,7 @@ XI. Imponer a los particulares que intervengan en actos vinculados con faltas ad
 
 XII. Sancionar a las personas morales cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona moral y en beneficio de ella. En estos casos podrá procederse a la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a la Hacienda Pública o a los entes públicos, federales, locales o municipales, siempre que la sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves; en estos supuestos la sanción se ejecutará hasta que sea definitiva;
 
-XIII. A petición de su Magistrado Presidente, solicitar al Pleno de la Sala Superior, que por conducto de la Junta de Gobierno, se realicen las gestiones necesarias ante las autoridades competentes para garantizar las condiciones que permitan a los Magistrados de la propia Sección o de las Salas Especializadas en materia de Responsabilidades Administrativas, ejercer con normalidad y autonomía sus atribuciones;
+XIII. A petición de su Magistrado Presidente, solicitar al Pleno de la Sala Superior, que por conducto de la [Junta](articulo-2.md) de Gobierno, se realicen las gestiones necesarias ante las autoridades competentes para garantizar las condiciones que permitan a los Magistrados de la propia Sección o de las Salas Especializadas en materia de Responsabilidades Administrativas, ejercer con normalidad y autonomía sus atribuciones;
 
 XIV. Dar seguimiento y proveer la ejecución de las resoluciones que emita, y
 

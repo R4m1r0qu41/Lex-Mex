@@ -17,6 +17,6 @@ source_sha256: b32c33fa4ed071dc8bea1ad69ce8510cdb05016967e9e4fcb60f10c6f2216628
 
 # Artículo 52
 
-El Presidente del Tribunal será electo por el Pleno General de la Sala Superior en la primera sesión del año siguiente a aquél en que concluya el periodo del Presidente en funciones. Durará en su cargo tres años y no podrá ser reelecto para ningún otro periodo.
+El [Presidente del Tribunal](articulo-2.md) será electo por el Pleno General de la Sala Superior en la primera sesión del año siguiente a aquél en que concluya el periodo del Presidente en funciones. Durará en su cargo tres años y no podrá ser reelecto para ningún otro periodo.
 
 Serán elegibles los Magistrados de Sala Superior cuyos nombramientos cubran el periodo antes señalado.

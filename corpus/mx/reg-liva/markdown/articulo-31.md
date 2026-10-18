@@ -17,4 +17,4 @@ source_sha256: 4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f
 
 # Artículo 31
 
-Para los efectos del artículo [10](../../liva/markdown/articulo-10.md) de la Ley, se entiende que la enajenación se realiza en territorio nacional, aun cuando la entrega material de los bienes se efectúe en los recintos fiscales o fiscalizados considerados como tales en la legislación aduanera.
+Para los efectos del artículo [10](../../liva/markdown/articulo-10.md) de la [Ley](articulo-1.md), se entiende que la enajenación se realiza en territorio nacional, aun cuando la entrega material de los bienes se efectúe en los recintos fiscales o fiscalizados considerados como tales en la legislación aduanera.

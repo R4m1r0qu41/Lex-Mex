@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 128
 
-La delegación de la facultad a la que se refiere el artículo [127](articulo-127.md) de este Reglamento, se hará constar por escrito y establecerá: I.- El país u oficina extranjera ante la cual deba ser exhibida; II.- El nombre de la tercera persona solicitante; III.- El nombre de la persona representante legal o apoderada, en su caso, y IV.- La vigencia de la autorización.
+La delegación de la facultad a la que se refiere el artículo [127](articulo-127.md) de este [Reglamento](articulo-2.md), se hará constar por escrito y establecerá: I.- El país u oficina extranjera ante la cual deba ser exhibida; II.- El nombre de la tercera persona solicitante; III.- El nombre de la persona representante legal o apoderada, en su caso, y IV.- La vigencia de la autorización.

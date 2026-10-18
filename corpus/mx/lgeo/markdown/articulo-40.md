@@ -17,4 +17,4 @@ source_sha256: 67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35
 
 # Artículo 40
 
-El procedimiento de Reasignación de Áreas Geotérmicas, así como las condiciones y criterios, se determinan en las disposiciones administrativas que para tal efecto emita la Secretaría.
+El procedimiento de [Reasignación](articulo-2.md) de [Áreas Geotérmicas](articulo-2.md), así como las condiciones y criterios, se determinan en las disposiciones administrativas que para tal efecto emita la [Secretaría](articulo-2.md).

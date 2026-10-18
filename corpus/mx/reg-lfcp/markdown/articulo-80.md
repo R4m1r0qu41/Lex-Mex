@@ -17,7 +17,7 @@ source_sha256: 43723ba379e128c1a1c1be4b085ecc870946cdec43d56f83e7314c077361368f
 
 # Artículo 80
 
-El recurso de revisión procederá en contra de las resoluciones de la Secretaría dictadas con fundamento en la Ley y este reglamento.
+El recurso de revisión procederá en contra de las resoluciones de la [Secretaría](articulo-2o.md) dictadas con fundamento en la [Ley](articulo-2o.md) y este reglamento.
 
 Para la sustanciación del referido recurso, se estará en lo conducente a lo dispuesto en la Ley Federal de Procedimiento Administrativo. Párrafo reformado DOF 26-11-2012
 

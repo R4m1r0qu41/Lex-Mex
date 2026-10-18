@@ -17,7 +17,7 @@ source_sha256: d8dd1de3627b899bb4faf31c2812c3d5f14f7108be153d5aa8dd549b9136184a
 
 # Artículo 49
 
-La Escuela Nacional de Protección Civil es una instancia dependiente de la Coordinación Nacional por conducto del CENAPRED, orientada a la formación sistemática e institucionalizada de capital humano, a través de la capacitación, actualización y especialización de materias teóricas y prácticas.
+La Escuela Nacional de [Protección Civil](articulo-2.md) es una instancia dependiente de la [Coordinación Nacional](articulo-2.md) por conducto del CENAPRED, orientada a la formación sistemática e institucionalizada de capital humano, a través de la capacitación, actualización y especialización de materias teóricas y prácticas.
 
 Tendrá como función la acreditación y certificación de las capacidades de personas físicas y morales que ofrezcan y comercialicen servicios de asesoría y capacitación en los temas relacionados con protección civil, sin perjuicio de que existan otras instancias de acreditación y certificación dentro del sistema educativo nacional.
 

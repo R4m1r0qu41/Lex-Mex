@@ -17,6 +17,6 @@ source_sha256: 4fadf9a6f2d22a9e48d8e29ed302456751da66eb723e0df1dc6ac45a5e4640b0
 
 # Artículo 18
 
-Transcurridos quince días desde la fecha de la última publicación de los edictos, y si no hubiere noticias u oposición de alguna persona interesada, el Órgano Jurisdiccional resolverá, en forma definitiva, sobre la Declaración Especial de Ausencia.
+Transcurridos quince días desde la fecha de la última publicación de los edictos, y si no hubiere noticias u oposición de alguna persona interesada, el [Órgano Jurisdiccional](articulo-3.md) resolverá, en forma definitiva, sobre la [Declaración Especial de Ausencia](articulo-3.md).
 
 Si hubiere noticias u oposición de alguna persona interesada, el Órgano Jurisdiccional no podrá resolver sobre la Declaración Especial de Ausencia sin escuchar a la persona y hacerse llegar de la información o de las pruebas que crea oportunas para tal efecto.

@@ -17,4 +17,4 @@ source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 
 # Artículo 118
 
-La designación de árbitro se hará constar mediante acta ante la Procuraduría, en la que se señalarán claramente los puntos esenciales de la controversia y si el arbitraje es en estricto derecho o en amigable composición.
+La designación de árbitro se hará constar mediante acta ante la [Procuraduría](articulo-2.md), en la que se señalarán claramente los puntos esenciales de la controversia y si el arbitraje es en estricto derecho o en amigable composición.

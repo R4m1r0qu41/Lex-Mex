@@ -17,7 +17,7 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 74
 
-Los gastos en que incurra el Instituto derivados de los procedimientos de destrucción, se considerarán como costos de administración de los Bienes.
+Los gastos en que incurra el [Instituto](articulo-2o.md) derivados de los procedimientos de destrucción, se considerarán como costos de administración de los [Bienes](articulo-2o.md).
 
 En caso de que del producto de la destrucción se obtengan recursos a favor, el Instituto podrá destinarlos para gastos de administración y destino de los Bienes.
 

@@ -17,4 +17,4 @@ source_sha256: 45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80
 
 # Artículo 35
 
-El material y acervo cultural generado con apoyos públicos será resguardado por la Secretaría quien se encargará de su preservación y difusión, siempre con pleno respeto a los derechos de propiedad intelectual que corresponda.
+El material y acervo cultural generado con apoyos públicos será resguardado por la [Secretaría](articulo-3.md) quien se encargará de su preservación y difusión, siempre con pleno respeto a los derechos de propiedad intelectual que corresponda.

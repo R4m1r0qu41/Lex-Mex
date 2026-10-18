@@ -17,4 +17,4 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 32
 
-Como auxiliar de la Comisión Nacional, funcionarán un Consejo Consultivo Nacional para la Protección de los Intereses de los Usuarios, así como los demás Consejos Consultivos Regionales, Estatales o Locales que, en su caso, considere necesario la Junta.
+Como auxiliar de la [Comisión Nacional](articulo-2o.md), funcionarán un Consejo Consultivo Nacional para la Protección de los Intereses de los [Usuarios](articulo-2o.md), así como los demás Consejos Consultivos Regionales, Estatales o Locales que, en su caso, considere necesario la [Junta](articulo-2o.md).

@@ -17,6 +17,6 @@ source_sha256: a1cc8f6043c35579235fd61d2e34977e1735af4ea6919d053f89462b97742335
 
 # Artículo 5
 
-El Secretariado Ejecutivo, a través del Centro Nacional, en coordinación con la Subsecretaría, llevará a cabo Diagnósticos Participativos que permitan conocer los problemas que afectan a la sociedad en materia de Violencia y delincuencia.
+El Secretariado Ejecutivo, a través del Centro Nacional, en coordinación con la [Subsecretaría](articulo-3.md), llevará a cabo [Diagnósticos Participativos](articulo-3.md) que permitan conocer los problemas que afectan a la sociedad en materia de Violencia y delincuencia.
 
 Los Diagnósticos Participativos estarán publicados en la página web del Secretariado Ejecutivo, a efecto de conocer las zonas con mayores índices de Violencia y delincuencia.

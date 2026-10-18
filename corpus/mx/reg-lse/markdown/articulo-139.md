@@ -17,4 +17,4 @@ source_sha256: 4bcc982b308b0813469b30db61b53d5a2c41e5a7240b3b1cac2f1aeeb2c00a2e
 
 # Artículo 139
 
-Cuando la Solicitante no esté conforme con la resolución emitida por el CENACE, la Transportista o la Distribuidora, puede promover el medio de impugnación que corresponda ante la CNE, en términos de las Reglas del Mercado o demás ordenamientos jurídicos en la materia.
+Cuando la [Solicitante](articulo-2.md) no esté conforme con la resolución emitida por el CENACE, la Transportista o la Distribuidora, puede promover el medio de impugnación que corresponda ante la CNE, en términos de las Reglas del Mercado o demás ordenamientos jurídicos en la materia.

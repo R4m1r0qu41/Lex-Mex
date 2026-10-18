@@ -15,7 +15,7 @@ source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 
 # Artículo 84
 
-La Agencia Federal de Aviación Civil vigilará y verificará el cumplimiento de esta Ley, sus reglamentos y demás disposiciones aplicables, sin perjuicio de la competencia que expresamente corresponda a otras autoridades.
+La [Agencia Federal de Aviación Civil](articulo-2.md) vigilará y verificará el cumplimiento de esta Ley, sus reglamentos y demás disposiciones aplicables, sin perjuicio de la competencia que expresamente corresponda a otras autoridades.
 
 Los sujetos a vigilancia y verificación son las personas concesionarias, asignatarias, operadoras aéreas, permisionarias, proveedoras de servicios a la navegación aérea y, en el caso de las operaciones de aeronaves para uso particular, las personas propietarias o poseedoras de aeronaves, quienes están obligadas a:
 

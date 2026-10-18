@@ -15,4 +15,4 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # QUINTO
 
-Todos los trámites y solicitudes que hayan sido presentados por escrito a las Autoridades Normalizadoras con anterioridad a la entrada en vigor del presente Decreto, se resolverán conforme a lo dispuesto en la Ley Federal sobre Metrología y Normalización, su Reglamento y demás disposiciones secundarias vigentes al momento de su presentación y hasta su conclusión.
+Todos los trámites y solicitudes que hayan sido presentados por escrito a las [Autoridades Normalizadoras](articulo-4.md) con anterioridad a la entrada en vigor del presente Decreto, se resolverán conforme a lo dispuesto en la Ley Federal sobre Metrología y Normalización, su Reglamento y demás disposiciones secundarias vigentes al momento de su presentación y hasta su conclusión.

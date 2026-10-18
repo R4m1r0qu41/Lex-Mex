@@ -15,7 +15,7 @@ source_sha256: bcc21844355854fe331c842c21436d721d6c2856b5c5986715fe39f4a845b317
 
 # TRIGÉSIMO CUARTO
 
-La Cámara de Diputados deberá destinar al Sistema Público de Radiodifusión del Estado Mexicano recursos económicos acordes con sus objetivos y funciones, para lo que deberá considerar:
+La Cámara de Diputados deberá destinar al [Sistema](articulo-2.md) Público de Radiodifusión del Estado Mexicano recursos económicos acordes con sus objetivos y funciones, para lo que deberá considerar:
 
 I. Sus planes de crecimiento;
 

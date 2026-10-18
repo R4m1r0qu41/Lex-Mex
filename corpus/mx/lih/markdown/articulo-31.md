@@ -17,7 +17,7 @@ source_sha256: 8262a75eac7bfb608d4f48657ffb2714fe115d0b9694c42ac81624fd275bf5f6
 
 # Artículo 31
 
-Las bases de licitación de los Contratos y los Contratos deben prever que éstos sólo podrán ser formalizados con Empresas Públicas del Estado o con Personas Morales que cumplan con: Párrafo reformado DOF 18-03-2025
+Las bases de licitación de los [Contratos](articulo-3.md) y los Contratos deben prever que éstos sólo podrán ser formalizados con Empresas Públicas del Estado o con Personas Morales que cumplan con: Párrafo reformado DOF 18-03-2025
 
 I. Ser residentes para efectos fiscales en México;
 

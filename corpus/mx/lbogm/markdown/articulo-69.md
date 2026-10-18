@@ -17,7 +17,7 @@ source_sha256: b3c906475b455176de73da17f4f93a73f295965dc9bcca854b48417c7d4d3cfc
 
 # Artículo 69
 
-La Secretaría correspondiente, en cualquier momento y sobre la base de nueva información científica o técnica acerca de los posibles riesgos que puedan provocar los OGMs a la salud pública o al medio ambiente y a la diversidad biológica, podrán revisar los permisos otorgados y, en su caso, suspender sus efectos o revocar dichos permisos, conforme a los procedimientos que establezcan las disposiciones reglamentarias que deriven de esta Ley, cuando considere como causas que:
+La [Secretaría](articulo-3.md) correspondiente, en cualquier momento y sobre la base de nueva información científica o técnica acerca de los posibles riesgos que puedan provocar los OGMs a la salud pública o al medio ambiente y a la diversidad biológica, podrán revisar los permisos otorgados y, en su caso, suspender sus efectos o revocar dichos permisos, conforme a los procedimientos que establezcan las disposiciones reglamentarias que deriven de esta Ley, cuando considere como causas que:
 
 I. Se presente un cambio en las circunstancias de las actividades que puede influir en el resultado del estudio de la evaluación de los posibles riesgos en el cual se basó el permiso, o
 

@@ -17,4 +17,4 @@ source_sha256: 7df3d678efda2306b68d3c0f5ca0e3e92b9066d5f773128f4ae19cb26bf44fff
 
 # Artículo 70
 
-El inicio de operaciones por parte de las personas titulares de permisos y Autorizaciones sin contar con la constancia a que se refiere el [artículo anterior](articulo-69.md), se equipara a la realización de actividades sin permiso por parte de la SENER.
+El inicio de operaciones por parte de las personas titulares de permisos y [Autorizaciones](articulo-3.md) sin contar con la constancia a que se refiere el [artículo anterior](articulo-69.md), se equipara a la realización de actividades sin permiso por parte de la [SENER](articulo-3.md).

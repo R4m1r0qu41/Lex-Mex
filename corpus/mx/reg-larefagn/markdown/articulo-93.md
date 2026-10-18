@@ -17,7 +17,7 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 93
 
-En el área de análisis y consulta se estudia, analiza, valora y complementa el área objetiva con base en la aptitud profesional, conducta militar y civil y actuación militar en general, disponiendo la Comisión de Evaluación de un rango de 300 puntos positivos a 200 puntos negativos para otorgar la calificación, considerando los siguientes aspectos:
+En el área de análisis y consulta se estudia, analiza, valora y complementa el área objetiva con base en la aptitud profesional, conducta militar y civil y actuación militar en general, disponiendo la [Comisión de Evaluación](articulo-5.md) de un rango de 300 puntos positivos a 200 puntos negativos para otorgar la calificación, considerando los siguientes aspectos:
 
 I. Aspectos positivos:
 
@@ -67,7 +67,7 @@ d. Comisiones en el extranjero que no sean para realizar cursos de formación, c
 
 e. Dependencias, 10 puntos. Inciso reformado DOF 20-03-2026
 
-A la persona titular de la Jefatura, Subjefatura, Jefatura de Sección y Jefatura de Subsección del Estado Mayor, del Estado Mayor del Ejército y del Estado Mayor de la Fuerza Aérea; así como de la Jefatura General de Coordinación Policial, Subjefatura, Jefatura de Sección y de Subsección de la Guardia Nacional, se les sumarán 10 puntos por cada año desempeñado en dichos cargos. Párrafo reformado DOF 20-03-2026
+A la persona titular de la Jefatura, Subjefatura, Jefatura de Sección y Jefatura de Subsección del [Estado Mayor](articulo-5.md), del Estado Mayor del Ejército y del Estado Mayor de la Fuerza Aérea; así como de la Jefatura General de Coordinación Policial, Subjefatura, Jefatura de Sección y de Subsección de la Guardia Nacional, se les sumarán 10 puntos por cada año desempeñado en dichos cargos. Párrafo reformado DOF 20-03-2026
 
 La Comisión de Evaluación podrá determinar la puntuación para los cargos o comisiones no referidos en el presente inciso, considerando el nivel de responsabilidad del desempeño y el periodo de duración.
 
@@ -79,7 +79,7 @@ II. Aspectos negativos:
 
 A. Correctivos disciplinarios:
 
-Los correctivos disciplinarios que se impongan a la persona participante durante los últimos seis años, incluyendo aquél en que participe en la Promoción Superior, serán sancionados por la Comisión de Evaluación sin rebasar los 50 puntos negativos, de la siguiente manera: Párrafo reformado DOF 20-03-2026
+Los correctivos disciplinarios que se impongan a la persona participante durante los últimos seis años, incluyendo aquél en que participe en la [Promoción](articulo-5.md) Superior, serán sancionados por la Comisión de Evaluación sin rebasar los 50 puntos negativos, de la siguiente manera: Párrafo reformado DOF 20-03-2026
 
 a. Por cada 25 días de arresto que tenga el participante, 5 puntos negativos;
 
@@ -93,7 +93,7 @@ B. Cambios de adscripción y conceptos negativos:
 
 La Comisión de Evaluación otorgará 10 puntos negativos por cada cambio por convenir al buen servicio, concepto negativo y mala conducta que tenga la persona participante en los últimos seis años, incluyendo aquel en que participe en la Promoción Superior, asignando una puntuación que no rebase los 50 puntos negativos. Párrafo reformado DOF 20-03-2026
 
-Para tal efecto, la Comisión de Evaluación analizará los conceptos y notas emitidas por las personas titulares de las Comandancias, Coordinaciones o Direcciones, considerando todo lo relativo a la reputación de la unidad, establecimiento o dependencia; el consumo de alcohol y estupefacientes; la realización de juegos prohibidos por la ley; la disolución escandalosa; la negligencia en el servicio que no constituya un delito, y todo lo que concierne a la dignidad militar, tomando como referencia las notas que obren en las hojas de servicios y de actuación del personal de la jerarquía de Jefes y Generales. Párrafo reformado DOF 20-03-2026
+Para tal efecto, la Comisión de Evaluación analizará los conceptos y notas emitidas por las personas titulares de las Comandancias, Coordinaciones o [Direcciones](articulo-5.md), considerando todo lo relativo a la reputación de la unidad, establecimiento o dependencia; el consumo de alcohol y estupefacientes; la realización de juegos prohibidos por la ley; la disolución escandalosa; la negligencia en el servicio que no constituya un delito, y todo lo que concierne a la dignidad militar, tomando como referencia las notas que obren en las hojas de servicios y de actuación del personal de la jerarquía de Jefes y Generales. Párrafo reformado DOF 20-03-2026
 
 C. Deficiencias:
 

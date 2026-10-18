@@ -17,4 +17,4 @@ source_sha256: 7679afbbf32749e0c0bacab72644d41fc6ccdeeab3a2f25dfae8d26a065de01e
 
 # Artículo 64
 
-Las autoridades federales competentes podrán celebrar convenios de colaboración con las Entidades Federativas y Municipios para fomentar los Proyectos para el desarrollo con bienestar, de conformidad con las disposiciones aplicables.
+Las autoridades federales competentes podrán celebrar convenios de colaboración con las [Entidades Federativas](articulo-4.md) y [Municipios](articulo-4.md) para fomentar los [Proyectos para el desarrollo con bienestar](articulo-4.md), de conformidad con las disposiciones aplicables.

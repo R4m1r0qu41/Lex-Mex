@@ -17,4 +17,4 @@ source_sha256: 45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80
 
 # Artículo 36
 
-La Secretaría será responsable de la capacitación para el manejo adecuado de los materiales vegetativos, herramientas y documentos generados, en coordinación con las instituciones de investigación, las entidades educativas y las organizaciones productivas.
+La [Secretaría](articulo-3.md) será responsable de la capacitación para el manejo adecuado de los materiales vegetativos, herramientas y documentos generados, en coordinación con las instituciones de investigación, las entidades educativas y las organizaciones productivas.

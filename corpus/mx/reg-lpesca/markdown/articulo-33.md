@@ -17,4 +17,4 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # Artículo 33
 
-Queda prohibido el uso de redes de arrastre en bahías y esteros, excepto en aquellos casos que expresamente lo autorice la Secretaría oyendo la opinión del Instituto Nacional de la Pesca. Dicha prohibición se hará constar en la concesión, permiso o autorización que la Secretaría otorgue.
+Queda prohibido el uso de redes de arrastre en bahías y esteros, excepto en aquellos casos que expresamente lo autorice la [Secretaría](articulo-2o.md) oyendo la opinión del Instituto Nacional de la Pesca. Dicha prohibición se hará constar en la concesión, permiso o autorización que la Secretaría otorgue.

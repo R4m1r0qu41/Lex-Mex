@@ -17,6 +17,6 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 86
 
-Para la inscripción en el Registro de los actos que conforme al artículo 47 de la Ley deban ser inscritos de oficio, la Secretaría contará con un plazo de diez días, contado a partir de la expedición de los mismos para ejecutar dicha inscripción.
+Para la inscripción en el [Registro](articulo-1o.md) de los actos que conforme al artículo 47 de la [Ley](articulo-1o.md) deban ser inscritos de oficio, la [Secretaría](articulo-1o.md) contará con un plazo de diez días, contado a partir de la expedición de los mismos para ejecutar dicha inscripción.
 
 En cuanto a los actos que se inscriben a petición de parte interesada, la Secretaría dispondrá de un plazo de veintiún días hábiles, contado a partir de la recepción de la solicitud respectiva, para realizar o no la inscripción correspondiente.

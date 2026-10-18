@@ -19,11 +19,11 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 Para los efectos de este Reglamento, además de las definiciones previstas en el artículo [2](../../larefam/markdown/articulo-2.md) de la Ley, se entiende por:
 
-I. Centro Integral de Evaluación: El Centro Integral de Evaluación de la Sección Primera del Estado Mayor Conjunto de la Defensa Nacional responsable de la evaluación y pruebas de capacidad;
+I. Centro Integral de Evaluación: El Centro Integral de Evaluación de la Sección Primera del [Estado Mayor](articulo-5.md) Conjunto de la Defensa Nacional responsable de la evaluación y pruebas de capacidad;
 
 II. Concurso de selección: El conjunto de exámenes que tiene por objeto evaluar a la persona militar, la mejor calificada será seleccionada para desempeñarse en la jerarquía superior, en las promociones de especialistas y general;
 
-III. Comisión de Evaluación: El organismo encargado de analizar el desempeño profesional del personal con la jerarquía de Tenientes Coroneles, Coroneles, Generales Brigadieres o de Grupo y de Brigada o de Ala, potencialmente considerados para participar en la Promoción Superior para obtener el ascenso al grado inmediato;
+III. Comisión de Evaluación: El organismo encargado de analizar el desempeño profesional del personal con la jerarquía de Tenientes Coroneles, Coroneles, Generales Brigadieres o de Grupo y de Brigada o de Ala, potencialmente considerados para participar en la [Promoción](articulo-5.md) Superior para obtener el ascenso al grado inmediato;
 
 IV. Direcciones: Las Direcciones Generales de las Armas, de los Servicios y de Guardia Nacional de la Secretaría con responsabilidades administrativas de manejo de personal;
 

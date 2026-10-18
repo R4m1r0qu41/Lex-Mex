@@ -17,7 +17,7 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # Artículo 78
 
-La Secretaría resolverá las solicitudes de permiso de pesca de fomento, considerando la opinión del Instituto Nacional de la Pesca, en los siguientes términos:
+La [Secretaría](articulo-2o.md) resolverá las solicitudes de permiso de pesca de fomento, considerando la opinión del Instituto Nacional de la Pesca, en los siguientes términos:
 
 I. Tratándose de personas de nacionalidad mexicana, dentro de un plazo de 21 días hábiles, bajo el siguiente procedimiento:
 

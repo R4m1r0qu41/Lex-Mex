@@ -17,4 +17,4 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 50
 
-Las Direcciones Generales y el Estado Mayor estarán facultados para llevar a cabo el proceso de las Promociones previstas en la Ley y el presente Reglamento.
+Las [Direcciones](articulo-5.md) Generales y el [Estado Mayor](articulo-5.md) estarán facultados para llevar a cabo el proceso de las [Promociones](articulo-5.md) previstas en la Ley y el presente Reglamento.

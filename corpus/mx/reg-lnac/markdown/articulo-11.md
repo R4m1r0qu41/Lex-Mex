@@ -17,4 +17,4 @@ source_sha256: bd9ba59ab5016fd7d8737d382113a20e450b188e586925c31a1ef7c2af3f0065
 
 # Artículo 11
 
-Los mexicanos por nacimiento a los que otro Estado considere también como sus nacionales y que pretendan acceder al ejercicio de algún cargo o función para el que se requiera tener únicamente la nacionalidad mexicana por nacimiento, deberán tramitar ante la Secretaría su Certificado de Nacionalidad Mexicana y realizar por escrito las renuncias y protestas referidas en el artículo [17](../../lnac/markdown/articulo-17.md) de la Ley.
+Los mexicanos por nacimiento a los que otro Estado considere también como sus nacionales y que pretendan acceder al ejercicio de algún cargo o función para el que se requiera tener únicamente la nacionalidad mexicana por nacimiento, deberán tramitar ante la Secretaría su Certificado de Nacionalidad Mexicana y realizar por escrito las renuncias y protestas referidas en el artículo [17](../../lnac/markdown/articulo-17.md) de la [Ley](articulo-2.md).

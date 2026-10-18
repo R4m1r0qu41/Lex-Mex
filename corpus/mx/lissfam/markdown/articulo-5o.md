@@ -17,7 +17,7 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 5o
 
-El órgano de Gobierno del Instituto es la Junta Directiva, la que se integra por nueve miembros: tres designados por la Secretaría de la Defensa Nacional, tres por la de Marina y tres por la de Hacienda y Crédito Público.
+El órgano de Gobierno del [Instituto](articulo-4o.md) es la [Junta](articulo-4o.md) Directiva, la que se integra por nueve miembros: tres designados por la Secretaría de la Defensa Nacional, tres por la de Marina y tres por la de Hacienda y Crédito Público.
 
 El Ejecutivo Federal designará un Presidente y un Vicepresidente de los propuestos por la Secretaría de la Defensa Nacional o la de Marina.
 

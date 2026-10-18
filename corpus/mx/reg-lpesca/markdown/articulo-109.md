@@ -17,7 +17,7 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # Artículo 109
 
-La Secretaría resolverá la solicitud de concesión para la acuacultura comercial en un plazo de 45 días hábiles, en los términos siguientes:
+La [Secretaría](articulo-2o.md) resolverá la solicitud de concesión para la acuacultura comercial en un plazo de 45 días hábiles, en los términos siguientes:
 
 I. Cuando se haya exhibido la resolución en materia de impacto ambiental, bajo el procedimiento siguiente:
 

@@ -17,7 +17,7 @@ source_sha256: 4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f
 
 # Artículo 63
 
-Conforme a lo dispuesto por el artículo [29](../../liva/markdown/articulo-29.md), fracción IV, inciso g) de la Ley, los contribuyentes deberán cumplir con los requisitos siguientes:
+Conforme a lo dispuesto por el artículo [29](../../liva/markdown/articulo-29.md), fracción IV, inciso g) de la [Ley](articulo-1.md), los contribuyentes deberán cumplir con los requisitos siguientes:
 
 I. Celebrar por escrito un contrato de prestación de servicios en el que se especifiquen los servicios de filmación o grabación que serán prestados;
 

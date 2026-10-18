@@ -17,6 +17,6 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 72 Bis
 
-En los juicios arbitrales en amigable composición o de estricto derecho, las partes de común acuerdo, podrán adherirse a las reglas de procedimiento establecidas por la Comisión Nacional, total o parcialmente, las cuales serán publicadas en el Diario Oficial de la Federación.
+En los juicios arbitrales en amigable composición o de estricto derecho, las partes de común acuerdo, podrán adherirse a las reglas de procedimiento establecidas por la [Comisión Nacional](articulo-2o.md), total o parcialmente, las cuales serán publicadas en el Diario Oficial de la Federación.
 
 Artículo adicionado DOF 05-01-2000. Reformado DOF 10-01-2014

@@ -17,7 +17,7 @@ source_sha256: 7b3cf7a0ff59f76503a97a535457c4a7dd3b1305e7a36f4fca82bd661eab1168
 
 # Artículo 71
 
-Los Agentes Extranjeros deberán observar las siguientes disposiciones:
+Los [Agentes Extranjeros](articulo-6.md) deberán observar las siguientes disposiciones:
 
 I. Sólo podrán desarrollar las actividades de enlace para el intercambio de información con autoridades mexicanas en términos de lo dispuesto en la acreditación que se hubiese expedido a su favor;
 

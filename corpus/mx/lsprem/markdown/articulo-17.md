@@ -17,4 +17,4 @@ source_sha256: bcc21844355854fe331c842c21436d721d6c2856b5c5986715fe39f4a845b317
 
 # Artículo 17
 
-El Presidente del Sistema será designado, a propuesta del Ejecutivo Federal, con el voto de dos terceras partes de los miembros presentes de la Cámara de Senadores o, en sus recesos, de la Comisión Permanente.
+El [Presidente](articulo-2.md) del [Sistema](articulo-2.md) será designado, a propuesta del Ejecutivo Federal, con el voto de dos terceras partes de los miembros presentes de la Cámara de Senadores o, en sus recesos, de la Comisión Permanente.

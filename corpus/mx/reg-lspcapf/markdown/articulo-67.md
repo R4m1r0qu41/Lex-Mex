@@ -27,7 +27,7 @@ IV. No aprobatorio, cuando en conjunto sean mayores de 50 puntos y menores de 60
 
 V. Deficiente, cuando en conjunto sean menores de 50 puntos, de un total de 100 posibles.
 
-Los servidores públicos de carrera que obtengan una calificación deficiente en su evaluación de desempeño, deben ser separados de su puesto y del Sistema, conforme a lo previsto en los artículos [58](../../lspcapf/markdown/articulo-58.md), segundo párrafo, y [60](../../lspcapf/markdown/articulo-60.md), fracción VII, de la Ley.
+Los servidores públicos de carrera que obtengan una calificación deficiente en su evaluación de desempeño, deben ser separados de su puesto y del Sistema, conforme a lo previsto en los artículos [58](../../lspcapf/markdown/articulo-58.md), segundo párrafo, y [60](../../lspcapf/markdown/articulo-60.md), fracción VII, de la [Ley](articulo-2.md).
 
 Se entiende por desempeño destacado el resultado previsto en la fracción I del presente artículo.
 

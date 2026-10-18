@@ -17,7 +17,7 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # Artículo 103
 
-La Secretaría realizará, en coordinación con las dependencias competentes de la Administración Pública Federal, las acciones necesarias para promover el desarrollo de la acuacultura y para tal efecto:
+La [Secretaría](articulo-2o.md) realizará, en coordinación con las dependencias competentes de la Administración Pública Federal, las acciones necesarias para promover el desarrollo de la acuacultura y para tal efecto:
 
 I. Establecerá, en coordinación con los gobiernos de los estados, municipios e instituciones competentes, servicios de investigación en genética, nutrición, sanidad y extensionismo, entre otros, para apoyar a las personas y organizaciones que se dediquen a esas actividades;
 

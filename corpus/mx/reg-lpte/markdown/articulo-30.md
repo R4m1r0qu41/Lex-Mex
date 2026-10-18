@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 30
 
-Para la elaboración de los Instrumentos de Planeación del Sector Energético, la Secretaría puede solicitar el apoyo técnico de los órganos administrativos desconcentrados, empresas públicas del Estado y entidades paraestatales sectorizadas, los Comités, así como de otras instancias públicas en el ámbito de sus competencias.
+Para la elaboración de los [Instrumentos de Planeación del Sector Energético](articulo-5.md), la [Secretaría](articulo-5.md) puede solicitar el apoyo técnico de los órganos administrativos desconcentrados, empresas públicas del Estado y entidades paraestatales sectorizadas, los [Comités](articulo-5.md), así como de otras instancias públicas en el ámbito de sus competencias.

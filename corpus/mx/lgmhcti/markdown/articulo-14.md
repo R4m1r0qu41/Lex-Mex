@@ -27,4 +27,4 @@ IV. Desarrollo de tecnologías estratégicas de vanguardia e impulso a la innova
 
 V. Acceso universal al conocimiento humanístico y científico y a sus beneficios sociales, y
 
-VI. Los demás que establezca el Consejo Nacional.
+VI. Los demás que establezca el [Consejo Nacional](articulo-4.md).

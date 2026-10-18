@@ -25,7 +25,7 @@ II. Suscriba trabajos periciales no ejecutados o supervisados por él, no efectu
 
 III. No realice la sustitución del único responsable, o bien, no dé aviso de dicha sustitución, conforme a lo establecido en el párrafo primero del artículo [99](articulo-99.md) de este Reglamento;
 
-IV. Permita que se suscriban trabajos periciales por los responsables, cuando éstos tengan cancelada su inscripción en el Registro de Peritos Mineros o suspendidos los efectos de la misma, o bien, cuando no cumplan con los requisitos a que se refiere el inciso c) de la fracción II del artículo [96](articulo-96.md) de este Reglamento;
+IV. Permita que se suscriban trabajos periciales por los responsables, cuando éstos tengan cancelada su inscripción en el [Registro](articulo-1o.md) de [Peritos Mineros](articulo-1o.md) o suspendidos los efectos de la misma, o bien, cuando no cumplan con los requisitos a que se refiere el inciso c) de la fracción II del artículo [96](articulo-96.md) de este Reglamento;
 
 V. No realice cuando menos un trabajo pericial en un período de dos años, o
 

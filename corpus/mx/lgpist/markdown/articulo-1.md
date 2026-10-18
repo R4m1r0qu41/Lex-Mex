@@ -17,6 +17,6 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 # Artículo 1
 
-La presente Ley es de orden público, interés social y observancia general en todo el territorio nacional.
+La presente [Ley](articulo-5.md) es de orden público, interés social y observancia general en todo el territorio nacional.
 
 Todas las autoridades, en el ámbito de sus competencias, deberán promover, respetar, proteger y garantizar en todo momento el derecho de toda persona a que se respete su integridad personal, protegiéndosele contra cualquier acto de tortura y otros tratos o penas crueles, inhumanos o degradantes.

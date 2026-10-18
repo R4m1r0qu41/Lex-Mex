@@ -17,9 +17,9 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 83
 
-Los visitantes y prestadores de servicios turísticos en las áreas naturales protegidas deberán cumplir con las reglas administrativas contenidas en el Programa de Manejo respectivo, y tendrán las siguientes obligaciones:
+Los visitantes y prestadores de servicios turísticos en las áreas naturales protegidas deberán cumplir con las reglas administrativas contenidas en el Programa de [Manejo](articulo-3o.md) respectivo, y tendrán las siguientes obligaciones:
 
-I.- Cubrir las cuotas establecidas en la Ley Federal de Derechos;
+I.- Cubrir las cuotas establecidas en la [Ley](articulo-3o.md) Federal de Derechos;
 
 II.- Hacer uso exclusivamente de las rutas y senderos establecidos para recorrer el área;
 
@@ -29,7 +29,7 @@ IV.- Acatar las indicaciones del personal del área;
 
 V.- Proporcionar los datos que les sean solicitados por el personal del área para efectos informativos y estadísticos;
 
-VI.- Brindar el apoyo y las facilidades necesarias para que el personal de la Secretaría realice labores de vigilancia, protección y control, así como en situaciones de emergencia o contingencia, y
+VI.- Brindar el apoyo y las facilidades necesarias para que el personal de la [Secretaría](articulo-3o.md) realice labores de vigilancia, protección y control, así como en situaciones de emergencia o contingencia, y
 
 VII.- Hacer del conocimiento del personal del área natural protegida las irregularidades que hubieren observado, así como aquellas acciones que pudieran constituir infracciones o delitos.
 

@@ -17,4 +17,4 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 43
 
-El Congreso de la Unión podrá solicitar a la Comisión que le envíe la información que requiera acerca del desarrollo de sus actividades. La Comisión, previa aprobación de la Junta de Gobierno, y por conducto de la Secretaría, enviará la información requerida.
+El Congreso de la Unión podrá solicitar a la Comisión que le envíe la información que requiera acerca del desarrollo de sus actividades. La Comisión, previa aprobación de la [Junta](articulo-2o.md) de Gobierno, y por conducto de la [Secretaría](articulo-2o.md), enviará la información requerida.

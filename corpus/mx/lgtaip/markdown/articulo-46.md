@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 46
 
-El Sistema Nacional establecerá las medidas necesarias para garantizar la estabilidad y seguridad de la Plataforma Nacional, promoviendo la homologación de procesos y la simplicidad del uso de los sistemas por parte de las personas usuarias.
+El [Sistema Nacional](articulo-3.md) establecerá las medidas necesarias para garantizar la estabilidad y seguridad de la [Plataforma Nacional](articulo-3.md), promoviendo la homologación de procesos y la simplicidad del uso de los sistemas por parte de las personas usuarias.

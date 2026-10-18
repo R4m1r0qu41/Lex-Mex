@@ -21,7 +21,7 @@ La presente Ley es de orden público e interés general y tiene por objeto estab
 
 I.- Los bienes que constituyen el patrimonio de la Nación;
 
-II.- El régimen de dominio público de los bienes de la Federación y de los inmuebles de los organismos descentralizados de carácter federal;
+II.- El régimen de dominio público de los bienes de la [Federación](articulo-2.md) y de los inmuebles de los organismos descentralizados de carácter federal;
 
 III.- La distribución de competencias entre las dependencias administradoras de inmuebles;
 

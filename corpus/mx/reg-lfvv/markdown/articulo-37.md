@@ -17,4 +17,4 @@ source_sha256: 23dcee090bbe0c4fb06c75d084cb65ce0b2e8f72a8d082e7059504412bde1614
 
 # Artículo 37
 
-En caso de emitirse la declaratoria de caducidad de la constancia de presentación, la solicitud de título de obtentor se tendrá por no presentada y se cancelarán las inscripciones relativas en el Registro. Dicha declaratoria la emitirá la Dirección General Jurídica y será publicada en el Diario Oficial de la Federación.
+En caso de emitirse la declaratoria de caducidad de la constancia de presentación, la solicitud de título de obtentor se tendrá por no presentada y se cancelarán las inscripciones relativas en el [Registro](articulo-2o.md). Dicha declaratoria la emitirá la Dirección General Jurídica y será publicada en el Diario Oficial de la Federación.

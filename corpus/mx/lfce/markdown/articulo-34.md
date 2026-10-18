@@ -17,6 +17,6 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 34
 
-Cuando las quejas o denuncias se presenten en contra de la persona titular de la Autoridad Investigadora, el Órgano Interno de Control resolverá lo conducente únicamente cuando el trámite de los casos a los que se refieran las denuncias haya finalizado.
+Cuando las quejas o denuncias se presenten en contra de la persona titular de la [Autoridad Investigadora](articulo-3.md), el Órgano Interno de Control resolverá lo conducente únicamente cuando el trámite de los casos a los que se refieran las denuncias haya finalizado.
 
 Artículo reformado DOF 27-01-2017, 16-07-2025

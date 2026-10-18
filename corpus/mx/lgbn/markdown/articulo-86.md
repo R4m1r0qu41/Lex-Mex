@@ -17,7 +17,7 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # Artículo 86
 
-La Secretaría emitirá las normas para la venta de inmuebles federales.
+La [Secretaría](articulo-2.md) emitirá las normas para la venta de inmuebles federales.
 
 La Secretaría podrá encomendar la promoción de la venta de inmuebles federales a personas especializadas en la materia, cuando cuente con elementos de juicio suficientes para considerar que con ello se pueden aumentar las alternativas de compradores potenciales y la posibilidad de lograr precios más altos. Para tal efecto, la Secretaría podrá encomendar dicha promoción a distintos corredores públicos u otros agentes inmobiliarios en función de la distribución geográfica de los inmuebles federales de que se trate, debiendo atender lo dispuesto por la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público.
 

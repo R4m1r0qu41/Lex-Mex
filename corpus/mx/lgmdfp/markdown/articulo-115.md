@@ -17,4 +17,4 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 115
 
-La Comisión Nacional de Búsqueda, las Comisiones Locales de Búsqueda, las Fiscalías Especializadas y de los servicios periciales y servicios médicos forenses se encuentran obligados a realizar las acciones pertinentes para la verificación de una probable hipótesis de identificación a partir de la información contenida en los registros previstos en esta Ley, dejando constancia del resultado.
+La [Comisión Nacional de Búsqueda](articulo-4.md), las [Comisiones Locales de Búsqueda](articulo-4.md), las [Fiscalías Especializadas](articulo-4.md) y de los servicios periciales y servicios médicos forenses se encuentran obligados a realizar las acciones pertinentes para la verificación de una probable hipótesis de identificación a partir de la información contenida en los registros previstos en esta Ley, dejando constancia del resultado.

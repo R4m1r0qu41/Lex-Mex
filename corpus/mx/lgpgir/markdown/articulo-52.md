@@ -19,7 +19,7 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 Son causas de revocación de las autorizaciones:
 
-I. Que exista falsedad en la información proporcionada a la Secretaría;
+I. Que exista falsedad en la información proporcionada a la [Secretaría](articulo-5.md);
 
 II. Cuando las actividades de manejo integral de los residuos peligrosos contravengan la normatividad aplicable;
 
@@ -29,4 +29,4 @@ IV. No renovar las garantías otorgadas;
 
 V. No realizar la reparación del daño ambiental que se cause con motivo de las actividades autorizadas, e
 
-VI. Incumplir grave o reiteradamente los términos de la autorización, la presente Ley, las leyes y reglamentos ambientales, las normas oficiales mexicanas y demás disposiciones aplicables.
+VI. Incumplir grave o reiteradamente los términos de la autorización, la presente [Ley](articulo-5.md), las leyes y reglamentos ambientales, las normas oficiales mexicanas y demás disposiciones aplicables.

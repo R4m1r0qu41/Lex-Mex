@@ -17,4 +17,4 @@ source_sha256: 0ad7a7b6d7dffd7d9a582d74ebd6fc43e6baa79f71801a73dc70d1b77c414ded
 
 # Artículo 82
 
-Contra la resolución emitida por el Registro Nacional de Organismos Ganaderos que niegue el servicio registral procederá el recurso de revisión, en los términos de la Ley Federal de Procedimiento Administrativo.
+Contra la resolución emitida por el Registro Nacional de Organismos [Ganaderos](articulo-2o.md) que niegue el servicio registral procederá el recurso de revisión, en los términos de la Ley Federal de Procedimiento Administrativo.

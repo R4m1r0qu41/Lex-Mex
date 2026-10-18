@@ -17,15 +17,15 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 87
 
-El Director General del Instituto tendrá las facultades siguientes: Párrafo reformado DOF 09-08-2019
+El Director General del [Instituto](articulo-2o.md) tendrá las facultades siguientes: Párrafo reformado DOF 09-08-2019
 
 I.- Representar al Instituto, para todos los efectos legales, incluyendo los laborales y delegar esa representación en los términos que señale su Estatuto Orgánico; Fracción reformada DOF 09-08-2019
 
 II.- Rendir los informes previos y justificados en los juicios de amparo cuando sea señalado como autoridad responsable;
 
-III.- Administrar el presupuesto del Instituto, de conformidad con las disposiciones aplicables. En caso de ser necesarias erogaciones de partidas no previstas en el presupuesto, el Director General deberá previamente obtener la aprobación de la Junta de Gobierno; Fracción reformada DOF 09-08-2019
+III.- Administrar el presupuesto del Instituto, de conformidad con las disposiciones aplicables. En caso de ser necesarias erogaciones de partidas no previstas en el presupuesto, el Director General deberá previamente obtener la aprobación de la [Junta de Gobierno](articulo-2o.md); Fracción reformada DOF 09-08-2019
 
-IV.- Dirigir y coordinar las actividades del Instituto, de conformidad con lo dispuesto en esta Ley, en el Reglamento y en los acuerdos que al efecto apruebe la Junta de Gobierno; Fracción reformada DOF 09-08-2019
+IV.- Dirigir y coordinar las actividades del Instituto, de conformidad con lo dispuesto en esta Ley, en el [Reglamento](articulo-2o.md) y en los acuerdos que al efecto apruebe la Junta de Gobierno; Fracción reformada DOF 09-08-2019
 
 V.- Asistir, con voz pero sin voto, a las sesiones de la Junta de Gobierno;
 
@@ -39,7 +39,7 @@ IX.- Proponer a la Junta de Gobierno el nombramiento o remoción de los servidor
 
 X.- Rendir los informes a la Junta de Gobierno relacionados con la administración y manejo de los bienes; respecto de la administración, enajenación o destino, así como del desempeño de los depositarios, liquidadores, interventores o administradores designados y de los terceros a que se refiere el artículo [1](articulo-1o.md) de esta Ley;
 
-XI.- Establecer los métodos que permitan el óptimo aprovechamiento de los Bienes del Instituto; Fracción reformada DOF 09-08-2019
+XI.- Establecer los métodos que permitan el óptimo aprovechamiento de los [Bienes](articulo-2o.md) del Instituto; Fracción reformada DOF 09-08-2019
 
 XII.- Recabar información y elementos estadísticos que reflejen el estado de las funciones del Instituto, para así poder mejorar su gestión; Fracción reformada DOF 09-08-2019
 

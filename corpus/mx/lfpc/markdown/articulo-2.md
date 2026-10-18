@@ -23,4 +23,4 @@ Tratándose de personas morales que adquieran bienes o servicios para integrarlo
 
 III. Secretaría: la Secretaría de Economía, y
 
-IV. Procuraduría: la Procuraduría Federal del Consumidor. Fracción reformada DOF 04-02-2004
+IV. Procuraduría: la Procuraduría Federal del [Consumidor](articulo-2.md). Fracción reformada DOF 04-02-2004

@@ -17,4 +17,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 257
 
-Cuando el registro de la marca no se encuentre vigente, el Instituto negará la inscripción o anotación que se solicite de una licencia o transmisión de derechos.
+Cuando el registro de la marca no se encuentre vigente, el [Instituto](articulo-4.md) negará la inscripción o anotación que se solicite de una licencia o transmisión de derechos.

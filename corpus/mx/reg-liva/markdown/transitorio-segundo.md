@@ -15,6 +15,6 @@ source_sha256: 4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f
 
 # Segundo
 
-Se abroga el Reglamento de la Ley del Impuesto al Valor Agregado publicado en el Diario Oficial de la Federación el 29 de febrero de 1984.
+Se abroga el Reglamento de la [Ley](articulo-1.md) del [Impuesto](articulo-1.md) al Valor Agregado publicado en el Diario Oficial de la Federación el 29 de febrero de 1984.
 
 A partir de la entrada en vigor de este Reglamento quedan sin efecto las disposiciones de carácter administrativo en materia del impuesto al valor agregado que se opongan al mismo.

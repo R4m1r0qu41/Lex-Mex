@@ -17,6 +17,6 @@ source_sha256: 9f964bc5c075d7cf47e5e9df7c2fbe262eb5bd1794de9b230dbd72026a51ae5e
 
 # Artículo 27
 
-En lugares con acceso al público en forma libre o restringida, lugares de trabajo con o sin atención al público, públicos o privados, podrán existir zonas exclusivamente para fumar, las cuales deberán ubicarse solamente en espacios al aire libre de conformidad con las disposiciones que establezca la Secretaría.
+En lugares con acceso al público en forma libre o restringida, lugares de trabajo con o sin atención al público, públicos o privados, podrán existir zonas exclusivamente para fumar, las cuales deberán ubicarse solamente en espacios al aire libre de conformidad con las disposiciones que establezca la [Secretaría](articulo-6.md).
 
 Artículo reformado DOF 06-01-2010, 17-02-2022

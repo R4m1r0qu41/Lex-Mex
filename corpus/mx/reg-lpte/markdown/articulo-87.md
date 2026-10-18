@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 87
 
-Los estudios trienales que debe realizar la CONUEE sobre la eficacia de las Normas Oficiales Mexicanas en materia de Eficiencia Energética, los programas de información y etiquetado en materia de Eficiencia Energética, a los que se refiere el artículo [39](../../lpte/markdown/articulo-39.md) de la Ley, pueden ser realizados por terceros independientes, sin perjuicio de la revisión sistemática prevista en la Ley de Infraestructura de la Calidad.
+Los estudios trienales que debe realizar la CONUEE sobre la eficacia de las Normas Oficiales Mexicanas en materia de Eficiencia Energética, los programas de información y etiquetado en materia de Eficiencia Energética, a los que se refiere el artículo [39](../../lpte/markdown/articulo-39.md) de la [Ley](articulo-5.md), pueden ser realizados por terceros independientes, sin perjuicio de la revisión sistemática prevista en la Ley de Infraestructura de la Calidad.

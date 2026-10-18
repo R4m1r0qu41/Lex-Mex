@@ -17,13 +17,13 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 120
 
-La Secretaría integrará el Sistema Nacional de Información de Pesca y Acuacultura que tendrá por objeto organizar, actualizar y difundir la información sobre actividades pesqueras y acuícolas, particularmente las que se desarrollan en el país. El sistema se integrará con la información siguiente:
+La [Secretaría](articulo-4o.md) integrará el Sistema Nacional de Información de [Pesca](articulo-4o.md) y [Acuacultura](articulo-4o.md) que tendrá por objeto organizar, actualizar y difundir la información sobre actividades pesqueras y acuícolas, particularmente las que se desarrollan en el país. El sistema se integrará con la información siguiente:
 
 I. La Carta Nacional Pesquera;
 
 II. La Carta Nacional Acuícola;
 
-III. El Registro Nacional de Pesca y Acuacultura;
+III. El [Registro](articulo-4o.md) Nacional de Pesca y Acuacultura;
 
 IV. El Informe de la situación general de la pesca y acuacultura en México e indicadores de su desarrollo;
 

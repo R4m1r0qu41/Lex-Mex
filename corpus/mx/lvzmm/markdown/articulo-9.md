@@ -17,7 +17,7 @@ source_sha256: d9ffbbf8f19b54a93ff577abb1266e4be1316d935e79fad655242955fd80ff70
 
 # Artículo 9
 
-La Secretaría para otorgar o negar un permiso de vertimiento, además de la evaluación señalada en el [artículo anterior](articulo-8.md), observará los aspectos siguientes:
+La [Secretaría](articulo-2.md) para otorgar o negar un permiso de vertimiento, además de la evaluación señalada en el [artículo anterior](articulo-8.md), observará los aspectos siguientes:
 
 I. La caracterización química, física, biológica, geológica y toxicológica de los desechos u otras materias;
 

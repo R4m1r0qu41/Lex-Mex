@@ -17,4 +17,4 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 117
 
-El Registro Nacional de Personas Fallecidas y No Identificadas deberá contar con las herramientas tecnológicas necesarias para permitir la interrelación, el resguardo y la confiabilidad de la información.
+El [Registro Nacional de Personas Fallecidas y No Identificadas](articulo-4.md) deberá contar con las herramientas tecnológicas necesarias para permitir la interrelación, el resguardo y la confiabilidad de la información.

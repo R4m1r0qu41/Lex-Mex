@@ -17,4 +17,4 @@ source_sha256: 2a105e5201b86ff5517ca1ef8d971224ea8c717f195fdd5fa28b916c7e622e56
 
 # Artículo 50
 
-El Programa operará con los recursos que al efecto se asignen en el Presupuesto de Egresos de la Federación.
+El [Programa](articulo-2.md) operará con los recursos que al efecto se asignen en el Presupuesto de Egresos de la Federación.

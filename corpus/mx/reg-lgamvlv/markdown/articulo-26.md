@@ -17,7 +17,7 @@ source_sha256: 71ee875c26fc6a1024ea9481ca0690721959514689d860112c3093f0176dfcfb
 
 # Artículo 26
 
-Sin perjuicio de lo previsto en el Programa, el Modelo de Erradicación tendrá las siguientes acciones:
+Sin perjuicio de lo previsto en el Programa, el [Modelo](articulo-2.md) de Erradicación tendrá las siguientes acciones:
 
 I. Definir y ejecutar acciones interinstitucionales tendientes a desalentar prácticas violentas contra las mujeres;
 

@@ -17,13 +17,13 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 # Artículo 69
 
-El Programa Nacional debe incluir: I. El diagnóstico sobre la incidencia, modalidades, causas y consecuencias de los delitos de tortura y otros tratos o penas crueles, inhumanos o degradantes, considerando específicamente el daño que cause a grupos afectados o en mayor grado de vulnerabilidad;
+El [Programa Nacional](articulo-5.md) debe incluir: I. El diagnóstico sobre la incidencia, modalidades, causas y consecuencias de los delitos de tortura y otros tratos o penas crueles, inhumanos o degradantes, considerando específicamente el daño que cause a grupos afectados o en mayor grado de vulnerabilidad;
 
-II. Diagnósticos participativos, que se conformarán de manera incluyente por sectores sociales involucrados en la prevención y documentación de la tortura y otros tratos crueles, inhumanos o degradantes, entre otros, incluidos los poderes judiciales federal y estatales, la Comisión Nacional y los organismos públicos de protección de los derechos humanos, organizaciones de la sociedad civil, instituciones académicas y organismos internacionales;
+II. Diagnósticos participativos, que se conformarán de manera incluyente por sectores sociales involucrados en la prevención y documentación de la tortura y otros tratos crueles, inhumanos o degradantes, entre otros, incluidos los poderes judiciales federal y estatales, la [Comisión Nacional](articulo-5.md) y los organismos públicos de protección de los derechos humanos, organizaciones de la sociedad civil, instituciones académicas y organismos internacionales;
 
-III. Los objetivos y estrategias para la prevención, persecución, sanción y erradicación de la tortura y otros tratos crueles, inhumanos o degradantes; así como para la protección, asistencia, ayuda, atención y reparación integral de las Víctimas;
+III. Los objetivos y estrategias para la prevención, persecución, sanción y erradicación de la tortura y otros tratos crueles, inhumanos o degradantes; así como para la protección, asistencia, ayuda, atención y reparación integral de las [Víctimas](articulo-5.md);
 
-IV. Las líneas de acción que las dependencias y entidades deben llevar a cabo para dar cumplimiento a lo establecido en la presente Ley, y los compromisos adquiridos por el Estado mexicano en la materia;
+IV. Las líneas de acción que las dependencias y entidades deben llevar a cabo para dar cumplimiento a lo establecido en la presente [Ley](articulo-5.md), y los compromisos adquiridos por el Estado mexicano en la materia;
 
 V. Los indicadores para la medición del logro de sus objetivos; y
 

@@ -25,9 +25,9 @@ II. Se acredite debidamente en el mismo documento la personalidad jurídica y la
 
 III. Estén vigentes los derechos que se pretenden transmitir o afectar;
 
-IV. No se perjudiquen derechos de tercero inscritos en el Registro;
+IV. No se perjudiquen derechos de tercero inscritos en el [Registro](articulo-1o.md);
 
-V. Sean satisfechas las condiciones y requisitos que determinan la Ley y este Reglamento y en su caso, se acredite el pago de los derechos por el trámite en cuestión;
+V. Sean satisfechas las condiciones y requisitos que determinan la [Ley](articulo-1o.md) y este Reglamento y en su caso, se acredite el pago de los derechos por el trámite en cuestión;
 
 VI. Se cumplan los elementos constitutivos del acto, contrato o convenio, de conformidad con las disposiciones aplicables, y
 

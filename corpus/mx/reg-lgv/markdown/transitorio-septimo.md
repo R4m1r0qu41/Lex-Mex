@@ -15,6 +15,6 @@ source_sha256: 51d855a586ad7017a8d8f5c36819a2bd0d3d488f3f4b23594a729418a8b776b4
 
 # SÉPTIMO
 
-La Junta Directiva de la Asesoría Jurídica Federal expedirá las Bases Generales de Organización y Funcionamiento y los lineamientos del Servicio Civil de Carrera dentro de los tres meses posteriores a la fecha de entrada en vigor del Estatuto Orgánico de la Comisión Ejecutiva.
+La Junta Directiva de la Asesoría Jurídica Federal expedirá las Bases Generales de Organización y Funcionamiento y los lineamientos del Servicio Civil de Carrera dentro de los tres meses posteriores a la fecha de entrada en vigor del [Estatuto Orgánico](articulo-3.md) de la Comisión Ejecutiva.
 
 El Plan Anual de Capacitación deberá ser expedido junto con los lineamientos del Servicio Civil de Carrera.

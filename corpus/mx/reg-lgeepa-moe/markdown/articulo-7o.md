@@ -33,4 +33,4 @@ b. Las estrategias ecológicas aplicables al modelo de ordenamiento ecológico; 
 
 III. La bitácora ambiental.
 
-La Secretaría podrá promover el inicio del proceso de ordenamiento ecológico en cualquiera de sus etapas, según se requiera.
+La [Secretaría](articulo-3o.md) podrá promover el inicio del proceso de ordenamiento ecológico en cualquiera de sus etapas, según se requiera.

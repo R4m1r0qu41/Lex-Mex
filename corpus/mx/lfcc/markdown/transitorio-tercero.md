@@ -15,4 +15,4 @@ source_sha256: 0305c9a7ba90c8d0bbe973be2a134a650976ce5d25c304458cb0fd5401b8ddde
 
 # Tercero
 
-Sin perjuicio de las disposiciones que la Secretaría, por conducto de la Comisión Nacional de Mejora Regulatoria, emita para la aplicación de la presente Ley, el titular del Poder Ejecutivo Federal proveerá en la esfera reglamentaria, las disposiciones correspondientes.
+Sin perjuicio de las disposiciones que la [Secretaría](articulo-3.md), por conducto de la [Comisión](articulo-3.md) Nacional de Mejora Regulatoria, emita para la aplicación de la presente [Ley](articulo-3.md), el titular del Poder Ejecutivo Federal proveerá en la esfera reglamentaria, las disposiciones correspondientes.

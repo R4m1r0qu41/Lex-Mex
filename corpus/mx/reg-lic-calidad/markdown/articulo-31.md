@@ -17,4 +17,4 @@ source_sha256: d23aedc9ffdb09b9202311f03023241da20445cb45aea855b37bfd9685768861
 
 # Artículo 31
 
-La Comisión puede establecer lineamientos, reglas, criterios y demás disposiciones necesarias para la consecución de las finalidades de la Ley y este Reglamento; sin perjuicio de las facultades conferidas para tal efecto a la Secretaría y a las Autoridades Normalizadoras.
+La Comisión puede establecer lineamientos, reglas, criterios y demás disposiciones necesarias para la consecución de las finalidades de la [Ley](articulo-2.md) y este Reglamento; sin perjuicio de las facultades conferidas para tal efecto a la Secretaría y a las Autoridades Normalizadoras.

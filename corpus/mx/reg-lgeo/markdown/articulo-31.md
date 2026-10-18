@@ -17,4 +17,4 @@ source_sha256: b19bcf104673af06117a6d4f3c947591f7a65999f19bad3dcfe2599a29bb3ab0
 
 # Artículo 31
 
-Los Pozos Exploratorios Geotérmicos, de producción o de inyección u otros que queden inactivos por cualquier causa, deben cerrarse conforme a las disposiciones aplicables, a las Normas Oficiales Mexicanas y a las especificaciones particulares que se establezcan en los títulos de concesión correspondientes, y dar aviso a la CONAGUA.
+Los Pozos Exploratorios Geotérmicos, de producción o de inyección u otros que queden inactivos por cualquier causa, deben cerrarse conforme a las disposiciones aplicables, a las Normas Oficiales Mexicanas y a las especificaciones particulares que se establezcan en los títulos de concesión correspondientes, y dar aviso a la [CONAGUA](articulo-3.md).

@@ -17,15 +17,15 @@ source_sha256: 0305c9a7ba90c8d0bbe973be2a134a650976ce5d25c304458cb0fd5401b8ddde
 
 # Artículo 11
 
-Sin perjuicio de las facultades otorgadas por otras disposiciones jurídicas, la Secretaría, por conducto de la Comisión, tendrá las funciones siguientes:
+Sin perjuicio de las facultades otorgadas por otras disposiciones jurídicas, la [Secretaría](articulo-3.md), por conducto de la [Comisión](articulo-3.md), tendrá las funciones siguientes:
 
-I. Fomentar la cultura de la legalidad, de la honestidad, del cumplimiento de obligaciones y del comercio formal; II. Promover y celebrar convenios que conforme a la Ley procedan y tengan por objeto brindar beneficios y facilidades administrativas a las personas físicas y morales que realicen actividades económicas y cumplan con los requisitos previos para hacerse acreedoras a las mismas;
+I. Fomentar la cultura de la legalidad, de la honestidad, del cumplimiento de obligaciones y del comercio formal; II. Promover y celebrar convenios que conforme a la [Ley](articulo-3.md) procedan y tengan por objeto brindar beneficios y facilidades administrativas a las personas físicas y morales que realicen actividades económicas y cumplan con los requisitos previos para hacerse acreedoras a las mismas;
 
 III. Generar un entorno de confianza entre las personas físicas y morales que realicen actividades económicas y la Administración Pública Federal, basado en el cumplimiento permanente de las obligaciones regulatorias y fiscales, con el fin de contar con beneficios y facilidades administrativas por parte de las dependencias y entidades de la Administración Pública Federal;
 
 IV. Promover la coordinación de acciones y programas de las dependencias y entidades de la Administración Pública Federal en el ámbito de sus atribuciones para el otorgamiento de beneficios y facilidades administrativas;
 
-V. Operar y administrar el Padrón, en los términos de esta Ley y los convenios que conforme a derecho procedan;
+V. Operar y administrar el [Padrón](articulo-3.md), en los términos de esta Ley y los convenios que conforme a derecho procedan;
 
 VI. Acordar los beneficios y facilidades administrativas que la Administración Pública Federal otorgará a las personas beneficiarias inscritas en el Padrón;
 

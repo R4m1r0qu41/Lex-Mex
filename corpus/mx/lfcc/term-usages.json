@@ -1,1 +1,821 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:1:term-usage:12-15",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:ley",
+    "span": "Ley",
+    "start_char": 12,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:1:term-usage:633-636",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:ley",
+    "span": "Ley",
+    "start_char": 633,
+    "end_char": 636
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:1:term-usage:838-841",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:ley",
+    "span": "Ley",
+    "start_char": 838,
+    "end_char": 841
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:1:term-usage:985-995",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 985,
+    "end_char": 995
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:1:term-usage:1123-1126",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:ley",
+    "span": "Ley",
+    "start_char": 1123,
+    "end_char": 1126
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:1:term-usage:1235-1238",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:ley",
+    "span": "Ley",
+    "start_char": 1235,
+    "end_char": 1238
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:2:term-usage:29-32",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:ley",
+    "span": "Ley",
+    "start_char": 29,
+    "end_char": 32
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:2:term-usage:53-63",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 53,
+    "end_char": 63
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:2:term-usage:123-131",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:comision",
+    "span": "Comisión",
+    "start_char": 123,
+    "end_char": 131
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:3:term-usage:25-28",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:ley",
+    "span": "Ley",
+    "start_char": 25,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:3:term-usage:335-338",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:ley",
+    "span": "Ley",
+    "start_char": 335,
+    "end_char": 338
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:3:term-usage:398-408",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 398,
+    "end_char": 408
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:3:term-usage:469-472",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:ley",
+    "span": "Ley",
+    "start_char": 469,
+    "end_char": 472
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:3:term-usage:682-688",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:padron",
+    "span": "Padrón",
+    "start_char": 682,
+    "end_char": 688
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:3:term-usage:831-834",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:ley",
+    "span": "Ley",
+    "start_char": 831,
+    "end_char": 834
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:4:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:padron",
+    "span": "Padrón",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:4:term-usage:283-286",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:ley",
+    "span": "Ley",
+    "start_char": 283,
+    "end_char": 286
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:4:term-usage:291-297",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:padron",
+    "span": "Padrón",
+    "start_char": 291,
+    "end_char": 297
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:4:term-usage:393-396",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:ley",
+    "span": "Ley",
+    "start_char": 393,
+    "end_char": 396
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:4:term-usage:487-490",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:ley",
+    "span": "Ley",
+    "start_char": 487,
+    "end_char": 490
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:4:term-usage:605-611",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:padron",
+    "span": "Padrón",
+    "start_char": 605,
+    "end_char": 611
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:4:term-usage:653-656",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:ley",
+    "span": "Ley",
+    "start_char": 653,
+    "end_char": 656
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:4:term-usage:720-723",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:ley",
+    "span": "Ley",
+    "start_char": 720,
+    "end_char": 723
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:4:term-usage:788-791",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:ley",
+    "span": "Ley",
+    "start_char": 788,
+    "end_char": 791
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:5:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:padron",
+    "span": "Padrón",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:5:term-usage:80-86",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:padron",
+    "span": "Padrón",
+    "start_char": 80,
+    "end_char": 86
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:5:term-usage:608-614",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:padron",
+    "span": "Padrón",
+    "start_char": 608,
+    "end_char": 614
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:5:term-usage:919-922",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:ley",
+    "span": "Ley",
+    "start_char": 919,
+    "end_char": 922
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:5:term-usage:987-993",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:padron",
+    "span": "Padrón",
+    "start_char": 987,
+    "end_char": 993
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:6:term-usage:15-21",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:padron",
+    "span": "Padrón",
+    "start_char": 15,
+    "end_char": 21
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:6:term-usage:91-101",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 91,
+    "end_char": 101
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:6:term-usage:122-130",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:comision",
+    "span": "Comisión",
+    "start_char": 122,
+    "end_char": 130
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:6:term-usage:447-450",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:ley",
+    "span": "Ley",
+    "start_char": 447,
+    "end_char": 450
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:6:term-usage:485-491",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:padron",
+    "span": "Padrón",
+    "start_char": 485,
+    "end_char": 491
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:6:term-usage:496-506",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 496,
+    "end_char": 506
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:6:term-usage:527-535",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:comision",
+    "span": "Comisión",
+    "start_char": 527,
+    "end_char": 535
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:6:term-usage:711-717",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:padron",
+    "span": "Padrón",
+    "start_char": 711,
+    "end_char": 717
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:7:term-usage:47-53",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:padron",
+    "span": "Padrón",
+    "start_char": 47,
+    "end_char": 53
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:7:term-usage:58-68",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 58,
+    "end_char": 68
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:7:term-usage:89-97",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:comision",
+    "span": "Comisión",
+    "start_char": 89,
+    "end_char": 97
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:7:term-usage:278-281",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:ley",
+    "span": "Ley",
+    "start_char": 278,
+    "end_char": 281
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:7:term-usage:352-362",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 352,
+    "end_char": 362
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:7:term-usage:569-579",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 569,
+    "end_char": 579
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:7:term-usage:600-608",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:comision",
+    "span": "Comisión",
+    "start_char": 600,
+    "end_char": 608
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:7:term-usage:808-814",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:padron",
+    "span": "Padrón",
+    "start_char": 808,
+    "end_char": 814
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:8:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:8:term-usage:34-42",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:comision",
+    "span": "Comisión",
+    "start_char": 34,
+    "end_char": 42
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:8:term-usage:201-207",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:padron",
+    "span": "Padrón",
+    "start_char": 201,
+    "end_char": 207
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:9:term-usage:15-21",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:padron",
+    "span": "Padrón",
+    "start_char": 15,
+    "end_char": 21
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:9:term-usage:97-107",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 97,
+    "end_char": 107
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:9:term-usage:128-136",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:comision",
+    "span": "Comisión",
+    "start_char": 128,
+    "end_char": 136
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:10:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:10:term-usage:34-42",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:comision",
+    "span": "Comisión",
+    "start_char": 34,
+    "end_char": 42
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:10:term-usage:402-408",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:padron",
+    "span": "Padrón",
+    "start_char": 402,
+    "end_char": 408
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:11:term-usage:80-90",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 80,
+    "end_char": 90
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:11:term-usage:111-119",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:comision",
+    "span": "Comisión",
+    "start_char": 111,
+    "end_char": 119
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:11:term-usage:321-324",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:ley",
+    "span": "Ley",
+    "start_char": 321,
+    "end_char": 324
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:11:term-usage:1173-1179",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:padron",
+    "span": "Padrón",
+    "start_char": 1173,
+    "end_char": 1179
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:11:term-usage:1205-1208",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:ley",
+    "span": "Ley",
+    "start_char": 1205,
+    "end_char": 1208
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:11:term-usage:1408-1414",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:padron",
+    "span": "Padrón",
+    "start_char": 1408,
+    "end_char": 1414
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:11:term-usage:1497-1503",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:padron",
+    "span": "Padrón",
+    "start_char": 1497,
+    "end_char": 1503
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:11:term-usage:1788-1791",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:ley",
+    "span": "Ley",
+    "start_char": 1788,
+    "end_char": 1791
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:11:term-usage:1921-1927",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:padron",
+    "span": "Padrón",
+    "start_char": 1921,
+    "end_char": 1927
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:11:term-usage:2021-2031",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2021,
+    "end_char": 2031
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:11:term-usage:2052-2060",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:comision",
+    "span": "Comisión",
+    "start_char": 2052,
+    "end_char": 2060
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:11:term-usage:2138-2141",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:ley",
+    "span": "Ley",
+    "start_char": 2138,
+    "end_char": 2141
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:11:term-usage:2518-2521",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:ley",
+    "span": "Ley",
+    "start_char": 2518,
+    "end_char": 2521
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:11:term-usage:2570-2573",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:ley",
+    "span": "Ley",
+    "start_char": 2570,
+    "end_char": 2573
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:12:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:12:term-usage:34-42",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:comision",
+    "span": "Comisión",
+    "start_char": 34,
+    "end_char": 42
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:12:term-usage:329-332",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:ley",
+    "span": "Ley",
+    "start_char": 329,
+    "end_char": 332
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:13:term-usage:40-43",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:ley",
+    "span": "Ley",
+    "start_char": 40,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:13:term-usage:48-58",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 48,
+    "end_char": 58
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:13:term-usage:79-87",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:comision",
+    "span": "Comisión",
+    "start_char": 79,
+    "end_char": 87
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:14:term-usage:90-93",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:ley",
+    "span": "Ley",
+    "start_char": 90,
+    "end_char": 93
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:15:term-usage:30-36",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:padron",
+    "span": "Padrón",
+    "start_char": 30,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:15:term-usage:303-306",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:ley",
+    "span": "Ley",
+    "start_char": 303,
+    "end_char": 306
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:15:term-usage:554-564",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 554,
+    "end_char": 564
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:15:term-usage:585-593",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:comision",
+    "span": "Comisión",
+    "start_char": 585,
+    "end_char": 593
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:15:term-usage:648-654",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:padron",
+    "span": "Padrón",
+    "start_char": 648,
+    "end_char": 654
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:15:term-usage:1071-1077",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:padron",
+    "span": "Padrón",
+    "start_char": 1071,
+    "end_char": 1077
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:16:term-usage:150-156",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:padron",
+    "span": "Padrón",
+    "start_char": 150,
+    "end_char": 156
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:16:term-usage:274-277",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:ley",
+    "span": "Ley",
+    "start_char": 274,
+    "end_char": 277
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:16:term-usage:459-462",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:ley",
+    "span": "Ley",
+    "start_char": 459,
+    "end_char": 462
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:16:term-usage:506-512",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:padron",
+    "span": "Padrón",
+    "start_char": 506,
+    "end_char": 512
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:16:term-usage:855-861",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:padron",
+    "span": "Padrón",
+    "start_char": 855,
+    "end_char": 861
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:17:term-usage:119-122",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:ley",
+    "span": "Ley",
+    "start_char": 119,
+    "end_char": 122
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:transitory:primero:term-usage:12-15",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:transitory:primero",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:ley",
+    "span": "Ley",
+    "start_char": 12,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:transitory:tercero:term-usage:42-52",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 42,
+    "end_char": 52
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:transitory:tercero:term-usage:73-81",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:comision",
+    "span": "Comisión",
+    "start_char": 73,
+    "end_char": 81
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:transitory:tercero:term-usage:154-157",
+    "provision_id": "urn:lex-mx:federal:statute:lfcc:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lfcc:term:ley",
+    "span": "Ley",
+    "start_char": 154,
+    "end_char": 157
+  }
+]

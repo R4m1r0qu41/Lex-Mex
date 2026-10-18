@@ -17,7 +17,7 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 42
 
-Los generadores y demás poseedores de residuos peligrosos, mineros y metalúrgicos, pueden contratar los servicios de manejo de estos residuos con empresas o gestores autorizados para tales efectos por la Secretaría, o bien transferirlos a industrias para su utilización como insumos dentro de sus procesos, cuando previamente haya sido autorizado por esta dependencia, mediante un plan de manejo para dichos insumos, basado en la minimización de sus riesgos. No obstante, compartirán de manera solidaria la responsabilidad. Párrafo reformado DOF 08-05-2023
+Los generadores y demás poseedores de residuos peligrosos, mineros y metalúrgicos, pueden contratar los servicios de manejo de estos residuos con empresas o gestores autorizados para tales efectos por la [Secretaría](articulo-5.md), o bien transferirlos a industrias para su utilización como insumos dentro de sus procesos, cuando previamente haya sido autorizado por esta dependencia, mediante un plan de manejo para dichos insumos, basado en la minimización de sus riesgos. No obstante, compartirán de manera solidaria la responsabilidad. Párrafo reformado DOF 08-05-2023
 
 La responsabilidad del manejo y disposición final de los residuos peligrosos corresponde a quien los genera. En el caso de que se contraten los servicios de manejo y disposición final de residuos peligrosos por empresas autorizadas por la Secretaría y los residuos sean entregados a dichas empresas, la responsabilidad por las operaciones será de éstas, independientemente de la responsabilidad que tiene el generador.
 

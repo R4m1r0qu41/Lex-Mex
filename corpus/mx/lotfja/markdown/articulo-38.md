@@ -19,7 +19,7 @@ source_sha256: b32c33fa4ed071dc8bea1ad69ce8510cdb05016967e9e4fcb60f10c6f2216628
 
 Las Salas Especializadas en materia de Responsabilidades Administrativas conocerán de:
 
-A) Los procedimientos y resoluciones a que se refiere el artículo [4](articulo-4.md) de esta Ley, con las siguientes facultades:
+A) Los procedimientos y resoluciones a que se refiere el artículo [4](articulo-4.md) de esta [Ley](articulo-2.md), con las siguientes facultades:
 
 I. Resolverán respecto de las faltas administrativas graves, investigadas y substanciadas por la Auditoría Superior de la Federación y los órganos internos de control respectivos, según sea el caso, ya sea que el procedimiento se haya seguido por denuncia, de oficio o derivado de las auditorías practicadas por las autoridades competentes; II. Impondrán sanciones que correspondan a los servidores públicos y particulares, personas físicas o morales, que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades. Así como fincar a los responsables el pago de las cantidades por concepto de responsabilidades resarcitorias, las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Federal o al Patrimonio de los entes públicos federales, locales o municipales, y
 

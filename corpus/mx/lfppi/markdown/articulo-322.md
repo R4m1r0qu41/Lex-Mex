@@ -17,4 +17,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 322
 
-Al trámite de inscripción del reconocimiento previsto en el presente Capítulo resultan aplicables, en lo que no se oponga, las disposiciones establecidas en los artículos [284](articulo-284.md), [285](articulo-285.md) y [286](articulo-286.md) de esta Ley.
+Al trámite de inscripción del reconocimiento previsto en el presente Capítulo resultan aplicables, en lo que no se oponga, las disposiciones establecidas en los artículos [284](articulo-284.md), [285](articulo-285.md) y [286](articulo-286.md) de esta [Ley](articulo-4.md).

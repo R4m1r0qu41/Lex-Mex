@@ -17,4 +17,4 @@ source_sha256: d23aedc9ffdb09b9202311f03023241da20445cb45aea855b37bfd9685768861
 
 # Artículo 234
 
-Las Autoridades Normalizadoras y las demás autoridades competentes, de manera enunciativa, pueden realizar los actos de Verificación que se consideren necesarios como: I. Visitas; II. Requerimientos de información y documentación; III. Pruebas de Laboratorio; IV. Comprobación por muestreo, y V. Constatación ocular.
+Las Autoridades Normalizadoras y las demás autoridades competentes, de manera enunciativa, pueden realizar los actos de Verificación que se consideren necesarios como: I. Visitas; II. Requerimientos de información y documentación; III. Pruebas de [Laboratorio](articulo-2.md); IV. Comprobación por muestreo, y V. Constatación ocular.

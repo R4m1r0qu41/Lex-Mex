@@ -17,4 +17,4 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 71
 
-Una vez logrados los objetivos plasmados en el programa de restauración, a la superficie restaurada se le podrá dar el tratamiento de subzona de recuperación durante un período no menor a cinco años; transcurrido dicho período la Secretaría determinará las subzonas definitivas que le corresponderán, de conformidad con lo establecido en el programa de manejo del área natural protegida respectiva.
+Una vez logrados los objetivos plasmados en el programa de restauración, a la superficie restaurada se le podrá dar el tratamiento de subzona de recuperación durante un período no menor a cinco años; transcurrido dicho período la [Secretaría](articulo-3o.md) determinará las subzonas definitivas que le corresponderán, de conformidad con lo establecido en el programa de manejo del área natural protegida respectiva.

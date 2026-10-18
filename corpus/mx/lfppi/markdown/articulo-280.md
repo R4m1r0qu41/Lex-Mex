@@ -19,7 +19,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 La persona solicitante podrá transformar la solicitud de denominación de origen en una de indicación geográfica y viceversa, cuando del contenido de la solicitud se infiera que ésta no concuerda con lo solicitado. Párrafo reformado DOF 03-04-2026
 
-La persona solicitante solo podrá efectuar la transformación de la solicitud dentro del plazo improrrogable de dos meses siguientes a la fecha de su presentación o de los dos meses siguientes a la fecha en que el Instituto le requiera para que la transforme. Párrafo reformado DOF 03-04-2026
+La persona solicitante solo podrá efectuar la transformación de la solicitud dentro del plazo improrrogable de dos meses siguientes a la fecha de su presentación o de los dos meses siguientes a la fecha en que el [Instituto](articulo-4.md) le requiera para que la transforme. Párrafo reformado DOF 03-04-2026
 
 En este supuesto, se considerará como fecha de presentación aquélla en la que se solicite la transformación de la solicitud.
 

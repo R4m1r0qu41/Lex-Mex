@@ -17,7 +17,7 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 97
 
-En los Estados Unidos Mexicanos el Sistema General de Unidades de Medida, es el único oficial y de uso obligatorio. Las unidades del Sistema General de Unidades de Medida, así como su simbología y sus reglas de escritura se consignarán en las Normas Oficiales Mexicanas que se expidan para tal efecto y en los Estándares ahí referidos, mismas que serán elaboradas, expedidas y actualizadas por la Secretaría en coordinación con el Centro Nacional de Metrología.
+En los Estados Unidos Mexicanos el [Sistema General de Unidades de Medida](articulo-4.md), es el único oficial y de uso obligatorio. Las unidades del Sistema General de Unidades de Medida, así como su simbología y sus reglas de escritura se consignarán en las [Normas Oficiales Mexicanas](articulo-4.md) que se expidan para tal efecto y en los [Estándares](articulo-4.md) ahí referidos, mismas que serán elaboradas, expedidas y actualizadas por la [Secretaría](articulo-4.md) en coordinación con el Centro Nacional de Metrología.
 
 El uso de unidades diferentes a las que forman parte del Sistema General de Unidades de Medidas no está permitido para las transacciones comerciales, prestación de servicios, documentación y anuncios de productos y servicios, publicaciones o capacitación, con las siguientes excepciones:
 

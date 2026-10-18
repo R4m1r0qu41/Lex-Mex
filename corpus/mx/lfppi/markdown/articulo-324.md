@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 324
 
-En caso de que la resolución sea favorable, el Instituto procederá a la inscripción del reconocimiento de la denominación de origen o indicación geográfica protegida en el extranjero y ordenará la publicación en el Diario Oficial de lo siguiente:
+En caso de que la resolución sea favorable, el [Instituto](articulo-4.md) procederá a la inscripción del reconocimiento de la denominación de origen o indicación geográfica protegida en el extranjero y ordenará la publicación en el [Diario Oficial](articulo-4.md) de lo siguiente:
 
 I.- El nombre, nacionalidad y domicilio de la persona titular del registro; Fracción reformada DOF 03-04-2026
 

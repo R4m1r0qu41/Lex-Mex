@@ -17,4 +17,4 @@ source_sha256: 7f01ee1b1deb901a23976507adccbddefbea50b0fc9a4ddceaf1225d711d50d0
 
 # Artículo 141
 
-Las Instituciones de Seguridad Pública contarán con un órgano colegiado de honor y justicia, encargado de imponer las sanciones que correspondan a las personas integrantes de las Instituciones de Seguridad Pública, para lo que deberán contar con las facultades que se estimen necesarias en el uso de sus atribuciones.
+Las [Instituciones de Seguridad Pública](articulo-4.md) contarán con un órgano colegiado de honor y justicia, encargado de imponer las sanciones que correspondan a las personas integrantes de las Instituciones de Seguridad Pública, para lo que deberán contar con las facultades que se estimen necesarias en el uso de sus atribuciones.

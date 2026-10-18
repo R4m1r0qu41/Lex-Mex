@@ -17,4 +17,4 @@ source_sha256: 7b3cf7a0ff59f76503a97a535457c4a7dd3b1305e7a36f4fca82bd661eab1168
 
 # Artículo 53
 
-Los servidores públicos que laboren en las instancias que integren el Consejo o en el Centro, así como cualquier otro servidor público o cualquier persona que se le conceda acceso a la información relacionada con la Seguridad Nacional, deberán otorgar por escrito una promesa de confidencialidad que observarán en todo tiempo, aún después de que hayan cesado en el cargo en razón del cual se les otorgó el acceso.
+Los servidores públicos que laboren en las instancias que integren el [Consejo](articulo-6.md) o en el [Centro](articulo-6.md), así como cualquier otro servidor público o cualquier persona que se le conceda acceso a la información relacionada con la Seguridad Nacional, deberán otorgar por escrito una promesa de confidencialidad que observarán en todo tiempo, aún después de que hayan cesado en el cargo en razón del cual se les otorgó el acceso.

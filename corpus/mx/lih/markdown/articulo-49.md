@@ -17,13 +17,13 @@ source_sha256: 8262a75eac7bfb608d4f48657ffb2714fe115d0b9694c42ac81624fd275bf5f6
 
 # Artículo 49
 
-El Asignatario debe presentar ante la Secretaría un reporte anual de las inversiones, costos y gastos que, de conformidad con lo establecido en este Título, se hayan realizado durante el ejercicio fiscal de que se trate. Párrafo reformado DOF 18-03-2025
+El Asignatario debe presentar ante la [Secretaría](articulo-3.md) un reporte anual de las inversiones, costos y gastos que, de conformidad con lo establecido en este Título, se hayan realizado durante el ejercicio fiscal de que se trate. Párrafo reformado DOF 18-03-2025
 
 En dicho reporte el Asignatario debe incluir las inversiones, costos y gastos que se hayan realizado en el ejercicio de que se trate por cada campo de Extracción de Hidrocarburos, así como proyecciones de éstas para los dos ejercicios siguientes al que se reporte y, en caso de que las inversiones, gastos y costos que se hayan incurrido en el ejercicio fiscal de que se trate hayan presentado más de un 10% de diferencias respecto de los montos proyectados, deberá incluir la justificación correspondiente. Párrafo reformado DOF 18-03-2025
 
 Junto con el reporte a que se refiere el párrafo anterior, el Asignatario deberá presentar ante la Secretaría la siguiente información:
 
-I. Una base de datos que contenga los proyectos de Extracción de Hidrocarburos en la que se incluyan, por cada campo de Extracción, las Reservas y la producción de Petróleo, Gas Natural y Condensados, además de los conceptos señalados en el segundo párrafo de este artículo;
+I. Una base de datos que contenga los proyectos de Extracción de Hidrocarburos en la que se incluyan, por cada campo de Extracción, las Reservas y la producción de Petróleo, Gas Natural y [Condensados](articulo-3.md), además de los conceptos señalados en el segundo párrafo de este artículo;
 
 II. La metodología utilizada para elaborar las proyecciones de Extracción de Hidrocarburos, así como de las inversiones, gastos y costos a que se refiere el segundo párrafo de este artículo, y
 

@@ -17,4 +17,4 @@ source_sha256: 4bcc982b308b0813469b30db61b53d5a2c41e5a7240b3b1cac2f1aeeb2c00a2e
 
 # Artículo 124
 
-El seguimiento del ajuste de las Tarifas Eléctricas lo realiza la CNE y es supervisado por la Secretaría, para asegurar la congruencia de las metodologías que se expidan de conformidad con lo previsto en el presente Capítulo.
+El seguimiento del ajuste de las [Tarifas Eléctricas](articulo-2.md) lo realiza la CNE y es supervisado por la Secretaría, para asegurar la congruencia de las metodologías que se expidan de conformidad con lo previsto en el presente Capítulo.

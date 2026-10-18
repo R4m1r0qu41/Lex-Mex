@@ -17,7 +17,7 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 108
 
-Las Entidades Federativas, se coordinarán con la Secretaría, con el objeto de:
+Las Entidades Federativas, se coordinarán con la [Secretaría](articulo-4o.md), con el objeto de:
 
 I. Organizar, apoyar y supervisar el funcionamiento de los Organismos Auxiliares;
 

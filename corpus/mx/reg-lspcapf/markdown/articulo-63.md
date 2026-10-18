@@ -21,7 +21,7 @@ I. La valoración del cumplimiento individual de las funciones y metas que corre
 
 Los Comités Técnicos de Profesionalización deben emitir las reglas generales de operación para que cada área responsable recabe la evidencia y los datos necesarios para realizar la valoración a que se refiere el párrafo anterior; II. La valoración del cumplimiento cuantitativo de los objetivos y metas establecidos en los distintos instrumentos de gestión gubernamental, por cada unidad administrativa de la dependencia, así como la contribución de cada una de las personas servidoras públicas adscritas a éstas, en función de su jerarquía y su responsabilidad.
 
-Los Comités Técnicos de Profesionalización deben emitir las reglas de operación específicas para que la Unidad de Administración y Finanzas o su equivalente, recabe la evidencia y los datos necesarios para efectuar la valoración prevista en el párrafo anterior, y
+Los Comités Técnicos de Profesionalización deben emitir las reglas de operación específicas para que la [Unidad](articulo-2.md) de Administración y Finanzas o su equivalente, recabe la evidencia y los datos necesarios para efectuar la valoración prevista en el párrafo anterior, y
 
 III. La valoración cualitativa de los comportamientos esperables por cada persona servidora pública al cumplimiento de los objetivos y metas de la dependencia, sus capacidades profesionales y la aplicación de los valores del Sistema y del servicio público determinados por medio de la opinión razonada de: sus superiores jerárquicos inmediatos, sus subordinados inmediatos y demás personas servidoras públicas de la unidad administrativa a la que estén adscritas.
 

@@ -17,4 +17,4 @@ source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 
 # Artículo 62
 
-Dentro del Sistema Nacional de Información Ambiental y de Recursos Naturales, se desarrollará un Subsistema de Información sobre el Ordenamiento Ecológico que estará a disposición de los interesados en los términos prescritos por la Ley, y tendrá por objeto registrar, organizar, actualizar y difundir la información disponible sobre las materias que regula este reglamento.
+Dentro del Sistema Nacional de Información Ambiental y de Recursos Naturales, se desarrollará un [Subsistema](articulo-3o.md) de Información sobre el Ordenamiento Ecológico que estará a disposición de los interesados en los términos prescritos por la [Ley](articulo-3o.md), y tendrá por objeto registrar, organizar, actualizar y difundir la información disponible sobre las materias que regula este reglamento.

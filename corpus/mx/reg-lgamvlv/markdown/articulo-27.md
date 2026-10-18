@@ -17,7 +17,7 @@ source_sha256: 71ee875c26fc6a1024ea9481ca0690721959514689d860112c3093f0176dfcfb
 
 # Artículo 27
 
-La Secretaría Ejecutiva, con el apoyo de los Mecanismos para el adelanto de las mujeres, sistematizará, en términos del presente artículo, la información que se genere en la implementación del Modelo de Erradicación e informará al Sistema para impulsar la instrumentación de acciones en la materia.
+La [Secretaría Ejecutiva](articulo-2.md), con el apoyo de los [Mecanismos para el adelanto de las mujeres](articulo-2.md), sistematizará, en términos del presente artículo, la información que se genere en la implementación del [Modelo](articulo-2.md) de Erradicación e informará al Sistema para impulsar la instrumentación de acciones en la materia.
 
 La información que se procesará será la siguiente:
 

@@ -17,7 +17,7 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 161
 
-La Secretaría y las demás autoridades competentes, previo cumplimiento del derecho de audiencia de acuerdo a lo establecido en la Ley Federal de Procedimiento Administrativo podrán revocar o cancelar total o parcialmente la autorización, la aprobación, la acreditación, el registro o la designación de las Entidades de Acreditación, Organismos de Evaluación de la Conformidad, sujetos facultados para estandarizar, Organismos Nacionales de Estandarización e Institutos Designados de Metrología, cuando:
+La [Secretaría](articulo-4.md) y las demás autoridades competentes, previo cumplimiento del derecho de audiencia de acuerdo a lo establecido en la Ley Federal de Procedimiento Administrativo podrán revocar o cancelar total o parcialmente la autorización, la aprobación, la acreditación, el registro o la designación de las [Entidades de Acreditación](articulo-4.md), [Organismos de Evaluación de la Conformidad](articulo-4.md), sujetos facultados para estandarizar, Organismos Nacionales de Estandarización e Institutos Designados de Metrología, cuando:
 
 I. Emitan o utilicen acreditaciones, certificados, dictámenes, actas o algún otro documento que contenga información falsa en las actividades para las cuales fueron autorizadas, aprobadas, registradas o designadas;
 

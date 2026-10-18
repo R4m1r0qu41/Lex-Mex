@@ -17,7 +17,7 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 42
 
-La Secretaría podrá otorgar concesiones o permisos para la pesca comercial a personas físicas o morales de nacionalidad mexicana, previo cumplimiento de los requisitos que se establezcan en esta Ley y en las disposiciones reglamentarias.
+La [Secretaría](articulo-4o.md) podrá otorgar concesiones o permisos para la pesca comercial a personas físicas o morales de nacionalidad mexicana, previo cumplimiento de los requisitos que se establezcan en esta Ley y en las disposiciones reglamentarias.
 
 La Secretaría podrá otorgar concesiones o permisos a personas físicas o morales para la acuacultura comercial, previo cumplimiento de los requisitos que se establezcan en esta Ley y en las disposiciones reglamentarias.
 

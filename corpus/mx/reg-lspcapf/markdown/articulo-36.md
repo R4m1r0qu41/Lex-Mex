@@ -15,7 +15,7 @@ source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 
 # Artículo 36
 
-Las DGRH elaborarán el listado de los aspirantes, en orden de prelación, en función de los resultados obtenidos en las etapas a que se refieren las fracciones I, II y III del artículo [34](articulo-34.md) de este Reglamento. La prelación de los aspirantes será determinada en función de las reglas de valoración y el sistema de puntuación general establecido por el Comité Técnico de Profesionalización.
+Las [DGRH](articulo-2.md) elaborarán el listado de los aspirantes, en orden de prelación, en función de los resultados obtenidos en las etapas a que se refieren las fracciones I, II y III del artículo [34](articulo-34.md) de este Reglamento. La prelación de los aspirantes será determinada en función de las reglas de valoración y el sistema de puntuación general establecido por el Comité Técnico de Profesionalización.
 
 La DGRH, previamente a la celebración de las entrevistas, llevará a cabo la revisión y evaluación de los documentos que presenten los finalistas para verificar que estén fehacientemente acreditados los requisitos legales, así como los establecidos en la convocatoria respectiva.
 

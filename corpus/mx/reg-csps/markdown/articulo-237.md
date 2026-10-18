@@ -17,4 +17,4 @@ source_sha256: 70464807d63da08244e495f2ff0ac30b12b30119926b84cedc7930397fcb80ef
 
 # Artículo 237
 
-En caso de alerta sanitaria nacional o internacional, la Secretaría tomará las medidas necesarias para impedir la importación de productos, materias primas y otros ingredientes que intervienen en su elaboración y que puedan causar daño a la salud. Dichas medidas se publicarán en el Diario Oficial de la Federación.
+En caso de alerta sanitaria nacional o internacional, la [Secretaría](articulo-2o.md) tomará las medidas necesarias para impedir la importación de productos, materias primas y otros ingredientes que intervienen en su elaboración y que puedan causar daño a la salud. Dichas medidas se publicarán en el Diario Oficial de la Federación.

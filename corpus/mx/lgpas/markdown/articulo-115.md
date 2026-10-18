@@ -17,7 +17,7 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 115
 
-Para fines de exportación la Secretaría, a petición y con cargo a los interesados, podrá llevar el control sanitario en las unidades de producción en las que se críen, alojen o manejen especies acuícolas vivas, así como en los establecimientos en los que se almacenen, transformen y/o procesen derivados, alimentos y productos para uso o consumo de éstos, a fin de certificar el cumplimiento de los requisitos sanitarios establecidos por la autoridad competente del país al que se destinarán las mercancías.
+Para fines de exportación la [Secretaría](articulo-4o.md), a petición y con cargo a los interesados, podrá llevar el control sanitario en las unidades de producción en las que se críen, alojen o manejen especies acuícolas vivas, así como en los establecimientos en los que se almacenen, transformen y/o procesen derivados, alimentos y productos para uso o consumo de éstos, a fin de certificar el cumplimiento de los requisitos sanitarios establecidos por la autoridad competente del país al que se destinarán las mercancías.
 
 En el caso de la exportación de productos para uso o consumo acuícola, la Secretaría, a solicitud de los interesados, expedirá la certificación de libre venta, de origen y de regulación vigente de empresas y productos regulados.
 

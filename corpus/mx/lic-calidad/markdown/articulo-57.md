@@ -17,4 +17,4 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 57
 
-Los empleados y directivos de los Organismos de Evaluación de la Conformidad estarán impedidos para conocer de las solicitudes de Evaluación de la Conformidad promovidas por personas con las cuales tengan nexos familiares por afinidad o consanguinidad hasta el cuarto grado en línea recta o colateral, intereses económicos o conflictos de interés de otra índole.
+Los empleados y directivos de los [Organismos de Evaluación de la Conformidad](articulo-4.md) estarán impedidos para conocer de las solicitudes de [Evaluación de la Conformidad](articulo-4.md) promovidas por personas con las cuales tengan nexos familiares por afinidad o consanguinidad hasta el cuarto grado en línea recta o colateral, intereses económicos o conflictos de interés de otra índole.

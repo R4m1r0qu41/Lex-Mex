@@ -17,4 +17,4 @@ source_sha256: 67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35
 
 # Artículo 64
 
-En caso de reincidencia, se puede imponer una multa de hasta tres veces, la anteriormente impuesta. Se considera persona reincidente al que habiendo incurrido en una infracción que haya sido sancionada en términos de la presente Ley, cometa otra del mismo tipo o naturaleza.
+En caso de reincidencia, se puede imponer una multa de hasta tres veces, la anteriormente impuesta. Se considera persona reincidente al que habiendo incurrido en una infracción que haya sido sancionada en términos de la presente [Ley](articulo-2.md), cometa otra del mismo tipo o naturaleza.

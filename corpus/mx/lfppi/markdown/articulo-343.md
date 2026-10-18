@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 343
 
-En el incidente al que se refiere el artículo [397](articulo-397.md) de esta Ley, considerando los elementos aportados por las partes, el Instituto podrá condenar a la persona infractora al pago de los daños y perjuicios causados a la persona titular afectada. Para tal efecto, la resolución deberá señalar expresamente: Párrafo reformado DOF 03-04-2026
+En el incidente al que se refiere el artículo [397](articulo-397.md) de esta [Ley](articulo-4.md), considerando los elementos aportados por las partes, el [Instituto](articulo-4.md) podrá condenar a la persona infractora al pago de los daños y perjuicios causados a la persona titular afectada. Para tal efecto, la resolución deberá señalar expresamente: Párrafo reformado DOF 03-04-2026
 
 I.- La existencia de la relación de causalidad entre la conducta infractora y la lesión producida a la persona titular afectada, y Fracción reformada DOF 03-04-2026
 

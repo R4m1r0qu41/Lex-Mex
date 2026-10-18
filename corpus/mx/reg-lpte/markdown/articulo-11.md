@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 11
 
-El Consejo se integra en términos de lo establecido en el artículo [17](../../lpte/markdown/articulo-17.md) de la Ley, sus Lineamientos de Operación y es presidido por la persona titular de la Secretaría. La designación y participación de las personas integrantes e invitadas del Consejo son a título honorífico, por lo que no deben percibir remuneración alguna por el desempeño de su encargo.
+El [Consejo](articulo-5.md) se integra en términos de lo establecido en el artículo [17](../../lpte/markdown/articulo-17.md) de la [Ley](articulo-5.md), sus [Lineamientos de Operación](articulo-5.md) y es presidido por la persona titular de la [Secretaría](articulo-5.md). La designación y participación de las personas integrantes e invitadas del Consejo son a título honorífico, por lo que no deben percibir remuneración alguna por el desempeño de su encargo.

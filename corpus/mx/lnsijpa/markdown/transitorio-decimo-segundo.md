@@ -15,4 +15,4 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Décimo Segundo
 
-Legislación complementaria En un plazo que no exceda de 200 días naturales después de publicado el presente Decreto, la Federación y las entidades federativas deberán publicar las reformas a sus leyes y demás normatividad complementaria que resulten necesarias para la implementación de esta Ley.
+Legislación complementaria En un plazo que no exceda de 200 días naturales después de publicado el presente Decreto, la Federación y las entidades federativas deberán publicar las reformas a sus leyes y demás normatividad complementaria que resulten necesarias para la implementación de esta [Ley](articulo-3.md).

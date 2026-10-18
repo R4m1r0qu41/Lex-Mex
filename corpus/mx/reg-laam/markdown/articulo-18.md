@@ -17,11 +17,11 @@ source_sha256: 8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca
 
 # Artículo 18
 
-La Comisión Coordinadora se integrará por: Párrafo reformado DOF 02-04-2026
+La [Comisión Coordinadora](articulo-5.md) se integrará por: Párrafo reformado DOF 02-04-2026
 
-I. Presidenta o Presidente: La persona titular de la Dirección General de Recursos Humanos de la Secretaría; Fracción reformada DOF 11-03-2016, 02-04-2026
+I. [Presidenta o Presidente](articulo-5.md): La persona titular de la [Dirección General](articulo-5.md) de Recursos Humanos de la [Secretaría](articulo-5.md); Fracción reformada DOF 11-03-2016, 02-04-2026
 
-II. Vocales: Las personas necesarias, pertenecientes a las Direcciones Generales y a la Jefatura de Operaciones; Fracción reformada DOF 02-04-2026
+II. Vocales: Las personas necesarias, pertenecientes a las Direcciones Generales y a la [Jefatura de Operaciones](articulo-5.md); Fracción reformada DOF 02-04-2026
 
 III. Secretaria o Secretario Técnico: La persona que designe la Presidenta o Presidente, y Fracción reformada DOF 02-04-2026
 

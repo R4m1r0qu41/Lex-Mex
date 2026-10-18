@@ -19,7 +19,7 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 Las penas previstas para el delito de tortura se aumentarán hasta en una mitad cuando:
 
-I. La Víctima sea niña, niño o adolescente;
+I. La [Víctima](articulo-5.md) sea niña, niño o adolescente;
 
 II. La Víctima sea una mujer gestante;
 

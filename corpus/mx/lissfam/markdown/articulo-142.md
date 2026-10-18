@@ -19,7 +19,7 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 La Atención Médica Quirúrgica es el sistema por el cual se trata de conservar y preservar la salud de las personas, entendiéndose por este concepto no sólo el bienestar físico y mental, sino también la ausencia de enfermedad. Párrafo reformado DOF 08-05-2006, 20-11-2008
 
-La atención médico-quirúrgica a los militares con haber de retiro y a los familiares de los militares que perciban haberes y haber de retiro, se prestará por el Instituto en sus propias instalaciones o como servicio subrogado, con base en la aportación del Gobierno Federal especificada en el artículo [221](articulo-221.md) de esta Ley.
+La atención médico-quirúrgica a los militares con haber de retiro y a los familiares de los militares que perciban haberes y haber de retiro, se prestará por el [Instituto](articulo-4o.md) en sus propias instalaciones o como servicio subrogado, con base en la aportación del Gobierno Federal especificada en el artículo [221](articulo-221.md) de esta [Ley](articulo-4o.md).
 
 También tendrán derecho al servicio médico integral en los términos señalados en el párrafo que antecede, los derechohabientes del militar sentenciado a cumplir una pena privativa de libertad, que no haya sido destituido de su empleo.
 
@@ -41,4 +41,4 @@ IV. Los hijos incapacitados o imposibilitados para trabajar en forma total y per
 
 V. El padre y la madre, y Fracción reformada DOF 20-11-2008
 
-VI. Al fallecimiento del militar retirado o en activo, sus familiares tendrán derecho a la prestación del servicio médico gratuito, siempre que la Junta Directiva les reconozca el carácter de pensionistas. Fracción adicionada DOF 20-11-2008
+VI. Al fallecimiento del militar retirado o en activo, sus familiares tendrán derecho a la prestación del servicio médico gratuito, siempre que la [Junta](articulo-4o.md) Directiva les reconozca el carácter de pensionistas. Fracción adicionada DOF 20-11-2008

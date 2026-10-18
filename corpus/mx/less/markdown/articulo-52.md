@@ -17,4 +17,4 @@ source_sha256: 74f2c47c7a9282194b2972ec1366352d94f03042c6d0c7f10efde018cb9e3bfb
 
 # Artículo 52
 
-La evaluación periódica del cumplimiento de las políticas públicas de fomento y apoyo a los Organismos del Sector estará a cargo del Consejo Nacional de Evaluación de la Política de Desarrollo Social, conforme la Ley General de Desarrollo Social.
+La evaluación periódica del cumplimiento de las políticas públicas de fomento y apoyo a los [Organismos del Sector](articulo-5o.md) estará a cargo del [Consejo](articulo-5o.md) Nacional de Evaluación de la Política de Desarrollo Social, conforme la Ley General de Desarrollo Social.

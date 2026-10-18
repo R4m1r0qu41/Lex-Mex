@@ -17,7 +17,7 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 105
 
-Los informes sobre el resultado de la inspección a que alude el artículo 53, fracción V de la Ley deberán contener:
+Los informes sobre el resultado de la inspección a que alude el artículo 53, fracción V de la [Ley](articulo-1o.md) deberán contener:
 
 I. Datos del oficio que contenga la designación de los inspectores, la orden de visita y el objeto de la misma;
 

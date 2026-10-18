@@ -17,7 +17,7 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 50 Bis
 
-Cada Institución Financiera deberá contar con una Unidad Especializada que tendrá por objeto atender consultas y reclamaciones de los Usuarios. Dicha Unidad se sujetará a lo siguiente: I. El Titular de la Unidad deberá tener facultades para representar y obligar a la Institución Financiera al cumplimiento de los acuerdos derivados de la atención que se dé a la reclamación;
+Cada [Institución Financiera](articulo-2o.md) deberá contar con una Unidad Especializada que tendrá por objeto atender consultas y reclamaciones de los [Usuarios](articulo-2o.md). Dicha Unidad se sujetará a lo siguiente: I. El Titular de la Unidad deberá tener facultades para representar y obligar a la Institución Financiera al cumplimiento de los acuerdos derivados de la atención que se dé a la reclamación;
 
 II. Contará con encargados regionales en cada entidad federativa en que la Institución Financiera tenga sucursales u oficinas de atención al público; Fracción reformada DOF 10-01-2014
 
@@ -25,7 +25,7 @@ III. Los gastos derivados de su funcionamiento, operación y organización corre
 
 IV. Deberá recibir la consulta, reclamación o aclaración del Usuario por cualquier medio que facilite su recepción, incluida la recepción en las sucursales u oficinas de atención al público y responder por escrito dentro de un plazo que no exceda de treinta días hábiles, contado a partir de la fecha de su recepción, y Fracción reformada DOF 10-01-2014
 
-V. El titular de la Unidad Especializada deberá presentar dentro de los diez días hábiles siguientes al cierre de cada trimestre, un informe a la Comisión Nacional de todas las consultas, reclamaciones y aclaraciones recibidas y atendidas por la Institución Financiera en los términos que la Comisión Nacional establezca a través de disposiciones de carácter general que para tal efecto emita. Fracción reformada DOF 10-01-2014
+V. El titular de la Unidad Especializada deberá presentar dentro de los diez días hábiles siguientes al cierre de cada trimestre, un informe a la [Comisión Nacional](articulo-2o.md) de todas las consultas, reclamaciones y aclaraciones recibidas y atendidas por la Institución Financiera en los términos que la Comisión Nacional establezca a través de disposiciones de carácter general que para tal efecto emita. Fracción reformada DOF 10-01-2014
 
 La presentación de reclamaciones ante la Unidad Especializada suspenderá la prescripción de las acciones a que pudieren dar lugar.
 

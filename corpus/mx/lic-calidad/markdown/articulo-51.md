@@ -17,4 +17,4 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 51
 
-Los empleados y directivos de las Entidades de Acreditación estarán impedidos para conocer de las solicitudes de acreditación promovidas por personas con las cuales tengan nexos familiares por afinidad o consanguinidad hasta el cuarto grado en línea recta o colateral, intereses económicos o conflictos de interés de otra índole o bien para cualquiera de las especificaciones previstas en el artículo [50](articulo-50.md), fracción XIX anterior.
+Los empleados y directivos de las [Entidades de Acreditación](articulo-4.md) estarán impedidos para conocer de las solicitudes de acreditación promovidas por personas con las cuales tengan nexos familiares por afinidad o consanguinidad hasta el cuarto grado en línea recta o colateral, intereses económicos o conflictos de interés de otra índole o bien para cualquiera de las especificaciones previstas en el artículo [50](articulo-50.md), fracción XIX anterior.

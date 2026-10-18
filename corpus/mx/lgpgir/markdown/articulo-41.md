@@ -17,6 +17,6 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 41
 
-Los generadores de residuos peligrosos, mineros y metalúrgicos, así como los gestores de este tipo de residuos, deben manejarlos de manera segura y ambientalmente adecuada conforme a los términos señalados en esta Ley.
+Los generadores de residuos peligrosos, mineros y metalúrgicos, así como los gestores de este tipo de residuos, deben manejarlos de manera segura y ambientalmente adecuada conforme a los términos señalados en esta [Ley](articulo-5.md).
 
 Artículo reformado DOF 08-05-2023

@@ -19,7 +19,7 @@ Los servicios de transporte aéreo no regular, nacional e internacional, incluye
 
 En el caso de los servicios de fletamento, los permisionarios deberán observar lo siguiente:
 
-I. Los vuelos o paquetes de vuelos quedan sujetos a autorización previa de la Agencia Federal de Aviación Civil; Fracción reformada DOF 03-05-2023
+I. Los vuelos o paquetes de vuelos quedan sujetos a autorización previa de la [Agencia Federal de Aviación Civil](articulo-2.md); Fracción reformada DOF 03-05-2023
 
 II. Los servicios que presten en ningún caso podrán traducirse o de hecho ser equivalentes a los del transporte aéreo regular;
 

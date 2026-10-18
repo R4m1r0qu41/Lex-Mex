@@ -17,9 +17,9 @@ source_sha256: c1870db657a6564bbeb692a1778472db811a920626822de553ff5ca5194f95b4
 
 # Artículo 40
 
-La SADER debe sancionar administrativamente los incumplimientos a las disposiciones contenidas en la presente Ley y las que deriven de ella, de la manera siguiente:
+La [SADER](articulo-2.md) debe sancionar administrativamente los incumplimientos a las disposiciones contenidas en la presente [Ley](articulo-2.md) y las que deriven de ella, de la manera siguiente:
 
-I. Por producir insumos primarios de origen vegetal destinados para consumo humano, distintos a la caña de azúcar o de sorgo, para la producción de Biomasa para su uso directo como Biocombustible o para la Producción de Biocombustibles, con multa de 1,000 a 80,000 veces el valor de la Unidad de Medida y Actualización y clausura total permanente de las instalaciones;
+I. Por producir insumos primarios de origen vegetal destinados para consumo humano, distintos a la caña de azúcar o de sorgo, para la producción de [Biomasa](articulo-2.md) para su uso directo como [Biocombustible](articulo-2.md) o para la [Producción](articulo-2.md) de Biocombustibles, con multa de 1,000 a 80,000 veces el valor de la Unidad de Medida y Actualización y clausura total permanente de las instalaciones;
 
 II. Por incumplir los términos y condiciones establecidos en los permisos otorgados por la SADER, o transgredir lo previsto en las Normas Oficiales Mexicanas relativas a la producción de Biomasa para su uso directo como Biocombustible o para la Producción de Biocombustibles, con multa de 500 a 8,000 veces el valor de la Unidad de Medida y Actualización y clausura total temporal de instalaciones, y
 

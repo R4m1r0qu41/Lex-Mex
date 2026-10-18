@@ -17,7 +17,7 @@ source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 
 # Artículo 98 TER
 
-La Procuraduría podrá ordenar el aseguramiento de bienes o productos que se comercialicen fuera de establecimiento comercial cuando no cumplan con las disposiciones aplicables, conforme al procedimiento que al efecto se establezca y que se publique en el Diario Oficial de la Federación, y lo hará del conocimiento de las autoridades competentes a fin de que adopten las medidas que procedan.
+La [Procuraduría](articulo-2.md) podrá ordenar el aseguramiento de bienes o productos que se comercialicen fuera de establecimiento comercial cuando no cumplan con las disposiciones aplicables, conforme al procedimiento que al efecto se establezca y que se publique en el Diario Oficial de la Federación, y lo hará del conocimiento de las autoridades competentes a fin de que adopten las medidas que procedan.
 
 Artículo adicionado DOF 04-02-2004
 

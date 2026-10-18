@@ -17,13 +17,13 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 # Artículo 91
 
-La Comisión Ejecutiva debe otorgar las medidas de ayuda provisional a las Víctimas a que se refiere esta Ley, que corresponda brindar a las Comisiones de Atención a Víctimas, en los siguientes supuestos:
+La [Comisión Ejecutiva](articulo-5.md) debe otorgar las medidas de ayuda provisional a las [Víctimas](articulo-5.md) a que se refiere esta [Ley](articulo-5.md), que corresponda brindar a las [Comisiones de Atención a Víctimas](articulo-5.md), en los siguientes supuestos:
 
 I. Cuando en el lugar de la comisión de los delitos materia de esta Ley o de la violación a derechos humanos no se cuente con Comisión de Atención a Víctimas;
 
 II. Cuando la Comisión de Atención a Víctimas correspondiente le haya negado a la Víctima las medidas a las que tiene derecho, no se haya pronunciado dentro de los treinta días naturales siguientes o la atención prestada hubiere sido deficiente;
 
-III. Cuando el Ministerio Público de la Federación o la Comisión Nacional de los Derechos Humanos, ejerzan su facultad de atracción en términos de las disposiciones legales aplicables;
+III. Cuando el Ministerio Público de la Federación o la [Comisión Nacional](articulo-5.md) de los Derechos Humanos, ejerzan su facultad de atracción en términos de las disposiciones legales aplicables;
 
 IV. Cuando por sentencia o resolución de carácter vinculatorio un órgano previsto en cualquier tratado internacional del que México sea parte, se hubiere determinado la responsabilidad del Estado mexicano; o
 

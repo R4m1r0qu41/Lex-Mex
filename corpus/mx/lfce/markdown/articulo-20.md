@@ -17,11 +17,11 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 20
 
-Corresponde a la Persona Comisionada Presidente: Párrafo reformado DOF 16-07-2025
+Corresponde a la [Persona Comisionada](articulo-3.md) Presidente: Párrafo reformado DOF 16-07-2025
 
-I. Actuar como representante legal de la Comisión con facultades generales y especiales para actos de administración y de dominio, pleitos y cobranzas, incluso las que requieran cláusula especial conforme a la Ley;
+I. Actuar como representante legal de la [Comisión](articulo-3.md) con facultades generales y especiales para actos de administración y de dominio, pleitos y cobranzas, incluso las que requieran cláusula especial conforme a la Ley;
 
-II. Otorgar poderes a nombre de la Comisión para actos de dominio, de administración, pleitos y cobranzas y para ser representada ante cualquier autoridad administrativa o judicial, ante tribunales laborales o ante particulares; así como acordar la delegación de las facultades que correspondan, en los términos que establezca el estatuto orgánico. Tratándose de actos de dominio sobre inmuebles destinados a la Comisión o para otorgar poderes para dichos efectos, se requerirá la autorización previa del Pleno; Fracción reformada DOF 16-07-2025
+II. Otorgar poderes a nombre de la Comisión para actos de dominio, de administración, pleitos y cobranzas y para ser representada ante cualquier autoridad administrativa o judicial, ante tribunales laborales o ante particulares; así como acordar la delegación de las facultades que correspondan, en los términos que establezca el estatuto orgánico. Tratándose de actos de dominio sobre inmuebles destinados a la Comisión o para otorgar poderes para dichos efectos, se requerirá la autorización previa del [Pleno](articulo-3.md); Fracción reformada DOF 16-07-2025
 
 III. Dirigir y administrar los recursos humanos, financieros y materiales de la Comisión e informar al Pleno sobre la marcha de la administración en los términos que determine el estatuto orgánico;
 

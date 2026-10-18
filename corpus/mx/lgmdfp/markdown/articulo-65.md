@@ -17,6 +17,6 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 65
 
-La Comisión Nacional de Búsqueda contará con Grupos de Búsqueda integrados por servidores públicos especializados en la búsqueda de personas.
+La [Comisión Nacional de Búsqueda](articulo-4.md) contará con Grupos de Búsqueda integrados por servidores públicos especializados en la búsqueda de personas.
 
 Con independencia de lo anterior, la Comisión Nacional de Búsqueda podrá auxiliarse por personas especializadas en búsqueda de personas, así como por cuerpos policiales especializados que colaboren con las autoridades competentes, en términos de las disposiciones aplicables.

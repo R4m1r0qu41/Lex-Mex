@@ -35,7 +35,7 @@ VIII.- Piel;
 
 IX.- Riñones;
 
-X.- Sangre y sus componentes;
+X.- [Sangre](articulo-6o.md) y sus componentes;
 
 XI.- Plasma;
 

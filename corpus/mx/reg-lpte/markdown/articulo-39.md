@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 39
 
-Además de las metas referidas en los artículos [25](../../lpte/markdown/articulo-25.md) y [26](../../lpte/markdown/articulo-26.md) de la Ley que se establezcan en la Estrategia, la Secretaría puede establecer otras metas conforme a lo dispuesto en los artículos 24 y 25 del Reglamento.
+Además de las metas referidas en los artículos [25](../../lpte/markdown/articulo-25.md) y [26](../../lpte/markdown/articulo-26.md) de la [Ley](articulo-5.md) que se establezcan en la Estrategia, la [Secretaría](articulo-5.md) puede establecer otras metas conforme a lo dispuesto en los artículos 24 y 25 del [Reglamento](articulo-5.md).

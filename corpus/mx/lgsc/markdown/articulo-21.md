@@ -17,7 +17,7 @@ source_sha256: 7bed7f706ac5003e5089abf84b9134fa97495a1d6c9570c0841e418d48d7565f
 
 # Artículo 21
 
-Forman parte del Sistema Cooperativo las siguientes clases de sociedades cooperativas:
+Forman parte del [Sistema Cooperativo](articulo-3.md) las siguientes clases de sociedades cooperativas:
 
 I.- De consumidores de bienes y/o servicios, y
 

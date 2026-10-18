@@ -15,4 +15,4 @@ source_sha256: b19bcf104673af06117a6d4f3c947591f7a65999f19bad3dcfe2599a29bb3ab0
 
 # CUARTO
 
-Las disposiciones normativas emitidas con anterioridad a la entrada en vigor del presente reglamento, continúan vigentes hasta que inicie la vigencia de aquellas que las sustituyan, en lo que no se oponga a la Ley y el presente reglamento.
+Las disposiciones normativas emitidas con anterioridad a la entrada en vigor del presente reglamento, continúan vigentes hasta que inicie la vigencia de aquellas que las sustituyan, en lo que no se oponga a la [Ley](articulo-3.md) y el presente reglamento.

@@ -17,11 +17,11 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 68 Bis
 
-Cuando las partes no se sometan al arbitraje, y siempre que del expediente se desprendan elementos que a juicio de la Comisión Nacional permitan suponer la procedencia de lo reclamado, ésta podrá emitir, previa solicitud por escrito del Usuario, un acuerdo de trámite que contenga un dictamen.
+Cuando las partes no se sometan al arbitraje, y siempre que del expediente se desprendan elementos que a juicio de la [Comisión Nacional](articulo-2o.md) permitan suponer la procedencia de lo reclamado, ésta podrá emitir, previa solicitud por escrito del [Usuario](articulo-2o.md), un acuerdo de trámite que contenga un dictamen.
 
 Cuando este dictamen consigne una obligación contractual incumplida, cierta, exigible y líquida, a juicio de la Comisión Nacional, se considerará título ejecutivo no negociable, en favor del Usuario.
 
-La Institución Financiera podrá controvertir el monto del título, presentar las pruebas y oponer las excepciones que estime convenientes ante la autoridad judicial competente. La acción ejecutiva derivada del dictamen prescribirá a un año de su emisión.
+La [Institución Financiera](articulo-2o.md) podrá controvertir el monto del título, presentar las pruebas y oponer las excepciones que estime convenientes ante la autoridad judicial competente. La acción ejecutiva derivada del dictamen prescribirá a un año de su emisión.
 
 Para la elaboración del dictamen, la Comisión Nacional podrá allegarse todos los elementos que juzgue necesarios.
 

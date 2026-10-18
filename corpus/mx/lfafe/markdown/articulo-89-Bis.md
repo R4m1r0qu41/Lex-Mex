@@ -17,6 +17,6 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 89 Bis
 
-Se impondrá de dos a cinco años de prisión y multa de doscientas a quinientas veces el valor diario de la Unidad de Medida y Actualización a las personas titulares o administradoras de las empresas de seguridad privada que incumplan lo establecido en el artículo [30 Bis](articulo-30-Bis.md) de esta Ley.
+Se impondrá de dos a cinco años de prisión y multa de doscientas a quinientas veces el valor diario de la Unidad de Medida y Actualización a las personas titulares o administradoras de las empresas de seguridad privada que incumplan lo establecido en el artículo [30 Bis](articulo-30-Bis.md) de esta [Ley](articulo-1o-Bis.md).
 
 Artículo adicionado DOF 29-05-2025

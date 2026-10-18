@@ -17,6 +17,6 @@ source_sha256: 67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35
 
 # Artículo 3
 
-La aplicación e interpretación de esta Ley, para efectos administrativos, corresponde a la Secretaría.
+La aplicación e interpretación de esta [Ley](articulo-2.md), para efectos administrativos, corresponde a la [Secretaría](articulo-2.md).
 
-El Ejecutivo Federal, por conducto de la Secretaría debe emitir las disposiciones de carácter general que sean necesarias para la aplicación de lo dispuesto en esta Ley y su Reglamento.
+El Ejecutivo Federal, por conducto de la Secretaría debe emitir las disposiciones de carácter general que sean necesarias para la aplicación de lo dispuesto en esta Ley y su [Reglamento](articulo-2.md).

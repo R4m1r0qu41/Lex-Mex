@@ -15,4 +15,4 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 # Artículo 142
 
-La Secretaría, cuando existan condiciones discriminatorias, podrá establecer, en cualquier tiempo, dentro de la tarifa máxima conjunta, tarifas o precios específicos respecto de todos o determinados servicios, arrendamientos y contraprestaciones regulados.
+La [Secretaría](articulo-2.md), cuando existan condiciones discriminatorias, podrá establecer, en cualquier tiempo, dentro de la tarifa máxima conjunta, tarifas o precios específicos respecto de todos o determinados servicios, arrendamientos y contraprestaciones regulados.

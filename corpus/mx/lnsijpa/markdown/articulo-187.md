@@ -17,7 +17,7 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 187
 
-Del Plan Individualizado de Ejecución Para la ejecución de las medidas de sanción que ameriten seguimiento deberá realizarse un Plan Individualizado de Ejecución que deberá:
+Del [Plan Individualizado de Ejecución](articulo-3.md) Para la ejecución de las medidas de sanción que ameriten seguimiento deberá realizarse un Plan Individualizado de Ejecución que deberá:
 
 I. Sujetarse a los fines de la o las medidas impuestas por el Juez;
 

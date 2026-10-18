@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpc:term:consumidor",
+    "term": "Consumidor",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpc",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpc:article:2",
+    "fraction": "I",
+    "start_char": 48,
+    "end_char": 1121,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpc:term:proveedor",
+    "term": "Proveedor",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpc",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpc:article:2",
+    "fraction": "II",
+    "start_char": 1121,
+    "end_char": 1375,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpc:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpc",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpc:article:2",
+    "fraction": "III",
+    "start_char": 1375,
+    "end_char": 1422,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpc:term:procuraduria",
+    "term": "Procuraduría",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpc",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpc:article:2",
+    "fraction": "IV",
+    "start_char": 1422,
+    "end_char": 1513,
+    "basis": "express_definition"
+  }
+]

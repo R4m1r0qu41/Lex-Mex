@@ -19,9 +19,9 @@ source_sha256: 7b3cf7a0ff59f76503a97a535457c4a7dd3b1305e7a36f4fca82bd661eab1168
 
 A falta de previsión expresa en la presente Ley, se estará a las siguientes reglas de supletoriedad:
 
-I. Respecto del apoyo que deban prestar las Instancias se estará a lo dispuesto en la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública;
+I. Respecto del apoyo que deban prestar las [Instancias](articulo-6.md) se estará a lo dispuesto en la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública;
 
-II. En lo relativo al régimen disciplinario de los servidores públicos de las dependencias federales que integran el Consejo, se aplicará la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
+II. En lo relativo al régimen disciplinario de los servidores públicos de las dependencias federales que integran el [Consejo](articulo-6.md), se aplicará la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
 
 III. Con referencia al control judicial de la inteligencia para la Seguridad Nacional, será aplicable en lo conducente el Código Nacional de Procedimientos Civiles y Familiares y la Ley Orgánica del Poder Judicial de la Federación; Fracción reformada DOF 14-11-2025
 

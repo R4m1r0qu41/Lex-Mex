@@ -17,6 +17,6 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 403
 
-En el caso de los delitos previstos en las fracciones I, II, VII y VIII del artículo [402](articulo-402.md) de esta Ley, se impondrán de tres a diez años de prisión y multa de dos mil a quinientas mil unidades de medida y actualización, vigente al momento en que se cometa el ilícito.
+En el caso de los delitos previstos en las fracciones I, II, VII y VIII del artículo [402](articulo-402.md) de esta [Ley](articulo-4.md), se impondrán de tres a diez años de prisión y multa de dos mil a quinientas mil unidades de medida y actualización, vigente al momento en que se cometa el ilícito.
 
 A quien cometa alguno de los delitos señalados en las fracciones III, IV, V o VI del artículo [402](articulo-402.md) de esta Ley, se le impondrá de dos a seis años de prisión y multa por el importe de mil a trescientas mil unidades de medida y actualización, vigente al momento en que se cometa el ilícito.

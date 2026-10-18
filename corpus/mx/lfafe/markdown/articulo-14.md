@@ -17,6 +17,6 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 14
 
-El extravío, robo, destrucción, enajenación, aseguramiento o decomiso de un arma que se posea o se porte debe hacerse del conocimiento de la Secretaría, así como de la autoridad ministerial en los casos que corresponda por parte de la persona titular del registro o, en caso de su fallecimiento o ausencia declarada, por la persona responsable designada, en los términos y por los conductos que establezca el Reglamento de esta Ley y demás disposiciones emitidas por dicha Secretaría.
+El extravío, robo, destrucción, enajenación, aseguramiento o decomiso de un arma que se posea o se porte debe hacerse del conocimiento de la [Secretaría](articulo-1o-Bis.md), así como de la autoridad ministerial en los casos que corresponda por parte de la persona titular del registro o, en caso de su fallecimiento o ausencia declarada, por la persona responsable designada, en los términos y por los conductos que establezca el [Reglamento](articulo-1o-Bis.md) de esta [Ley](articulo-1o-Bis.md) y demás disposiciones emitidas por dicha Secretaría.
 
 Artículo reformado DOF 08-02-1985, 29-05-2025

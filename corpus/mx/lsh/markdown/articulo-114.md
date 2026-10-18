@@ -17,4 +17,4 @@ source_sha256: 1405f36fd836ff74d059ebe7e50ae439cbb9e5e291a317514667f34a26f72a23
 
 # Artículo 114
 
-El transvase de Hidrocarburos, Petrolíferos y Petroquímicos, relacionados con las actividades previstas en este Título, únicamente pueden llevarse a cabo como parte de las actividades inherentes a los permisos de Almacenamiento y Distribución de Hidrocarburos, Petrolíferos y Petroquímicos, así como el permiso de Formulación de Petrolíferos, y deben realizarse en las instalaciones comprendidas en los referidos permisos.
+El transvase de [Hidrocarburos](articulo-5.md), [Petrolíferos](articulo-5.md) y [Petroquímicos](articulo-5.md), relacionados con las actividades previstas en este Título, únicamente pueden llevarse a cabo como parte de las actividades inherentes a los permisos de [Almacenamiento](articulo-5.md) y [Distribución](articulo-5.md) de Hidrocarburos, Petrolíferos y Petroquímicos, así como el permiso de [Formulación](articulo-5.md) de Petrolíferos, y deben realizarse en las instalaciones comprendidas en los referidos permisos.

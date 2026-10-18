@@ -29,7 +29,7 @@ IV. Título y certificado de estudios, para cursos de nivel técnico superior un
 
 V. Certificado de estudios para cursos de nivel medio superior o sus equivalentes;
 
-VI. Constancia de asistencia para cursos de duración variable y menor de seis meses, que cumplen objetivos de capacitación o un adiestramiento específico dentro del Sistema;
+VI. Constancia de asistencia para cursos de duración variable y menor de seis meses, que cumplen objetivos de capacitación o un adiestramiento específico dentro del [Sistema](articulo-3.md);
 
 VII. Certificación de título, diploma de especialidad o grado académico;
 

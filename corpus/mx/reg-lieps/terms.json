@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lieps:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lieps",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lieps:article:1",
+    "fraction": "I",
+    "start_char": 54,
+    "end_char": 124,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lieps:term:impuesto",
+    "term": "Impuesto",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lieps",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lieps:article:1",
+    "fraction": "II",
+    "start_char": 124,
+    "end_char": 188,
+    "basis": "express_definition"
+  }
+]

@@ -17,8 +17,8 @@ source_sha256: 67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35
 
 # Artículo 5
 
-Las personas titulares de Concesiones, Permisos de Exploración, Permisos para Usos Diversos y quienes realicen un Aprovechamiento Geotérmico Exento, deben dar aviso, a la Secretaría de los subproductos que se descubren con motivo de las actividades que prevé la presente Ley.
+Las personas titulares de [Concesiones](articulo-2.md), Permisos de [Exploración](articulo-2.md), Permisos para [Usos Diversos](articulo-2.md) y quienes realicen un [Aprovechamiento Geotérmico Exento](articulo-2.md), deben dar aviso, a la [Secretaría](articulo-2.md) de los subproductos que se descubren con motivo de las actividades que prevé la presente [Ley](articulo-2.md).
 
-El aviso debe indicar al menos, el tipo de subproducto o subproductos descubiertos, las características de cada uno de ellos, su ubicación, así como la información que se establece en el Reglamento.
+El aviso debe indicar al menos, el tipo de subproducto o subproductos descubiertos, las características de cada uno de ellos, su ubicación, así como la información que se establece en el [Reglamento](articulo-2.md).
 
 Las personas titulares de las Concesiones otorgadas de acuerdo con lo dispuesto en esta Ley y su Reglamento pueden explotar los subproductos a que se refiere este artículo con excepción del litio y aquellos previstos por la Ley del Sector Hidrocarburos y la Ley de Minería; en su caso, deben obtener la Concesión o autorización correspondiente.

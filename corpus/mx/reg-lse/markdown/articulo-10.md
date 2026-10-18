@@ -17,4 +17,4 @@ source_sha256: 4bcc982b308b0813469b30db61b53d5a2c41e5a7240b3b1cac2f1aeeb2c00a2e
 
 # Artículo 10
 
-La evaluación de la participación del Estado debe considerar que la Generación de Electricidad Inyectada por el Estado puede ser afectada por condiciones de caso fortuito o fuerza mayor.
+La evaluación de la participación del Estado debe considerar que la [Generación de Electricidad Inyectada por el Estado](articulo-2.md) puede ser afectada por condiciones de caso fortuito o fuerza mayor.

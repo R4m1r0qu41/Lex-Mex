@@ -17,6 +17,6 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 93
 
-Durante la búsqueda, la Comisión Nacional de Búsqueda o la Comisión Local de Búsqueda correspondiente presumirá que la Persona Desaparecida o No Localizada, se encuentra con vida.
+Durante la búsqueda, la [Comisión Nacional de Búsqueda](articulo-4.md) o la [Comisión Local de Búsqueda](articulo-4.md) correspondiente presumirá que la [Persona Desaparecida](articulo-4.md) o No Localizada, se encuentra con vida.
 
 La Comisión Nacional de Búsqueda o la Comisión Local de Búsqueda correspondiente no podrá concluir con las acciones de búsqueda, incluso en los casos en que la Persona Desaparecida o No Localizada sea declarada ausente, en términos de lo establecido en esta Ley y la legislación aplicable, salvo que haya certeza sobre la suerte o paradero de la persona o hasta que sus restos hayan sido encontrados y plenamente identificados.

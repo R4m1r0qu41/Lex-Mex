@@ -15,4 +15,4 @@ source_sha256: 67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35
 
 # Segundo
 
-Se abroga la Ley de Energía Geotérmica publicada en el Diario Oficial de la Federación el 11 de agosto de 2014, y las demás disposiciones que se opongan al presente ordenamiento.
+Se abroga la [Ley](articulo-2.md) de Energía Geotérmica publicada en el Diario Oficial de la Federación el 11 de agosto de 2014, y las demás disposiciones que se opongan al presente ordenamiento.

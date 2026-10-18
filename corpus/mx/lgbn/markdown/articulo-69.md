@@ -17,7 +17,7 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # Artículo 69
 
-Si la Secretaría o la Secretaría de Medio Ambiente y Recursos Naturales, según sea el caso, con base en los estudios y evaluaciones que efectúen, detectan que los inmuebles federales destinados no están siendo usados o aprovechados de forma óptima, requerirán a las instituciones destinatarias los informes o aclaraciones que éstas estimen procedentes.
+Si la [Secretaría](articulo-2.md) o la Secretaría de Medio Ambiente y Recursos Naturales, según sea el caso, con base en los estudios y evaluaciones que efectúen, detectan que los inmuebles federales destinados no están siendo usados o aprovechados de forma óptima, requerirán a las instituciones destinatarias los informes o aclaraciones que éstas estimen procedentes.
 
 En caso de que las instituciones destinatarias no justifiquen de manera suficiente lo detectado en dichos estudios y evaluaciones, la Secretaría o la Secretaría de Medio Ambiente y Recursos Naturales, según corresponda, podrán:
 

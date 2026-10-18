@@ -1,1 +1,57 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpsvd:term:cohesion-social",
+    "term": "Cohesión Social",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgpsvd",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgpsvd:article:3",
+    "fraction": "I",
+    "start_char": 125,
+    "end_char": 455,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpsvd:term:diagnostico-participativo",
+    "term": "Diagnóstico Participativo",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgpsvd",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgpsvd:article:3",
+    "fraction": "II",
+    "start_char": 455,
+    "end_char": 929,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpsvd:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgpsvd",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgpsvd:article:3",
+    "fraction": "III",
+    "start_char": 929,
+    "end_char": 977,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpsvd:term:sedatu",
+    "term": "SEDATU",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgpsvd",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgpsvd:article:3",
+    "fraction": "IV",
+    "start_char": 977,
+    "end_char": 1051,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpsvd:term:subsecretaria",
+    "term": "Subsecretaría",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgpsvd",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgpsvd:article:3",
+    "fraction": "V",
+    "start_char": 1051,
+    "end_char": 1143,
+    "basis": "express_definition"
+  }
+]

@@ -17,4 +17,4 @@ source_sha256: c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41
 
 # Artículo 98
 
-El incumplimiento a la presente Ley puede ser sancionado por la Secretaría y la CONUEE en el ámbito de sus atribuciones.
+El incumplimiento a la presente [Ley](articulo-3.md) puede ser sancionado por la [Secretaría](articulo-3.md) y la [CONUEE](articulo-3.md) en el ámbito de sus atribuciones.

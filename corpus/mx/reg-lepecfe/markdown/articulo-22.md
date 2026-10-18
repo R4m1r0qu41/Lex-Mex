@@ -17,4 +17,4 @@ source_sha256: 9478163ef6ab468edc2be8def3bf84efedd03da5b6c166fba0430bfcb6d8467c
 
 # Artículo 22
 
-Las personas que funjan como suplentes de las Personas Consejeras en el Consejo de Administración, no pueden ser designadas como personas integrantes del Comité Especial.
+Las personas que funjan como suplentes de las [Personas Consejeras](articulo-2.md) en el [Consejo de Administración](articulo-2.md), no pueden ser designadas como personas integrantes del [Comité Especial](articulo-2.md).

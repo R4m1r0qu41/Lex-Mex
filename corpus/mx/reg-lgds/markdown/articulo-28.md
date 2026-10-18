@@ -17,6 +17,6 @@ source_sha256: aca2d65d2eef1b7c26ab431772ce7364305d103f5e4bacc87da02064df005ae3
 
 # Artículo 28
 
-En el supuesto del artículo [25](../../lgds/markdown/articulo-25.md) de la Ley, la Secretaría hará una propuesta para la definición del monto del Fondo de Contingencia Social, su distribución, aplicación y reglas de operación, en términos de las disposiciones aplicables, que permitan una administración transparente del fondo.
+En el supuesto del artículo [25](../../lgds/markdown/articulo-25.md) de la [Ley](articulo-3.md), la Secretaría hará una propuesta para la definición del monto del Fondo de Contingencia Social, su distribución, aplicación y reglas de operación, en términos de las disposiciones aplicables, que permitan una administración transparente del fondo.
 
 En su caso, la Secretaría de Hacienda y Crédito Público, con base en las disposiciones aplicables y en los criterios generales de política económica, considerará la propuesta en el proyecto de Decreto de Presupuesto de Egresos de la Federación.

@@ -15,4 +15,4 @@ source_sha256: d8dd1de3627b899bb4faf31c2812c3d5f14f7108be153d5aa8dd549b9136184a
 
 # Tercero
 
-La presente Ley abroga a la Ley General de Protección Civil publicada en el Diario Oficial de la Federación el 12 de mayo de 2000 y a sus reformas de 29 de diciembre de 2001, 13 de junio de 2003, 15 de junio de 2004 y 24 de abril de 2006.
+La presente Ley abroga a la Ley General de [Protección Civil](articulo-2.md) publicada en el Diario Oficial de la Federación el 12 de mayo de 2000 y a sus reformas de 29 de diciembre de 2001, 13 de junio de 2003, 15 de junio de 2004 y 24 de abril de 2006.

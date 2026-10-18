@@ -17,4 +17,4 @@ source_sha256: 23dcee090bbe0c4fb06c75d084cb65ce0b2e8f72a8d082e7059504412bde1614
 
 # Artículo 61
 
-Las visitas de verificación se sujetarán a lo dispuesto en la Ley, en el presente Reglamento y, en lo no previsto, en la Ley Federal de Procedimiento Administrativo.
+Las visitas de verificación se sujetarán a lo dispuesto en la [Ley](articulo-2o.md), en el presente Reglamento y, en lo no previsto, en la Ley Federal de Procedimiento Administrativo.

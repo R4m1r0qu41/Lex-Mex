@@ -17,7 +17,7 @@ source_sha256: 4fadf9a6f2d22a9e48d8e29ed302456751da66eb723e0df1dc6ac45a5e4640b0
 
 # Artículo 26
 
-La Declaración Especial de Ausencia protegerá los derechos laborales de la Persona Desaparecida en los siguientes términos:
+La [Declaración Especial de Ausencia](articulo-3.md) protegerá los derechos laborales de la [Persona Desaparecida](articulo-3.md) en los siguientes términos:
 
 I. Se le tendrá en situación de permiso sin goce de sueldo. En el supuesto de que la víctima fuera localizada con vida, el patrón deberá reinstalarlo en el puesto que ocupaba en su centro de trabajo antes de la desaparición;
 

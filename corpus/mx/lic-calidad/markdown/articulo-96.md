@@ -17,6 +17,6 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 96
 
-La metrología científica abarca las actividades que se realicen en el establecimiento de patrones nacionales de medida y de certificación de materiales de referencia; en la actualización del Sistema General de Unidades de Medida; en la investigación científica y desarrollo tecnológico en metrología; en la participación en el Acuerdo de Reconocimiento Mutuo del Comité Internacional de Pesas y Medidas; así como de divulgación de la misma, de la diseminación de las unidades de medida y de su trazabilidad.
+La metrología científica abarca las actividades que se realicen en el establecimiento de patrones nacionales de medida y de certificación de materiales de referencia; en la actualización del [Sistema General de Unidades de Medida](articulo-4.md); en la investigación científica y desarrollo tecnológico en metrología; en la participación en el Acuerdo de Reconocimiento Mutuo del Comité Internacional de Pesas y Medidas; así como de divulgación de la misma, de la diseminación de las unidades de medida y de su trazabilidad.
 
 Capítulo II Del Sistema General de Unidades de Medida

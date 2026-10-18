@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 26
 
-En lo que resulte aplicable, las metas de los Instrumentos de Planeación del Sector Energético deben hacer referencia a su alineación con los compromisos internacionales del Estado Mexicano frente al cambio climático, los Objetivos del Desarrollo Sostenible, así como con cualquier otra iniciativa internacional de la que el Estado Mexicano forme parte.
+En lo que resulte aplicable, las metas de los [Instrumentos de Planeación del Sector Energético](articulo-5.md) deben hacer referencia a su alineación con los compromisos internacionales del Estado Mexicano frente al cambio climático, los Objetivos del Desarrollo Sostenible, así como con cualquier otra iniciativa internacional de la que el Estado Mexicano forme parte.

@@ -29,7 +29,7 @@ V. Servicios e infraestructura para la sanidad animal;
 
 VI. Conservación y uso racional de los recursos naturales;
 
-VII. Autorización de Reglamentos Técnicos para la expedición de certificados genealógicos y productivos;
+VII. Autorización de [Reglamentos](articulo-2o.md) Técnicos para la expedición de certificados genealógicos y productivos;
 
 VIII. Elaboración de estudios y expedición de certificados de coeficiente de agostadero, y
 

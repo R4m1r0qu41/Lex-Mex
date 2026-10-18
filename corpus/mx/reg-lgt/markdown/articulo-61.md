@@ -17,12 +17,12 @@ source_sha256: 6680a58c98673518aee46582b3137d28987c275785d1f0c97295f0d89c4b692b
 
 # Artículo 61
 
-La Promoción Turística comprenderá las siguientes acciones:
+La [Promoción Turística](articulo-2.md) comprenderá las siguientes acciones:
 
 I. La determinación de una guía con información detallada de un viaje en específico, así como de Destinos, Circuitos o Regiones Turísticas;
 
 II. La elaboración de estudios destinados a identificar los puntos clave para promocionar un Destino, Atractivo o Servicio Turístico;
 
-III. La operación de campañas y acciones de Promoción Turística a nivel nacional e internacional de los Destinos Turísticos del país, y
+III. La operación de campañas y acciones de Promoción Turística a nivel nacional e internacional de los [Destinos Turísticos](articulo-2.md) del país, y
 
-IV. Las demás que la Secretaría considere efectivas para potencializar la comercialización de los Productos Turísticos.
+IV. Las demás que la Secretaría considere efectivas para potencializar la comercialización de los [Productos Turísticos](articulo-2.md).

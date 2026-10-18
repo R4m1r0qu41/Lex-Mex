@@ -15,4 +15,4 @@ source_sha256: 667636f9e0ea65e72ac9d6d7b4d7563a183b75d0f140268a61929c74f5f88041
 
 # NOVENO
 
-Los integrantes de la CIBIOGEM establecerán, dentro del año siguiente a la entrada en vigor de este Reglamento, políticas públicas para la protección, utilización, desarrollo y aprovechamiento sustentable de especies de las que México sea centro de origen y de diversidad genética.
+Los integrantes de la CIBIOGEM establecerán, dentro del año siguiente a la entrada en vigor de este Reglamento, políticas públicas para la protección, utilización, desarrollo y aprovechamiento sustentable de especies de las que [México](articulo-2.md) sea centro de origen y de diversidad genética.

@@ -17,4 +17,4 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 75
 
-En los casos de adjudicación judicial o administrativa de armas, objetos y materiales a que se refiere esta Ley, el adjudicatario, dentro de los quince días siguientes, deberá solicitar el permiso correspondiente para disponer de los mismos, indicando el destino que pretenda darles.
+En los casos de adjudicación judicial o administrativa de armas, objetos y materiales a que se refiere esta [Ley](articulo-1o-Bis.md), el adjudicatario, dentro de los quince días siguientes, deberá solicitar el permiso correspondiente para disponer de los mismos, indicando el destino que pretenda darles.

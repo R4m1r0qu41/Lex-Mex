@@ -17,4 +17,4 @@ source_sha256: aa96853f010885bdf85160e944e5c0ef5c3c8e95422dfede280d228cf064310a
 
 # Artículo 157
 
-La transmisión, distribución, Suministro Básico y Suministro de Último Recurso, así como los costos del servicio de operación del CENACE, se deben sujetar a los lineamientos de contabilidad regulatoria establecidos por la CNE, para lo cual las personas que desarrollen dichas actividades están obligadas a presentar la información que la CNE determine mediante disposiciones administrativas de carácter general.
+La transmisión, distribución, [Suministro Básico](articulo-3.md) y [Suministro de Último Recurso](articulo-3.md), así como los costos del servicio de operación del [CENACE](articulo-3.md), se deben sujetar a los lineamientos de contabilidad regulatoria establecidos por la [CNE](articulo-3.md), para lo cual las personas que desarrollen dichas actividades están obligadas a presentar la información que la CNE determine mediante disposiciones administrativas de carácter general.

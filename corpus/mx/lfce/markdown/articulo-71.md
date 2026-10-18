@@ -21,4 +21,4 @@ Para iniciar una investigación por prácticas monopólicas o concentraciones il
 
 El periodo de investigación comenzará a contar a partir de la emisión del acuerdo de inicio respectivo y no podrá ser inferior a treinta ni exceder de ciento veinte días.
 
-Este periodo podrá ser ampliado hasta en tres ocasiones, por periodos de hasta ciento veinte días, cuando existan causas debidamente justificadas para ello a juicio de la Autoridad Investigadora. Párrafo reformado DOF 16-07-2025
+Este periodo podrá ser ampliado hasta en tres ocasiones, por periodos de hasta ciento veinte días, cuando existan causas debidamente justificadas para ello a juicio de la [Autoridad Investigadora](articulo-3.md). Párrafo reformado DOF 16-07-2025

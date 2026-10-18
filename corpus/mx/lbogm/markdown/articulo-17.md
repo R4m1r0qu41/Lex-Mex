@@ -17,4 +17,4 @@ source_sha256: b3c906475b455176de73da17f4f93a73f295965dc9bcca854b48417c7d4d3cfc
 
 # Artículo 17
 
-En caso de liberación accidental de OGMs, las Secretarías se coordinarán para que, en el ámbito de sus respectivas competencias conforme a esta Ley, impongan las medidas necesarias para evitar afectaciones negativas a la diversidad biológica, a la salud humana o a la sanidad animal, vegetal y acuícola, según se trate.
+En caso de liberación accidental de OGMs, las [Secretarías](articulo-3.md) se coordinarán para que, en el ámbito de sus respectivas competencias conforme a esta Ley, impongan las medidas necesarias para evitar afectaciones negativas a la diversidad biológica, a la salud humana o a la sanidad animal, vegetal y acuícola, según se trate.

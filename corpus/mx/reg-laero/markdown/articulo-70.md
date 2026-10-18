@@ -15,4 +15,4 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 # Artículo 70
 
-El prestador de servicios aeroportuarios, complementarios o comerciales únicamente podrá utilizar las instalaciones y espacios que sean necesarios para la prestación eficiente y segura de los servicios, debiendo en todo tiempo ajustarse a la Ley, este Reglamento, las reglas de operación y seguridad del aeródromo y demás disposiciones aplicables.
+El prestador de servicios aeroportuarios, complementarios o comerciales únicamente podrá utilizar las instalaciones y espacios que sean necesarios para la prestación eficiente y segura de los servicios, debiendo en todo tiempo ajustarse a la [Ley](articulo-2.md), este Reglamento, las reglas de operación y seguridad del aeródromo y demás disposiciones aplicables.

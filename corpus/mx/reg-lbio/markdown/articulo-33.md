@@ -17,4 +17,4 @@ source_sha256: 7df3d678efda2306b68d3c0f5ca0e3e92b9066d5f773128f4ae19cb26bf44fff
 
 # Artículo 33
 
-El otorgamiento de permisos por parte de la SENER se debe ajustar a los criterios establecidos en la Ley, el Reglamento y las demás disposiciones aplicables.
+El otorgamiento de permisos por parte de la [SENER](articulo-3.md) se debe ajustar a los criterios establecidos en la [Ley](articulo-3.md), el [Reglamento](articulo-3.md) y las demás disposiciones aplicables.

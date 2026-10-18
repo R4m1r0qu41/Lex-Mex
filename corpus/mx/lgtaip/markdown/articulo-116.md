@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 116
 
-Los sujetos obligados que se constituyan como fideicomitentes, fideicomisarios o fiduciarios en fideicomisos que involucren recursos públicos, no podrán clasificar, por ese solo supuesto, la información relativa al ejercicio de estos, como secreto bancario o fiduciario, sin perjuicio de las demás causales de clasificación que prevé la presente Ley.
+Los sujetos obligados que se constituyan como fideicomitentes, fideicomisarios o fiduciarios en fideicomisos que involucren recursos públicos, no podrán clasificar, por ese solo supuesto, la información relativa al ejercicio de estos, como secreto bancario o fiduciario, sin perjuicio de las demás causales de clasificación que prevé la presente [Ley](articulo-3.md).

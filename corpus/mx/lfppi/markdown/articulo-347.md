@@ -17,4 +17,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 347
 
-La fianza o contrafianza a que se refieren los artículos [345](articulo-345.md) y [346](articulo-346.md) de esta Ley deberán mantenerse vigentes durante el tiempo que dure el procedimiento lo cual deberá acreditarse por la parte interesada, en caso contrario, se ordenara el levantamiento o imposición de las medidas.
+La fianza o contrafianza a que se refieren los artículos [345](articulo-345.md) y [346](articulo-346.md) de esta [Ley](articulo-4.md) deberán mantenerse vigentes durante el tiempo que dure el procedimiento lo cual deberá acreditarse por la parte interesada, en caso contrario, se ordenara el levantamiento o imposición de las medidas.

@@ -17,6 +17,6 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 115
 
-El examen de fondo se llevará a cabo tomando en consideración los elementos o documentos del estado de la técnica que el Instituto tenga a su disposición, sin perjuicio de lo dispuesto por el [artículo anterior](articulo-114.md).
+El examen de fondo se llevará a cabo tomando en consideración los elementos o documentos del estado de la técnica que el [Instituto](articulo-4.md) tenga a su disposición, sin perjuicio de lo dispuesto por el [artículo anterior](articulo-114.md).
 
 Para determinar si una invención reivindicada implica una actividad inventiva, se tomará en consideración la relación existente entre ésta y el o los documentos del estado de la técnica, de forma individual o combinada.

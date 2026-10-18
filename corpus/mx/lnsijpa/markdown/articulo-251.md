@@ -23,4 +23,4 @@ I. La prevención primaria del delito son las medidas universales dirigidas a lo
 
 II. La prevención secundaria del delito son las medidas específicas dirigidas a las personas adolescentes que se encuentran en situaciones de mayor riesgo de cometer delitos, falta de apoyo familiar, que se encuentran fuera del sistema educativo, desocupadas, inician en el consumo de drogas o viven en contextos que afectan su desarrollo, y
 
-III. La prevención terciaria del delito son las medidas específicas para los adolescentes que habiendo sido sujetos del Sistema de Justicia y habiendo cumplido una medida de sanción se implementan para evitar la reincidencia delictiva.
+III. La prevención terciaria del delito son las medidas específicas para los adolescentes que habiendo sido sujetos del [Sistema](articulo-3.md) de Justicia y habiendo cumplido una medida de sanción se implementan para evitar la reincidencia delictiva.

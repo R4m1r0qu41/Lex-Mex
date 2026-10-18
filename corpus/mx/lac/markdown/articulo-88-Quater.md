@@ -21,7 +21,7 @@ I. No portar durante el ejercicio de sus actividades la licencia correspondiente
 
 II. Realizar actividades distintas a las otorgadas en su licencia o a las capacidades inscritas en la misma, multa de quinientas a cinco mil Unidades de Medida y Actualización;
 
-III. Presentar documentación que no fue emitida por la autoridad competente relacionada con los certificados de aptitud psicofísica, o cualquier documento médico en los trámites administrativos con la Agencia Federal de Aviación Civil, así como en la realización de la evaluación médica, multa de un mil a tres mil Unidades de Medida y Actualización;
+III. Presentar documentación que no fue emitida por la autoridad competente relacionada con los certificados de aptitud psicofísica, o cualquier documento médico en los trámites administrativos con la [Agencia Federal de Aviación Civil](articulo-2.md), así como en la realización de la evaluación médica, multa de un mil a tres mil Unidades de Medida y Actualización;
 
 IV. Presentar documentación que no fue emitida por la autoridad competente para la revalidación de su licencia, multa de un mil a tres mil Unidades de Medida y Actualización;
 

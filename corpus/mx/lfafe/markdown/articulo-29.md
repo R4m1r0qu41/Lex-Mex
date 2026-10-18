@@ -27,13 +27,13 @@ B. Las instituciones antes mencionadas deben cumplir con las disposiciones legal
 
 a) Se deroga. Inciso derogado DOF 29-05-2025
 
-b) En el caso de las instituciones policiales, la Secretaría de Seguridad y Protección Ciudadana es el conducto para solicitar a la Secretaría la expedición de licencia oficial colectiva, las cuales se deben solicitar para las personas que integren su organización operativa y que figuren en las nóminas de pago respectivas, las que deben resolver lo conducente en un plazo no mayor de sesenta días siguientes a la presentación de la solicitud ante la Secretaría de Seguridad y Protección Ciudadana, y Inciso reformado DOF 29-05-2025
+b) En el caso de las instituciones policiales, la [Secretaría](articulo-1o-Bis.md) de Seguridad y Protección Ciudadana es el conducto para solicitar a la Secretaría la expedición de licencia oficial colectiva, las cuales se deben solicitar para las personas que integren su organización operativa y que figuren en las nóminas de pago respectivas, las que deben resolver lo conducente en un plazo no mayor de sesenta días siguientes a la presentación de la solicitud ante la Secretaría de Seguridad y Protección Ciudadana, y Inciso reformado DOF 29-05-2025
 
 c) Las instituciones policiales, y de procuración de justicia federales y estatales, así como a los organismos que, por sus funciones de carácter público, justifiquen su necesidad deben expedir a su personal operativo, inscrito en el registro que establezca la ley de la materia, credenciales foliadas de identificación personal, por lapsos de dos años, las cuales, durante su vigencia, se deben asimilar a licencias individuales. Inciso reformado DOF 29-05-2025
 
 C. Los titulares de las licencias colectivas deben remitir periódicamente a las Secretarías de la Defensa Nacional y de Seguridad y Protección Ciudadana un informe de las armas que se encuentren en su poder, debidamente correlacionado con su estructura y organización operativa, señalando los folios de las credenciales y los datos del personal que las tuviera a su cargo. Apartado reformado DOF 29-05-2025
 
-D. Las autoridades competentes se deben coordinar con los gobiernos de las entidades federativas para obtener, con oportunidad y exactitud, la información necesaria para el cumplimiento de esta Ley. Apartado reformado DOF 29-05-2025
+D. Las autoridades competentes se deben coordinar con los gobiernos de las entidades federativas para obtener, con oportunidad y exactitud, la información necesaria para el cumplimiento de esta [Ley](articulo-1o-Bis.md). Apartado reformado DOF 29-05-2025
 
 E. La Secretaría debe inspeccionar periódicamente el armamento, solo para efectos de su control, sin tener autoridad alguna sobre el personal. Apartado reformado DOF 29-05-2025
 

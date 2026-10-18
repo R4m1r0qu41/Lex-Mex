@@ -17,6 +17,6 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 67
 
-La Dirección y Rectoría promoverá la superación de las personas militares a través del Sistema, para asegurar su desarrollo profesional conforme a los principios y criterios consagrados en la Constitución Política de los Estados Unidos Mexicanos, a fin de satisfacer las necesidades del Ejército, Fuerza Aérea y Guardia Nacional.
+La Dirección y Rectoría promoverá la superación de las personas militares a través del [Sistema](articulo-3.md), para asegurar su desarrollo profesional conforme a los principios y criterios consagrados en la Constitución Política de los Estados Unidos Mexicanos, a fin de satisfacer las necesidades del Ejército, Fuerza Aérea y Guardia Nacional.
 
 Artículo reformado DOF 20-03-2026

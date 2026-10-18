@@ -17,4 +17,4 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 94
 
-Las Autoridades Normalizadoras podrán realizar labores de estandarización solo excepcionalmente, en los supuestos previstos en el Reglamento de esta Ley o en otras disposiciones legales aplicables.
+Las [Autoridades Normalizadoras](articulo-4.md) podrán realizar labores de estandarización solo excepcionalmente, en los supuestos previstos en el Reglamento de esta Ley o en otras disposiciones legales aplicables.

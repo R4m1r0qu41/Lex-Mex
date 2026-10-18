@@ -17,7 +17,7 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 10
 
-Las Normas Oficiales Mexicanas tienen como finalidad atender las causas de los problemas identificados por las Autoridades Normalizadoras que afecten o que pongan en riesgo los objetivos legítimos de interés público.
+Las [Normas Oficiales Mexicanas](articulo-4.md) tienen como finalidad atender las causas de los problemas identificados por las [Autoridades Normalizadoras](articulo-4.md) que afecten o que pongan en riesgo los objetivos legítimos de interés público.
 
 Para efectos de esta Ley, se consideran como objetivos legítimos de interés público:
 

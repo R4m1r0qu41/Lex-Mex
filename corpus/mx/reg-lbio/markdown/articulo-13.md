@@ -17,4 +17,4 @@ source_sha256: 7df3d678efda2306b68d3c0f5ca0e3e92b9066d5f773128f4ae19cb26bf44fff
 
 # Artículo 13
 
-En términos de lo establecido en el artículo [20](../../lbio/markdown/articulo-20.md) de la Ley, las autoridades competentes deben apoyar la investigación, el desarrollo tecnológico, la Transferencia de Tecnología y la Capacitación en materia de Biocombustibles en México. La SENER debe establecer y coordinar una cartera de proyectos de Biocombustibles que se debe actualizar cada dos años dentro del primer semestre del año.
+En términos de lo establecido en el artículo [20](../../lbio/markdown/articulo-20.md) de la [Ley](articulo-3.md), las autoridades competentes deben apoyar la investigación, el desarrollo tecnológico, la [Transferencia de Tecnología](articulo-3.md) y la [Capacitación](articulo-3.md) en materia de Biocombustibles en México. La [SENER](articulo-3.md) debe establecer y coordinar una cartera de proyectos de Biocombustibles que se debe actualizar cada dos años dentro del primer semestre del año.

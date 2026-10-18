@@ -15,6 +15,6 @@ source_sha256: 0a9852297132d8972d0c2f77e1b67d614bd296632109065e703bd09254187aea
 
 # Artículo 25
 
-Las instituciones de seguridad pública están obligadas a actualizar el Registro con la información de las personas detenidas que ingresen al sistema penitenciario, con base en el número de registro de la detención de origen. La actualización deberá vincularse con la base de datos a cargo de las autoridades penitenciarias que contengan la información de las personas privadas de su libertad.
+Las instituciones de seguridad pública están obligadas a actualizar el [Registro](articulo-2.md) con la información de las personas detenidas que ingresen al sistema penitenciario, con base en el número de registro de la detención de origen. La actualización deberá vincularse con la base de datos a cargo de las autoridades penitenciarias que contengan la información de las personas privadas de su libertad.
 
 Capítulo VII Consulta de Información

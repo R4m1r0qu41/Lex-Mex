@@ -17,4 +17,4 @@ source_sha256: 45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80
 
 # Artículo 25
 
-La Comisión propondrá a la Secretaría mecanismos que permitan conjuntar recursos públicos y crediticios para apoyar las medidas específicas que atiendan la adaptación climática del cultivo del café con motivo de los riesgos del cambio climático.
+La [Comisión](articulo-3.md) propondrá a la [Secretaría](articulo-3.md) mecanismos que permitan conjuntar recursos públicos y crediticios para apoyar las medidas específicas que atiendan la adaptación climática del cultivo del café con motivo de los riesgos del cambio climático.

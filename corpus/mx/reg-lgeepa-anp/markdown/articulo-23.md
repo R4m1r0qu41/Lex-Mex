@@ -17,4 +17,4 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 23
 
-Cuando un área natural protegida esté ubicada en dos o más entidades federativas podrá constituirse un Consejo Asesor por cada una de ellas. Dichos Consejos deberán reunirse conjuntamente por lo menos una vez al año.
+Cuando un área natural protegida esté ubicada en dos o más entidades federativas podrá constituirse un [Consejo](articulo-3o.md) Asesor por cada una de ellas. Dichos Consejos deberán reunirse conjuntamente por lo menos una vez al año.

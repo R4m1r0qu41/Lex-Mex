@@ -31,6 +31,6 @@ IV. Fomentar la prestación de servicios públicos especializados en materia de 
 
 V. Impulsar campañas permanentes de comunicación social que sensibilicen y prevengan la violencia de género, roles, estereotipos y cualquier otra conducta que genere discriminación en contra de las mujeres, y VI. Asignar presupuestos públicos con Perspectiva de Género.
 
-La Comisión Nacional y la Secretaría Ejecutiva, en sus respectivos ámbitos de competencia, a solicitud de las dependencias y entidades de la Administración Pública Federal brindarán el apoyo técnico para la elaboración y ejecución de las acciones referidas en el párrafo anterior.
+La [Comisión Nacional](articulo-2.md) y la [Secretaría Ejecutiva](articulo-2.md), en sus respectivos ámbitos de competencia, a solicitud de las dependencias y entidades de la Administración Pública Federal brindarán el apoyo técnico para la elaboración y ejecución de las acciones referidas en el párrafo anterior.
 
 Artículo reformado DOF 25-11-2013

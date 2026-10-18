@@ -15,7 +15,7 @@ source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 
 # Artículo 79
 
-La persona titular de la unidad administrativa a la que se encuentre adscrito el servidor público de carrera debe recabar el soporte documental del posible incumplimiento reiterado en que éste haya incurrido, y enviarlo a la DGRH. La DGRH, una vez que reciba el soporte documental a que se refiere el párrafo anterior, debe integrar el expediente respectivo y notificar, mediante un oficio fundado y motivado, el inicio del procedimiento al presunto responsable y le solicitará que, en un término no mayor a cinco días hábiles, rinda un informe de justificación al que podrá acompañar las pruebas que considere pertinentes.
+La persona titular de la unidad administrativa a la que se encuentre adscrito el servidor público de carrera debe recabar el soporte documental del posible incumplimiento reiterado en que éste haya incurrido, y enviarlo a la [DGRH](articulo-2.md). La DGRH, una vez que reciba el soporte documental a que se refiere el párrafo anterior, debe integrar el expediente respectivo y notificar, mediante un oficio fundado y motivado, el inicio del procedimiento al presunto responsable y le solicitará que, en un término no mayor a cinco días hábiles, rinda un informe de justificación al que podrá acompañar las pruebas que considere pertinentes.
 
 Una vez que se notifique al servidor público de carrera el inicio del procedimiento por incumplimiento reiterado de sus obligaciones, debe transcurrir un plazo de quince días hábiles para que el Comité Técnico de Profesionalización determine si son injustificadas las conductas respectivas.
 

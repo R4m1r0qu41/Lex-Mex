@@ -17,4 +17,4 @@ source_sha256: 70464807d63da08244e495f2ff0ac30b12b30119926b84cedc7930397fcb80ef
 
 # Artículo 226
 
-La Secretaría podrá requerir, por escrito, información adicional o faltante al particular dentro de un plazo que será igual a una tercera parte del plazo otorgado para resolver la solicitud, cuando aquélla sea de tipo administrativo y de las dos terceras partes, cuando sea de carácter técnico. En caso de que transcurran los plazos señalados en el párrafo anterior sin que medie solicitud de información, la Secretaría no podrá negar la autorización por falta de información.
+La [Secretaría](articulo-2o.md) podrá requerir, por escrito, información adicional o faltante al particular dentro de un plazo que será igual a una tercera parte del plazo otorgado para resolver la solicitud, cuando aquélla sea de tipo administrativo y de las dos terceras partes, cuando sea de carácter técnico. En caso de que transcurran los plazos señalados en el párrafo anterior sin que medie solicitud de información, la Secretaría no podrá negar la autorización por falta de información.

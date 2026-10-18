@@ -19,7 +19,7 @@ source_sha256: 667636f9e0ea65e72ac9d6d7b4d7563a183b75d0f140268a61929c74f5f88041
 
 La vigencia de los permisos para realizar la liberación experimental y en programa piloto será propuesta por el promovente con la justificación correspondiente, de conformidad con los artículos [16](articulo-16.md), fracción VIII, y [17](articulo-17.md), fracción IX, de este Reglamento.
 
-La Secretaría competente podrá limitar la vigencia propuesta considerando los elementos del expediente.
+La [Secretaría competente](articulo-2.md) podrá limitar la vigencia propuesta considerando los elementos del expediente.
 
 Tratándose del permiso para realizar la liberación comercial, la vigencia será indefinida.
 

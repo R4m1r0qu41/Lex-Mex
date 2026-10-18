@@ -17,7 +17,7 @@ source_sha256: b32c33fa4ed071dc8bea1ad69ce8510cdb05016967e9e4fcb60f10c6f2216628
 
 # Artículo 64
 
-El Tribunal contará con un Centro de Estudios Superiores en materia de Derecho Fiscal y Administrativo. Al frente del mismo habrá un Director General el cual será nombrado por el Pleno General, a propuesta del Presidente del Tribunal, y tendrá las atribuciones siguientes:
+El [Tribunal](articulo-2.md) contará con un Centro de Estudios Superiores en materia de Derecho Fiscal y Administrativo. Al frente del mismo habrá un Director General el cual será nombrado por el Pleno General, a propuesta del [Presidente del Tribunal](articulo-2.md), y tendrá las atribuciones siguientes:
 
 I. Promover la investigación jurídica en materia fiscal y administrativa, y
 

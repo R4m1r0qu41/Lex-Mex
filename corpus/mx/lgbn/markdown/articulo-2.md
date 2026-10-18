@@ -21,13 +21,13 @@ Para los efectos de esta Ley, se entiende por:
 
 I.- Dependencias: aquéllas que la Ley Orgánica de la Administración Pública Federal determina como tales incluyendo, en su caso, a sus órganos desconcentrados;
 
-II.- Dependencias administradoras de inmuebles: la Secretaría y las secretarías de Gobernación; Medio Ambiente y Recursos Naturales; Infraestructura, Comunicaciones y Transportes; Cultura, y Desarrollo Agrario, Territorial y Urbano, mismas que, en relación a los inmuebles federales de su competencia, ejercerán las facultades que esta Ley y las demás leyes les confieran. Las dependencias que tengan destinados a su servicio inmuebles federales no se considerarán como dependencias administradoras de inmuebles; Fracción reformada DOF 17-12-2015, 03-05-2023
+II.- [Dependencias](articulo-2.md) administradoras de inmuebles: la [Secretaría](articulo-2.md) y las secretarías de Gobernación; Medio Ambiente y Recursos Naturales; Infraestructura, Comunicaciones y Transportes; Cultura, y Desarrollo Agrario, Territorial y Urbano, mismas que, en relación a los inmuebles federales de su competencia, ejercerán las facultades que esta Ley y las demás leyes les confieran. Las dependencias que tengan destinados a su servicio inmuebles federales no se considerarán como dependencias administradoras de inmuebles; Fracción reformada DOF 17-12-2015, 03-05-2023
 
 III.- Entidades: las entidades paraestatales que con tal carácter determina la Ley Orgánica de la Administración Pública Federal;
 
 IV.- Federación: el orden de gobierno que en los términos de esta Ley ejerce sus facultades en materia de bienes nacionales, a través de los poderes Legislativo, Ejecutivo o Judicial;
 
-V.- Instituciones públicas: los órganos de los Poderes Legislativo y Judicial de la Federación y de las entidades federativas; las dependencias y entidades de las administraciones públicas Federal, de las entidades federativas y municipales; las unidades administrativas de la Presidencia de la República y las instituciones de carácter federal o local con autonomía otorgada por la Constitución Política de los Estados Unidos Mexicanos o por las Constituciones de las entidades federativas; Fracción reformada DOF 19-01-2018, 20-05-2021
+V.- Instituciones públicas: los órganos de los Poderes Legislativo y Judicial de la [Federación](articulo-2.md) y de las entidades federativas; las dependencias y entidades de las administraciones públicas Federal, de las entidades federativas y municipales; las unidades administrativas de la Presidencia de la República y las instituciones de carácter federal o local con autonomía otorgada por la Constitución Política de los Estados Unidos Mexicanos o por las Constituciones de las entidades federativas; Fracción reformada DOF 19-01-2018, 20-05-2021
 
 VI.- Instituciones destinatarias: las instituciones públicas que tienen destinados a su servicio inmuebles federales;
 

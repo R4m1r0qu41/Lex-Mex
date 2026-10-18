@@ -17,9 +17,9 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 111
 
-Sin perjuicio de la obligación de remediar el sitio a que se refiere esta Ley, la autoridad correspondiente podrá otorgar al infractor la opción a que se refieren el artículo 168 y el párrafo final del artículo [173](../../lgeepa/markdown/articulo-173.md) de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+Sin perjuicio de la obligación de remediar el sitio a que se refiere esta [Ley](articulo-5.md), la autoridad correspondiente podrá otorgar al infractor la opción a que se refieren el artículo 168 y el párrafo final del artículo [173](../../lgeepa/markdown/articulo-173.md) de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
 
-En el caso en que el infractor realice las medidas correctivas o de urgente aplicación o subsane las irregularidades en que hubiere incurrido previamente a que la Secretaría imponga una sanción, dicha autoridad deberá considerar tal situación como atenuante de la infracción cometida.
+En el caso en que el infractor realice las medidas correctivas o de urgente aplicación o subsane las irregularidades en que hubiere incurrido previamente a que la [Secretaría](articulo-5.md) imponga una sanción, dicha autoridad deberá considerar tal situación como atenuante de la infracción cometida.
 
 En la resolución administrativa correspondiente, se señalarán o, en su caso, adicionarán, las medidas que deberán llevarse a cabo para corregir las deficiencias o irregularidades observadas, el plazo otorgado al infractor para satisfacerlas y las sanciones a que se hubiere hecho acreedor. Párrafo adicionado DOF 22-05-2006
 

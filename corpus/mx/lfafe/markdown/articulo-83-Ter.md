@@ -17,9 +17,9 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 83 Ter
 
-A la persona que, sin el permiso correspondiente, posea un arma de las reservadas para el uso exclusivo de la Fuerza Armada Permanente, o sus piezas o componentes, se le sancionará con:
+A la persona que, sin el permiso correspondiente, posea un arma de las reservadas para el uso exclusivo de la [Fuerza Armada Permanente](articulo-1o-Bis.md), o sus piezas o componentes, se le sancionará con:
 
-I.- Prisión de tres meses a un año y multa de uno a diez veces el valor diario de la Unidad de Medida y Actualización, cuando se trate de las armas y accesorios comprendidos en los incisos i) y m) del artículo [11](articulo-11.md) de esta Ley;
+I.- Prisión de tres meses a un año y multa de uno a diez veces el valor diario de la Unidad de Medida y Actualización, cuando se trate de las armas y accesorios comprendidos en los incisos i) y m) del artículo [11](articulo-11.md) de esta [Ley](articulo-1o-Bis.md);
 
 II.- Prisión de cuatro a siete años y multa de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización, cuando se trate de las armas o sus piezas o componentes comprendidas en los incisos a) y b) del artículo [11](articulo-11.md) de esta Ley;
 

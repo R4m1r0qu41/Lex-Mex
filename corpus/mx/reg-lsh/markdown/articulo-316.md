@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 316
 
-En lo no previsto y en lo conducente, resultan aplicables supletoriamente las disposiciones contenidas en la Ley de Expropiación.
+En lo no previsto y en lo conducente, resultan aplicables supletoriamente las disposiciones contenidas en la [Ley](articulo-3.md) de Expropiación.

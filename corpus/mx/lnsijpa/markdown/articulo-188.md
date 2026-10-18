@@ -17,7 +17,7 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 188
 
-Contenido del Plan Individualizado de Ejecución El Plan Individualizado de Ejecución deberá especificar:
+Contenido del [Plan Individualizado de Ejecución](articulo-3.md) El Plan Individualizado de Ejecución deberá especificar:
 
 I. Los datos de identificación de la persona adolescente;
 
@@ -29,7 +29,7 @@ IV. La determinación de las actividades educativas, deportivas, culturales, lab
 
 V. Las condiciones de cumplimiento de cada uno de las actividades incluidas en él;
 
-VI. El Centro de Internamiento o Instituciones que coadyuvarán con la Autoridad Administrativa para el cumplimiento de la medida;
+VI. El Centro de Internamiento o Instituciones que coadyuvarán con la [Autoridad Administrativa](articulo-3.md) para el cumplimiento de la medida;
 
 VII. La asistencia especial que se brindará a la persona adolescente;
 

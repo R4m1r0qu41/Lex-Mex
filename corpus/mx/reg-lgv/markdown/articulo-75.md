@@ -17,7 +17,7 @@ source_sha256: 51d855a586ad7017a8d8f5c36819a2bd0d3d488f3f4b23594a729418a8b776b4
 
 # Artículo 75
 
-El titular de la unidad administrativa a cargo del Fondo a que se refiere el artículo [138](../../lgv/markdown/articulo-138.md) de la Ley, tiene las funciones y obligaciones siguientes:
+El titular de la unidad administrativa a cargo del [Fondo](articulo-3.md) a que se refiere el artículo [138](../../lgv/markdown/articulo-138.md) de la Ley, tiene las funciones y obligaciones siguientes:
 
 I. Ser el titular de la unidad responsable del fondo;
 

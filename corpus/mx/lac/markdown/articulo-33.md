@@ -21,4 +21,4 @@ Los menores de edad podrán viajar solos, bajo responsiva de sus padres o tutore
 
 Las personas concesionarias, asignatarias y permisionarias deberán adoptar las medidas necesarias que permitan atender de manera adecuada a las personas con discapacidad, así como a las de edad avanzada. Párrafo reformado DOF 03-05-2023
 
-Las personas concesionarias, asignatarias, permisionarias y operadoras aéreas deben realizar el traslado de órganos, tejidos y células humanas, de conformidad con las disposiciones técnico- administrativas que emita la Agencia Federal de Aviación Civil. Párrafo adicionado DOF 20-05-2021. Reformado DOF 03-05-2023
+Las personas concesionarias, asignatarias, permisionarias y operadoras aéreas deben realizar el traslado de órganos, tejidos y células humanas, de conformidad con las disposiciones técnico- administrativas que emita la [Agencia Federal de Aviación Civil](articulo-2.md). Párrafo adicionado DOF 20-05-2021. Reformado DOF 03-05-2023

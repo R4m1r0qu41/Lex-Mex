@@ -17,9 +17,9 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 59
 
-Las Entidades de Acreditación o las Autoridades Normalizadoras podrán cancelar la acreditación o la aprobación de los Organismos de Evaluación de la Conformidad, según corresponda cuando:
+Las [Entidades de Acreditación](articulo-4.md) o las [Autoridades Normalizadoras](articulo-4.md) podrán cancelar la acreditación o la aprobación de los [Organismos de Evaluación de la Conformidad](articulo-4.md), según corresponda cuando:
 
-I. Emitan documentos donde se hagan constar los resultados de la Evaluación de la Conformidad con información o datos erróneos o falsos;
+I. Emitan documentos donde se hagan constar los resultados de la [Evaluación de la Conformidad](articulo-4.md) con información o datos erróneos o falsos;
 
 II. Nieguen reiterada e injustificadamente el servicio que se les solicite;
 
@@ -33,7 +33,7 @@ VI. Alteren los documentos emitidos, declaren falsamente o que mediante inspecci
 
 VII. Entreguen al usuario, sellos sin realizar la evaluación de la conformidad, así como certificados, dictámenes de verificación e informe de resultados firmados y/o sellados en blanco; VIII. Proporcionen servicios de evaluación de la conformidad en materias para las que no cuenta con acreditación y aprobación de una Entidad de Acreditación o a la Autoridad Normalizadora, según corresponda, y
 
-IX. Emitan dictámenes de verificación, informes de resultados o certificados sin previa verificación conforme con lo establecido en las Normas Oficiales Mexicanas, Estándares, Normas Internacionales ahí referidos o de otras disposiciones legales.
+IX. Emitan dictámenes de verificación, informes de resultados o certificados sin previa verificación conforme con lo establecido en las [Normas Oficiales Mexicanas](articulo-4.md), [Estándares](articulo-4.md), [Normas Internacionales](articulo-4.md) ahí referidos o de otras disposiciones legales.
 
 El procedimiento de cancelación se sujetará a lo previsto en el Reglamento de esta Ley, con la participación que ahí se señale a cargo de las Autoridades Normalizadoras.
 

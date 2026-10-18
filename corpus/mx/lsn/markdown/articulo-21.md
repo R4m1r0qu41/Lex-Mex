@@ -17,4 +17,4 @@ source_sha256: 7b3cf7a0ff59f76503a97a535457c4a7dd3b1305e7a36f4fca82bd661eab1168
 
 # Artículo 21
 
-Todas las funciones que desempeñen los servidores públicos del Centro, serán consideradas de confianza y están obligados a mantener reserva de la información y de los asuntos a los que tengan acceso, por la naturaleza de sus funciones. Sólo podrán rendir testimonio por escrito.
+Todas las funciones que desempeñen los servidores públicos del [Centro](articulo-6.md), serán consideradas de confianza y están obligados a mantener reserva de la información y de los asuntos a los que tengan acceso, por la naturaleza de sus funciones. Sólo podrán rendir testimonio por escrito.

@@ -15,7 +15,7 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 # Artículo 137
 
-La solicitud que se formule a la Secretaría para que establezca bases de regulación tarifaria debe presentarse por escrito, en tres tantos, debiendo el solicitante:
+La solicitud que se formule a la [Secretaría](articulo-2.md) para que establezca bases de regulación tarifaria debe presentarse por escrito, en tres tantos, debiendo el solicitante:
 
 I. Señalar su nombre, denominación o razón social, domicilio y personas autorizadas para oír y recibir notificaciones, así como, de ser posible, número de teléfono y fax;
 

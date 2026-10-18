@@ -17,4 +17,4 @@ source_sha256: b3c906475b455176de73da17f4f93a73f295965dc9bcca854b48417c7d4d3cfc
 
 # Artículo 83
 
-La utilización confinada de OGMs y la importación de dichos organismos para esa actividad, podrá realizarse a partir del momento en que la comisión interna de bioseguridad o el importador, según se trate, presente el aviso respectivo a la Secretaría correspondiente.
+La utilización confinada de OGMs y la importación de dichos organismos para esa actividad, podrá realizarse a partir del momento en que la comisión interna de bioseguridad o el importador, según se trate, presente el aviso respectivo a la [Secretaría](articulo-3.md) correspondiente.

@@ -17,6 +17,6 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 348
 
-La persona en contra de quien se haya ordenado alguna de las medidas a que se refiere el artículo [344](articulo-344.md) de esta Ley, tendrá un plazo de diez días para presentar ante el Instituto las observaciones que tuviere respecto de dicha medida.
+La persona en contra de quien se haya ordenado alguna de las medidas a que se refiere el artículo [344](articulo-344.md) de esta [Ley](articulo-4.md), tendrá un plazo de diez días para presentar ante el [Instituto](articulo-4.md) las observaciones que tuviere respecto de dicha medida.
 
 El Instituto podrá modificar los términos de la medida que se haya adoptado tomando en consideración las observaciones que se le presenten.

@@ -17,4 +17,4 @@ source_sha256: 7df3d678efda2306b68d3c0f5ca0e3e92b9066d5f773128f4ae19cb26bf44fff
 
 # Artículo 16
 
-La SENER debe promover la implementación de mejores prácticas, nuevas tecnologías, Innovación y eficiencia energética en materia de Biocombustibles, para lo cual debe revisar y, en su caso, actualizar la regulación que emita en materia de Biocombustibles, al menos cada cinco años.
+La [SENER](articulo-3.md) debe promover la implementación de mejores prácticas, nuevas tecnologías, [Innovación](articulo-3.md) y eficiencia energética en materia de Biocombustibles, para lo cual debe revisar y, en su caso, actualizar la regulación que emita en materia de Biocombustibles, al menos cada cinco años.

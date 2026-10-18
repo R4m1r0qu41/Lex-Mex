@@ -17,4 +17,4 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 # Artículo 40
 
-Cuando el dictamen médico-psicológico basado en el Protocolo de Estambul o de cualquier otro peritaje practicado por la probable comisión del delito de tortura que involucre como Víctima a una mujer, una niña, un niño o un adolescente, preferentemente deben realizarse por peritos del sexo femenino o del sexo que la Víctima elija, para el caso de las mujeres, y de médicos pediatras y otros profesionales con especialidad en el tratamiento de niñas, niños o adolescentes, en el caso de estos últimos.
+Cuando el dictamen médico-psicológico basado en el [Protocolo de Estambul](articulo-5.md) o de cualquier otro peritaje practicado por la probable comisión del delito de tortura que involucre como [Víctima](articulo-5.md) a una mujer, una niña, un niño o un adolescente, preferentemente deben realizarse por peritos del sexo femenino o del sexo que la Víctima elija, para el caso de las mujeres, y de médicos pediatras y otros profesionales con especialidad en el tratamiento de niñas, niños o adolescentes, en el caso de estos últimos.

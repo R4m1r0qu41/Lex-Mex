@@ -17,4 +17,4 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 14
 
-Los servidores públicos de la Comisión Nacional serán responsables, en los términos de las disposiciones aplicables, por violación de la reserva o secreto a que se refiere el [artículo anterior](articulo-13.md).
+Los servidores públicos de la [Comisión Nacional](articulo-2o.md) serán responsables, en los términos de las disposiciones aplicables, por violación de la reserva o secreto a que se refiere el [artículo anterior](articulo-13.md).

@@ -17,4 +17,4 @@ source_sha256: 14cd17e37e96e766c8ab74950c71186d579c0ba6cc10ac9e8b06f6194af7d953
 
 # Artículo 31
 
-El Registro no tendrá carácter público, y se dividirá en las secciones que establezca su reglamento, mismo que determinará su organización, así como la información que deberá proporcionarse al propio Registro.
+El [Registro](articulo-2o.md) no tendrá carácter público, y se dividirá en las secciones que establezca su reglamento, mismo que determinará su organización, así como la información que deberá proporcionarse al propio Registro.

@@ -17,4 +17,4 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 78
 
-De conformidad con lo previsto en el artículo [34](../../larefam/markdown/articulo-34.md) de la Ley, las Direcciones elaborarán y remitirán a la Subsecretaría de la Defensa Nacional, las relaciones del personal que consideren como potencial para participar en la Promoción Superior.
+De conformidad con lo previsto en el artículo [34](../../larefam/markdown/articulo-34.md) de la Ley, las [Direcciones](articulo-5.md) elaborarán y remitirán a la Subsecretaría de la Defensa Nacional, las relaciones del personal que consideren como potencial para participar en la [Promoción](articulo-5.md) Superior.

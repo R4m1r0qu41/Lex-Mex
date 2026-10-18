@@ -17,6 +17,6 @@ source_sha256: 67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35
 
 # Artículo 11
 
-El otorgamiento de Permisos de Exploración implica la aceptación incondicional de la persona titular del Permiso, de los términos y condiciones contenidos en el mismo.
+El otorgamiento de Permisos de [Exploración](articulo-2.md) implica la aceptación incondicional de la persona titular del Permiso, de los términos y condiciones contenidos en el mismo.
 
-La persona titular del Permiso de Exploración tiene derecho de exclusividad para la Exploración del Área Geotérmica objeto del Permiso durante la vigencia de éste.
+La persona titular del [Permiso de Exploración](articulo-2.md) tiene derecho de exclusividad para la Exploración del [Área Geotérmica](articulo-2.md) objeto del Permiso durante la vigencia de éste.

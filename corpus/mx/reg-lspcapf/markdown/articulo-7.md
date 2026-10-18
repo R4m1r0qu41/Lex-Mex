@@ -15,7 +15,7 @@ source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 
 # Artículo 7
 
-Corresponde a la Secretaría, a través de la Unidad, programar, dirigir, coordinar, evaluar y dar seguimiento a la implementación, operación y funcionamiento del Sistema.
+Corresponde a la Secretaría, a través de la [Unidad](articulo-2.md), programar, dirigir, coordinar, evaluar y dar seguimiento a la implementación, operación y funcionamiento del Sistema.
 
 La Unidad es la responsable de la dirección y coordinación de los subsistemas de Planeación de los Recursos Humanos, de Ingreso, de Desarrollo Profesional, de Capacitación y Certificación de Capacidades, de Evaluación del Desempeño, de Separación, y de Control y Evaluación, en términos del Reglamento Interior de la Secretaría de la Función Pública y demás disposiciones aplicables.
 

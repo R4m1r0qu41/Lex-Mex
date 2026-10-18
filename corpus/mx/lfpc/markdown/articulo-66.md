@@ -27,6 +27,6 @@ IV. Respetarse el precio que se haya pactado originalmente en operaciones a plaz
 
 V. En caso de haberse efectuado la operación, el proveedor deberá enviar al consumidor al menos un estado de cuenta bimestral, por el medio que éste elija, que contenga la información relativa a cargos, pagos, intereses y comisiones, entre otros rubros, y Fracción adicionada DOF 04-02-2004. Reformada DOF 11-01-2018
 
-VI. Observar las disposiciones de carácter general en materia de despachos de cobranza, emitidos por la Procuraduría en términos de lo dispuesto por el artículo [17 Bis 4](../../ltosf/markdown/articulo-17-Bis-4.md) de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros. Fracción adicionada DOF 11-01-2018
+VI. Observar las disposiciones de carácter general en materia de despachos de cobranza, emitidos por la [Procuraduría](articulo-2.md) en términos de lo dispuesto por el artículo [17 Bis 4](../../ltosf/markdown/articulo-17-Bis-4.md) de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros. Fracción adicionada DOF 11-01-2018
 
 El incumplimiento a este precepto se sancionará conforme a lo dispuesto en el artículo [128](articulo-128.md), con excepción de la fracción VI que se sancionará conforme al artículo [128 TER](articulo-128-TER.md). Párrafo adicionado DOF 11-01-2018

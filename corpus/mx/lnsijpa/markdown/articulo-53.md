@@ -19,4 +19,4 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 Conservar la custodia Las madres adolescentes tendrán derecho a permanecer con sus hijas e hijos menores de tres años mientras dure la medida de internamiento, en lugares adecuados para ella y sus descendientes dentro del Centro de Internamiento correspondiente. Asimismo, tendrán derecho a recibir, de las autoridades competentes, los insumos y servicios necesarios para su desarrollo.
 
-Una vez que la hija o el hijo han cumplido los tres años, el Órgano Jurisdiccional determinará su situación jurídica, siempre tomando en cuenta la opinión de la Procuraduría de Protección competente para garantizar su interés superior.
+Una vez que la hija o el hijo han cumplido los tres años, el [Órgano Jurisdiccional](articulo-3.md) determinará su situación jurídica, siempre tomando en cuenta la opinión de la [Procuraduría de Protección](articulo-3.md) competente para garantizar su interés superior.

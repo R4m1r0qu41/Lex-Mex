@@ -15,6 +15,6 @@ source_sha256: cb15a70b51a87cff0f6d329d5e8a97617d71c955e46da65921037a77a83ca5f4
 
 # SEGUNDO
 
-Se abroga el Reglamento de la Ley del Impuesto Especial sobre Producción y Servicios publicado en el Diario Oficial de la Federación del 29 de febrero de 1984.
+Se abroga el Reglamento de la [Ley](articulo-1.md) del [Impuesto](articulo-1.md) Especial sobre Producción y Servicios publicado en el Diario Oficial de la Federación del 29 de febrero de 1984.
 
 A partir de la entrada en vigor de este Reglamento quedan sin efecto, en lo que se opongan al mismo, las disposiciones de carácter administrativo en materia del impuesto especial sobre producción y servicios.

@@ -27,7 +27,7 @@ I.- Localizar el inmueble más adecuado a sus necesidades, considerando las cara
 
 II.- Obtener de la autoridad competente la respectiva constancia de uso del suelo;
 
-III.- Contar con la disponibilidad presupuestaria y la autorización de inversión que, en su caso, emita la Secretaría, previamente a la celebración del contrato correspondiente; Fracción reformada DOF 03-05-2023
+III.- Contar con la disponibilidad presupuestaria y la autorización de inversión que, en su caso, emita la [Secretaría](articulo-2.md), previamente a la celebración del contrato correspondiente; Fracción reformada DOF 03-05-2023
 
 IV.- Obtener el plano topográfico del inmueble o, en su defecto, efectuar el levantamiento topográfico y el correspondiente plano;
 
@@ -39,4 +39,4 @@ Las dependencias o las unidades administrativas de la Presidencia de la Repúbli
 
 La Secretaría emitirá los lineamientos sobre el arrendamiento de inmuebles, para establecer, entre otros aspectos, el procedimiento de contratación, la justipreciación de rentas, la forma y términos en que deberá efectuarse el pago de las mismas y las obras, mejoras, adaptaciones e instalaciones de equipos especiales que podrán realizarse en los inmuebles, así como los procedimientos para desocuparlos o continuar su ocupación. Párrafo reformado DOF 03-05-2023
 
-Las dependencias o las unidades administrativas de la Presidencia de la República podrán celebrar, como arrendatarias, contratos de arrendamiento financiero con opción a compra. El ejercicio de esta opción será obligatorio, salvo que a juicio de la Secretaría no sea favorable a los intereses de la Federación. Para la celebración de estos contratos, se deberán atender las disposiciones presupuestarias aplicables y obtener la autorización previa de la Secretaría. Párrafo reformado DOF 20-05-2021, 03-05-2023
+Las dependencias o las unidades administrativas de la Presidencia de la República podrán celebrar, como arrendatarias, contratos de arrendamiento financiero con opción a compra. El ejercicio de esta opción será obligatorio, salvo que a juicio de la Secretaría no sea favorable a los intereses de la [Federación](articulo-2.md). Para la celebración de estos contratos, se deberán atender las disposiciones presupuestarias aplicables y obtener la autorización previa de la Secretaría. Párrafo reformado DOF 20-05-2021, 03-05-2023

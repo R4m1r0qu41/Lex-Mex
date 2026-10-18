@@ -1,1 +1,112 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lbogm:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lbogm",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lbogm:article:2",
+    "fraction": "I",
+    "start_char": 177,
+    "end_char": 247,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lbogm:term:mexico",
+    "term": "México",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lbogm",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lbogm:article:2",
+    "fraction": "II",
+    "start_char": 247,
+    "end_char": 286,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lbogm:term:nom",
+    "term": "NOM",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lbogm",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lbogm:article:2",
+    "fraction": "III",
+    "start_char": 286,
+    "end_char": 321,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lbogm:term:ogm-con-finalidades-de-salud-publica",
+    "term": "OGM con finalidades de salud pública",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lbogm",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lbogm:article:2",
+    "fraction": "IV",
+    "start_char": 321,
+    "end_char": 578,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lbogm:term:protocolo-de-cartagena",
+    "term": "Protocolo de Cartagena",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lbogm",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lbogm:article:2",
+    "fraction": "V",
+    "start_char": 578,
+    "end_char": 712,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lbogm:term:salud",
+    "term": "SALUD",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lbogm",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lbogm:article:2",
+    "fraction": "VI",
+    "start_char": 712,
+    "end_char": 748,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lbogm:term:secretaria-competente",
+    "term": "Secretaría competente",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lbogm",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lbogm:article:2",
+    "fraction": "VII",
+    "start_char": 748,
+    "end_char": 848,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lbogm:term:secretaria-ejecutiva",
+    "term": "Secretaría Ejecutiva",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lbogm",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lbogm:article:2",
+    "fraction": "VIII",
+    "start_char": 848,
+    "end_char": 916,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lbogm:term:solicitud-integrada",
+    "term": "Solicitud integrada",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lbogm",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lbogm:article:2",
+    "fraction": "IX",
+    "start_char": 916,
+    "end_char": 1030,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lbogm:term:utm",
+    "term": "UTM",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lbogm",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lbogm:article:2",
+    "fraction": "X",
+    "start_char": 1030,
+    "end_char": 1185,
+    "basis": "express_definition"
+  }
+]

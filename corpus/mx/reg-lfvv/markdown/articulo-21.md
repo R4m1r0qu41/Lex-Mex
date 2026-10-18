@@ -19,6 +19,6 @@ source_sha256: 23dcee090bbe0c4fb06c75d084cb65ce0b2e8f72a8d082e7059504412bde1614
 
 Los grupos de apoyo técnico funcionarán colegiadamente, se integrarán con un mínimo de tres y un máximo de siete miembros, y serán coordinados por el Secretario Técnico o por quien éste designe como su suplente.
 
-Uno de los integrantes de cada grupo deberá ser representante de los productores del género o especie de variedad vegetal de que se trate, siempre que sean especialistas en la materia. Será responsabilidad del Secretario Técnico la convocatoria a las organizaciones correspondientes para integrar el grupo de apoyo técnico respectivo. Si se propusieren dos o más candidatos, el Comité decidirá quién será el representante.
+Uno de los integrantes de cada grupo deberá ser representante de los productores del género o especie de variedad vegetal de que se trate, siempre que sean especialistas en la materia. Será responsabilidad del Secretario Técnico la convocatoria a las organizaciones correspondientes para integrar el grupo de apoyo técnico respectivo. Si se propusieren dos o más candidatos, el [Comité](articulo-2o.md) decidirá quién será el representante.
 
-Sólo podrán designar representantes las organizaciones de productores debidamente registradas ante la Secretaría.
+Sólo podrán designar representantes las organizaciones de productores debidamente registradas ante la [Secretaría](articulo-2o.md).

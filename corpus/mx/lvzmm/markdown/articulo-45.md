@@ -17,4 +17,4 @@ source_sha256: d9ffbbf8f19b54a93ff577abb1266e4be1316d935e79fad655242955fd80ff70
 
 # Artículo 45
 
-Las sanciones establecidas en la presente Ley, son independientes de la responsabilidad penal o civil en que se incurra conforme a otras disposiciones legales aplicables.
+Las sanciones establecidas en la presente [Ley](articulo-2.md), son independientes de la responsabilidad penal o civil en que se incurra conforme a otras disposiciones legales aplicables.

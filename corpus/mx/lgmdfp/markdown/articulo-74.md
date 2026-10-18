@@ -17,6 +17,6 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 74
 
-En el supuesto previsto en el artículo [66](articulo-66.md), la Fiscalía Especializada de la Fiscalía debe continuar sin interrupción la investigación de los delitos previstos en esta Ley, en términos de lo que establezca el Protocolo Homologado de Investigación y el Código Nacional de Procedimientos Penales.
+En el supuesto previsto en el artículo [66](articulo-66.md), la [Fiscalía Especializada](articulo-4.md) de la [Fiscalía](articulo-4.md) debe continuar sin interrupción la investigación de los delitos previstos en esta Ley, en términos de lo que establezca el [Protocolo Homologado de Investigación](articulo-4.md) y el Código Nacional de Procedimientos Penales.
 
 Artículo reformado DOF 20-05-2021

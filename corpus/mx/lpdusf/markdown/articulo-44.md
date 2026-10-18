@@ -17,7 +17,7 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 44
 
-El patrimonio de la Comisión Nacional está constituido por:
+El patrimonio de la [Comisión Nacional](articulo-2o.md) está constituido por:
 
 I. Sus propiedades, posesiones, derechos y obligaciones;
 

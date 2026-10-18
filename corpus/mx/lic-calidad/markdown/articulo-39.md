@@ -17,7 +17,7 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 39
 
-Las Autoridades Normalizadoras deberán ordenar, dentro de los 45 días naturales a partir de la notificación de la resolución definitiva del Comité Consultivo Nacional de Normalización, la publicación en el Diario Oficial de la Federación de las Normas Oficiales Mexicanas que expidan para que produzcan efectos jurídicos.
+Las [Autoridades Normalizadoras](articulo-4.md) deberán ordenar, dentro de los 45 días naturales a partir de la notificación de la resolución definitiva del Comité Consultivo Nacional de Normalización, la publicación en el Diario Oficial de la Federación de las [Normas Oficiales Mexicanas](articulo-4.md) que expidan para que produzcan efectos jurídicos.
 
 Las Autoridades Normalizadoras competentes determinarán la fecha de entrada en vigor de cada Norma Oficial Mexicana que expidan, que no podrá ser menor a ciento ochenta días naturales después de la fecha de su publicación en el Diario Oficial de la Federación. En ningún caso, la entrada en vigor de las Normas Oficiales Mexicanas podrá sujetarse o condicionarse al cumplimiento o actualización de actos o hechos adicionales, distintos al solo transcurso del tiempo.
 

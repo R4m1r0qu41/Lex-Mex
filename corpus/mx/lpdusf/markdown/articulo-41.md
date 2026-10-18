@@ -17,4 +17,4 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 41
 
-La Comisión Nacional contará con un órgano de control interno que será parte integrante de su estructura orgánica. Las acciones que lleve a cabo dicho órgano de control, tendrán por objeto apoyar la función directiva y promover el mejoramiento de gestión de la Comisión Nacional.
+La [Comisión Nacional](articulo-2o.md) contará con un órgano de control interno que será parte integrante de su estructura orgánica. Las acciones que lleve a cabo dicho órgano de control, tendrán por objeto apoyar la función directiva y promover el mejoramiento de gestión de la Comisión Nacional.

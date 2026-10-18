@@ -17,7 +17,7 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 6 ter
 
-Las Entidades Transferentes contarán con un plazo de 30 días naturales, contados a partir de la fecha de adjudicación o de que legalmente puedan disponer de los Bienes a que se refiere el [artículo anterior](articulo-6-bis.md), para llevar a cabo la Transferencia de los mismos al Instituto.
+Las [Entidades Transferentes](articulo-2o.md) contarán con un plazo de 30 días naturales, contados a partir de la fecha de adjudicación o de que legalmente puedan disponer de los [Bienes](articulo-2o.md) a que se refiere el [artículo anterior](articulo-6-bis.md), para llevar a cabo la [Transferencia](articulo-2o.md) de los mismos al [Instituto](articulo-2o.md).
 
 Una vez concluido el plazo a que se refiere al párrafo anterior, el Instituto, contará con un plazo de 540 días naturales, contados a partir de la primera publicación del evento comercial, para enajenar los Bienes o los derechos litigiosos sobre los mismos, de acuerdo con los procedimientos de enajenación establecidos en el Título Cuarto de la presente Ley. Si el Instituto excede los plazos establecidos en el presente artículo, deberá exponer las razones en los informes correspondientes.
 

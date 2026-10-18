@@ -25,7 +25,7 @@ II. Que cuenten con un sistema eficaz de alarma, evacuación y buen resguardo, p
 
 III. Que no estén situados en zonas de riesgo para la salud;
 
-IV. Que cuenten con áreas separadas de acuerdo con el género, la edad y la situación jurídica de las personas que cumplen una medida de internamiento, en los términos de esta Ley;
+IV. Que cuenten con áreas separadas de acuerdo con el género, la edad y la situación jurídica de las personas que cumplen una medida de internamiento, en los términos de esta [Ley](articulo-3.md);
 
 V. Que cuenten con agua limpia y potable suficientes para que las personas adolescentes puedan disponer de ella en todo momento;
 

@@ -17,4 +17,4 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 14
 
-Para la celebración de las reuniones, la convocatoria deberá ir acompañada del orden del día y de la documentación correspondiente, los cuales deberán ser enviados por el Secretario Técnico y recibidos por los miembros del Consejo, con una anticipación no menor a quince días.
+Para la celebración de las reuniones, la convocatoria deberá ir acompañada del orden del día y de la documentación correspondiente, los cuales deberán ser enviados por el Secretario Técnico y recibidos por los miembros del [Consejo](articulo-3o.md), con una anticipación no menor a quince días.

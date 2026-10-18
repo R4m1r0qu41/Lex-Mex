@@ -17,7 +17,7 @@ source_sha256: 667636f9e0ea65e72ac9d6d7b4d7563a183b75d0f140268a61929c74f5f88041
 
 # Artículo 57
 
-Las listas de OGMs a que se refieren los artículos 103 y 104 de la Ley serán expedidas por las Secretarías competentes y SALUD, a través de un aviso que se publicará en el Diario Oficial de la Federación. Las listas a que se refieren las fracciones I y II del artículo [103](../../lbogm/markdown/articulo-103.md) de la Ley, deberán publicarse de manera conjunta entre la SEMARNAT, SALUD y la SAGARPA.
+Las listas de OGMs a que se refieren los artículos 103 y 104 de la [Ley](articulo-2.md) serán expedidas por las [Secretarías competentes](articulo-2.md) y [SALUD](articulo-2.md), a través de un aviso que se publicará en el Diario Oficial de la Federación. Las listas a que se refieren las fracciones I y II del artículo [103](../../lbogm/markdown/articulo-103.md) de la Ley, deberán publicarse de manera conjunta entre la SEMARNAT, SALUD y la SAGARPA.
 
 Las listas a las que se refiere este artículo deberán ser publicadas dentro los primeros diez días hábiles del mes de febrero de cada año en el Diario Oficial de la Federación.
 

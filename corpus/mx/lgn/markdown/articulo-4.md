@@ -17,4 +17,4 @@ source_sha256: dfe63e9a5dca843a804e5d7878671e2899f2b088534d9ed9813e9878c20b12bd
 
 # Artículo 4
 
-La Guardia Nacional es una fuerza de seguridad pública, profesional, de carácter permanente e integrada por personal militar con formación policial, dependiente de la Secretaría. La Guardia Nacional podrá contar con el personal del Ejército, Fuerza Aérea y de confianza de carácter civil que sea necesario.
+La Guardia Nacional es una fuerza de seguridad pública, profesional, de carácter permanente e integrada por personal militar con formación policial, dependiente de la [Secretaría](articulo-2.md). La Guardia Nacional podrá contar con el personal del Ejército, Fuerza Aérea y de confianza de carácter civil que sea necesario.

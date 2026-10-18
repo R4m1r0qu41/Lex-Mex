@@ -15,4 +15,4 @@ source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 
 # SEGUNDO
 
-Los programas de ordenamiento ecológico regional o local en los que participe la Secretaría y cuya elaboración se hubiera iniciado antes de la publicación de este Reglamento, podrán integrarse al proceso de ordenamiento ecológico como se señala en el artículo [7](articulo-7o.md) del mismo.
+Los programas de ordenamiento ecológico regional o local en los que participe la [Secretaría](articulo-3o.md) y cuya elaboración se hubiera iniciado antes de la publicación de este [Reglamento](articulo-3o.md), podrán integrarse al proceso de ordenamiento ecológico como se señala en el artículo [7](articulo-7o.md) del mismo.

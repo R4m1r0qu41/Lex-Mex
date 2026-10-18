@@ -19,4 +19,4 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 El trámite, los requisitos y la vigencia de los documentos para acreditar la legal procedencia de los productos pesqueros y acuícolas, se establecerán en el reglamento de esta Ley.
 
-En el ejercicio de sus funciones, el SENASICA coadyuvará en la inspección y vigilancia del traslado de productos pesqueros vivos, frescos, enhielados o congelados provenientes de la pesca o la acuacultura, que se realice por vía terrestre, marítima o aérea en cualquier parte del territorio nacional.
+En el ejercicio de sus funciones, el [SENASICA](articulo-4o.md) coadyuvará en la inspección y vigilancia del traslado de productos pesqueros vivos, frescos, enhielados o congelados provenientes de la pesca o la acuacultura, que se realice por vía terrestre, marítima o aérea en cualquier parte del territorio nacional.

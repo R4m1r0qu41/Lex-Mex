@@ -23,7 +23,7 @@ I.- Permitir que la variedad vegetal se identifique claramente;
 
 II.- Distinguirse claramente de cualquier denominación que designe una variedad vegetal preexistente de la misma especie botánica o de una especie semejante, y no ser susceptible de inducir a error o de prestarse a confusión sobre las características, el valor o la identidad de la variedad vegetal o sobre la identidad del obtentor, y
 
-III.- Sujetarse, en lo conducente, a lo dispuesto por la Ley de la Propiedad Industrial.
+III.- Sujetarse, en lo conducente, a lo dispuesto por la [Ley](articulo-2o.md) de la Propiedad Industrial.
 
 El uso de la denominación no atentará contra derechos anteriores de terceros, incluso después de que haya expirado la protección.
 

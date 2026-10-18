@@ -17,7 +17,7 @@ source_sha256: 32822f50bb2de81185408f9450d61a49d678429c52c5379822a507c7027a5275
 
 # Artículo 81
 
-El Instituto, en su carácter de evaluador de la Política de Desarrollo Social y medición de pobreza, se regirá por los principios de independencia, objetividad, transparencia y rigor técnico y tendrá las atribuciones siguientes:
+El [Instituto](articulo-5.md), en su carácter de evaluador de la [Política de Desarrollo Social](articulo-5.md) y medición de pobreza, se regirá por los principios de independencia, objetividad, transparencia y rigor técnico y tendrá las atribuciones siguientes:
 
 I. Normar y coordinar la evaluación integral de la Política de Desarrollo Social y medición de la pobreza;
 

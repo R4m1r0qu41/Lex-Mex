@@ -17,7 +17,7 @@ source_sha256: 51d855a586ad7017a8d8f5c36819a2bd0d3d488f3f4b23594a729418a8b776b4
 
 # Artículo 35
 
-Corresponde al Comisionado Presidente la representación legal y administración de la Comisión Ejecutiva, así como dirigir el cumplimiento de las atribuciones de sus unidades administrativas. Además de las facultades que le confiere la Ley, ejercerá las siguientes:
+Corresponde al [Comisionado Presidente](articulo-3.md) la representación legal y administración de la Comisión Ejecutiva, así como dirigir el cumplimiento de las atribuciones de sus unidades administrativas. Además de las facultades que le confiere la Ley, ejercerá las siguientes:
 
 I. Ejercer las funciones de Secretariado Técnico del Sistema, de conformidad con lo dispuesto en la Ley, el presente Reglamento, las reglas de organización y funcionamiento del propio Sistema y demás disposiciones jurídicas aplicables.
 
@@ -43,4 +43,4 @@ X. Nombrar y remover a los servidores públicos de la Comisión Ejecutiva que oc
 
 XI. Conducir la relación de la Comisión Ejecutiva con las dependencias y entidades de la Administración Pública Federal, organismos constitucionales autónomos, los poderes legislativo y judicial, tanto federales como estatales y autoridades competentes de las entidades federativas y municipios;
 
-XII. Conducir los vínculos con los organismos internacionales e instituciones extranjeras en materias afines al ámbito de competencia de la Comisión Ejecutiva, así como autoridades de otros países, en coordinación con la Secretaría de Relaciones Exteriores, y XIII. Las demás que la Ley, el presente Reglamento, el Estatuto Orgánico, el Pleno de la Comisión Ejecutiva y otras disposiciones jurídicas aplicables le confieran.
+XII. Conducir los vínculos con los organismos internacionales e instituciones extranjeras en materias afines al ámbito de competencia de la Comisión Ejecutiva, así como autoridades de otros países, en coordinación con la Secretaría de Relaciones Exteriores, y XIII. Las demás que la Ley, el presente Reglamento, el [Estatuto Orgánico](articulo-3.md), el Pleno de la Comisión Ejecutiva y otras disposiciones jurídicas aplicables le confieran.

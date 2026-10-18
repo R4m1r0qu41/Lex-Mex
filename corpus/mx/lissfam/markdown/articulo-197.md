@@ -17,7 +17,7 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 197
 
-En tanto se llevan a cabo los trámites a que se refiere el artículo 196 de la Ley, el Instituto cubrirá con cargo al erario federal el 50% del haber o haber de retiro que percibía el militar fallecido a los familiares a quienes se les haya otorgado el beneficio por resolución de la Junta Directiva.
+En tanto se llevan a cabo los trámites a que se refiere el artículo 196 de la [Ley](articulo-4o.md), el [Instituto](articulo-4o.md) cubrirá con cargo al erario federal el 50% del haber o haber de retiro que percibía el militar fallecido a los familiares a quienes se les haya otorgado el beneficio por resolución de la [Junta](articulo-4o.md) Directiva.
 
 Al efectuarse la liquidación correspondiente, de la cantidad que debe percibirse, se descontará la cantidad que les ha sido cubierta.
 

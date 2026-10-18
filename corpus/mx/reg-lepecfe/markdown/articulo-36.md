@@ -17,4 +17,4 @@ source_sha256: 9478163ef6ab468edc2be8def3bf84efedd03da5b6c166fba0430bfcb6d8467c
 
 # Artículo 36
 
-Para efectos de lo dispuesto en el artículo [79](../../lepecfe/markdown/articulo-79.md) de la Ley, conforme a lo establecido en los lineamientos de austeridad en el gasto y uso de recursos, la persona titular de la Dirección General de la Comisión Federal de Electricidad debe proponer anualmente, para autorización del Consejo de Administración, programas de austeridad en el gasto y uso de recursos que contengan metas específicas, los cuales deben considerar los principios de austeridad previstos en la Ley.
+Para efectos de lo dispuesto en el artículo [79](../../lepecfe/markdown/articulo-79.md) de la [Ley](articulo-2.md), conforme a lo establecido en los lineamientos de austeridad en el gasto y uso de recursos, la persona titular de la Dirección General de la Comisión Federal de Electricidad debe proponer anualmente, para autorización del [Consejo de Administración](articulo-2.md), programas de austeridad en el gasto y uso de recursos que contengan metas específicas, los cuales deben considerar los principios de austeridad previstos en la Ley.

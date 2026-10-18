@@ -17,4 +17,4 @@ source_sha256: 4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f
 
 # Artículo 30
 
-Para los efectos del artículo [9](../../liva/markdown/articulo-9o.md)o., fracción VII, primer párrafo de la Ley, los dividendos pagados en acciones quedan comprendidos dentro de lo dispuesto en dicho párrafo.
+Para los efectos del artículo [9](../../liva/markdown/articulo-9o.md)o., fracción VII, primer párrafo de la [Ley](articulo-1.md), los dividendos pagados en acciones quedan comprendidos dentro de lo dispuesto en dicho párrafo.

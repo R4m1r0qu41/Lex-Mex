@@ -15,9 +15,9 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # NOVENO
 
-La instalación de la primera Junta de Gobierno a la que se refiere el artículo [16](articulo-16.md) deberá concretarse en los siguientes términos:
+La instalación de la primera [Junta](articulo-2o.md) de Gobierno a la que se refiere el artículo [16](articulo-16.md) deberá concretarse en los siguientes términos:
 
-I. La Secretaría, el Banco de México y las Comisiones Nacionales, deberán designar a sus representantes, y el Secretario de Hacienda y Crédito Público al Presidente de la Comisión;
+I. La [Secretaría](articulo-2o.md), el Banco de México y las [Comisiones Nacionales](articulo-2o.md), deberán designar a sus representantes, y el Secretario de Hacienda y Crédito Público al [Presidente](articulo-2o.md) de la Comisión;
 
 II. Los representantes a que se refiere la fracción anterior deberán emitir las bases sobre las cuales se procederá a la integración e instalación del Consejo Consultivo Nacional, dentro de un plazo no mayor de 30 días; y,
 

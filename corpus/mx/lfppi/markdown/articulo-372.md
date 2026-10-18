@@ -17,6 +17,6 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 372
 
-En los procedimientos de declaración administrativa de infracción, el Instituto buscará en todo momento conciliar los intereses de las personas involucradas, conforme a las reglas establecidas en el presente Capítulo.
+En los procedimientos de declaración administrativa de infracción, el [Instituto](articulo-4.md) buscará en todo momento conciliar los intereses de las personas involucradas, conforme a las reglas establecidas en el presente Capítulo.
 
 Artículo reformado DOF 03-04-2026

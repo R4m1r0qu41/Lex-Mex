@@ -17,6 +17,6 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 283
 
-El Instituto notificará a la persona solicitante sobre las oposiciones recibidas, otorgándole un plazo improrrogable de un mes, contado a partir de la fecha en que surta efectos la notificación respectiva, para manifestar lo que a su derecho convenga en relación con la oposición, observaciones u objeciones presentadas y, en su caso, presente pruebas.
+El [Instituto](articulo-4.md) notificará a la persona solicitante sobre las oposiciones recibidas, otorgándole un plazo improrrogable de un mes, contado a partir de la fecha en que surta efectos la notificación respectiva, para manifestar lo que a su derecho convenga en relación con la oposición, observaciones u objeciones presentadas y, en su caso, presente pruebas.
 
 Artículo reformado DOF 03-04-2026

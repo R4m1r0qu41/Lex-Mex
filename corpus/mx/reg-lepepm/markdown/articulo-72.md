@@ -17,4 +17,4 @@ source_sha256: 9080231242a59cbd78d30fb747864bc45cd63d3c4978f37086b01e45343f4244
 
 # Artículo 72
 
-El informe anual de la persona titular de la Dirección General de Petróleos Mexicanos sobre el desempeño de la empresa pública del Estado, a que se refiere el artículo [50](../../lepepm/markdown/articulo-50.md), fracción XIV de la Ley, debe entregarse a la Persona Comisaria a más tardar en el mes de julio de cada año.
+El informe anual de la persona titular de la Dirección General de Petróleos Mexicanos sobre el desempeño de la empresa pública del Estado, a que se refiere el artículo [50](../../lepepm/markdown/articulo-50.md), fracción XIV de la [Ley](articulo-2.md), debe entregarse a la [Persona Comisaria](articulo-2.md) a más tardar en el mes de julio de cada año.

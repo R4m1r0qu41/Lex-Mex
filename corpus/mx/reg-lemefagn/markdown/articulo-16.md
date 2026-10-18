@@ -17,7 +17,7 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 16
 
-Las personas discentes que causen baja de la Institución Educativa a la que pertenezcan con derecho a reingresar, serán asignados, conforme a las necesidades del servicio, a las unidades, dependencias o instalaciones militares en áreas afines a los estudios que estaban realizando, para lo cual se debe considerar lo siguiente:
+Las personas discentes que causen baja de la [Institución Educativa](articulo-3.md) a la que pertenezcan con derecho a reingresar, serán asignados, conforme a las necesidades del servicio, a las unidades, dependencias o instalaciones militares en áreas afines a los estudios que estaban realizando, para lo cual se debe considerar lo siguiente:
 
 I. El personal de oficiales y de tropa en calidad de discentes que cuenten con un plantel militar y causan baja conservarán el grado que tengan al causar baja, con excepción de las personas cadetes que causen baja de una escuela de formación de oficiales antes de concluir satisfactoriamente sus estudios, los cuales tendrán el grado siguiente:
 

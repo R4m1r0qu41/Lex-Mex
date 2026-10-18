@@ -17,7 +17,7 @@ source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 
 # Artículo 64
 
-El patrimonio del Consejo Nacional se integrará de la siguiente manera:
+El patrimonio del [Consejo Nacional](articulo-4.md) se integrará de la siguiente manera:
 
 I. Los bienes muebles e inmuebles que le asigne el Gobierno Federal, y los que adquiera por cualquier título legal, y
 

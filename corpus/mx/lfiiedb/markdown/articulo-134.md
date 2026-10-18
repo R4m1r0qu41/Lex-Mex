@@ -17,4 +17,4 @@ source_sha256: 7679afbbf32749e0c0bacab72644d41fc6ccdeeab3a2f25dfae8d26a065de01e
 
 # Artículo 134
 
-Lo relativo a la transparencia y al seguimiento de los recursos erogados con motivo de la presente Ley, deberá en todo momento ajustarse a lo preceptuado a la Ley General de Transparencia y Acceso a la Información Pública, Ley Federal de Presupuesto y Responsabilidad Hacendaria y demás disposiciones jurídicas aplicables.
+Lo relativo a la transparencia y al seguimiento de los recursos erogados con motivo de la presente [Ley](articulo-4.md), deberá en todo momento ajustarse a lo preceptuado a la Ley General de Transparencia y Acceso a la Información Pública, Ley Federal de Presupuesto y Responsabilidad Hacendaria y demás disposiciones jurídicas aplicables.

@@ -17,4 +17,4 @@ source_sha256: 2a105e5201b86ff5517ca1ef8d971224ea8c717f195fdd5fa28b916c7e622e56
 
 # Artículo 9
 
-El Centro deberá contar con un grupo multidisciplinario de servidores públicos, integrado por abogados, médicos, psicólogos, trabajadores sociales y demás profesionistas que sean necesarios, así como con elementos de la Policía Federal Ministerial adscritos a la Unidad.
+El [Centro](articulo-2.md) deberá contar con un grupo multidisciplinario de servidores públicos, integrado por abogados, médicos, psicólogos, trabajadores sociales y demás profesionistas que sean necesarios, así como con elementos de la Policía Federal Ministerial adscritos a la [Unidad](articulo-2.md).

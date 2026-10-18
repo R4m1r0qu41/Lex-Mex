@@ -17,4 +17,4 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 El servicio de suministro de combustible debe prestarse únicamente a las aeronaves y equipo de apoyo terrestre que se encuentren dentro del aeródromo.
 
-El prestador del servicio de suministro de combustible deberá llevar el control de la cantidad de combustible que suministre a los transportistas aéreos y operadores aéreos, a las aeronaves de Estado y vuelos en funciones de rescate, búsqueda y asistencia humanitaria u otro que autorice la Secretaría.
+El prestador del servicio de suministro de combustible deberá llevar el control de la cantidad de combustible que suministre a los transportistas aéreos y operadores aéreos, a las aeronaves de Estado y vuelos en funciones de rescate, búsqueda y asistencia humanitaria u otro que autorice la [Secretaría](articulo-2.md).

@@ -17,7 +17,7 @@ source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 
 # Artículo 97
 
-Cualquier persona podrá denunciar ante la Procuraduría las violaciones a las disposiciones de esta ley, la Ley Federal sobre Metrología y Normalización, normas oficiales mexicanas y demás disposiciones aplicables. En la denuncia se deberá indicar lo siguiente: Párrafo reformado DOF 04-02-2004
+Cualquier persona podrá denunciar ante la [Procuraduría](articulo-2.md) las violaciones a las disposiciones de esta ley, la Ley Federal sobre Metrología y Normalización, normas oficiales mexicanas y demás disposiciones aplicables. En la denuncia se deberá indicar lo siguiente: Párrafo reformado DOF 04-02-2004
 
 I. Nombre y domicilio del denunciado o, en su caso, datos para su ubicación; Fracción adicionada DOF 04-02-2004
 

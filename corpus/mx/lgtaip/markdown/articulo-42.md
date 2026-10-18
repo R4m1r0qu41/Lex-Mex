@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 42
 
-En caso que alguna área de los sujetos obligados se negara a colaborar con la Unidad de Transparencia, esta informará a su superior jerárquico para que le ordene realizar sin demora las acciones conducentes. Si persiste la negativa de colaboración, la Unidad de Transparencia lo hará del conocimiento de la autoridad competente, quien podrá iniciar el procedimiento de responsabilidad respectivo.
+En caso que alguna área de los sujetos obligados se negara a colaborar con la [Unidad de Transparencia](articulo-3.md), esta informará a su superior jerárquico para que le ordene realizar sin demora las acciones conducentes. Si persiste la negativa de colaboración, la Unidad de Transparencia lo hará del conocimiento de la autoridad competente, quien podrá iniciar el procedimiento de responsabilidad respectivo.

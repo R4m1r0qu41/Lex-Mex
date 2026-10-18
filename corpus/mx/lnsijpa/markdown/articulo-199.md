@@ -17,4 +17,4 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 199
 
-Inicio de cumplimiento de la medida La Autoridad Administrativa hará constar la fecha, hora y lugar en que se inicie el cumplimiento de la medida. En ese momento le informará personalmente a la persona adolescente los derechos y garantías que le asisten durante dicho cumplimiento, así como sus deberes y obligaciones.
+Inicio de cumplimiento de la medida La [Autoridad Administrativa](articulo-3.md) hará constar la fecha, hora y lugar en que se inicie el cumplimiento de la medida. En ese momento le informará personalmente a la persona adolescente los derechos y garantías que le asisten durante dicho cumplimiento, así como sus deberes y obligaciones.

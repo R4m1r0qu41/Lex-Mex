@@ -17,4 +17,4 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 115
 
-Los ingresos que se obtengan de las multas por infracciones a lo dispuesto en esta Ley y en las disposiciones que de ella se deriven, se destinarán a la integración de fondos para la remediación de sitios contaminados que representen un riesgo inminente al ambiente o a la salud.
+Los ingresos que se obtengan de las multas por infracciones a lo dispuesto en esta [Ley](articulo-5.md) y en las disposiciones que de ella se deriven, se destinarán a la integración de fondos para la remediación de sitios contaminados que representen un riesgo inminente al ambiente o a la salud.

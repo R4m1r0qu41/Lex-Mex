@@ -17,7 +17,7 @@ source_sha256: 8262a75eac7bfb608d4f48657ffb2714fe115d0b9694c42ac81624fd275bf5f6
 
 # Artículo 23
 
-Los Contratos preverán el pago mensual a favor del Estado Mexicano de la Cuota Contractual para la Fase Exploratoria, por la parte del Área Contractual que no se encuentre en la fase de producción, de conformidad con las siguientes cuotas:
+Los [Contratos](articulo-3.md) preverán el pago mensual a favor del Estado Mexicano de la [Cuota Contractual para la Fase Exploratoria](articulo-3.md), por la parte del Área Contractual que no se encuentre en la fase de producción, de conformidad con las siguientes cuotas:
 
 I. Durante los primeros 60 meses de vigencia del 1,150 pesos por kilómetro cuadrado Contrato
 

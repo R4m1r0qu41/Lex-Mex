@@ -17,4 +17,4 @@ source_sha256: 7679afbbf32749e0c0bacab72644d41fc6ccdeeab3a2f25dfae8d26a065de01e
 
 # Artículo 122
 
-La subcontratación de la ejecución de la obra o de la prestación de los servicios sólo podrá realizarse en los términos y condiciones establecidos en las bases y expresamente pactados por las partes y previa autorización de la Dependencia o Entidad contratante. En todo caso, el contratado será el único responsable ante la Dependencia o Entidad contratante.
+La subcontratación de la ejecución de la obra o de la prestación de los servicios sólo podrá realizarse en los términos y condiciones establecidos en las bases y expresamente pactados por las partes y previa autorización de la [Dependencia](articulo-4.md) o [Entidad](articulo-4.md) contratante. En todo caso, el contratado será el único responsable ante la Dependencia o Entidad contratante.

@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 139
 
-Las personas Permisionarias de Expendio al Público son responsables por la Guarda del producto desde su recepción en el Sistema hasta su entrega, así como de medir y conservar la calidad y cantidad del producto recibido y entregado en su Sistema, de conformidad con la Normatividad aplicable.
+Las personas Permisionarias de Expendio al Público son responsables por la [Guarda](articulo-3.md) del producto desde su recepción en el [Sistema](articulo-3.md) hasta su entrega, así como de medir y conservar la calidad y cantidad del producto recibido y entregado en su Sistema, de conformidad con la [Normatividad](articulo-3.md) aplicable.

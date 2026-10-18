@@ -15,4 +15,4 @@ source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 
 # Cuarto
 
-A partir de la entrada en vigor de esta Ley, todas las referencias en otros ordenamientos, normas, procedimientos, actos e instrumentos jurídicos y de política pública que hagan mención a la Ley de Ciencia y Tecnología o a la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología, se entenderán hechas a la Ley General en materia de Humanidades, Ciencias, Tecnologías e Innovación.
+A partir de la entrada en vigor de esta [Ley](articulo-4.md), todas las referencias en otros ordenamientos, normas, procedimientos, actos e instrumentos jurídicos y de política pública que hagan mención a la Ley de Ciencia y Tecnología o a la Ley Orgánica del [Consejo Nacional](articulo-4.md) de Ciencia y Tecnología, se entenderán hechas a la Ley General en materia de Humanidades, Ciencias, Tecnologías e Innovación.

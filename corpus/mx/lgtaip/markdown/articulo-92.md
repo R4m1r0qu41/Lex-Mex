@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 92
 
-Las Autoridades garantes pondrán a disposición de las personas particulares el formato de denuncia correspondiente, a efecto de que estos, si así lo deciden, puedan utilizarlos. Asimismo, las personas particulares podrán optar por un escrito libre, conforme a lo previsto en esta Ley.
+Las [Autoridades garantes](articulo-3.md) pondrán a disposición de las personas particulares el formato de denuncia correspondiente, a efecto de que estos, si así lo deciden, puedan utilizarlos. Asimismo, las personas particulares podrán optar por un escrito libre, conforme a lo previsto en esta [Ley](articulo-3.md).

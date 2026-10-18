@@ -17,4 +17,4 @@ source_sha256: 066103556290f57dca17504bd178aeb645dff97b3a5e05bf4925e9353204e064
 
 # Artículo 27
 
-La Comisión para el cumplimiento de su objeto, deberá promover y ejecutar medidas para garantizar que se cumplan a plenitud las acciones de atención y protección a Personas con la Condición del Espectro Autista, contenidas en los programas que derivan del Plan Nacional de Desarrollo o de la Ley, y cuya implementación de dichas acciones corresponde a los integrantes de la Comisión o a sus invitados permanentes, observando para ello las disposiciones de la Ley de Planeación.
+La Comisión para el cumplimiento de su objeto, deberá promover y ejecutar medidas para garantizar que se cumplan a plenitud las acciones de atención y protección a Personas con la Condición del Espectro Autista, contenidas en los programas que derivan del Plan Nacional de Desarrollo o de la [Ley](articulo-2.md), y cuya implementación de dichas acciones corresponde a los integrantes de la Comisión o a sus invitados permanentes, observando para ello las disposiciones de la Ley de Planeación.

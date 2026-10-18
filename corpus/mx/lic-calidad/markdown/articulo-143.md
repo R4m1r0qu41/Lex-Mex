@@ -17,7 +17,7 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 143
 
-De cada acto de Verificación o Vigilancia, según corresponda, se levantará un acta detallada sea cual fuere el resultado, la cual será firmada por el representante de la autoridad y por la persona a quien se practicó esta diligencia; la falta de firma de ésta no afectará su validez. En las actas se hará constar:
+De cada acto de [Verificación](articulo-4.md) o [Vigilancia](articulo-4.md), según corresponda, se levantará un acta detallada sea cual fuere el resultado, la cual será firmada por el representante de la autoridad y por la persona a quien se practicó esta diligencia; la falta de firma de ésta no afectará su validez. En las actas se hará constar:
 
 I. Nombre, denominación o razón social de la persona a quien se practicó el acto de Verificación o Vigilancia;
 

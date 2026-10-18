@@ -17,8 +17,8 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 18
 
-La Gaceta es el órgano oficial de publicación y notificación del Instituto. Los actos que consten en ella surtirán efectos en la fecha que en la propia Gaceta se indique o, en su caso, al día hábil siguiente de aquél en que se ponga en circulación. La fecha de puesta en circulación se hará constar en cada ejemplar.
+La [Gaceta](articulo-4.md) es el órgano oficial de publicación y notificación del [Instituto](articulo-4.md). Los actos que consten en ella surtirán efectos en la fecha que en la propia Gaceta se indique o, en su caso, al día hábil siguiente de aquél en que se ponga en circulación. La fecha de puesta en circulación se hará constar en cada ejemplar.
 
-Las resoluciones definitivas emitidas en los procedimientos de declaración administrativa previstos en esta Ley, así como aquellas resoluciones que modifiquen las condiciones o alcance de patentes o registros concedidos, deberán ser publicadas en la Gaceta al mes inmediato posterior a la fecha de su emisión.
+Las resoluciones definitivas emitidas en los procedimientos de declaración administrativa previstos en esta [Ley](articulo-4.md), así como aquellas resoluciones que modifiquen las condiciones o alcance de patentes o registros concedidos, deberán ser publicadas en la Gaceta al mes inmediato posterior a la fecha de su emisión.
 
 También podrá darse a conocer en ésta cualquier información de interés general sobre la propiedad industrial.

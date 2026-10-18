@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 14
 
-Para sesionar válidamente, el Consejo requiere de un quórum de la mitad más una de las personas que lo integran, incluyendo la presidencia. Los acuerdos del Consejo deben ser tomados por el voto favorable de la mayoría simple de sus integrantes presentes. En caso de empate, la persona titular de la presidencia del Consejo tiene voto de calidad.
+Para sesionar válidamente, el [Consejo](articulo-5.md) requiere de un quórum de la mitad más una de las personas que lo integran, incluyendo la presidencia. Los acuerdos del Consejo deben ser tomados por el voto favorable de la mayoría simple de sus integrantes presentes. En caso de empate, la persona titular de la presidencia del Consejo tiene voto de calidad.

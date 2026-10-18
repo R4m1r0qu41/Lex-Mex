@@ -17,4 +17,4 @@ source_sha256: 1405f36fd836ff74d059ebe7e50ae439cbb9e5e291a317514667f34a26f72a23
 
 # Artículo 85
 
-La persona Permisionaria de la actividad de Formulación, para poder realizar cualquier otra actividad establecida en el presente Título, debe contar con el permiso correspondiente.
+La persona [Permisionaria](articulo-5.md) de la actividad de [Formulación](articulo-5.md), para poder realizar cualquier otra actividad establecida en el presente Título, debe contar con el permiso correspondiente.

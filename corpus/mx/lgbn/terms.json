@@ -1,1 +1,101 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgbn:term:dependencias",
+    "term": "Dependencias",
+    "instrument_id": "urn:lex-mx:federal:statute:lgbn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgbn:article:2",
+    "fraction": "I",
+    "start_char": 48,
+    "end_char": 209,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgbn:term:dependencias-administradoras-de-inmuebles",
+    "term": "Dependencias administradoras de inmuebles",
+    "instrument_id": "urn:lex-mx:federal:statute:lgbn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgbn:article:2",
+    "fraction": "II",
+    "start_char": 209,
+    "end_char": 769,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgbn:term:entidades",
+    "term": "Entidades",
+    "instrument_id": "urn:lex-mx:federal:statute:lgbn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgbn:article:2",
+    "fraction": "III",
+    "start_char": 769,
+    "end_char": 900,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgbn:term:federacion",
+    "term": "Federación",
+    "instrument_id": "urn:lex-mx:federal:statute:lgbn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgbn:article:2",
+    "fraction": "IV",
+    "start_char": 900,
+    "end_char": 1085,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgbn:term:instituciones-publicas",
+    "term": "Instituciones públicas",
+    "instrument_id": "urn:lex-mx:federal:statute:lgbn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgbn:article:2",
+    "fraction": "V",
+    "start_char": 1085,
+    "end_char": 1624,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgbn:term:instituciones-destinatarias",
+    "term": "Instituciones destinatarias",
+    "instrument_id": "urn:lex-mx:federal:statute:lgbn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgbn:article:2",
+    "fraction": "VI",
+    "start_char": 1624,
+    "end_char": 1743,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgbn:term:inmueble-federal",
+    "term": "Inmueble federal",
+    "instrument_id": "urn:lex-mx:federal:statute:lgbn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgbn:article:2",
+    "fraction": "VII",
+    "start_char": 1743,
+    "end_char": 2089,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgbn:term:patrimonio-inmobiliario-federal-y-paraestatal",
+    "term": "Patrimonio inmobiliario federal y paraestatal",
+    "instrument_id": "urn:lex-mx:federal:statute:lgbn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgbn:article:2",
+    "fraction": "VIII",
+    "start_char": 2089,
+    "end_char": 2220,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgbn:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lgbn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgbn:article:2",
+    "fraction": "IX",
+    "start_char": 2220,
+    "end_char": 2317,
+    "basis": "express_definition"
+  }
+]

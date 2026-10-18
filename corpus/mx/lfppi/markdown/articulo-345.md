@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 345
 
-Para determinar la práctica de las medidas a que se refiere el [artículo anterior](articulo-344.md), el Instituto deberá realizar un análisis ponderado de la apariencia del buen derecho y la no contravención de disposiciones de orden público y que no se afecte al interés general; además tomará en consideración la gravedad de la infracción y la naturaleza de la medida solicitada, para lo cual requerirá a la persona solicitante que: Párrafo reformado DOF 03-04-2026
+Para determinar la práctica de las medidas a que se refiere el [artículo anterior](articulo-344.md), el [Instituto](articulo-4.md) deberá realizar un análisis ponderado de la apariencia del buen derecho y la no contravención de disposiciones de orden público y que no se afecte al interés general; además tomará en consideración la gravedad de la infracción y la naturaleza de la medida solicitada, para lo cual requerirá a la persona solicitante que: Párrafo reformado DOF 03-04-2026
 
 I.- Acredite ser la persona titular del derecho y cualquiera de los siguientes supuestos: Párrafo reformado DOF 03-04-2026
 
@@ -39,4 +39,4 @@ El Instituto podrá requerir a la persona solicitante la ampliación de la fianz
 
 Este requisito no será exigible cuando la imposición de medidas provisionales se adopte de oficio por parte del Instituto, y
 
-III.- Proporcione la información necesaria para la identificación de los bienes, servicios o establecimientos físicos o plataformas digitales con los cuales o en donde se comete la violación a los derechos que protege esta Ley.
+III.- Proporcione la información necesaria para la identificación de los bienes, servicios o establecimientos físicos o plataformas digitales con los cuales o en donde se comete la violación a los derechos que protege esta [Ley](articulo-4.md).

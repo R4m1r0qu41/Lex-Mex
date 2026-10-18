@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 264
 
-Para efectos de las notificaciones, citaciones, emplazamientos, requerimientos, visitas e informes, a que se refiere el presente Título, la Secretaría y la Comisión pueden auxiliarse de medios de comunicación electrónicos, de equipos, herramientas, sistemas y programas tecnológicos u otros que faciliten su práctica. Cuando se trate de las notificaciones y demás actuaciones administrativas practicadas por medios de comunicación electrónica, se debe contar con la aceptación expresa del interesado.
+Para efectos de las notificaciones, citaciones, emplazamientos, requerimientos, visitas e informes, a que se refiere el presente Título, la [Secretaría](articulo-3.md) y la [Comisión](articulo-3.md) pueden auxiliarse de medios de comunicación electrónicos, de equipos, herramientas, sistemas y programas tecnológicos u otros que faciliten su práctica. Cuando se trate de las notificaciones y demás actuaciones administrativas practicadas por medios de comunicación electrónica, se debe contar con la aceptación expresa del interesado.

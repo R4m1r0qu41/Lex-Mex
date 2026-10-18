@@ -17,4 +17,4 @@ source_sha256: 7679afbbf32749e0c0bacab72644d41fc6ccdeeab3a2f25dfae8d26a065de01e
 
 # Artículo 48
 
-La presentación de Proyectos para el desarrollo con bienestar sólo da derecho al interesado de que el Consejo los analice y evalúe.
+La presentación de [Proyectos para el desarrollo con bienestar](articulo-4.md) sólo da derecho al interesado de que el [Consejo](articulo-4.md) los analice y evalúe.

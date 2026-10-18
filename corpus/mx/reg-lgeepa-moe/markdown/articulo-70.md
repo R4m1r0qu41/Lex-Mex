@@ -17,7 +17,7 @@ source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 
 # Artículo 70
 
-La Secretaría promoverá que los comités a que hace referencia el artículo [68](articulo-68.md) cuenten con los siguientes:
+La [Secretaría](articulo-3o.md) promoverá que los comités a que hace referencia el artículo [68](articulo-68.md) cuenten con los siguientes:
 
 I. Un órgano ejecutivo responsable de la toma de decisiones para la instrumentación de las acciones, procedimientos, estrategias y programas del proceso de ordenamiento ecológico, y que estará integrado por las autoridades y miembros de la sociedad civil determinados en el convenio de coordinación respectivo; y
 

@@ -23,7 +23,7 @@ I.- Hacer constar en la solicitud en México, el país de origen de la prioridad
 
 II.- Exhibir una copia certificada de la prioridad reclamada y, en su caso, la traducción al español, a más tardar dentro del plazo de tres meses contados a partir de la presentación de la solicitud en México.
 
-De no cumplir los requisitos previstos por este artículo, el derecho de prioridad se tendrá como no reclamado, con excepción de lo dispuesto en el artículo [106](articulo-106.md), párrafo tercero, de esta Ley. Párrafo reformado DOF 03-04-2026
+De no cumplir los requisitos previstos por este artículo, el derecho de prioridad se tendrá como no reclamado, con excepción de lo dispuesto en el artículo [106](articulo-106.md), párrafo tercero, de esta [Ley](articulo-4.md). Párrafo reformado DOF 03-04-2026
 
 La persona solicitante podrá retirar un reclamo de prioridad efectuado en una solicitud internacional, en cualquier momento antes del vencimiento del plazo de treinta meses desde la fecha de prioridad, en términos de lo previsto por el Reglamento del Tratado de Cooperación en materia de Patentes. Lo anterior no constituirá la ampliación de un plazo que haya vencido, incluyendo el de la entrada en fase nacional de dicha solicitud. Párrafo reformado DOF 03-04-2026
 

@@ -17,6 +17,6 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 120
 
-Otorgada la patente, el Instituto procederá a su publicación en la Gaceta. Dicha publicación contendrá la información a que se refieren los artículos [94](articulo-94.md) fracción VI y [119](articulo-119.md) de esta Ley.
+Otorgada la patente, el [Instituto](articulo-4.md) procederá a su publicación en la [Gaceta](articulo-4.md). Dicha publicación contendrá la información a que se refieren los artículos [94](articulo-94.md) fracción VI y [119](articulo-119.md) de esta [Ley](articulo-4.md).
 
 Capítulo VII De la Renuncia, Rectificación y Limitación de Derechos

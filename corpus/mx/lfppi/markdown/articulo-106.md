@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 106
 
-En el examen de forma de la solicitud, el Instituto verificará que:
+En el examen de forma de la solicitud, el [Instituto](articulo-4.md) verificará que:
 
 I.- La forma oficial de la solicitud fue debidamente requisitada;
 
@@ -27,7 +27,7 @@ III.- Se acompañe del documento con el que se acredita la causahabiencia, cuand
 
 IV.- Se cumple con los requisitos relativos a la representación;
 
-V.- El reclamo del derecho de prioridad, en su caso, se efectúe dentro del plazo correspondiente, por quien tiene el derecho a reclamarlo y se cumplan los requisitos del artículo [42](articulo-42.md) de esta Ley, y
+V.- El reclamo del derecho de prioridad, en su caso, se efectúe dentro del plazo correspondiente, por quien tiene el derecho a reclamarlo y se cumplan los requisitos del artículo [42](articulo-42.md) de esta [Ley](articulo-4.md), y
 
 VI.- La solicitud contenga un apartado que, conforme a los requisitos materiales previstos en el Reglamento de esta Ley, pudiera ser considerado como:
 

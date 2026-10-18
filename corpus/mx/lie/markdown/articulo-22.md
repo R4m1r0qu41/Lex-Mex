@@ -17,4 +17,4 @@ source_sha256: 14cd17e37e96e766c8ab74950c71186d579c0ba6cc10ac9e8b06f6194af7d953
 
 # Artículo 22
 
-La Comisión podrá resolver sobre la inversión neutra que pretendan realizar sociedades financieras internacionales para el desarrollo en el capital social de sociedades, de acuerdo a los términos y condiciones que para el efecto se establezcan en el reglamento de esta Ley.
+La [Comisión](articulo-2o.md) podrá resolver sobre la inversión neutra que pretendan realizar sociedades financieras internacionales para el desarrollo en el capital social de sociedades, de acuerdo a los términos y condiciones que para el efecto se establezcan en el reglamento de esta Ley.

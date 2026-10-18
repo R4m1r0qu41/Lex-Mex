@@ -1,1 +1,123 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:term:centro-integral-de-evaluacion",
+    "term": "Centro Integral de Evaluación",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-larefagn",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:5",
+    "fraction": "I",
+    "start_char": 120,
+    "end_char": 312,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:term:concurso-de-seleccion",
+    "term": "Concurso de selección",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-larefagn",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:5",
+    "fraction": "II",
+    "start_char": 312,
+    "end_char": 544,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:term:comision-de-evaluacion",
+    "term": "Comisión de Evaluación",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-larefagn",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:5",
+    "fraction": "III",
+    "start_char": 544,
+    "end_char": 868,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
+    "term": "Direcciones",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-larefagn",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:5",
+    "fraction": "IV",
+    "start_char": 868,
+    "end_char": 1043,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:term:escalafones",
+    "term": "Escalafones",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-larefagn",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:5",
+    "fraction": "V",
+    "start_char": 1043,
+    "end_char": 1329,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:term:especialidad",
+    "term": "Especialidad",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-larefagn",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:5",
+    "fraction": "VI",
+    "start_char": 1329,
+    "end_char": 1487,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:term:especialista",
+    "term": "Especialista",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-larefagn",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:5",
+    "fraction": "VII",
+    "start_char": 1487,
+    "end_char": 1867,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:term:estado-mayor",
+    "term": "Estado Mayor",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-larefagn",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:5",
+    "fraction": "VIII",
+    "start_char": 1867,
+    "end_char": 1937,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:term:periodo-general-de-pruebas",
+    "term": "Período general de pruebas",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-larefagn",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:5",
+    "fraction": "IX",
+    "start_char": 1937,
+    "end_char": 2091,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:term:personal-potencial",
+    "term": "Personal Potencial",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-larefagn",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:5",
+    "fraction": "X",
+    "start_char": 2091,
+    "end_char": 2202,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:term:promocion",
+    "term": "Promoción",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-larefagn",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:5",
+    "fraction": "XI",
+    "start_char": 2202,
+    "end_char": 2505,
+    "basis": "express_definition"
+  }
+]

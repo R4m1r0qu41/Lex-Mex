@@ -17,4 +17,4 @@ source_sha256: 23dcee090bbe0c4fb06c75d084cb65ce0b2e8f72a8d082e7059504412bde1614
 
 # Artículo 50
 
-El Registro funcionará con arreglo al sistema, métodos y procedimientos que se especifiquen en los lineamientos que al efecto emita la Secretaría.
+El [Registro](articulo-2o.md) funcionará con arreglo al sistema, métodos y procedimientos que se especifiquen en los lineamientos que al efecto emita la [Secretaría](articulo-2o.md).

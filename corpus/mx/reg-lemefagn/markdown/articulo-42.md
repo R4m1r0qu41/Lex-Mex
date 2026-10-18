@@ -17,4 +17,4 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 42
 
-El Plan General es el instrumento de planeación institucional y constituye el documento rector de la educación que se imparte en el Sistema.
+El [Plan General](articulo-3.md) es el instrumento de planeación institucional y constituye el documento rector de la educación que se imparte en el [Sistema](articulo-3.md).

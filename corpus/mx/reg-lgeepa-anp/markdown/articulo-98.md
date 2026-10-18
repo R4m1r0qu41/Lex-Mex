@@ -17,4 +17,4 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 98
 
-Las solicitudes de autorizaciones deberán presentarse ante la Comisión, la cual analizará su procedencia e integrará el expediente que corresponda. El período de recepción de solicitudes para la prestación de servicios turísticos dentro de las áreas naturales protegidas, comprenderá de los meses de abril a septiembre de cada año, por lo que la Comisión no dará curso a ninguna solicitud presentada fuera de dicho período.
+Las solicitudes de autorizaciones deberán presentarse ante la [Comisión](articulo-3o.md), la cual analizará su procedencia e integrará el expediente que corresponda. El período de recepción de solicitudes para la prestación de servicios turísticos dentro de las áreas naturales protegidas, comprenderá de los meses de abril a septiembre de cada año, por lo que la Comisión no dará curso a ninguna solicitud presentada fuera de dicho período.

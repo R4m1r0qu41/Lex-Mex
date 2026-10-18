@@ -17,4 +17,4 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 36
 
-La Secretaría llevará a cabo la evaluación y seguimiento anual de las acciones que se deriven de los instrumentos que se suscriban. Asimismo, podrá modificar o dar por terminados dichos instrumentos cuando se presente alguna violación a las obligaciones contraídas.
+La [Secretaría](articulo-3o.md) llevará a cabo la evaluación y seguimiento anual de las acciones que se deriven de los instrumentos que se suscriban. Asimismo, podrá modificar o dar por terminados dichos instrumentos cuando se presente alguna violación a las obligaciones contraídas.

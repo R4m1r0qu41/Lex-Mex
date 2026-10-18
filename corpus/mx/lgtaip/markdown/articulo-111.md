@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 111
 
-Los Documentos clasificados serán debidamente custodiados y conservados, conforme a las disposiciones aplicables y, en su caso, a los lineamientos que expida el Sistema Nacional.
+Los [Documentos](articulo-3.md) clasificados serán debidamente custodiados y conservados, conforme a las disposiciones aplicables y, en su caso, a los lineamientos que expida el [Sistema Nacional](articulo-3.md).

@@ -17,4 +17,4 @@ source_sha256: b3c906475b455176de73da17f4f93a73f295965dc9bcca854b48417c7d4d3cfc
 
 # Artículo 113
 
-Para verificar y comprobar el cumplimiento de esta Ley, sus reglamentos y las normas oficiales mexicanas que de ella deriven, las Secretarías competentes podrán realizar por conducto de personal debidamente autorizado, los actos de inspección y vigilancia que consideren necesarios, por conducto de las Unidades Administrativas facultadas legalmente para ello, conforme a esta Ley.
+Para verificar y comprobar el cumplimiento de esta Ley, sus reglamentos y las normas oficiales mexicanas que de ella deriven, las [Secretarías](articulo-3.md) competentes podrán realizar por conducto de personal debidamente autorizado, los actos de inspección y vigilancia que consideren necesarios, por conducto de las Unidades Administrativas facultadas legalmente para ello, conforme a esta Ley.

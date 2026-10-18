@@ -17,7 +17,7 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 67
 
-La Comisión Nacional correrá traslado a la Institución Financiera acerca de la reclamación presentada en su contra, dentro de los ocho días hábiles siguientes a la fecha de recepción de la misma, anexando todos los elementos que el Usuario hubiera aportado, y señalando en el mismo acto la fecha para la celebración de la audiencia de conciliación, con apercibimiento de sanción pecuniaria en caso de no asistir. Párrafo reformado DOF 12-05-2005
+La [Comisión Nacional](articulo-2o.md) correrá traslado a la [Institución Financiera](articulo-2o.md) acerca de la reclamación presentada en su contra, dentro de los ocho días hábiles siguientes a la fecha de recepción de la misma, anexando todos los elementos que el [Usuario](articulo-2o.md) hubiera aportado, y señalando en el mismo acto la fecha para la celebración de la audiencia de conciliación, con apercibimiento de sanción pecuniaria en caso de no asistir. Párrafo reformado DOF 12-05-2005
 
 La Comisión Nacional podrá en todo momento solicitar a la Institución Financiera información, documentación y todos los elementos de convicción que considere pertinentes, siempre y cuando estén directamente relacionados con la reclamación. Párrafo adicionado DOF 12-05-2005. Reformado DOF 25-06-2009
 

@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 27
 
-Las estrategias, líneas de acción, programas y proyectos previstos en los Instrumentos de Planeación del Sector Energético constituyen las políticas públicas de la Secretaría para alcanzar las metas establecidas en la planeación vinculante del Sector Energético.
+Las estrategias, líneas de acción, programas y proyectos previstos en los [Instrumentos de Planeación del Sector Energético](articulo-5.md) constituyen las políticas públicas de la [Secretaría](articulo-5.md) para alcanzar las metas establecidas en la planeación vinculante del Sector Energético.

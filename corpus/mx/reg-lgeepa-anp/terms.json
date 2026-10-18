@@ -1,1 +1,156 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:administracion",
+    "term": "Administración",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:3",
+    "fraction": "I",
+    "start_char": 182,
+    "end_char": 465,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:aprovechamiento",
+    "term": "Aprovechamiento",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:3",
+    "fraction": "II",
+    "start_char": 465,
+    "end_char": 564,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:autoconsumo",
+    "term": "Autoconsumo",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:3",
+    "fraction": "III",
+    "start_char": 564,
+    "end_char": 898,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:capacidad-de-carga",
+    "term": "Capacidad de carga",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:3",
+    "fraction": "IV",
+    "start_char": 898,
+    "end_char": 1162,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:comision",
+    "term": "Comisión",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:3",
+    "fraction": "V",
+    "start_char": 1162,
+    "end_char": 1226,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:consejo",
+    "term": "Consejo",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:3",
+    "fraction": "VI",
+    "start_char": 1226,
+    "end_char": 1289,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:3",
+    "fraction": "VII",
+    "start_char": 1289,
+    "end_char": 1367,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:limite-de-cambio-aceptable",
+    "term": "Límite de cambio aceptable",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:3",
+    "fraction": "VIII",
+    "start_char": 1367,
+    "end_char": 2034,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:manejo",
+    "term": "Manejo",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:3",
+    "fraction": "IX",
+    "start_char": 2034,
+    "end_char": 2429,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:monitoreo",
+    "term": "Monitoreo",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:3",
+    "fraction": "X",
+    "start_char": 2429,
+    "end_char": 2528,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:programa-de-manejo",
+    "term": "Programa de manejo",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:3",
+    "fraction": "XI",
+    "start_char": 2528,
+    "end_char": 2737,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:registro",
+    "term": "Registro",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:3",
+    "fraction": "XII",
+    "start_char": 2737,
+    "end_char": 2803,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:3",
+    "fraction": "XIII",
+    "start_char": 2803,
+    "end_char": 2883,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:term:zona-de-influencia",
+    "term": "Zona de influencia",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:3",
+    "fraction": "XIV",
+    "start_char": 2883,
+    "end_char": 3052,
+    "basis": "express_definition"
+  }
+]

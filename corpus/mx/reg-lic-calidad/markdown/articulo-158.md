@@ -17,4 +17,4 @@ source_sha256: d23aedc9ffdb09b9202311f03023241da20445cb45aea855b37bfd9685768861
 
 # Artículo 158
 
-Los Sujetos Facultados para Estandarizar, Organismos Nacionales de Estandarización y Autoridades Normalizadoras, deben entregar a la Secretaría los Estándares y proyectos que elaboraron. Cuando los Estándares elaborados por los Sujetos Facultados para Estandarizar u Organismos Nacionales de Estandarización sean de observancia obligatoria por estar referenciados, total o parcialmente, en alguna disposición administrativa de carácter general, el contenido referenciado debe ser de carácter público y difundido en la PLATIICA.
+Los Sujetos Facultados para Estandarizar, Organismos Nacionales de Estandarización y Autoridades Normalizadoras, deben entregar a la Secretaría los Estándares y proyectos que elaboraron. Cuando los Estándares elaborados por los Sujetos Facultados para Estandarizar u Organismos Nacionales de Estandarización sean de observancia obligatoria por estar referenciados, total o parcialmente, en alguna disposición administrativa de carácter general, el contenido referenciado debe ser de carácter público y difundido en la [PLATIICA](articulo-2.md).

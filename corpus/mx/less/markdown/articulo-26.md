@@ -17,6 +17,6 @@ source_sha256: 74f2c47c7a9282194b2972ec1366352d94f03042c6d0c7f10efde018cb9e3bfb
 
 # Artículo 26
 
-El Consejo podrá recibir la colaboración de otras dependencias y entidades de la Administración Pública Federal, de los gobiernos estatales y municipales, de organizaciones civiles y de particulares.
+El [Consejo](articulo-5o.md) podrá recibir la colaboración de otras dependencias y entidades de la Administración Pública Federal, de los gobiernos estatales y municipales, de organizaciones civiles y de particulares.
 
 Artículo reformado DOF 11-06-2013

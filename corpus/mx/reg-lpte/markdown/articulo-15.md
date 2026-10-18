@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 15
 
-El Consejo debe funcionar conforme a los Lineamientos de Operación que al efecto apruebe y se publiquen en el Diario Oficial de la Federación, a los cuales también se debe sujetar para el desarrollo de sus sesiones.
+El [Consejo](articulo-5.md) debe funcionar conforme a los [Lineamientos de Operación](articulo-5.md) que al efecto apruebe y se publiquen en el Diario Oficial de la Federación, a los cuales también se debe sujetar para el desarrollo de sus sesiones.

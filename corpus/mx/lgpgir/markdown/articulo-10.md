@@ -19,9 +19,9 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 Los municipios tienen a su cargo las funciones de manejo integral de residuos sólidos urbanos, que consisten en la recolección, traslado, tratamiento, y su disposición final, conforme a las siguientes facultades:
 
-I. Formular, por sí o en coordinación con las entidades federativas, y con la participación de representantes de los distintos sectores sociales, los Programas Municipales para la Prevención y Gestión Integral de los Residuos Sólidos Urbanos, los cuales deberán observar lo dispuesto en el Programa Estatal para la Prevención y Gestión Integral de los Residuos correspondiente;
+I. Formular, por sí o en coordinación con las entidades federativas, y con la participación de representantes de los distintos sectores sociales, los [Programas](articulo-5.md) Municipales para la Prevención y Gestión Integral de los [Residuos Sólidos Urbanos](articulo-5.md), los cuales deberán observar lo dispuesto en el Programa Estatal para la Prevención y Gestión Integral de los [Residuos](articulo-5.md) correspondiente;
 
-II. Emitir los reglamentos y demás disposiciones jurídico-administrativas de observancia general dentro de sus jurisdicciones respectivas, a fin de dar cumplimiento a lo establecido en la presente Ley y en las disposiciones legales que emitan las entidades federativas correspondientes;
+II. Emitir los reglamentos y demás disposiciones jurídico-administrativas de observancia general dentro de sus jurisdicciones respectivas, a fin de dar cumplimiento a lo establecido en la presente [Ley](articulo-5.md) y en las disposiciones legales que emitan las entidades federativas correspondientes;
 
 III. Controlar los residuos sólidos urbanos y, en coordinación con las entidades federativas, aprovechar la materia orgánica en procesos de generación de energía; Fracción reformada DOF 07-01-2021
 

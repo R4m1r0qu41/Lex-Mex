@@ -15,4 +15,4 @@ source_sha256: 4195c0740ad46978a8b0f2d43f0ac6d77e46b0216bd6f756950b1a050044ce98
 
 # Cuarto
 
-Los integrantes del Sistema de Vigilancia y Protección del Espacio Aéreo Mexicano deben armonizar sus respectivos reglamentos, manuales de organización, de funcionamiento y de procedimientos, con el objeto de cumplir con la Ley de Protección del Espacio Aéreo Mexicano y con el presente reglamento.
+Los integrantes del Sistema de [Vigilancia](articulo-4.md) y Protección del Espacio Aéreo Mexicano deben armonizar sus respectivos reglamentos, manuales de organización, de funcionamiento y de procedimientos, con el objeto de cumplir con la [Ley](articulo-4.md) de Protección del Espacio Aéreo Mexicano y con el presente reglamento.

@@ -21,7 +21,7 @@ La información que deberá adjuntarse a la solicitud de permiso de liberación 
 
 I. Caracterización del OGM;
 
-a) Identificador único del evento de transformación, de organismos internacionales de los que México sea parte, cuando exista;
+a) Identificador único del evento de transformación, de organismos internacionales de los que [México](articulo-2.md) sea parte, cuando exista;
 
 b) Especies relacionadas con el OGM y distribución de éstas en México;
 
@@ -63,7 +63,7 @@ II. Identificación de la zona o zonas donde se pretenda liberar el OGM:
 
 a) Superficie total del polígono o polígonos donde se realizará la liberación;
 
-b) Ubicación, en coordenadas UTM, del polígono o polígonos donde se realizará la liberación, y
+b) Ubicación, en coordenadas [UTM](articulo-2.md), del polígono o polígonos donde se realizará la liberación, y
 
 c) Descripción de los polígonos donde se realizará la liberación y de las zonas vecinas a éstos según las características de diseminación del OGM de que se trate:
 
@@ -71,7 +71,7 @@ c) Descripción de los polígonos donde se realizará la liberación y de las zo
 
 2. Descripción geográfica, y 3. Plano de ubicación señalando las principales vías de comunicación.
 
-III. Estudio de los posibles riesgos que la liberación de los OGMs pudiera generar al medio ambiente y a la diversidad biológica a los que se refiere el artículo [42](../../lbogm/markdown/articulo-42.md), fracción III, de la Ley. Contendrá, además de lo dispuesto en el artículo [62](../../lbogm/markdown/articulo-62.md) de la Ley, la información siguiente:
+III. Estudio de los posibles riesgos que la liberación de los OGMs pudiera generar al medio ambiente y a la diversidad biológica a los que se refiere el artículo [42](../../lbogm/markdown/articulo-42.md), fracción III, de la [Ley](articulo-2.md). Contendrá, además de lo dispuesto en el artículo [62](../../lbogm/markdown/articulo-62.md) de la Ley, la información siguiente:
 
 a) Estabilidad de la modificación genética del OGM;
 
@@ -91,7 +91,7 @@ h) Existencia potencial de flujo génico del OGM a especies relacionadas;
 
 i) Bibliografía reciente de referencia a los datos presentados, y
 
-j) Las demás que establezcan las NOM que deriven de la Ley.
+j) Las demás que establezcan las [NOM](articulo-2.md) que deriven de la Ley.
 
 IV. Medidas y procedimientos de monitoreo de la actividad y de bioseguridad a llevar a cabo:
 
@@ -125,13 +125,13 @@ b) Efectos de la liberación sobre la flora y la fauna;
 
 c) Estudio de los posibles riesgos de la liberación de los OGMs presentado en el país de origen, cuando haya sido requerido por la autoridad de otro país y se tenga acceso a él. La descripción de las medidas y procedimientos de monitoreo de bioseguridad establecidos deberá incluirse en el estudio.
 
-d) En caso de que el promovente lo considere adecuado, otros estudios o consideraciones en los que se analicen tanto la contribución del OGM a la solución de problemas ambientales, sociales, productivos o de otra índole, así como las consideraciones socioeconómicas que existan respecto de la liberación de OGMs al ambiente. Estos análisis deberán estar sustentados en evidencias científicas y técnicas, en los antecedentes sobre uso, producción y consumo, y podrán ser considerados por las Secretarías competentes como elementos adicionales para decidir sobre la liberación experimental al ambiente, y consecuentes liberaciones al ambiente en programa piloto y comercial, respectivamente, del OGM de que se trata, y
+d) En caso de que el promovente lo considere adecuado, otros estudios o consideraciones en los que se analicen tanto la contribución del OGM a la solución de problemas ambientales, sociales, productivos o de otra índole, así como las consideraciones socioeconómicas que existan respecto de la liberación de OGMs al ambiente. Estos análisis deberán estar sustentados en evidencias científicas y técnicas, en los antecedentes sobre uso, producción y consumo, y podrán ser considerados por las [Secretarías competentes](articulo-2.md) como elementos adicionales para decidir sobre la liberación experimental al ambiente, y consecuentes liberaciones al ambiente en programa piloto y comercial, respectivamente, del OGM de que se trata, y
 
 e) En caso de importación copia legalizada o apostillada de las autorizaciones o documentación oficial que acredite que el OGM está permitido conforme a la legislación del país de origen, al menos para su liberación experimental, traducida al español. La Secretaría competente, de considerarlo necesario, podrá requerir copia simple de la legislación aplicable vigente en el país de exportación traducida al español.
 
 VI. Consideraciones sobre los riesgos de las alternativas tecnológicas con que se cuente para contender con el problema para el cual se construyó el OGM, en caso de que tales alternativas existan;
 
-VII. Número de autorización expedida por SALUD cuando el OGM tenga finalidades de salud pública o se destine a la biorremediación. En caso de no contar con la autorización al momento de presentar la solicitud de permiso, el promovente podrá presentarla posteriormente anexa a un escrito libre, en el que se indique el número de autorización;
+VII. Número de autorización expedida por [SALUD](articulo-2.md) cuando el OGM tenga finalidades de salud pública o se destine a la biorremediación. En caso de no contar con la autorización al momento de presentar la solicitud de permiso, el promovente podrá presentarla posteriormente anexa a un escrito libre, en el que se indique el número de autorización;
 
 VIII. La propuesta de vigencia para el permiso y los elementos empleados para determinarla, y
 

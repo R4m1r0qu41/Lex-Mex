@@ -25,11 +25,11 @@ II. Rendir los informes previos y justificados cuando los actos reclamados en lo
 
 III. Dictar las medidas que exijan el orden, buen funcionamiento y la disciplina de la Sala, exigir que se guarde el respeto y consideración debidos e imponer las correspondientes correcciones disciplinarias;
 
-IV. Enviar al Presidente del Tribunal las excusas, excitativas de justicia y recusaciones de los Magistrados que integren la Sala;
+IV. Enviar al [Presidente del Tribunal](articulo-2.md) las excusas, excitativas de justicia y recusaciones de los Magistrados que integren la Sala;
 
 V. Realizar los actos jurídicos o administrativos de la Sala que no requieran la intervención de los otros dos Magistrados que la integran;
 
-VI. Proporcionar oportunamente a la Junta de Gobierno y Administración del Tribunal los informes sobre el funcionamiento de la Sala; VII. Dirigir la oficialía de partes y los archivos de la Sala;
+VI. Proporcionar oportunamente a la [Junta](articulo-2.md) de Gobierno y Administración del [Tribunal](articulo-2.md) los informes sobre el funcionamiento de la Sala; VII. Dirigir la oficialía de partes y los archivos de la Sala;
 
 VIII. Verificar que en la Sala se utilice y mantenga actualizado el sistema de control y seguimiento de juicios, así como el Sistema de Justicia en Línea del Tribunal;
 

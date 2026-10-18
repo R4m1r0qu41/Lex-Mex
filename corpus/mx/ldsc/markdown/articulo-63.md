@@ -17,4 +17,4 @@ source_sha256: 45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80
 
 # Artículo 63
 
-La Secretaría propondrá un mecanismo de apoyos por servicios ambientales que desarrollen sistemas agroforestales con cultivos de café bajo sombra.
+La [Secretaría](articulo-3.md) propondrá un mecanismo de apoyos por servicios ambientales que desarrollen sistemas agroforestales con cultivos de café bajo sombra.

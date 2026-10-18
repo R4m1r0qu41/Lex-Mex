@@ -15,6 +15,6 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 # Artículo 128
 
-Una vez que la Secretaría autorice las reglas de operación, el administrador aeroportuario las debe presentar ante los miembros del comité de operación y horarios quienes las darán a conocer a todo el personal que realice actividades dentro del aeródromo civil, quedando éstos obligados a su cumplimiento.
+Una vez que la [Secretaría](articulo-2.md) autorice las reglas de operación, el administrador aeroportuario las debe presentar ante los miembros del comité de operación y horarios quienes las darán a conocer a todo el personal que realice actividades dentro del aeródromo civil, quedando éstos obligados a su cumplimiento.
 
 Capítulo III Del comité de operación y horarios

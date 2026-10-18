@@ -17,4 +17,4 @@ source_sha256: 9080231242a59cbd78d30fb747864bc45cd63d3c4978f37086b01e45343f4244
 
 # Artículo 81
 
-Para efectos de lo dispuesto en el artículo [91](../../lepepm/markdown/articulo-91.md), último párrafo de la Ley, Petróleos Mexicanos debe coordinarse con las autoridades competentes, así como con los fedatarios públicos que intervienen en las operaciones traslativas de dominio respecto de bienes inmuebles de su propiedad, conforme a las disposiciones jurídicas aplicables.
+Para efectos de lo dispuesto en el artículo [91](../../lepepm/markdown/articulo-91.md), último párrafo de la [Ley](articulo-2.md), Petróleos Mexicanos debe coordinarse con las autoridades competentes, así como con los fedatarios públicos que intervienen en las operaciones traslativas de dominio respecto de bienes inmuebles de su propiedad, conforme a las disposiciones jurídicas aplicables.

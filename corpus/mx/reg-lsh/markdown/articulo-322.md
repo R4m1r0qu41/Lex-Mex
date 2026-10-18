@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 322
 
-Las personas interventoras designadas deben contar con capacidad técnica y experiencia en el manejo y control de las instalaciones intervenidas, y pueden ser personas físicas o morales del sector público, privado o social, siempre que acrediten los requisitos que se establezcan en la Normatividad que se emita para tal efecto.
+Las personas interventoras designadas deben contar con capacidad técnica y experiencia en el manejo y control de las instalaciones intervenidas, y pueden ser personas físicas o morales del sector público, privado o social, siempre que acrediten los requisitos que se establezcan en la [Normatividad](articulo-3.md) que se emita para tal efecto.

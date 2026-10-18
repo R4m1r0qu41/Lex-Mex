@@ -17,4 +17,4 @@ source_sha256: c1870db657a6564bbeb692a1778472db811a920626822de553ff5ca5194f95b4
 
 # Artículo 11
 
-La Estrategia Nacional de Transición Energética debe de incluir las metas para Producción de Biocombustibles.
+La [Estrategia](articulo-2.md) Nacional de Transición Energética debe de incluir las metas para [Producción](articulo-2.md) de [Biocombustibles](articulo-2.md).

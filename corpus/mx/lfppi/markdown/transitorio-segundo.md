@@ -15,4 +15,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # SEGUNDO
 
-Se abroga la Ley de la Propiedad Industrial, publicada originalmente como Ley de Fomento y Protección de la Propiedad Industrial en el Diario Oficial de la Federación el 27 de junio de 1991, así como sus posteriores reformas y adiciones. No obstante, ésta se seguirá aplicando exclusivamente respecto a los delitos cometidos durante su vigencia, sin perjuicio de lo dispuesto por el Código Penal Federal.
+Se abroga la [Ley](articulo-4.md) de la Propiedad Industrial, publicada originalmente como Ley de Fomento y Protección de la Propiedad Industrial en el [Diario Oficial](articulo-4.md) de la Federación el 27 de junio de 1991, así como sus posteriores reformas y adiciones. No obstante, ésta se seguirá aplicando exclusivamente respecto a los delitos cometidos durante su vigencia, sin perjuicio de lo dispuesto por el Código Penal Federal.

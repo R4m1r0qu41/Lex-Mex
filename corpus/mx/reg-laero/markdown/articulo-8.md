@@ -15,7 +15,7 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 # Artículo 8
 
-Las sociedades mercantiles con participación mayoritaria de los gobiernos de las entidades federativas o de los municipios, constituidas para administrar, operar, explotar y, en su caso, construir un aeropuerto, deben presentar ante la Secretaría solicitud por escrito que precise lo siguiente:
+Las sociedades mercantiles con participación mayoritaria de los gobiernos de las entidades federativas o de los municipios, constituidas para administrar, operar, explotar y, en su caso, construir un aeropuerto, deben presentar ante la [Secretaría](articulo-2.md) solicitud por escrito que precise lo siguiente:
 
 I. La denominación o razón social de la sociedad mercantil respectiva, y la fecha de constitución de la misma;
 

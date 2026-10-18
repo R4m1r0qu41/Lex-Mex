@@ -19,21 +19,21 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 Para efectos de esta Ley se entiende por:
 
-I. Banco Nacional de Datos Forenses: a la herramienta del Sistema Nacional que concentra las bases de datos de las Entidades Federativas y de la Federación; así como, otras bases de datos que tengan información forense relevante para la búsqueda e identificación de Personas Desaparecidas y No Localizadas;
+I. Banco Nacional de Datos Forenses: a la herramienta del [Sistema Nacional](articulo-4.md) que concentra las bases de datos de las [Entidades Federativas](articulo-4.md) y de la Federación; así como, otras bases de datos que tengan información forense relevante para la búsqueda e identificación de [Personas Desaparecidas](articulo-4.md) y No Localizadas;
 
 I Bis. Autoridades: a las dependencias, sus órganos administrativos desconcentrados, y entidades de la Administración Pública Federal; los poderes legislativo y judicial, sus respectivos homólogos de las Entidades Federativas, municipios y demarcaciones territoriales de la Ciudad de México, así como los organismos con autonomía constitucional; Fracción adicionada DOF 13-05-2022. Reformada DOF 16-07-2025
 
 I Ter. Plataforma Única de Identidad: a la herramienta para la consulta, validación y gestión de las Claves Únicas de Registro de Población, a que se refiere la Ley General de Población; Fracción adicionada DOF 16-07-2025
 
-I Quater. Registros Administrativos: a las bases de datos de cualquier Autoridad que integren datos biométricos o identificativos de las personas, con motivo de los trámites o servicios que brindan; Fracción adicionada DOF 16-07-2025
+I Quater. Registros Administrativos: a las bases de datos de cualquier [Autoridad](articulo-4.md) que integren datos biométricos o identificativos de las personas, con motivo de los trámites o servicios que brindan; Fracción adicionada DOF 16-07-2025
 
 I Quinquies. Clave Única de Registro de Población: a la fuente única de identidad de las personas, que permite asociar a una persona con cualquier registro en poder de Autoridades y particulares de cualquier naturaleza, que servirá como mecanismo para el cruce, alerta y consulta de la información de sus bases de datos, para el cumplimiento del objeto de la presente Ley General; Fracción adicionada DOF 16-07-2025
 
-I Sexies. Centro Nacional: al Centro Nacional de Identificación Humana adscrito orgánicamente a la Comisión Nacional de Búsqueda; Fracción adicionada DOF 16-07-2025
+I Sexies. Centro Nacional: al Centro Nacional de Identificación Humana adscrito orgánicamente a la [Comisión Nacional de Búsqueda](articulo-4.md); Fracción adicionada DOF 16-07-2025
 
-I Septies. Base Nacional de Carpetas de Investigación: al registro que contiene los datos de las carpetas de investigación o averiguaciones previas iniciadas por los delitos de desaparición forzada de personas y de desaparición cometida por particulares, la cual será operada por el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública y actualizada en tiempo real por las Fiscalías Especializadas; Fracción adicionada DOF 16-07-2025
+I Septies. Base Nacional de Carpetas de Investigación: al registro que contiene los datos de las carpetas de investigación o averiguaciones previas iniciadas por los delitos de desaparición forzada de personas y de desaparición cometida por particulares, la cual será operada por el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública y actualizada en tiempo real por las [Fiscalías Especializadas](articulo-4.md); Fracción adicionada DOF 16-07-2025
 
-II. Comisión Ejecutiva: a la Comisión Ejecutiva de Atención a Víctimas;
+II. Comisión Ejecutiva: a la Comisión Ejecutiva de Atención a [Víctimas](articulo-4.md);
 
 III. Comisiones de Víctimas: a las Comisiones de Atención a Víctimas de las Entidades Federativas;
 
@@ -59,7 +59,7 @@ IX Ter. Nombre Social: es el vocativo por el cual se reconoce, identifica y alud
 
 X. Fiscalía: a la Fiscalía General de la República; Fracción reformada DOF 20-05-2021
 
-XI. Fiscalías Especializadas: a la Fiscalía Especializada de la Fiscalía y de las Procuradurías o Fiscalías Locales cuyo objeto es la investigación y persecución de los delitos de Desaparición Forzada de Personas y la cometida por particulares; Fracción reformada DOF 20-05-2021
+XI. Fiscalías Especializadas: a la [Fiscalía](articulo-4.md) Especializada de la Fiscalía y de las Procuradurías o [Fiscalías Locales](articulo-4.md) cuyo objeto es la investigación y persecución de los delitos de Desaparición Forzada de Personas y la cometida por particulares; Fracción reformada DOF 20-05-2021
 
 XII. Grupo de Búsqueda: al grupo de personas especializadas en materia de búsqueda de personas de la Comisión Nacional de Búsqueda, que realizarán la búsqueda de campo, entre otras; Fracción reformada DOF 20-05-2021
 
@@ -81,7 +81,7 @@ XX. Fiscalías Locales: a las Fiscalías o Procuradurías Generales de Justicia 
 
 XXI. Registro Nacional: al Registro Nacional de Personas Desaparecidas y No Localizadas, que concentra la información de los registros de Personas Desaparecidas y No Localizadas, tanto de la Federación como de las Entidades Federativas;
 
-XXII. Registro Nacional de Personas Fallecidas y No Identificadas: al Registro Nacional de Personas Fallecidas No Identificadas y No Reclamadas que concentra la información forense procesada de la localización, recuperación, identificación y destino final de los restos tanto de la Federación como de las Entidades Federativas, cualquiera que sea su origen;
+XXII. [Registro Nacional](articulo-4.md) de Personas Fallecidas y No Identificadas: al Registro Nacional de Personas Fallecidas No Identificadas y No Reclamadas que concentra la información forense procesada de la localización, recuperación, identificación y destino final de los restos tanto de la Federación como de las Entidades Federativas, cualquiera que sea su origen;
 
 XXIII. Registro Nacional de Fosas: al Registro Nacional de Fosas Comunes y de Fosas Clandestinas, que concentra la información respecto de las fosas comunes que existen en los cementerios y panteones de todos los municipios del país, así como de las fosas clandestinas que la Fiscalía y las Fiscalías y Procuradurías Locales localicen; Fracción reformada DOF 20-05-2021
 
@@ -91,7 +91,7 @@ XXV. Reporte: a la comunicación mediante la cual la autoridad competente conoce
 
 XXVI. Sistema Nacional: al Sistema Nacional de Búsqueda de Personas;
 
-XXVI Bis. Ficha de Búsqueda: documento oficial generado por la autoridad competente al momento de recibirse una Noticia, Reporte o denuncia de desaparición o no localización de una persona, que contiene los datos esenciales para su identificación, búsqueda, localización e investigación; Fracción adicionada DOF 16-07-2025
+XXVI Bis. Ficha de Búsqueda: documento oficial generado por la autoridad competente al momento de recibirse una [Noticia](articulo-4.md), [Reporte](articulo-4.md) o denuncia de desaparición o no localización de una persona, que contiene los datos esenciales para su identificación, búsqueda, localización e investigación; Fracción adicionada DOF 16-07-2025
 
 XXVII. Tratados: a los Tratados Internacionales de los que el Estado Mexicano sea parte, y
 

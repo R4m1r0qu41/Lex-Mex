@@ -17,6 +17,6 @@ source_sha256: 7b3cf7a0ff59f76503a97a535457c4a7dd3b1305e7a36f4fca82bd661eab1168
 
 # Artículo 35
 
-La solicitud a que se refiere el [artículo anterior](articulo-34.md) sólo procederá cuando se esté en uno de los supuestos que se contemplan en el artículo [5](articulo-5.md) de la presente Ley. En ningún otro caso podrá autorizarse al Centro la intervención de comunicaciones privadas.
+La solicitud a que se refiere el [artículo anterior](articulo-34.md) sólo procederá cuando se esté en uno de los supuestos que se contemplan en el artículo [5](articulo-5.md) de la presente Ley. En ningún otro caso podrá autorizarse al [Centro](articulo-6.md) la intervención de comunicaciones privadas.
 
 El Poder Judicial de la Federación, de acuerdo con su ley orgánica, determinará los juzgados que deban conocer de las solicitudes que en materia de Seguridad Nacional se presenten para intervenir comunicaciones privadas.

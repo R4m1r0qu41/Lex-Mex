@@ -17,7 +17,7 @@ source_sha256: e77eafda71a4c270f2e75d11f08ebb858e5d09675b4700f56382894b4624bdec
 
 # Artículo 48
 
-El médico responsable de un Banco de Sangre, deberá realizar o supervisar las actividades siguientes:
+El médico responsable de un [Banco de Sangre](articulo-6o.md), deberá realizar o supervisar las actividades siguientes:
 
 I.- Contabilizar la sangre y componentes que se obtengan de la misma.
 

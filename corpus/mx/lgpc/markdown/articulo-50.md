@@ -17,4 +17,4 @@ source_sha256: d8dd1de3627b899bb4faf31c2812c3d5f14f7108be153d5aa8dd549b9136184a
 
 # Artículo 50
 
-La estructura, organización y operación de la Escuela Nacional de Protección Civil se especificará en las disposiciones normativas que para tal efecto emita la Coordinación Nacional.
+La estructura, organización y operación de la Escuela Nacional de [Protección Civil](articulo-2.md) se especificará en las disposiciones normativas que para tal efecto emita la [Coordinación Nacional](articulo-2.md).

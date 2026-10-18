@@ -19,4 +19,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 El registro de los diseños industriales tendrá una vigencia de cinco años, a partir de la fecha de presentación de la solicitud, renovable por períodos sucesivos de la misma duración hasta un máximo de veinticinco años, sujeto al pago de las tarifas correspondientes.
 
-Los registros de diseños industriales y sus renovaciones deberán ser publicados en la Gaceta.
+Los registros de diseños industriales y sus renovaciones deberán ser publicados en la [Gaceta](articulo-4.md).

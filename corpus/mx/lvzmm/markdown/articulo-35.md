@@ -17,4 +17,4 @@ source_sha256: d9ffbbf8f19b54a93ff577abb1266e4be1316d935e79fad655242955fd80ff70
 
 # Artículo 35
 
-Son medidas preventivas las adoptadas por la Secretaría en las zonas marinas mexicanas, tendentes a evitar la contaminación o alteración del ambiente marino o afectación a la salud humana, a consecuencia de vertimiento de desechos y otras materias, incluyendo la suspensión del vertimiento.
+Son medidas preventivas las adoptadas por la [Secretaría](articulo-2.md) en las zonas marinas mexicanas, tendentes a evitar la contaminación o alteración del ambiente marino o afectación a la salud humana, a consecuencia de vertimiento de desechos y otras materias, incluyendo la suspensión del vertimiento.

@@ -17,7 +17,7 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 127
 
-La Comisión podrá aplicar las siguientes sanciones:
+La [Comisión](articulo-3.md) podrá aplicar las siguientes sanciones:
 
 I. Ordenar las medidas necesarias para la corrección o supresión de la práctica monopólica o concentración ilícita de que se trate; Fracción reformada DOF 16-07-2025
 
@@ -25,7 +25,7 @@ II. Ordenar la desconcentración parcial o total de una concentración ilícita 
 
 III. Multa de una a doscientas mil veces el valor diario de la Unidad de Medida y Actualización, por haber declarado falsamente o entregado información falsa a la Comisión, con independencia de la responsabilidad penal en que se incurra; Fracción reformada DOF 16-07-2025
 
-IV. Multa de una vez el valor diario de la Unidad de Medida y Actualización y hasta por el equivalente al quince por ciento de los ingresos del Agente Económico, por haber incurrido en una práctica monopólica absoluta, con independencia de la responsabilidad civil y penal en que se incurra; Fracción reformada DOF 16-07-2025
+IV. Multa de una vez el valor diario de la Unidad de Medida y Actualización y hasta por el equivalente al quince por ciento de los ingresos del [Agente Económico](articulo-3.md), por haber incurrido en una práctica monopólica absoluta, con independencia de la responsabilidad civil y penal en que se incurra; Fracción reformada DOF 16-07-2025
 
 V. Multa de una vez el valor diario de la Unidad de Medida y Actualización y hasta por el equivalente al diez por ciento de los ingresos del Agente Económico, por haber incurrido en una práctica monopólica relativa, con independencia de la responsabilidad civil en que se incurra; Fracción reformada DOF 16-07-2025
 

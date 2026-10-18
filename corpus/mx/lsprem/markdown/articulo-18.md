@@ -17,7 +17,7 @@ source_sha256: bcc21844355854fe331c842c21436d721d6c2856b5c5986715fe39f4a845b317
 
 # Artículo 18
 
-Para ser Presidente del Sistema se requiere:
+Para ser [Presidente](articulo-2.md) del [Sistema](articulo-2.md) se requiere:
 
 I. Ser ciudadano mexicano y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
@@ -29,6 +29,6 @@ IV. No desempeñar, ni haber desempeñado, cargos de dirección nacional o estat
 
 V. No haber sido condenado por delitos patrimoniales, ni inhabilitado para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público;
 
-VI. No desempeñar, ni haber desempeñado, cargo de Secretario de Estado, Procurador o Fiscal General de la República, Gobernador, Jefe de Gobierno de la Ciudad de México, diputado o senador en el año anterior a su nombramiento, y Fracción reformada DOF 20-05-2021
+VI. No desempeñar, ni haber desempeñado, cargo de [Secretario](articulo-2.md) de Estado, Procurador o Fiscal General de la República, Gobernador, Jefe de Gobierno de la Ciudad de México, diputado o senador en el año anterior a su nombramiento, y Fracción reformada DOF 20-05-2021
 
 VII. No haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión.

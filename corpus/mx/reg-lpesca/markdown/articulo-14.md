@@ -17,7 +17,7 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # Artículo 14
 
-El traslado de los productos pesqueros vivos, frescos, enhielados o congelados provenientes de la pesca o acuacultura, entre las entidades federativas con litoral marino y de cualquiera de ellas hacia las entidades federativas del interior, deberá efectuarse amparado con la Guía de Pesca que expida la Secretaría.
+El traslado de los productos pesqueros vivos, frescos, enhielados o congelados provenientes de la pesca o acuacultura, entre las entidades federativas con litoral marino y de cualquiera de ellas hacia las entidades federativas del interior, deberá efectuarse amparado con la Guía de Pesca que expida la [Secretaría](articulo-2o.md).
 
 Se exceptúa del uso de la Guía de Pesca el traslado de los productos:
 

@@ -17,4 +17,4 @@ source_sha256: c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41
 
 # Artículo 48
 
-Las personas solicitantes que reúnen los requisitos solicitados por el Fondo para la Transición Energética y el Aprovechamiento Sustentable de la Energía, pueden ser sujetas para recibir recursos conforme a lo señalado en esta Ley y a sus reglas de operación. Las entidades públicas deben tener preferencia de asignación de recursos y, en segundo término, las entidades privadas con órganos de gobierno cuya decisión mayoritaria sea del sector público y organizaciones sin fines de lucro.
+Las personas solicitantes que reúnen los requisitos solicitados por el Fondo para la [Transición Energética](articulo-3.md) y el [Aprovechamiento Sustentable de la Energía](articulo-3.md), pueden ser sujetas para recibir recursos conforme a lo señalado en esta [Ley](articulo-3.md) y a sus reglas de operación. Las entidades públicas deben tener preferencia de asignación de recursos y, en segundo término, las entidades privadas con órganos de gobierno cuya decisión mayoritaria sea del sector público y organizaciones sin fines de lucro.

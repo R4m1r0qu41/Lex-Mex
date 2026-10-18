@@ -41,4 +41,4 @@ IV. En el caso de especies que no existan en forma natural en aguas nacionales, 
 
 V. En el caso de que se pretenda introducir especies exóticas, además de la información establecida en la fracción I y de los documentos señalados en la fracción II de este artículo, se deberá presentar la descripción del posible efecto que causaría la introducción de la especie sobre la flora y fauna nativas, y particularmente la de las especies sujetas a algún régimen de protección especial, de conformidad con las normas y demás disposiciones legales aplicables.
 
-Dicha autorización estará sujeta a las disposiciones contenidas en las normas que expida la Secretaría.
+Dicha autorización estará sujeta a las disposiciones contenidas en las normas que expida la [Secretaría](articulo-2o.md).

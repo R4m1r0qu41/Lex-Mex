@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 58
 
-La declaración de rescisión administrativa a la que se refiere el artículo 46 de la Ley debe ser emitida por la Secretaría, siempre y cuando no se haya solventado la causal de rescisión administrativa conforme al párrafo tercero de dicho artículo.
+La declaración de rescisión administrativa a la que se refiere el artículo 46 de la [Ley](articulo-3.md) debe ser emitida por la [Secretaría](articulo-3.md), siempre y cuando no se haya solventado la causal de rescisión administrativa conforme al párrafo tercero de dicho artículo.

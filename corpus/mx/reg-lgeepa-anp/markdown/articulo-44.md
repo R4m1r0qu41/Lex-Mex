@@ -17,4 +17,4 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 44
 
-Para el mejor desempeño de la función registral, la Secretaría podrá solicitar a las autoridades federales, estatales y municipales la información estadística, técnica, catastral y de planificación que requiera.
+Para el mejor desempeño de la función registral, la [Secretaría](articulo-3o.md) podrá solicitar a las autoridades federales, estatales y municipales la información estadística, técnica, catastral y de planificación que requiera.

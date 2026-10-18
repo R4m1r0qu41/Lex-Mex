@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 74
 
-La Secretaría, con el apoyo de la CONUEE, debe recopilar e integrar los registros de información sobre los consumos de energía, las medidas de Eficiencia Energética y los resultados económicos y energéticos obtenidos por su implementación. Esta información debe ser proporcionada por las Partes Sujetas de Obligación.
+La [Secretaría](articulo-5.md), con el apoyo de la CONUEE, debe recopilar e integrar los registros de información sobre los consumos de energía, las medidas de Eficiencia Energética y los resultados económicos y energéticos obtenidos por su implementación. Esta información debe ser proporcionada por las Partes Sujetas de Obligación.

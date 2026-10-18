@@ -25,7 +25,7 @@ I.- Que el solicitante cumpla con los requisitos establecidos en las leyes espec
 
 II.- Evitar el acaparamiento o concentración de concesiones en una sola persona;
 
-III.- Que no sea posible o conveniente que la Federación emprenda la explotación directa de los inmuebles de que se trate;
+III.- Que no sea posible o conveniente que la [Federación](articulo-2.md) emprenda la explotación directa de los inmuebles de que se trate;
 
 IV.- No podrán otorgarlas a favor de los servidores públicos que en cualquier forma intervengan en el trámite de las concesiones, ni de sus cónyuges o parientes consanguíneos y por afinidad hasta el cuarto grado o civiles, o de terceros con los que dichos servidores tengan vínculos privados o de negocios. Las concesiones que se otorguen en contravención a lo dispuesto en esta fracción serán causa de responsabilidades y de nulidad;
 

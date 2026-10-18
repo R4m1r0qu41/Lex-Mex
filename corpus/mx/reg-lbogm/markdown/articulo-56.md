@@ -27,6 +27,6 @@ III. Suspensiones y revocaciones;
 
 IV. Avisos de utilización confinada;
 
-V. Requisitos y medidas adicionales para los avisos señalados en el artículo [84](../../lbogm/markdown/articulo-84.md) de la Ley; VI. Las comunicaciones a las que se refiere el artículo [59](articulo-59.md) de este Reglamento, y
+V. Requisitos y medidas adicionales para los avisos señalados en el artículo [84](../../lbogm/markdown/articulo-84.md) de la [Ley](articulo-2.md); VI. Las comunicaciones a las que se refiere el artículo [59](articulo-59.md) de este Reglamento, y
 
 VII. Los demás que establezcan las disposiciones aplicables.

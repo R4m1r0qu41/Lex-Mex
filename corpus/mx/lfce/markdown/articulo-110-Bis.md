@@ -17,7 +17,7 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 110 Bis
 
-En cualquier momento, la persona titular del Ejecutivo Federal, a través de la Secretaría, podrá dar aviso a la Comisión respecto de cuestiones relevantes para el interés nacional en materia de libre concurrencia y competencia económica.
+En cualquier momento, la persona titular del Ejecutivo Federal, a través de la [Secretaría](articulo-3.md), podrá dar aviso a la [Comisión](articulo-3.md) respecto de cuestiones relevantes para el interés nacional en materia de libre concurrencia y competencia económica.
 
 En estos casos, la Comisión emitirá un acuerdo pronunciándose respecto de la cuestión planteada en un plazo no mayor a diez días hábiles.
 

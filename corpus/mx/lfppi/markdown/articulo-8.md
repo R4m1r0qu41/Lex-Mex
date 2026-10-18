@@ -17,4 +17,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 8
 
-La persona Titular de la Dirección General es la representante legal del Instituto y será designada por la Junta de Gobierno, a indicación del Ejecutivo Federal, a través de la persona Titular de la Secretaría de Economía.
+La persona Titular de la Dirección General es la representante legal del [Instituto](articulo-4.md) y será designada por la Junta de Gobierno, a indicación del Ejecutivo Federal, a través de la persona Titular de la Secretaría de Economía.

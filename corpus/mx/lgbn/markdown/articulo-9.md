@@ -17,7 +17,7 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # Artículo 9
 
-Los bienes sujetos al régimen de dominio público de la Federación estarán exclusivamente bajo la jurisdicción de los poderes federales, en los términos prescritos por esta Ley, excepto aquellos inmuebles que la Federación haya adquirido con posterioridad al 1o. de mayo de 1917 y que se ubiquen en el territorio de algún Estado, en cuyo caso se requerirá el consentimiento de la legislatura local respectiva.
+Los bienes sujetos al régimen de dominio público de la [Federación](articulo-2.md) estarán exclusivamente bajo la jurisdicción de los poderes federales, en los términos prescritos por esta Ley, excepto aquellos inmuebles que la Federación haya adquirido con posterioridad al 1o. de mayo de 1917 y que se ubiquen en el territorio de algún Estado, en cuyo caso se requerirá el consentimiento de la legislatura local respectiva.
 
 El decreto o acuerdo mediante el cual la Federación adquiera, afecte o destine un inmueble para un servicio público o para el uso común, deberá comunicarse a la legislatura local correspondiente. Surtirá efectos de notificación a la propia legislatura del Estado, la publicación en el Diario Oficial de la Federación del decreto o acuerdo correspondiente, a partir de la fecha de la misma publicación.
 

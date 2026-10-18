@@ -15,4 +15,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Décimo Séptimo
 
-La persona titular de la Secretaría Ejecutiva del Consejo del Sistema Nacional de Acceso a la Información Pública propondrá las reglas de operación y funcionamiento que se señalan en el artículo 25, fracción XV, de la Ley General de Transparencia y Acceso a la Información Pública, para que sean aprobadas en la instalación de dicho Consejo.
+La persona titular de la Secretaría Ejecutiva del Consejo del [Sistema Nacional](articulo-3.md) de Acceso a la Información Pública propondrá las reglas de operación y funcionamiento que se señalan en el artículo 25, fracción XV, de la [Ley](articulo-3.md) General de Transparencia y Acceso a la Información Pública, para que sean aprobadas en la instalación de dicho Consejo.

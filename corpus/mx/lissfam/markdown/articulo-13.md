@@ -19,9 +19,9 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 Son atribuciones del Director General:
 
-I. Representar al Instituto;
+I. Representar al [Instituto](articulo-4o.md);
 
-II. Presentar cada año a la Junta Directiva un informe pormenorizado del estado del Instituto;
+II. Presentar cada año a la [Junta](articulo-4o.md) Directiva un informe pormenorizado del estado del Instituto;
 
 III. Someter a la decisión de la Junta Directiva todas aquellas cuestiones que sean de la competencia de la misma;
 
@@ -39,4 +39,4 @@ IX. Conceder licencias al personal del Instituto en los términos de las disposi
 
 X. Vigilar las labores del personal exigiendo su debido cumplimiento e imponer a los trabajadores del Instituto las correcciones disciplinarias procedentes; XI. Convocar a sesiones ordinarias y extraordinarias a los miembros de la Junta Directiva cuando proceda o, a su juicio, existan razones suficientes, y
 
-XII. Las demás que señalen esta Ley, su Reglamento y demás disposiciones aplicables.
+XII. Las demás que señalen esta [Ley](articulo-4o.md), su Reglamento y demás disposiciones aplicables.

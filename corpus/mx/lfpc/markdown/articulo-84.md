@@ -17,4 +17,4 @@ source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 
 # Artículo 84
 
-Cuando el consumidor acuda a la Procuraduría para hacer valer sus derechos fuera del plazo establecido por la garantía, deberá acreditar que compareció ante el proveedor dentro del dicho plazo. Capítulo X De los contratos de adhesión
+Cuando el consumidor acuda a la [Procuraduría](articulo-2.md) para hacer valer sus derechos fuera del plazo establecido por la garantía, deberá acreditar que compareció ante el proveedor dentro del dicho plazo. Capítulo X De los contratos de adhesión

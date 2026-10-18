@@ -17,4 +17,4 @@ source_sha256: 667636f9e0ea65e72ac9d6d7b4d7563a183b75d0f140268a61929c74f5f88041
 
 # Artículo 42
 
-La notificación a que se refiere el artículo 72 de la Ley deberá realizarse por escrito, cumpliendo con los requisitos establecidos en los tratados y acuerdos internacionales de los que México sea parte, así como los que exijan las autoridades del país de destino de los OGMs.
+La notificación a que se refiere el artículo 72 de la [Ley](articulo-2.md) deberá realizarse por escrito, cumpliendo con los requisitos establecidos en los tratados y acuerdos internacionales de los que [México](articulo-2.md) sea parte, así como los que exijan las autoridades del país de destino de los OGMs.

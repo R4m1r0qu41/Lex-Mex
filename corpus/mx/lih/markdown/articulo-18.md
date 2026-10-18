@@ -17,6 +17,6 @@ source_sha256: 8262a75eac7bfb608d4f48657ffb2714fe115d0b9694c42ac81624fd275bf5f6
 
 # Artículo 18
 
-Cuando los Contratistas utilicen bienes que hubieren sido deducidos parcial o totalmente en otro Contrato o Asignación, sólo se pueden reconocer para efectos del Contrato el saldo pendiente por depreciar de los bienes que correspondan a dicho Contrato en términos de los lineamientos que al respecto emita la Secretaría.
+Cuando los Contratistas utilicen bienes que hubieren sido deducidos parcial o totalmente en otro [Contrato](articulo-3.md) o Asignación, sólo se pueden reconocer para efectos del Contrato el saldo pendiente por depreciar de los bienes que correspondan a dicho Contrato en términos de los lineamientos que al respecto emita la [Secretaría](articulo-3.md).
 
 Artículo reformado DOF 18-03-2025

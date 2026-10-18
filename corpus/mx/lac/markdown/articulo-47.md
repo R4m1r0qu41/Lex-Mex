@@ -15,7 +15,7 @@ source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 
 # Artículo 47
 
-El Registro Aeronáutico Mexicano es público, está a cargo de la Agencia Federal de Aviación Civil, y deben inscribirse: Párrafo reformado DOF 03-05-2023
+El Registro Aeronáutico Mexicano es público, está a cargo de la [Agencia Federal de Aviación Civil](articulo-2.md), y deben inscribirse: Párrafo reformado DOF 03-05-2023
 
 I. Los documentos por los cuales se adquiera, transmita, modifique, grave o extinga la propiedad, la posesión y los demás derechos reales sobre las aeronaves civiles mexicanas y sus motores; así como el arrendamiento de aeronaves mexicanas o extranjeras;
 

@@ -17,11 +17,11 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 164
 
-Internamiento El internamiento se utilizará como medida extrema y por el tiempo más breve que proceda a las personas adolescentes que al momento de habérseles comprobado la comisión de hechos señalados como delitos, se encuentren en el grupo etario II y III. El Órgano Jurisdiccional deberá contemplar cuidadosamente las causas y efectos para la imposición de esta medida, procurando imponerla como última opción. Se ejecutará en Unidades exclusivamente destinadas para adolescentes y se procurará incluir la realización de actividades colectivas entre las personas adolescentes internas, a fin de fomentar una convivencia similar a la practicada en libertad.
+Internamiento El internamiento se utilizará como medida extrema y por el tiempo más breve que proceda a las personas adolescentes que al momento de habérseles comprobado la comisión de hechos señalados como delitos, se encuentren en el grupo etario II y III. El [Órgano Jurisdiccional](articulo-3.md) deberá contemplar cuidadosamente las causas y efectos para la imposición de esta medida, procurando imponerla como última opción. Se ejecutará en Unidades exclusivamente destinadas para adolescentes y se procurará incluir la realización de actividades colectivas entre las personas adolescentes internas, a fin de fomentar una convivencia similar a la practicada en libertad.
 
-Para los efectos de esta Ley, podrá ser aplicado el internamiento en los siguientes supuestos, previstos en la legislación federal o sus equivalentes en las entidades federativas:
+Para los efectos de esta [Ley](articulo-3.md), podrá ser aplicado el internamiento en los siguientes supuestos, previstos en la legislación federal o sus equivalentes en las entidades federativas:
 
-a) De los delitos previstos en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo [73](../../cpeum/markdown/articulo-73.md) de la Constitución Política de los Estados Unidos Mexicanos;
+a) De los delitos previstos en la [Ley General](articulo-3.md) para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo [73](../../cpeum/markdown/articulo-73.md) de la [Constitución](articulo-3.md) Política de los Estados Unidos Mexicanos;
 
 b) De los delitos previstos en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos;
 

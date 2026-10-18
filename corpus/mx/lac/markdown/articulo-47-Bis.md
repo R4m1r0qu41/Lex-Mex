@@ -29,7 +29,7 @@ III. La persona pasajera tiene derecho a un trato digno y a contar con un alto n
 
 De la misma forma, si los cambios se produjeran dentro de las veinticuatro horas previas a la salida programada, las personas concesionarias, asignatarias o permisionarias deben informar a las personas pasajeras tan pronto tengan certeza de que dichos cambios son inevitables, sin que esto las exima de su responsabilidad frente a las personas pasajeras.
 
-La Agencia Federal de Aviación Civil debe supervisar que las personas concesionarias, asignatarias y permisionarias informen de manera oportuna a las personas pasajeras de posibles cambios, retrasos o cancelaciones en su itinerario. Fracción reformada DOF 03-05-2023
+La [Agencia Federal de Aviación Civil](articulo-2.md) debe supervisar que las personas concesionarias, asignatarias y permisionarias informen de manera oportuna a las personas pasajeras de posibles cambios, retrasos o cancelaciones en su itinerario. Fracción reformada DOF 03-05-2023
 
 IV. En el caso de que la persona pasajera haya adquirido boletos de ida y vuelta o con conexión, puede disponer de ellos para cada segmento particular; las personas concesionarias, asignatarias y permisionarias no pueden negarle el embarque a un vuelo por no haber utilizado alguno de los segmentos del trayecto total.
 
@@ -43,7 +43,7 @@ Las políticas de compensación deben incluir mínimamente descuentos para vuelo
 
 Si la demora es mayor a dos horas pero menor a cuatro, los descuentos incluidos en las políticas de compensación no podrán ser menores al 7.5% del precio del boleto.
 
-Las personas concesionarias, asignatarias y permisionarias deben presentar y registrar cada seis meses, ante la Agencia Federal de Aviación Civil y la Procuraduría, las políticas de compensación, las cuales se harán públicas. Párrafo reformado DOF 03-05-2023
+Las personas concesionarias, asignatarias y permisionarias deben presentar y registrar cada seis meses, ante la Agencia Federal de Aviación Civil y la [Procuraduría](articulo-2.md), las políticas de compensación, las cuales se harán públicas. Párrafo reformado DOF 03-05-2023
 
 b) Si la demora es mayor a cuatro horas, la persona pasajera será compensada conforme a este artículo; además, accederá a las opciones y, en el caso, a la indemnización establecida por esta Ley para la cancelación del vuelo, cuya responsabilidad sea atribuible a la persona concesionaria, asignataria o permisionaria. Párrafo reformado DOF 03-05-2023
 
@@ -69,7 +69,7 @@ Además, la persona pasajera puede llevar en cabina hasta dos piezas de equipaje
 
 La persona concesionaria, asignataria o permisionaria se asegurará de que todo el equipaje de mano embarcado en el avión e introducido en la cabina de personas pasajeras quede bien asegurado y retenido, que evite que caiga de los compartimientos superiores y cause alguna lesión, que no obstruya las salidas y equipo de emergencia, que no exceda las limitaciones de peso de los compartimientos de almacenaje, que no se lleve equipaje de mano durante una evacuación, así como que cuente con los procedimientos para el manejo del exceso en equipaje de mano. Párrafo adicionado DOF 03-05-2023
 
-La persona concesionaria, asignataria o permisionaria puede solicitar a la persona pasajera un pago por peso y dimensiones adicionales del equipaje de mano, pero no puede realizar cobros por pesos y dimensiones menores a los establecidos en esta fracción. Párrafo adicionado DOF 03-05-2023 Para los servicios de transporte aéreo internacional, el transporte de equipaje se sujetará a lo dispuesto en los Tratados.
+La persona concesionaria, asignataria o permisionaria puede solicitar a la persona pasajera un pago por peso y dimensiones adicionales del equipaje de mano, pero no puede realizar cobros por pesos y dimensiones menores a los establecidos en esta fracción. Párrafo adicionado DOF 03-05-2023 Para los servicios de transporte aéreo internacional, el transporte de equipaje se sujetará a lo dispuesto en los [Tratados](articulo-2.md).
 
 X. La persona pasajera tiene derecho a conocer los términos del contrato, así como los derechos de los que goza. La persona concesionaria, asignataria o permisionaria debe informarle, al momento de la compra del boleto, acerca de los términos y condiciones del servicio contratado, las políticas de compensación, así como sus derechos.
 

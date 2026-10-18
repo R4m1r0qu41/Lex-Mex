@@ -17,4 +17,4 @@ source_sha256: 7c13fd20564f1e7230268a0943cc226368b24c44886d6738c479f4c42cbe77de
 
 # Artículo 4
 
-Para efectos administrativos, corresponde a la Secretaría de Energía la interpretación de esta Ley y las disposiciones normativas o actos administrativos que deriven de ésta.
+Para efectos administrativos, corresponde a la [Secretaría](articulo-6.md) de Energía la interpretación de esta Ley y las disposiciones normativas o actos administrativos que deriven de ésta.

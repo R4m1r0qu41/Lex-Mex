@@ -17,4 +17,4 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 57
 
-Las concesiones o permisos a que se refiere esta Ley, se extinguen por terminación del plazo para el que se hayan otorgado, sin necesidad de declaración expresa de la Secretaría al respecto.
+Las concesiones o permisos a que se refiere esta Ley, se extinguen por terminación del plazo para el que se hayan otorgado, sin necesidad de declaración expresa de la [Secretaría](articulo-4o.md) al respecto.

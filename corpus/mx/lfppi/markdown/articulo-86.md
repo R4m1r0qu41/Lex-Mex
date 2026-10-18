@@ -17,4 +17,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 86
 
-El registro de un esquema de trazado se llevará a cabo, en lo conducente, conforme a lo dispuesto en los artículos [91](articulo-91.md), [92](articulo-92.md), [94](articulo-94.md), [104](articulo-104.md), [105](articulo-105.md), [106](articulo-106.md), [110](articulo-110.md), [116](articulo-116.md), [117](articulo-117.md), [119](articulo-119.md) y [120](articulo-120.md) de esta Ley.
+El registro de un esquema de trazado se llevará a cabo, en lo conducente, conforme a lo dispuesto en los artículos [91](articulo-91.md), [92](articulo-92.md), [94](articulo-94.md), [104](articulo-104.md), [105](articulo-105.md), [106](articulo-106.md), [110](articulo-110.md), [116](articulo-116.md), [117](articulo-117.md), [119](articulo-119.md) y [120](articulo-120.md) de esta [Ley](articulo-4.md).

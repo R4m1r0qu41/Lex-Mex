@@ -17,6 +17,6 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 32
 
-En el caso de que un plan o programa parcial de desarrollo urbano o de ordenamiento ecológico del territorio incluyan obras o actividades de las señaladas en el artículo [28](articulo-28.md) de esta Ley, las autoridades competentes de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, deberán presentar dichos planes o programas a la Secretaría, con el propósito de que ésta emita la autorización que en materia de impacto ambiental corresponda, respecto del conjunto de obras o actividades que se prevean realizar en un área determinada, en los términos previstos en el artículo [31](articulo-31.md) de esta Ley.
+En el caso de que un plan o programa parcial de desarrollo urbano o de ordenamiento ecológico del territorio incluyan obras o actividades de las señaladas en el artículo [28](articulo-28.md) de esta Ley, las autoridades competentes de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, deberán presentar dichos planes o programas a la [Secretaría](articulo-3o.md), con el propósito de que ésta emita la autorización que en materia de impacto ambiental corresponda, respecto del conjunto de obras o actividades que se prevean realizar en un área determinada, en los términos previstos en el artículo [31](articulo-31.md) de esta Ley.
 
 Artículo reformado DOF 13-12-1996, 20-05-2013, 19-01-2018

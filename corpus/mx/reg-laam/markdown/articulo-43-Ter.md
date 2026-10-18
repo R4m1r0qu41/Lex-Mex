@@ -17,6 +17,6 @@ source_sha256: 8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca
 
 # Artículo 43 Ter
 
-El Alto Mando someterá a consideración del Mando Supremo los expedientes y elementos de juicio derivados de la información analizada, así como la lista del personal convocado.
+El [Alto Mando](articulo-5.md) someterá a consideración del [Mando Supremo](articulo-5.md) los expedientes y elementos de juicio derivados de la información analizada, así como la lista del personal convocado.
 
 Artículo adicionado DOF 22-09-2010

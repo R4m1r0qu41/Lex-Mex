@@ -17,4 +17,4 @@ source_sha256: 4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f
 
 # Artículo 48
 
-Para los efectos del artículo [24](../../liva/markdown/articulo-24.md), fracción V de la Ley, el aprovechamiento en territorio nacional de los servicios prestados por no residentes en él, comprende tanto los prestados desde el extranjero como los que se presten en el país.
+Para los efectos del artículo [24](../../liva/markdown/articulo-24.md), fracción V de la [Ley](articulo-1.md), el aprovechamiento en territorio nacional de los servicios prestados por no residentes en él, comprende tanto los prestados desde el extranjero como los que se presten en el país.

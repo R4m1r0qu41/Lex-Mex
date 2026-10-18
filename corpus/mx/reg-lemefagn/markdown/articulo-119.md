@@ -17,4 +17,4 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 119
 
-La Secretaría, a través de la Dirección y Rectoría y de la Dirección General de Comunicación Social, establecerá las estrategias y mecanismos para la difusión de los requisitos, términos y condiciones de la admisión a las Instituciones Educativas y los Cursos que impartan las Jefaturas.
+La Secretaría, a través de la Dirección y Rectoría y de la Dirección General de Comunicación Social, establecerá las estrategias y mecanismos para la difusión de los requisitos, términos y condiciones de la admisión a las [Instituciones Educativas](articulo-3.md) y los Cursos que impartan las Jefaturas.

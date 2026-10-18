@@ -17,6 +17,6 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 13
 
-En la Comisión se garantizará la separación entre la unidad que conoce de los procedimientos de investigación y el Pleno, quien resolverá dichos procedimientos.
+En la [Comisión](articulo-3.md) se garantizará la separación entre la unidad que conoce de los procedimientos de investigación y el [Pleno](articulo-3.md), quien resolverá dichos procedimientos.
 
 Artículo reformado DOF 16-07-2025

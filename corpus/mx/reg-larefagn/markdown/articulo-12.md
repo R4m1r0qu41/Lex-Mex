@@ -17,6 +17,6 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 12
 
-Las personas militares que tengan derecho a participar en las promociones de Sargentos Primeros Especialistas; Especial o General podrán renunciar al mismo, mediante escrito que se presente a la Secretaría hasta treinta días naturales antes de la fecha fijada para su concentración.
+Las personas militares que tengan derecho a participar en las promociones de Sargentos Primeros [Especialistas](articulo-5.md); Especial o General podrán renunciar al mismo, mediante escrito que se presente a la Secretaría hasta treinta días naturales antes de la fecha fijada para su concentración.
 
 Artículo reformado DOF 20-03-2026

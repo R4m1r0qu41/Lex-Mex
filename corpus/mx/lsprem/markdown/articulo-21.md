@@ -17,19 +17,19 @@ source_sha256: bcc21844355854fe331c842c21436d721d6c2856b5c5986715fe39f4a845b317
 
 # Artículo 21
 
-El Presidente del Sistema tendrá las siguientes facultades y obligaciones:
+El [Presidente](articulo-2.md) del [Sistema](articulo-2.md) tendrá las siguientes facultades y obligaciones:
 
-I. Administrar y representar legalmente al Sistema, con arreglo a los objetivos generales y lineamientos que establezca la Junta de Gobierno;
+I. Administrar y representar legalmente al Sistema, con arreglo a los objetivos generales y lineamientos que establezca la [Junta de Gobierno](articulo-2.md);
 
 II. Instrumentar, ejecutar y vigilar la aplicación de las políticas generales del Sistema y ejecutar los acuerdos que emita la Junta de Gobierno, supervisando su adecuado cumplimiento en el Sistema;
 
-III. Dirigir y coordinar las actividades de las unidades administrativas del Sistema, de conformidad con lo que disponga el Estatuto Orgánico;
+III. Dirigir y coordinar las actividades de las unidades administrativas del Sistema, de conformidad con lo que disponga el [Estatuto Orgánico](articulo-2.md);
 
 IV. Coordinar el desarrollo de las actividades técnicas y administrativas del Sistema y dictar los acuerdos tendientes a dicho fin;
 
 V. Tomar las medidas pertinentes a fin de que las funciones del Sistema se realicen de manera articulada, congruente y eficaz, mediante el establecimiento, coordinación y actualización de procedimientos, sistemas y aplicaciones que se implementen en el Sistema;
 
-VI. Realizar los actos jurídicos de dominio, de administración y de pleitos y cobranzas necesarios para el funcionamiento del Sistema, gozando de todas las facultades que requieran cláusula especial conforme a la Ley, excepto en los casos en que la Junta de Gobierno determine que es necesaria su previa y especial aprobación;
+VI. Realizar los actos jurídicos de dominio, de administración y de pleitos y cobranzas necesarios para el funcionamiento del Sistema, gozando de todas las facultades que requieran cláusula especial conforme a la [Ley](articulo-2.md), excepto en los casos en que la Junta de Gobierno determine que es necesaria su previa y especial aprobación;
 
 VII. Otorgar, para que se ejerzan individual o conjuntamente, poderes generales o especiales, así como sustituir y revocar a los apoderados;
 
@@ -65,11 +65,11 @@ XXIII. Formular los programas de organización;
 
 XXIV. Formular y presentar ante la Junta de Gobierno los programas institucionales de corto, mediano y largo plazo para su aprobación;
 
-XXV. Elaborar y someter a consideración de la Junta de Gobierno, las políticas para implementar los indicadores y evaluaciones de desempeño de los empleados del Sistema, así como los estímulos correspondientes, en apego a la normatividad que para el efecto emitan en el ámbito de sus atribuciones, las Secretarías de la Función Pública y de Hacienda y Crédito Público;
+XXV. Elaborar y someter a consideración de la Junta de Gobierno, las políticas para implementar los indicadores y evaluaciones de desempeño de los empleados del Sistema, así como los estímulos correspondientes, en apego a la normatividad que para el efecto emitan en el ámbito de sus atribuciones, las [Secretarías](articulo-2.md) de la Función Pública y de Hacienda y Crédito Público;
 
 XXVI. Nombrar y remover a los servidores públicos del Sistema, excepto aquellos que ocupen cargos dentro de las dos jerarquías administrativas inferiores a la suya, en cuyo caso se limitará a realizar las propuestas correspondientes ante la Junta de Gobierno, la que hará los nombramientos o remociones respectivos;
 
-XXVII. Proponer ante la Junta de Gobierno la designación o remoción del Secretario y del Prosecretario;
+XXVII. Proponer ante la Junta de Gobierno la designación o remoción del [Secretario](articulo-2.md) y del Prosecretario;
 
 XXVIII. Suscribir las condiciones generales de trabajo que regulen las relaciones laborales del Sistema con sus trabajadores de base; XXIX. Presentar anualmente a los Poderes Ejecutivo y Legislativo de la Unión un informe de actividades del Sistema; al efecto, comparecerá ante las Cámaras del Congreso en los términos legalmente establecidos;
 

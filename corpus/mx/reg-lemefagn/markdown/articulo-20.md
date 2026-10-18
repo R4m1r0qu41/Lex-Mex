@@ -17,13 +17,13 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 20
 
-Las personas civiles que soliciten desempeñar funciones docentes en el Sistema deberán realizar el proceso de contratación y, además, deberán reunir los requisitos siguientes:
+Las personas civiles que soliciten desempeñar funciones docentes en el [Sistema](articulo-3.md) deberán realizar el proceso de contratación y, además, deberán reunir los requisitos siguientes:
 
 I. Aptitud para desempeñar su labor de manera eficiente y eficaz.
 
 II. Dominio de los conocimientos de la asignatura a impartir;
 
-III. Nivel académico igual o superior a los estudios que se imparten en la Institución Educativa en que será contratado;
+III. Nivel académico igual o superior a los estudios que se imparten en la [Institución Educativa](articulo-3.md) en que será contratado;
 
 IV. Contar con experiencia profesional y docente mínima de dos años en el campo de su especialidad;
 

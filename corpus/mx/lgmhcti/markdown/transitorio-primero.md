@@ -15,4 +15,4 @@ source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 
 # Primero
 
-La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+La presente [Ley](articulo-4.md) entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.

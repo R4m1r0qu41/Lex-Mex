@@ -17,7 +17,7 @@ source_sha256: 7bed7f706ac5003e5089abf84b9134fa97495a1d6c9570c0841e418d48d7565f
 
 # Artículo 17 Bis
 
-El Instituto en materia de información queda facultado para:
+El [Instituto](articulo-3.md) en materia de información queda facultado para:
 
 I. Integrar un padrón de todas las Cooperativas que operan en el territorio nacional y de las que se certifiquen conforme la normativa aplicable;
 

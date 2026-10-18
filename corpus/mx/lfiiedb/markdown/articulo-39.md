@@ -17,4 +17,4 @@ source_sha256: 7679afbbf32749e0c0bacab72644d41fc6ccdeeab3a2f25dfae8d26a065de01e
 
 # Artículo 39
 
-La participación del Interesado puede ser mediante aportación o asociación. En la primera modalidad puede aportar a un vehículo jurídico o financiero, capital, derechos de uso, aprovechamiento y explotación de los bienes de su propiedad, permisos, autorizaciones y cualquier otro derecho o bien tangible o intangible. En la segunda modalidad, puede asociarse con el sector privado o social, o ambos, y determinar sus derechos y obligaciones en el vehículo jurídico o financiero correspondiente.
+La participación del [Interesado](articulo-4.md) puede ser mediante aportación o asociación. En la primera modalidad puede aportar a un vehículo jurídico o financiero, capital, derechos de uso, aprovechamiento y explotación de los bienes de su propiedad, permisos, autorizaciones y cualquier otro derecho o bien tangible o intangible. En la segunda modalidad, puede asociarse con el sector privado o social, o ambos, y determinar sus derechos y obligaciones en el vehículo jurídico o financiero correspondiente.

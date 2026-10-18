@@ -17,4 +17,4 @@ source_sha256: c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41
 
 # Artículo 75
 
-Los convenios a que se refiere el artículo [70](articulo-70.md) de la presente Ley deben estipular que, en caso de mora por parte de la persona usuaria, la suministradora de electricidad o distribuidora de gas natural no es responsable de los montos por cobrar.
+Los convenios a que se refiere el artículo [70](articulo-70.md) de la presente [Ley](articulo-3.md) deben estipular que, en caso de mora por parte de la persona usuaria, la suministradora de electricidad o distribuidora de gas natural no es responsable de los montos por cobrar.

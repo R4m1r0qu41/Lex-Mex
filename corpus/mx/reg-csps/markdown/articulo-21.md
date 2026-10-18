@@ -17,4 +17,4 @@ source_sha256: 70464807d63da08244e495f2ff0ac30b12b30119926b84cedc7930397fcb80ef
 
 # Artículo 21
 
-No se podrán importar ni comercializar productos que presenten fecha de caducidad vencida. La Secretaría determinará el destino de los productos que se aseguren a través de un dictamen por escrito.
+No se podrán importar ni comercializar productos que presenten fecha de caducidad vencida. La [Secretaría](articulo-2o.md) determinará el destino de los productos que se aseguren a través de un dictamen por escrito.

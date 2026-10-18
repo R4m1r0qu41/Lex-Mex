@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 257 Ter
 
-Para inscribir un cambio de nombre o denominación o razón social o una transformación en el régimen jurídico bastará formular la petición correspondiente en los términos que fije esta Ley y su Reglamento.
+Para inscribir un cambio de nombre o denominación o razón social o una transformación en el régimen jurídico bastará formular la petición correspondiente en los términos que fije esta [Ley](articulo-4.md) y su Reglamento.
 
 Podrá solicitarse mediante una sola promoción, la inscripción de cambio de nombre o denominación o razón social o de transformación de régimen jurídico de dos o más solicitudes en trámite o de dos o más marcas registradas cuando se trate de la misma persona titular.
 

@@ -17,11 +17,11 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 12
 
-Son atribuciones de la Junta Directiva:
+Son atribuciones de la [Junta](articulo-4o.md) Directiva:
 
-I. Decidir las inversiones del Instituto;
+I. Decidir las inversiones del [Instituto](articulo-4o.md);
 
-II. Dictar los acuerdos necesarios para satisfacer las prestaciones establecidas por esta Ley;
+II. Dictar los acuerdos necesarios para satisfacer las prestaciones establecidas por esta [Ley](articulo-4o.md);
 
 III. Otorgar, negar, modificar, suspender y dejar insubsistentes los haberes de retiro, pensiones y compensaciones, en los términos de esta Ley;
 

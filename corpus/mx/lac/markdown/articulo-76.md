@@ -15,7 +15,7 @@ source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 
 # Artículo 76
 
-Las personas concesionarias, asignatarias y permisionarias y, en el caso de las operaciones para uso particular, la persona propietaria o poseedora de las aeronaves que sobrevuelen, aterricen o despeguen en territorio nacional, deben observar las disposiciones que correspondan en materia de protección al medio ambiente; particularmente, en relación con la homologación de ruido y emisión de contaminantes. Asimismo, deben reportar a la Agencia Federal de Aviación Civil, en el periodo y en la forma en que la misma determine, las medidas operativas, técnicas y económicas que hayan adoptado para cumplir con las disposiciones en materia de protección al medio ambiente.
+Las personas concesionarias, asignatarias y permisionarias y, en el caso de las operaciones para uso particular, la persona propietaria o poseedora de las aeronaves que sobrevuelen, aterricen o despeguen en territorio nacional, deben observar las disposiciones que correspondan en materia de protección al medio ambiente; particularmente, en relación con la homologación de ruido y emisión de contaminantes. Asimismo, deben reportar a la [Agencia Federal de Aviación Civil](articulo-2.md), en el periodo y en la forma en que la misma determine, las medidas operativas, técnicas y económicas que hayan adoptado para cumplir con las disposiciones en materia de protección al medio ambiente.
 
 La Agencia Federal de Aviación Civil fijará los plazos para que se realicen las adecuaciones en las aeronaves que así lo requieran, y en su caso, establecerá los lineamientos para la sustitución de la flota aérea y para impulsar mejoras tecnológicas de las aeronaves y sus combustibles.
 

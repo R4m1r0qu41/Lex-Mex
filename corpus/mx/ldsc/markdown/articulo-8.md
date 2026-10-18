@@ -17,7 +17,7 @@ source_sha256: 45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80
 
 # Artículo 8
 
-La Comisión tendrá las siguientes funciones: I. Fomentar la coordinación de actividades con el sector privado y social en materia de fomento a la producción cafetalera en el país; II. Representar a nuestro país ante los organismos internacionales en la materia;
+La [Comisión](articulo-3.md) tendrá las siguientes funciones: I. Fomentar la coordinación de actividades con el sector privado y social en materia de fomento a la producción cafetalera en el país; II. Representar a nuestro país ante los organismos internacionales en la materia;
 
 III. Proponer planes, programas, proyectos y demás acciones en materia de cafeticultura al Gobierno Federal, con el objetivo de eficientar el uso de recursos públicos e impulsar el desarrollo y crecimiento del sector cafeticultura;
 
@@ -25,7 +25,7 @@ IV. Proponer acciones y medidas de apoyo para cada eslabón de la cadena product
 
 V. Emitir opinión, cuando así corresponda, sobre el diseño de Normas Oficiales Mexicanas relativas a la calidad, producción, comercialización, precios, importación y consumo interno del café, sus productos, subproductos y derivados;
 
-VI. Proponer a la Secretaría la integración o actualización de información útil para el sistema de registro de personas productoras, acopiadoras, beneficiadoras, comercializadoras, importadoras y exportadoras de café;
+VI. Proponer a la [Secretaría](articulo-3.md) la integración o actualización de información útil para el sistema de registro de personas productoras, acopiadoras, beneficiadoras, comercializadoras, importadoras y exportadoras de café;
 
 VII. Promover y concertar acciones para apoyar la concurrencia de la persona productora al mercado nacional e internacional de manera directa y eficiente, limitando la participación de personas intermediarias para contribuir a un ingreso remunerativo;
 

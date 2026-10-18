@@ -17,7 +17,7 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 38
 
-Garantías de la detención Toda persona adolescente deberá ser presentada inmediatamente ante el Ministerio Público o el Juez de Control especializados dentro de los plazos que establece esta Ley, garantizando sus derechos y seguridad.
+Garantías de la detención Toda persona adolescente deberá ser presentada inmediatamente ante el Ministerio Público o el Juez de Control especializados dentro de los plazos que establece esta [Ley](articulo-3.md), garantizando sus derechos y seguridad.
 
 Desde el momento de su detención se asegurará que las personas adolescentes permanezcan en lugares distintos a los adultos.
 

@@ -17,4 +17,4 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 113
 
-En caso de que alguna de las conductas descritas en los artículos anteriores, derive en la comisión de algún delito, cualquier sanción señalada en esta Ley no exime a los responsables de la probable responsabilidad penal.
+En caso de que alguna de las conductas descritas en los artículos anteriores, derive en la comisión de algún delito, cualquier sanción señalada en esta [Ley](articulo-5.md) no exime a los responsables de la probable responsabilidad penal.

@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 319
 
-Cuando los documentos presentados satisfagan los requisitos legales, el Instituto publicará en el Diario Oficial:
+Cuando los documentos presentados satisfagan los requisitos legales, el [Instituto](articulo-4.md) publicará en el [Diario Oficial](articulo-4.md):
 
 I.- El nombre y nacionalidad de la persona solicitante; Fracción reformada DOF 03-04-2026
 

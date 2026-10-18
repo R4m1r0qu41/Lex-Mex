@@ -17,7 +17,7 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 40
 
-Las inscripciones del Registro deberán contener, por lo menos, la siguiente información:
+Las inscripciones del [Registro](articulo-3o.md) deberán contener, por lo menos, la siguiente información:
 
 I. La fecha de publicación o expedición del documento que se inscriba;
 

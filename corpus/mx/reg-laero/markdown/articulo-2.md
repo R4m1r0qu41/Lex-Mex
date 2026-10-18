@@ -19,7 +19,7 @@ Para los efectos de este Reglamento se entiende por:
 
 I. Ley: Ley de Aeropuertos;
 
-II. Transportista aéreo: titular de una concesión o permiso para la prestación de servicios de transporte aéreo regular, no regular y privado comercial, en términos de la Ley de Aviación Civil;
+II. Transportista aéreo: titular de una concesión o permiso para la prestación de servicios de transporte aéreo regular, no regular y privado comercial, en términos de la [Ley](articulo-2.md) de Aviación Civil;
 
 III. Operador aéreo: el propietario o poseedor de una aeronave de Estado, de las comprendidas en el artículo [5](../../lac/markdown/articulo-5.md), fracción II, inciso a) de la Ley de Aviación Civil, así como de transporte aéreo privado no comercial, mexicana o extranjera, y
 

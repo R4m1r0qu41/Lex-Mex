@@ -19,6 +19,6 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 La Dirección y Rectoría implementará un curso de adiestramiento básico individual, por ciclo escolar, el cual será integrado con personal directivo, docente y de apoyo a la educación, en coordinación con la Secretaría.
 
-El curso tendrá por objeto ambientar y adaptar a la vida militar, a las personas discentes de nuevo ingreso a las Instituciones Educativas de formación, desarrollando en ellos, la capacidad de realizar tareas propias del Ejército, Fuerza Aérea y Guardia Nacional. Párrafo reformado DOF 20-03-2026
+El curso tendrá por objeto ambientar y adaptar a la vida militar, a las personas discentes de nuevo ingreso a las [Instituciones Educativas](articulo-3.md) de formación, desarrollando en ellos, la capacidad de realizar tareas propias del Ejército, Fuerza Aérea y Guardia Nacional. Párrafo reformado DOF 20-03-2026
 
 Artículo adicionado DOF 27-01-2012

@@ -17,4 +17,4 @@ source_sha256: 1405f36fd836ff74d059ebe7e50ae439cbb9e5e291a317514667f34a26f72a23
 
 # Artículo 31
 
-Petróleos Mexicanos debe mantener un porcentaje de interés de participación en los Contratos Mixtos no menor al cuarenta por ciento.
+Petróleos Mexicanos debe mantener un porcentaje de interés de participación en los [Contratos Mixtos](articulo-5.md) no menor al cuarenta por ciento.

@@ -17,6 +17,6 @@ source_sha256: 74f2c47c7a9282194b2972ec1366352d94f03042c6d0c7f10efde018cb9e3bfb
 
 # Artículo 7o
 
-Los Organismos del Sector podrán acogerse y disfrutar de los apoyos y estímulos que establece esta Ley, aceptando sus fines, valores, principios y prácticas señalados en los artículos [8](articulo-8o.md), [9](articulo-9o.md), [10](articulo-10.md) y [11](articulo-11.md) de la misma.
+Los [Organismos del Sector](articulo-5o.md) podrán acogerse y disfrutar de los apoyos y estímulos que establece esta Ley, aceptando sus fines, valores, principios y prácticas señalados en los artículos [8](articulo-8o.md), [9](articulo-9o.md), [10](articulo-10.md) y [11](articulo-11.md) de la misma.
 
 Artículo reformado DOF 11-06-2013

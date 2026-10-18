@@ -21,6 +21,6 @@ Las concesiones para la pesca y acuacultura comerciales, podrán rescatarse por 
 
 I. La pesquería tenga el estatus de sobreexplotación, y
 
-II. El particular no garantice el mantenimiento de la misma en un plazo basado en un dictamen emitido por el IMIPAS. Fracción reformada DOF 04-12-2023
+II. El particular no garantice el mantenimiento de la misma en un plazo basado en un dictamen emitido por el [IMIPAS](articulo-4o.md). Fracción reformada DOF 04-12-2023
 
 Los titulares de los permisos o concesiones que hubiesen sido rescatados tendrán prelación para el acceso a otras pesquerías.

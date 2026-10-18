@@ -17,6 +17,6 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 72
 
-Las Instituciones Financieras podrán cancelar el pasivo o reserva, cuando haya sido decretada la caducidad de la instancia, la preclusión haya sido procedente, la excepción superveniente de prescripción proceda o exista sentencia que haya causado ejecutoria en la que se absuelva a la Institución. También podrá cancelarla cuando haya efectuado pago con la conformidad del Usuario.
+Las [Instituciones Financieras](articulo-2o.md) podrán cancelar el pasivo o reserva, cuando haya sido decretada la caducidad de la instancia, la preclusión haya sido procedente, la excepción superveniente de prescripción proceda o exista sentencia que haya causado ejecutoria en la que se absuelva a la Institución. También podrá cancelarla cuando haya efectuado pago con la conformidad del [Usuario](articulo-2o.md).
 
 Artículo reformado DOF 05-01-2000

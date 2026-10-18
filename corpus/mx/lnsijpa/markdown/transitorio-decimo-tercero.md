@@ -15,4 +15,4 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Décimo Tercero
 
-Procuradurías de Protección En las entidades en las que no existan las Procuradurías de Protección que se contemplan en la Ley General de los Derechos de Niñas, Niños y Adolescentes, las facultades otorgadas a estas Procuradurías por esta Ley serán atribuidas a los Sistemas Nacional y Estatales de Desarrollo Integral de la Familia según corresponda, hasta en tanto dichas Procuradurías sean creadas.
+[Procuradurías de Protección](articulo-3.md) En las entidades en las que no existan las Procuradurías de Protección que se contemplan en la [Ley General](articulo-3.md) de los Derechos de Niñas, Niños y [Adolescentes](articulo-3.md), las facultades otorgadas a estas Procuradurías por esta [Ley](articulo-3.md) serán atribuidas a los [Sistemas](articulo-3.md) Nacional y Estatales de Desarrollo Integral de la Familia según corresponda, hasta en tanto dichas Procuradurías sean creadas.

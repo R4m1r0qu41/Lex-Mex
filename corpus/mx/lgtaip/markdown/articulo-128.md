@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 128
 
-Los términos de todas las notificaciones previstas en esta Ley, empezarán a correr al día siguiente al que se practiquen. Cuando los plazos fijados por esta Ley sean en días, estos se entenderán como hábiles.
+Los términos de todas las notificaciones previstas en esta [Ley](articulo-3.md), empezarán a correr al día siguiente al que se practiquen. Cuando los plazos fijados por esta Ley sean en días, estos se entenderán como hábiles.

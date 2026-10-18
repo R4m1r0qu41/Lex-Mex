@@ -15,4 +15,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Sexto
 
-En tanto se emita el plan quinquenal de expansión del Sistema de Transporte y Almacenamiento Nacional Integrado de Gas Natural a que se refiere el artículo [103](../../lsh/markdown/articulo-103.md) de la Ley, la Secretaría debe determinar los proyectos de cobertura social y los estratégicos en materia de Gas Natural, estos últimos conforme a lo previsto en el artículo [169](articulo-169.md) del presente reglamento.
+En tanto se emita el plan quinquenal de expansión del [Sistema](articulo-3.md) de Transporte y Almacenamiento Nacional Integrado de Gas Natural a que se refiere el artículo [103](../../lsh/markdown/articulo-103.md) de la [Ley](articulo-3.md), la [Secretaría](articulo-3.md) debe determinar los proyectos de cobertura social y los estratégicos en materia de Gas Natural, estos últimos conforme a lo previsto en el artículo [169](articulo-169.md) del presente reglamento.

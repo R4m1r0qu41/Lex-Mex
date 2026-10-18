@@ -17,4 +17,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 355
 
-Toda persona tendrá obligación de proporcionar al Instituto, dentro del plazo de quince días, los informes y datos que se le requieran por escrito, relacionados con el cumplimiento de lo dispuesto en la presente Ley y demás disposiciones derivadas de ella. El incumplimiento a la obligación señalada en el párrafo anterior, sin causa justificada, se sancionará en términos de la fracción I del artículo [388](articulo-388.md) de esta Ley.
+Toda persona tendrá obligación de proporcionar al [Instituto](articulo-4.md), dentro del plazo de quince días, los informes y datos que se le requieran por escrito, relacionados con el cumplimiento de lo dispuesto en la presente [Ley](articulo-4.md) y demás disposiciones derivadas de ella. El incumplimiento a la obligación señalada en el párrafo anterior, sin causa justificada, se sancionará en términos de la fracción I del artículo [388](articulo-388.md) de esta Ley.

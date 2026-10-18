@@ -1,1 +1,713 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:1:term-usage:125-133",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reservas",
+    "span": "Reservas",
+    "start_char": 125,
+    "end_char": 133
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:1:term-usage:168-183",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reserva-general",
+    "span": "Reserva General",
+    "start_char": 168,
+    "end_char": 183
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:1:term-usage:383-390",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reservas",
+    "span": "Reserva",
+    "start_char": 383,
+    "end_char": 390
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:2:term-usage:345-352",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reservas",
+    "span": "Reserva",
+    "start_char": 345,
+    "end_char": 352
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:3:term-usage:4-12",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reservas",
+    "span": "Reservas",
+    "start_char": 4,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:3:term-usage:49-69",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:seguros-y-coberturas",
+    "span": "Seguros y Coberturas",
+    "start_char": 49,
+    "end_char": 69
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:3:term-usage:426-434",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reservas",
+    "span": "Reservas",
+    "start_char": 426,
+    "end_char": 434
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:3:term-usage:567-585",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:seguros-y-coberturas",
+    "span": "Seguro y Cobertura",
+    "start_char": 567,
+    "end_char": 585
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:4:term-usage:3-18",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reserva-general",
+    "span": "Reserva General",
+    "start_char": 3,
+    "end_char": 18
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:5:term-usage:20-28",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reservas",
+    "span": "Reservas",
+    "start_char": 20,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:5:term-usage:37-52",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reserva-general",
+    "span": "Reserva General",
+    "start_char": 37,
+    "end_char": 52
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:5:term-usage:398-406",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reservas",
+    "span": "Reservas",
+    "start_char": 398,
+    "end_char": 406
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:5:term-usage:415-430",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reserva-general",
+    "span": "Reserva General",
+    "start_char": 415,
+    "end_char": 430
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:5:term-usage:579-587",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reservas",
+    "span": "Reservas",
+    "start_char": 579,
+    "end_char": 587
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:5:term-usage:596-611",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reserva-general",
+    "span": "Reserva General",
+    "start_char": 596,
+    "end_char": 611
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:6:term-usage:4-12",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reservas",
+    "span": "Reservas",
+    "start_char": 4,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:6:term-usage:18-33",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reserva-general",
+    "span": "Reserva General",
+    "start_char": 18,
+    "end_char": 33
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:7:term-usage:3-18",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:consejo-tecnico",
+    "span": "Consejo Técnico",
+    "start_char": 3,
+    "end_char": 18
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:7:term-usage:181-189",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reservas",
+    "span": "Reservas",
+    "start_char": 181,
+    "end_char": 189
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:7:term-usage:195-210",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reserva-general",
+    "span": "Reserva General",
+    "start_char": 195,
+    "end_char": 210
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:7:term-usage:1134-1149",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:consejo-tecnico",
+    "span": "Consejo Técnico",
+    "start_char": 1134,
+    "end_char": 1149
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:8:term-usage:3-18",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:consejo-tecnico",
+    "span": "Consejo Técnico",
+    "start_char": 3,
+    "end_char": 18
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:8:term-usage:295-303",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reservas",
+    "span": "Reservas",
+    "start_char": 295,
+    "end_char": 303
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:8:term-usage:309-324",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reserva-general",
+    "span": "Reserva General",
+    "start_char": 309,
+    "end_char": 324
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:8:term-usage:634-642",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reservas",
+    "span": "Reservas",
+    "start_char": 634,
+    "end_char": 642
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:8:term-usage:650-665",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reserva-general",
+    "span": "Reserva General",
+    "start_char": 650,
+    "end_char": 665
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:8:term-usage:747-755",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reservas",
+    "span": "Reservas",
+    "start_char": 747,
+    "end_char": 755
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:8:term-usage:761-776",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reserva-general",
+    "span": "Reserva General",
+    "start_char": 761,
+    "end_char": 776
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:8:term-usage:1026-1034",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reservas",
+    "span": "Reservas",
+    "start_char": 1026,
+    "end_char": 1034
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:8:term-usage:1040-1055",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reserva-general",
+    "span": "Reserva General",
+    "start_char": 1040,
+    "end_char": 1055
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:9:term-usage:69-84",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:consejo-tecnico",
+    "span": "Consejo Técnico",
+    "start_char": 69,
+    "end_char": 84
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:9:term-usage:207-222",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:consejo-tecnico",
+    "span": "Consejo Técnico",
+    "start_char": 207,
+    "end_char": 222
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:9:term-usage:413-428",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:consejo-tecnico",
+    "span": "Consejo Técnico",
+    "start_char": 413,
+    "end_char": 428
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:10:term-usage:3-18",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:consejo-tecnico",
+    "span": "Consejo Técnico",
+    "start_char": 3,
+    "end_char": 18
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:10:term-usage:386-394",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reservas",
+    "span": "Reservas",
+    "start_char": 386,
+    "end_char": 394
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:10:term-usage:402-417",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reserva-general",
+    "span": "Reserva General",
+    "start_char": 402,
+    "end_char": 417
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:11:term-usage:107-115",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reservas",
+    "span": "Reservas",
+    "start_char": 107,
+    "end_char": 115
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:11:term-usage:124-139",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reserva-general",
+    "span": "Reserva General",
+    "start_char": 124,
+    "end_char": 139
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:11:term-usage:238-253",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:consejo-tecnico",
+    "span": "Consejo Técnico",
+    "start_char": 238,
+    "end_char": 253
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:12:term-usage:34-49",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reserva-general",
+    "span": "Reserva General",
+    "start_char": 34,
+    "end_char": 49
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:12:term-usage:59-67",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reservas",
+    "span": "Reservas",
+    "start_char": 59,
+    "end_char": 67
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:13:term-usage:14-22",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reservas",
+    "span": "Reservas",
+    "start_char": 14,
+    "end_char": 22
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:13:term-usage:31-46",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reserva-general",
+    "span": "Reserva General",
+    "start_char": 31,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:13:term-usage:81-96",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:consejo-tecnico",
+    "span": "Consejo Técnico",
+    "start_char": 81,
+    "end_char": 96
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:13:term-usage:266-274",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reservas",
+    "span": "Reservas",
+    "start_char": 266,
+    "end_char": 274
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:13:term-usage:283-298",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reserva-general",
+    "span": "Reserva General",
+    "start_char": 283,
+    "end_char": 298
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:13:term-usage:953-968",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:consejo-tecnico",
+    "span": "Consejo Técnico",
+    "start_char": 953,
+    "end_char": 968
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:14:term-usage:3-18",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:consejo-tecnico",
+    "span": "Consejo Técnico",
+    "start_char": 3,
+    "end_char": 18
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:14:term-usage:94-102",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reservas",
+    "span": "Reservas",
+    "start_char": 94,
+    "end_char": 102
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:14:term-usage:111-126",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reserva-general",
+    "span": "Reserva General",
+    "start_char": 111,
+    "end_char": 126
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:15:term-usage:18-33",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:consejo-tecnico",
+    "span": "Consejo Técnico",
+    "start_char": 18,
+    "end_char": 33
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:15:term-usage:57-65",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reservas",
+    "span": "Reservas",
+    "start_char": 57,
+    "end_char": 65
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:15:term-usage:74-89",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reserva-general",
+    "span": "Reserva General",
+    "start_char": 74,
+    "end_char": 89
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:15:term-usage:284-292",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reservas",
+    "span": "Reservas",
+    "start_char": 284,
+    "end_char": 292
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:15:term-usage:357-375",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:seguros-y-coberturas",
+    "span": "Seguro y Cobertura",
+    "start_char": 357,
+    "end_char": 375
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:15:term-usage:435-450",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reserva-general",
+    "span": "Reserva General",
+    "start_char": 435,
+    "end_char": 450
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:15:term-usage:455-470",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:consejo-tecnico",
+    "span": "Consejo Técnico",
+    "start_char": 455,
+    "end_char": 470
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:15:term-usage:489-507",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:seguros-y-coberturas",
+    "span": "Seguro y Cobertura",
+    "start_char": 489,
+    "end_char": 507
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:16:term-usage:39-54",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:consejo-tecnico",
+    "span": "Consejo Técnico",
+    "start_char": 39,
+    "end_char": 54
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:16:term-usage:132-140",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reservas",
+    "span": "Reservas",
+    "start_char": 132,
+    "end_char": 140
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:16:term-usage:146-161",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reserva-general",
+    "span": "Reserva General",
+    "start_char": 146,
+    "end_char": 161
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:16:term-usage:226-241",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:consejo-tecnico",
+    "span": "Consejo Técnico",
+    "start_char": 226,
+    "end_char": 241
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:16:term-usage:325-333",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reservas",
+    "span": "Reservas",
+    "start_char": 325,
+    "end_char": 333
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:16:term-usage:342-357",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reserva-general",
+    "span": "Reserva General",
+    "start_char": 342,
+    "end_char": 357
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:17:term-usage:34-41",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reservas",
+    "span": "Reserva",
+    "start_char": 34,
+    "end_char": 41
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:17:term-usage:231-239",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reservas",
+    "span": "Reservas",
+    "start_char": 231,
+    "end_char": 239
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:17:term-usage:444-451",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reservas",
+    "span": "Reserva",
+    "start_char": 444,
+    "end_char": 451
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:17:term-usage:595-602",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reservas",
+    "span": "Reserva",
+    "start_char": 595,
+    "end_char": 602
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:17:term-usage:754-762",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reservas",
+    "span": "Reservas",
+    "start_char": 754,
+    "end_char": 762
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:17:term-usage:960-967",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reservas",
+    "span": "Reserva",
+    "start_char": 960,
+    "end_char": 967
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:17:term-usage:1279-1286",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reservas",
+    "span": "Reserva",
+    "start_char": 1279,
+    "end_char": 1286
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:18:term-usage:620-628",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reservas",
+    "span": "Reservas",
+    "start_char": 620,
+    "end_char": 628
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:18:term-usage:633-648",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reserva-general",
+    "span": "Reserva General",
+    "start_char": 633,
+    "end_char": 648
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:transitory:segundo:term-usage:3-18",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:consejo-tecnico",
+    "span": "Consejo Técnico",
+    "start_char": 3,
+    "end_char": 18
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:transitory:segundo:term-usage:343-351",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reservas",
+    "span": "Reservas",
+    "start_char": 343,
+    "end_char": 351
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:transitory:segundo:term-usage:368-375",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reservas",
+    "span": "Reserva",
+    "start_char": 368,
+    "end_char": 375
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:transitory:segundo:term-usage:523-530",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reservas",
+    "span": "Reserva",
+    "start_char": 523,
+    "end_char": 530
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:transitory:cuarto:term-usage:3-18",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:consejo-tecnico",
+    "span": "Consejo Técnico",
+    "start_char": 3,
+    "end_char": 18
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:transitory:quinto:term-usage:3-18",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:consejo-tecnico",
+    "span": "Consejo Técnico",
+    "start_char": 3,
+    "end_char": 18
+  }
+]

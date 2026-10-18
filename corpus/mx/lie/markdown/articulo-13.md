@@ -19,4 +19,4 @@ source_sha256: 14cd17e37e96e766c8ab74950c71186d579c0ba6cc10ac9e8b06f6194af7d953
 
 La duración de los fideicomisos a que este capítulo se refiere, será por un periodo máximo de cincuenta años, mismo que podrá prorrogarse a solicitud del interesado.
 
-La Secretaría de Relaciones Exteriores podrá verificar en cualquier tiempo el cumplimiento de las condiciones bajo las cuales se otorguen los permisos previstos en el presente Título, así como la presentación y veracidad del contenido de los avisos dispuestos en el mismo. Párrafo reformado DOF 24-12-1996
+La [Secretaría](articulo-2o.md) de Relaciones Exteriores podrá verificar en cualquier tiempo el cumplimiento de las condiciones bajo las cuales se otorguen los permisos previstos en el presente Título, así como la presentación y veracidad del contenido de los avisos dispuestos en el mismo. Párrafo reformado DOF 24-12-1996

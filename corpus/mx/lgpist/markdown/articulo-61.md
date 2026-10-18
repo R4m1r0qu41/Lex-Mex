@@ -17,4 +17,4 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 # Artículo 61
 
-Las autoridades de los tres órdenes de gobierno, en el ámbito de su competencia, implementarán un sistema homologado de revisión sistemática de las normas, procedimientos y protocolos relativos a la detención, interrogatorio o tratamiento de las personas sometidas a cualquier forma de Privación de la libertad, y del uso legítimo de la fuerza con el fin de prevenir la tortura y otros tratos o penas crueles, inhumanos o degradantes.
+Las autoridades de los tres órdenes de gobierno, en el ámbito de su competencia, implementarán un sistema homologado de revisión sistemática de las normas, procedimientos y protocolos relativos a la detención, interrogatorio o tratamiento de las personas sometidas a cualquier forma de [Privación de la libertad](articulo-5.md), y del uso legítimo de la fuerza con el fin de prevenir la tortura y otros tratos o penas crueles, inhumanos o degradantes.

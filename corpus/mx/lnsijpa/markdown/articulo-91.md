@@ -17,4 +17,4 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 91
 
-Junta restaurativa La junta restaurativa es el mecanismo mediante el cual la víctima u ofendido, la persona adolescente y, en su caso, la comunidad afectada, en el libre ejercicio de su autonomía, buscan, construyen y proponen opciones de solución a la controversia, que se desarrollará conforme a lo establecido en la Ley de Mecanismos Alternativos y esta Ley.
+Junta restaurativa La junta restaurativa es el mecanismo mediante el cual la víctima u ofendido, la persona adolescente y, en su caso, la comunidad afectada, en el libre ejercicio de su autonomía, buscan, construyen y proponen opciones de solución a la controversia, que se desarrollará conforme a lo establecido en la [Ley de Mecanismos Alternativos](articulo-3.md) y esta [Ley](articulo-3.md).

@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 6
 
-La aplicación de este Reglamento compete al Ejecutivo Federal, por conducto de la Secretaría y la CONUEE, en el ámbito de sus competencias y sin perjuicio de las atribuciones que correspondan a otras dependencias y entidades de la Administración Pública Federal.
+La aplicación de este [Reglamento](articulo-5.md) compete al Ejecutivo Federal, por conducto de la [Secretaría](articulo-5.md) y la CONUEE, en el ámbito de sus competencias y sin perjuicio de las atribuciones que correspondan a otras dependencias y entidades de la Administración Pública Federal.

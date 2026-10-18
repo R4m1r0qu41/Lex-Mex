@@ -17,7 +17,7 @@ source_sha256: 14cd17e37e96e766c8ab74950c71186d579c0ba6cc10ac9e8b06f6194af7d953
 
 # Artículo 17
 
-Sin perjuicio de lo establecido en los tratados y convenios internacionales de los que México sea parte, deberán obtener autorización de la Secretaría:
+Sin perjuicio de lo establecido en los tratados y convenios internacionales de los que México sea parte, deberán obtener autorización de la [Secretaría](articulo-2o.md):
 
 I.- Las personas morales extranjeras que pretendan realizar habitualmente actos de comercio en la República, y
 

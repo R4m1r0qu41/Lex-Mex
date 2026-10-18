@@ -17,7 +17,7 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 60
 
-La calidad de la educación en el Sistema incluye las características, complementarias entre sí, las cuales son:
+La calidad de la educación en el [Sistema](articulo-3.md) incluye las características, complementarias entre sí, las cuales son:
 
 I. La eficacia, la cual consiste en lograr que las personas discentes aprendan lo establecido en los planes y programas al término de cada ciclo o nivel educativo y pone de manifiesto la eficiencia terminal y el rendimiento académico alcanzados en el proceso educativo;
 

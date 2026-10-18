@@ -17,6 +17,6 @@ source_sha256: 32822f50bb2de81185408f9450d61a49d678429c52c5379822a507c7027a5275
 
 # Artículo 72 Bis
 
-El Instituto deberá establecer los lineamientos y criterios técnicos para las metodologías de evaluación integral de la Política de Desarrollo Social.
+El [Instituto](articulo-5.md) deberá establecer los lineamientos y criterios técnicos para las metodologías de evaluación integral de la [Política de Desarrollo Social](articulo-5.md).
 
 Artículo adicionado DOF 16-07-2025

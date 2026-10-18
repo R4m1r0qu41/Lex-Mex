@@ -25,7 +25,7 @@ c) Día y hora de inicio y finalización de la medida;
 
 d) Datos acerca de la salud física y mental de la persona adolescente;
 
-e) En caso de sentencia, el Plan Individualizado de Ejecución, así como sus modificaciones, reportes e incidencias;
+e) En caso de sentencia, el [Plan Individualizado de Ejecución](articulo-3.md), así como sus modificaciones, reportes e incidencias;
 
 f) Registro del comportamiento de la persona adolescente durante el cumplimiento de la medida, y
 

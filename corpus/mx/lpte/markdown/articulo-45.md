@@ -17,4 +17,4 @@ source_sha256: c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41
 
 # Artículo 45
 
-La Secretaría debe utilizar procesos competitivos para asegurar que los recursos se asignen a los proyectos que ofrezcan mayores beneficios por monto invertido. Los recursos otorgados deben ser los mínimos necesarios para dar viabilidad a los proyectos, tomando en consideración los otros ingresos y estímulos que puedan recibir. Preferentemente la implementación se debe hacer a través de entidades públicas.
+La [Secretaría](articulo-3.md) debe utilizar procesos competitivos para asegurar que los recursos se asignen a los proyectos que ofrezcan mayores beneficios por monto invertido. Los recursos otorgados deben ser los mínimos necesarios para dar viabilidad a los proyectos, tomando en consideración los otros ingresos y estímulos que puedan recibir. Preferentemente la implementación se debe hacer a través de entidades públicas.

@@ -15,7 +15,7 @@ source_sha256: 0a9852297132d8972d0c2f77e1b67d614bd296632109065e703bd09254187aea
 
 # Artículo 34
 
-El Sistema de Consulta, en su caso, emitirá el reporte correspondiente de la persona detenida, el cual deberá contener al menos lo siguiente:
+El [Sistema de Consulta](articulo-2.md), en su caso, emitirá el reporte correspondiente de la persona detenida, el cual deberá contener al menos lo siguiente:
 
 I. La autoridad o institución que efectuó la detención;
 

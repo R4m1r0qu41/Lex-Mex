@@ -15,7 +15,7 @@ source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 
 # Artículo 89
 
-Cualquier otra infracción o incumplimiento a esta Ley, sus reglamentos, normas oficiales mexicanas y disposiciones técnico-administrativas que no esté expresamente prevista en los artículos anteriores de este capítulo, será sancionada por la Agencia Federal de Aviación Civil con multa de doscientas a cinco mil Unidades de Medida y Actualización. Párrafo reformado DOF 18-06-2018, 03-05-2023
+Cualquier otra infracción o incumplimiento a esta Ley, sus reglamentos, normas oficiales mexicanas y disposiciones técnico-administrativas que no esté expresamente prevista en los artículos anteriores de este capítulo, será sancionada por la [Agencia Federal de Aviación Civil](articulo-2.md) con multa de doscientas a cinco mil Unidades de Medida y Actualización. Párrafo reformado DOF 18-06-2018, 03-05-2023
 
 En caso de reincidencia, la Agencia Federal de Aviación Civil podrá imponer una sanción equivalente hasta el doble de la cuantía señalada en este capítulo. Párrafo reformado DOF 03-05-2023
 

@@ -17,7 +17,7 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # Artículo 155
 
-La Secretaría dictará las medidas necesarias a efecto de que los remates de bienes y productos pesqueros decomisados o la venta directa de estos últimos, se destinen precisamente a los fines establecidos en el artículo 29 de la Ley.
+La [Secretaría](articulo-2o.md) dictará las medidas necesarias a efecto de que los remates de bienes y productos pesqueros decomisados o la venta directa de estos últimos, se destinen precisamente a los fines establecidos en el artículo 29 de la [Ley](articulo-2o.md).
 
 Los productos pesqueros que se donen a establecimientos de asistencia social o de rehabilitación, sólo podrán ser destinados al consumo humano directo de los internos. Los demás bienes decomisados no podrán ser objeto de donación.
 

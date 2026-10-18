@@ -15,4 +15,4 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # DÉCIMO SEGUNDO
 
-La vigencia de las autorizaciones a que se refiere el artículo [53](articulo-53.md) de la presente Ley será de cinco años, en tanto no se expida el Reglamento de la Ley.
+La vigencia de las autorizaciones a que se refiere el artículo [53](articulo-53.md) de la presente [Ley](articulo-5.md) será de cinco años, en tanto no se expida el [Reglamento](articulo-5.md) de la Ley.

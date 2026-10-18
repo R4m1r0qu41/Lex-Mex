@@ -15,17 +15,17 @@ source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 
 # Artículo 78 Nonies
 
-La Secretaría coordinará al Comité Nacional de Seguridad de la Aviación Civil, a que se refiere la Ley de Aeropuertos, para que a través de la Agencia Federal de Aviación Civil ejecute sus funciones.
+La [Secretaría](articulo-2.md) coordinará al Comité Nacional de Seguridad de la Aviación Civil, a que se refiere la Ley de [Aeropuertos](articulo-2.md), para que a través de la [Agencia Federal de Aviación Civil](articulo-2.md) ejecute sus funciones.
 
 Artículo adicionado DOF 03-05-2023
 
-Artículo 78 Decies. Las personas concesionarias, asignatarias o permisionarias de transporte aéreo deben establecer, aplicar y mantener actualizado el Programa de Seguridad para la Prevención de Actos de Interferencia Ilícita, autorizado por la Agencia Federal de Aviación Civil. Dicho programa debe cumplir con los requisitos del Programa de Seguridad de la Aviación Civil del Estado mexicano.
+Artículo 78 Decies. Las personas concesionarias, asignatarias o permisionarias de transporte aéreo deben establecer, aplicar y mantener actualizado el Programa de Seguridad para la Prevención de Actos de Interferencia Ilícita, autorizado por la Agencia Federal de Aviación Civil. Dicho programa debe cumplir con los requisitos del [Programa de Seguridad de la Aviación Civil del Estado mexicano](articulo-2.md).
 
 Asimismo, la persona proveedora de servicios de tránsito aéreo debe establecer y aplicar su Programa de Seguridad de la Aviación Civil, previa revisión y, en su caso, autorización por la Agencia Federal de Aviación Civil.
 
 Artículo adicionado DOF 03-05-2023
 
-Artículo 78 Undecies. La Agencia Federal de Aviación Civil exigirá a aquellas personas permisionarias extranjeras de transporte aéreo comercial que explotan servicios hacia y desde el Estado mexicano establecer, aplicar y mantener procedimientos de seguridad de la aviación en el territorio nacional, suplementarios al Programa de Seguridad para la Prevención de Actos de Interferencia Ilícita, autorizado por la Autoridad de Aviación Civil Extranjera de la persona permisionaria de transporte aéreo.
+Artículo 78 Undecies. La Agencia Federal de Aviación Civil exigirá a aquellas personas permisionarias extranjeras de transporte aéreo comercial que explotan servicios hacia y desde el Estado mexicano establecer, aplicar y mantener procedimientos de seguridad de la aviación en el territorio nacional, suplementarios al Programa de Seguridad para la Prevención de Actos de Interferencia Ilícita, autorizado por la [Autoridad de Aviación Civil Extranjera](articulo-2.md) de la persona permisionaria de transporte aéreo.
 
 Artículo adicionado DOF 03-05-2023
 

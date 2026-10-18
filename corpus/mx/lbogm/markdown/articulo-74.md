@@ -19,7 +19,7 @@ source_sha256: b3c906475b455176de73da17f4f93a73f295965dc9bcca854b48417c7d4d3cfc
 
 Quienes realicen actividades de utilización confinada sujetas al requisito de presentación de aviso en los términos de esta Ley, deberán cumplir con lo siguiente:
 
-I. Llevar un libro de registro de las actividades de utilización confinada que realicen, el cual se deberá proporcionar a las Secretarías correspondientes cuando éstas lo soliciten;
+I. Llevar un libro de registro de las actividades de utilización confinada que realicen, el cual se deberá proporcionar a las [Secretarías](articulo-3.md) correspondientes cuando éstas lo soliciten;
 
 II. Aplicar las medidas de confinamiento cuya ejecución deberá adaptarse a los conocimientos científicos y técnicos más modernos y avanzados en materia de manejo de riesgos y de tratamiento, disposición final y eliminación de residuos de OGMs generados en la realización de la actividad, y
 

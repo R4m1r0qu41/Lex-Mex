@@ -17,7 +17,7 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # Artículo 40
 
-La Secretaría podrá otorgar a personas de nacionalidad mexicana, concesión o permiso para la pesca comercial por embarcación o unidad de esfuerzo pesquero, previo cumplimiento de los requisitos previstos por la Ley y este Reglamento.
+La [Secretaría](articulo-2o.md) podrá otorgar a personas de nacionalidad mexicana, concesión o permiso para la pesca comercial por embarcación o unidad de esfuerzo pesquero, previo cumplimiento de los requisitos previstos por la [Ley](articulo-2o.md) y este Reglamento.
 
 Las concesiones se otorgarán en función de la evaluación de los resultados que arrojen los estudios técnicos y económicos, así como la cuantía y recuperación de la inversión.
 

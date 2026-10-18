@@ -17,4 +17,4 @@ source_sha256: b19bcf104673af06117a6d4f3c947591f7a65999f19bad3dcfe2599a29bb3ab0
 
 # Artículo 77
 
-Para efectos de lo establecido en el [artículo anterior](articulo-76.md), las personas interesadas deben cumplir con los requisitos y procedimientos previstos en este Reglamento para los Permisos de Exploración, Permisos para Usos Diversos o Concesiones, respectivamente.
+Para efectos de lo establecido en el [artículo anterior](articulo-76.md), las personas interesadas deben cumplir con los requisitos y procedimientos previstos en este [Reglamento](articulo-3.md) para los Permisos de Exploración, Permisos para Usos Diversos o Concesiones, respectivamente.

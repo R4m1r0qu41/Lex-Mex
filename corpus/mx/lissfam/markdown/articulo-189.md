@@ -17,10 +17,10 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 189
 
-Si la Dirección encargada de tramitar administrativamente los retiros de la Secretaría respectiva estimare la procedencia del retiro, pero el Presidente de la República o la propia Secretaría considere necesarios los servicios del militar conforme a lo establecido en esta Ley, podrán ejercitar su derecho de retención en el activo, girando las órdenes conducentes.
+Si la Dirección encargada de tramitar administrativamente los retiros de la Secretaría respectiva estimare la procedencia del retiro, pero el Presidente de la República o la propia Secretaría considere necesarios los servicios del militar conforme a lo establecido en esta [Ley](articulo-4o.md), podrán ejercitar su derecho de retención en el activo, girando las órdenes conducentes.
 
 Este derecho de retención podrá ser ejercido en tanto no se giren las órdenes de baja en el activo y alta en situación de retiro.
 
-Declarada la retención, se interrumpirá el trámite de retiro, dándose aviso al Instituto y a la Secretaría de Hacienda y Crédito Público para que den por concluidos los trámites que se hubieren realizado y, en su caso, dejen sin efecto las resoluciones de otorgamiento de beneficio y su aprobación.
+Declarada la retención, se interrumpirá el trámite de retiro, dándose aviso al [Instituto](articulo-4o.md) y a la Secretaría de Hacienda y Crédito Público para que den por concluidos los trámites que se hubieren realizado y, en su caso, dejen sin efecto las resoluciones de otorgamiento de beneficio y su aprobación.
 
 Artículo reformado DOF 20-11-2008

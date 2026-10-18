@@ -17,4 +17,4 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 222
 
-El presupuesto de gastos y demás erogaciones derivadas del funcionamiento del Instituto, serán cubiertas con cargo a su propio patrimonio; sin embargo, el Gobierno Federal asume la obligación de cubrir en cualquier tiempo, el faltante que impida al mismo Instituto el pago de las prestaciones que deba erogar, de acuerdo con las disponibilidades presupuestales del propio Gobierno Federal.
+El presupuesto de gastos y demás erogaciones derivadas del funcionamiento del [Instituto](articulo-4o.md), serán cubiertas con cargo a su propio patrimonio; sin embargo, el Gobierno Federal asume la obligación de cubrir en cualquier tiempo, el faltante que impida al mismo Instituto el pago de las prestaciones que deba erogar, de acuerdo con las disponibilidades presupuestales del propio Gobierno Federal.

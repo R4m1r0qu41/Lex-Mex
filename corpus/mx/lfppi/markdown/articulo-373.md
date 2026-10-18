@@ -19,4 +19,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 La conciliación podrá ser solicitada por cualquiera de las partes, en cualquier etapa procesal, siempre y cuando no haya sido emitida la resolución sobre el fondo de la controversia.
 
-En la conciliación, el Instituto no se pronunciará sobre cuestiones de fondo, quedando bajo la responsabilidad de las partes los acuerdos que se adopten.
+En la conciliación, el [Instituto](articulo-4.md) no se pronunciará sobre cuestiones de fondo, quedando bajo la responsabilidad de las partes los acuerdos que se adopten.

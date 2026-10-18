@@ -17,4 +17,4 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 76
 
-La información y documentos que haya obtenido la Autoridad Investigadora en el ejercicio de sus atribuciones serán considerados como reservados, confidenciales o públicos en los términos de esta Ley.
+La información y documentos que haya obtenido la [Autoridad Investigadora](articulo-3.md) en el ejercicio de sus atribuciones serán considerados como reservados, confidenciales o públicos en los términos de esta Ley.

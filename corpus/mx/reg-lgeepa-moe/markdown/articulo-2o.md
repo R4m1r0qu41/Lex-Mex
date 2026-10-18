@@ -17,4 +17,4 @@ source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 
 # Artículo 2o
 
-La aplicación del presente Reglamento compete al Ejecutivo Federal por conducto de la Secretaría de Medio Ambiente y Recursos Naturales, sin perjuicio de las atribuciones conferidas a otras dependencias de la Administración Pública Federal de conformidad con las disposiciones legales aplicables.
+La aplicación del presente [Reglamento](articulo-3o.md) compete al Ejecutivo Federal por conducto de la [Secretaría](articulo-3o.md) de Medio Ambiente y Recursos Naturales, sin perjuicio de las atribuciones conferidas a otras dependencias de la Administración Pública Federal de conformidad con las disposiciones legales aplicables.

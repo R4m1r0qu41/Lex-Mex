@@ -17,4 +17,4 @@ source_sha256: 9478163ef6ab468edc2be8def3bf84efedd03da5b6c166fba0430bfcb6d8467c
 
 # Artículo 1
 
-El presente reglamento tiene por objeto regular la aplicación y debida observancia de la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad, el cual es de observancia obligatoria para esta empresa pública del Estado y quienes mantengan relación con ella.
+El presente reglamento tiene por objeto regular la aplicación y debida observancia de la [Ley](articulo-2.md) de la Empresa Pública del Estado, Comisión Federal de Electricidad, el cual es de observancia obligatoria para esta empresa pública del Estado y quienes mantengan relación con ella.

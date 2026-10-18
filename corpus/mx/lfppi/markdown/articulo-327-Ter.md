@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 327 Ter
 
-La Junta de Gobierno del Instituto contará con un Comité Técnico Especializado, el cual tiene por objeto conocer, atender y determinar sobre la procedencia de las solicitudes relacionadas con los procedimientos de emisión de resolución obligatoria de patentes o registros.
+La Junta de Gobierno del [Instituto](articulo-4.md) contará con un Comité Técnico Especializado, el cual tiene por objeto conocer, atender y determinar sobre la procedencia de las solicitudes relacionadas con los procedimientos de emisión de resolución obligatoria de patentes o registros.
 
 La integración, operación y funcionamiento del Comité Técnico Especializado será en los términos que establezcan los lineamientos que emita la Junta de Gobierno del Instituto.
 

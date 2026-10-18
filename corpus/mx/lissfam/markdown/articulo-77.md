@@ -17,7 +17,7 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 77
 
-Si al morir el militar no existiere designación de beneficiarios conforme a esta Ley, el seguro se pagará a los familiares de acuerdo con la prelación siguiente:
+Si al morir el militar no existiere designación de beneficiarios conforme a esta [Ley](articulo-4o.md), el seguro se pagará a los familiares de acuerdo con la prelación siguiente:
 
 I. Al cónyuge o, si no lo hubiere, a la concubina o al concubinario, en los términos de los artículos [38](articulo-38.md), fracción II, incisos a) y b), y 160 de esta Ley, en concurrencia con los hijos del militar por partes iguales;
 

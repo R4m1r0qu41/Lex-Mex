@@ -17,6 +17,6 @@ source_sha256: 51d855a586ad7017a8d8f5c36819a2bd0d3d488f3f4b23594a729418a8b776b4
 
 # Artículo 12
 
-Las unidades competentes de la Comisión Ejecutiva remitirán el Formato y un informe sobre las acciones realizadas y medidas adoptadas al Comité Interdisciplinario Evaluador.
+Las unidades competentes de la Comisión Ejecutiva remitirán el [Formato](articulo-3.md) y un informe sobre las acciones realizadas y medidas adoptadas al [Comité](articulo-3.md) Interdisciplinario Evaluador.
 
-El Comité antes referido realizará el análisis de la información, formará el expediente de la víctima, someterá a la Comisión Ejecutiva el dictamen sobre su inscripción en el Registro y realizará las acciones que le correspondan en el ámbito de su competencia, conforme al Estatuto Orgánico y demás disposiciones aplicables.
+El Comité antes referido realizará el análisis de la información, formará el expediente de la víctima, someterá a la Comisión Ejecutiva el dictamen sobre su inscripción en el Registro y realizará las acciones que le correspondan en el ámbito de su competencia, conforme al [Estatuto Orgánico](articulo-3.md) y demás disposiciones aplicables.

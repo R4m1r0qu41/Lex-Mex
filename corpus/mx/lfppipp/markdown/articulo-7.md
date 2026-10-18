@@ -17,13 +17,13 @@ source_sha256: 2a105e5201b86ff5517ca1ef8d971224ea8c717f195fdd5fa28b916c7e622e56
 
 # Artículo 7
 
-El Director, para el cumplimiento de la presente Ley contará con las siguientes facultades:
+El [Director](articulo-2.md), para el cumplimiento de la presente [Ley](articulo-2.md) contará con las siguientes facultades:
 
-I. Suscribir y emitir los instrumentos jurídicos que faciliten el funcionamiento y operación del Programa, previa consideración del Fiscal. Fracción reformada DOF 20-05-2021
+I. Suscribir y emitir los instrumentos jurídicos que faciliten el funcionamiento y operación del [Programa](articulo-2.md), previa consideración del [Fiscal](articulo-2.md). Fracción reformada DOF 20-05-2021
 
 II. Recibir y analizar las solicitudes de incorporación de una persona al Programa, en virtud de encontrarse en situación de riesgo o peligro por su intervención en un Procedimiento Penal.
 
-Estas solicitudes deberán ser presentadas por el Titular de la Fiscalía General o de la unidad administrativa equivalente a las que se encuentre asignado el Ministerio Público responsable del Procedimiento Penal, en donde interviene o ha intervenido la persona a proteger. Párrafo reformado DOF 20-05-2021
+Estas solicitudes deberán ser presentadas por el Titular de la [Fiscalía General](articulo-2.md) o de la unidad administrativa equivalente a las que se encuentre asignado el Ministerio Público responsable del Procedimiento Penal, en donde interviene o ha intervenido la persona a proteger. Párrafo reformado DOF 20-05-2021
 
 III. Ordenar la práctica de estudios psicológicos, clínicos y, en general, de todos aquellos que sean necesarios para garantizar la idoneidad de la incorporación de la persona al Programa, así como para su permanencia.
 
@@ -33,11 +33,11 @@ V. Integrar y proponer al Fiscal el presupuesto para la operatividad del Program
 
 VI. Llevar el registro y expediente de las personas incorporadas al Programa.
 
-VII. Mantener las Medidas de Protección que dicte provisionalmente el Ministerio Público o establecer las que estime necesarias para su debida protección, previa solicitud del Titular de la Fiscalía o de la unidad administrativa equivalente a la que pertenezca, hasta en tanto se determina su incorporación al Programa. Fracción reformada DOF 20-05-2021
+VII. Mantener las [Medidas de Protección](articulo-2.md) que dicte provisionalmente el Ministerio Público o establecer las que estime necesarias para su debida protección, previa solicitud del Titular de la Fiscalía o de la unidad administrativa equivalente a la que pertenezca, hasta en tanto se determina su incorporación al Programa. Fracción reformada DOF 20-05-2021
 
 VIII. Dictar las Medidas de Protección que resulten procedentes.
 
-IX. Acordar con el Fiscal el cese de las Medidas de Protección cuando se entiendan superadas las circunstancias que las motivaron o, en caso de incumplimiento, de las obligaciones asumidas por la persona a través del Convenio de Entendimiento o por actualizarse alguna de las hipótesis planteadas en los artículos [27](articulo-27.md), [29](articulo-29.md), [33](articulo-33.md), [34](articulo-34.md), [36](articulo-36.md), [37](articulo-37.md) y demás relativos de la presente Ley. Fracción reformada DOF 20-05-2021
+IX. Acordar con el Fiscal el cese de las Medidas de Protección cuando se entiendan superadas las circunstancias que las motivaron o, en caso de incumplimiento, de las obligaciones asumidas por la persona a través del [Convenio de Entendimiento](articulo-2.md) o por actualizarse alguna de las hipótesis planteadas en los artículos [27](articulo-27.md), [29](articulo-29.md), [33](articulo-33.md), [34](articulo-34.md), [36](articulo-36.md), [37](articulo-37.md) y demás relativos de la presente Ley. Fracción reformada DOF 20-05-2021
 
 X. Gestionar ante la Oficialía Mayor de la Fiscalía lo relativo a la obtención de los recursos humanos, materiales, tecnológicos y financieros para la correcta aplicación de sus obligaciones, una vez que se haya autorizado el presupuesto para tal efecto. Fracción reformada DOF 20-05-2021
 

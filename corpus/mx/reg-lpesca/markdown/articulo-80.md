@@ -17,6 +17,6 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # Artículo 80
 
-Las instituciones de enseñanza que desarrollen programas educativos de pesca deberán informar a la Secretaría, acerca del volumen y especies obtenidas, dentro del plazo que se determine en la autorización.
+Las instituciones de enseñanza que desarrollen programas educativos de pesca deberán informar a la [Secretaría](articulo-2o.md), acerca del volumen y especies obtenidas, dentro del plazo que se determine en la autorización.
 
 La captura producto de las actividades realizadas al amparo de estas autorizaciones podrá comercializarse, siempre que el producto de su venta se aplique exclusivamente al desarrollo de las labores de las propias instituciones.

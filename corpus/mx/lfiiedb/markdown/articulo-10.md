@@ -17,4 +17,4 @@ source_sha256: 7679afbbf32749e0c0bacab72644d41fc6ccdeeab3a2f25dfae8d26a065de01e
 
 # Artículo 10
 
-A efecto de apoyar el desarrollo de Proyectos para el desarrollo con bienestar, la Secretaría instrumentará la creación o se apoyará de Vehículos de Propósito Específico, que permitan generar una coordinación efectiva con los sectores privado y social, para el bienestar del pueblo de México, sujetándose en todo momento al marco constitucional y a las disposiciones aplicables en materia presupuestaria, financiera y de deuda pública.
+A efecto de apoyar el desarrollo de [Proyectos para el desarrollo con bienestar](articulo-4.md), la [Secretaría](articulo-4.md) instrumentará la creación o se apoyará de [Vehículos de Propósito Específico](articulo-4.md), que permitan generar una coordinación efectiva con los sectores privado y social, para el bienestar del pueblo de México, sujetándose en todo momento al marco constitucional y a las disposiciones aplicables en materia presupuestaria, financiera y de deuda pública.

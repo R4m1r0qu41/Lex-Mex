@@ -17,7 +17,7 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 72
 
-El fondo del seguro de vida militar a cargo del Instituto se integra con los siguientes recursos:
+El fondo del seguro de vida militar a cargo del [Instituto](articulo-4o.md) se integra con los siguientes recursos:
 
 I. Con los recursos que a la fecha mantiene el Instituto en el fondo del seguro de vida militar;
 

@@ -17,4 +17,4 @@ source_sha256: d9ffbbf8f19b54a93ff577abb1266e4be1316d935e79fad655242955fd80ff70
 
 # Artículo 10
 
-Efectuada la evaluación, la Secretaría podrá indicar al solicitante, cuando corresponda, que deberá formular e implantar una estrategia para reducir la producción de desechos, auxiliándose con las instancias competentes, en cuyo caso, implementará las inspecciones necesarias a fin de verificar su cumplimiento.
+Efectuada la evaluación, la [Secretaría](articulo-2.md) podrá indicar al solicitante, cuando corresponda, que deberá formular e implantar una estrategia para reducir la producción de desechos, auxiliándose con las instancias competentes, en cuyo caso, implementará las inspecciones necesarias a fin de verificar su cumplimiento.

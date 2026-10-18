@@ -17,7 +17,7 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 141
 
-La Secretaría, en coordinación con las Secretarías de Economía y de Salud, expedirá normas oficiales mexicanas para la fabricación y utilización de empaques y envases para todo tipo de productos, cuyos materiales permitan reducir la generación de residuos sólidos. Párrafo reformado DOF 09-04-2012
+La [Secretaría](articulo-3o.md), en coordinación con las Secretarías de Economía y de Salud, expedirá normas oficiales mexicanas para la fabricación y utilización de empaques y envases para todo tipo de productos, cuyos materiales permitan reducir la generación de residuos sólidos. Párrafo reformado DOF 09-04-2012
 
 Asimismo, dichas Dependencias promoverán ante los organismos nacionales de normalización respectivos, la emisión de normas mexicanas en las materias a las que se refiere este precepto.
 

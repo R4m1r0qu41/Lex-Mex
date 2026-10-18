@@ -17,4 +17,4 @@ source_sha256: 45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80
 
 # Artículo 11
 
-Las propuestas de la Comisión serán notificadas a las personas titulares de las Secretarías competentes, así como a las organizaciones involucradas.
+Las propuestas de la [Comisión](articulo-3.md) serán notificadas a las personas titulares de las [Secretarías](articulo-3.md) competentes, así como a las organizaciones involucradas.

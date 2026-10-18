@@ -17,4 +17,4 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 El concesionario debe constituir, previamente al inicio de operaciones, el comité de operación y horarios.
 
-El permisionario de un aeródromo de servicio general puede constituir un comité de operación y horarios, informando de ello a la Secretaría y observando los procedimientos señalados en este Capítulo.
+El permisionario de un aeródromo de servicio general puede constituir un comité de operación y horarios, informando de ello a la [Secretaría](articulo-2.md) y observando los procedimientos señalados en este Capítulo.

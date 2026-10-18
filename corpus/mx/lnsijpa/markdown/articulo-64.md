@@ -17,11 +17,11 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 64
 
-Especialización de los operadores del Sistema Integral Los operadores del Sistema son todas aquellas personas que forman parte de los órganos antes mencionados y deberán contar con un perfil especializado e idóneo que acredite los siguientes conocimientos y habilidades:
+Especialización de los operadores del [Sistema](articulo-3.md) Integral Los operadores del Sistema son todas aquellas personas que forman parte de los órganos antes mencionados y deberán contar con un perfil especializado e idóneo que acredite los siguientes conocimientos y habilidades:
 
 I. Conocimientos interdisciplinarios en materia de derechos de niñas, niños y adolescentes;
 
-II. Conocimientos específicos sobre el Sistema Integral de Justicia Penal para Adolescentes;
+II. Conocimientos específicos sobre el Sistema Integral de Justicia Penal para [Adolescentes](articulo-3.md);
 
 III. Conocimientos del sistema penal acusatorio, las medidas de sanción especiales y la prevención del delito para adolescentes;
 

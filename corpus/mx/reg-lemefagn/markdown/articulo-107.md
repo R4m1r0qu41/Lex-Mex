@@ -17,6 +17,6 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 107
 
-En caso de inconformidad por el resultado de alguna evaluación, la persona discente podrá presentar por escrito, ante la Dirección de la Institución Educativa o Jefatura de Curso correspondiente, en un término no mayor de cinco días naturales contados a partir de la fecha en que tenga conocimiento del resultado, su inconformidad, expresando los motivos para ello.
+En caso de inconformidad por el resultado de alguna evaluación, la persona discente podrá presentar por escrito, ante la Dirección de la [Institución Educativa](articulo-3.md) o Jefatura de Curso correspondiente, en un término no mayor de cinco días naturales contados a partir de la fecha en que tenga conocimiento del resultado, su inconformidad, expresando los motivos para ello.
 
 Artículo reformado DOF 20-03-2026

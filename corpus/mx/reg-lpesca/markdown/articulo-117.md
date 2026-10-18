@@ -41,4 +41,4 @@ X. Procedencia y cantidad de organismos requeridos;
 
 XI. Medidas preventivas, de diagnóstico y de control sanitario, y
 
-XII. Comercialización. El desarrollo de los datos antes descritos deberá apegarse a la guía que para tal efecto emita la Secretaría.
+XII. Comercialización. El desarrollo de los datos antes descritos deberá apegarse a la guía que para tal efecto emita la [Secretaría](articulo-2o.md).

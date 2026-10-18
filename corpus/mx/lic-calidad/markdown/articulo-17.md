@@ -17,7 +17,7 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 17
 
-Para el adecuado ejercicio de sus atribuciones, operación y ejecución de sus resoluciones, la Comisión estará integrada por:
+Para el adecuado ejercicio de sus atribuciones, operación y ejecución de sus resoluciones, la [Comisión](articulo-4.md) estará integrada por:
 
 I. Un Presidente;
 

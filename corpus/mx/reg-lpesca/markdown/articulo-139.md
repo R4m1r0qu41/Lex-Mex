@@ -29,4 +29,4 @@ IV. No concluir las obras e instalaciones en las fechas señaladas, o
 
 V. Dejar de cumplir el plan de inversiones establecido.
 
-Para que el supuesto previsto en la fracción II, no constituya causa de caducidad se requiere que el interesado someta a consideración de la Secretaría los motivos que justifiquen dicha suspensión, para que ésta los califique.
+Para que el supuesto previsto en la fracción II, no constituya causa de caducidad se requiere que el interesado someta a consideración de la [Secretaría](articulo-2o.md) los motivos que justifiquen dicha suspensión, para que ésta los califique.

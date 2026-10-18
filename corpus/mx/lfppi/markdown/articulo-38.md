@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 38
 
-El derecho a obtener una patente o un registro pertenecerá a la persona inventora, diseñadora o creadora, según sea el caso, sin perjuicio de lo dispuesto en el artículo [40](articulo-40.md) de esta Ley. Si la invención, el modelo de utilidad, el diseño industrial o el esquema de trazado de circuito integrado, hubiese sido realizado por dos o más personas conjuntamente, el derecho a obtener la patente o el registro les pertenecerá en común a todas ellas. Párrafo reformado DOF 03-04-2026
+El derecho a obtener una patente o un registro pertenecerá a la persona inventora, diseñadora o creadora, según sea el caso, sin perjuicio de lo dispuesto en el artículo [40](articulo-40.md) de esta [Ley](articulo-4.md). Si la invención, el modelo de utilidad, el diseño industrial o el esquema de trazado de circuito integrado, hubiese sido realizado por dos o más personas conjuntamente, el derecho a obtener la patente o el registro les pertenecerá en común a todas ellas. Párrafo reformado DOF 03-04-2026
 
 Si varias personas hicieran la misma invención, modelo de utilidad, diseño industrial o esquema de trazado de circuito integrado, independientemente unas de otras, tendrá mejor derecho a obtener la patente o el registro aquélla que primero presente la solicitud respectiva o que reivindique la prioridad de fecha más antigua, siempre que la solicitud no sea retirada, abandonada ni negada.
 

@@ -17,4 +17,4 @@ source_sha256: 667636f9e0ea65e72ac9d6d7b4d7563a183b75d0f140268a61929c74f5f88041
 
 # Artículo 3
 
-A falta de disposición expresa en el presente ordenamiento, se estará a lo establecido en la Ley Federal de Procedimiento Administrativo.
+A falta de disposición expresa en el presente ordenamiento, se estará a lo establecido en la [Ley](articulo-2.md) Federal de Procedimiento Administrativo.

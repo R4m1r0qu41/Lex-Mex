@@ -15,7 +15,7 @@ source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 
 # Artículo 7 Bis
 
-Los comandantes de aeropuerto deberán ser mexicanos por nacimiento que no adquieran otra nacionalidad, y en el ejercicio de sus atribuciones dependerán funcional y operativamente de la Agencia Federal de Aviación Civil, a través de los comandantes regionales. Párrafo reformado DOF 20-05-2021
+Los comandantes de aeropuerto deberán ser mexicanos por nacimiento que no adquieran otra nacionalidad, y en el ejercicio de sus atribuciones dependerán funcional y operativamente de la [Agencia Federal de Aviación Civil](articulo-2.md), a través de los comandantes regionales. Párrafo reformado DOF 20-05-2021
 
 Los comandantes de aeropuerto tendrán las atribuciones que a continuación se mencionan, las cuales ejercerán en las demarcaciones geográficas que expresamente les sean determinadas por la propia Agencia Federal de Aviación Civil: Párrafo reformado DOF 20-05-2021
 

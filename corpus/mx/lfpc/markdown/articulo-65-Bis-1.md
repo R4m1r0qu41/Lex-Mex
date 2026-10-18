@@ -15,7 +15,7 @@ source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 
 # Artículo 65 Bis 1
 
-Para obtener de la Procuraduría el registro para operar como casa de empeño se requiere, además de la documentación e información que la Procuraduría establezca mediante disposiciones de carácter general, los siguientes requisitos:
+Para obtener de la [Procuraduría](articulo-2.md) el registro para operar como casa de empeño se requiere, además de la documentación e información que la Procuraduría establezca mediante disposiciones de carácter general, los siguientes requisitos:
 
 I. Presentar solicitud por escrito dirigida a la Procuraduría con los siguientes datos:
 

@@ -15,4 +15,4 @@ source_sha256: 7b3cf7a0ff59f76503a97a535457c4a7dd3b1305e7a36f4fca82bd661eab1168
 
 # SEGUNDO
 
-El Titular del Ejecutivo Federal expedirá el Estatuto Laboral del Centro, dentro de los nueve meses siguientes a la entrada en vigor de la presente Ley, el cual deberá ser publicado en el Diario Oficial de la Federación para surtir plenos efectos.
+El Titular del Ejecutivo Federal expedirá el Estatuto Laboral del [Centro](articulo-6.md), dentro de los nueve meses siguientes a la entrada en vigor de la presente Ley, el cual deberá ser publicado en el Diario Oficial de la Federación para surtir plenos efectos.

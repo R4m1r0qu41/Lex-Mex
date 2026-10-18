@@ -17,4 +17,4 @@ source_sha256: c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41
 
 # Artículo 44
 
-Con el fin de potenciar el financiamiento disponible para los propósitos establecidos en el [artículo anterior](articulo-43.md), los recursos del Fondo para la Transición Energética y el Aprovechamiento Sustentable de la Energía pueden ser de carácter recuperable y no recuperable, incluyendo el otorgamiento de garantías de crédito u otro tipo de apoyos financieros para los proyectos que sean aprobados, según se establezca en sus reglas de operación.
+Con el fin de potenciar el financiamiento disponible para los propósitos establecidos en el [artículo anterior](articulo-43.md), los recursos del Fondo para la [Transición Energética](articulo-3.md) y el [Aprovechamiento Sustentable de la Energía](articulo-3.md) pueden ser de carácter recuperable y no recuperable, incluyendo el otorgamiento de garantías de crédito u otro tipo de apoyos financieros para los proyectos que sean aprobados, según se establezca en sus reglas de operación.

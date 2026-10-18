@@ -17,4 +17,4 @@ source_sha256: 14cd17e37e96e766c8ab74950c71186d579c0ba6cc10ac9e8b06f6194af7d953
 
 # Artículo 35
 
-Los sujetos obligados a inscribirse en el Registro, deberán renovar anualmente su constancia de inscripción, para lo cual bastará presentar un cuestionario económico-financiero en los términos que fije el reglamento respectivo.
+Los sujetos obligados a inscribirse en el [Registro](articulo-2o.md), deberán renovar anualmente su constancia de inscripción, para lo cual bastará presentar un cuestionario económico-financiero en los términos que fije el reglamento respectivo.

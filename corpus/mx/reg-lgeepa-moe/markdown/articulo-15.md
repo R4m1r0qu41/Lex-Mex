@@ -17,4 +17,4 @@ source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 
 # Artículo 15
 
-La cartografía, bases de datos y documentos que formen parte de la bitácora ambiental, deberán apegarse a los formatos y estándares que establezca la Secretaría para su integración al Subsistema.
+La cartografía, bases de datos y documentos que formen parte de la bitácora ambiental, deberán apegarse a los formatos y estándares que establezca la [Secretaría](articulo-3o.md) para su integración al [Subsistema](articulo-3o.md).

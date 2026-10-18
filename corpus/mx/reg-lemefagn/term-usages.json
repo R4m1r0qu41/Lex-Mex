@@ -1,1 +1,1838 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:1:term-usage:170-177",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 170,
+    "end_char": 177
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:1:term-usage:265-272",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 265,
+    "end_char": 272
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:1:term-usage:417-424",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 417,
+    "end_char": 424
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:2:term-usage:384-408",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 384,
+    "end_char": 408
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:5:term-usage:69-76",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 69,
+    "end_char": 76
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:6:term-usage:158-182",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 158,
+    "end_char": 182
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:6:term-usage:590-602",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:plan-general",
+    "span": "Plan General",
+    "start_char": 590,
+    "end_char": 602
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:7:term-usage:26-50",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 26,
+    "end_char": 50
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:8:term-usage:32-56",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 32,
+    "end_char": 56
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:9:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:10:term-usage:19-43",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 19,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:11:term-usage:449-473",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 449,
+    "end_char": 473
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:12:term-usage:153-174",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 153,
+    "end_char": 174
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:14:term-usage:567-588",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 567,
+    "end_char": 588
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:15:term-usage:30-54",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 30,
+    "end_char": 54
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:15:term-usage:199-220",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 199,
+    "end_char": 220
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:15:term-usage:311-332",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 311,
+    "end_char": 332
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:15:term-usage:579-603",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 579,
+    "end_char": 603
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:16:term-usage:45-66",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 45,
+    "end_char": 66
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:18:term-usage:314-335",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 314,
+    "end_char": 335
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:20:term-usage:71-78",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 71,
+    "end_char": 78
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:20:term-usage:382-403",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 382,
+    "end_char": 403
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:20:term-usage:640-661",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 640,
+    "end_char": 661
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:21:term-usage:49-73",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 49,
+    "end_char": 73
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:23:term-usage:468-492",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 468,
+    "end_char": 492
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:23:term-usage:966-987",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 966,
+    "end_char": 987
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:23:term-usage:1118-1139",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 1118,
+    "end_char": 1139
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:23:term-usage:1404-1425",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 1404,
+    "end_char": 1425
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:23:term-usage:1631-1652",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 1631,
+    "end_char": 1652
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:23:term-usage:1703-1724",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 1703,
+    "end_char": 1724
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:23:term-usage:2173-2197",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 2173,
+    "end_char": 2197
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:23:term-usage:2293-2317",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 2293,
+    "end_char": 2317
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:23:term-usage:2389-2410",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 2389,
+    "end_char": 2410
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:26:term-usage:130-154",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 130,
+    "end_char": 154
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:26:term-usage:357-381",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 357,
+    "end_char": 381
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:27:term-usage:115-122",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 115,
+    "end_char": 122
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:29:term-usage:49-73",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 49,
+    "end_char": 73
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:30:term-usage:4-28",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 4,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:30:term-usage:519-543",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 519,
+    "end_char": 543
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:31:term-usage:255-276",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:31",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 255,
+    "end_char": 276
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:32:term-usage:80-101",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:32",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 80,
+    "end_char": 101
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:33:term-usage:20-27",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 20,
+    "end_char": 27
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:33:term-usage:250-274",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 250,
+    "end_char": 274
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:34:term-usage:235-242",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 235,
+    "end_char": 242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:34:term-usage:249-261",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:plan-general",
+    "span": "Plan General",
+    "start_char": 249,
+    "end_char": 261
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:35:term-usage:61-68",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 61,
+    "end_char": 68
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:37:term-usage:156-163",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 156,
+    "end_char": 163
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:37:term-usage:182-194",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:plan-general",
+    "span": "Plan General",
+    "start_char": 182,
+    "end_char": 194
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:37:term-usage:654-661",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 654,
+    "end_char": 661
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:37:term-usage:794-818",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 794,
+    "end_char": 818
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:37:term-usage:919-943",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 919,
+    "end_char": 943
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:37:term-usage:979-986",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 979,
+    "end_char": 986
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:37:term-usage:1153-1160",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 1153,
+    "end_char": 1160
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:37:term-usage:1287-1294",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 1287,
+    "end_char": 1294
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:37:term-usage:1539-1546",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 1539,
+    "end_char": 1546
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:37:term-usage:1729-1736",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 1729,
+    "end_char": 1736
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:38:term-usage:46-70",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 46,
+    "end_char": 70
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:39:term-usage:49-73",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 49,
+    "end_char": 73
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:39:term-usage:382-403",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 382,
+    "end_char": 403
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:42:term-usage:3-15",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:42",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:plan-general",
+    "span": "Plan General",
+    "start_char": 3,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:42:term-usage:132-139",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:42",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 132,
+    "end_char": 139
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:43:term-usage:21-33",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:43",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:plan-general",
+    "span": "Plan General",
+    "start_char": 21,
+    "end_char": 33
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:44:term-usage:4-28",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:44",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 4,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:44:term-usage:60-67",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:44",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 60,
+    "end_char": 67
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:44:term-usage:279-303",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:44",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 279,
+    "end_char": 303
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:45:term-usage:4-28",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:45",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 4,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:46:term-usage:4-28",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:46",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 4,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:46:term-usage:45-52",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:46",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 45,
+    "end_char": 52
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:51:term-usage:125-149",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 125,
+    "end_char": 149
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:51-bis:term-usage:334-358",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:51-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 334,
+    "end_char": 358
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:52:term-usage:78-102",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:52",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 78,
+    "end_char": 102
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:52:term-usage:359-380",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:52",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 359,
+    "end_char": 380
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:52:term-usage:433-454",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:52",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 433,
+    "end_char": 454
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:52:term-usage:704-728",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:52",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 704,
+    "end_char": 728
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:53:term-usage:229-250",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:53",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 229,
+    "end_char": 250
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:54:term-usage:207-214",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:54",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 207,
+    "end_char": 214
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:55:term-usage:3-15",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:55",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:plan-general",
+    "span": "Plan General",
+    "start_char": 3,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:55:term-usage:150-157",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:55",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 150,
+    "end_char": 157
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:56:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:57:term-usage:215-239",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:57",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 215,
+    "end_char": 239
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:59:term-usage:121-128",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:59",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 121,
+    "end_char": 128
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:59:term-usage:316-323",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:59",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 316,
+    "end_char": 323
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:60:term-usage:33-40",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:60",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 33,
+    "end_char": 40
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:61:term-usage:66-87",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:61",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 66,
+    "end_char": 87
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:61:term-usage:723-744",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:61",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 723,
+    "end_char": 744
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:61:term-usage:1043-1064",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:61",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 1043,
+    "end_char": 1064
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:62:term-usage:193-200",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:62",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 193,
+    "end_char": 200
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:63:term-usage:331-355",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:63",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 331,
+    "end_char": 355
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:66:term-usage:763-771",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:66",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistemas",
+    "start_char": 763,
+    "end_char": 771
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:67:term-usage:87-94",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:67",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 87,
+    "end_char": 94
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:70:term-usage:390-414",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:70",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 390,
+    "end_char": 414
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:72:term-usage:15-22",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:72",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 15,
+    "end_char": 22
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:77:term-usage:38-50",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:77",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:plan-general",
+    "span": "Plan General",
+    "start_char": 38,
+    "end_char": 50
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:77:term-usage:173-180",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:77",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 173,
+    "end_char": 180
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:77:term-usage:1294-1301",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:77",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 1294,
+    "end_char": 1301
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:78:term-usage:41-65",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:78",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 41,
+    "end_char": 65
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:78:term-usage:272-284",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:78",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:plan-general",
+    "span": "Plan General",
+    "start_char": 272,
+    "end_char": 284
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:79:term-usage:574-581",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:79",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 574,
+    "end_char": 581
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:83:term-usage:4-28",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:83",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 4,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:84:term-usage:4-28",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:84",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 4,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:84:term-usage:173-197",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:84",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 173,
+    "end_char": 197
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:95:term-usage:30-54",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:95",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 30,
+    "end_char": 54
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:95:term-usage:295-316",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:95",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 295,
+    "end_char": 316
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:95:term-usage:370-391",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:95",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 370,
+    "end_char": 391
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:95:term-usage:954-975",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:95",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 954,
+    "end_char": 975
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:95:term-usage:1035-1056",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:95",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 1035,
+    "end_char": 1056
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:96:term-usage:44-65",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:96",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 44,
+    "end_char": 65
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:97:term-usage:4-28",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:97",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 4,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:98:term-usage:4-28",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:98",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 4,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:99:term-usage:4-28",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:99",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 4,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:100:term-usage:146-167",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:100",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 146,
+    "end_char": 167
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:102:term-usage:76-100",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:102",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 76,
+    "end_char": 100
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:105:term-usage:4-28",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:105",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 4,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:107:term-usage:137-158",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:107",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 137,
+    "end_char": 158
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:108:term-usage:116-137",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:108",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 116,
+    "end_char": 137
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:109:term-usage:29-53",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:109",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 29,
+    "end_char": 53
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:110:term-usage:67-88",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:110",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 67,
+    "end_char": 88
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:111:term-usage:58-65",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:111",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 58,
+    "end_char": 65
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:112:term-usage:66-73",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:112",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 66,
+    "end_char": 73
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:113:term-usage:166-190",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:113",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 166,
+    "end_char": 190
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:114:term-usage:204-211",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:114",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 204,
+    "end_char": 211
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:114:term-usage:344-351",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:114",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 344,
+    "end_char": 351
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:115:term-usage:172-179",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:115",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 172,
+    "end_char": 179
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:116:term-usage:158-165",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:116",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 158,
+    "end_char": 165
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:117:term-usage:170-194",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:117",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 170,
+    "end_char": 194
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:117:term-usage:409-416",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:117",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 409,
+    "end_char": 416
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:117:term-usage:482-489",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:117",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 482,
+    "end_char": 489
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:118:term-usage:229-253",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:118",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 229,
+    "end_char": 253
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:119:term-usage:222-246",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:119",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 222,
+    "end_char": 246
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:120:term-usage:211-218",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:120",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 211,
+    "end_char": 218
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:120:term-usage:286-293",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:120",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 286,
+    "end_char": 293
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:120:term-usage:377-401",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:120",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 377,
+    "end_char": 401
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:121:term-usage:226-250",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:121",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 226,
+    "end_char": 250
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:122:term-usage:138-145",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:122",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 138,
+    "end_char": 145
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:124:term-usage:138-159",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:124",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 138,
+    "end_char": 159
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:125:term-usage:119-126",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:125",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 119,
+    "end_char": 126
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:126:term-usage:43-50",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:126",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 43,
+    "end_char": 50
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:127:term-usage:128-135",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:127",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 128,
+    "end_char": 135
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:129:term-usage:126-150",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:129",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 126,
+    "end_char": 150
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:131:term-usage:114-121",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:131",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 114,
+    "end_char": 121
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:136:term-usage:1033-1054",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:136",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 1033,
+    "end_char": 1054
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:137:term-usage:101-122",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:137",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 101,
+    "end_char": 122
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:137:term-usage:172-179",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:137",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 172,
+    "end_char": 179
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:137:term-usage:419-440",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:137",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 419,
+    "end_char": 440
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:137:term-usage:710-731",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:137",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 710,
+    "end_char": 731
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:139:term-usage:52-76",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:139",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 52,
+    "end_char": 76
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:139:term-usage:136-157",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:139",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 136,
+    "end_char": 157
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:140:term-usage:26-50",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:140",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 26,
+    "end_char": 50
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:140:term-usage:55-62",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:140",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 55,
+    "end_char": 62
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:140:term-usage:387-408",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:140",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 387,
+    "end_char": 408
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:140:term-usage:559-580",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:140",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 559,
+    "end_char": 580
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:140:term-usage:729-750",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:140",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 729,
+    "end_char": 750
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:140:term-usage:2282-2303",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:140",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 2282,
+    "end_char": 2303
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:140:term-usage:3004-3025",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:140",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 3004,
+    "end_char": 3025
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:140:term-usage:3406-3427",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:140",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 3406,
+    "end_char": 3427
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:140:term-usage:3888-3909",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:140",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 3888,
+    "end_char": 3909
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:140:term-usage:4023-4044",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:140",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 4023,
+    "end_char": 4044
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:140:term-usage:4258-4279",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:140",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 4258,
+    "end_char": 4279
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:140:term-usage:5619-5640",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:140",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 5619,
+    "end_char": 5640
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:140:term-usage:6101-6122",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:140",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 6101,
+    "end_char": 6122
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:140:term-usage:6661-6682",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:140",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 6661,
+    "end_char": 6682
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:140:term-usage:6819-6840",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:140",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 6819,
+    "end_char": 6840
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:140:term-usage:7675-7696",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:140",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 7675,
+    "end_char": 7696
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:140:term-usage:8294-8318",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:140",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 8294,
+    "end_char": 8318
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:140:term-usage:8328-8347",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:140",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:jefaturas-de-curso",
+    "span": "Jefaturas de cursos",
+    "start_char": 8328,
+    "end_char": 8347
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:140:term-usage:8431-8455",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:140",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 8431,
+    "end_char": 8455
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:140-bis:term-usage:37-44",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:140-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 37,
+    "end_char": 44
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:141:term-usage:144-165",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:141",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 144,
+    "end_char": 165
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:141:term-usage:339-360",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:141",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 339,
+    "end_char": 360
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:142:term-usage:393-414",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:142",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 393,
+    "end_char": 414
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:142:term-usage:938-959",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:142",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 938,
+    "end_char": 959
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:143:term-usage:92-113",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:143",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 92,
+    "end_char": 113
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:143:term-usage:144-151",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:143",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 144,
+    "end_char": 151
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:143:term-usage:323-344",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:143",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 323,
+    "end_char": 344
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:143-bis:term-usage:132-153",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:143-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 132,
+    "end_char": 153
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:143-bis:term-usage:693-714",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:143-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 693,
+    "end_char": 714
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:143-ter:term-usage:477-498",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:143-ter",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 477,
+    "end_char": 498
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:143-ter:term-usage:1131-1152",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:143-ter",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 1131,
+    "end_char": 1152
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:143-ter:term-usage:1545-1566",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:143-ter",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 1545,
+    "end_char": 1566
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:146:term-usage:29-53",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:146",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 29,
+    "end_char": 53
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:147:term-usage:805-812",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:147",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 805,
+    "end_char": 812
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:148:term-usage:44-68",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:148",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 44,
+    "end_char": 68
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:149:term-usage:39-46",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:149",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 39,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:152:term-usage:226-250",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:152",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 226,
+    "end_char": 250
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:152:term-usage:391-415",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:152",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 391,
+    "end_char": 415
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:152:term-usage:432-439",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:152",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 432,
+    "end_char": 439
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:153:term-usage:73-80",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:153",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 73,
+    "end_char": 80
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:154:term-usage:155-162",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:154",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 155,
+    "end_char": 162
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:154:term-usage:199-220",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:154",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 199,
+    "end_char": 220
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:156:term-usage:147-154",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:156",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 147,
+    "end_char": 154
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:157:term-usage:598-605",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:157",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 598,
+    "end_char": 605
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:157:term-usage:830-854",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:157",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 830,
+    "end_char": 854
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:159:term-usage:103-127",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:159",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 103,
+    "end_char": 127
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:161:term-usage:219-243",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:161",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 219,
+    "end_char": 243
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:162:term-usage:82-89",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:162",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 82,
+    "end_char": 89
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:163:term-usage:69-76",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:163",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 69,
+    "end_char": 76
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:164:term-usage:46-70",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:164",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 46,
+    "end_char": 70
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:166:term-usage:23-30",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:166",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 23,
+    "end_char": 30
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:167:term-usage:85-92",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:167",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 85,
+    "end_char": 92
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:169:term-usage:78-85",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:169",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 78,
+    "end_char": 85
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:171:term-usage:41-65",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:171",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 41,
+    "end_char": 65
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:171:term-usage:70-77",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:171",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:sistema",
+    "span": "Sistema",
+    "start_char": 70,
+    "end_char": 77
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:173:term-usage:231-252",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:173",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Institución Educativa",
+    "start_char": 231,
+    "end_char": 252
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:176:term-usage:4-28",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:176",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lemefagn:term:instituciones-educativas",
+    "span": "Instituciones Educativas",
+    "start_char": 4,
+    "end_char": 28
+  }
+]

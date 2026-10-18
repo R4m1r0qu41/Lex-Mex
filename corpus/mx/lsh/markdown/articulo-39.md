@@ -17,4 +17,4 @@ source_sha256: 1405f36fd836ff74d059ebe7e50ae439cbb9e5e291a317514667f34a26f72a23
 
 # Artículo 39
 
-Sólo el Estado Mexicano, por conducto de la Secretaría de Energía, puede otorgar Contratos para la Exploración y Extracción. La selección de la persona Contratista debe realizarse a través de un proceso de licitación, en términos de lo dispuesto por el artículo [50](articulo-50.md) del presente ordenamiento.
+Sólo el Estado Mexicano, por conducto de la Secretaría de Energía, puede otorgar Contratos para la [Exploración](articulo-5.md) y [Extracción](articulo-5.md). La selección de la persona [Contratista](articulo-5.md) debe realizarse a través de un proceso de licitación, en términos de lo dispuesto por el artículo [50](articulo-50.md) del presente ordenamiento.

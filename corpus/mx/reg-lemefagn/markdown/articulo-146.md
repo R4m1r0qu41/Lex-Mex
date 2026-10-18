@@ -17,4 +17,4 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 146
 
-La Dirección y Rectoría, las Instituciones Educativas o Jefaturas de Curso, expedirán los documentos originales de acreditación, certificación y revalidación de estudios, por una sola vez, conservando copia del original de los grados académicos, títulos, diplomas y certificados o constancias expedidas. La Dirección y Rectoría conservará una relación nominal del personal al que se le haya expedido los citados documentos.
+La Dirección y Rectoría, las [Instituciones Educativas](articulo-3.md) o Jefaturas de Curso, expedirán los documentos originales de acreditación, certificación y revalidación de estudios, por una sola vez, conservando copia del original de los grados académicos, títulos, diplomas y certificados o constancias expedidas. La Dirección y Rectoría conservará una relación nominal del personal al que se le haya expedido los citados documentos.

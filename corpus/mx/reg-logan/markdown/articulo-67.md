@@ -27,7 +27,7 @@ III. De uniones ganaderas regionales generales;
 
 IV. De uniones ganaderas regionales especializadas;
 
-V. De la Confederación Nacional de Organizaciones Ganaderas;
+V. De la [Confederación](articulo-2o.md) Nacional de Organizaciones Ganaderas;
 
 VI. De organizaciones nacionales de productores por rama especializada o por especie-producto, y
 

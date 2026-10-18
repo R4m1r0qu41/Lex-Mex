@@ -17,6 +17,6 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 70
 
-En caso de que la Institución Financiera incumpla con cualesquiera de las obligaciones derivadas del convenio de conciliación, la Comisión Nacional ordenará a la Institución Financiera correspondiente que registre el pasivo contingente que derive de la reclamación, o en su caso, como reserva en términos de lo establecido en el artículo [68](articulo-68.md) fracción X.
+En caso de que la [Institución Financiera](articulo-2o.md) incumpla con cualesquiera de las obligaciones derivadas del convenio de conciliación, la [Comisión Nacional](articulo-2o.md) ordenará a la Institución Financiera correspondiente que registre el pasivo contingente que derive de la reclamación, o en su caso, como reserva en términos de lo establecido en el artículo [68](articulo-68.md) fracción X.
 
 Artículo reformado DOF 05-01-2000

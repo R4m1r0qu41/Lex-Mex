@@ -17,8 +17,8 @@ source_sha256: 2a105e5201b86ff5517ca1ef8d971224ea8c717f195fdd5fa28b916c7e622e56
 
 # Artículo 20
 
-La solicitud de incorporación al Programa, la deberá realizar el Titular de la Fiscalía correspondiente o unidad administrativa equivalente a la que pertenezca el Ministerio Público o el juez a que se refiere este artículo que conozca del Procedimiento Penal en los que intervenga la persona a proteger, las cuales serán resueltas por el Director del Centro. Párrafo reformado DOF 20-05-2021
+La solicitud de incorporación al [Programa](articulo-2.md), la deberá realizar el Titular de la Fiscalía correspondiente o unidad administrativa equivalente a la que pertenezca el Ministerio Público o el juez a que se refiere este artículo que conozca del Procedimiento Penal en los que intervenga la persona a proteger, las cuales serán resueltas por el [Director](articulo-2.md) del [Centro](articulo-2.md). Párrafo reformado DOF 20-05-2021
 
 Cuando se niegue el ingreso de una persona al Programa, se podrá reevaluar la solicitud de incorporación siempre que se aleguen hechos nuevos o supervenientes.
 
-En los casos que la solicitud provenga de la autoridad judicial en términos de lo dispuesto por la Ley General para Prevenir y Sancionar los Delitos en materia de Secuestro, Reglamentaria de la Fracción XXI, del Artículo [73](../../cpeum/markdown/articulo-73.md) de la Constitución Política de los Estados Unidos Mexicanos, se estará a lo dispuesto por el artículo [23](articulo-23.md) de la presente Ley.
+En los casos que la solicitud provenga de la autoridad judicial en términos de lo dispuesto por la [Ley](articulo-2.md) General para Prevenir y Sancionar los Delitos en materia de Secuestro, Reglamentaria de la Fracción XXI, del Artículo [73](../../cpeum/markdown/articulo-73.md) de la Constitución Política de los Estados Unidos Mexicanos, se estará a lo dispuesto por el artículo [23](articulo-23.md) de la presente Ley.

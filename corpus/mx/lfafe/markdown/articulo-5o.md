@@ -21,6 +21,6 @@ El Poder Ejecutivo Federal, los gobiernos de las entidades federativas, de los M
 
 Dichas campañas deben incluir información sobre materiales explosivos, artificios pirotécnicos y sustancias químicas relacionadas, así como los riesgos en su manipulación.
 
-Por razones de interés público, sólo se autoriza la publicidad de las armas deportivas para fines cinegéticos y de tiro, en los términos del Reglamento de esta Ley.
+Por razones de interés público, sólo se autoriza la publicidad de las armas deportivas para fines cinegéticos y de tiro, en los términos del [Reglamento](articulo-1o-Bis.md) de esta [Ley](articulo-1o-Bis.md).
 
 Artículo reformado DOF 23-12-1974, 08-02-1985, 06-12-2022, 29-05-2025

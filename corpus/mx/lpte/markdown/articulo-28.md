@@ -17,4 +17,4 @@ source_sha256: c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41
 
 # Artículo 28
 
-El PLATEASE es el documento para la planeación de la Transición Energética y el Aprovechamiento Sustentable de la Energía, con un horizonte de 15 años, que debe establecer las actividades, programas y proyectos derivados de la Estrategia durante el período de encargo del Ejecutivo Federal.
+El [PLATEASE](articulo-3.md) es el documento para la planeación de la [Transición Energética](articulo-3.md) y el [Aprovechamiento Sustentable de la Energía](articulo-3.md), con un horizonte de 15 años, que debe establecer las actividades, programas y proyectos derivados de la [Estrategia](articulo-3.md) durante el período de encargo del Ejecutivo Federal.

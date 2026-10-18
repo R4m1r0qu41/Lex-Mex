@@ -17,6 +17,6 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 10
 
-Supletoriedad Sólo en lo no previsto por esta Ley deberán aplicarse supletoriamente las leyes penales, el Código Nacional, la Ley de Mecanismos Alternativos, la Ley Nacional de Ejecución Penal y la Ley General de Víctimas, siempre que sus normas no se opongan a los principios rectores del sistema y sean en beneficio de la persona sujeta a la presente Ley.
+Supletoriedad Sólo en lo no previsto por esta [Ley](articulo-3.md) deberán aplicarse supletoriamente las leyes penales, el [Código Nacional](articulo-3.md), la [Ley de Mecanismos Alternativos](articulo-3.md), la Ley Nacional de Ejecución Penal y la [Ley General](articulo-3.md) de Víctimas, siempre que sus normas no se opongan a los principios rectores del sistema y sean en beneficio de la persona sujeta a la presente Ley.
 
 Solo serán aplicables las normas procesales en materia de delincuencia organizada y de protección a personas que intervienen en el procedimiento penal, que impliquen un beneficio para la persona adolescente.

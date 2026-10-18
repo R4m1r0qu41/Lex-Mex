@@ -17,7 +17,7 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 25
 
-Para los efectos del [artículo anterior](articulo-24.md), los exámenes a las personas participantes en las Promociones de Sargentos Primeros Especialistas, Especial y General, se aplicarán en dos fases: Párrafo reformado DOF 20-03-2026
+Para los efectos del [artículo anterior](articulo-24.md), los exámenes a las personas participantes en las [Promociones](articulo-5.md) de Sargentos Primeros [Especialistas](articulo-5.md), Especial y General, se aplicarán en dos fases: Párrafo reformado DOF 20-03-2026
 
 I. Primera Fase:
 
@@ -27,9 +27,9 @@ A. El Certificado Médico especificará textualmente: “SÍ ACREDITA BUENA SALU
 
 B. Sólo cuando exista duda sobre el estado de salud del participante, el médico responsable solicitará que el mismo sea examinado en el escalón sanitario superior, y
 
-C. El escalón sanitario que expida el certificado médico deberá dar seguimiento al personal examinado para que, en caso de presentar cambios en su estado de salud, se informe inmediatamente al Estado Mayor y a la Dirección correspondiente. Inciso reformado DOF 20-03-2026
+C. El escalón sanitario que expida el certificado médico deberá dar seguimiento al personal examinado para que, en caso de presentar cambios en su estado de salud, se informe inmediatamente al [Estado Mayor](articulo-5.md) y a la [Dirección](articulo-5.md) correspondiente. Inciso reformado DOF 20-03-2026
 
-II. Segunda Fase: Examen médico final es el que se practica a la persona participante en el Centro Integral de Evaluación o en la instalación sanitaria que se designe dentro del período general de pruebas, el cual será determinante para la acreditación de su salud. Párrafo reformado DOF 20-03-2026
+II. Segunda Fase: Examen médico final es el que se practica a la persona participante en el [Centro Integral de Evaluación](articulo-5.md) o en la instalación sanitaria que se designe dentro del período general de pruebas, el cual será determinante para la acreditación de su salud. Párrafo reformado DOF 20-03-2026
 
 A. El examen médico final constará de las pruebas siguientes: Párrafo reformado DOF 20-03-2026
 

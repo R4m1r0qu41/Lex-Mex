@@ -17,4 +17,4 @@ source_sha256: 4bcc982b308b0813469b30db61b53d5a2c41e5a7240b3b1cac2f1aeeb2c00a2e
 
 # Artículo 132
 
-Para efectos de la exención prevista en el artículo [50](../../lse/markdown/articulo-50.md), fracción III de la Ley, los doscientos metros deben ser medidos sobre calles, avenidas, derechos de vía y servidumbres de paso, desde el poste o registro más cercano a las instalaciones de Baja Tensión existentes de la Distribuidora, a las instalaciones de la Usuaria Final individual.
+Para efectos de la exención prevista en el artículo [50](../../lse/markdown/articulo-50.md), fracción III de la [Ley](articulo-2.md), los doscientos metros deben ser medidos sobre calles, avenidas, derechos de vía y servidumbres de paso, desde el poste o registro más cercano a las instalaciones de [Baja Tensión](articulo-2.md) existentes de la Distribuidora, a las instalaciones de la Usuaria Final individual.

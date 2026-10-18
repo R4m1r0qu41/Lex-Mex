@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 196
 
-Las Autoridades garantes, en sus respectivos ámbitos de competencia, podrán imponer a la persona servidora pública encargada de cumplir con la resolución, o a las y los miembros de los sindicatos, partidos políticos o a la persona física o moral responsable, las siguientes medidas de apremio para asegurar el cumplimiento de sus determinaciones: I. Amonestación pública, o II. Multa, de ciento cincuenta hasta mil quinientas veces la Unidad de Medida y Actualización vigente al momento en que se cometa el incumplimiento.
+Las [Autoridades garantes](articulo-3.md), en sus respectivos ámbitos de competencia, podrán imponer a la persona servidora pública encargada de cumplir con la resolución, o a las y los miembros de los sindicatos, partidos políticos o a la persona física o moral responsable, las siguientes medidas de apremio para asegurar el cumplimiento de sus determinaciones: I. Amonestación pública, o II. Multa, de ciento cincuenta hasta mil quinientas veces la Unidad de Medida y Actualización vigente al momento en que se cometa el incumplimiento.

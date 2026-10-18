@@ -17,4 +17,4 @@ source_sha256: 4bcc982b308b0813469b30db61b53d5a2c41e5a7240b3b1cac2f1aeeb2c00a2e
 
 # Artículo 43
 
-La Secretaría debe establecer, administrar y supervisar el Fondo, con el propósito de financiar las acciones de Justicia Energética, para lo cual se deben priorizar los proyectos de electrificación, infraestructura, distribución y suministro asequible, en particular, aquellos proyectos ubicados en comunidades rurales, zonas urbanas marginadas y los dirigidos a Personas en Situación de Vulnerabilidad o en Pobreza Energética, conforme a las reglas de operación que emita la Secretaría.
+La Secretaría debe establecer, administrar y supervisar el [Fondo](articulo-2.md), con el propósito de financiar las acciones de Justicia Energética, para lo cual se deben priorizar los proyectos de electrificación, infraestructura, distribución y suministro asequible, en particular, aquellos proyectos ubicados en comunidades rurales, zonas urbanas marginadas y los dirigidos a [Personas en Situación de Vulnerabilidad](articulo-2.md) o en Pobreza Energética, conforme a las reglas de operación que emita la Secretaría.

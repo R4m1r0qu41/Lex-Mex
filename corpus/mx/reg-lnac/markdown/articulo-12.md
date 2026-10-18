@@ -31,7 +31,7 @@ VI.- Entregar el comprobante del pago de derechos correspondiente;
 
 VII.- Manifestar por escrito bajo protesta de decir verdad que la información proporcionada para realizar el trámite es correcta y concuerda con la documentación presentada para el mismo fin, y
 
-VIII.- Formular por escrito las renuncias y protestas que establece el artículo [17](../../lnac/markdown/articulo-17.md) de la Ley.
+VIII.- Formular por escrito las renuncias y protestas que establece el artículo [17](../../lnac/markdown/articulo-17.md) de la [Ley](articulo-2.md).
 
 En el caso de los nacidos en el extranjero, hijos de padres mexicanos nacidos en territorio nacional, de padre mexicano nacido en territorio nacional, o de madre mexicana nacida en territorio nacional, además deberán presentar copia certificada del acta de nacimiento o del certificado de nacionalidad mexicana o de la declaratoria de nacionalidad mexicana por nacimiento de su padre o de su madre.
 

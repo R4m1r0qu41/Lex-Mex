@@ -17,7 +17,7 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 35 BIS
 
-La Secretaría dentro del plazo de sesenta días contados a partir de la recepción de la manifestación de impacto ambiental deberá emitir la resolución correspondiente.
+La [Secretaría](articulo-3o.md) dentro del plazo de sesenta días contados a partir de la recepción de la manifestación de impacto ambiental deberá emitir la resolución correspondiente.
 
 La Secretaría podrá solicitar aclaraciones, rectificaciones o ampliaciones al contenido de la manifestación de impacto ambiental que le sea presentada, suspendiéndose el término que restare para concluir el procedimiento. En ningún caso la suspensión podrá exceder el plazo de sesenta días, contados a partir de que ésta sea declarada por la Secretaría, y siempre y cuando le sea entregada la información requerida.
 

@@ -17,8 +17,8 @@ source_sha256: aca2d65d2eef1b7c26ab431772ce7364305d103f5e4bacc87da02064df005ae3
 
 # Artículo 40
 
-Para dar cumplimiento al Plan Nacional de Desarrollo y a los principios, objetivos y vertientes de la Política Nacional del Desarrollo Social, así como para asegurar la congruencia del Programa Nacional y los demás programas de desarrollo social de los tres órdenes de gobierno, la Secretaría promoverá la celebración de convenios de coordinación.
+Para dar cumplimiento al Plan Nacional de Desarrollo y a los principios, objetivos y vertientes de la Política Nacional del Desarrollo Social, así como para asegurar la congruencia del [Programa Nacional](articulo-3.md) y los demás programas de desarrollo social de los tres órdenes de gobierno, la Secretaría promoverá la celebración de convenios de coordinación.
 
-Los convenios de coordinación serán los instrumentos de convergencia de las políticas, programas, proyectos y acciones de desarrollo social y se sujetarán a lo dispuesto por la Ley, la Ley de Planeación, este Reglamento y las demás disposiciones jurídicas aplicables.
+Los convenios de coordinación serán los instrumentos de convergencia de las políticas, programas, proyectos y acciones de desarrollo social y se sujetarán a lo dispuesto por la [Ley](articulo-3.md), la Ley de Planeación, este Reglamento y las demás disposiciones jurídicas aplicables.
 
 Para efectos de la revisión de los convenios de coordinación, por parte de la Comisión Intersecretarial, en términos del artículo [52](../../lgds/markdown/articulo-52.md), fracción V, de la Ley, la Secretaría asegurará su integralidad y correspondencia con el resto de los acuerdos que de ellos pudieran derivar y las políticas sociales aplicadas; asimismo, verificará que se ajusten a las bases contenidas en el siguiente artículo.

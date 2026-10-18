@@ -17,4 +17,4 @@ source_sha256: d23aedc9ffdb09b9202311f03023241da20445cb45aea855b37bfd9685768861
 
 # Artículo 181
 
-Para asegurar el reconocimiento internacional de las capacidades de medición y Calibración, el Centro Nacional de Metrología y los Institutos Designados de Metrología deben participar en los Comités Consultivos del Comité Internacional de Pesas y Medidas, así como en los proyectos de desarrollo de la metrología que se efectúen a nivel nacional, regional o internacional.
+Para asegurar el reconocimiento internacional de las capacidades de medición y [Calibración](articulo-2.md), el Centro Nacional de Metrología y los Institutos Designados de Metrología deben participar en los Comités Consultivos del Comité Internacional de Pesas y Medidas, así como en los proyectos de desarrollo de la metrología que se efectúen a nivel nacional, regional o internacional.

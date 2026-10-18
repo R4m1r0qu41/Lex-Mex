@@ -17,7 +17,7 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 46
 
-Las Instituciones Educativas que integran el Sistema, son:
+Las [Instituciones Educativas](articulo-3.md) que integran el [Sistema](articulo-3.md), son:
 
 I. Colegios:
 

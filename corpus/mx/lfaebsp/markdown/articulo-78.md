@@ -17,15 +17,15 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 78
 
-Para el cumplimiento de su objeto, el Instituto contará con las siguientes atribuciones: Párrafo reformado DOF 09-08-2019
+Para el cumplimiento de su objeto, el [Instituto](articulo-2o.md) contará con las siguientes atribuciones: Párrafo reformado DOF 09-08-2019
 
-I.- Recibir, administrar, enajenar, monetizar, y destruir los Bienes de las Entidades Transferentes conforme a lo previsto en la presente Ley, así como realizar todos los actos de administración, pleitos y cobranzas y de dominio respecto de los Bienes, activos o empresas, aun y cuando se trate de entidades paraestatales en proceso de desincorporación, en aquellos casos en que así lo determine la Secretaría; Fracción reformada DOF 09-08-2019
+I.- Recibir, administrar, enajenar, monetizar, y destruir los [Bienes](articulo-2o.md) de las [Entidades Transferentes](articulo-2o.md) conforme a lo previsto en la presente Ley, así como realizar todos los actos de administración, pleitos y cobranzas y de dominio respecto de los Bienes, activos o empresas, aun y cuando se trate de entidades paraestatales en proceso de desincorporación, en aquellos casos en que así lo determine la [Secretaría](articulo-2o.md); Fracción reformada DOF 09-08-2019
 
 II.- Administrar, enajenar y monetizar los Bienes, activos o empresas, que previa instrucción de autoridad competente, se le encomienden por la naturaleza especial que guardan los mismos.
 
 Tratándose de numerario asegurado, decomisado, abandonado o sujeto a extinción de dominio, será captado y administrado en las cuentas que determine el Instituto; Fracción reformada DOF 09-08-2019
 
-III.- Optimizar los bienes para darles un destino, de conformidad con las disposiciones contenidas en el Reglamento;
+III.- Optimizar los bienes para darles un destino, de conformidad con las disposiciones contenidas en el [Reglamento](articulo-2o.md);
 
 IV.- Fungir como visitador, conciliador y síndico en concursos mercantiles y quiebras, de conformidad con las disposiciones aplicables y, supletoriamente, con lo dispuesto en el presente ordenamiento en materia de enajenación de Bienes que conformen la masa concursal, debiendo recaer tales designaciones en el Instituto, invariablemente, tratándose de empresas aseguradas; Fracción reformada DOF 23-02-2005, 09-08-2019
 
@@ -35,7 +35,7 @@ VI.- Ejecutar los mandatos y encargos en nombre y representación del Gobierno F
 
 VII.- Manejar los créditos que el Gobierno Federal destine o haya destinado para otorgar su apoyo financiero a las instituciones de crédito y organizaciones auxiliares del crédito, así como la celebración de todos los actos necesarios para la recuperación de tales créditos, bien sea que las instituciones se rehabiliten o liquiden;
 
-VIII.- Celebrar convenios de coordinación y colaboración con los gobiernos de las entidades federativas, así como con organizaciones de productores deudores, sociedades de ahorro y préstamo y entidades de fomento en las que participen los gobiernos estatales y municipales, con el objeto de que coadyuven en la recuperación de la cartera vencida, pudiendo estipularse la cesión gratuita u onerosa de créditos, de conformidad con lo que establezcan los lineamientos que al efecto expida la Junta de Gobierno; Fracción reformada DOF 23-02-2005
+VIII.- Celebrar convenios de coordinación y colaboración con los gobiernos de las entidades federativas, así como con organizaciones de productores deudores, sociedades de ahorro y préstamo y entidades de fomento en las que participen los gobiernos estatales y municipales, con el objeto de que coadyuven en la recuperación de la cartera vencida, pudiendo estipularse la cesión gratuita u onerosa de créditos, de conformidad con lo que establezcan los lineamientos que al efecto expida la [Junta de Gobierno](articulo-2o.md); Fracción reformada DOF 23-02-2005
 
 IX.- Extinguir los fideicomisos públicos y privados; Fracción reformada DOF 23-02-2005
 

@@ -17,7 +17,7 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 113
 
-El promovente puede presentar documentos junto con su promoción en idioma distinto al español, para lo cual deberá acompañar la traducción realizada por un perito traductor de los aspectos que bajo su responsabilidad estime relevantes, sin perjuicio de que la Comisión pueda solicitar al promovente que se amplíe o se realice en su totalidad la traducción por perito traductor, cuando lo considere pertinente.
+El promovente puede presentar documentos junto con su promoción en idioma distinto al español, para lo cual deberá acompañar la traducción realizada por un perito traductor de los aspectos que bajo su responsabilidad estime relevantes, sin perjuicio de que la [Comisión](articulo-3.md) pueda solicitar al promovente que se amplíe o se realice en su totalidad la traducción por perito traductor, cuando lo considere pertinente.
 
 La Comisión no tomará en consideración el texto de los documentos que estén en idioma distinto al español.
 
@@ -25,4 +25,4 @@ La Comisión podrá recabar en cualquiera de los procedimientos que tramite, doc
 
 Cualquier persona que no hable español, puede asistir a las diligencias acompañada de un intérprete, a costa del oferente o de quien proponga el desahogo de la diligencia. Cuando el declarante lo solicite, además de asentarse su declaración en español, podrá escribirse en su propio idioma y con el puño y letra del declarante. El intérprete, antes de desempeñar su encargo, protestará hacerlo lealmente, haciéndose constar esta circunstancia en el acta correspondiente.
 
-En lo no previsto, se estará a lo dispuesto en las Disposiciones Regulatorias.
+En lo no previsto, se estará a lo dispuesto en las [Disposiciones Regulatorias](articulo-3.md).

@@ -17,11 +17,11 @@ source_sha256: b32c33fa4ed071dc8bea1ad69ce8510cdb05016967e9e4fcb60f10c6f2216628
 
 # Artículo 6
 
-El Tribunal se integra por los órganos colegiados siguientes:
+El [Tribunal](articulo-2.md) se integra por los órganos colegiados siguientes:
 
 I. La Sala Superior;
 
-II. La Junta de Gobierno y Administración, y
+II. La [Junta](articulo-2.md) de Gobierno y Administración, y
 
 III. Las Salas Regionales.
 

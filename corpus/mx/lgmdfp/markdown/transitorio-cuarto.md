@@ -15,6 +15,6 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Cuarto
 
-Las Comisiones Locales de Búsqueda deberán entrar en funciones a partir de los noventa días posteriores a la entrada en vigor del presente Decreto.
+Las [Comisiones Locales de Búsqueda](articulo-4.md) deberán entrar en funciones a partir de los noventa días posteriores a la entrada en vigor del presente Decreto.
 
-La Comisión Nacional de Búsqueda deberá brindar la asesoría necesaria a las entidades federales para el establecimiento de sus Comisiones Locales de Búsqueda.
+La [Comisión Nacional de Búsqueda](articulo-4.md) deberá brindar la asesoría necesaria a las entidades federales para el establecimiento de sus Comisiones Locales de Búsqueda.

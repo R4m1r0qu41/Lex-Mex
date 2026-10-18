@@ -17,4 +17,4 @@ source_sha256: aa96853f010885bdf85160e944e5c0ef5c3c8e95422dfede280d228cf064310a
 
 # Artículo 29
 
-La Secretaría debe fomentar la capacitación de empresas y su personal, así como de personas profesionales y personal técnico independiente, para la instalación de Centrales Eléctricas de Generación Distribuida con Energía Limpia.
+La [Secretaría](articulo-3.md) debe fomentar la capacitación de empresas y su personal, así como de personas profesionales y personal técnico independiente, para la instalación de [Centrales Eléctricas](articulo-3.md) de [Generación Distribuida](articulo-3.md) con [Energía Limpia](articulo-3.md).

@@ -17,7 +17,7 @@ source_sha256: 3c0720d560455df51ca882a37390cd0fe017d1987853b8358e37d5195f718055
 
 # Artículo 7
 
-Para los efectos del artículo [10](../../lfcpq/markdown/articulo-10.md) de la Ley, se considerará que los medios de transporte utilizados son propios cuando el sujeto sea propietario de los vehículos o tenga la posesión legal sobre ellos.
+Para los efectos del artículo [10](../../lfcpq/markdown/articulo-10.md) de la [Ley](articulo-2.md), se considerará que los medios de transporte utilizados son propios cuando el sujeto sea propietario de los vehículos o tenga la posesión legal sobre ellos.
 
 Se considera que el transporte de precursores químicos o productos químicos esenciales es para uso particular cuando:
 

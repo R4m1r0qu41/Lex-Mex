@@ -23,7 +23,7 @@ I. El personal militar en activo y el que se encuentre en situación de retiro c
 
 II. Los cadetes y alumnos de los planteles militares que no perciban haberes;
 
-III. Los soldados del Servicio Militar Nacional obligatorio que se encuentren bajo bandera encuadrados en las unidades del Servicio Militar Nacional, del Ejército, Fuerza Aérea y Armada de México;
+III. Los soldados del Servicio [Militar](articulo-4o.md) Nacional obligatorio que se encuentren bajo bandera encuadrados en las unidades del Servicio Militar Nacional, del Ejército, Fuerza Aérea y Armada de México;
 
 IV. El personal de los Cuerpos de Defensas Rurales que fallezca en actos del servicio o a consecuencia de ellos, y
 

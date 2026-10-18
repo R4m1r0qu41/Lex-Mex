@@ -17,4 +17,4 @@ source_sha256: 67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35
 
 # Artículo 35
 
-El procedimiento para declarar la terminación, revocación y caducidad de los Permisos de Exploración y Concesiones se lleva a cabo de conformidad con lo dispuesto en el Reglamento de esta Ley.
+El procedimiento para declarar la terminación, revocación y caducidad de los Permisos de [Exploración](articulo-2.md) y [Concesiones](articulo-2.md) se lleva a cabo de conformidad con lo dispuesto en el [Reglamento](articulo-2.md) de esta [Ley](articulo-2.md).

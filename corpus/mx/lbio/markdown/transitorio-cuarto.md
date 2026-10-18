@@ -15,6 +15,6 @@ source_sha256: c1870db657a6564bbeb692a1778472db811a920626822de553ff5ca5194f95b4
 
 # Cuarto
 
-En tanto se expiden los reglamentos correspondientes, la SADER, la SENER y la SEMARNAT tienen facultad para ejercer las atribuciones que les otorga la presente Ley a partir de su entrada en vigor.
+En tanto se expiden los reglamentos correspondientes, la [SADER](articulo-2.md), la [SENER](articulo-2.md) y la [SEMARNAT](articulo-2.md) tienen facultad para ejercer las atribuciones que les otorga la presente [Ley](articulo-2.md) a partir de su entrada en vigor.
 
 Las solicitudes de autorización o permisos que se hayan recibido previo a la entrada en vigor de esta Ley se tramitan conforme a las disposiciones jurídicas que para el efecto haya emitido la autoridad competente con anterioridad a la presente Ley.

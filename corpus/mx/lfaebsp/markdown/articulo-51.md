@@ -17,7 +17,7 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 51
 
-El adjudicatario perderá, en favor del Instituto, la garantía que hubiere otorgado si, por causas imputables a él, la operación no se formaliza dentro del plazo a que se refiere el artículo [43](articulo-43.md), quedando el Instituto en posibilidad de adjudicar el bien al participante que haya presentado la segunda oferta de compra más alta que no hubiere sido descalificada, y así sucesivamente, en caso de que no se acepte la adjudicación, siempre que su postura sea mayor o igual al precio base de venta fijado.
+El adjudicatario perderá, en favor del [Instituto](articulo-2o.md), la garantía que hubiere otorgado si, por causas imputables a él, la operación no se formaliza dentro del plazo a que se refiere el artículo [43](articulo-43.md), quedando el Instituto en posibilidad de adjudicar el bien al participante que haya presentado la segunda oferta de compra más alta que no hubiere sido descalificada, y así sucesivamente, en caso de que no se acepte la adjudicación, siempre que su postura sea mayor o igual al precio base de venta fijado.
 
 En el supuesto de que la falta de formalización de la adjudicación sea imputable al Instituto, el licitante ganador podrá solicitar que le sean reembolsados los gastos no recuperables en que hubiera incurrido, derivados del procedimiento de licitación pública, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen directamente con la licitación de que se trate.
 

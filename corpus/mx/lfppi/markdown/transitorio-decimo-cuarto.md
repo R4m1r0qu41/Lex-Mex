@@ -15,4 +15,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # DÉCIMO CUARTO
 
-Las causales de nulidad y caducidad contenidas en el presente Decreto, no previstas en la Ley que se abroga, solo serán aplicables a las patentes, registros, publicaciones o autorizaciones de uso que hayan sido solicitados y otorgados al amparo del presente Decreto.
+Las causales de nulidad y caducidad contenidas en el presente Decreto, no previstas en la [Ley](articulo-4.md) que se abroga, solo serán aplicables a las patentes, registros, publicaciones o autorizaciones de uso que hayan sido solicitados y otorgados al amparo del presente Decreto.

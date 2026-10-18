@@ -17,4 +17,4 @@ source_sha256: c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41
 
 # Artículo 77
 
-El reconocimiento a la excelencia en Eficiencia Energética consta de la participación voluntaria para reconocer a las instalaciones, edificaciones, empresas o productos que destaquen en el uso sustentable y eficiente de la energía.
+El reconocimiento a la excelencia en [Eficiencia Energética](articulo-3.md) consta de la participación voluntaria para reconocer a las instalaciones, edificaciones, empresas o productos que destaquen en el uso sustentable y eficiente de la energía.

@@ -17,4 +17,4 @@ source_sha256: 4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f
 
 # Artículo 42
 
-Para los efectos del artículo [18](../../liva/markdown/articulo-18.md) de la Ley, cuando las personas que prestan servicios paguen por cuenta y a nombre del prestatario del servicio las contribuciones incluyendo sus accesorios, el reembolso por las mismas no formará parte del valor de sus servicios. El impuesto trasladado en los términos de la Ley no forma parte de las contribuciones a que se refiere este precepto.
+Para los efectos del artículo [18](../../liva/markdown/articulo-18.md) de la [Ley](articulo-1.md), cuando las personas que prestan servicios paguen por cuenta y a nombre del prestatario del servicio las contribuciones incluyendo sus accesorios, el reembolso por las mismas no formará parte del valor de sus servicios. El impuesto trasladado en los términos de la Ley no forma parte de las contribuciones a que se refiere este precepto.

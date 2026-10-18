@@ -17,9 +17,9 @@ source_sha256: b32c33fa4ed071dc8bea1ad69ce8510cdb05016967e9e4fcb60f10c6f2216628
 
 # Artículo 54
 
-Son atribuciones del Presidente del Tribunal, las siguientes:
+Son atribuciones del [Presidente del Tribunal](articulo-2.md), las siguientes:
 
-I. Representar al Tribunal, a la Sala Superior, al Pleno General y Jurisdiccional de la Sala Superior y a la Junta de Gobierno y Administración, ante toda clase de autoridades y delegar el ejercicio de esta función en servidores públicos subalternos sin perjuicio de su ejercicio directo, así como atender los recursos de reclamación de responsabilidad patrimonial en contra de las actuaciones atribuidas al propio Tribunal;
+I. Representar al [Tribunal](articulo-2.md), a la Sala Superior, al Pleno General y Jurisdiccional de la Sala Superior y a la [Junta](articulo-2.md) de Gobierno y Administración, ante toda clase de autoridades y delegar el ejercicio de esta función en servidores públicos subalternos sin perjuicio de su ejercicio directo, así como atender los recursos de reclamación de responsabilidad patrimonial en contra de las actuaciones atribuidas al propio Tribunal;
 
 II. Formar parte del Comité Coordinador del Sistema Nacional Anticorrupción en términos de lo dispuesto por el artículo [113](../../cpeum/markdown/articulo-113.md) fracción III de la Constitución Política de los Estados Unidos Mexicanos;
 

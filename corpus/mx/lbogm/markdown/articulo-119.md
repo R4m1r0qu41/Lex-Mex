@@ -27,7 +27,7 @@ III. Realice actividades de utilización confinada de OGMs, sin presentar los av
 
 IV. Realice actividades con OGMs que se encuentren sujetas o exentas de la presentación de aviso, incumpliendo las demás disposiciones de esta Ley, sus reglamentos y las normas oficiales mexicanas que deriven de aquella, que resulten aplicables a la actividad de que se trate o que sean comunes a todas las actividades en materia de bioseguridad;
 
-V. Presente a las Secretarías competentes, información y/o documentación a que se refiere este ordenamiento que sea falsa, incluyendo la relativa a los posibles riesgos que las actividades con OGMs pudieran ocasionar a la salud humana o a la diversidad biológica;
+V. Presente a las [Secretarías](articulo-3.md) competentes, información y/o documentación a que se refiere este ordenamiento que sea falsa, incluyendo la relativa a los posibles riesgos que las actividades con OGMs pudieran ocasionar a la salud humana o a la diversidad biológica;
 
 VI. Incumpla las medidas sanitarias, de monitoreo, control y prevención señaladas por los interesados en la información y documentación aportada para obtener los permisos y las autorizaciones respectivas, y las establecidas por las Secretarías en los propios permisos y autorizaciones; VII. Incumpla las medidas de control y de respuesta en caso de emergencia señaladas por los interesados en sus estudios de los posibles riesgos que las actividades con OGMs puedan ocasionar a la salud humana o a la diversidad biológica o a la sanidad animal, vegetal o acuícola;
 
@@ -43,7 +43,7 @@ XII. Realice liberaciones de OGMs en los centros de origen y de diversidad gené
 
 XIII. Realice actividades con OGMs en las áreas naturales protegidas señaladas en esta Ley, fuera de los casos establecidos por la misma;
 
-XIV. Incumpla la obligación de informar a la SEMARNAT o a la SAGARPA, según su ámbito de competencia conforme a esta Ley, mediante el reporte correspondiente, los resultados de la realización de liberaciones experimentales o de liberaciones en programa piloto, que cuenten con el permiso respectivo;
+XIV. Incumpla la obligación de informar a la [SEMARNAT](articulo-3.md) o a la [SAGARPA](articulo-3.md), según su ámbito de competencia conforme a esta Ley, mediante el reporte correspondiente, los resultados de la realización de liberaciones experimentales o de liberaciones en programa piloto, que cuenten con el permiso respectivo;
 
 XV. Importe OGMs que se encuentren prohibidos en el país de origen o se encuentren clasificados como no permitidos para su liberación comercial o para su importación para esa actividad en las listas a que se refiere esta Ley, cuando las Secretarías correspondientes no hubieren determinado positivamente que esas prohibiciones no son aplicables en el territorio nacional;
 

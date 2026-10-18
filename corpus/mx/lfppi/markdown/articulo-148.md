@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 148
 
-Antes de conceder la primera licencia obligatoria, el Instituto dará oportunidad a la persona titular de la patente para que, dentro de un plazo de un año, contado a partir de la notificación personal que se haga a ésta, proceda a su explotación. Párrafo reformado DOF 03-04-2026
+Antes de conceder la primera licencia obligatoria, el [Instituto](articulo-4.md) dará oportunidad a la persona titular de la patente para que, dentro de un plazo de un año, contado a partir de la notificación personal que se haga a ésta, proceda a su explotación. Párrafo reformado DOF 03-04-2026
 
 Previa audiencia de las partes, el Instituto decidirá sobre la concesión de la licencia obligatoria y, en caso de que resuelva concederla, fijará su duración, condiciones, campo de aplicación y monto de las regalías que correspondan a la persona titular de la patente. Párrafo reformado DOF 03-04-2026
 

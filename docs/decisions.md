@@ -1,5 +1,50 @@
 # Architecture decisions
 
+## 2026-10-18 — Glossary auto-detection gains a wider fallback pass (glossary-detection G0–G1)
+
+The operator approved G0 and G1 of `docs/plans/glossary-detection.md`.
+
+**What changed** (`crates/lex-parse/src/terms.rs`, `detect_glossary`):
+- **Fallback only.** The established pass (`se entenderá por:`) is unchanged and runs first. The wider pass runs only when it finds nothing, so every glossary that already had terms stays byte for byte.
+- **Introductions the wider pass reads:**
+  - `se entiende por:`, including inserted phrases (`se entiende, en singular o plural, por:`, `se entenderá, por:`);
+  - `se debe(n) entender por:` and `se entenderá como:`;
+  - imported definitions (`…las definiciones contenidas en el artículo 3 de la Ley, así como las siguientes:`, `… y en las siguientes definiciones:`, `… así como a las siguientes:`);
+  - `se aplican` or `se observarán las siguientes definiciones:` and `se considera:`.
+- **Skipped:** chapter-, title- and article-scoped introductions (`cpf` 401, `ccom` 1416, `ladua` 137 bis 2), and enumerations that are not glossaries (`cff` 16, `lisr` 142, `lasoc` 12).
+- **Where a fraction may start:** after `;`, `:`, `.`, a line break, the conjunction `y` (the last inline entry), or an amendment note (`DOF dd-mm-yyyy`). Numerals may be written `I.-`.
+- **A glossary is accepted only whole.** If it fails any of these checks it yields 0 terms and is reported as "held" with a reason, because a partial glossary would be wrong silently:
+  - fractions run I, II, III… without a gap (`Bis`/`Ter` may follow their base);
+  - every fraction that is not a repeal placeholder yields a plain term (no `:`, `;`, `.`, line break or quotes in it);
+  - no fraction swallows another fraction heading;
+  - no term repeats.
+
+**Result** (`link --all`, byte-identical to a disposable probe):
+- 94 instruments that had 0 terms gain 1,619 terms and 28,245 usages.
+- No instrument that already had terms changes.
+- References stay at 35,880, and the rejected set is still exactly the 8 accepted gaps.
+- 19 glossaries are held with a reason:
+  - running page headers or `Página 1 de 9` inside the glossary: `reg-lgcc-rne`, `reg-lgeepa-maaa`, `-meia`, `-mpcca` and `-mretc`, `reg-lgs-investigacion`, `reg-lss-maeba`, `log`;
+  - gaps or typos in the source numbering: `fi-dcg-2014`, `servinv-dcg-2013`, `reg-lftr-mcsre`, and `ladua` (`lI.`);
+  - a spurious `C.` from `S. A. de C. V.`: `lfca`;
+  - entries without a term delimiter: `lfpccs`, `lfra`, `lfvv`, `ltfccg`;
+  - a nested list: `lieps`;
+  - quoted names that need the quoted style: `lsct`.
+
+**G0 cross-check** (bare `Ley`/`Reglamento` used at least 3 times with an express definition):
+- **`Ley`:** 33 of 47 targets now have the term, and 6 are held.
+- **`Reglamento`:** 12 of 17 now have the term, and 3 are held.
+- **The rest:**
+  - the established pass already chose another glossary: `lss` art. 159 rather than 5 A, `reg-lgp`, `scap-dcg-2012`, `reg-lgs-mcsotcsh`, `lrart3-mmce`;
+  - a held instrument: `socap-sofipo-dcg-2006`;
+  - a quoted definition that needs the quoted style: `reg-lfmn`, `reg-lgs-msi`;
+  - no Roman fractions: `reg-senado`.
+
+**Open for the operator:**
+- **Which glossary governs** where the established pass picked a later or narrower one: `lss`, `lgs`, `lrart3-mmce`, `reg-lgs-mpsam`, `reg-lgp`, `scap-dcg-2012`, `reg-lgs-mcsotcsh`.
+- **Title-prefix usages.** The bare matcher adds at most 1,045 usages where `Ley`, `Reglamento` or `Código` is followed by a title word (`de`, `Federal`, `General`…). Some of these are the defined law's own title, so this is an upper bound. A title-aware filter remains a separate change.
+- **Imports are not configured yet** (`additive_to`, G3).
+
 ## 2026-10-18 — `reg-lan` Article 1 defines its four vocables
 
 Operator ruling: `reg-lan` Article 1 establishes the definitions for the whole regulation. It reads: Cuando en el mismo se expresen los vocablos "Ley", "Reglamento", "La Comisión" y "Registro", se entenderá que se refiere a la Ley de Aguas Nacionales, al presente Reglamento, a la Comisión Nacional del Agua y al Registro Público de Derechos de Agua, respectivamente. The committed text matches the operator's quotation.

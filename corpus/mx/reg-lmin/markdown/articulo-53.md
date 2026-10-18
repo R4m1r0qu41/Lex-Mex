@@ -19,4 +19,4 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 Las indemnizaciones por concepto de expropiación deberán cubrirse en una sola exhibición, dentro de los treinta días hábiles siguientes a la fecha en que surta efectos la notificación del decreto respectivo. Tratándose de expropiaciones ejidales, éstas se sujetarán a la ley de la materia. Las indemnizaciones por concepto de ocupación temporal o constitución de servidumbre deberán cubrirse anualmente, dentro de los treinta días hábiles siguientes a la fecha en que surta efectos la notificación de la resolución, y posteriormente en cada aniversario de ésta, dentro del plazo señalado.
 
-El monto de las indemnizaciones anuales se actualizará en la fecha de cada aniversario, de acuerdo con la variación del Índice de Precios en los doce meses inmediatos anteriores.
+El monto de las indemnizaciones anuales se actualizará en la fecha de cada aniversario, de acuerdo con la variación del [Índice de Precios](articulo-1o.md) en los doce meses inmediatos anteriores.

@@ -25,4 +25,4 @@ I. Nombre, denominación o razón social y domicilio de la persona solicitante; 
 
 III. En su caso, ubicación y descripción de las instalaciones, equipos y procesos con los que se pretendan desarrollar las actividades objeto del permiso, y
 
-IV. Los demás que, de acuerdo con el objeto del permiso, se señalen en el Reglamento y las disposiciones administrativas que resulten aplicables.
+IV. Los demás que, de acuerdo con el objeto del permiso, se señalen en el [Reglamento](articulo-2.md) y las disposiciones administrativas que resulten aplicables.

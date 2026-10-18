@@ -17,4 +17,4 @@ source_sha256: a1cc8f6043c35579235fd61d2e34977e1735af4ea6919d053f89462b97742335
 
 # Artículo 11
 
-La Secretaría, por conducto de la Subsecretaría, llevará a cabo campañas de difusión que promuevan la cultura de prevención social de la Violencia y delincuencia, así como de denuncia ciudadana.
+La [Secretaría](articulo-3.md), por conducto de la [Subsecretaría](articulo-3.md), llevará a cabo campañas de difusión que promuevan la cultura de prevención social de la Violencia y delincuencia, así como de denuncia ciudadana.

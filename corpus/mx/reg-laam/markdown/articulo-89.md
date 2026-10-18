@@ -17,6 +17,6 @@ source_sha256: 8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca
 
 # Artículo 89
 
-La vigencia del examen académico tendrá la temporalidad de la Promoción General, por lo que la persona participante nuevamente convocada que no hubiese ascendido en la Promoción General inmediata anterior, estará obligada a presentar el examen académico.
+La vigencia del examen académico tendrá la temporalidad de la [Promoción General](articulo-5.md), por lo que la persona participante nuevamente convocada que no hubiese ascendido en la Promoción General inmediata anterior, estará obligada a presentar el examen académico.
 
 Artículo reformado DOF 06-03-2020, 02-04-2026

@@ -17,7 +17,7 @@ source_sha256: 3c0720d560455df51ca882a37390cd0fe017d1987853b8358e37d5195f718055
 
 # Artículo 9
 
-La comunicación a que se refiere el artículo 14 de la Ley podrá realizarse por teléfono, vía fax o por cualquier otro medio, y deberá efectuarse el mismo día que se tenga conocimiento del hecho de que se trate, debiendo ratificarse por escrito ante la misma autoridad en un plazo no mayor de tres días.
+La comunicación a que se refiere el artículo 14 de la [Ley](articulo-2.md) podrá realizarse por teléfono, vía fax o por cualquier otro medio, y deberá efectuarse el mismo día que se tenga conocimiento del hecho de que se trate, debiendo ratificarse por escrito ante la misma autoridad en un plazo no mayor de tres días.
 
 La comunicación deberá contener la información siguiente:
 

@@ -17,9 +17,9 @@ source_sha256: 74f2c47c7a9282194b2972ec1366352d94f03042c6d0c7f10efde018cb9e3bfb
 
 # Artículo 44
 
-Sin perjuicio de los derechos y prerrogativas que establecen las leyes relativas a las distintas formas asociativas, se reconocen a los Organismos del Sector los siguientes derechos:
+Sin perjuicio de los derechos y prerrogativas que establecen las leyes relativas a las distintas formas asociativas, se reconocen a los [Organismos del Sector](articulo-5o.md) los siguientes derechos:
 
-I. Ser sujetos de fomento y apoyo a sus actividades económicas por parte del Estado, previa certificación emitida por el Instituto; Fracción reformada DOF 16-04-2025
+I. Ser sujetos de fomento y apoyo a sus actividades económicas por parte del Estado, previa certificación emitida por el [Instituto](articulo-5o.md); Fracción reformada DOF 16-04-2025
 
 II. Gozar de autonomía en cuanto a su régimen interno;
 

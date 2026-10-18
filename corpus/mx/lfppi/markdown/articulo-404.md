@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 404
 
-Se impondrá de dos a seis años de prisión y multa de mil a cien mil unidades de medida y actualización, vigente al momento en que se cometa el delito, a la persona que venda a cualquier persona consumidora final en vías o en lugares públicos, en forma dolosa y con fin de especulación comercial, objetos que ostenten falsificaciones de marcas protegidas por esta Ley. Párrafo reformado DOF 03-04-2026
+Se impondrá de dos a seis años de prisión y multa de mil a cien mil unidades de medida y actualización, vigente al momento en que se cometa el delito, a la persona que venda a cualquier persona consumidora final en vías o en lugares públicos, en forma dolosa y con fin de especulación comercial, objetos que ostenten falsificaciones de marcas protegidas por esta [Ley](articulo-4.md). Párrafo reformado DOF 03-04-2026
 
 Si la venta se realiza en establecimientos comerciales, o de manera organizada o permanente, se impondrán de tres a diez años de prisión y multa de dos mil a doscientas cincuenta mil unidades de medida y actualización, vigente al momento en que se cometa el ilícito.
 

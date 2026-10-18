@@ -17,4 +17,4 @@ source_sha256: 6680a58c98673518aee46582b3137d28987c275785d1f0c97295f0d89c4b692b
 
 # Artículo 10
 
-El titular de la Secretaría, en su calidad de Presidente de la Conferencia Nacional, será suplido en sus ausencias por el Subsecretario que para tal efecto designe. Los suplentes de los demás integrantes de la Conferencia Nacional, serán designados por los titulares de las instancias gubernamentales de los Estados y del Distrito Federal, de entre los servidores públicos subordinados, quienes deberán tener un nivel jerárquico mínimo de Director General o su equivalente.
+El titular de la Secretaría, en su calidad de Presidente de la [Conferencia Nacional](articulo-2.md), será suplido en sus ausencias por el Subsecretario que para tal efecto designe. Los suplentes de los demás integrantes de la Conferencia Nacional, serán designados por los titulares de las instancias gubernamentales de los Estados y del Distrito Federal, de entre los servidores públicos subordinados, quienes deberán tener un nivel jerárquico mínimo de Director General o su equivalente.

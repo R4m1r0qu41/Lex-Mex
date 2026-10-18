@@ -17,4 +17,4 @@ source_sha256: 7df3d678efda2306b68d3c0f5ca0e3e92b9066d5f773128f4ae19cb26bf44fff
 
 # Artículo 29
 
-Para la Autorización y los permisos de Producción, Almacenamiento, Transporte, Distribución, Comercialización y Expendio al Público de Biocombustibles, los equipos, tuberías, instalaciones, tanques, contenedores y demás elementos que tengan contacto directo con estos, deben cumplir con estándares nacionales o internacionales de seguridad y calidad, y Normas Oficiales Mexicanas aplicables.
+Para la [Autorización](articulo-3.md) y los permisos de Producción, Almacenamiento, Transporte, Distribución, Comercialización y Expendio al Público de Biocombustibles, los equipos, tuberías, instalaciones, tanques, contenedores y demás elementos que tengan contacto directo con estos, deben cumplir con estándares nacionales o internacionales de seguridad y calidad, y Normas Oficiales Mexicanas aplicables.

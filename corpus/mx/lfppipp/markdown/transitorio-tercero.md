@@ -15,4 +15,4 @@ source_sha256: 2a105e5201b86ff5517ca1ef8d971224ea8c717f195fdd5fa28b916c7e622e56
 
 # TERCERO
 
-Las personas que se encuentren bajo protección a la fecha de la entrada en vigor de la presente ley, podrán ser incorporadas al Programa, previa la satisfacción de los requisitos establecidos en la presente Ley.
+Las personas que se encuentren bajo protección a la fecha de la entrada en vigor de la presente ley, podrán ser incorporadas al [Programa](articulo-2.md), previa la satisfacción de los requisitos establecidos en la presente [Ley](articulo-2.md).

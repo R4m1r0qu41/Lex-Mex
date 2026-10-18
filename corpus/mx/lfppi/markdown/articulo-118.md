@@ -17,4 +17,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 118
 
-El Instituto podrá celebrar acuerdos interinstitucionales en materia de patentes, para facilitar el intercambio y el aprovechamiento del trabajo, relativo a la búsqueda, examen de fondo o su equivalente, incluyendo la asistencia técnica, así como la puesta a disposición de resultados de búsqueda y de examen.
+El [Instituto](articulo-4.md) podrá celebrar acuerdos interinstitucionales en materia de patentes, para facilitar el intercambio y el aprovechamiento del trabajo, relativo a la búsqueda, examen de fondo o su equivalente, incluyendo la asistencia técnica, así como la puesta a disposición de resultados de búsqueda y de examen.

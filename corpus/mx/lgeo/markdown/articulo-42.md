@@ -17,4 +17,4 @@ source_sha256: 67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35
 
 # Artículo 42
 
-El aprovechamiento y Explotación del Recurso Geotérmico destinado a Usos Diversos requiere de un Permiso para Usos Diversos otorgado por la Secretaría en los términos de esta Ley, su Reglamento y demás disposiciones normativas aplicables.
+El aprovechamiento y [Explotación](articulo-2.md) del [Recurso Geotérmico](articulo-2.md) destinado a [Usos Diversos](articulo-2.md) requiere de un [Permiso para Usos Diversos](articulo-2.md) otorgado por la [Secretaría](articulo-2.md) en los términos de esta [Ley](articulo-2.md), su [Reglamento](articulo-2.md) y demás disposiciones normativas aplicables.

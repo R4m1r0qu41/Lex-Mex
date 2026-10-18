@@ -17,4 +17,4 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 50
 
-Los titulares de las concesiones podrán ser sustituidos previa autorización expresa que otorgue la Secretaría, siempre que se cumplan con los requisitos y condiciones que establezca el reglamento de la presente Ley. En el caso del fallecimiento del titular de la concesión, la Secretaría dará preferencia para la sustitución, a los designados por el derecho sucesorio aplicable al caso, de conformidad con las disposiciones legales aplicables.
+Los titulares de las concesiones podrán ser sustituidos previa autorización expresa que otorgue la [Secretaría](articulo-4o.md), siempre que se cumplan con los requisitos y condiciones que establezca el reglamento de la presente Ley. En el caso del fallecimiento del titular de la concesión, la Secretaría dará preferencia para la sustitución, a los designados por el derecho sucesorio aplicable al caso, de conformidad con las disposiciones legales aplicables.

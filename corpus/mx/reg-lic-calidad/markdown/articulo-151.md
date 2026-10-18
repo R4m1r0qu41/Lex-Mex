@@ -17,4 +17,4 @@ source_sha256: d23aedc9ffdb09b9202311f03023241da20445cb45aea855b37bfd9685768861
 
 # Artículo 151
 
-Corresponde a los Sujetos Facultados para Estandarizar, Organismos Nacionales de Estandarización o Autoridades Normalizadoras, establecer la fecha de inicio de aplicación de los Estándares que elaboren, la cual no puede ser menor a ciento ochenta días naturales contados a partir del día siguiente de su publicación en la PLATIICA y en el Diario Oficial de la Federación cuando sean elaborados por las Autoridades Normalizadoras. Los períodos de inicio de aplicación de los Estándares pueden ser de forma escalonada.
+Corresponde a los Sujetos Facultados para Estandarizar, Organismos Nacionales de Estandarización o Autoridades Normalizadoras, establecer la fecha de inicio de aplicación de los Estándares que elaboren, la cual no puede ser menor a ciento ochenta días naturales contados a partir del día siguiente de su publicación en la [PLATIICA](articulo-2.md) y en el Diario Oficial de la Federación cuando sean elaborados por las Autoridades Normalizadoras. Los períodos de inicio de aplicación de los Estándares pueden ser de forma escalonada.

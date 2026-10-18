@@ -29,4 +29,4 @@ V.- Tiempo de estancia;
 
 VI.- Lugares a visitar, y
 
-VII.- En su caso, póliza de seguros del viajero y tripulantes, el tipo de transporte que se utilizará para llevar a cabo la actividad, así como la infraestructura que se requiera para su desarrollo, misma que deberá contar con la autorización que en materia de impacto ambiental corresponda en los términos de la Ley y su reglamento respectivo.
+VII.- En su caso, póliza de seguros del viajero y tripulantes, el tipo de transporte que se utilizará para llevar a cabo la actividad, así como la infraestructura que se requiera para su desarrollo, misma que deberá contar con la autorización que en materia de impacto ambiental corresponda en los términos de la [Ley](articulo-3o.md) y su reglamento respectivo.

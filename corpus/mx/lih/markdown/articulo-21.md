@@ -17,6 +17,6 @@ source_sha256: 8262a75eac7bfb608d4f48657ffb2714fe115d0b9694c42ac81624fd275bf5f6
 
 # Artículo 21
 
-En los Contratos de servicios de Exploración y Extracción de Hidrocarburos, los Contratistas entregarán la totalidad de la Producción Contractual al Estado y las Contraprestaciones a favor del Contratista serán siempre en efectivo y se establecerán en cada Contrato considerando los estándares o usos de la industria.
+En los [Contratos](articulo-3.md) de servicios de Exploración y Extracción de Hidrocarburos, los Contratistas entregarán la totalidad de la [Producción Contractual](articulo-3.md) al Estado y las [Contraprestaciones](articulo-3.md) a favor del Contratista serán siempre en efectivo y se establecerán en cada Contrato considerando los estándares o usos de la industria.
 
 Lo dispuesto en los artículos [23](articulo-23.md) y [24](articulo-24.md) de la presente Ley no será aplicable a los Contratos de servicios.

@@ -21,4 +21,4 @@ El terreno a que se refiere una solicitud dejará de ser libre a partir de su re
 
 El terreno objeto de las solicitudes simultáneas a que se refiere el artículo [20](articulo-20.md) de este Reglamento, dejará de ser libre también a partir de su registro, siempre y cuando, además del cumplimiento de los requisitos mencionados en el párrafo anterior, tales solicitudes obtengan los mejores derechos en el sorteo que se efectúe para tal efecto y sean admitidas a estudio y trámite, o bien, hayan sido admitidas sin que se hubiere requerido la celebración del sorteo.
 
-En caso de que la Secretaría constate que una solicitud no cumple alguno de los requerimientos señalados en los párrafos que anteceden, se tendrá por no admitida y se desechará, sin que se requiera la declaratoria de libertad de terreno del lote objeto de la referida solicitud.
+En caso de que la [Secretaría](articulo-1o.md) constate que una solicitud no cumple alguno de los requerimientos señalados en los párrafos que anteceden, se tendrá por no admitida y se desechará, sin que se requiera la declaratoria de libertad de terreno del lote objeto de la referida solicitud.

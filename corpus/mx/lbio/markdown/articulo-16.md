@@ -17,4 +17,4 @@ source_sha256: c1870db657a6564bbeb692a1778472db811a920626822de553ff5ca5194f95b4
 
 # Artículo 16
 
-Las dependencias y entidades de la Administración Pública Federal competentes pueden emitir los programas para la producción sustentable de Biomasa distinta a la de cultivos en Suelos Marginales para la producción de Biocombustibles, para lo cual se sujetarán a lo dispuesto en la presente sección.
+Las dependencias y entidades de la Administración Pública Federal competentes pueden emitir los programas para la producción sustentable de [Biomasa](articulo-2.md) distinta a la de cultivos en [Suelos Marginales](articulo-2.md) para la producción de [Biocombustibles](articulo-2.md), para lo cual se sujetarán a lo dispuesto en la presente sección.

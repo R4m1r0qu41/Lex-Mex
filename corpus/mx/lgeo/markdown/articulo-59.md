@@ -17,4 +17,4 @@ source_sha256: 67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35
 
 # Artículo 59
 
-Las personas titulares de Permisos de Exploración, Concesiones y Permisos de Usos Diversos, así como las personas que realicen Aprovechamientos Geotérmicos Exentos deben informar a la Secretaría, por escrito y en un plazo máximo de cinco días naturales, acerca de todo incidente que pudiera afectar la seguridad de sus instalaciones, personas, bienes o al medio ambiente.
+Las personas titulares de Permisos de [Exploración](articulo-2.md), [Concesiones](articulo-2.md) y Permisos de [Usos Diversos](articulo-2.md), así como las personas que realicen [Aprovechamientos Geotérmicos Exentos](articulo-2.md) deben informar a la [Secretaría](articulo-2.md), por escrito y en un plazo máximo de cinco días naturales, acerca de todo incidente que pudiera afectar la seguridad de sus instalaciones, personas, bienes o al medio ambiente.

@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laero",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:2",
+    "fraction": "I",
+    "start_char": 54,
+    "end_char": 83,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:term:transportista-aereo",
+    "term": "Transportista aéreo",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laero",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:2",
+    "fraction": "II",
+    "start_char": 83,
+    "end_char": 278,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:term:operador-aereo",
+    "term": "Operador aéreo",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laero",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:2",
+    "fraction": "III",
+    "start_char": 278,
+    "end_char": 519,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laero",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:2",
+    "fraction": "IV",
+    "start_char": 519,
+    "end_char": 629,
+    "basis": "express_definition"
+  }
+]

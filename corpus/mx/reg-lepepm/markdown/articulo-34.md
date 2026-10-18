@@ -17,4 +17,4 @@ source_sha256: 9080231242a59cbd78d30fb747864bc45cd63d3c4978f37086b01e45343f4244
 
 # Artículo 34
 
-Al final de cada ejercicio fiscal, Petróleos Mexicanos debe entregar al Consejo de Administración, para su conocimiento, un informe en el que se identifiquen los ahorros obtenidos por la aplicación de lo previsto en los lineamientos de austeridad en el gasto y uso de recursos.
+Al final de cada ejercicio fiscal, Petróleos Mexicanos debe entregar al [Consejo de Administración](articulo-2.md), para su conocimiento, un informe en el que se identifiquen los ahorros obtenidos por la aplicación de lo previsto en los lineamientos de austeridad en el gasto y uso de recursos.

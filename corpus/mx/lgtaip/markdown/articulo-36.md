@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 36
 
-Las Autoridades garantes para el ejercicio y desempeño de las atribuciones que les otorga la presente Ley, tendrán la naturaleza jurídica, adscripción y estructura administrativa que se establezca en sus respectivos reglamentos interiores o análogos o acuerdos de carácter general, en el ámbito de sus respectivas competencias. Las Autoridades garantes locales podrán prever que su estructura será similar a la de la Autoridad garante federal en sus respectivas leyes.
+Las [Autoridades garantes](articulo-3.md) para el ejercicio y desempeño de las atribuciones que les otorga la presente [Ley](articulo-3.md), tendrán la naturaleza jurídica, adscripción y estructura administrativa que se establezca en sus respectivos reglamentos interiores o análogos o acuerdos de carácter general, en el ámbito de sus respectivas competencias. Las [Autoridades garantes locales](articulo-3.md) podrán prever que su estructura será similar a la de la [Autoridad garante federal](articulo-3.md) en sus respectivas leyes.

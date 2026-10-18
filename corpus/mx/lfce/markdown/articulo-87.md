@@ -17,7 +17,7 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 87
 
-Los Agentes Económicos deben obtener la autorización para realizar la concentración a que se refiere el [artículo anterior](articulo-86.md) antes de que suceda cualquiera de los siguientes supuestos:
+Los [Agentes Económicos](articulo-3.md) deben obtener la autorización para realizar la concentración a que se refiere el [artículo anterior](articulo-86.md) antes de que suceda cualquiera de los siguientes supuestos:
 
 I. El acto jurídico se perfeccione de conformidad con la legislación aplicable o, en su caso, se cumpla la condición suspensiva a la que esté sujeto dicho acto;
 

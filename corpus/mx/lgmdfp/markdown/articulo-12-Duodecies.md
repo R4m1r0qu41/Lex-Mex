@@ -17,9 +17,9 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 12 Duodecies
 
-La autoridad competente que reciba una Noticia, Reporte o denuncia por la desaparición o no localización de una persona, la registrará sin dilación alguna en el Registro Nacional y en la Base Nacional de Carpetas de Investigación, y remitirá por los medios disponibles a las Fiscalías Especializadas y Comisiones Locales de Búsqueda una Ficha de Búsqueda, conforme al protocolo de Alerta Nacional de Búsqueda y Localización, debiendo asegurarse de la recepción. En este último supuesto las Fiscalías, de oficio y sin demora, deberán completar el registro en la Base Nacional de Carpetas de Investigación.
+La autoridad competente que reciba una [Noticia](articulo-4.md), [Reporte](articulo-4.md) o denuncia por la desaparición o no localización de una persona, la registrará sin dilación alguna en el [Registro Nacional](articulo-4.md) y en la Base Nacional de Carpetas de Investigación, y remitirá por los medios disponibles a las [Fiscalías Especializadas](articulo-4.md) y [Comisiones Locales de Búsqueda](articulo-4.md) una [Ficha de Búsqueda](articulo-4.md), conforme al protocolo de Alerta Nacional de Búsqueda y Localización, debiendo asegurarse de la recepción. En este último supuesto las [Fiscalías](articulo-4.md), de oficio y sin demora, deberán completar el registro en la Base Nacional de Carpetas de Investigación.
 
-La Ficha de Búsqueda deberá difundirse de manera masiva por todos los medios disponibles entre las Autoridades, y de manera directa a:
+La Ficha de Búsqueda deberá difundirse de manera masiva por todos los medios disponibles entre las [Autoridades](articulo-4.md), y de manera directa a:
 
 I. Administradoras de canales televisivos y radiodifusoras públicas;
 
@@ -31,7 +31,7 @@ IV. Instituciones de seguridad pública, ciudadana u homólogas, y
 
 V. Cualquier ente público o privado que tenga la capacidad de transmitir masivamente un mensaje.
 
-La Ficha de Búsqueda se notificará al Registro Nacional de Población, con la finalidad de que se active en la Plataforma Única de Identidad, los alertamientos de usos de la Clave Única de Registro de Población de la Persona Desaparecida o No Localizada, o la búsqueda de coincidencias con sus datos identificativos.
+La Ficha de Búsqueda se notificará al Registro Nacional de Población, con la finalidad de que se active en la [Plataforma Única de Identidad](articulo-4.md), los alertamientos de usos de la Clave Única de Registro de Población de la [Persona Desaparecida](articulo-4.md) o No Localizada, o la búsqueda de coincidencias con sus datos identificativos.
 
 En los casos en que se identifique un uso de la Clave Única de Registro de Población, el Registro Nacional de Población informará de inmediato a las Autoridades competentes en todo el país para que, en el ámbito de sus atribuciones, realicen las acciones necesarias para la localización.
 
@@ -51,6 +51,6 @@ VI. Datos de contacto para aportar información o colaborar con la búsqueda, y
 
 VII. Folio único de identificación asignado por el Registro Nacional de Personas Desaparecidas y No Localizadas.
 
-La Ficha de Búsqueda deberá generarse en formato físico y digital, y deberá difundirse de manera inmediata y amplia a través de medios institucionales, redes sociales, portales oficiales y, en su caso, medios masivos de comunicación, conforme a los protocolos establecidos por la Comisión Nacional de Búsqueda.
+La Ficha de Búsqueda deberá generarse en formato físico y digital, y deberá difundirse de manera inmediata y amplia a través de medios institucionales, redes sociales, portales oficiales y, en su caso, medios masivos de comunicación, conforme a los protocolos establecidos por la [Comisión Nacional de Búsqueda](articulo-4.md).
 
 Artículo adicionado DOF 16-07-2025

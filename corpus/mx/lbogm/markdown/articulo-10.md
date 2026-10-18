@@ -19,10 +19,10 @@ source_sha256: b3c906475b455176de73da17f4f93a73f295965dc9bcca854b48417c7d4d3cfc
 
 Son autoridades competentes en materia de bioseguridad:
 
-I. La SEMARNAT;
+I. La [SEMARNAT](articulo-3.md);
 
-II. La SAGARPA, y
+II. La [SAGARPA](articulo-3.md), y
 
-III. La SSA.
+III. La [SSA](articulo-3.md).
 
-La SHCP tendrá las facultades que se establecen en esta Ley, en lo relativo a la importación de OGMs y de productos que los contengan.
+La [SHCP](articulo-3.md) tendrá las facultades que se establecen en esta Ley, en lo relativo a la importación de OGMs y de productos que los contengan.

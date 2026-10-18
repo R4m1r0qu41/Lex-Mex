@@ -17,4 +17,4 @@ source_sha256: 7f01ee1b1deb901a23976507adccbddefbea50b0fc9a4ddceaf1225d711d50d0
 
 # Artículo 146
 
-Se sancionará con cinco a doce años de prisión y de doscientas a ochocientas Unidades de Medida y Actualización a quien falsifique el certificado a que se refiere la presente Ley, lo altere, comercialice o use a sabiendas de su ilicitud.
+Se sancionará con cinco a doce años de prisión y de doscientas a ochocientas Unidades de Medida y Actualización a quien falsifique el certificado a que se refiere la presente [Ley](articulo-4.md), lo altere, comercialice o use a sabiendas de su ilicitud.

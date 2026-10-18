@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 103
 
-Las personas Permisionarias de Tratamiento de Petróleo, Refinación de Petróleo, Procesamiento de Gas Natural y de Formulación de Petrolíferos, son responsables de la medición y calidad de los productos finales derivados de sus procesos, de conformidad con la Normatividad aplicable.
+Las personas Permisionarias de Tratamiento de Petróleo, [Refinación de Petróleo](articulo-3.md), Procesamiento de Gas Natural y de Formulación de Petrolíferos, son responsables de la medición y calidad de los productos finales derivados de sus procesos, de conformidad con la [Normatividad](articulo-3.md) aplicable.

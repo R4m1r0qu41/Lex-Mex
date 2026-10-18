@@ -15,4 +15,4 @@ source_sha256: d9ffbbf8f19b54a93ff577abb1266e4be1316d935e79fad655242955fd80ff70
 
 # TERCERO
 
-Las solicitudes de permisos de vertimientos, que se encuentren en trámite al entrar en vigor la presente Ley, podrán ser reguladas por ésta solo en aquellas fases del trámite que no hayan sido desahogadas.
+Las solicitudes de permisos de vertimientos, que se encuentren en trámite al entrar en vigor la presente [Ley](articulo-2.md), podrán ser reguladas por ésta solo en aquellas fases del trámite que no hayan sido desahogadas.

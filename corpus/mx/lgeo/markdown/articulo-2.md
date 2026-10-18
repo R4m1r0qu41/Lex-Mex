@@ -17,15 +17,15 @@ source_sha256: 67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35
 
 # Artículo 2
 
-Para efectos de la interpretación y aplicación de la presente Ley, se deben entender los conceptos y las definiciones, en singular o plural, previstos en la Ley de Planeación y Transición Energética, la Ley del Sector Eléctrico y en las siguientes definiciones:
+Para efectos de la interpretación y aplicación de la presente [Ley](articulo-2.md), se deben entender los conceptos y las definiciones, en singular o plural, previstos en la Ley de Planeación y Transición Energética, la Ley del Sector Eléctrico y en las siguientes definiciones:
 
-I. Agua Geotérmica: Agua en el subsuelo en estado líquido o gaseoso que se encuentra a una temperatura igual o superior a 80 grados centígrados en forma natural en un Yacimiento Geotérmico, con la capacidad de transportar energía en forma de calor, y que no es apta para el consumo humano;
+I. Agua Geotérmica: Agua en el subsuelo en estado líquido o gaseoso que se encuentra a una temperatura igual o superior a 80 grados centígrados en forma natural en un [Yacimiento Geotérmico](articulo-2.md), con la capacidad de transportar energía en forma de calor, y que no es apta para el consumo humano;
 
-II. Aprovechamiento Geotérmico Exento: Es el aprovechamiento de Recursos Geotérmicos para destinarlos a Usos Diversos de pequeña escala, que está exento de un Permiso para Usos Diversos, pero que cuenta con un registro de esta actividad en la Secretaría;
+II. Aprovechamiento Geotérmico Exento: Es el aprovechamiento de [Recursos Geotérmicos](articulo-2.md) para destinarlos a [Usos Diversos](articulo-2.md) de pequeña escala, que está exento de un [Permiso para Usos Diversos](articulo-2.md), pero que cuenta con un registro de esta actividad en la [Secretaría](articulo-2.md);
 
-III. Área Geotérmica: Área delimitada en superficie y proyectada en el subsuelo, para Exploración y con potencial de Explotación del Recurso Geotérmico;
+III. Área Geotérmica: Área delimitada en superficie y proyectada en el subsuelo, para [Exploración](articulo-2.md) y con potencial de [Explotación](articulo-2.md) del Recurso Geotérmico;
 
-IV. Concesión: Acto administrativo por el cual, el Estado, a través de la Secretaría, confiere a un particular o a las Empresas Públicas del Estado, dentro de un plazo determinado, los derechos para la Explotación de los Recursos Geotérmicos localizados en un Área Geotérmica, conforme a lo dispuesto en esta Ley, su Reglamento y demás disposiciones aplicables, con el propósito de generar energía eléctrica, destinarla a Usos Diversos o ambos;
+IV. Concesión: Acto administrativo por el cual, el Estado, a través de la Secretaría, confiere a un particular o a las Empresas Públicas del Estado, dentro de un plazo determinado, los derechos para la Explotación de los Recursos Geotérmicos localizados en un [Área Geotérmica](articulo-2.md), conforme a lo dispuesto en esta Ley, su [Reglamento](articulo-2.md) y demás disposiciones aplicables, con el propósito de generar energía eléctrica, destinarla a Usos Diversos o ambos;
 
 V. Exploración: Conjunto de actividades que contribuyen al conocimiento geológico, geofísico y geoquímico del Área Geotérmica, con el objeto de corroborar la existencia del Recurso Geotérmico y delimitar el Área Geotérmica;
 
@@ -39,7 +39,7 @@ IX. Permiso para Usos Diversos: Acto administrativo por el cual, el Estado, a tr
 
 X. Pozo Exploratorio Geotérmico: Perforación del subsuelo con fines exploratorios, bajo los lineamientos que señale la presente Ley, su Reglamento, y demás disposiciones aplicables, y que tenga como propósito obtener información térmica, litológica y geoquímica de una posible Área Geotérmica;
 
-XI. Reasignación: Procedimiento mediante el cual un Área Geotérmica concesionada puede asignarse a una persona titular de un Permiso de Exploración o una Concesión;
+XI. Reasignación: Procedimiento mediante el cual un Área Geotérmica concesionada puede asignarse a una persona titular de un [Permiso de Exploración](articulo-2.md) o una [Concesión](articulo-2.md);
 
 XII. Recurso Geotérmico: Recurso renovable asociado al calor natural del subsuelo, que puede ser utilizado para la generación de energía eléctrica o para destinarla a Usos Diversos, o ambos;
 
@@ -49,4 +49,4 @@ XIV. Secretaría: Secretaría de Energía; XV. Usos Diversos: Toda actividad de 
 
 XVI. Yacimiento Geotérmico: Depósito subterráneo de calor en la corteza terrestre, formado por agua, vapor geotérmico o rocas calientes, cuya energía térmica se puede aprovechar para generar energía eléctrica o Usos Diversos o ambos, y
 
-XVII. Yacimiento Geotérmico Hidrotermal: Formación geológica convencionalmente delimitada por profundidad y espesor, que contiene Agua Geotérmica y minerales, a alta presión y temperatura igual o mayor a 80 grados centígrados, confinados por una capa sello impermeable y almacenados en un medio poroso o fracturado.
+XVII. Yacimiento Geotérmico Hidrotermal: Formación geológica convencionalmente delimitada por profundidad y espesor, que contiene [Agua Geotérmica](articulo-2.md) y minerales, a alta presión y temperatura igual o mayor a 80 grados centígrados, confinados por una capa sello impermeable y almacenados en un medio poroso o fracturado.

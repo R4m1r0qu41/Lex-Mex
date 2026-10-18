@@ -17,7 +17,7 @@ source_sha256: 43723ba379e128c1a1c1be4b085ecc870946cdec43d56f83e7314c077361368f
 
 # Artículo 71
 
-Las sanciones serán impuestas por la Secretaría con base en: I.- Las actas de inspección levantadas a los corredores, en su caso;
+Las sanciones serán impuestas por la [Secretaría](articulo-2o.md) con base en: I.- Las actas de inspección levantadas a los corredores, en su caso;
 
 II.- Los datos comprobados que aporten los particulares y los colegios de corredores;
 

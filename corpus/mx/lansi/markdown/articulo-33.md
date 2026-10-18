@@ -17,11 +17,11 @@ source_sha256: 0e34f329befed4474eb7bc1bc195ba13bbe188edfbbabc914a44723e62eb9e44
 
 # Artículo 33
 
-El Consejo Técnico de la Agencia tendrá las siguientes funciones:
+El Consejo Técnico de la [Agencia](articulo-3o.md) tendrá las siguientes funciones:
 
 I. Conocer el programa de trabajo y el informe anual de labores de la Agencia que presente el Director Ejecutivo;
 
-II. Acordar los asuntos que se sometan a su consideración, relacionados con la Seguridad Industrial, Seguridad Operativa y protección al medio ambiente;
+II. Acordar los asuntos que se sometan a su consideración, relacionados con la [Seguridad Industrial](articulo-3o.md), [Seguridad Operativa](articulo-3o.md) y protección al medio ambiente;
 
 III. Conocer del ejercicio de los recursos del fideicomiso a que se refiere esta Ley;
 

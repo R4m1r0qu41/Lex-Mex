@@ -17,7 +17,7 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # Artículo 49
 
-Para calificar los concursos a que se refiere el [artículo anterior](articulo-48.md), se constituirá un Comité mediante Acuerdo que expida el titular de la Secretaría, el cual deberá contener por lo menos, lo siguiente:
+Para calificar los concursos a que se refiere el [artículo anterior](articulo-48.md), se constituirá un Comité mediante Acuerdo que expida el titular de la [Secretaría](articulo-2o.md), el cual deberá contener por lo menos, lo siguiente:
 
 I. Forma en como se integrará el Comité y sus atribuciones;
 

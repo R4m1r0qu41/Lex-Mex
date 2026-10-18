@@ -15,4 +15,4 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Tercero
 
-Los militares retirados con derecho a percibir haber de retiro, deberán recibir este beneficio de conformidad con las resoluciones acordadas por la Junta Directiva del Instituto y sancionadas por la Secretaría de Hacienda y Crédito Público.
+Los militares retirados con derecho a percibir haber de retiro, deberán recibir este beneficio de conformidad con las resoluciones acordadas por la [Junta](articulo-4o.md) Directiva del [Instituto](articulo-4o.md) y sancionadas por la Secretaría de Hacienda y Crédito Público.

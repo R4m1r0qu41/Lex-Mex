@@ -15,4 +15,4 @@ source_sha256: 0e34f329befed4474eb7bc1bc195ba13bbe188edfbbabc914a44723e62eb9e44
 
 # Tercero
 
-El Ejecutivo Federal expedirá el Reglamento Interior de la Agencia dentro de los siguientes ciento ochenta días naturales contados a partir del nombramiento del Director Ejecutivo.
+El Ejecutivo Federal expedirá el Reglamento Interior de la [Agencia](articulo-3o.md) dentro de los siguientes ciento ochenta días naturales contados a partir del nombramiento del Director Ejecutivo.

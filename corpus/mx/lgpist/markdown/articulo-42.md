@@ -17,6 +17,6 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 # Artículo 42
 
-Las Fiscalías Especializadas y las instituciones encargadas de atención a Víctimas podrán celebrar convenios de colaboración con el propósito de estar en posibilidades de dar cumplimiento a lo previsto en los artículos [40](articulo-40.md) y [41](articulo-41.md) de esta Ley.
+Las [Fiscalías Especializadas](articulo-5.md) y las instituciones encargadas de atención a [Víctimas](articulo-5.md) podrán celebrar convenios de colaboración con el propósito de estar en posibilidades de dar cumplimiento a lo previsto en los artículos [40](articulo-40.md) y [41](articulo-41.md) de esta [Ley](articulo-5.md).
 
 Artículo reformado DOF 20-05-2021

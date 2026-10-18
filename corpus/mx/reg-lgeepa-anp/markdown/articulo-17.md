@@ -17,4 +17,4 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 17
 
-Para el manejo y administración de las áreas naturales protegidas, la Secretaría podrá constituir Consejos Asesores, que tendrán por objeto asesorar y apoyar a los directores de las áreas protegidas.
+Para el manejo y administración de las áreas naturales protegidas, la [Secretaría](articulo-3o.md) podrá constituir [Consejos](articulo-3o.md) Asesores, que tendrán por objeto asesorar y apoyar a los directores de las áreas protegidas.

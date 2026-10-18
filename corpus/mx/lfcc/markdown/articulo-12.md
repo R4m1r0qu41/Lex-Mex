@@ -17,4 +17,4 @@ source_sha256: 0305c9a7ba90c8d0bbe973be2a134a650976ce5d25c304458cb0fd5401b8ddde
 
 # Artículo 12
 
-La Secretaría, por conducto de la Comisión, velará porque los beneficios y facilidades administrativas que instrumenten las dependencias y entidades de la Administración Pública Federal cumplan con criterios de equidad, proporcionalidad, racionalidad y eficiencia, así como con los objetivos a que se refiere el artículo 8 de la Ley General de Mejora Regulatoria.
+La [Secretaría](articulo-3.md), por conducto de la [Comisión](articulo-3.md), velará porque los beneficios y facilidades administrativas que instrumenten las dependencias y entidades de la Administración Pública Federal cumplan con criterios de equidad, proporcionalidad, racionalidad y eficiencia, así como con los objetivos a que se refiere el artículo 8 de la [Ley](articulo-3.md) General de Mejora Regulatoria.

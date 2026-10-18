@@ -17,9 +17,9 @@ source_sha256: 45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80
 
 # Artículo 9
 
-La Comisión se integrará por personas representantes de las siguientes dependencias, entidades, organismos y agrupaciones sociales:
+La [Comisión](articulo-3.md) se integrará por personas representantes de las siguientes dependencias, entidades, organismos y agrupaciones sociales:
 
-I. Secretaría de Agricultura y Desarrollo Rural, que tendrá a cargo la Secretaría Ejecutiva y las reuniones de la Comisión;
+I. Secretaría de Agricultura y Desarrollo Rural, que tendrá a cargo la [Secretaría](articulo-3.md) Ejecutiva y las reuniones de la Comisión;
 
 II. Secretaría de Bienestar;
 

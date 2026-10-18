@@ -27,4 +27,4 @@ III. Los costos y las probabilidades que tienen los usuarios o consumidores para
 
 IV. Las restricciones normativas de carácter federal, local o internacional que limiten el acceso de usuarios o consumidores a fuentes de abasto alternativas, o el acceso de los proveedores a clientes alternativos;
 
-V. Los demás que se establezcan en las Disposiciones Regulatorias, así como los criterios técnicos que para tal efecto emita la Comisión.
+V. Los demás que se establezcan en las [Disposiciones Regulatorias](articulo-3.md), así como los criterios técnicos que para tal efecto emita la [Comisión](articulo-3.md).

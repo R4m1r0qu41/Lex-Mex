@@ -17,4 +17,4 @@ source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 
 # Artículo 53
 
-Una vez concluido el proceso de consulta pública, a que hace referencia el artículo [47](articulo-47.md) de este Reglamento, la Secretaría pondrá a consideración del Titular del Ejecutivo Federal la declaratoria del programa de ordenamiento ecológico marino respectivo, para su aprobación y publicación en el Diario Oficial de la Federación.
+Una vez concluido el proceso de consulta pública, a que hace referencia el artículo [47](articulo-47.md) de este [Reglamento](articulo-3o.md), la [Secretaría](articulo-3o.md) pondrá a consideración del Titular del Ejecutivo Federal la declaratoria del programa de ordenamiento ecológico marino respectivo, para su aprobación y publicación en el Diario Oficial de la Federación.

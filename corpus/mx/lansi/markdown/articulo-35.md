@@ -17,6 +17,6 @@ source_sha256: 0e34f329befed4474eb7bc1bc195ba13bbe188edfbbabc914a44723e62eb9e44
 
 # Artículo 35
 
-Los servidores públicos de la Agencia podrán contar con un seguro de responsabilidad civil y asistencia legal, el cual no formará parte de las prestaciones que por norma les corresponden.
+Los servidores públicos de la [Agencia](articulo-3o.md) podrán contar con un seguro de responsabilidad civil y asistencia legal, el cual no formará parte de las prestaciones que por norma les corresponden.
 
 Para tal fin, la Agencia creará anualmente las provisiones presupuestarias correspondientes en su presupuesto de gasto de operación.

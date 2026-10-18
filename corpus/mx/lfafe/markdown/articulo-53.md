@@ -17,8 +17,8 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 53
 
-En la compraventa, donación o permuta de armas, municiones, materiales explosivos y sustancias químicas relacionadas con estos, realizadas entre particulares, se deben cubrir los requisitos establecidos en la presente Ley y demás disposiciones aplicables.
+En la compraventa, donación o permuta de armas, municiones, materiales explosivos y sustancias químicas relacionadas con estos, realizadas entre particulares, se deben cubrir los requisitos establecidos en la presente [Ley](articulo-1o-Bis.md) y demás disposiciones aplicables.
 
-Las transferencias de armamento entre los organismos que cuenten con licencias oficiales colectivas de portación de armas requieren autorización de la Secretaría.
+Las transferencias de armamento entre los organismos que cuenten con licencias oficiales colectivas de portación de armas requieren autorización de la [Secretaría](articulo-1o-Bis.md).
 
 Artículo reformado DOF 29-05-2025

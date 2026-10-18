@@ -17,4 +17,4 @@ source_sha256: 45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80
 
 # Artículo 68
 
-Las organizaciones sociales que participan en la Comisión podrán colaborar con información, en términos de la Ley de Infraestructura de la Calidad y de esta Ley, en el diseño de las Normas Oficiales Mexicanas sobre calidad del café que se comercialice en cualquiera de sus presentaciones.
+Las organizaciones sociales que participan en la [Comisión](articulo-3.md) podrán colaborar con información, en términos de la Ley de Infraestructura de la Calidad y de esta Ley, en el diseño de las Normas Oficiales Mexicanas sobre calidad del café que se comercialice en cualquiera de sus presentaciones.

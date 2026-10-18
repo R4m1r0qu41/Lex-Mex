@@ -17,7 +17,7 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 55
 
-La Secretaría, procederá a la revocación de la concesión o permiso, cuando sus titulares:
+La [Secretaría](articulo-4o.md), procederá a la revocación de la concesión o permiso, cuando sus titulares:
 
 I. Afecten al ecosistema o lo pongan en riesgo inminente, con base en un dictamen emitido por la autoridad correspondiente;
 

@@ -17,6 +17,6 @@ source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 
 # Artículo 68
 
-Para la integración de los comités de ordenamiento ecológico a que se refiere el presente reglamento, la Secretaría promoverá la participación de personas, organizaciones, grupos e instituciones de los sectores público, privado y social, con el fin de lograr la congruencia de planes, programas y acciones sectoriales en el área de estudio, así como resolver los conflictos ambientales y promover el desarrollo sustentable.
+Para la integración de los comités de ordenamiento ecológico a que se refiere el presente reglamento, la [Secretaría](articulo-3o.md) promoverá la participación de personas, organizaciones, grupos e instituciones de los sectores público, privado y social, con el fin de lograr la congruencia de planes, programas y acciones sectoriales en el área de estudio, así como resolver los conflictos ambientales y promover el desarrollo sustentable.
 
 Los comités a que hace referencia el presente artículo, se ajustarán a lo que se determine en el convenio de coordinación respectivo.

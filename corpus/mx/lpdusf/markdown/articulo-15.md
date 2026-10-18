@@ -17,4 +17,4 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 15
 
-La Comisión Nacional y sus servidores públicos, según sea el caso, estarán obligados a reparar los daños y perjuicios que se causen en caso de revelación del secreto bancario, fiduciario o bursátil, en términos de la legislación aplicable.
+La [Comisión Nacional](articulo-2o.md) y sus servidores públicos, según sea el caso, estarán obligados a reparar los daños y perjuicios que se causen en caso de revelación del secreto bancario, fiduciario o bursátil, en términos de la legislación aplicable.

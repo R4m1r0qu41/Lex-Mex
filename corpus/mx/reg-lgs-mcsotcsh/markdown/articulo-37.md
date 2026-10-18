@@ -17,4 +17,4 @@ source_sha256: e77eafda71a4c270f2e75d11f08ebb858e5d09675b4700f56382894b4624bdec
 
 # Artículo 37
 
-Los establecimientos que realicen actos de disposición de órganos y tejidos con fines terapéuticos, rendirán un informe de sus actividades a los Registros Nacionales de Trasplantes y de Transfusiones, a que alude el [artículo anterior](articulo-36.md), en los términos, forma y periodicidad que señale la Secretaría.
+Los establecimientos que realicen actos de disposición de órganos y tejidos con fines terapéuticos, rendirán un informe de sus actividades a los Registros Nacionales de Trasplantes y de [Transfusiones](articulo-6o.md), a que alude el [artículo anterior](articulo-36.md), en los términos, forma y periodicidad que señale la Secretaría.

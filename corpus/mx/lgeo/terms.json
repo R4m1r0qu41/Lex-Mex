@@ -1,1 +1,189 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgeo:term:agua-geotermica",
+    "term": "Agua Geotérmica",
+    "instrument_id": "urn:lex-mx:federal:statute:lgeo",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgeo:article:2",
+    "fraction": "I",
+    "start_char": 263,
+    "end_char": 554,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgeo:term:aprovechamiento-geotermico-exento",
+    "term": "Aprovechamiento Geotérmico Exento",
+    "instrument_id": "urn:lex-mx:federal:statute:lgeo",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgeo:article:2",
+    "fraction": "II",
+    "start_char": 554,
+    "end_char": 810,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgeo:term:area-geotermica",
+    "term": "Área Geotérmica",
+    "instrument_id": "urn:lex-mx:federal:statute:lgeo",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgeo:article:2",
+    "fraction": "III",
+    "start_char": 810,
+    "end_char": 964,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgeo:term:concesion",
+    "term": "Concesión",
+    "instrument_id": "urn:lex-mx:federal:statute:lgeo",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgeo:article:2",
+    "fraction": "IV",
+    "start_char": 964,
+    "end_char": 1410,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgeo:term:exploracion",
+    "term": "Exploración",
+    "instrument_id": "urn:lex-mx:federal:statute:lgeo",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgeo:article:2",
+    "fraction": "V",
+    "start_char": 1410,
+    "end_char": 1635,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgeo:term:explotacion",
+    "term": "Explotación",
+    "instrument_id": "urn:lex-mx:federal:statute:lgeo",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgeo:article:2",
+    "fraction": "VI",
+    "start_char": 1635,
+    "end_char": 1979,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgeo:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:statute:lgeo",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgeo:article:2",
+    "fraction": "VII",
+    "start_char": 1979,
+    "end_char": 2008,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgeo:term:permiso-de-exploracion",
+    "term": "Permiso de Exploración",
+    "instrument_id": "urn:lex-mx:federal:statute:lgeo",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgeo:article:2",
+    "fraction": "VIII",
+    "start_char": 2008,
+    "end_char": 2341,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgeo:term:permiso-para-usos-diversos",
+    "term": "Permiso para Usos Diversos",
+    "instrument_id": "urn:lex-mx:federal:statute:lgeo",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgeo:article:2",
+    "fraction": "IX",
+    "start_char": 2341,
+    "end_char": 2640,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgeo:term:pozo-exploratorio-geotermico",
+    "term": "Pozo Exploratorio Geotérmico",
+    "instrument_id": "urn:lex-mx:federal:statute:lgeo",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgeo:article:2",
+    "fraction": "X",
+    "start_char": 2640,
+    "end_char": 2935,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgeo:term:reasignacion",
+    "term": "Reasignación",
+    "instrument_id": "urn:lex-mx:federal:statute:lgeo",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgeo:article:2",
+    "fraction": "XI",
+    "start_char": 2935,
+    "end_char": 3101,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgeo:term:recurso-geotermico",
+    "term": "Recurso Geotérmico",
+    "instrument_id": "urn:lex-mx:federal:statute:lgeo",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgeo:article:2",
+    "fraction": "XII",
+    "start_char": 3101,
+    "end_char": 3293,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgeo:term:reglamento",
+    "term": "Reglamento",
+    "instrument_id": "urn:lex-mx:federal:statute:lgeo",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgeo:article:2",
+    "fraction": "XIII",
+    "start_char": 3293,
+    "end_char": 3347,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgeo:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lgeo",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgeo:article:2",
+    "fraction": "XIV",
+    "start_char": 3347,
+    "end_char": 3387,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgeo:term:usos-diversos",
+    "term": "Usos Diversos",
+    "instrument_id": "urn:lex-mx:federal:statute:lgeo",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgeo:article:2",
+    "fraction": "XV",
+    "start_char": 3387,
+    "end_char": 4024,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgeo:term:yacimiento-geotermico",
+    "term": "Yacimiento Geotérmico",
+    "instrument_id": "urn:lex-mx:federal:statute:lgeo",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgeo:article:2",
+    "fraction": "XVI",
+    "start_char": 4024,
+    "end_char": 4261,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgeo:term:yacimiento-geotermico-hidrotermal",
+    "term": "Yacimiento Geotérmico Hidrotermal",
+    "instrument_id": "urn:lex-mx:federal:statute:lgeo",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgeo:article:2",
+    "fraction": "XVII",
+    "start_char": 4261,
+    "end_char": 4576,
+    "basis": "express_definition"
+  }
+]

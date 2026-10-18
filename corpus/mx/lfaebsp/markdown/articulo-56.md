@@ -17,6 +17,6 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 56
 
-Para la realización del remate de Bienes se anunciará su venta mediante la publicación de un aviso, indistintamente, en el Diario Oficial de la Federación, en al menos un diario de circulación nacional o a través de medios electrónicos, ópticos o de cualquier otra tecnología de la información y comunicación.
+Para la realización del remate de [Bienes](articulo-2o.md) se anunciará su venta mediante la publicación de un aviso, indistintamente, en el Diario Oficial de la Federación, en al menos un diario de circulación nacional o a través de medios electrónicos, ópticos o de cualquier otra tecnología de la información y comunicación.
 
 Artículo reformado DOF 23-02-2005, 09-08-2019

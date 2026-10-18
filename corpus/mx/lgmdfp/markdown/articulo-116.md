@@ -17,4 +17,4 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 116
 
-La información contenida en el Registro Nacional de Personas Fallecidas y No Identificadas estará sujeta a las disposiciones en materia de protección de datos personales y se utilizará únicamente para lograr la identificación de las personas fallecidas.
+La información contenida en el [Registro Nacional de Personas Fallecidas y No Identificadas](articulo-4.md) estará sujeta a las disposiciones en materia de protección de datos personales y se utilizará únicamente para lograr la identificación de las personas fallecidas.

@@ -17,10 +17,10 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 92
 
-La Comisión Nacional de Búsqueda o la Comisión Local de Búsqueda correspondiente debe asegurar la existencia de mecanismos eficientes para que los Familiares y sus representantes siempre tengan acceso a los indicios, evidencias y pruebas relacionadas con la búsqueda, y puedan proponer acciones de investigación para la búsqueda y localización de la persona.
+La [Comisión Nacional de Búsqueda](articulo-4.md) o la [Comisión Local de Búsqueda](articulo-4.md) correspondiente debe asegurar la existencia de mecanismos eficientes para que los [Familiares](articulo-4.md) y sus representantes siempre tengan acceso a los indicios, evidencias y pruebas relacionadas con la búsqueda, y puedan proponer acciones de investigación para la búsqueda y localización de la persona.
 
 La Comisión Nacional de Búsqueda o la Comisión Local de Búsqueda correspondiente debe implementar mecanismos para que los Familiares tengan conocimiento del resultado de las acciones de búsqueda, las diligencias, los indicios, evidencias y pruebas que surjan de los mismos.
 
-Los Familiares y sus representantes podrán acompañar y dar seguimiento a las acciones de búsqueda, lo cual estará garantizado en todo momento, de acuerdo con las medidas previstas en el Protocolo Homologado de Búsqueda y en el Protocolo Homologado de Investigación y siempre velando por salvaguardar su integridad física y emocional.
+Los Familiares y sus representantes podrán acompañar y dar seguimiento a las acciones de búsqueda, lo cual estará garantizado en todo momento, de acuerdo con las medidas previstas en el [Protocolo Homologado de Búsqueda](articulo-4.md) y en el [Protocolo Homologado de Investigación](articulo-4.md) y siempre velando por salvaguardar su integridad física y emocional.
 
 Lo dispuesto en este artículo está sujeto a lo previsto en el Código Nacional de Procedimientos Penales.

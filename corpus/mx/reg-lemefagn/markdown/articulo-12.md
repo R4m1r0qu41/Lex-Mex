@@ -17,6 +17,6 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 12
 
-Para los efectos de la preparación profesional, las personas discentes estarán sujetas a la normatividad que regula el proceso de formación dentro de la Institución Educativa en que hayan sido aceptados, así como a lo establecido en los planes y programas de estudio y los complementarios que resulten necesarios para su formación profesional.
+Para los efectos de la preparación profesional, las personas discentes estarán sujetas a la normatividad que regula el proceso de formación dentro de la [Institución Educativa](articulo-3.md) en que hayan sido aceptados, así como a lo establecido en los planes y programas de estudio y los complementarios que resulten necesarios para su formación profesional.
 
 Artículo reformado DOF 20-03-2026

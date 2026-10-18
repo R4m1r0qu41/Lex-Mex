@@ -17,7 +17,7 @@ source_sha256: 67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35
 
 # Artículo 16
 
-Las personas interesadas en obtener el Permiso de Exploración deben presentar la solicitud a la Secretaría, misma que debe contener al menos:
+Las personas interesadas en obtener el [Permiso de Exploración](articulo-2.md) deben presentar la solicitud a la [Secretaría](articulo-2.md), misma que debe contener al menos:
 
 I. Nombre, denominación o razón social, de la persona solicitante;
 
@@ -25,7 +25,7 @@ II. Domicilio fiscal y domicilio para oír y recibir notificaciones, así como n
 
 III. Comprobante de pago de derechos;
 
-IV. Ubicación geo-referenciada del Área Geotérmica, indicando los vértices que configuren el polígono;
+IV. Ubicación geo-referenciada del [Área Geotérmica](articulo-2.md), indicando los vértices que configuren el polígono;
 
 V. Especificaciones técnicas del proyecto;
 
@@ -35,4 +35,4 @@ VII. Documentos que acrediten que tienen derechos de uso, goce o disfrute sobre 
 
 VIII. Evidencia documental y de campo que permita constatar la factibilidad social, técnica y financiera, y
 
-IX. Los demás que la Secretaría determine en el Reglamento de esta Ley.
+IX. Los demás que la Secretaría determine en el [Reglamento](articulo-2.md) de esta [Ley](articulo-2.md).

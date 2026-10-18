@@ -17,8 +17,8 @@ source_sha256: d8dd1de3627b899bb4faf31c2812c3d5f14f7108be153d5aa8dd549b9136184a
 
 # Artículo 27
 
-El Consejo Nacional estará integrado por el Presidente de la República, quien lo presidirá y por los titulares de las Secretarías de Estado, los Gobernadores de los Estados, el Jefe de Gobierno de la Ciudad de México, quienes podrán ser suplidos por servidores públicos que ostenten cargos con nivel inmediato inferior, y la Mesa Directiva de la Comisión de Protección Civil de la Cámara de Senadores y la de Diputados. En el caso del Presidente de la República, lo suplirá el Secretario de Seguridad y Protección Ciudadana, quien a su vez será suplido por el Coordinador Nacional de Protección Civil. Párrafo reformado DOF 19-01-2018, 21-12-2023
+El [Consejo Nacional](articulo-2.md) estará integrado por el Presidente de la República, quien lo presidirá y por los titulares de las [Secretarías](articulo-2.md) de Estado, los Gobernadores de los Estados, el Jefe de Gobierno de la Ciudad de México, quienes podrán ser suplidos por servidores públicos que ostenten cargos con nivel inmediato inferior, y la Mesa Directiva de la Comisión de [Protección Civil](articulo-2.md) de la Cámara de Senadores y la de Diputados. En el caso del Presidente de la República, lo suplirá el Secretario de Seguridad y Protección Ciudadana, quien a su vez será suplido por el Coordinador Nacional de Protección Civil. Párrafo reformado DOF 19-01-2018, 21-12-2023
 
-El Consejo Nacional podrá asesorarse en la toma de decisiones en materia de protección civil del Consejo Consultivo, en los términos que se establezca en el Reglamento.
+El Consejo Nacional podrá asesorarse en la toma de decisiones en materia de protección civil del [Consejo Consultivo](articulo-2.md), en los términos que se establezca en el Reglamento.
 
 Los integrantes del Consejo Consultivo podrán ser convocados a las sesiones del Consejo Nacional, por invitación que formule el Secretario Ejecutivo.

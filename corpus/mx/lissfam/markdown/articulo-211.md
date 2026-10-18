@@ -17,4 +17,4 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 211
 
-La acción de nulidad a que se refiere el [artículo anterior](articulo-210.md), deberá ejercitarse exclusivamente por el Instituto, dentro de los cinco años siguientes a la fecha en que se hayan otorgado los derechos.
+La acción de nulidad a que se refiere el [artículo anterior](articulo-210.md), deberá ejercitarse exclusivamente por el [Instituto](articulo-4o.md), dentro de los cinco años siguientes a la fecha en que se hayan otorgado los derechos.

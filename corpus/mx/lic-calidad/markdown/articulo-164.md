@@ -17,7 +17,7 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 164
 
-Si el afectado no estuviere conforme con la respuesta emitida, podrá interponer un recurso de queja por escrito ante la Secretaría o en su caso ante la Autoridad Normalizadora que corresponda, acompañando los documentos en que se apoye. La Autoridad Normalizadora remitirá copia a las Entidades de Acreditación o los Organismos de Evaluación de la Conformidad correspondiente para que en un plazo no mayor a diez días se le rinda un informe justificando su actuación.
+Si el afectado no estuviere conforme con la respuesta emitida, podrá interponer un recurso de queja por escrito ante la [Secretaría](articulo-4.md) o en su caso ante la [Autoridad Normalizadora](articulo-4.md) que corresponda, acompañando los documentos en que se apoye. La Autoridad Normalizadora remitirá copia a las [Entidades de Acreditación](articulo-4.md) o los [Organismos de Evaluación de la Conformidad](articulo-4.md) correspondiente para que en un plazo no mayor a diez días se le rinda un informe justificando su actuación.
 
 Del análisis del informe que rinda la Entidad de Acreditación o los Organismos de Evaluación de la Conformidad, la Secretaría o en su caso la Autoridad Normalizadora podrá resolver que reconsidere, revoque o confirme su actuación y, en su caso, procederá a aplicar las sanciones que correspondan.
 

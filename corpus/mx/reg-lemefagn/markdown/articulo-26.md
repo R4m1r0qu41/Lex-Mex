@@ -17,6 +17,6 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 26
 
-La calidad y cantidad de las personas docentes deben corresponder a la extensión y complejidad de los programas académicos de las Instituciones Educativas. Párrafo reformado DOF 20-03-2026
+La calidad y cantidad de las personas docentes deben corresponder a la extensión y complejidad de los programas académicos de las [Instituciones Educativas](articulo-3.md). Párrafo reformado DOF 20-03-2026
 
 En caso necesario, la Dirección y Rectoría determinará, previo análisis del impacto que ello ocasione, la propuesta de empleo de personal de apoyo docente ajeno a las Instituciones Educativas.

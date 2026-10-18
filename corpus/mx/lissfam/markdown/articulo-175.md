@@ -17,7 +17,7 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 175
 
-En los casos de retiro por haber cumplido la edad límite que fija esta Ley, se comprobará aquélla por los siguientes medios:
+En los casos de retiro por haber cumplido la edad límite que fija esta [Ley](articulo-4o.md), se comprobará aquélla por los siguientes medios:
 
 I. Con copia certificada del acta de nacimiento expedida por el Registro Civil;
 

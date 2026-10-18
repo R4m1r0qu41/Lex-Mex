@@ -17,4 +17,4 @@ source_sha256: 9478163ef6ab468edc2be8def3bf84efedd03da5b6c166fba0430bfcb6d8467c
 
 # Artículo 67
 
-Las personas servidoras públicas de la Comisión Federal de Electricidad incluidas aquellas que ejerzan funciones o tomen decisiones en las empresas filiales, son sujetas a la Ley General de Responsabilidades Administrativas, en concordancia con el último párrafo del artículo [97](../../lepecfe/markdown/articulo-97.md) de la Ley.
+Las personas servidoras públicas de la Comisión Federal de Electricidad incluidas aquellas que ejerzan funciones o tomen decisiones en las empresas filiales, son sujetas a la [Ley](articulo-2.md) General de Responsabilidades Administrativas, en concordancia con el último párrafo del artículo [97](../../lepecfe/markdown/articulo-97.md) de la Ley.

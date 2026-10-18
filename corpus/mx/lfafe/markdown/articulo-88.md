@@ -17,9 +17,9 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 88
 
-Las armas, municiones, accesorios, ingenios y vehículos blindados materia de los delitos señalados en este capítulo, deben ser decomisadas para su destrucción, se exceptúan las reservadas para el uso exclusivo de la Fuerza Armada Permanente y aquellos de aplicación militar.
+Las armas, municiones, accesorios, ingenios y vehículos blindados materia de los delitos señalados en este capítulo, deben ser decomisadas para su destrucción, se exceptúan las reservadas para el uso exclusivo de la [Fuerza Armada Permanente](articulo-1o-Bis.md) y aquellos de aplicación militar.
 
-Durante el tiempo de su aseguramiento, las armas, cargadores, municiones y accesorios deben permanecer en las bodegas de indicios de la autoridad que los tenga a su disposición, con excepción de las calibres .50" o superiores, ametralladoras en todos sus calibres, lanzacohetes, lanzagranadas y aquellos que la propia Secretaría determine, las que serán remitidas a la instalación militar más cercana para su guarda y custodia, con base en las disposiciones o acuerdos generales entre esta Secretaría y las autoridades encargadas de la procuración de justicia.
+Durante el tiempo de su aseguramiento, las armas, cargadores, municiones y accesorios deben permanecer en las bodegas de indicios de la autoridad que los tenga a su disposición, con excepción de las calibres .50" o superiores, ametralladoras en todos sus calibres, lanzacohetes, lanzagranadas y aquellos que la propia [Secretaría](articulo-1o-Bis.md) determine, las que serán remitidas a la instalación militar más cercana para su guarda y custodia, con base en las disposiciones o acuerdos generales entre esta Secretaría y las autoridades encargadas de la procuración de justicia.
 
 Las armas recibidas para disposición final serán destruidas o se destinarán a instituciones militares, las de valor histórico, cultural, científico o artístico se destinarán al Museo de Armas de la Secretaría.
 

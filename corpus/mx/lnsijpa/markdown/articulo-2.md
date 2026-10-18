@@ -17,7 +17,7 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 2
 
-Objeto de la Ley Esta Ley tiene como objeto: I. Establecer el Sistema Integral de Justicia Penal para Adolescentes en la República Mexicana;
+Objeto de la [Ley](articulo-3.md) Esta Ley tiene como objeto: I. Establecer el [Sistema](articulo-3.md) Integral de Justicia Penal para [Adolescentes](articulo-3.md) en la República Mexicana;
 
 II. Garantizar los derechos humanos de las personas adolescentes a quienes se les impute o resulten responsables de la comisión de hechos tipificados como delitos;
 

@@ -17,6 +17,6 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 71
 
-En caso de guerra o alteración del orden público, las fábricas, plantas industriales, talleres, almacenes y establecimientos comerciales que fabriquen, produzcan, organicen, reparen, almacenen o vendan cualesquiera de las armas, objetos y materiales aludidos en esta Ley, previo acuerdo de la persona titular de la Presidencia de la República, quedarán bajo la dirección y control de la Secretaría, de conformidad con los ordenamientos legales que se expidan.
+En caso de guerra o alteración del orden público, las fábricas, plantas industriales, talleres, almacenes y establecimientos comerciales que fabriquen, produzcan, organicen, reparen, almacenen o vendan cualesquiera de las armas, objetos y materiales aludidos en esta [Ley](articulo-1o-Bis.md), previo acuerdo de la persona titular de la Presidencia de la República, quedarán bajo la dirección y control de la [Secretaría](articulo-1o-Bis.md), de conformidad con los ordenamientos legales que se expidan.
 
 Artículo reformado DOF 29-05-2025

@@ -17,4 +17,4 @@ source_sha256: 7679afbbf32749e0c0bacab72644d41fc6ccdeeab3a2f25dfae8d26a065de01e
 
 # Artículo 44
 
-Los Proyectos para el desarrollo con bienestar bajo Esquemas de Participación Mixta deberán contar con mecanismos de: I. Supervisión técnica; II. Supervisión financiera; III. Evaluación de desempeño; IV. Seguimiento presupuestario; V. Control de riesgos; VI. Auditoría, y VII. Transparencia y rendición de cuentas. El Consejo podrá solicitar información en cualquier momento.
+Los [Proyectos para el desarrollo con bienestar](articulo-4.md) bajo [Esquemas de Participación Mixta](articulo-4.md) deberán contar con mecanismos de: I. Supervisión técnica; II. Supervisión financiera; III. Evaluación de desempeño; IV. Seguimiento presupuestario; V. Control de riesgos; VI. Auditoría, y VII. Transparencia y rendición de cuentas. El [Consejo](articulo-4.md) podrá solicitar información en cualquier momento.

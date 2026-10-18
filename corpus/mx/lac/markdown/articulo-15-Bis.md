@@ -25,7 +25,7 @@ III. El cambio de nacionalidad de la persona permisionaria;
 
 IV. Ceder, hipotecar, gravar, transferir o enajenar los permisos, o los derechos conferidos en estos a algún Estado extranjero;
 
-V. Ceder, hipotecar, gravar, transferir o enajenar los permisos o los derechos conferidos en estos a otros particulares, nacionales o extranjeros, sin autorización de la Agencia Federal de Aviación Civil;
+V. Ceder, hipotecar, gravar, transferir o enajenar los permisos o los derechos conferidos en estos a otros particulares, nacionales o extranjeros, sin autorización de la [Agencia Federal de Aviación Civil](articulo-2.md);
 
 VI. Aplicar tarifas diferentes de las registradas o, en su caso, aprobadas por la Agencia Federal de Aviación Civil;
 

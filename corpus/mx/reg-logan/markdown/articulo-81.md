@@ -23,4 +23,4 @@ I. Cuando se trate de actos que no sean susceptibles de inscripción;
 
 II. Cuando la solicitud no reúna los requisitos de forma y fondo necesarios para obtener el registro, y
 
-III. Como resultado de una resolución que la Secretaría emita en términos del artículo [75](articulo-75.md) de este Reglamento.
+III. Como resultado de una resolución que la Secretaría emita en términos del artículo [75](articulo-75.md) de este [Reglamento](articulo-2o.md).

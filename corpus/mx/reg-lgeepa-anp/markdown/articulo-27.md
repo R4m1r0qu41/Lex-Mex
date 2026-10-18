@@ -17,4 +17,4 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 27
 
-Los Consejos Asesores deberán celebrar reuniones ordinarias cuando menos una vez al año, de la cual se elaborará la minuta de acuerdos.
+Los [Consejos](articulo-3o.md) Asesores deberán celebrar reuniones ordinarias cuando menos una vez al año, de la cual se elaborará la minuta de acuerdos.

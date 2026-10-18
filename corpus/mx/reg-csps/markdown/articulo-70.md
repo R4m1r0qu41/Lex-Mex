@@ -17,4 +17,4 @@ source_sha256: 70464807d63da08244e495f2ff0ac30b12b30119926b84cedc7930397fcb80ef
 
 # Artículo 70
 
-Los establecimientos que se dediquen al proceso de la carne y vísceras sólo podrán sacrificar, procesar o expender animales o productos que cumplan con las normas correspondientes y que provengan de rastros que hayan dado aviso de funcionamiento a la Secretaría.
+Los establecimientos que se dediquen al proceso de la carne y vísceras sólo podrán sacrificar, procesar o expender animales o productos que cumplan con las normas correspondientes y que provengan de rastros que hayan dado aviso de funcionamiento a la [Secretaría](articulo-2o.md).

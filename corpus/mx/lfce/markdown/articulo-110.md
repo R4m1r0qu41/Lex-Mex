@@ -17,4 +17,4 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 110
 
-Sin perjuicio del procedimiento para la emisión de opiniones formales, la Comisión deberá ofrecer orientación general a cualquier persona física o moral, así como a cualquier Autoridad Pública, en relación con la aplicación de esta ley, en los términos señalados en las Disposiciones Regulatorias.
+Sin perjuicio del procedimiento para la emisión de opiniones formales, la [Comisión](articulo-3.md) deberá ofrecer orientación general a cualquier persona física o moral, así como a cualquier [Autoridad Pública](articulo-3.md), en relación con la aplicación de esta ley, en los términos señalados en las [Disposiciones Regulatorias](articulo-3.md).

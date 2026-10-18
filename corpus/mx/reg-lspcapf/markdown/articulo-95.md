@@ -19,6 +19,6 @@ La inconformidad que se formule deberá ser presentada por escrito, en el que se
 
 Los conflictos individuales de carácter laboral, no son materia de inconformidad.
 
-La inconformidad deberá presentarse dentro de los diez días hábiles siguientes a la fecha en que se presentó el acto motivo de la inconformidad o del día en que concluyó el plazo en que se estime debió realizarse un acto previsto en la Ley, en este Reglamento o en los demás ordenamientos administrativos aplicables, si los Comités, órganos o autoridades responsables hubieren sido omisos.
+La inconformidad deberá presentarse dentro de los diez días hábiles siguientes a la fecha en que se presentó el acto motivo de la inconformidad o del día en que concluyó el plazo en que se estime debió realizarse un acto previsto en la [Ley](articulo-2.md), en este Reglamento o en los demás ordenamientos administrativos aplicables, si los Comités, órganos o autoridades responsables hubieren sido omisos.
 
 Cuando la inconformidad presentada guarde relación con el procedimiento de selección señalado en la Ley y este reglamento, la persona titular del Área de Quejas, Denuncias e Investigaciones del Órgano Interno de Control en la dependencia, debe notificar a la Secretaría, el inicio y resolución de dicha inconformidad para, en su caso, suspender el procedimiento de selección o determinar lo que en derecho corresponda. Párrafo adicionado DOF 04-01-2024

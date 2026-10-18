@@ -15,7 +15,7 @@ source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 
 # Artículo 34
 
-La Agencia Federal de Aviación Civil debe regular el transporte aéreo de mercancías peligrosas, así como de armas, municiones y explosivos, sin perjuicio de las atribuciones conferidas a otras dependencias de la Administración Pública Federal y de lo dispuesto por los tratados.
+La [Agencia Federal de Aviación Civil](articulo-2.md) debe regular el transporte aéreo de mercancías peligrosas, así como de armas, municiones y explosivos, sin perjuicio de las atribuciones conferidas a otras dependencias de la Administración Pública Federal y de lo dispuesto por los tratados.
 
 Artículo reformado DOF 03-05-2023 (Ed. vesp., páginas 2 a 13), 03-05-2023 (Ed. vesp., páginas 17 a 62)
 

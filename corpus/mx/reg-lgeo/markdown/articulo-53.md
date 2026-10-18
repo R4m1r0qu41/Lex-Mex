@@ -17,4 +17,4 @@ source_sha256: b19bcf104673af06117a6d4f3c947591f7a65999f19bad3dcfe2599a29bb3ab0
 
 # Artículo 53
 
-Las Coordenadas Geodésicas que aparezcan en los Permisos de Exploración o Concesión, prevalecen sobre cualquier testimonial, descripción, dato u obra.
+Las [Coordenadas Geodésicas](articulo-3.md) que aparezcan en los Permisos de Exploración o Concesión, prevalecen sobre cualquier testimonial, descripción, dato u obra.

@@ -17,7 +17,7 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # Artículo 16
 
-La Secretaría, en coordinación con las dependencias competentes, realizará, auspiciará y promoverá, las actividades siguientes:
+La [Secretaría](articulo-2o.md), en coordinación con las dependencias competentes, realizará, auspiciará y promoverá, las actividades siguientes:
 
 I. La investigación científica y tecnológica en materia pesquera;
 

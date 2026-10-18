@@ -17,19 +17,19 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 22
 
-Corresponde a la Junta:
+Corresponde a la [Junta](articulo-2o.md):
 
-I. Determinar y aprobar las bases y criterios conforme a los cuales, la Comisión Nacional considere que deba brindar defensoría legal gratuita a los Usuarios;
+I. Determinar y aprobar las bases y criterios conforme a los cuales, la [Comisión Nacional](articulo-2o.md) considere que deba brindar defensoría legal gratuita a los [Usuarios](articulo-2o.md);
 
 II. Publicar, en caso de que lo determine necesario, las bases y criterios a que se refiere la fracción anterior;
 
-III. Aprobar los programas y presupuestos de la Comisión Nacional, propuestos por el Presidente, así como sus modificaciones, en los términos de la legislación aplicable;
+III. Aprobar los programas y presupuestos de la Comisión Nacional, propuestos por el [Presidente](articulo-2o.md), así como sus modificaciones, en los términos de la legislación aplicable;
 
-IV. Publicar, cuando lo estime necesario, las recomendaciones hechas a las Instituciones Financieras cuando ello contribuya a la creación de una cultura financiera y a la protección de los intereses de los Usuarios;
+IV. Publicar, cuando lo estime necesario, las recomendaciones hechas a las [Instituciones Financieras](articulo-2o.md) cuando ello contribuya a la creación de una cultura financiera y a la protección de los intereses de los Usuarios;
 
 V. Establecer las políticas y lineamientos que provean a la más adecuada difusión de los servicios que ofrezca la Comisión Nacional;
 
-VI. Aprobar su Estatuto Orgánico, así como expedir las normas internas necesarias para el funcionamiento de la misma; Fracción reformada DOF 05-01-2000
+VI. Aprobar su [Estatuto Orgánico](articulo-2o.md), así como expedir las normas internas necesarias para el funcionamiento de la misma; Fracción reformada DOF 05-01-2000
 
 VII. Resolver respecto de la instalación de Consejos Consultivos Regionales, Estatales y Locales;
 

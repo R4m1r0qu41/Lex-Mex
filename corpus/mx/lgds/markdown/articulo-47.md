@@ -17,4 +17,4 @@ source_sha256: 32822f50bb2de81185408f9450d61a49d678429c52c5379822a507c7027a5275
 
 # Artículo 47
 
-La Comisión Nacional es un instrumento de coordinación de los programas, acciones e inversiones que para el cumplimiento de los objetivos, estrategias y prioridades de la Política Nacional de Desarrollo Social lleven a cabo, en el ámbito de sus competencias, las dependencias y entidades federales, ya sea de manera directa o en concurrencia con gobiernos de las entidades federativas y de los municipios o en concertación con los sectores social y privado.
+La [Comisión Nacional](articulo-5.md) es un instrumento de coordinación de los programas, acciones e inversiones que para el cumplimiento de los objetivos, estrategias y prioridades de la Política Nacional de Desarrollo Social lleven a cabo, en el ámbito de sus competencias, las dependencias y entidades federales, ya sea de manera directa o en concurrencia con gobiernos de las entidades federativas y de los municipios o en concertación con los sectores social y privado.

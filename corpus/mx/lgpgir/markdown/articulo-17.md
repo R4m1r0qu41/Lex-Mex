@@ -17,7 +17,7 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 17
 
-Los residuos mineros provenientes del minado y tratamiento de minerales tales como jales, residuos de los patios de lixiviación abandonados, así como los metalúrgicos provenientes de los procesos de fundición, refinación y transformación de metales, que se definan en forma genérica en el reglamento según lo estipulado en el artículo [7](articulo-7.md), fracción III, de esta Ley, son de regulación y competencia federal y están sujetos a los planes de manejo previstos en esta Ley y demás instrumentos jurídicos de gestión ambiental. Se exceptúan de esta clasificación los referidos en el artículo [19](articulo-19.md), fracción I, de este ordenamiento.
+Los residuos mineros provenientes del minado y tratamiento de minerales tales como jales, residuos de los patios de lixiviación abandonados, así como los metalúrgicos provenientes de los procesos de fundición, refinación y transformación de metales, que se definan en forma genérica en el reglamento según lo estipulado en el artículo [7](articulo-7.md), fracción III, de esta [Ley](articulo-5.md), son de regulación y competencia federal y están sujetos a los planes de manejo previstos en esta Ley y demás instrumentos jurídicos de gestión ambiental. Se exceptúan de esta clasificación los referidos en el artículo [19](articulo-19.md), fracción I, de este ordenamiento.
 
 Los residuos mineros y metalúrgicos, según sea el caso, pueden disponerse finalmente en el sitio de su generación; su peligrosidad y manejo integral se determina conforme a la presente Ley y las disposiciones jurídicas aplicables.
 

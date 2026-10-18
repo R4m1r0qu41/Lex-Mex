@@ -15,7 +15,7 @@ source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 
 # Artículo 7
 
-La Agencia Federal de Aviación Civil ejerce su autoridad en los aeropuertos, helipuertos y aeródromos en general, a través de las personas designadas como comandantes regionales y comandantes de aeropuerto. Párrafo reformado DOF 20-05-2021, 03-05-2023
+La [Agencia Federal de Aviación Civil](articulo-2.md) ejerce su autoridad en los aeropuertos, helipuertos y aeródromos en general, a través de las personas designadas como comandantes regionales y comandantes de aeropuerto. Párrafo reformado DOF 20-05-2021, 03-05-2023
 
 Los comandantes regionales deberán ser mexicanos por nacimiento que no adquieran otra nacionalidad, y en el ejercicio de sus atribuciones dependerán funcional y operativamente de la Agencia Federal de Aviación Civil. Párrafo reformado DOF 20-05-2021
 
@@ -27,7 +27,7 @@ I Bis. Autorizar la práctica de visitas de vigilancia a las personas proveedora
 
 II. Vigilar el cumplimiento de las disposiciones e instrucciones contenidas en el Manual de la Agencia Federal de Aviación Civil; Fracción reformada DOF 03-05-2023
 
-III. Vigilar el estricto cumplimiento de los deberes y responsabilidades de los Comandantes de Aeropuerto;
+III. Vigilar el estricto cumplimiento de los deberes y responsabilidades de los Comandantes de [Aeropuerto](articulo-2.md);
 
 IV. Vigilar que el personal de las comandancias de aeropuerto de su región esté debidamente capacitado para el desempeño de sus funciones;
 

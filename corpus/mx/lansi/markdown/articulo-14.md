@@ -17,4 +17,4 @@ source_sha256: 0e34f329befed4474eb7bc1bc195ba13bbe188edfbbabc914a44723e62eb9e44
 
 # Artículo 14
 
-Los Regulados deberán establecer en los contratos, o en cualquier otro acuerdo de voluntades que celebren, la obligación de sus contratistas de apegarse a un Sistema de Administración que cumpla con los requisitos establecidos por la Agencia, en materia de Seguridad Industrial, Seguridad Operativa y protección al medio ambiente, cuando la ejecución de los mismos implique riesgos para la población, medio ambiente o las instalaciones.
+Los [Regulados](articulo-3o.md) deberán establecer en los contratos, o en cualquier otro acuerdo de voluntades que celebren, la obligación de sus contratistas de apegarse a un [Sistema de Administración](articulo-3o.md) que cumpla con los requisitos establecidos por la [Agencia](articulo-3o.md), en materia de [Seguridad Industrial](articulo-3o.md), [Seguridad Operativa](articulo-3o.md) y protección al medio ambiente, cuando la ejecución de los mismos implique riesgos para la población, medio ambiente o las instalaciones.

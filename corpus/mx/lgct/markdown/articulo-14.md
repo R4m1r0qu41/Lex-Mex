@@ -17,4 +17,4 @@ source_sha256: 9f964bc5c075d7cf47e5e9df7c2fbe262eb5bd1794de9b230dbd72026a51ae5e
 
 # Artículo 14
 
-Todo establecimiento que produzca, fabrique o importe productos del tabaco requerirá licencia sanitaria de acuerdo con los requisitos que establezca esta Ley y demás disposiciones aplicables.
+Todo establecimiento que produzca, fabrique o importe productos del tabaco requerirá licencia sanitaria de acuerdo con los requisitos que establezca esta [Ley](articulo-6.md) y demás disposiciones aplicables.

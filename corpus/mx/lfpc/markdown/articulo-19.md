@@ -15,7 +15,7 @@ source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 
 # Artículo 19
 
-La Secretaría determinará la política de protección al consumidor, que constituye uno de los instrumentos sociales y económicos del Estado para favorecer y promover los intereses y derechos de los consumidores. Lo anterior, mediante la adopción de las medidas que procuren el mejor funcionamiento de los mercados y el crecimiento económico del país. Párrafo reformado DOF 04-02-2004
+La [Secretaría](articulo-2.md) determinará la política de protección al consumidor, que constituye uno de los instrumentos sociales y económicos del Estado para favorecer y promover los intereses y derechos de los consumidores. Lo anterior, mediante la adopción de las medidas que procuren el mejor funcionamiento de los mercados y el crecimiento económico del país. Párrafo reformado DOF 04-02-2004
 
 Dicha Secretaría está facultada para expedir normas oficiales mexicanas y normas mexicanas respecto de: Párrafo adicionado DOF 04-02-2004
 

@@ -19,4 +19,4 @@ source_sha256: b3c906475b455176de73da17f4f93a73f295965dc9bcca854b48417c7d4d3cfc
 
 Las resoluciones definitivas dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, sus reglamentos y las normas que de ella deriven, podrán ser impugnadas por los afectados mediante el recurso de revisión, dentro de los quince días siguientes a la fecha de su notificación, o ante las instancias jurisdiccionales competentes.
 
-El recurso de revisión se interpondrá directamente ante la Secretaría que emitió la resolución impugnada, quien en su caso, otorgará su admisión, y el otorgamiento o la denegación de la suspensión del acto recurrido, turnando el recurso a su superior jerárquico en la misma Secretaría para su resolución definitiva.
+El recurso de revisión se interpondrá directamente ante la [Secretaría](articulo-3.md) que emitió la resolución impugnada, quien en su caso, otorgará su admisión, y el otorgamiento o la denegación de la suspensión del acto recurrido, turnando el recurso a su superior jerárquico en la misma Secretaría para su resolución definitiva.

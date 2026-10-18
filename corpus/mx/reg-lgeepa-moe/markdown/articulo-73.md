@@ -17,4 +17,4 @@ source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 
 # Artículo 73
 
-La inspección y vigilancia de las disposiciones contenidas en los programas de ordenamiento ecológico regional en que participe la Secretaría se realizarán de conformidad con lo que se establezca en los convenios respectivos.
+La inspección y vigilancia de las disposiciones contenidas en los programas de ordenamiento ecológico regional en que participe la [Secretaría](articulo-3o.md) se realizarán de conformidad con lo que se establezca en los convenios respectivos.

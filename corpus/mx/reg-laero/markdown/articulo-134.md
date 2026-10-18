@@ -15,7 +15,7 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 # Artículo 134
 
-En los aeródromos civiles de servicio al público únicamente podrán aplicarse las tarifas que se encuentren registradas en la Secretaría, y tratándose de las tarifas por servicios aeroportuarios hasta que hayan sido publicadas en el Diario Oficial de la Federación. Los concesionarios y permisionarios, una vez que queden registradas las tarifas, deberán efectuar a su cargo la publicación.
+En los aeródromos civiles de servicio al público únicamente podrán aplicarse las tarifas que se encuentren registradas en la [Secretaría](articulo-2.md), y tratándose de las tarifas por servicios aeroportuarios hasta que hayan sido publicadas en el Diario Oficial de la Federación. Los concesionarios y permisionarios, una vez que queden registradas las tarifas, deberán efectuar a su cargo la publicación.
 
 Los concesionarios y permisionarios estarán en libertad de determinar distintos niveles de tarifas por horarios, volumen de operaciones, paquetes de servicios u otra condición de carácter general, siempre que dichas tarifas no excedan de las registradas y se apliquen a todos los usuarios que cumplan las condiciones correspondientes. Ello en el entendido de que los paquetes de servicios no podrán combinar servicios aeroportuarios, complementarios y comerciales.
 

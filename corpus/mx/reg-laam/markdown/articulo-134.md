@@ -17,6 +17,6 @@ source_sha256: 8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca
 
 # Artículo 134
 
-Las exclusiones deberán estar debidamente fundadas y motivadas y serán comunicadas al personal participante, por conducto de la Jefatura de Operaciones o la Oficialía Mayor, según corresponda.
+Las exclusiones deberán estar debidamente fundadas y motivadas y serán comunicadas al personal participante, por conducto de la [Jefatura de Operaciones](articulo-5.md) o la [Oficialía Mayor](articulo-5.md), según corresponda.
 
 Artículo reformado DOF 02-04-2026

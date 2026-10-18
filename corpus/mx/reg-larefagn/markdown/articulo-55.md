@@ -17,6 +17,6 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 55
 
-Para esta Promoción, el Estado Mayor fijará una puntuación mínima aprobatoria con el objeto de que las personas con jerarquía de Subtenientes que la obtengan y resulten aptas en las pruebas prácticas, sean ascendidas a Teniente.
+Para esta [Promoción](articulo-5.md), el [Estado Mayor](articulo-5.md) fijará una puntuación mínima aprobatoria con el objeto de que las personas con jerarquía de Subtenientes que la obtengan y resulten aptas en las pruebas prácticas, sean ascendidas a Teniente.
 
 Artículo reformado DOF 20-03-2026

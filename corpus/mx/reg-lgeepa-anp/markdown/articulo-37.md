@@ -17,7 +17,7 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 37
 
-Las áreas que se incorporen al Sistema Nacional de Áreas Naturales Protegidas, de conformidad con lo establecido en el artículo [76](../../lgeepa/markdown/articulo-76.md) de la Ley, deberán presentar especial relevancia en algunas de las siguientes características: I. Riqueza total de especies;
+Las áreas que se incorporen al Sistema Nacional de Áreas Naturales Protegidas, de conformidad con lo establecido en el artículo [76](../../lgeepa/markdown/articulo-76.md) de la [Ley](articulo-3o.md), deberán presentar especial relevancia en algunas de las siguientes características: I. Riqueza total de especies;
 
 II. Presencia de endemismos;
 

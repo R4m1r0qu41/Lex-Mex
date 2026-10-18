@@ -17,7 +17,7 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 5o
 
-El Instituto, administrará los Bienes, activos y empresas que para tales efectos le entreguen las Entidades Transferentes, y que tengan un valor mayor al equivalente a seis meses de Unidades de Medida y Actualización.
+El [Instituto](articulo-2o.md), administrará los [Bienes](articulo-2o.md), activos y empresas que para tales efectos le entreguen las [Entidades Transferentes](articulo-2o.md), y que tengan un valor mayor al equivalente a seis meses de Unidades de Medida y Actualización.
 
 En tanto no exista resolución definitiva emitida por autoridad administrativa o judicial competente que determine el destino de los Bienes, activos y empresas asegurados, la administración a cargo del Instituto, se realizará conforme a las disposiciones aplicables de la presente Ley, salvo que se trate de los señalados en la fracción V, del artículo [1](articulo-1o.md)o.
 

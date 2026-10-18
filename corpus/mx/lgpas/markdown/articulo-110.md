@@ -17,7 +17,7 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 110
 
-Para la aplicación de medidas sanitarias, la Secretaría declarará mediante acuerdo que se publicará en el Diario Oficial de la Federación, el estatus sanitario de las entidades federativas, como zona libre, zona en vigilancia, zona de escasa prevalencia y zona infectada de enfermedades o plagas de especies acuáticas vivas, considerando entre otros factores:
+Para la aplicación de medidas sanitarias, la [Secretaría](articulo-4o.md) declarará mediante acuerdo que se publicará en el Diario Oficial de la Federación, el estatus sanitario de las entidades federativas, como zona libre, zona en vigilancia, zona de escasa prevalencia y zona infectada de enfermedades o plagas de especies acuáticas vivas, considerando entre otros factores:
 
 I. La prevalencia y recurrencia de enfermedades en la zona;
 
@@ -25,4 +25,4 @@ II. Las condiciones geográficas y de los ecosistemas; y
 
 III. La eficacia de las medidas sanitarias que se hayan aplicado, en su caso.
 
-El SENASICA considerará dicha zonificación para la aplicación de las medidas sanitarias procedentes.
+El [SENASICA](articulo-4o.md) considerará dicha zonificación para la aplicación de las medidas sanitarias procedentes.

@@ -17,6 +17,6 @@ source_sha256: 9f964bc5c075d7cf47e5e9df7c2fbe262eb5bd1794de9b230dbd72026a51ae5e
 
 # Artículo 44
 
-La Secretaría pondrá en operación una línea telefónica de acceso gratuito para que los ciudadanos puedan efectuar denuncias, quejas y sugerencias sobre los espacios 100 por ciento libres de humo de tabaco y emisiones así como el incumplimiento de esta Ley, sus reglamentos y demás disposiciones aplicables.
+La [Secretaría](articulo-6.md) pondrá en operación una línea telefónica de acceso gratuito para que los ciudadanos puedan efectuar denuncias, quejas y sugerencias sobre los espacios 100 por ciento libres de humo de tabaco y emisiones así como el incumplimiento de esta [Ley](articulo-6.md), sus reglamentos y demás disposiciones aplicables.
 
 Artículo reformado DOF 17-02-2022

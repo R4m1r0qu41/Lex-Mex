@@ -17,7 +17,7 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 151
 
-La reparación integral a las Víctimas de los delitos establecidos en la presente Ley comprenderá, además de lo establecido en la Ley General de Víctimas y en la jurisprudencia de la Corte Interamericana de Derechos Humanos y en normas del derecho internacional, los elementos siguientes:
+La reparación integral a las [Víctimas](articulo-4.md) de los delitos establecidos en la presente Ley comprenderá, además de lo establecido en la Ley General de Víctimas y en la jurisprudencia de la Corte Interamericana de Derechos Humanos y en normas del derecho internacional, los elementos siguientes:
 
 I. Medidas de satisfacción: a) Construcción de lugares o monumentos de memoria;
 

@@ -17,6 +17,6 @@ source_sha256: 8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca
 
 # Artículo 14
 
-Para la ejecución descentralizada de la promoción para ascensos por facultad del Alto Mando, en las sedes de los Mandos, la Comisión Coordinadora se apoyará con las Comisiones Locales.
+Para la ejecución descentralizada de la promoción para ascensos por facultad del [Alto Mando](articulo-5.md), en las sedes de los Mandos, la [Comisión Coordinadora](articulo-5.md) se apoyará con las [Comisiones Locales](articulo-5.md).
 
 Artículo reformado DOF 02-04-2026

@@ -17,4 +17,4 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 69
 
-Las personas responsables de actividades relacionadas con la generación y manejo de materiales y residuos peligrosos que hayan ocasionado la contaminación de sitios con éstos, están obligadas a llevar a cabo las acciones de remediación conforme a lo dispuesto en la presente Ley y demás disposiciones aplicables.
+Las personas responsables de actividades relacionadas con la generación y manejo de materiales y residuos peligrosos que hayan ocasionado la contaminación de sitios con éstos, están obligadas a llevar a cabo las acciones de remediación conforme a lo dispuesto en la presente [Ley](articulo-5.md) y demás disposiciones aplicables.

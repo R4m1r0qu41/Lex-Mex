@@ -39,10 +39,10 @@ II. La persona titular de la Comandancia de Unidad, Coordinación o de la Jefatu
 
 III. Para comprobar la aptitud profesional se nombrará un jurado, en el que fungirá como presidente la persona designada como Segundo Comandante de la Unidad o su equivalente en las Dependencias y como vocales dos personas con la jerarquía de Jefes u Oficiales, con el objeto de examinar al personal propuesto, formulándose el acta de examen correspondiente; Fracción reformada DOF 20-03-2026
 
-IV. Con base en el resultado del examen, la persona titular de la Comandancia de Unidad, Coordinación o de la Jefatura de la Dependencia remitirá a la Dirección correspondiente la documentación para su aprobación, solicitando se expida el nombramiento respectivo; Fracción reformada DOF 20-03-2026
+IV. Con base en el resultado del examen, la persona titular de la Comandancia de Unidad, Coordinación o de la Jefatura de la Dependencia remitirá a la [Dirección](articulo-5.md) correspondiente la documentación para su aprobación, solicitando se expida el nombramiento respectivo; Fracción reformada DOF 20-03-2026
 
 V. Una vez aprobada la propuesta, las Direcciones comunicarán las órdenes de ascenso y expedirán los nombramientos, y
 
 VI. Cuando la persona titular de la Comandancia, Unidad, Coordinación o de la Jefatura de Dependencia o instalación reciba el nombramiento aprobado, comunicará el ascenso a la persona interesada, disponiendo que se agregue copia a su expediente. Fracción reformada DOF 20-03-2026
 
-SUBSECCIÓN “B” De Cabo a Sargento Segundo y de Sargento Segundo a Sargento Primero Especialista
+SUBSECCIÓN “B” De Cabo a Sargento Segundo y de Sargento Segundo a Sargento Primero [Especialista](articulo-5.md)

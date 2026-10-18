@@ -17,4 +17,4 @@ source_sha256: 6680a58c98673518aee46582b3137d28987c275785d1f0c97295f0d89c4b692b
 
 # Artículo 1
 
-El presente ordenamiento tiene por objeto reglamentar la Ley General de Turismo; es de observancia general en el territorio nacional; sus disposiciones son de orden público e interés social.
+El presente ordenamiento tiene por objeto reglamentar la Ley General de [Turismo](articulo-2.md); es de observancia general en el territorio nacional; sus disposiciones son de orden público e interés social.

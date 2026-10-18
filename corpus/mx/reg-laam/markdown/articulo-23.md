@@ -17,11 +17,11 @@ source_sha256: 8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca
 
 # Artículo 23
 
-Son atribuciones del Alto Mando en materia de ascensos, las siguientes:
+Son atribuciones del [Alto Mando](articulo-5.md) en materia de ascensos, las siguientes:
 
-I. Ordenar a la Jefatura de Operaciones la emisión de la Directiva de Promoción; Fracción reformada DOF 02-04-2026
+I. Ordenar a la [Jefatura de Operaciones](articulo-5.md) la emisión de la [Directiva de Promoción](articulo-5.md); Fracción reformada DOF 02-04-2026
 
-II. Someter a acuerdo del Mando Supremo las vacantes existentes;
+II. Someter a acuerdo del [Mando Supremo](articulo-5.md) las vacantes existentes;
 
 III. Ascender al personal de Capitanes de Corbeta y Oficiales, previo acuerdo con el Mando Supremo;
 
@@ -29,6 +29,6 @@ IV. Ascender al personal de Clases y Marinería; Fracción reformada DOF 02-04-2
 
 V. Ascender al personal naval de Marineros a Capitán de Corbeta de forma excepcional, y Fracción adicionada DOF 02-04-2026
 
-VI. Comunicar por conducto de la Oficialía Mayor, los ascensos conferidos al personal naval. Fracción recorrida DOF 02-04-2026
+VI. Comunicar por conducto de la [Oficialía Mayor](articulo-5.md), los ascensos conferidos al personal naval. Fracción recorrida DOF 02-04-2026
 
 Artículo reformado DOF 22-09-2010, 11-03-2016

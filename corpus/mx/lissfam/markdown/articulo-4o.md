@@ -17,9 +17,9 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 4o
 
-Para los efectos de esta Ley, se entiende por:
+Para los efectos de esta [Ley](articulo-4o.md), se entiende por:
 
-I. Ley, la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas;
+I. Ley, la Ley del [Instituto](articulo-4o.md) de Seguridad Social para las Fuerzas Armadas Mexicanas;
 
 II. Instituto, el Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas;
 
@@ -35,7 +35,7 @@ VII. Beneficiario, la persona en cuyo favor se ha designado un beneficio económ
 
 VIII. Deudos, los parientes o familiares del militar fallecido;
 
-IX. Declaración de Procedencia de Retiro, el documento que le expide al militar la Secretaría de origen, para trámite de retiro, a fin de que la Junta Directiva determine sobre la procedencia, naturaleza y monto del beneficio, el cual es provisional al inicio del trámite administrativo y definitivo a su término; Fracción reformada DOF 20-11-2008
+IX. Declaración de Procedencia de Retiro, el documento que le expide al militar la Secretaría de origen, para trámite de retiro, a fin de que la [Junta](articulo-4o.md) Directiva determine sobre la procedencia, naturaleza y monto del beneficio, el cual es provisional al inicio del trámite administrativo y definitivo a su término; Fracción reformada DOF 20-11-2008
 
 X. Haber o haberes, la percepción base que se establece en el tabulador que expide la Secretaría de Hacienda y Crédito Público;
 

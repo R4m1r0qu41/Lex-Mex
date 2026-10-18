@@ -17,4 +17,4 @@ source_sha256: 4bcc982b308b0813469b30db61b53d5a2c41e5a7240b3b1cac2f1aeeb2c00a2e
 
 # Artículo 47
 
-Para efectos del artículo [25](../../lse/markdown/articulo-25.md) de la Ley, la capacidad de la Central Eléctrica en Generación Distribuida se refiere a la Capacidad Instalada, en los términos que establezcan las disposiciones administrativas en materia de Generación Distribuida que emita la Secretaría en coordinación con la CNE.
+Para efectos del artículo [25](../../lse/markdown/articulo-25.md) de la [Ley](articulo-2.md), la capacidad de la Central Eléctrica en Generación Distribuida se refiere a la [Capacidad Instalada](articulo-2.md), en los términos que establezcan las disposiciones administrativas en materia de Generación Distribuida que emita la Secretaría en coordinación con la CNE.

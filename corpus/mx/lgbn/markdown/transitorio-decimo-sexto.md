@@ -15,4 +15,4 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # DÉCIMO SEXTO
 
-Para dar cumplimiento a lo establecido en la fracción IV, del artículo 2 del Decreto que extingue el organismo público descentralizado, Ferrocarriles Nacionales de México y abroga su Ley Orgánica, la Secretaría de Comunicaciones y Transportes como responsable del proceso de liquidación de dicho organismo, procederá a regularizar la propiedad de las casas habitación y terrenos en posesión legítima de jubilados y pensionados ferrocarrileros o, en su caso, sus sucesores, mediante las donaciones correspondientes.
+Para dar cumplimiento a lo establecido en la fracción IV, del artículo 2 del Decreto que extingue el organismo público descentralizado, Ferrocarriles Nacionales de México y abroga su Ley Orgánica, la [Secretaría](articulo-2.md) de Comunicaciones y Transportes como responsable del proceso de liquidación de dicho organismo, procederá a regularizar la propiedad de las casas habitación y terrenos en posesión legítima de jubilados y pensionados ferrocarrileros o, en su caso, sus sucesores, mediante las donaciones correspondientes.

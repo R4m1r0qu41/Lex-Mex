@@ -17,4 +17,4 @@ source_sha256: d23aedc9ffdb09b9202311f03023241da20445cb45aea855b37bfd9685768861
 
 # Artículo 48
 
-El Consejo Técnico debe elaborar su informe anual de actividades para ser sometido a consideración de la persona titular de la Presidencia de la Comisión e integrarlo en el informe anual de la Comisión.
+El [Consejo Técnico](articulo-2.md) debe elaborar su informe anual de actividades para ser sometido a consideración de la persona titular de la Presidencia de la Comisión e integrarlo en el informe anual de la Comisión.

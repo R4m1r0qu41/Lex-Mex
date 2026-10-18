@@ -17,4 +17,4 @@ source_sha256: 0125eed7519ad260330f9a04f78c0e4a1ce93c06e67c98ac3c535416787656ba
 
 # Artículo 18
 
-Las autoridades federales y de las Entidades Federativas podrán coordinarse para establecer políticas y criterios que les permitan verificar la inscripción de un vehículo en el Registro cuando se efectúe cualquier trámite relacionado con el mismo.
+Las autoridades federales y de las [Entidades Federativas](articulo-2.md) podrán coordinarse para establecer políticas y criterios que les permitan verificar la inscripción de un vehículo en el [Registro](articulo-2.md) cuando se efectúe cualquier trámite relacionado con el mismo.

@@ -21,7 +21,7 @@ La muerte de un militar en acción de armas, cuando no se hubiere levantado el c
 
 I. Con el parte que rinda el Comandante de la fuerza, y II. En defecto del parte, con las demás pruebas que establece el Código Nacional de Procedimientos Civiles y Familiares. Fracción reformada DOF 14-11-2025
 
-Para los efectos de esta Ley, se considerará como muerto al militar cuando desaparezca en una acción de armas o en actos del servicio, en los ámbitos marítimo, fluvial, lacustre, terrestre y aéreo. La declaración respectiva será hecha por la Secretaría de la Defensa Nacional o la de Marina, en su caso, después de sesenta días de acaecida la desaparición, con vista del acta que se levante sobre los hechos, y de la demás documentación que se acompañe.
+Para los efectos de esta [Ley](articulo-4o.md), se considerará como muerto al militar cuando desaparezca en una acción de armas o en actos del servicio, en los ámbitos marítimo, fluvial, lacustre, terrestre y aéreo. La declaración respectiva será hecha por la Secretaría de la Defensa Nacional o la de Marina, en su caso, después de sesenta días de acaecida la desaparición, con vista del acta que se levante sobre los hechos, y de la demás documentación que se acompañe.
 
 Mientras se hace esta declaración, el setenta y cinco por ciento de los haberes del militar, serán entregados a sus familiares en el orden preferente establecido en el artículo [38](articulo-38.md) de esta Ley.
 

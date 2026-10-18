@@ -17,4 +17,4 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 17
 
-La Junta estará integrada por un representante de la Secretaría, un representante del Banco de México, un representante de cada una de las Comisiones Nacionales, tres representantes del Consejo Consultivo Nacional y el Presidente quien asistirá con voz pero sin voto. Cada uno de los integrantes de la Junta contará con su respectivo suplente, quien deberá tener el nivel inmediato inferior. Será presidida por el representante de la Secretaría de Hacienda y Crédito Público.
+La [Junta](articulo-2o.md) estará integrada por un representante de la [Secretaría](articulo-2o.md), un representante del Banco de México, un representante de cada una de las [Comisiones Nacionales](articulo-2o.md), tres representantes del Consejo Consultivo Nacional y el [Presidente](articulo-2o.md) quien asistirá con voz pero sin voto. Cada uno de los integrantes de la Junta contará con su respectivo suplente, quien deberá tener el nivel inmediato inferior. Será presidida por el representante de la Secretaría de Hacienda y Crédito Público.

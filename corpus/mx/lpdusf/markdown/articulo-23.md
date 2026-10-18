@@ -17,4 +17,4 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 23
 
-El Presidente será designado por el Secretario de Hacienda y Crédito Público.
+El [Presidente](articulo-2o.md) será designado por el Secretario de Hacienda y Crédito Público.

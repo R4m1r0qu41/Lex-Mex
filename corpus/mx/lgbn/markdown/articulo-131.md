@@ -21,7 +21,7 @@ Será responsabilidad de las dependencias y las unidades administrativas de la P
 
 La enajenación de los bienes podrá llevarse a cabo mediante cualquier acto previsto al efecto por las leyes y el procedimiento se ajustará a lo dispuesto en éstas, en todo aquello que no se oponga a la presente Ley.
 
-Los ingresos que se obtengan por las enajenaciones a que se refiere este artículo, deberán concentrarse en la Tesorería de la Federación.
+Los ingresos que se obtengan por las enajenaciones a que se refiere este artículo, deberán concentrarse en la Tesorería de la [Federación](articulo-2.md).
 
 Cuando se trate de armamento, municiones, explosivos, agresivos químicos y artificios, así como de materiales contaminantes o radioactivos u otros objetos cuya posesión o uso puedan ser peligrosos o causar riesgos graves, su enajenación, manejo o destrucción se hará de acuerdo con los ordenamientos legales aplicables.
 

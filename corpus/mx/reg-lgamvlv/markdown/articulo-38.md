@@ -17,7 +17,7 @@ source_sha256: 71ee875c26fc6a1024ea9481ca0690721959514689d860112c3093f0176dfcfb
 
 # Artículo 38
 
-La coordinadora del grupo de trabajo remitirá el informe a que se refiere el [artículo anterior](articulo-37.md) a la Secretaría de Gobernación, a través de la Comisión Nacional, para su análisis.
+La coordinadora del grupo de trabajo remitirá el informe a que se refiere el [artículo anterior](articulo-37.md) a la Secretaría de Gobernación, a través de la [Comisión Nacional](articulo-2.md), para su análisis.
 
 La Secretaría de Gobernación, a través de la Comisión Nacional, remitirá el informe del grupo de trabajo al titular del Poder Ejecutivo de la entidad federativa correspondiente para su conocimiento.
 
@@ -31,7 +31,7 @@ Para efectos del párrafo cuarto de este artículo, la Secretaría de Gobernaci�
 
 Una vez recibida la información a que se refiere el párrafo anterior, el grupo de trabajo emitirá un dictamen sobre la implementación de las propuestas contenidas en las conclusiones del informe, el cual se remitirá a la Secretaría de Gobernación para que a través de la Comisión Nacional, determine si la entidad federativa implementó dichas propuestas.
 
-La Comisión Nacional, en coordinación con la Secretaría Ejecutiva, notificará el dictamen del grupo de trabajo a que se refiere el párrafo anterior a la organización solicitante.
+La Comisión Nacional, en coordinación con la [Secretaría Ejecutiva](articulo-2.md), notificará el dictamen del grupo de trabajo a que se refiere el párrafo anterior a la organización solicitante.
 
 En caso de que el grupo de trabajo considere que no se implementaron las propuestas contenidas en las conclusiones del informe, la Secretaría de Gobernación, por conducto de la Comisión Nacional, en términos del artículo [25](../../lgamvlv/markdown/articulo-25.md) de la Ley, emitirá la declaratoria de alerta de violencia de género, en un plazo no mayor a diez días naturales contados a partir de la fecha en que se reciba la notificación del dictamen.
 

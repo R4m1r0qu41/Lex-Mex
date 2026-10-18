@@ -21,7 +21,7 @@ La persona militar, para desempeñar funciones docentes, deberá cubrir los requ
 
 I. Buena conducta militar y civil; II. Aptitud y actitud para la práctica docente y para el trabajo en equipo;
 
-III. Nivel académico igual o superior a los estudios que imparta en la Institución Educativa a la cual sea asignado;
+III. Nivel académico igual o superior a los estudios que imparta en la [Institución Educativa](articulo-3.md) a la cual sea asignado;
 
 IV. Experiencia profesional mínima de dos años en el campo de su especialidad;
 

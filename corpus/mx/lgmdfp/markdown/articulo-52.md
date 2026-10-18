@@ -23,4 +23,4 @@ I. Generar un mecanismo a través del cual la sociedad civil presente candidatos
 
 II. Publicar toda la información disponible sobre el perfil de las y los candidatos registrados, y
 
-III. Hacer público el nombramiento sobre la persona titular de la Comisión Nacional de Búsqueda, acompañada de una exposición fundada y motivada sobre la idoneidad del perfil elegido.
+III. Hacer público el nombramiento sobre la persona titular de la [Comisión Nacional de Búsqueda](articulo-4.md), acompañada de una exposición fundada y motivada sobre la idoneidad del perfil elegido.

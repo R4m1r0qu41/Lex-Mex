@@ -17,7 +17,7 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 8o
 
-Corresponde a la Secretaría el ejercicio de las siguientes facultades:
+Corresponde a la [Secretaría](articulo-4o.md) el ejercicio de las siguientes facultades:
 
 I. Regular, fomentar y administrar el aprovechamiento de los recursos pesqueros y acuícolas;
 
@@ -73,7 +73,7 @@ XXVII. Promover la organización y capacitación para el trabajo pesquero y acu�
 
 XXVIII. Promover y apoyar la investigación, la innovación y el desarrollo tecnológico de la pesca y la acuacultura, así como el fortalecimiento de las capacidades tecnológicas de la planta productiva nacional;
 
-XXIX. La coordinación con IMIPAS, como organismo público descentralizado responsable de la investigación científica y tecnológica del sector pesquero y de acuacultura nacional; Fracción reformada DOF 07-06-2012, 04-12-2023 XXX. Establecer y operar el Sistema Nacional de Información Pesquera y Acuícola y el Registro Nacional de Pesca y Acuacultura, así como mantenerlos actualizados en forma permanente, de conformidad con las disposiciones legales aplicables;
+XXIX. La coordinación con [IMIPAS](articulo-4o.md), como organismo público descentralizado responsable de la investigación científica y tecnológica del sector pesquero y de acuacultura nacional; Fracción reformada DOF 07-06-2012, 04-12-2023 XXX. Establecer y operar el Sistema Nacional de Información Pesquera y Acuícola y el [Registro](articulo-4o.md) Nacional de [Pesca](articulo-4o.md) y [Acuacultura](articulo-4o.md), así como mantenerlos actualizados en forma permanente, de conformidad con las disposiciones legales aplicables;
 
 XXXI. Establecer bases de coordinación con las dependencias y entidades de la Administración Pública Federal y celebrar acuerdos de concertación de acciones con los sectores productivos para la ejecución de programas y proyectos de fomento y desarrollo de las actividades pesqueras y acuícolas;
 

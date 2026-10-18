@@ -17,10 +17,10 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 19
 
-El Instituto notificará a través de la Gaceta todas las resoluciones, requerimientos y demás actos que emita, relacionados con el trámite de patentes, registros y publicaciones nacionales, así como los relativos a la conservación de derechos.
+El [Instituto](articulo-4.md) notificará a través de la [Gaceta](articulo-4.md) todas las resoluciones, requerimientos y demás actos que emita, relacionados con el trámite de patentes, registros y publicaciones nacionales, así como los relativos a la conservación de derechos.
 
 En los trámites presentados a través de los medios de comunicación electrónica, las notificaciones se realizarán de conformidad con las reglas y especificaciones que se establezcan en el Acuerdo emitido por la persona Titular de la Dirección General para tal efecto.
 
-El Instituto tomará las medidas necesarias para evitar la divulgación de la solicitud y sus anexos en los expedientes que se encuentren en el supuesto del artículo [24](articulo-24.md) de esta Ley.
+El Instituto tomará las medidas necesarias para evitar la divulgación de la solicitud y sus anexos en los expedientes que se encuentren en el supuesto del artículo [24](articulo-24.md) de esta [Ley](articulo-4.md).
 
 Las notificaciones en los procedimientos de declaración administrativa previstos en el Título Sexto de esta Ley se practicarán conforme a lo establecido en el Capítulo III de dicho Título.

@@ -17,6 +17,6 @@ source_sha256: 4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f
 
 # Artículo 60
 
-Para efectos del artículo [29](../../liva/markdown/articulo-29.md), segundo párrafo, fracción V de la Ley, quedan comprendidos en la transportación internacional de bienes, la que se efectúe por las vías marítima, férrea y por carretera cuando se inicie en el territorio nacional y concluya en el extranjero.
+Para efectos del artículo [29](../../liva/markdown/articulo-29.md), segundo párrafo, fracción V de la [Ley](articulo-1.md), quedan comprendidos en la transportación internacional de bienes, la que se efectúe por las vías marítima, férrea y por carretera cuando se inicie en el territorio nacional y concluya en el extranjero.
 
 Artículo reformado DOF 25-09-2014

@@ -17,6 +17,6 @@ source_sha256: 8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca
 
 # Artículo 9
 
-La Promoción General, para efectos de ejecución y en los términos de los artículos [2](../../laam/markdown/articulo-2o.md), [3](../../laam/markdown/articulo-3o.md) y [4](../../laam/markdown/articulo-4o.md) de la Ley, se subdividirá en promoción para ascenso por facultad del Mando Supremo y promoción para ascenso por facultad del Alto Mando.
+La [Promoción General](articulo-5.md), para efectos de ejecución y en los términos de los artículos [2](../../laam/markdown/articulo-2o.md), [3](../../laam/markdown/articulo-3o.md) y [4](../../laam/markdown/articulo-4o.md) de la [Ley](articulo-5.md), se subdividirá en promoción para ascenso por facultad del [Mando Supremo](articulo-5.md) y promoción para ascenso por facultad del [Alto Mando](articulo-5.md).
 
 Artículo reformado DOF 22-09-2010

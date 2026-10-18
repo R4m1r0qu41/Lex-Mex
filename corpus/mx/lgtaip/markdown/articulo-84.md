@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 84
 
-Las determinaciones que emitan las Autoridades garantes deberán establecer los requerimientos, recomendaciones u observaciones que formulen y los términos y plazos en los que los sujetos obligados deberán atenderlas. El incumplimiento a los requerimientos formulados, será motivo para aplicar las medidas de apremio, sin perjuicio de las sanciones a que haya lugar.
+Las determinaciones que emitan las [Autoridades garantes](articulo-3.md) deberán establecer los requerimientos, recomendaciones u observaciones que formulen y los términos y plazos en los que los sujetos obligados deberán atenderlas. El incumplimiento a los requerimientos formulados, será motivo para aplicar las medidas de apremio, sin perjuicio de las sanciones a que haya lugar.

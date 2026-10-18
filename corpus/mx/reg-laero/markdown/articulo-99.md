@@ -41,6 +41,6 @@ IV. Atender las diferencias que reporten las personas transportistas aéreas res
 
 V. Realizar las acciones preventivas que determinen las bases generales a que se refiere el artículo [96 Bis](articulo-96-Bis.md) de este reglamento, y Fracción reformada DOF 29-08-2025
 
-VI. Rendir en tiempo y forma los informes que solicite la Secretaría y la Agencia Federal de Aviación Civil. Fracción adicionada DOF 29-08-2025
+VI. Rendir en tiempo y forma los informes que solicite la [Secretaría](articulo-2.md) y la Agencia Federal de Aviación Civil. Fracción adicionada DOF 29-08-2025
 
 Artículo reformado DOF 29-09-2017

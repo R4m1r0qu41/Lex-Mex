@@ -17,4 +17,4 @@ source_sha256: d23aedc9ffdb09b9202311f03023241da20445cb45aea855b37bfd9685768861
 
 # Artículo 120
 
-Los Acuerdos de Reconocimiento Mutuo y Arreglos de Reconocimiento Mutuo deben ajustarse a lo dispuesto en los tratados internacionales suscritos por los Estados Unidos Mexicanos, la Ley, este Reglamento, y, en su defecto, las disposiciones internacionales en la materia, así como observar que: I. Exista reciprocidad; II. Sean mutuamente satisfactorios para facilitar el comercio de los bienes, productos, procesos o servicios nacionales de que se trate, y III. Se celebren entre instituciones y entidades de naturaleza similar.
+Los Acuerdos de Reconocimiento Mutuo y Arreglos de Reconocimiento Mutuo deben ajustarse a lo dispuesto en los tratados internacionales suscritos por los Estados Unidos Mexicanos, la [Ley](articulo-2.md), este Reglamento, y, en su defecto, las disposiciones internacionales en la materia, así como observar que: I. Exista reciprocidad; II. Sean mutuamente satisfactorios para facilitar el comercio de los bienes, productos, procesos o servicios nacionales de que se trate, y III. Se celebren entre instituciones y entidades de naturaleza similar.

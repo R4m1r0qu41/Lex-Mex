@@ -19,7 +19,7 @@ source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 
 En términos de las disposiciones jurídicas aplicables, a la Federación, las entidades federativas, los municipios y demarcaciones les corresponden las siguientes facultades concurrentes en materia de humanidades, ciencias, tecnologías e innovación:
 
-I. Asegurar la rectoría del Estado sobre el Sistema Nacional, así como establecer su integración y facilitar su articulación;
+I. Asegurar la rectoría del Estado sobre el [Sistema Nacional](articulo-4.md), así como establecer su integración y facilitar su articulación;
 
 II. Garantizar el pleno ejercicio y acceso a los derechos humanos relacionados con las humanidades, las ciencias, las tecnologías y la innovación;
 
@@ -31,6 +31,6 @@ V. Facilitar la colaboración, cooperación y coordinación de las autoridades d
 
 VI. Fomentar y financiar actividades y proyectos que tengan por objeto implementar las bases de las políticas públicas;
 
-VII. Colaborar en la integración y actualización del Sistema Nacional de Información, y
+VII. Colaborar en la integración y actualización del [Sistema Nacional de Información](articulo-4.md), y
 
 VIII. Las demás que les confiera esta ley y otras disposiciones jurídicas aplicables.

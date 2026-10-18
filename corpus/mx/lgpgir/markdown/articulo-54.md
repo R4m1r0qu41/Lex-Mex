@@ -17,4 +17,4 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 # Artículo 54
 
-Se deberá evitar la mezcla de residuos peligrosos con otros materiales o residuos para no contaminarlos y no provocar reacciones, que puedan poner en riesgo la salud, el ambiente o los recursos naturales. La Secretaría establecerá los procedimientos a seguir para determinar la incompatibilidad entre un residuo peligroso y otro material o residuo.
+Se deberá evitar la mezcla de residuos peligrosos con otros materiales o residuos para no contaminarlos y no provocar reacciones, que puedan poner en riesgo la salud, el ambiente o los recursos naturales. La [Secretaría](articulo-5.md) establecerá los procedimientos a seguir para determinar la incompatibilidad entre un residuo peligroso y otro material o residuo.

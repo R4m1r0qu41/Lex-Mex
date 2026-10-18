@@ -17,6 +17,6 @@ source_sha256: 71ee875c26fc6a1024ea9481ca0690721959514689d860112c3093f0176dfcfb
 
 # Artículo 65
 
-Los refugios para mujeres en situación de violencia familiar serán creados de acuerdo a un Modelo establecido por el Instituto Nacional de las Mujeres en su carácter de Secretaría Ejecutiva del Sistema.
+Los refugios para mujeres en situación de violencia familiar serán creados de acuerdo a un [Modelo](articulo-2.md) establecido por el Instituto Nacional de las Mujeres en su carácter de [Secretaría Ejecutiva](articulo-2.md) del Sistema.
 
 Los Modelos para el funcionamiento y operación de los refugios, establecerán un marco de referencia para la operación, diseño, implementación, seguimiento y evaluación de los refugios para mujeres, sus hijos e hijas en situación de violencia familiar, con una Perspectiva de Género que garantice el acceso a un servicio de atención integral, en términos de los artículos [8](../../lgamvlv/markdown/articulo-8.md), fracción VI; [48](../../lgamvlv/markdown/articulo-48.md), fracción IV; [50](../../lgamvlv/markdown/articulo-50.md), fracción VII; [51](../../lgamvlv/markdown/articulo-51.md), fracción IV; [52](../../lgamvlv/markdown/articulo-52.md), fracciones VI y VIII; [54](../../lgamvlv/markdown/articulo-54.md); [55](../../lgamvlv/markdown/articulo-55.md); [56](../../lgamvlv/markdown/articulo-56.md); [57](../../lgamvlv/markdown/articulo-57.md); [58](../../lgamvlv/markdown/articulo-58.md) y [59](../../lgamvlv/markdown/articulo-59.md) de la Ley. Párrafo reformado DOF 25-11-2013

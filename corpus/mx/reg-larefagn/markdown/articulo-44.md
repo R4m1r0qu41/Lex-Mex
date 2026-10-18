@@ -17,7 +17,7 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 44
 
-Para ser ascendidas, las personas con jerarquía de Cabos y Sargentos Segundos Especialistas que no cuenten con escuelas de formación, deberán de cumplir con lo siguiente: Párrafo reformado DOF 20-03-2026
+Para ser ascendidas, las personas con jerarquía de Cabos y Sargentos Segundos [Especialistas](articulo-5.md) que no cuenten con escuelas de formación, deberán de cumplir con lo siguiente: Párrafo reformado DOF 20-03-2026
 
 I. Tener como mínimo el tiempo de servicios que se indica:
 

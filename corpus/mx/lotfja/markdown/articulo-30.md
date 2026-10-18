@@ -17,4 +17,4 @@ source_sha256: b32c33fa4ed071dc8bea1ad69ce8510cdb05016967e9e4fcb60f10c6f2216628
 
 # Artículo 30
 
-Para los efectos del [artículo anterior](articulo-29.md), el territorio nacional se dividirá en regiones con los límites territoriales que se determinen en el Reglamento Interior del Tribunal, conforme a los estudios y propuesta de la Junta de Gobierno y Administración, con base en las cargas de trabajo y los requerimientos de administración de justicia, así como la disponibilidad presupuestaria del Tribunal.
+Para los efectos del [artículo anterior](articulo-29.md), el territorio nacional se dividirá en regiones con los límites territoriales que se determinen en el Reglamento Interior del [Tribunal](articulo-2.md), conforme a los estudios y propuesta de la [Junta](articulo-2.md) de Gobierno y Administración, con base en las cargas de trabajo y los requerimientos de administración de justicia, así como la disponibilidad presupuestaria del Tribunal.

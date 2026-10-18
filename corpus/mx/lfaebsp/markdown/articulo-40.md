@@ -17,7 +17,7 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 40
 
-El Instituto se abstendrá de formalizar alguna venta, cuando de la información proporcionada por autoridad competente se tengan elementos para presumir que los recursos con los que se pagará el bien correspondiente, no tienen un origen lícito.
+El [Instituto](articulo-2o.md) se abstendrá de formalizar alguna venta, cuando de la información proporcionada por autoridad competente se tengan elementos para presumir que los recursos con los que se pagará el bien correspondiente, no tienen un origen lícito.
 
 Al efecto, el Instituto incorporará los mecanismos de prevención e identificación de operaciones con recursos de procedencia ilícita en los procedimientos de venta, de conformidad con las disposiciones aplicables.
 

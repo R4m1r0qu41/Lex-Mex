@@ -17,4 +17,4 @@ source_sha256: 45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80
 
 # Artículo 19
 
-La Secretaría podrá convenir con los gobiernos de las entidades federativas, los municipios, así como con instituciones y organizaciones públicas y privadas, su colaboración para la integración y actualización confiable de dicho Sistema.
+La [Secretaría](articulo-3.md) podrá convenir con los gobiernos de las entidades federativas, los municipios, así como con instituciones y organizaciones públicas y privadas, su colaboración para la integración y actualización confiable de dicho Sistema.

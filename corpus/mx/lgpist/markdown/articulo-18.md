@@ -23,7 +23,7 @@ I. La duración de la conducta;
 
 II. Los medios comisivos;
 
-III. Las secuelas en la Víctima;
+III. Las secuelas en la [Víctima](articulo-5.md);
 
 IV. La condición de salud de la Víctima;
 

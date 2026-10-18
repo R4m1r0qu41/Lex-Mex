@@ -17,6 +17,6 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 34
 
-La inscripción en el Registro General de Poderes podrá cancelarse en cualquier tiempo, a petición de la persona mandante, de la persona representante legal o bien, cuando fenezca la vigencia del poder registrado. En este último caso, no se requerirá pronunciamiento por parte del Instituto.
+La inscripción en el Registro General de Poderes podrá cancelarse en cualquier tiempo, a petición de la persona mandante, de la persona representante legal o bien, cuando fenezca la vigencia del poder registrado. En este último caso, no se requerirá pronunciamiento por parte del [Instituto](articulo-4.md).
 
 Artículo reformado DOF 03-04-2026

@@ -17,6 +17,6 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 61
 
-Si el postor ganador no cumpliere sus obligaciones, el Instituto declarará sin efecto el remate y podrá convocar a un nuevo remate. El postor perderá la garantía exhibida, la cual se aplicará, como pena, a favor del Instituto.
+Si el postor ganador no cumpliere sus obligaciones, el [Instituto](articulo-2o.md) declarará sin efecto el remate y podrá convocar a un nuevo remate. El postor perderá la garantía exhibida, la cual se aplicará, como pena, a favor del Instituto.
 
 Artículo reformado DOF 23-02-2005, 09-08-2019

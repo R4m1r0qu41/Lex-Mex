@@ -17,7 +17,7 @@ source_sha256: 51d855a586ad7017a8d8f5c36819a2bd0d3d488f3f4b23594a729418a8b776b4
 
 # Artículo 76
 
-Para el cumplimiento de lo dispuesto en el artículo [143](../../lgv/markdown/articulo-143.md) de la Ley, se considerarán para la asignación de los recursos del Fondo, además de lo previsto en el artículo 150 de la misma, los siguientes criterios:
+Para el cumplimiento de lo dispuesto en el artículo [143](../../lgv/markdown/articulo-143.md) de la Ley, se considerarán para la asignación de los recursos del [Fondo](articulo-3.md), además de lo previsto en el artículo 150 de la misma, los siguientes criterios:
 
 I. La necesidad de la víctima;
 

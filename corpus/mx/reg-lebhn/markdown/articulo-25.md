@@ -17,4 +17,4 @@ source_sha256: 3a86c9bc8afe7162bbcc0c31a28250ca91cfbf2cb6a08deddae0653977ae3d3f
 
 # Artículo 25
 
-La Secretaría dará la respuesta que corresponda a la solicitud en un plazo de tres días hábiles. Transcurrido dicho plazo, sin que se notifique la misma, se tendrá por atendida dicha solicitud en sentido negativo.
+La [Secretaría](articulo-2.md) dará la respuesta que corresponda a la solicitud en un plazo de tres días hábiles. Transcurrido dicho plazo, sin que se notifique la misma, se tendrá por atendida dicha solicitud en sentido negativo.

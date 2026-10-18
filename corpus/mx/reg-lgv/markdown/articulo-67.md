@@ -17,7 +17,7 @@ source_sha256: 51d855a586ad7017a8d8f5c36819a2bd0d3d488f3f4b23594a729418a8b776b4
 
 # Artículo 67
 
-Con base en el informe a que se refiere el [artículo anterior](articulo-66.md), el Comité Interdisciplinario Evaluador emitirá un dictamen el cual someterá a consideración del Pleno de la Comisión Ejecutiva, para efecto de que resuelva sobre la conclusión de los servicios de atención, asistencia y protección, conforme a lo siguiente:
+Con base en el informe a que se refiere el [artículo anterior](articulo-66.md), el [Comité](articulo-3.md) Interdisciplinario Evaluador emitirá un dictamen el cual someterá a consideración del Pleno de la Comisión Ejecutiva, para efecto de que resuelva sobre la conclusión de los servicios de atención, asistencia y protección, conforme a lo siguiente:
 
 I. En caso de dar por concluidos los servicios, ordenará que se realicen las anotaciones correspondientes en el Registro, y
 

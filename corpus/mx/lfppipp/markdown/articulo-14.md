@@ -17,4 +17,4 @@ source_sha256: 2a105e5201b86ff5517ca1ef8d971224ea8c717f195fdd5fa28b916c7e622e56
 
 # Artículo 14
 
-El Programa establecerá cuando menos los requisitos de ingreso, terminación, mecanismos de protección para la persona, así como los apoyos para solventar sus necesidades personales básicas cuando por su intervención en el Procedimiento Penal así se requiera.
+El [Programa](articulo-2.md) establecerá cuando menos los requisitos de ingreso, terminación, mecanismos de protección para la persona, así como los apoyos para solventar sus necesidades personales básicas cuando por su intervención en el Procedimiento Penal así se requiera.

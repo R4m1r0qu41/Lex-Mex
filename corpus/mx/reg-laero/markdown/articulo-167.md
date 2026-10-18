@@ -15,7 +15,7 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 # Artículo 167
 
-La Secretaría designará al comandante de cada aeródromo y sus verificadores.
+La [Secretaría](articulo-2.md) designará al comandante de cada aeródromo y sus verificadores.
 
 Tratándose de los aeródromos de servicio particular, la Secretaría puede designar como comandante a alguno de los comandantes de cualquiera de los aeródromos de servicio al público más cercanos, en cuyo caso éste no necesitará estar permanentemente en el aeródromo y en caso de que lo estime conveniente, podrá asignar a un verificador que lo represente temporal o permanentemente. Dicho comandante deberá presentarse en el aeródromo de servicio particular por lo menos cada treinta días y reportar trimestralmente a la Secretaría las actividades efectuadas en el aeródromo, así como cualquier anomalía que haga de su conocimiento el permisionario.
 

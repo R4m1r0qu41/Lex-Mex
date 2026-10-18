@@ -31,6 +31,6 @@ V. El motivo de la alerta de violencia de género.
 
 Una vez emitida la declaratoria de alerta de violencia de género, el grupo de trabajo se constituirá en el grupo interinstitucional y multidisciplinario a que se refiere la fracción I del artículo [23](../../lgamvlv/markdown/articulo-23.md) de la Ley.
 
-No procederá la investigación de hechos relacionados con solicitudes previamente presentadas que ya hubieran dado lugar a informes por parte del grupo de trabajo. Las solicitudes que se presenten por los mismos hechos se acumularán al expediente inicial para que la Secretaría Ejecutiva lo haga del conocimiento del grupo de trabajo.
+No procederá la investigación de hechos relacionados con solicitudes previamente presentadas que ya hubieran dado lugar a informes por parte del grupo de trabajo. Las solicitudes que se presenten por los mismos hechos se acumularán al expediente inicial para que la [Secretaría Ejecutiva](articulo-2.md) lo haga del conocimiento del grupo de trabajo.
 
 Artículo adicionado DOF 25-11-2013

@@ -17,4 +17,4 @@ source_sha256: 4933abadd27d345e7a5c1754af10ed429fd148b709b4a78d4f42447b5fcd546d
 
 # Artículo 15
 
-Para el cumplimiento de los objetivos de la presente Ley se establece el Sistema.
+Para el cumplimiento de los objetivos de la presente [Ley](articulo-3.md) se establece el [Sistema](articulo-3.md).

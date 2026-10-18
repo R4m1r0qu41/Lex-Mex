@@ -17,6 +17,6 @@ source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 
 # Artículo 86 QUATER
 
-Cualquier diferencia entre el texto del contrato de adhesión registrado ante la Procuraduría Federal del Consumidor y el utilizado en perjuicio de los consumidores, se tendrá por no puesta.
+Cualquier diferencia entre el texto del contrato de adhesión registrado ante la [Procuraduría](articulo-2.md) Federal del [Consumidor](articulo-2.md) y el utilizado en perjuicio de los consumidores, se tendrá por no puesta.
 
 Artículo adicionado DOF 05-06-2000

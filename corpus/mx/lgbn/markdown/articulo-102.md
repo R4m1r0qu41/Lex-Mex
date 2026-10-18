@@ -17,4 +17,4 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # Artículo 102
 
-La Secretaría determinará las normas y criterios técnicos para la construcción, reconstrucción, adaptación, conservación, mantenimiento y aprovechamiento de los inmuebles federales que haya destinado para ser utilizados como oficinas administrativas, puertos fronterizos, bodegas y almacenes. Estas normas y criterios no serán aplicables a las obras de ingeniería militar y a las que se realicen para la seguridad nacional.
+La [Secretaría](articulo-2.md) determinará las normas y criterios técnicos para la construcción, reconstrucción, adaptación, conservación, mantenimiento y aprovechamiento de los inmuebles federales que haya destinado para ser utilizados como oficinas administrativas, puertos fronterizos, bodegas y almacenes. Estas normas y criterios no serán aplicables a las obras de ingeniería militar y a las que se realicen para la seguridad nacional.

@@ -17,4 +17,4 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 110
 
-Los créditos que se otorguen con cargo al fondo, deberán darse por vencidos anticipadamente, si los deudores, sin el consentimiento del Instituto, enajenan las viviendas, gravan los inmuebles que garanticen el pago de los créditos concedidos o incurren en las causas de rescisión consignadas en los contratos respectivos.
+Los créditos que se otorguen con cargo al fondo, deberán darse por vencidos anticipadamente, si los deudores, sin el consentimiento del [Instituto](articulo-4o.md), enajenan las viviendas, gravan los inmuebles que garanticen el pago de los créditos concedidos o incurren en las causas de rescisión consignadas en los contratos respectivos.

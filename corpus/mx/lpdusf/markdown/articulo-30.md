@@ -17,6 +17,6 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 30
 
-En ausencias temporales del Presidente, será suplido por los Vicepresidentes en el orden que el Estatuto Orgánico señale.
+En ausencias temporales del [Presidente](articulo-2o.md), será suplido por los Vicepresidentes en el orden que el [Estatuto Orgánico](articulo-2o.md) señale.
 
 Artículo reformado DOF 05-01-2000

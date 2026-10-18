@@ -17,4 +17,4 @@ source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 
 # Artículo 51
 
-Los programas de ordenamiento ecológico marino tendrán por objeto establecer los lineamientos y las previsiones a que deberá sujetarse el aprovechamiento sustentable de los recursos naturales, el mantenimiento de los bienes y servicios ambientales y la conservación de los ecosistemas y la biodiversidad en las zonas marinas mexicanas y sus zonas federales adyacentes en los términos de la Ley y de la Ley Federal del Mar.
+Los programas de ordenamiento ecológico marino tendrán por objeto establecer los lineamientos y las previsiones a que deberá sujetarse el aprovechamiento sustentable de los recursos naturales, el mantenimiento de los bienes y servicios ambientales y la conservación de los ecosistemas y la biodiversidad en las zonas marinas mexicanas y sus zonas federales adyacentes en los términos de la [Ley](articulo-3o.md) y de la Ley Federal del Mar.

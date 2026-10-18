@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:consejo-tecnico",
+    "term": "Consejo Técnico",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lss-rfar",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:2",
+    "fraction": "I",
+    "start_char": 154,
+    "end_char": 209,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reservas",
+    "term": "Reservas",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lss-rfar",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:2",
+    "fraction": "II",
+    "start_char": 209,
+    "end_char": 320,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:reserva-general",
+    "term": "Reserva General",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lss-rfar",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:2",
+    "fraction": "III",
+    "start_char": 320,
+    "end_char": 442,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:term:seguros-y-coberturas",
+    "term": "Seguros y Coberturas",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lss-rfar",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:2",
+    "fraction": "IV",
+    "start_char": 442,
+    "end_char": 1090,
+    "basis": "express_definition"
+  }
+]

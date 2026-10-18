@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 119
 
-Los permisos de Regasificación se pueden otorgar a Particulares o empresas públicas del Estado que pretenden contar con Sistemas mediante los cuales el Gas Natural en fase líquida, se somete a un proceso para gasificarlo, para su inyección a un Sistema de Transporte por medio de Ductos o en Instalaciones de Aprovechamiento.
+Los permisos de [Regasificación](articulo-3.md) se pueden otorgar a Particulares o empresas públicas del Estado que pretenden contar con [Sistemas](articulo-3.md) mediante los cuales el Gas Natural en fase líquida, se somete a un proceso para gasificarlo, para su inyección a un Sistema de Transporte por medio de [Ductos](articulo-3.md) o en Instalaciones de Aprovechamiento.

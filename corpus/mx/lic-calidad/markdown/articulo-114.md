@@ -17,4 +17,4 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 114
 
-El Consejo Directivo del Centro Nacional de Metrología, con el visto bueno de la Secretaría solicitará la publicación en el Diario Oficial de la Federación, así como en la Plataforma Tecnológica Integral de Infraestructura de la Calidad, del procedimiento para la designación de una entidad pública como Instituto Designado de Metrología. Ese procedimiento deberá prever que, en todo caso, será necesario contar con la aprobación previa de la entidad pública de que se trate.
+El Consejo Directivo del Centro Nacional de Metrología, con el visto bueno de la [Secretaría](articulo-4.md) solicitará la publicación en el Diario Oficial de la Federación, así como en la [Plataforma Tecnológica Integral de Infraestructura de la Calidad](articulo-4.md), del procedimiento para la designación de una entidad pública como Instituto Designado de Metrología. Ese procedimiento deberá prever que, en todo caso, será necesario contar con la aprobación previa de la entidad pública de que se trate.

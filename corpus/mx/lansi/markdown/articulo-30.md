@@ -23,11 +23,11 @@ I. Ser ciudadano mexicano;
 
 II. Poseer título profesional en cualquiera de las ingenierías, ciencias físico-matemáticas, biológicas, químicas, de las ciencias sociales y administrativas, que se vinculen con las actividades del Sector Hidrocarburos;
 
-III. Haber desempeñado cargos de alta responsabilidad, cuando menos cinco años, en actividades profesionales en el sector público o privado, sustancialmente relacionadas con las materias objeto de la Agencia;
+III. Haber desempeñado cargos de alta responsabilidad, cuando menos cinco años, en actividades profesionales en el sector público o privado, sustancialmente relacionadas con las materias objeto de la [Agencia](articulo-3o.md);
 
 IV. No haber sido Secretario o Subsecretario de Estado, Procurador o Fiscal General de la República, senador, diputado federal o local, Gobernador de algún Estado o Jefe de Gobierno de la Ciudad de México, durante el año previo a su nombramiento; Fracción reformada DOF 20-05-2021
 
-V. No haber sido accionista, consejero, directivo, comisario o apoderado de empresas del Sector Hidrocarburos, asociadas o comercialmente relacionadas con Regulados, dentro del año inmediato anterior a su designación o tener parentesco consanguíneo en línea recta hasta el segundo grado con dichos accionistas, consejeros, directivos, comisarios o apoderados, y
+V. No haber sido accionista, consejero, directivo, comisario o apoderado de empresas del Sector Hidrocarburos, asociadas o comercialmente relacionadas con [Regulados](articulo-3o.md), dentro del año inmediato anterior a su designación o tener parentesco consanguíneo en línea recta hasta el segundo grado con dichos accionistas, consejeros, directivos, comisarios o apoderados, y
 
 VI. No haber sido sentenciado por delito doloso que haya ameritado pena privativa de la libertad por más de un año.
 

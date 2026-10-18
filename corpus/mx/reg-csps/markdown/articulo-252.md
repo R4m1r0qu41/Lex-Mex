@@ -17,4 +17,4 @@ source_sha256: 70464807d63da08244e495f2ff0ac30b12b30119926b84cedc7930397fcb80ef
 
 # Artículo 252
 
-Cuando el tercero autorizado haya cumplido con los términos, condiciones y obligaciones establecidas por la Secretaría, durante el tiempo que le fue otorgada la autorización, podrá prorrogarse la vigencia de ésta por un plazo similar al otorgado inicialmente, para lo cual deberá presentar solicitud un mes antes de su vencimiento.
+Cuando el tercero autorizado haya cumplido con los términos, condiciones y obligaciones establecidas por la [Secretaría](articulo-2o.md), durante el tiempo que le fue otorgada la autorización, podrá prorrogarse la vigencia de ésta por un plazo similar al otorgado inicialmente, para lo cual deberá presentar solicitud un mes antes de su vencimiento.

@@ -17,6 +17,6 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 152 Bis
 
-La Federación y las Entidades Federativas establecerán en el ámbito de sus competencias acciones de bienestar integral, con énfasis para hijos e hijas de personas desaparecidas.
+La Federación y las [Entidades Federativas](articulo-4.md) establecerán en el ámbito de sus competencias acciones de bienestar integral, con énfasis para hijos e hijas de personas desaparecidas.
 
 Artículo adicionado DOF 16-07-2025

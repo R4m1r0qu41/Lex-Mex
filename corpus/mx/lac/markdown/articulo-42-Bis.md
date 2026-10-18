@@ -23,6 +23,6 @@ II. La información y publicidad relacionada con las tarifas deberán ser exacta
 
 Cada tarifa deberá aplicarse en igualdad de condiciones para todos los pasajeros sin discriminación alguna.
 
-La violación a este artículo se considerará como infracción particularmente grave y se sancionará por la Procuraduría, conforme a lo dispuesto en la Ley Federal de Protección al Consumidor.
+La violación a este artículo se considerará como infracción particularmente grave y se sancionará por la [Procuraduría](articulo-2.md), conforme a lo dispuesto en la Ley Federal de Protección al Consumidor.
 
 Artículo adicionado DOF 26-06-2017

@@ -17,4 +17,4 @@ source_sha256: 9478163ef6ab468edc2be8def3bf84efedd03da5b6c166fba0430bfcb6d8467c
 
 # Artículo 79
 
-Para efectos del artículo [15](../../lepecfe/markdown/articulo-15.md), fracción XXXVII de la Ley, se entiende por control o influencia significativa lo señalado en el artículo [2](../../lmv/markdown/articulo-2.md), fracciones III y XI de la Ley del Mercado de Valores, respectivamente.
+Para efectos del artículo [15](../../lepecfe/markdown/articulo-15.md), fracción XXXVII de la [Ley](articulo-2.md), se entiende por control o influencia significativa lo señalado en el artículo [2](../../lmv/markdown/articulo-2.md), fracciones III y XI de la Ley del Mercado de Valores, respectivamente.

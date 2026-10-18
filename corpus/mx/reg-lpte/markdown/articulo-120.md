@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 120
 
-Dentro del plazo de veinticinco días hábiles contados a partir de la fecha en que haya fenecido el plazo para el desahogo del último requerimiento formulado o de la fecha de celebración de la comparecencia final, la Secretaría, la CNE y la CONUEE, según corresponda, deben emitir la resolución que concluya el procedimiento de verificación, en la cual se defina la situación jurídica de las Partes Sujetas de Obligación.
+Dentro del plazo de veinticinco días hábiles contados a partir de la fecha en que haya fenecido el plazo para el desahogo del último requerimiento formulado o de la fecha de celebración de la comparecencia final, la [Secretaría](articulo-5.md), la CNE y la CONUEE, según corresponda, deben emitir la resolución que concluya el procedimiento de verificación, en la cual se defina la situación jurídica de las Partes Sujetas de Obligación.

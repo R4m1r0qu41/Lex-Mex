@@ -17,9 +17,9 @@ source_sha256: 0e34f329befed4474eb7bc1bc195ba13bbe188edfbbabc914a44723e62eb9e44
 
 # Artículo 28
 
-Los servidores públicos de la Agencia sujetarán sus actividades a un código de conducta que será público, el cual establecerá como mínimo:
+Los servidores públicos de la [Agencia](articulo-3o.md) sujetarán sus actividades a un código de conducta que será público, el cual establecerá como mínimo:
 
-I. Las reglas para llevar a cabo reuniones con los Regulados y los mecanismos para hacerlas públicas;
+I. Las reglas para llevar a cabo reuniones con los [Regulados](articulo-3o.md) y los mecanismos para hacerlas públicas;
 
 II. Las reglas para participar en eventos académicos o de difusión, y
 

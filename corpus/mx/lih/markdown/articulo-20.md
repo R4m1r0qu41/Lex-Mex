@@ -17,6 +17,6 @@ source_sha256: 8262a75eac7bfb608d4f48657ffb2714fe115d0b9694c42ac81624fd275bf5f6
 
 # Artículo 20
 
-Los Contratos preverán que en los casos en que el Contratista enajene activos, cuyo costo, gasto o inversión hayan sido recuperados conforme al Contrato, los ingresos que reciba por dicha operación serán entregados al Estado Mexicano, a través del Fondo Mexicano del Petróleo o, previa autorización de la Secretaría, un monto equivalente será descontado de las Contraprestaciones que le correspondan al Contratista.
+Los [Contratos](articulo-3.md) preverán que en los casos en que el Contratista enajene activos, cuyo costo, gasto o inversión hayan sido recuperados conforme al Contrato, los ingresos que reciba por dicha operación serán entregados al Estado Mexicano, a través del [Fondo Mexicano del Petróleo](articulo-3.md) o, previa autorización de la [Secretaría](articulo-3.md), un monto equivalente será descontado de las [Contraprestaciones](articulo-3.md) que le correspondan al Contratista.
 
 El Contratista debe informar a la Secretaría y a la Secretaría de Energía, de las enajenaciones a que se refiere el párrafo anterior, de conformidad con sus competencias. Párrafo reformado DOF 18-03-2025

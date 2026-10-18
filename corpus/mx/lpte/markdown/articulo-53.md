@@ -17,4 +17,4 @@ source_sha256: c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41
 
 # Artículo 53
 
-El Fondo de Servicio Universal Energético debe contar con un órgano colegiado como su máxima autoridad, integrado por personas servidoras públicas de la Secretaría y de la Secretaría de Bienestar. Los lineamientos de conformación y operación del fondo deben ser emitidos por la Secretaría. El órgano colegiado a que se refiere este artículo puede contar con el apoyo técnico y con fines de consulta de aquellas entidades que requiera para la consecución de sus objetivos.
+El Fondo de Servicio Universal Energético debe contar con un órgano colegiado como su máxima autoridad, integrado por personas servidoras públicas de la [Secretaría](articulo-3.md) y de la Secretaría de Bienestar. Los lineamientos de conformación y operación del fondo deben ser emitidos por la Secretaría. El órgano colegiado a que se refiere este artículo puede contar con el apoyo técnico y con fines de consulta de aquellas entidades que requiera para la consecución de sus objetivos.

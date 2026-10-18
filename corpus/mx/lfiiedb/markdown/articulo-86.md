@@ -17,4 +17,4 @@ source_sha256: 7679afbbf32749e0c0bacab72644d41fc6ccdeeab3a2f25dfae8d26a065de01e
 
 # Artículo 86
 
-Las Dependencias y Entidades, por excepción podrán solicitar a la Secretaría, y ésta autorizar, para convocar, adjudicar y formalizar contratos cuya vigencia inicie en el ejercicio fiscal siguiente de aquél en el que se formalizan.
+Las [Dependencias](articulo-4.md) y [Entidades](articulo-4.md), por excepción podrán solicitar a la [Secretaría](articulo-4.md), y ésta autorizar, para convocar, adjudicar y formalizar contratos cuya vigencia inicie en el ejercicio fiscal siguiente de aquél en el que se formalizan.

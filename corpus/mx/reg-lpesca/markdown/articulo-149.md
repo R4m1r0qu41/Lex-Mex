@@ -17,4 +17,4 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # Artículo 149
 
-Cuando se esté en el caso del [artículo anterior](articulo-148.md), el inspector de la Secretaría, así como el personal de la Secretaría de Marina, levantarán acta en el mismo lugar, en la que harán constar la flagrancia, recabando la firma del presunto infractor o asentarán que se negó a hacerlo.
+Cuando se esté en el caso del [artículo anterior](articulo-148.md), el inspector de la [Secretaría](articulo-2o.md), así como el personal de la Secretaría de Marina, levantarán acta en el mismo lugar, en la que harán constar la flagrancia, recabando la firma del presunto infractor o asentarán que se negó a hacerlo.

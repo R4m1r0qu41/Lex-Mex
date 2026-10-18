@@ -17,6 +17,6 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 85
 
-Se impondrá una pena de seis a diez años de prisión y multa de veinte a quinientas veces el valor diario de la Unidad de Medida y Actualización, a la persona que comercialice o enajene armas, piezas o componentes y materiales regulados por esta Ley y a aquellas que las adquieran sin comprobar su procedencia legal.
+Se impondrá una pena de seis a diez años de prisión y multa de veinte a quinientas veces el valor diario de la Unidad de Medida y Actualización, a la persona que comercialice o enajene armas, piezas o componentes y materiales regulados por esta [Ley](articulo-1o-Bis.md) y a aquellas que las adquieran sin comprobar su procedencia legal.
 
 Artículo reformado DOF 08-02-1985, 03-01-1989, 24-12-1998, 29-05-2025

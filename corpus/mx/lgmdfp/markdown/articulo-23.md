@@ -17,4 +17,4 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 23
 
-Si de las diligencias practicadas en la investigación de hechos probablemente constitutivos de delitos previstos en esta Ley, la Fiscalía Especializada advierte la probable comisión de alguno o varios delitos distintos a los previstos en el presente ordenamiento, deberá remitir copia de la investigación a las autoridades ministeriales competentes, salvo en el caso de delitos conexos.
+Si de las diligencias practicadas en la investigación de hechos probablemente constitutivos de delitos previstos en esta Ley, la [Fiscalía Especializada](articulo-4.md) advierte la probable comisión de alguno o varios delitos distintos a los previstos en el presente ordenamiento, deberá remitir copia de la investigación a las autoridades ministeriales competentes, salvo en el caso de delitos conexos.

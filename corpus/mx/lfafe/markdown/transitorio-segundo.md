@@ -15,4 +15,4 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Segundo
 
-En tanto se expida la reglamentación de esta Ley, se aplicarán las disposiciones relativas de los reglamentos en vigor que no se opongan a lo dispuesto en la misma.
+En tanto se expida la reglamentación de esta [Ley](articulo-1o-Bis.md), se aplicarán las disposiciones relativas de los reglamentos en vigor que no se opongan a lo dispuesto en la misma.

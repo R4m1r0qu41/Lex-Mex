@@ -17,6 +17,6 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 3o
 
-Las solicitudes, avisos, informes y promociones a que se refiere la Ley se presentarán ante la Secretaría en los términos previstos en el presente Reglamento, utilizando los formatos que para tal efecto la Secretaría publique en el Diario Oficial de la Federación o a través de medios electrónicos en términos de la Ley de Firma Electrónica Avanzada y su Reglamento. Párrafo reformado DOF 31-10-2014
+Las solicitudes, avisos, informes y promociones a que se refiere la [Ley](articulo-1o.md) se presentarán ante la [Secretaría](articulo-1o.md) en los términos previstos en el presente Reglamento, utilizando los formatos que para tal efecto la Secretaría publique en el Diario Oficial de la Federación o a través de medios electrónicos en términos de la Ley de Firma Electrónica Avanzada y su Reglamento. Párrafo reformado DOF 31-10-2014
 
 En todos los casos, se deberá adjuntar a la promoción la copia del comprobante de pago de los derechos correspondientes.

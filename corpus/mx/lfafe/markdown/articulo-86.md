@@ -21,7 +21,7 @@ Se impondrá una pena de cuatro a seis años de prisión y multa de diez a tresc
 
 I.- Compren explosivos, y
 
-II.- Transporten, organicen, reparen, transformen o almacenen los objetos aludidos en esta Ley.
+II.- Transporten, organicen, reparen, transformen o almacenen los objetos aludidos en esta [Ley](articulo-1o-Bis.md).
 
 La pena de prisión prevista en este artículo se aumentará entre un tercio y el doble cuando el transporte a que se refiere la fracción II sea de las armas señaladas en los incisos a) o b) del artículo [11](articulo-11.md) de esta Ley, o de sus piezas, componentes, cargadores, municiones o cartuchos que se utilicen para abastecerlas. Párrafo adicionado DOF 03-01-1989. Reformado DOF 29-05-2025
 

@@ -15,4 +15,4 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # NOVENO
 
-En tanto las legislaturas de las Entidades Federativas expidan las leyes previstas en los artículos [13](articulo-13.md) y [14](articulo-14.md) de esta Ley, se continuará aplicando en lo conducente la Ley de Pesca promulgada y publicada en el Diario Oficial de la Federación el 25 de junio de 1992.
+En tanto las legislaturas de las Entidades Federativas expidan las leyes previstas en los artículos [13](articulo-13.md) y [14](articulo-14.md) de esta Ley, se continuará aplicando en lo conducente la Ley de [Pesca](articulo-4o.md) promulgada y publicada en el Diario Oficial de la Federación el 25 de junio de 1992.

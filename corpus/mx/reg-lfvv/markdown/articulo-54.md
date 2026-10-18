@@ -17,7 +17,7 @@ source_sha256: 23dcee090bbe0c4fb06c75d084cb65ce0b2e8f72a8d082e7059504412bde1614
 
 # Artículo 54
 
-Se podrá rectificar el contenido de las inscripciones que obren en los libros del Registro, siempre que haya errores de forma o de fondo relativos a los documentos registrables.
+Se podrá rectificar el contenido de las inscripciones que obren en los libros del [Registro](articulo-2o.md), siempre que haya errores de forma o de fondo relativos a los documentos registrables.
 
 Habrá errores de forma cuando se inscriban unas palabras por otras, siempre y cuando se omita la inserción de alguna circunstancia; o cuando al copiarlas del documento original, se equivoquen nombres propios, cantidades o fechas; sin alterar por ello el sentido general del texto de la inscripción. La rectificación se hará de oficio o a petición de parte, teniendo a la vista, invariablemente, el documento del cual se desprenda que hay error.
 

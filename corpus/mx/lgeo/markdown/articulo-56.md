@@ -17,4 +17,4 @@ source_sha256: 67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35
 
 # Artículo 56
 
-La información que se otorgue, en términos de lo previsto en el párrafo segundo del [artículo anterior](articulo-55.md), no debe ser pública cuando la vigencia del Permiso de Explotación concluye debido al otorgamiento de una Concesión sobre la misma Área Geotérmica, previo dictamen favorable de la Secretaría. En estos casos, conserva su carácter de Confidencial durante la vigencia de la Concesión.
+La información que se otorgue, en términos de lo previsto en el párrafo segundo del [artículo anterior](articulo-55.md), no debe ser pública cuando la vigencia del Permiso de [Explotación](articulo-2.md) concluye debido al otorgamiento de una [Concesión](articulo-2.md) sobre la misma [Área Geotérmica](articulo-2.md), previo dictamen favorable de la [Secretaría](articulo-2.md). En estos casos, conserva su carácter de Confidencial durante la vigencia de la Concesión.

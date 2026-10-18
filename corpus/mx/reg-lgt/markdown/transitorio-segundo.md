@@ -15,4 +15,4 @@ source_sha256: 6680a58c98673518aee46582b3137d28987c275785d1f0c97295f0d89c4b692b
 
 # Segundo
 
-Se abroga el Reglamento de la Ley Federal de Turismo, publicado en el Diario Oficial de la Federación el 2 de mayo de 1994.
+Se abroga el Reglamento de la Ley Federal de [Turismo](articulo-2.md), publicado en el Diario Oficial de la Federación el 2 de mayo de 1994.

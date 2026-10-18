@@ -15,4 +15,4 @@ source_sha256: c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41
 
 # Séptimo
 
-A partir de la entrada en vigor de la presente Ley, el Fondo de Servicio Universal Eléctrico cambia de denominación a Fondo de Servicio Universal Energético, por lo cual debe continuar operando conforme a sus contratos de fideicomiso actual en tanto se actualice la normatividad aplicable y en demás disposiciones que no se opongan a la presente Ley.
+A partir de la entrada en vigor de la presente [Ley](articulo-3.md), el Fondo de Servicio Universal Eléctrico cambia de denominación a Fondo de Servicio Universal Energético, por lo cual debe continuar operando conforme a sus contratos de fideicomiso actual en tanto se actualice la normatividad aplicable y en demás disposiciones que no se opongan a la presente Ley.

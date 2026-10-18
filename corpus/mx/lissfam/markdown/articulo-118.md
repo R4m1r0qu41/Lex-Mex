@@ -17,4 +17,4 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 118
 
-El Instituto deberá mantener en el Banco Nacional del Ejército, Fuerza Aérea y Armada, SNC, en depósito a la vista, las cantidades estrictamente necesarias para la realización de sus operaciones diarias, relacionadas con el fondo de la vivienda. Los demás recursos del fondo, en tanto se aplican a cumplir sus fines y objetivos, deberán mantenerse invertidos en valores gubernamentales de inmediata realización.
+El [Instituto](articulo-4o.md) deberá mantener en el Banco Nacional del Ejército, Fuerza Aérea y Armada, SNC, en depósito a la vista, las cantidades estrictamente necesarias para la realización de sus operaciones diarias, relacionadas con el fondo de la vivienda. Los demás recursos del fondo, en tanto se aplican a cumplir sus fines y objetivos, deberán mantenerse invertidos en valores gubernamentales de inmediata realización.

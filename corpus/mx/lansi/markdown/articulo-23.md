@@ -17,4 +17,4 @@ source_sha256: 0e34f329befed4474eb7bc1bc195ba13bbe188edfbbabc914a44723e62eb9e44
 
 # Artículo 23
 
-Los Regulados que sean declarados responsables de los accidentes, daños y perjuicios ocasionados con motivo o en ejercicio de las actividades y trabajos que ejecuten, deberán pagar la remediación, las sanciones e indemnizaciones correspondientes de acuerdo con lo que las leyes determinen. Esta responsabilidad subsistirá aún en el caso de que el operador contrate el trabajo por medio de un intermediario.
+Los [Regulados](articulo-3o.md) que sean declarados responsables de los accidentes, daños y perjuicios ocasionados con motivo o en ejercicio de las actividades y trabajos que ejecuten, deberán pagar la remediación, las sanciones e indemnizaciones correspondientes de acuerdo con lo que las leyes determinen. Esta responsabilidad subsistirá aún en el caso de que el operador contrate el trabajo por medio de un intermediario.

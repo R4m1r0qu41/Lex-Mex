@@ -23,13 +23,13 @@ I. En el caso de personas físicas:
 
 A. Tener un modo honesto de vivir;
 
-B. Haber cumplido, los obligados, con el Servicio Militar Nacional; C. No tener impedimento físico o mental para el manejo de las armas;
+B. Haber cumplido, los obligados, con el Servicio [Militar](articulo-1o-Bis.md) Nacional; C. No tener impedimento físico o mental para el manejo de las armas;
 
 D. No haber sido condenado por delito cometido con el empleo de armas;
 
 E. No consumir drogas, enervantes o psicotrópicos, y
 
-F. Acreditar, a criterio de la Secretaría, la necesidad de portar armas por: Párrafo reformado DOF 29-05-2025
+F. Acreditar, a criterio de la [Secretaría](articulo-1o-Bis.md), la necesidad de portar armas por: Párrafo reformado DOF 29-05-2025
 
 a) La naturaleza de su ocupación o empleo; o
 

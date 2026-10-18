@@ -29,4 +29,4 @@ V.- Los lineamientos técnicos, nacionales o internacionales, que resulten aplic
 
 VI.- Las demás que la persona responsable de la certificación estime pertinentes. Fracción reformada DOF 03-04-2026
 
-Cualquier modificación a las reglas deberá ser inscrita ante el Instituto para surtir efectos ante terceras personas. Párrafo reformado DOF 03-04-2026
+Cualquier modificación a las reglas deberá ser inscrita ante el [Instituto](articulo-4.md) para surtir efectos ante terceras personas. Párrafo reformado DOF 03-04-2026

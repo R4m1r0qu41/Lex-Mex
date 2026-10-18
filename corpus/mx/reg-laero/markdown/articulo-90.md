@@ -15,7 +15,7 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 # Artículo 90
 
-Todo aeródromo civil de servicio al público deberá prestar servicio durante el horario mínimo de operación ordinario que le fije la Secretaría, para lo cual ésta debe tomar en cuenta la propuesta que presente el concesionario o permisionario, las necesidades de los transportistas aéreos, las recomendaciones del comité de operación y horarios, así como la interrelación del aeródromo con el sistema aeroportuario.
+Todo aeródromo civil de servicio al público deberá prestar servicio durante el horario mínimo de operación ordinario que le fije la [Secretaría](articulo-2.md), para lo cual ésta debe tomar en cuenta la propuesta que presente el concesionario o permisionario, las necesidades de los transportistas aéreos, las recomendaciones del comité de operación y horarios, así como la interrelación del aeródromo con el sistema aeroportuario.
 
 Los aeródromos civiles durante el horario de operación ordinario deben tener disponibles todos los servicios aeroportuarios, complementarios y a la navegación aérea requeridos conforme a las disposiciones aplicables. Las autoridades adscritas a un aeródromo deben ajustar sus turnos de trabajo al horario de cada aeródromo.
 

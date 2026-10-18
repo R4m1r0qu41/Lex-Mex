@@ -15,4 +15,4 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 # Artículo 88
 
-La Secretaría deberá notificar por escrito a los concesionarios y permisionarios la adopción de las modalidades señaladas, precisando las causas, la fecha de inicio y, en caso de ser posible, su duración, así como los términos conforme a los cuales estarán obligados a realizar las actividades correspondientes.
+La [Secretaría](articulo-2.md) deberá notificar por escrito a los concesionarios y permisionarios la adopción de las modalidades señaladas, precisando las causas, la fecha de inicio y, en caso de ser posible, su duración, así como los términos conforme a los cuales estarán obligados a realizar las actividades correspondientes.

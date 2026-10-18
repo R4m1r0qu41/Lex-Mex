@@ -17,4 +17,4 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 22
 
-El Secretariado Ejecutivo de la Comisión es la instancia coordinadora del Sistema Nacional de Infraestructura de la Calidad, y será quien ejecute las determinaciones de la Comisión. Sus funciones serán ejercidas por la Secretaría de manera permanente.
+El Secretariado Ejecutivo de la [Comisión](articulo-4.md) es la instancia coordinadora del [Sistema Nacional de Infraestructura de la Calidad](articulo-4.md), y será quien ejecute las determinaciones de la Comisión. Sus funciones serán ejercidas por la [Secretaría](articulo-4.md) de manera permanente.

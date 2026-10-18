@@ -17,7 +17,7 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 309
 
-La persona usuaria autorizada por el Instituto deberá inscribir ante éste, los cambios de nombre, denominación o razón social o transformación de régimen jurídico, así como los cambios de domicilio que correspondan, en los términos previstos en el Reglamento de esta Ley.
+La persona usuaria autorizada por el [Instituto](articulo-4.md) deberá inscribir ante éste, los cambios de nombre, denominación o razón social o transformación de régimen jurídico, así como los cambios de domicilio que correspondan, en los términos previstos en el Reglamento de esta [Ley](articulo-4.md).
 
 Artículo reformado DOF 03-04-2026
 

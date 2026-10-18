@@ -17,4 +17,4 @@ source_sha256: 4bcc982b308b0813469b30db61b53d5a2c41e5a7240b3b1cac2f1aeeb2c00a2e
 
 # Artículo 235
 
-Son causales de conclusión anticipada de la Mediación, las siguientes: I. El desistimiento por común acuerdo de las partes; II. La muerte de la persona propietaria o titular del inmueble; III. La imposibilidad material de continuarlo por causas sobrevenidas, y IV. Los demás casos en que proceda dar por concluido el trámite de la Mediación de conformidad con otras disposiciones jurídicas aplicables.
+Son causales de conclusión anticipada de la [Mediación](articulo-2.md), las siguientes: I. El desistimiento por común acuerdo de las partes; II. La muerte de la persona propietaria o titular del inmueble; III. La imposibilidad material de continuarlo por causas sobrevenidas, y IV. Los demás casos en que proceda dar por concluido el trámite de la Mediación de conformidad con otras disposiciones jurídicas aplicables.

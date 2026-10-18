@@ -15,7 +15,7 @@ source_sha256: 0e34f329befed4474eb7bc1bc195ba13bbe188edfbbabc914a44723e62eb9e44
 
 # Cuarto
 
-La Secretaría, la Secretaría de Energía, la Comisión Nacional de Hidrocarburos y la Comisión Reguladora de Energía continuarán despachando los asuntos que les competen, con base en las disposiciones legales aplicables, hasta la entrada en vigor del Reglamento Interior de la Agencia.
+La [Secretaría](articulo-3o.md), la Secretaría de Energía, la Comisión Nacional de Hidrocarburos y la Comisión Reguladora de Energía continuarán despachando los asuntos que les competen, con base en las disposiciones legales aplicables, hasta la entrada en vigor del Reglamento Interior de la [Agencia](articulo-3o.md).
 
 En los asuntos que se encuentren en trámite a la entrada en vigor del Reglamento Interior de la Agencia, la autoridad que los tenga a su cargo decretará una suspensión del procedimiento y los remitirá a la Agencia en un plazo que no exceda de quince días hábiles.
 

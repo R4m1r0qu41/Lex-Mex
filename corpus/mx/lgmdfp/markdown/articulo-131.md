@@ -23,6 +23,6 @@ I. No exista duplicidad de registros;
 
 II. Permitan utilizar en la búsqueda y en la investigación de los delitos, las herramientas de análisis de contexto, con enfoque transnacional, a fin de determinar patrones de criminalidad, modo de operación, mapas criminológicos, estructura y actividad de grupos de delincuencia organizada, entre otros;
 
-III. Cuenten con las características técnicas y soporte tecnológico adecuado, de conformidad con los lineamientos que para tal efecto emita la Fiscalía, los que deberán ser acordes con los lineamientos que emita la Comisión Nacional de Búsqueda en términos de la fracción XIV del artículo [53](articulo-53.md) de esta Ley, y Fracción reformada DOF 20-05-2021
+III. Cuenten con las características técnicas y soporte tecnológico adecuado, de conformidad con los lineamientos que para tal efecto emita la [Fiscalía](articulo-4.md), los que deberán ser acordes con los lineamientos que emita la [Comisión Nacional de Búsqueda](articulo-4.md) en términos de la fracción XIV del artículo [53](articulo-53.md) de esta Ley, y Fracción reformada DOF 20-05-2021
 
-IV. Permitan su actualización permanente por parte de las Fiscalías Especializadas y demás autoridades competentes, en términos de lo previsto en esta Ley.
+IV. Permitan su actualización permanente por parte de las [Fiscalías Especializadas](articulo-4.md) y demás autoridades competentes, en términos de lo previsto en esta Ley.

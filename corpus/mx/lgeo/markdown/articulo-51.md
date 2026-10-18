@@ -17,9 +17,9 @@ source_sha256: 67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35
 
 # Artículo 51
 
-El acuerdo a que se refiere el [artículo anterior](articulo-50.md) debe quedar formalizado en un convenio celebrado entre las personas titulares de las respectivas Concesiones y autorizado por la Secretaría, cuidando de evitar daños a terceros, de hacer prevalecer criterios de seguridad nacional, interés público, eficiencia en el aprovechamiento de los Recursos Geotérmicos, protección al medio ambiente, protección de la población y respeto a los pueblos originarios.
+El acuerdo a que se refiere el [artículo anterior](articulo-50.md) debe quedar formalizado en un convenio celebrado entre las personas titulares de las respectivas [Concesiones](articulo-2.md) y autorizado por la [Secretaría](articulo-2.md), cuidando de evitar daños a terceros, de hacer prevalecer criterios de seguridad nacional, interés público, eficiencia en el aprovechamiento de los [Recursos Geotérmicos](articulo-2.md), protección al medio ambiente, protección de la población y respeto a los pueblos originarios.
 
-Para lo anterior, las personas concesionarias tienen un plazo de noventa días hábiles, contados a partir del acuerdo para desarrollar actividades de Explotación conjuntas, para presentar a la Secretaría el proyecto de convenio respectivo.
+Para lo anterior, las personas concesionarias tienen un plazo de noventa días hábiles, contados a partir del acuerdo para desarrollar actividades de [Explotación](articulo-2.md) conjuntas, para presentar a la Secretaría el proyecto de convenio respectivo.
 
 La Secretaría debe emitir los comentarios pertinentes o, en su caso, la autorización de este, dentro del término de treinta días hábiles contados a partir de la recepción del proyecto de convenio.
 

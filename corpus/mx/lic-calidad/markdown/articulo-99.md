@@ -17,4 +17,4 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 99
 
-El Centro Nacional de Metrología y los Institutos Designados de Metrología tienen a su cargo el desarrollo, la conservación metrológica y la mejora de los patrones nacionales de medida, los cuales constituyen el origen de la trazabilidad de las medidas que se realizan en el país hacia el Sistema General de Unidades de Medida.
+El Centro Nacional de Metrología y los Institutos Designados de Metrología tienen a su cargo el desarrollo, la conservación metrológica y la mejora de los patrones nacionales de medida, los cuales constituyen el origen de la trazabilidad de las medidas que se realizan en el país hacia el [Sistema General de Unidades de Medida](articulo-4.md).

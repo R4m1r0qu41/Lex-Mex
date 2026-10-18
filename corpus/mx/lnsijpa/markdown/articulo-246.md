@@ -19,4 +19,4 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 Tramitación Recibidas las actuaciones en el Tribunal de Alzada, dentro de los tres días siguientes, se pronunciará sobre la admisión del recurso.
 
-En el mismo auto en que se admita el recurso, el Tribunal de Alzada resolverá sobre el fondo del mismo, salvo que corresponda realizar previamente una audiencia conforme a las previsiones del Código Nacional, en cuyo caso la administración del Tribunal de Alzada programará la celebración de la audiencia dentro de los cinco días siguientes y al final de la misma se resolverá el recurso.
+En el mismo auto en que se admita el recurso, el Tribunal de Alzada resolverá sobre el fondo del mismo, salvo que corresponda realizar previamente una audiencia conforme a las previsiones del [Código Nacional](articulo-3.md), en cuyo caso la administración del Tribunal de Alzada programará la celebración de la audiencia dentro de los cinco días siguientes y al final de la misma se resolverá el recurso.

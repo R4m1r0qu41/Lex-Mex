@@ -17,4 +17,4 @@ source_sha256: aa96853f010885bdf85160e944e5c0ef5c3c8e95422dfede280d228cf064310a
 
 # Artículo 77
 
-A los servicios prestados a los Usuarios Calificados Participantes del Mercado no les aplica el párrafo segundo del artículo [113](../../lfpc/markdown/articulo-113.md) de la Ley Federal de Protección al Consumidor.
+A los servicios prestados a los [Usuarios Calificados](articulo-3.md) Participantes del Mercado no les aplica el párrafo segundo del artículo [113](../../lfpc/markdown/articulo-113.md) de la Ley Federal de Protección al Consumidor.

@@ -17,4 +17,4 @@ source_sha256: b19bcf104673af06117a6d4f3c947591f7a65999f19bad3dcfe2599a29bb3ab0
 
 # Artículo 36
 
-Una vez autorizada la celebración de la cesión de derechos, el contrato de cesión debe presentarse en original, por duplicado y debidamente firmado ante la Secretaría.
+Una vez autorizada la celebración de la cesión de derechos, el contrato de cesión debe presentarse en original, por duplicado y debidamente firmado ante la [Secretaría](articulo-3.md).

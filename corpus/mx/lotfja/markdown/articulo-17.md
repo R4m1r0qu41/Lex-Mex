@@ -19,7 +19,7 @@ source_sha256: b32c33fa4ed071dc8bea1ad69ce8510cdb05016967e9e4fcb60f10c6f2216628
 
 Son facultades del Pleno Jurisdiccional las siguientes:
 
-I. Establecer, modificar y suspender la jurisprudencia del Tribunal conforme a las disposiciones legales aplicables, aprobar las tesis y precedentes del Pleno Jurisdiccional, así como ordenar su publicación en la Revista del Tribunal;
+I. Establecer, modificar y suspender la jurisprudencia del [Tribunal](articulo-2.md) conforme a las disposiciones legales aplicables, aprobar las tesis y precedentes del Pleno Jurisdiccional, así como ordenar su publicación en la Revista del Tribunal;
 
 II. Resolver las contradicciones de criterios, tesis o jurisprudencias sustentados por las Salas Regionales y Secciones de Sala Superior, según sea el caso, determinando cuál de ellos debe prevalecer, lo cual constituirá jurisprudencia;
 

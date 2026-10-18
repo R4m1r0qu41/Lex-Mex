@@ -17,8 +17,8 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 109
 
-El Director del área natural protegida podrá promover ante la Secretaría la cancelación del registro para el establecimiento y operación de una unidad de manejo para la conservación de vida silvestre cuando:
+El Director del área natural protegida podrá promover ante la [Secretaría](articulo-3o.md) la cancelación del registro para el establecimiento y operación de una unidad de manejo para la conservación de vida silvestre cuando:
 
-I. Se violen las disposiciones establecidas en la Ley, el presente Reglamento, la declaratoria del área natural protegida, su programa de manejo, el plan de manejo y las demás normas legales y reglamentarias aplicables, o
+I. Se violen las disposiciones establecidas en la [Ley](articulo-3o.md), el presente Reglamento, la declaratoria del área natural protegida, su programa de manejo, el plan de manejo y las demás normas legales y reglamentarias aplicables, o
 
 II. Se provoquen daños a los ecosistemas como consecuencia de la operación de la unidad de manejo para la conservación de la vida silvestre.

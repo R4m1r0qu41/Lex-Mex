@@ -17,4 +17,4 @@ source_sha256: 43723ba379e128c1a1c1be4b085ecc870946cdec43d56f83e7314c077361368f
 
 # Artículo 15
 
-El examen definitivo constará de una prueba escrita y otra oral que se sustentarán ante un jurado. El jurado funcionará conforme a lo dispuesto por la Ley y este reglamento. Los representantes que integren el jurado deberán ser licenciados en derecho; el representante de la Secretaría fungirá como Presidente y designará al Secretario. Aclaración al artículo DOF 15-06-1993. Reformado DOF 26-11-2012
+El examen definitivo constará de una prueba escrita y otra oral que se sustentarán ante un jurado. El jurado funcionará conforme a lo dispuesto por la [Ley](articulo-2o.md) y este reglamento. Los representantes que integren el jurado deberán ser licenciados en derecho; el representante de la [Secretaría](articulo-2o.md) fungirá como Presidente y designará al Secretario. Aclaración al artículo DOF 15-06-1993. Reformado DOF 26-11-2012

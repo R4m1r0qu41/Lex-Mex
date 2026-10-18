@@ -15,4 +15,4 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # TERCERO
 
-Mientras se expiden las disposiciones reglamentarias de esta Ley, seguirán en vigor las que han regido hasta ahora, en lo que no la contravengan. Las referencias legales o reglamentarias a la Ley Federal de Protección al Ambiente, se entienden hechas en lo aplicable, a la presente Ley.
+Mientras se expiden las disposiciones reglamentarias de esta Ley, seguirán en vigor las que han regido hasta ahora, en lo que no la contravengan. Las referencias legales o reglamentarias a la Ley Federal de [Protección](articulo-3o.md) al [Ambiente](articulo-3o.md), se entienden hechas en lo aplicable, a la presente Ley.

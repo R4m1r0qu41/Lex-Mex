@@ -17,4 +17,4 @@ source_sha256: 9080231242a59cbd78d30fb747864bc45cd63d3c4978f37086b01e45343f4244
 
 # Artículo 20
 
-Las personas que funjan como suplentes de las Personas Consejeras en el Consejo de Administración, no pueden ser designadas como personas integrantes del Comité Especial.
+Las personas que funjan como suplentes de las [Personas Consejeras](articulo-2.md) en el [Consejo de Administración](articulo-2.md), no pueden ser designadas como personas integrantes del [Comité Especial](articulo-2.md).

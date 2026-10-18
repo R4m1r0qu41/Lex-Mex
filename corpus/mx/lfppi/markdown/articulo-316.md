@@ -17,11 +17,11 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 316
 
-El Instituto inscribirá las denominaciones de origen o indicaciones geográficas protegidas en el extranjero, en el registro creado para tal efecto. La solicitud de inscripción deberá presentarse por la persona titular de éstas y cumplir con los siguientes requisitos: Párrafo reformado DOF 03-04-2026
+El [Instituto](articulo-4.md) inscribirá las denominaciones de origen o indicaciones geográficas protegidas en el extranjero, en el registro creado para tal efecto. La solicitud de inscripción deberá presentarse por la persona titular de éstas y cumplir con los siguientes requisitos: Párrafo reformado DOF 03-04-2026
 
 I.- Señalar el nombre, nacionalidad, domicilio y correo electrónico de la persona solicitante; Fracción reformada DOF 03-04-2026
 
-II.- Presentar el documento mediante el cual se haya otorgado protección a la denominación de origen o indicación geográfica, conforme a la legislación aplicable del país de origen o de acuerdo a los Tratados Internacionales;
+II.- Presentar el documento mediante el cual se haya otorgado protección a la denominación de origen o indicación geográfica, conforme a la legislación aplicable del país de origen o de acuerdo a los [Tratados Internacionales](articulo-4.md);
 
 III.- Indicar el producto o productos protegidos y el territorio o zona geográfica de su extracción, producción o elaboración;
 
@@ -29,4 +29,4 @@ IV.- Señalar la traducción al idioma español o la transliteración al alfabet
 
 V.- Acompañar el comprobante de pago de la tarifa correspondiente, y
 
-VI.- Los demás que establezca el Reglamento de esta Ley.
+VI.- Los demás que establezca el Reglamento de esta [Ley](articulo-4.md).

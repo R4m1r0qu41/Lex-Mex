@@ -17,7 +17,7 @@ source_sha256: 32822f50bb2de81185408f9450d61a49d678429c52c5379822a507c7027a5275
 
 # Artículo 3
 
-La Política de Desarrollo Social se sujetará a los siguientes principios:
+La [Política de Desarrollo Social](articulo-5.md) se sujetará a los siguientes principios:
 
 I. Libertad: Capacidad de las personas para elegir los medios para su desarrollo personal así como para participar en el desarrollo social;
 

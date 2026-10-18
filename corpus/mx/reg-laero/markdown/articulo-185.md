@@ -15,7 +15,7 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 # Artículo 185
 
-En los casos en que las solicitudes que se presenten ante la Secretaría para realizar cualquier trámite de los establecidos en la Ley o el presente Reglamento no reúnan los requisitos señalados en las disposiciones aplicables, la Secretaría lo comunicará por escrito al interesado en un plazo que no excederá de la tercera parte del plazo para resolver el trámite de que se trate, contado a partir de la fecha en que se reciba la solicitud. Transcurrido dicho plazo sin que la Secretaría comunique las deficiencias, ésta no podrá rechazar la solicitud de que se trate por falta de información.
+En los casos en que las solicitudes que se presenten ante la [Secretaría](articulo-2.md) para realizar cualquier trámite de los establecidos en la [Ley](articulo-2.md) o el presente Reglamento no reúnan los requisitos señalados en las disposiciones aplicables, la Secretaría lo comunicará por escrito al interesado en un plazo que no excederá de la tercera parte del plazo para resolver el trámite de que se trate, contado a partir de la fecha en que se reciba la solicitud. Transcurrido dicho plazo sin que la Secretaría comunique las deficiencias, ésta no podrá rechazar la solicitud de que se trate por falta de información.
 
 Los trámites que no cuenten con plazo específico para su resolución, deberán resolverse dentro de los sesenta días naturales siguientes a la presentación de la solicitud correspondiente debidamente integrada. Las solicitudes que no se resuelvan dentro del plazo que para cada caso se establece, se entenderán denegadas.
 

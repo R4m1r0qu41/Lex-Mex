@@ -17,6 +17,6 @@ source_sha256: a1cc8f6043c35579235fd61d2e34977e1735af4ea6919d053f89462b97742335
 
 # Artículo 4
 
-Las dependencias y entidades de la Administración Pública Federal cuyas funciones incidan en la prevención social de la Violencia y la delincuencia y de conformidad con las disposiciones jurídicas aplicables y su disponibilidad presupuestaria, diseñarán y ejecutarán, programas dirigidos a abatir los problemas de Violencia y delincuencia de la sociedad a que se refiere este Reglamento, los cuales deberán diseñarse y ejecutarse tomando en consideración el Diagnóstico Participativo, así como la Participación Ciudadana y Comunitaria.
+Las dependencias y entidades de la Administración Pública Federal cuyas funciones incidan en la prevención social de la Violencia y la delincuencia y de conformidad con las disposiciones jurídicas aplicables y su disponibilidad presupuestaria, diseñarán y ejecutarán, programas dirigidos a abatir los problemas de Violencia y delincuencia de la sociedad a que se refiere este Reglamento, los cuales deberán diseñarse y ejecutarse tomando en consideración el [Diagnóstico Participativo](articulo-3.md), así como la Participación Ciudadana y Comunitaria.
 
 Para efectos del párrafo anterior, el Centro Nacional elaborará y emitirá los lineamientos que establezcan los mecanismos de participación y consulta en materia de Participación Ciudadana y Comunitaria, en términos del artículo [26](../../lgpsvd/markdown/articulo-26.md) de la Ley.

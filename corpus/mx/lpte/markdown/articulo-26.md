@@ -17,4 +17,4 @@ source_sha256: c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41
 
 # Artículo 26
 
-Las metas de Energías Renovables y demás Energías Limpias establecidas en la Estrategia, deben constituir porcentajes mínimos en relación con el total de generación de electricidad en México.
+Las metas de [Energías Renovables](articulo-3.md) y demás [Energías Limpias](articulo-3.md) establecidas en la [Estrategia](articulo-3.md), deben constituir porcentajes mínimos en relación con el total de generación de electricidad en México.

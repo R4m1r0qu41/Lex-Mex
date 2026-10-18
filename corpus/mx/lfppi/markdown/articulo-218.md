@@ -17,4 +17,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 218
 
-Cuando se solicite un registro de marca en México, dentro de los plazos que determinen los Tratados Internacionales o, en su defecto, dentro de los seis meses siguientes de haberlo hecho en otros países, podrá reconocerse como fecha de prioridad la de presentación de la solicitud en que lo fue primero.
+Cuando se solicite un registro de marca en México, dentro de los plazos que determinen los [Tratados Internacionales](articulo-4.md) o, en su defecto, dentro de los seis meses siguientes de haberlo hecho en otros países, podrá reconocerse como fecha de prioridad la de presentación de la solicitud en que lo fue primero.

@@ -17,7 +17,7 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 23
 
-Cuando proceda la devolución de los Bienes, activos o empresas que se hayan utilizado conforme al [artículo anterior](articulo-22.md), el depositario, administrador o interventor cubrirá los daños ocasionados por su uso.
+Cuando proceda la devolución de los [Bienes](articulo-2o.md), activos o empresas que se hayan utilizado conforme al [artículo anterior](articulo-22.md), el depositario, administrador o interventor cubrirá los daños ocasionados por su uso.
 
 El seguro correspondiente a estos Bienes, activos o empresas, deberá cubrir la pérdida y los daños que se originen por el uso de los mismos.
 

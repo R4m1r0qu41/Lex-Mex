@@ -17,4 +17,4 @@ source_sha256: b3c906475b455176de73da17f4f93a73f295965dc9bcca854b48417c7d4d3cfc
 
 # Artículo 106
 
-La lista de OGMs para realizar actividades de utilización confinada de dichos organismos con fines de enseñanza y de investigación científica y tecnológica será expedida conjuntamente por las Secretarías, y se publicará para su conocimiento y difusión en el Diario Oficial de la Federación.
+La lista de OGMs para realizar actividades de utilización confinada de dichos organismos con fines de enseñanza y de investigación científica y tecnológica será expedida conjuntamente por las [Secretarías](articulo-3.md), y se publicará para su conocimiento y difusión en el Diario Oficial de la Federación.

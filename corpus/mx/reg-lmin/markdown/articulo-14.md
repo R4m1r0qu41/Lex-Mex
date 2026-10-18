@@ -17,7 +17,7 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 14
 
-El Servicio Geológico proporcionará la certificación de reservas minerales, a que se refiere el artículo [9](../../lmin/markdown/articulo-9.md), último párrafo, fracción XXII de la Ley, de acuerdo a lo siguiente:
+El [Servicio Geológico](articulo-1o.md) proporcionará la certificación de reservas minerales, a que se refiere el artículo [9](../../lmin/markdown/articulo-9.md), último párrafo, fracción XXII de la [Ley](articulo-1o.md), de acuerdo a lo siguiente:
 
 I. Se expedirá por ingenieros geólogos, mineros o geocientíficos que cuenten con cédula profesional o un grupo interdisciplinario conformado por éstos, adscritos al organismo o contratados por éste para tal efecto;
 

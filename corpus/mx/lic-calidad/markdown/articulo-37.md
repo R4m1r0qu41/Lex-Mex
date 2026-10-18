@@ -17,6 +17,6 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 37
 
-La propuesta de Norma Oficial Mexicana podrá ser elaborada por la Autoridad Normalizadora o sujeto interesado, siempre que cumpla con lo previsto en el artículo [34](articulo-34.md) de esta Ley, y sea presentada ante esa Autoridad Normalizadora.
+La propuesta de [Norma Oficial Mexicana](articulo-4.md) podrá ser elaborada por la [Autoridad Normalizadora](articulo-4.md) o sujeto interesado, siempre que cumpla con lo previsto en el artículo [34](articulo-34.md) de esta Ley, y sea presentada ante esa Autoridad Normalizadora.
 
 En ningún caso, se entenderá que la Autoridad Normalizadora está obligada a aceptar las propuestas de Normas Oficiales Mexicanas presentadas por partes interesadas, debiendo fundar y motivar su negativa.

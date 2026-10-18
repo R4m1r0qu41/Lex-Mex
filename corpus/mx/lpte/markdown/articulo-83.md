@@ -17,4 +17,4 @@ source_sha256: c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41
 
 # Artículo 83
 
-Los requisitos y procedimientos para la celebración de los acuerdos voluntarios a que hace referencia el [artículo anterior](articulo-82.md), los mecanismos y procedimientos para realizar la verificación de su cumplimiento, se deben determinar en el Reglamento de esta Ley.
+Los requisitos y procedimientos para la celebración de los acuerdos voluntarios a que hace referencia el [artículo anterior](articulo-82.md), los mecanismos y procedimientos para realizar la verificación de su cumplimiento, se deben determinar en el [Reglamento](articulo-3.md) de esta [Ley](articulo-3.md).

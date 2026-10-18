@@ -17,9 +17,9 @@ source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 
 # Artículo 17
 
-La Secretaría promoverá el acceso a la información y la participación social corresponsable en cada etapa del proceso de ordenamiento ecológico mediante la realización, entre otras, de las siguientes acciones:
+La [Secretaría](articulo-3o.md) promoverá el acceso a la información y la participación social corresponsable en cada etapa del proceso de ordenamiento ecológico mediante la realización, entre otras, de las siguientes acciones:
 
-I. Incorporar de manera expedita al Subsistema, la información que se genere en cada etapa;
+I. Incorporar de manera expedita al [Subsistema](articulo-3o.md), la información que se genere en cada etapa;
 
 II. Incorporar a los programas respectivos los resultados de los mecanismos de participación social utilizados en el proceso de ordenamiento ecológico; y
 

@@ -17,4 +17,4 @@ source_sha256: b32c33fa4ed071dc8bea1ad69ce8510cdb05016967e9e4fcb60f10c6f2216628
 
 # Artículo 12
 
-Las sesiones ordinarias de los plenos se celebrarán dentro de los períodos a que alude el artículo [8](articulo-8.md) de esta Ley, en los días y horas que fijen cada uno. También podrán sesionar de manera extraordinaria a solicitud de cualquiera de sus integrantes, la que deberá ser presentada al Presidente del Tribunal a fin de que emita la convocatoria correspondiente.
+Las sesiones ordinarias de los plenos se celebrarán dentro de los períodos a que alude el artículo [8](articulo-8.md) de esta [Ley](articulo-2.md), en los días y horas que fijen cada uno. También podrán sesionar de manera extraordinaria a solicitud de cualquiera de sus integrantes, la que deberá ser presentada al [Presidente del Tribunal](articulo-2.md) a fin de que emita la convocatoria correspondiente.

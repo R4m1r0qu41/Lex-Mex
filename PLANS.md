@@ -58,7 +58,7 @@ secrets, transcripts, hidden reasoning, or mutable copies of external state.
 - [`docs/plans/glossary-detection.md`](docs/plans/glossary-detection.md)
   — Detect the "se entiende por:" and imported-definition glossaries that
   currently yield 0 terms (about 100 instruments); originals before imports.
-  Drafted 2026-10-18, awaiting operator approval of G1.
+  G0–G1 landed 2026-10-18 (94 instruments gain terms, 19 held); G2–G3 next.
 
 - [`docs/plans/sqlite-corpus-database.md`](docs/plans/sqlite-corpus-database.md)
   — Database-only SQLite/rusqlite projection: pinned inputs, complete provenance,

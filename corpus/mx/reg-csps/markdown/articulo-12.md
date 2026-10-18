@@ -17,4 +17,4 @@ source_sha256: 70464807d63da08244e495f2ff0ac30b12b30119926b84cedc7930397fcb80ef
 
 # Artículo 12
 
-La Secretaría fijará las características que deberá reunir un producto para ser considerado como alimento, suplemento alimenticio, producto biotecnológico, de tratamiento cosmético o de cualquier otra clasificación, conforme a lo que establezcan la Ley, este Reglamento y las normas correspondientes.
+La [Secretaría](articulo-2o.md) fijará las características que deberá reunir un producto para ser considerado como alimento, suplemento alimenticio, producto biotecnológico, de tratamiento cosmético o de cualquier otra clasificación, conforme a lo que establezcan la [Ley](articulo-2o.md), este Reglamento y las normas correspondientes.

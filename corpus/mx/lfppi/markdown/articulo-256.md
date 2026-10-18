@@ -17,4 +17,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 256
 
-Cuando se solicite la inscripción de alguna transmisión de marca registrada o en trámite sobre la que haya habido transmisiones anteriores no inscritas, también deberán acreditarse e inscribirse éstas ante el Instituto.
+Cuando se solicite la inscripción de alguna transmisión de marca registrada o en trámite sobre la que haya habido transmisiones anteriores no inscritas, también deberán acreditarse e inscribirse éstas ante el [Instituto](articulo-4.md).

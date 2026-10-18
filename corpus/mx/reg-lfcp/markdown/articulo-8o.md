@@ -21,7 +21,7 @@ Los exámenes para aspirante se realizarán de conformidad con las siguientes ba
 
 I.- Las preguntas deberán estar redactadas en idioma español, en forma clara y precisa, y versar sobre cuestiones teóricas y prácticas de relevancia y actualidad en la materia;
 
-II.- Deberán ser formulados por licenciados en derecho con título legalmente expedido y aprobados por el titular de la Dirección General competente de la Secretaría; Fracción reformada DOF 26-11-2012
+II.- Deberán ser formulados por licenciados en derecho con título legalmente expedido y aprobados por el titular de la Dirección General competente de la [Secretaría](articulo-2o.md); Fracción reformada DOF 26-11-2012
 
 III.- Deberán contener el número de preguntas suficientes para realizar una evaluación general de los conocimientos del sustentante en materia jurídica con énfasis en derecho mercantil en general, de fe pública, intermediación, mediación, valuación y arbitraje; Fracción reformada DOF 26-11-2012
 

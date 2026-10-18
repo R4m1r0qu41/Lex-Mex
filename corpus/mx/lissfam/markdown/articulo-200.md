@@ -17,7 +17,7 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 200
 
-Agotado el procedimiento a que se refieren los artículos precedentes, para el efecto de su sanción, y a fin de que puedan ser ejecutados, el Instituto remitirá de oficio a la Secretaría de Hacienda y Crédito Público, los acuerdos de la Junta Directiva que concedan, nieguen, modifiquen, suspendan o declaren insubsistentes los haberes de retiro, las pensiones o las compensaciones.
+Agotado el procedimiento a que se refieren los artículos precedentes, para el efecto de su sanción, y a fin de que puedan ser ejecutados, el [Instituto](articulo-4o.md) remitirá de oficio a la Secretaría de Hacienda y Crédito Público, los acuerdos de la [Junta](articulo-4o.md) Directiva que concedan, nieguen, modifiquen, suspendan o declaren insubsistentes los haberes de retiro, las pensiones o las compensaciones.
 
 Para que los acuerdos mencionados puedan ser ejecutados, es indispensable que la Secretaría de Hacienda y Crédito Público los sancione.
 

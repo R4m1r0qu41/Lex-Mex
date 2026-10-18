@@ -23,7 +23,7 @@ I. La información del Registro de conformidad con lo dispuesto por el artículo
 
 II. Las estadísticas nacionales en materia de bioseguridad y OGM;
 
-III. Las zonas restringidas y el municipio o municipios donde se ubica, distinguiendo: a) Centros de origen y de diversidad genética por especie; en coordenadas UTM;
+III. Las zonas restringidas y el municipio o municipios donde se ubica, distinguiendo: a) Centros de origen y de diversidad genética por especie; en coordenadas [UTM](articulo-2.md);
 
 b) Áreas naturales protegidas de competencia federal, en las coordenadas establecidas en sus instrumentos de creación;
 
@@ -33,7 +33,7 @@ d) Zonas libres de OGMs, en coordenadas UTM.
 
 IV. Informes y documentos relevantes que resulten de las actividades científicas, académicas, trabajos técnicos o de cualquier otra índole en materia de bioseguridad incluyendo la inocuidad de OGMs, realizados por personas físicas o morales, nacionales o extranjeras;
 
-V. La información sobre los formatos de los avisos a los que se refiere el artículo [78](../../lbogm/markdown/articulo-78.md) de la Ley y las comunicaciones a que alude el artículo [59](articulo-59.md) de este Reglamento, las medidas tomadas por los permisionarios o por quienes realizan actividades de utilización confinada y las medidas tomadas por la autoridad, para atender las liberaciones accidentales o cualquier modificación en la liberación que pueda incrementar los posibles riesgos para el medio ambiente y la diversidad biológica al realizar actividades de liberación experimental o de liberación en programa piloto;
+V. La información sobre los formatos de los avisos a los que se refiere el artículo [78](../../lbogm/markdown/articulo-78.md) de la [Ley](articulo-2.md) y las comunicaciones a que alude el artículo [59](articulo-59.md) de este Reglamento, las medidas tomadas por los permisionarios o por quienes realizan actividades de utilización confinada y las medidas tomadas por la autoridad, para atender las liberaciones accidentales o cualquier modificación en la liberación que pueda incrementar los posibles riesgos para el medio ambiente y la diversidad biológica al realizar actividades de liberación experimental o de liberación en programa piloto;
 
 VI. La información relativa a las solicitudes de permiso, para efectos de lo previsto en el artículo [33](../../lbogm/markdown/articulo-33.md) de la Ley, y
 

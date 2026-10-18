@@ -15,6 +15,6 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 # Artículo 93
 
-Para efectos del artículo [63](../../laero/markdown/articulo-63.md) de la Ley, se entiende por horario de aterrizaje y despegue el asignado por la administradora aeroportuaria a una persona transportista u operadora aérea para la organización y planeación de los vuelos en el aeródromo.
+Para efectos del artículo [63](../../laero/markdown/articulo-63.md) de la [Ley](articulo-2.md), se entiende por horario de aterrizaje y despegue el asignado por la administradora aeroportuaria a una persona transportista u operadora aérea para la organización y planeación de los vuelos en el aeródromo.
 
 Artículo reformado DOF 29-08-2025

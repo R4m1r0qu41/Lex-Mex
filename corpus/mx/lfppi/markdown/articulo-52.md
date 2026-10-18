@@ -19,8 +19,8 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 No se considerará como parte del estado de la técnica para una solicitud, la divulgación de la materia que sea objeto de ésta, realizada por la persona inventora o su causahabiente de forma directa o indirectamente, o, en su caso, una tercera persona que haya obtenido dicha información de cualquiera de éstos, de forma directa o indirecta, y dentro de los doce meses previos a la fecha de presentación de la solicitud o, en su caso, de la prioridad reconocida.
 
-La publicación en una solicitud, patente o registro efectuada por el Instituto u otra oficina extranjera de propiedad industrial no quedará incluida dentro de los supuestos a que se refiere el párrafo anterior, salvo que haya sido efectuada por un error atribuible a dichas autoridades o bien que la solicitud haya sido presentada por una tercera persona sin autorización, que obtuvo la información de forma directa o indirecta de la persona inventora.
+La publicación en una solicitud, patente o registro efectuada por el [Instituto](articulo-4.md) u otra oficina extranjera de propiedad industrial no quedará incluida dentro de los supuestos a que se refiere el párrafo anterior, salvo que haya sido efectuada por un error atribuible a dichas autoridades o bien que la solicitud haya sido presentada por una tercera persona sin autorización, que obtuvo la información de forma directa o indirecta de la persona inventora.
 
-Para reconocer el derecho a que se refiere este artículo, la persona solicitante deberá cumplir con las condiciones que establezca el Reglamento de esta Ley.
+Para reconocer el derecho a que se refiere este artículo, la persona solicitante deberá cumplir con las condiciones que establezca el Reglamento de esta [Ley](articulo-4.md).
 
 Artículo reformado DOF 03-04-2026

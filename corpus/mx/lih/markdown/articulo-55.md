@@ -23,7 +23,7 @@ I. Durante la fase de exploración 2,464.84 pesos, y Cantidad de la fracción ac
 
 II. Durante la fase de extracción 9,859.56 pesos. Cantidad de la fracción actualizada por resolución miscelánea fiscal DOF 01-04-2016, 06-01-2017, 24-12-2018, 17-01-2020, 11-01-2021, 13-01-2022, 27-12-2022, 29-12-2023, 30-12-2024, 28-12-2025
 
-Para los efectos de este artículo, la Fase de Exploración comprende desde la formalización del Contrato o de la Asignación hasta el inicio de la Fase de Extracción, la cual comprende del inicio de las actividades destinadas a la producción comercial de Hidrocarburos hasta que concluye la vigencia del Contrato o de la Asignación.
+Para los efectos de este artículo, la Fase de Exploración comprende desde la formalización del [Contrato](articulo-3.md) o de la Asignación hasta el inicio de la Fase de Extracción, la cual comprende del inicio de las actividades destinadas a la producción comercial de Hidrocarburos hasta que concluye la vigencia del Contrato o de la Asignación.
 
 Para el cálculo del impuesto a que se refiere este artículo, en los casos en los que el Área Contractual o el Área de Asignación se encuentre integrada por fracción de kilómetro cuadrado, se considerará hasta el centésimo.
 

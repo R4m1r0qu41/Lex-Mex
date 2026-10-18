@@ -17,4 +17,4 @@ source_sha256: 70464807d63da08244e495f2ff0ac30b12b30119926b84cedc7930397fcb80ef
 
 # Artículo 145
 
-La Secretaría establecerá los programas para promover la lactancia materna.
+La [Secretaría](articulo-2o.md) establecerá los programas para promover la lactancia materna.

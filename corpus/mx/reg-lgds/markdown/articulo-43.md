@@ -17,4 +17,4 @@ source_sha256: aca2d65d2eef1b7c26ab431772ce7364305d103f5e4bacc87da02064df005ae3
 
 # Artículo 43
 
-La Secretaría de la Función Pública, en el ámbito de sus atribuciones, convendrá con los gobiernos de las Entidades Federativas, con la participación que en su caso corresponda a los municipios, los programas y actividades que permitan garantizar el adecuado control de los recursos públicos federales que éstos reciban mediante los convenios de coordinación.
+La Secretaría de la Función Pública, en el ámbito de sus atribuciones, convendrá con los gobiernos de las [Entidades Federativas](articulo-3.md), con la participación que en su caso corresponda a los municipios, los programas y actividades que permitan garantizar el adecuado control de los recursos públicos federales que éstos reciban mediante los convenios de coordinación.

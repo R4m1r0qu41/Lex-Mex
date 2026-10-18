@@ -17,4 +17,4 @@ source_sha256: 45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80
 
 # Artículo 43
 
-La Comisión podrá proponer a la Secretaría un plan de promoción del consumo de café de México, que distinga la producción de café en distintas microrregiones por sus diferentes perfiles de taza y de calidad reconocida en el mercado nacional e internacional.
+La [Comisión](articulo-3.md) podrá proponer a la [Secretaría](articulo-3.md) un plan de promoción del consumo de café de México, que distinga la producción de café en distintas microrregiones por sus diferentes perfiles de taza y de calidad reconocida en el mercado nacional e internacional.

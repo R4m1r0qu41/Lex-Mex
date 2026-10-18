@@ -15,4 +15,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # CUARTO
 
-Dentro de un plazo no mayor a ciento ochenta días hábiles, contados a partir de la entrada en vigor del presente Reglamento, la Secretaría debe realizar las acciones y gestiones necesarias para que el Sistema Nacional de Información Energética inicie operaciones en los términos establecidos en la Ley y el Reglamento.
+Dentro de un plazo no mayor a ciento ochenta días hábiles, contados a partir de la entrada en vigor del presente [Reglamento](articulo-5.md), la [Secretaría](articulo-5.md) debe realizar las acciones y gestiones necesarias para que el Sistema Nacional de Información Energética inicie operaciones en los términos establecidos en la [Ley](articulo-5.md) y el Reglamento.

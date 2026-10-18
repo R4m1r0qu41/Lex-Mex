@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 200
 
-Las medidas de apremio a que se refiere el presente Capítulo, deberán ser impuestas por Autoridades garantes y ejecutadas por sí mismas o con el apoyo de la autoridad competente, de conformidad con los procedimientos que establezcan las disposiciones jurídicas aplicables.
+Las medidas de apremio a que se refiere el presente Capítulo, deberán ser impuestas por [Autoridades garantes](articulo-3.md) y ejecutadas por sí mismas o con el apoyo de la autoridad competente, de conformidad con los procedimientos que establezcan las disposiciones jurídicas aplicables.

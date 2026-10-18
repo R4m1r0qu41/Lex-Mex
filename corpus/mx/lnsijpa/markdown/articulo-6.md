@@ -17,6 +17,6 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 6
 
-Aplicación de esta Ley a la persona mayor de edad A las personas mayores de dieciocho años de edad a quienes se les atribuya la comisión o participación en un hecho señalado como delito en las leyes penales mientras eran adolescentes, se les aplicará esta Ley.
+Aplicación de esta [Ley](articulo-3.md) a la persona mayor de edad A las personas mayores de dieciocho años de edad a quienes se les atribuya la comisión o participación en un hecho señalado como delito en las leyes penales mientras eran adolescentes, se les aplicará esta Ley.
 
 Asimismo, se aplicará en lo conducente a las personas que se encuentren en proceso o cumpliendo una medida de sanción y cumplan dieciocho años de edad. Por ningún motivo, las personas mayores de edad cumplirán medidas privativas de la libertad en los mismos espacios que las personas adolescentes.

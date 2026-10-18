@@ -21,7 +21,7 @@ Son delitos:
 
 I.- Falsificar una marca con fines de especulación comercial.
 
-Para efectos de esta Ley, se entenderá por falsificar, el usar una marca idéntica o de forma tal que no pueda distinguirse en sus aspectos esenciales a una previamente registrada o a una protegida por esta Ley, sin autorización de su legítima persona titular o de su licenciataria, para representar falsamente a un producto o servicio como original o auténtico. Párrafo reformado DOF 03-04-2026 Para acreditar la falsificación bastará que la marca sea usada en forma idéntica o de forma tal que no pueda distinguirse en sus aspectos esenciales a como aparezca representada en el título de registro o, en su caso, en la resolución que estime o declare su notoriedad o fama;
+Para efectos de esta [Ley](articulo-4.md), se entenderá por falsificar, el usar una marca idéntica o de forma tal que no pueda distinguirse en sus aspectos esenciales a una previamente registrada o a una protegida por esta Ley, sin autorización de su legítima persona titular o de su licenciataria, para representar falsamente a un producto o servicio como original o auténtico. Párrafo reformado DOF 03-04-2026 Para acreditar la falsificación bastará que la marca sea usada en forma idéntica o de forma tal que no pueda distinguirse en sus aspectos esenciales a como aparezca representada en el título de registro o, en su caso, en la resolución que estime o declare su notoriedad o fama;
 
 II.- Producir, almacenar, transportar, introducir al país, distribuir o vender con fines de especulación comercial, objetos que ostenten falsificaciones de marcas, así como aportar o proveer de cualquier forma, a sabiendas, materias primas o insumos destinados a la producción de objetos que ostenten dichas falsificaciones;
 
@@ -41,6 +41,6 @@ No existirá responsabilidad penal cuando la Norma Oficial Mexicana correspondie
 
 Queda incluido en el supuesto anterior, el realizar cualquier acto de despacho aduanero relacionado con el producto, ante las autoridades competentes, para la introducción al país o salida del mismo.
 
-No existirá responsabilidad penal cuando no se encuentre acreditada ante el Instituto la persona responsable de emitir el certificado de cumplimiento a las reglas de uso respectivas, en términos de la legislación aplicable. Párrafo reformado DOF 03-04-2026
+No existirá responsabilidad penal cuando no se encuentre acreditada ante el [Instituto](articulo-4.md) la persona responsable de emitir el certificado de cumplimiento a las reglas de uso respectivas, en términos de la legislación aplicable. Párrafo reformado DOF 03-04-2026
 
 Los delitos previstos en las fracciones I a VI de este artículo se perseguirán por querella de parte ofendida. Los delitos contemplados en las fracciones VII y VIII se perseguirán de oficio o por denuncia.

@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liva:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-liva",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-liva:article:1",
+    "fraction": "I",
+    "start_char": 54,
+    "end_char": 102,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liva:term:impuesto",
+    "term": "Impuesto",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-liva",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-liva:article:1",
+    "fraction": "II",
+    "start_char": 102,
+    "end_char": 148,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liva:term:actos-o-actividades-por-los-que-se-deba-pagar-el-impuesto",
+    "term": "Actos o Actividades por los que se deba pagar el Impuesto",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-liva",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-liva:article:1",
+    "fraction": "III",
+    "start_char": 148,
+    "end_char": 336,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liva:term:disposiciones-que-establece-la-ley-en-materia-de-acreditamiento",
+    "term": "Disposiciones que establece la Ley en materia de acreditamiento",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-liva",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-liva:article:1",
+    "fraction": "IV",
+    "start_char": 336,
+    "end_char": 515,
+    "basis": "express_definition"
+  }
+]

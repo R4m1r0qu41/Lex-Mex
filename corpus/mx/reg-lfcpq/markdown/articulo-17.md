@@ -17,4 +17,4 @@ source_sha256: 3c0720d560455df51ca882a37390cd0fe017d1987853b8358e37d5195f718055
 
 # Artículo 17
 
-Las dependencias competentes podrán intercambiar información con las autoridades correspondientes de otros países, en el ámbito de cooperación internacional y de acuerdo con los tratados internacionales relativos al objeto de la Ley.
+Las dependencias competentes podrán intercambiar información con las autoridades correspondientes de otros países, en el ámbito de cooperación internacional y de acuerdo con los tratados internacionales relativos al objeto de la [Ley](articulo-2.md).

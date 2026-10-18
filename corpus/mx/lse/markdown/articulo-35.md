@@ -17,4 +17,4 @@ source_sha256: aa96853f010885bdf85160e944e5c0ef5c3c8e95422dfede280d228cf064310a
 
 # Artículo 35
 
-Se considera generación para el mercado eléctrico a la producción de energía eléctrica y Productos asociados de una Central Eléctrica con capacidad igual o mayor a 0.7 MW que es destinada para su comercialización a través de los mecanismos contemplados en el Mercado Eléctrico Mayorista, en los términos establecidos en esta Ley.
+Se considera generación para el mercado eléctrico a la producción de energía eléctrica y Productos asociados de una [Central Eléctrica](articulo-3.md) con capacidad igual o mayor a 0.7 MW que es destinada para su comercialización a través de los mecanismos contemplados en el [Mercado Eléctrico Mayorista](articulo-3.md), en los términos establecidos en esta Ley.

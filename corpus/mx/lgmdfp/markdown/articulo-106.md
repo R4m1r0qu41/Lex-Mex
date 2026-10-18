@@ -17,7 +17,7 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 106
 
-El Registro Nacional debe contener los siguientes campos:
+El [Registro Nacional](articulo-4.md) debe contener los siguientes campos:
 
 I. En relación con la persona que reporta la desaparición o no localización, salvo que sea anónima: a) Nombre completo;
 
@@ -25,7 +25,7 @@ b) Sexo;
 
 c) Edad;
 
-d) Relación con la Persona Desaparecida;
+d) Relación con la [Persona Desaparecida](articulo-4.md);
 
 e) Clave Única de Registro de Población o cualquier documento de identificación oficial;
 
@@ -65,7 +65,7 @@ n) Historia clínica, dental, cirugías, y demás datos que permitan su identifi
 
 o) Estatus migratorio;
 
-p) Relación de personas que podrían aportar muestras biológicas útiles; q) Información sobre toma de muestras biológicas a Familiares y perfiles genéticos que se encuentren en el Banco Nacional de Datos Forenses;
+p) Relación de personas que podrían aportar muestras biológicas útiles; q) Información sobre toma de muestras biológicas a [Familiares](articulo-4.md) y perfiles genéticos que se encuentren en el [Banco Nacional de Datos Forenses](articulo-4.md);
 
 r) Existencia de muestras biológicas útiles de la Persona en el Banco Nacional de Datos Forenses o cualquier otro banco o registro, y
 
@@ -73,7 +73,7 @@ s) Teléfonos, redes sociales y otros mecanismos digitales que permitan dar con 
 
 III. Los hechos relacionados con la desaparición o no localización, así como si existen elementos para suponer que está relacionada con la comisión de un delito;
 
-IV. El nombre del servidor público que recibió el Reporte, Denuncia o Noticia;
+IV. El nombre del servidor público que recibió el [Reporte](articulo-4.md), Denuncia o [Noticia](articulo-4.md);
 
 V. El nombre del servidor público que ingresa la información al registro;
 

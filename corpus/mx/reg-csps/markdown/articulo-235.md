@@ -17,4 +17,4 @@ source_sha256: 70464807d63da08244e495f2ff0ac30b12b30119926b84cedc7930397fcb80ef
 
 # Artículo 235
 
-Los productos o materias primas que requieran de permiso sanitario previo de importación, y sean introducidos al país sin dicho permiso, se considerarán ilegalmente internados. La Secretaría aplicará las medidas de seguridad y sanciones correspondientes y pondrá en conocimiento de la autoridad competente este hecho.
+Los productos o materias primas que requieran de permiso sanitario previo de importación, y sean introducidos al país sin dicho permiso, se considerarán ilegalmente internados. La [Secretaría](articulo-2o.md) aplicará las medidas de seguridad y sanciones correspondientes y pondrá en conocimiento de la autoridad competente este hecho.

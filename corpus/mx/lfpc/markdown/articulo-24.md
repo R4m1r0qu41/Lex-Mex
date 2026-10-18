@@ -37,7 +37,7 @@ VIII. Promover y realizar directamente, en su caso, programas educativos y de ca
 
 IX. Promover nuevos o mejores sistemas y mecanismos que faciliten a los consumidores el acceso a bienes y servicios en mejores condiciones de mercado;
 
-IX bis.- Promover en coordinación con la Secretaría la formulación, difusión y uso de códigos de ética, por parte de proveedores, que incorporen los principios previstos por esta Ley respecto de las transacciones que celebren con consumidores a través del uso de medios electrónicos, ópticos o de cualquier otra tecnología; Fracción adicionada DOF 29-05-2000
+IX bis.- Promover en coordinación con la [Secretaría](articulo-2.md) la formulación, difusión y uso de códigos de ética, por parte de proveedores, que incorporen los principios previstos por esta Ley respecto de las transacciones que celebren con consumidores a través del uso de medios electrónicos, ópticos o de cualquier otra tecnología; Fracción adicionada DOF 29-05-2000
 
 IX Ter. Promover la coordinación entre las autoridades federales, estatales y municipales que corresponda, a fin de asegurar la protección efectiva al consumidor en contra de la información o publicidad engañosa o abusiva; Fracción adicionada DOF 15-12-2011 X. Actuar como perito y consultor en materia de calidad de bienes y servicios y elaborar estudios relativos;
 
@@ -63,7 +63,7 @@ XIX. Aplicar y ejecutar las sanciones y demás medidas establecidas en esta ley,
 
 XX. Requerir a los proveedores o a las autoridades competentes a que tomen medidas adecuadas para combatir, detener, modificar o evitar todo género de prácticas que lesionen los intereses de los consumidores, y cuando lo considere pertinente publicar dicho requerimiento; Fracción reformada DOF 04-02-2004
 
-XX Bis. En el caso de que en ejercicio de sus atribuciones identifique aumentos de precios, restricciones en la cantidad ofrecida o divisiones de mercados de bienes o servicios derivados de posibles prácticas monopólicas en términos de lo dispuesto por la Ley Federal de Competencia Económica, la Procuraduría, en representación de los consumidores, podrá presentar ante la Comisión Federal de Competencia Económica la denuncia que corresponda; Fracción adicionada DOF 28-01-2011. Reformada DOF 11-01-2018
+XX Bis. En el caso de que en ejercicio de sus atribuciones identifique aumentos de precios, restricciones en la cantidad ofrecida o divisiones de mercados de bienes o servicios derivados de posibles prácticas monopólicas en términos de lo dispuesto por la Ley Federal de Competencia Económica, la [Procuraduría](articulo-2.md), en representación de los consumidores, podrá presentar ante la Comisión Federal de Competencia Económica la denuncia que corresponda; Fracción adicionada DOF 28-01-2011. Reformada DOF 11-01-2018
 
 XXI. Ordenar se informe a los consumidores sobre las acciones u omisiones de los proveedores que afecten sus intereses o derechos, así como la forma en que los proveedores los retribuirán o compensarán; Fracción reformada DOF 04-02-2004, 10-06-2009, 19-08-2010
 

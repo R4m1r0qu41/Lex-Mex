@@ -17,7 +17,7 @@ source_sha256: b3c906475b455176de73da17f4f93a73f295965dc9bcca854b48417c7d4d3cfc
 
 # Artículo 117
 
-En caso de liberaciones accidentales de OGMs que se verifiquen en el territorio nacional, y que pudieran tener efectos adversos significativos a la diversidad biológica o a la salud humana de otro país, la Secretaría competente notificará tal situación a la autoridad correspondiente del país que pudiera resultar afectado por dicha liberación. Dicha notificación deberá incluir:
+En caso de liberaciones accidentales de OGMs que se verifiquen en el territorio nacional, y que pudieran tener efectos adversos significativos a la diversidad biológica o a la salud humana de otro país, la [Secretaría](articulo-3.md) competente notificará tal situación a la autoridad correspondiente del país que pudiera resultar afectado por dicha liberación. Dicha notificación deberá incluir:
 
 I. Información sobre las cantidades estimadas y las características y/o rasgos importantes del OGM; II. Información sobre las circunstancias y la fecha estimada de la liberación accidental, así como el uso que tiene el OGM en el territorio nacional;
 

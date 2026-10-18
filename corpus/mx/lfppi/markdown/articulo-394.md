@@ -17,6 +17,6 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 394
 
-La persona que obstaculice o impida, por sí o por interpósita persona, el procedimiento administrativo de ejecución que ordene el Instituto será acreedora a las sanciones previstas en las fracciones I o III del artículo [388](articulo-388.md) de esta Ley.
+La persona que obstaculice o impida, por sí o por interpósita persona, el procedimiento administrativo de ejecución que ordene el [Instituto](articulo-4.md) será acreedora a las sanciones previstas en las fracciones I o III del artículo [388](articulo-388.md) de esta [Ley](articulo-4.md).
 
 Artículo reformado DOF 03-04-2026

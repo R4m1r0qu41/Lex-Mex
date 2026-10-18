@@ -17,7 +17,7 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 87 BIS
 
-El aprovechamiento de especies de flora y fauna silvestre, así como de otros recurso biológicos con fines de utilización en la biotecnología requiere de autorización de la Secretaría.
+El aprovechamiento de especies de flora y fauna silvestre, así como de otros recurso biológicos con fines de utilización en la biotecnología requiere de autorización de la [Secretaría](articulo-3o.md).
 
 La autorización a que se refiere este artículo sólo podrá otorgarse si se cuenta con el consentimiento previo, expreso e informado, del propietario o legítimo poseedor del predio en el que el recurso biológico se encuentre.
 

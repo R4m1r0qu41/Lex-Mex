@@ -17,6 +17,6 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 171
 
-La Fiscalía, así como las Fiscalías Locales y las instituciones de seguridad pública deben brindar formación continua, así como certificar a su personal en las competencias y habilidades necesarias para dar cumplimiento a lo previsto en la presente Ley.
+La [Fiscalía](articulo-4.md), así como las [Fiscalías Locales](articulo-4.md) y las instituciones de seguridad pública deben brindar formación continua, así como certificar a su personal en las competencias y habilidades necesarias para dar cumplimiento a lo previsto en la presente Ley.
 
 Artículo reformado DOF 20-05-2021, 16-07-2025

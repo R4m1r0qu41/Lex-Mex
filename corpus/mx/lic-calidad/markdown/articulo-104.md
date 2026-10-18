@@ -17,4 +17,4 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 104
 
-El Centro Nacional de Metrología es un organismo descentralizado con personalidad jurídica y patrimonio propio, sectorizado a la Secretaría, con el objetivo de llevar a cabo investigación científica y desarrollo tecnológico en metrología y sus aplicaciones, para contribuir al bienestar de la sociedad y al desarrollo económico incluyente.
+El Centro Nacional de Metrología es un organismo descentralizado con personalidad jurídica y patrimonio propio, sectorizado a la [Secretaría](articulo-4.md), con el objetivo de llevar a cabo investigación científica y desarrollo tecnológico en metrología y sus aplicaciones, para contribuir al bienestar de la sociedad y al desarrollo económico incluyente.

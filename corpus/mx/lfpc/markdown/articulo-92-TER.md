@@ -21,6 +21,6 @@ La bonificación a que se refieren los artículos [92](articulo-92.md) y [92 Bis
 
 Para la determinación del pago de daños y perjuicios la autoridad judicial considerará el pago de la bonificación que en su caso hubiese hecho el proveedor.
 
-La bonificación que corresponda tratándose del incumplimiento a que se refiere al artículo [92](articulo-92.md), fracción I, podrá hacerla efectiva el consumidor directamente al proveedor presentando su comprobante o recibo de pago del día en que se hubiere detectado la violación por la Procuraduría y no podrá ser menor al veinte por ciento del precio pagado.
+La bonificación que corresponda tratándose del incumplimiento a que se refiere al artículo [92](articulo-92.md), fracción I, podrá hacerla efectiva el consumidor directamente al proveedor presentando su comprobante o recibo de pago del día en que se hubiere detectado la violación por la [Procuraduría](articulo-2.md) y no podrá ser menor al veinte por ciento del precio pagado.
 
 Artículo adicionado DOF 04-02-2004. Reformado DOF 29-01-2009

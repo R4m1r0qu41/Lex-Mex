@@ -17,4 +17,4 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 28
 
-Las reuniones de cada Consejo Asesor serán conducidas por el Presidente Ejecutivo y el Secretario Técnico. Las resoluciones se tomarán por el voto de la mayoría de los miembros presentes. En caso de empate el Presidente Ejecutivo tendrá voto de calidad.
+Las reuniones de cada [Consejo](articulo-3o.md) Asesor serán conducidas por el Presidente Ejecutivo y el Secretario Técnico. Las resoluciones se tomarán por el voto de la mayoría de los miembros presentes. En caso de empate el Presidente Ejecutivo tendrá voto de calidad.

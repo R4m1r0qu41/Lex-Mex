@@ -17,7 +17,7 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 11
 
-La Federación, por conducto de la Secretaría, podrá suscribir convenios o acuerdos de coordinación, con el objeto de que los gobiernos de las entidades federativas, con la participación, en su caso, de sus Municipios o demarcación territorial de la Ciudad de México, asuman las siguientes facultades, en el ámbito de su jurisdicción territorial: Párrafo reformado DOF 19-01-2018 I. La administración y vigilancia de las áreas naturales protegidas de competencia de la Federación, conforme a lo establecido en el programa de manejo respectivo y demás disposiciones del presente ordenamiento;
+La Federación, por conducto de la [Secretaría](articulo-3o.md), podrá suscribir convenios o acuerdos de coordinación, con el objeto de que los gobiernos de las entidades federativas, con la participación, en su caso, de sus Municipios o demarcación territorial de la Ciudad de México, asuman las siguientes facultades, en el ámbito de su jurisdicción territorial: Párrafo reformado DOF 19-01-2018 I. La administración y vigilancia de las áreas naturales protegidas de competencia de la Federación, conforme a lo establecido en el programa de manejo respectivo y demás disposiciones del presente ordenamiento;
 
 II. El control de los residuos peligrosos considerados de baja peligrosidad conforme a las disposiciones del presente ordenamiento;
 

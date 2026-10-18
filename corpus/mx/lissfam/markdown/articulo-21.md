@@ -17,7 +17,7 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 21
 
-Retiro es la facultad que tiene el Estado y que ejerce por conducto de las Secretarías de la Defensa Nacional y de Marina para separar del activo a los militares al ocurrir alguna de las causales previstas en esta Ley.
+Retiro es la facultad que tiene el Estado y que ejerce por conducto de las Secretarías de la Defensa Nacional y de Marina para separar del activo a los militares al ocurrir alguna de las causales previstas en esta [Ley](articulo-4o.md).
 
 Situación de retiro es aquella en que son colocados, mediante órdenes expresas, los militares con la suma de derechos y obligaciones que fija esta Ley, al ejercer el Estado la facultad que señala el párrafo anterior. Los militares con licencia ilimitada para ser retirados deberán presentar su solicitud ante las Secretarías de la Defensa Nacional o de Marina, en su caso.
 

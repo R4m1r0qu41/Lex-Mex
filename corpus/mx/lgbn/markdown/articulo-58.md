@@ -17,7 +17,7 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # Artículo 58
 
-En los casos de las concesiones, permisos o autorizaciones que competa otorgar a las dependencias, en las que se establezca que a su término pasarán al dominio de la Federación los inmuebles afectos a dichos actos, corresponderá a la Secretaría lo siguiente: I.- Inscribir en el Registro Público de la Propiedad Federal la concesión, permiso o autorización, así como gestionar ante el Registro Público de la Propiedad que corresponda a la ubicación del inmueble, la inscripción de los mismos y las anotaciones marginales necesarias;
+En los casos de las concesiones, permisos o autorizaciones que competa otorgar a las dependencias, en las que se establezca que a su término pasarán al dominio de la [Federación](articulo-2.md) los inmuebles afectos a dichos actos, corresponderá a la [Secretaría](articulo-2.md) lo siguiente: I.- Inscribir en el Registro Público de la Propiedad Federal la concesión, permiso o autorización, así como gestionar ante el Registro Público de la Propiedad que corresponda a la ubicación del inmueble, la inscripción de los mismos y las anotaciones marginales necesarias;
 
 II.- Autorizar al titular de la concesión, permiso o autorización, previa opinión favorable de la dependencia otorgante, la enajenación parcial de los inmuebles, cuando ello sea procedente. En este caso, el plazo de vigencia de las concesiones, permisos o autorizaciones respectivas, se deberá reducir en proporción al valor de los inmuebles cuya enajenación parcial se autorice;
 

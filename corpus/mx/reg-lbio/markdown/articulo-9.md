@@ -17,4 +17,4 @@ source_sha256: 7df3d678efda2306b68d3c0f5ca0e3e92b9066d5f773128f4ae19cb26bf44fff
 
 # Artículo 9
 
-Con el fin de coadyuvar al desarrollo y Aprovechamiento sustentable de los Biocombustibles, las dependencias y entidades de la Administración Pública Federal, y los gobiernos de las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México pueden coordinarse y celebrar convenios con otros entes públicos y privados, y establecer mecanismos de colaboración, en los términos de la normatividad que resulte aplicable.
+Con el fin de coadyuvar al desarrollo y [Aprovechamiento](articulo-3.md) sustentable de los Biocombustibles, las dependencias y entidades de la Administración Pública Federal, y los gobiernos de las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México pueden coordinarse y celebrar convenios con otros entes públicos y privados, y establecer mecanismos de colaboración, en los términos de la normatividad que resulte aplicable.

@@ -17,4 +17,4 @@ source_sha256: b19bcf104673af06117a6d4f3c947591f7a65999f19bad3dcfe2599a29bb3ab0
 
 # Artículo 29
 
-Dado el carácter público del recurso hídrico, la explotación, uso o aprovechamiento de las Aguas Geotérmicas debe realizarse mediante concesión de agua otorgada por la CONAGUA, de conformidad con lo establecido en las disposiciones previstas en la legislación y normatividad aplicable en materia ambiental e hídrica y, Normas Oficiales Mexicanas aplicables.
+Dado el carácter público del recurso hídrico, la explotación, uso o aprovechamiento de las Aguas Geotérmicas debe realizarse mediante concesión de agua otorgada por la [CONAGUA](articulo-3.md), de conformidad con lo establecido en las disposiciones previstas en la legislación y normatividad aplicable en materia ambiental e hídrica y, Normas Oficiales Mexicanas aplicables.

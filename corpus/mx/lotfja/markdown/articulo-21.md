@@ -17,4 +17,4 @@ source_sha256: b32c33fa4ed071dc8bea1ad69ce8510cdb05016967e9e4fcb60f10c6f2216628
 
 # Artículo 21
 
-La Junta de Gobierno y Administración será el órgano del Tribunal que tendrá a su cargo la administración, vigilancia, disciplina y carrera jurisdiccional, y contará con autonomía técnica y de gestión para el adecuado cumplimiento de sus funciones.
+La [Junta](articulo-2.md) de Gobierno y Administración será el órgano del [Tribunal](articulo-2.md) que tendrá a su cargo la administración, vigilancia, disciplina y carrera jurisdiccional, y contará con autonomía técnica y de gestión para el adecuado cumplimiento de sus funciones.

@@ -15,7 +15,7 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 # Artículo 94
 
-En cada aeródromo la Secretaría determinará, conforme a las normas básicas de seguridad que emita, el número de aterrizajes y despegues que pueden ser atendidos en cada hora, para lo cual considerará la capacidad de operación del aeródromo, criterios de seguridad y eficiencia de acuerdo con la capacidad de las aeronaves y su programación de vuelos, así como las recomendaciones del comité de operación y horarios. En todo momento se deberán respetar las limitaciones del espacio aéreo que determine el prestador de los servicios a la navegación aérea.
+En cada aeródromo la [Secretaría](articulo-2.md) determinará, conforme a las normas básicas de seguridad que emita, el número de aterrizajes y despegues que pueden ser atendidos en cada hora, para lo cual considerará la capacidad de operación del aeródromo, criterios de seguridad y eficiencia de acuerdo con la capacidad de las aeronaves y su programación de vuelos, así como las recomendaciones del comité de operación y horarios. En todo momento se deberán respetar las limitaciones del espacio aéreo que determine el prestador de los servicios a la navegación aérea.
 
 La información relativa al número de aterrizajes y despegues que pueden ser atendidos en cada hora y la motivación correspondiente, así como los horarios asignados en los términos de este capítulo deben estar a disposición del público en las oficinas de la administradora aeroportuaria. Párrafo reformado DOF 29-08-2025
 

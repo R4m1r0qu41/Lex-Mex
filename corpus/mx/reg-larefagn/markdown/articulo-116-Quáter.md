@@ -19,7 +19,7 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 El procedimiento para la revisión y análisis de la documentación relativa a las ediciones bibliográficas y la resolución sobre la procedencia del otorgamiento de la Condecoración al Mérito Técnico de tercera clase, es el siguiente:
 
-I. La Secretaría, por conducto del Estado Mayor, designará una Comisión integrada por personal militar especialista, la que revisará y analizará cada edición bibliográfica, siendo responsabilidad de la Comisión verificar que se cumplan los requisitos exigidos al efecto, estudiar a detalle cada antecedente y de considerarlo procedente entrevistar a la persona autora de la edición bibliográfica, para que la resolución que emita sobre la procedencia del otorgamiento de la Condecoración, sea imparcial y esté debidamente fundamentada y motivada;
+I. La Secretaría, por conducto del [Estado Mayor](articulo-5.md), designará una Comisión integrada por personal militar especialista, la que revisará y analizará cada edición bibliográfica, siendo responsabilidad de la Comisión verificar que se cumplan los requisitos exigidos al efecto, estudiar a detalle cada antecedente y de considerarlo procedente entrevistar a la persona autora de la edición bibliográfica, para que la resolución que emita sobre la procedencia del otorgamiento de la Condecoración, sea imparcial y esté debidamente fundamentada y motivada;
 
 II. La Comisión verificará que las ediciones bibliográficas que se presenten sean originales y que no hayan participado con anterioridad en alguna convocatoria para recibir premios en ámbitos diferentes al militar;
 

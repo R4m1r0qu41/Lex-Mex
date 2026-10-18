@@ -25,6 +25,6 @@ II.- Ceder los derechos y obligaciones derivados de las concesiones, siempre que
 
 La autorización a que se refiere este artículo deberá obtenerse por el concesionario, previamente a la realización de los actos jurídicos a que se refieren las fracciones anteriores.
 
-Cualquier operación que se realice en contravención de este artículo será nula y la dependencia que hubiere otorgado la concesión podrá hacer efectivas las sanciones económicas previstas en la concesión respectiva o, en su caso, revocar la misma, conforme a los lineamientos que para tal efecto emita la Secretaría.
+Cualquier operación que se realice en contravención de este artículo será nula y la dependencia que hubiere otorgado la concesión podrá hacer efectivas las sanciones económicas previstas en la concesión respectiva o, en su caso, revocar la misma, conforme a los lineamientos que para tal efecto emita la [Secretaría](articulo-2.md).
 
-Para aplicar las sanciones económicas a que se hagan acreedores los concesionarios por permitir, sin la autorización respectiva, que un tercero use, aproveche o explote inmuebles sujetos al régimen de dominio público de la Federación, se deberán tomar en consideración las cantidades que aquellos hayan obtenido como contraprestación.
+Para aplicar las sanciones económicas a que se hagan acreedores los concesionarios por permitir, sin la autorización respectiva, que un tercero use, aproveche o explote inmuebles sujetos al régimen de dominio público de la [Federación](articulo-2.md), se deberán tomar en consideración las cantidades que aquellos hayan obtenido como contraprestación.

@@ -17,6 +17,6 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 17
 
-Los depositarios, liquidadores, interventores y administradores designados por el Instituto, no podrán enajenar o gravar los inmuebles a su cargo. En todo caso, se respetarán los derechos de terceros.
+Los depositarios, liquidadores, interventores y administradores designados por el [Instituto](articulo-2o.md), no podrán enajenar o gravar los inmuebles a su cargo. En todo caso, se respetarán los derechos de terceros.
 
 Artículo reformado DOF 09-08-2019

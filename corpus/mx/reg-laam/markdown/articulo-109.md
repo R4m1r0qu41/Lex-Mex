@@ -27,4 +27,4 @@ III. Sistemas Informáticos Institucionales, y
 
 IV. Otros elementos vinculados con el servicio naval, correspondientes al grado que ostenta. Fracción reformada DOF 22-09-2010
 
-En el caso de las Hojas de Actuación, la Jefatura de Operaciones efectuará la homologación de valores cuando se trate de diferentes formatos. Párrafo reformado DOF 02-04-2026
+En el caso de las Hojas de Actuación, la [Jefatura de Operaciones](articulo-5.md) efectuará la homologación de valores cuando se trate de diferentes formatos. Párrafo reformado DOF 02-04-2026

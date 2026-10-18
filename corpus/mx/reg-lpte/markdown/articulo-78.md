@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 78
 
-Los fondos a los que hace referencia el [artículo anterior](articulo-77.md) pueden integrar a su patrimonio donaciones o créditos de organismos financieros multilaterales, en los términos de la Ley de Presupuesto y Responsabilidad Hacendaria y su reglamento.
+Los fondos a los que hace referencia el [artículo anterior](articulo-77.md) pueden integrar a su patrimonio donaciones o créditos de organismos financieros multilaterales, en los términos de la [Ley](articulo-5.md) de Presupuesto y Responsabilidad Hacendaria y su reglamento.

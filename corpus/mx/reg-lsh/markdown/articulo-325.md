@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 325
 
-Los honorarios y gastos que se generen derivados de la intervención se deben cubrir con cargo a los ingresos de la persona Permisionaria conforme a la Normatividad que se emita para tal efecto.
+Los honorarios y gastos que se generen derivados de la intervención se deben cubrir con cargo a los ingresos de la persona Permisionaria conforme a la [Normatividad](articulo-3.md) que se emita para tal efecto.

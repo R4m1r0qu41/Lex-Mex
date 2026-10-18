@@ -17,13 +17,13 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 104
 
-Cuando para la realización de los trabajos periciales, los peritos mineros, requieran de información que obre en los archivos o en los expedientes de la Secretaría, se deberán observar los siguientes lineamientos:
+Cuando para la realización de los trabajos periciales, los peritos mineros, requieran de información que obre en los archivos o en los expedientes de la [Secretaría](articulo-1o.md), se deberán observar los siguientes lineamientos:
 
-I. Se presentará solicitud por escrito a la Secretaría, en la cual se deberá precisar la información o dato que se requiere y, en su caso, el número de los expedientes involucrados, tanto los relativos a solicitudes de concesión o asignación minera en trámite o desaprobados como de títulos vigentes o caducos, así como sobre la consulta que se requiera sobre el Registro o la parte relativa a la cartografía minera, en días y horas hábiles, excepto cuando la Secretaría esté incorporando nueva información a dicha cartografía;
+I. Se presentará solicitud por escrito a la Secretaría, en la cual se deberá precisar la información o dato que se requiere y, en su caso, el número de los expedientes involucrados, tanto los relativos a solicitudes de concesión o asignación minera en trámite o desaprobados como de títulos vigentes o caducos, así como sobre la consulta que se requiera sobre el [Registro](articulo-1o.md) o la parte relativa a la cartografía minera, en días y horas hábiles, excepto cuando la Secretaría esté incorporando nueva información a dicha cartografía;
 
 II. En ningún caso se podrán sustraer los expedientes de las oficinas de las unidades administrativas competentes de la Secretaría, y para su consulta se requerirá la previa suscripción y entrega de las cédulas de préstamo correspondientes, por parte de los interesados;
 
-III. Para efectos del préstamo de expedientes de solicitudes de concesión o asignación minera, los peritos mineros deberán tener en cuenta el estado que guarde el trámite, de acuerdo con lo dispuesto por este Reglamento y el Manual, esto es, si se encuentra en las unidades administrativas foráneas de la Secretaría, en cuyo caso presentarán ante ellas las solicitudes de préstamo correspondiente, y
+III. Para efectos del préstamo de expedientes de solicitudes de concesión o asignación minera, los peritos mineros deberán tener en cuenta el estado que guarde el trámite, de acuerdo con lo dispuesto por este Reglamento y el [Manual](articulo-1o.md), esto es, si se encuentra en las unidades administrativas foráneas de la Secretaría, en cuyo caso presentarán ante ellas las solicitudes de préstamo correspondiente, y
 
 IV. A partir de la recepción de la solicitud, la Secretaría contará con un plazo de tres días hábiles para proceder a su admisión.
 

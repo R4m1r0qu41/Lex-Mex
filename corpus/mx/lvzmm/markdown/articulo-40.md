@@ -17,6 +17,6 @@ source_sha256: d9ffbbf8f19b54a93ff577abb1266e4be1316d935e79fad655242955fd80ff70
 
 # Artículo 40
 
-La Secretaría queda facultada para requerir la información que sea necesaria que le permita ubicar tuberías, instalaciones, estructuras o construcciones submarinas que por su naturaleza y que por las condiciones en que se encuentran, pudiesen ocasionar vertimientos.
+La [Secretaría](articulo-2.md) queda facultada para requerir la información que sea necesaria que le permita ubicar tuberías, instalaciones, estructuras o construcciones submarinas que por su naturaleza y que por las condiciones en que se encuentran, pudiesen ocasionar vertimientos.
 
 La información que le sea proporcionada tendrá el carácter que conforme a la normatividad vigente le corresponda.

@@ -1,1 +1,101 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgn:term:profesionalizacion-y-capacitacion",
+    "term": "Profesionalización y capacitación",
+    "instrument_id": "urn:lex-mx:federal:statute:lgn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgn:article:2",
+    "fraction": "I",
+    "start_char": 75,
+    "end_char": 167,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgn:term:comandante",
+    "term": "Comandante",
+    "instrument_id": "urn:lex-mx:federal:statute:lgn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgn:article:2",
+    "fraction": "II",
+    "start_char": 167,
+    "end_char": 241,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgn:term:instituciones-de-seguridad-publica",
+    "term": "Instituciones de seguridad pública",
+    "instrument_id": "urn:lex-mx:federal:statute:lgn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgn:article:2",
+    "fraction": "III",
+    "start_char": 241,
+    "end_char": 389,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgn:term:integrante-de-la-guardia-nacional",
+    "term": "Integrante de la Guardia Nacional",
+    "instrument_id": "urn:lex-mx:federal:statute:lgn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgn:article:2",
+    "fraction": "IV",
+    "start_char": 389,
+    "end_char": 500,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgn:term:ministerio-publico",
+    "term": "Ministerio Público",
+    "instrument_id": "urn:lex-mx:federal:statute:lgn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgn:article:2",
+    "fraction": "V",
+    "start_char": 500,
+    "end_char": 560,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgn:term:reglamento",
+    "term": "Reglamento",
+    "instrument_id": "urn:lex-mx:federal:statute:lgn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgn:article:2",
+    "fraction": "VI",
+    "start_char": 560,
+    "end_char": 621,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgn:term:personal-de-confianza",
+    "term": "Personal de confianza",
+    "instrument_id": "urn:lex-mx:federal:statute:lgn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgn:article:2",
+    "fraction": "VII",
+    "start_char": 621,
+    "end_char": 1165,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgn:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lgn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgn:article:2",
+    "fraction": "VIII",
+    "start_char": 1165,
+    "end_char": 1220,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgn:term:secretario",
+    "term": "Secretario",
+    "instrument_id": "urn:lex-mx:federal:statute:lgn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgn:article:2",
+    "fraction": "IX",
+    "start_char": 1220,
+    "end_char": 1351,
+    "basis": "express_definition"
+  }
+]

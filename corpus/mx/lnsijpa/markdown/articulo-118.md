@@ -17,4 +17,4 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 118
 
-Del procedimiento Las etapas del procedimiento penal para adolescentes serán las que prevé el Código Nacional, el cual se regirá por las normas contenidas en esta Ley y supletoriamente por las del Código Nacional.
+Del procedimiento Las etapas del procedimiento penal para adolescentes serán las que prevé el [Código Nacional](articulo-3.md), el cual se regirá por las normas contenidas en esta [Ley](articulo-3.md) y supletoriamente por las del Código Nacional.

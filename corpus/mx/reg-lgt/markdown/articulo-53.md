@@ -17,4 +17,4 @@ source_sha256: 6680a58c98673518aee46582b3137d28987c275785d1f0c97295f0d89c4b692b
 
 # Artículo 53
 
-Los medios gráficos en los que conste la superficie, polígono y la delimitación georreferenciada de la Zona de Desarrollo Turístico Sustentable deberán publicarse en el Diario Oficial de la Federación, de manera conjunta con el Decreto que contenga la declaratoria correspondiente.
+Los medios gráficos en los que conste la superficie, polígono y la delimitación georreferenciada de la Zona de [Desarrollo Turístico](articulo-2.md) Sustentable deberán publicarse en el Diario Oficial de la Federación, de manera conjunta con el Decreto que contenga la declaratoria correspondiente.

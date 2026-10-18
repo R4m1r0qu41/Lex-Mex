@@ -19,7 +19,7 @@ source_sha256: 71ee875c26fc6a1024ea9481ca0690721959514689d860112c3093f0176dfcfb
 
 La Secretaría de Gobernación tendrá las siguientes atribuciones:
 
-I. Celebrar convenios de coordinación para fortalecer la operación del Sistema entre las dependencias y entidades de la Administración Pública Federal que lo conforman y los Mecanismos para el adelanto de las mujeres en las entidades federativas;
+I. Celebrar convenios de coordinación para fortalecer la operación del Sistema entre las dependencias y entidades de la Administración Pública Federal que lo conforman y los [Mecanismos para el adelanto de las mujeres](articulo-2.md) en las entidades federativas;
 
 II. Coordinar las acciones de promoción y defensa de los Derechos Humanos de las Mujeres que señala el Programa;
 
@@ -27,7 +27,7 @@ III. Dar seguimiento al Programa que elabore con el Sistema, independientemente 
 
 IV. Supervisar la operación del Sistema, a efecto de informar anualmente al Congreso de la Unión, de los avances del Programa;
 
-V. Difundir los resultados de la Política Nacional Integral, así como las declaratorias de alerta de violencia de género que se hayan emitido;
+V. Difundir los resultados de la [Política Nacional Integral](articulo-2.md), así como las declaratorias de alerta de violencia de género que se hayan emitido;
 
 VI. Vigilar que los medios de comunicación favorezcan la erradicación de la Violencia contra las Mujeres y sancionar a dichos medios que no cumplan con esta obligación en términos de la Ley;
 
@@ -37,7 +37,7 @@ IX. Diseñar y aplicar medidas de readaptación social con Perspectiva de Géner
 
 X. Celebrar instrumentos de coordinación con instituciones de salud para el tratamiento de sentenciados por delitos vinculados con Violencia contra las Mujeres;
 
-XI. Administrar y operar el Banco Nacional;
+XI. Administrar y operar el [Banco Nacional](articulo-2.md);
 
 XII. Emitir los lineamientos necesarios para determinar e integrar la información que contendrá el Banco Nacional;
 

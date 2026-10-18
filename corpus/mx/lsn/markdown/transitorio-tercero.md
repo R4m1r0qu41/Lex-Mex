@@ -15,4 +15,4 @@ source_sha256: 7b3cf7a0ff59f76503a97a535457c4a7dd3b1305e7a36f4fca82bd661eab1168
 
 # TERCERO
 
-El Consejo deberá quedar instalado y celebrar su primera reunión, durante los quince días siguientes al inicio de la vigencia de la presente Ley.
+El [Consejo](articulo-6.md) deberá quedar instalado y celebrar su primera reunión, durante los quince días siguientes al inicio de la vigencia de la presente Ley.

@@ -17,9 +17,9 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 107
 
-Los datos obtenidos inicialmente a través de la Denuncia, Reporte o Noticia deberán asentarse en el Registro Nacional de manera inmediata y actualizarse en tiempo real. Párrafo reformado DOF 16-07-2025
+Los datos obtenidos inicialmente a través de la Denuncia, [Reporte](articulo-4.md) o [Noticia](articulo-4.md) deberán asentarse en el [Registro Nacional](articulo-4.md) de manera inmediata y actualizarse en tiempo real. Párrafo reformado DOF 16-07-2025
 
-Los datos e información que no puedan ser asentados de forma inmediata o que por su naturaleza requieran de un procedimiento para su obtención previsto en los protocolos a que se refiere esta Ley, deberán ser recabados por personal debidamente capacitado. Asimismo, se deberán llevar a cabo una o más entrevistas con Familiares de la Persona Desaparecida o No Localizada, o con otras personas, de conformidad con el protocolo homologado que corresponda, con el fin de obtener la información detallada sobre la persona. Una vez que se recabe la información deberá incorporarse inmediatamente al Registro Nacional.
+Los datos e información que no puedan ser asentados de forma inmediata o que por su naturaleza requieran de un procedimiento para su obtención previsto en los protocolos a que se refiere esta Ley, deberán ser recabados por personal debidamente capacitado. Asimismo, se deberán llevar a cabo una o más entrevistas con [Familiares](articulo-4.md) de la [Persona Desaparecida](articulo-4.md) o No Localizada, o con otras personas, de conformidad con el protocolo homologado que corresponda, con el fin de obtener la información detallada sobre la persona. Una vez que se recabe la información deberá incorporarse inmediatamente al Registro Nacional.
 
 El personal que lleve a cabo las entrevistas para la obtención de datos forenses deberá ser capacitado en atención psicosocial.
 

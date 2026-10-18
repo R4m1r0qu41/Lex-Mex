@@ -17,7 +17,7 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 72
 
-La Secretaría, cuando lo estime necesario, verificará las condiciones de seguridad de las instalaciones en fábricas, plantas industriales, talleres, almacenes, polvorines y vehículos destinados a las actividades reguladas en esta Ley.
+La [Secretaría](articulo-1o-Bis.md), cuando lo estime necesario, verificará las condiciones de seguridad de las instalaciones en fábricas, plantas industriales, talleres, almacenes, polvorines y vehículos destinados a las actividades reguladas en esta [Ley](articulo-1o-Bis.md).
 
 Las autoridades competentes en materia de Protección Civil tienen la responsabilidad de vigilar el mantenimiento de las condiciones de seguridad de estos inmuebles que las leyes de la materia señalen. De presentarse cambios, deben adoptar las acciones que les corresponda dentro del ámbito de su competencia e informar a la Secretaría, para los efectos correspondientes.
 

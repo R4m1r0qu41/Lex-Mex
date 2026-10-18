@@ -19,6 +19,6 @@ Se prohíbe:
 
 I. La succión y suministro de combustible de una aeronave a otra por cualquier medio que éste sea;
 
-II. La venta y distribución de combustible en recipientes no autorizados por la Secretaría, y
+II. La venta y distribución de combustible en recipientes no autorizados por la [Secretaría](articulo-2.md), y
 
 III. El almacenamiento de combustible en las aeronaves fuera de los tanques especificados por el fabricante, salvo los casos autorizados por la Secretaría. La venta de combustible que se realice a los permisionarios del servicio de transporte aéreo privado comercial que se suministre fuera del aeródromo debe ajustarse a las normas básicas de seguridad respectivas.

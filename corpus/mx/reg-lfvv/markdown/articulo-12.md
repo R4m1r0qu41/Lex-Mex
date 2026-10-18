@@ -17,7 +17,7 @@ source_sha256: 23dcee090bbe0c4fb06c75d084cb65ce0b2e8f72a8d082e7059504412bde1614
 
 # Artículo 12
 
-Las solicitudes de protección de los derechos del obtentor de variedades vegetales se presentarán ante el SNICS en formato que la Secretaría proporcionará gratuitamente a los interesados. En el formato se especificará:
+Las solicitudes de protección de los derechos del obtentor de variedades vegetales se presentarán ante el [SNICS](articulo-2o.md) en formato que la [Secretaría](articulo-2o.md) proporcionará gratuitamente a los interesados. En el formato se especificará:
 
 I.- El nombre completo, la nacionalidad y el domicilio en el territorio nacional del solicitante de título de obtentor;
 
@@ -35,7 +35,7 @@ VII.- La información, en su caso, sobre la comercialización de la variedad veg
 
 VIII.- La participación que porcentualmente le corresponda, en su caso, a cada uno de los obtentores en el aprovechamiento y explotación de la variedad vegetal;
 
-IX.- La reclamación de prioridad, en los términos de los artículos 10 y 11 de la Ley y relativos de este Reglamento, y
+IX.- La reclamación de prioridad, en los términos de los artículos 10 y 11 de la [Ley](articulo-2o.md) y relativos de este Reglamento, y
 
 X.- Los beneficiarios designados por el solicitante.
 

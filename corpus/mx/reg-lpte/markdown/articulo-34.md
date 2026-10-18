@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 34
 
-Para la elaboración del PROSENER se deben tomar en cuenta los objetivos del PND a fin de desarrollar con mayor precisión las líneas de acción estratégicas, políticas y metas asociadas al Sector Energético.
+Para la elaboración del [PROSENER](articulo-5.md) se deben tomar en cuenta los objetivos del [PND](articulo-5.md) a fin de desarrollar con mayor precisión las líneas de acción estratégicas, políticas y metas asociadas al Sector Energético.

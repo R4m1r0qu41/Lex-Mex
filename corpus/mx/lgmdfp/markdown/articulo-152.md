@@ -17,6 +17,6 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 152
 
-La Federación y las Entidades Federativas, en el ámbito de sus respectivas competencias, son responsables de asegurar la reparación integral a las Víctimas por Desaparición Forzada de Personas cuando sean responsables sus servidores públicos o particulares bajo la autorización, consentimiento, apoyo, aquiescencia o respaldo de éstos.
+La Federación y las [Entidades Federativas](articulo-4.md), en el ámbito de sus respectivas competencias, son responsables de asegurar la reparación integral a las [Víctimas](articulo-4.md) por Desaparición Forzada de Personas cuando sean responsables sus servidores públicos o particulares bajo la autorización, consentimiento, apoyo, aquiescencia o respaldo de éstos.
 
 La Federación y las Entidades Federativas compensarán de forma subsidiaria el daño causado a las Víctimas de desaparición cometida por particulares en los términos establecidos en la Ley General de Víctimas.

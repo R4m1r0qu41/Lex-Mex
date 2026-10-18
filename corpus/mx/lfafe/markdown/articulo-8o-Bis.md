@@ -17,7 +17,7 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 8o Bis
 
-La Secretaría tiene la atribución de otorgar, negar, suspender o cancelar los permisos de adquisición y licencias de portación de armas automáticas calibre 7.62 mm o similares y superiores, al personal operativo de los organismos de seguridad pública federales y de las entidades federativas cuando se justifique plenamente la necesidad de emplear armamento de esa potencia y volumen de fuego. Para tales efectos, deben cumplirse los siguientes requisitos:
+La [Secretaría](articulo-1o-Bis.md) tiene la atribución de otorgar, negar, suspender o cancelar los permisos de adquisición y licencias de portación de armas automáticas calibre 7.62 mm o similares y superiores, al personal operativo de los organismos de seguridad pública federales y de las entidades federativas cuando se justifique plenamente la necesidad de emplear armamento de esa potencia y volumen de fuego. Para tales efectos, deben cumplirse los siguientes requisitos:
 
 I.- Solicitud de la persona titular de la dependencia federal o del Poder Ejecutivo de la entidad federativa;
 
@@ -25,7 +25,7 @@ II.- Opinión favorable del Secretariado Ejecutivo del Sistema Nacional de Segur
 
 III.- Suscripción de convenio de colaboración con la Secretaría para la capacitación y adiestramiento en el uso de las armas solicitadas;
 
-IV.- La evaluación y certificación establecida en la Ley General del Sistema Nacional de Seguridad Pública;
+IV.- La evaluación y certificación establecida en la [Ley](articulo-1o-Bis.md) General del Sistema Nacional de Seguridad Pública;
 
 V.- Certificado Único Policial vigente del personal operativo al que se asignará el armamento solicitado;
 

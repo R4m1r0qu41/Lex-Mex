@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgsc:term:organismos-cooperativos",
+    "term": "Organismos cooperativos",
+    "instrument_id": "urn:lex-mx:federal:statute:lgsc",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgsc:article:3",
+    "fraction": "I",
+    "start_char": 48,
+    "end_char": 165,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgsc:term:sistema-cooperativo",
+    "term": "Sistema Cooperativo",
+    "instrument_id": "urn:lex-mx:federal:statute:lgsc",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgsc:article:3",
+    "fraction": "II",
+    "start_char": 165,
+    "end_char": 367,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgsc:term:instituto",
+    "term": "Instituto",
+    "instrument_id": "urn:lex-mx:federal:statute:lgsc",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgsc:article:3",
+    "fraction": "III",
+    "start_char": 367,
+    "end_char": 462,
+    "basis": "express_definition"
+  }
+]

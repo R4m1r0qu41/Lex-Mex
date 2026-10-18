@@ -17,4 +17,4 @@ source_sha256: 67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35
 
 # Artículo 54
 
-En caso de la existencia de un evento de fuerza mayor o caso fortuito que impacte en el desarrollo de las actividades del Permiso de Exploración, Concesión, Permiso para Usos Diversos o Aprovechamientos Geotérmicos Exentos que corresponda, la persona titular debe dar aviso a la Secretaría, por escrito y en el término improrrogable de diez días hábiles contados a partir del inicio o acontecimiento del evento, el cual se ajusta al procedimiento establecido en el Reglamento.
+En caso de la existencia de un evento de fuerza mayor o caso fortuito que impacte en el desarrollo de las actividades del [Permiso de Exploración](articulo-2.md), [Concesión](articulo-2.md), [Permiso para Usos Diversos](articulo-2.md) o [Aprovechamientos Geotérmicos Exentos](articulo-2.md) que corresponda, la persona titular debe dar aviso a la [Secretaría](articulo-2.md), por escrito y en el término improrrogable de diez días hábiles contados a partir del inicio o acontecimiento del evento, el cual se ajusta al procedimiento establecido en el [Reglamento](articulo-2.md).

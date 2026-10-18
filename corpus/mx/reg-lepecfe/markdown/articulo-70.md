@@ -17,4 +17,4 @@ source_sha256: 9478163ef6ab468edc2be8def3bf84efedd03da5b6c166fba0430bfcb6d8467c
 
 # Artículo 70
 
-La propuesta global de financiamiento a que se refiere el artículo [111](../../lepecfe/markdown/articulo-111.md), fracción I de la Ley, debe entregarse a la Secretaría de Hacienda y Crédito Público a más tardar el quince de julio de cada año.
+La propuesta global de financiamiento a que se refiere el artículo [111](../../lepecfe/markdown/articulo-111.md), fracción I de la [Ley](articulo-2.md), debe entregarse a la Secretaría de Hacienda y Crédito Público a más tardar el quince de julio de cada año.

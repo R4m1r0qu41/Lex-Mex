@@ -17,13 +17,13 @@ source_sha256: d8dd1de3627b899bb4faf31c2812c3d5f14f7108be153d5aa8dd549b9136184a
 
 # Artículo 26
 
-El Consejo Nacional es un órgano gubernamental consultivo en materia de protección civil. Sus atribuciones son las siguientes:
+El [Consejo Nacional](articulo-2.md) es un órgano gubernamental consultivo en materia de protección civil. Sus atribuciones son las siguientes:
 
-I. Proponer la aprobación del Programa Nacional de Protección Civil y vigilar el cumplimiento de sus objetivos y metas;
+I. Proponer la aprobación del [Programa Nacional](articulo-2.md) de [Protección Civil](articulo-2.md) y vigilar el cumplimiento de sus objetivos y metas;
 
 II. Proponer el establecimiento de los instrumentos y políticas públicas integrales, sistemáticas, continuas y evaluables, tendientes a cumplir los objetivos y fines de la protección civil;
 
-III. Proponer la emisión de acuerdos y resoluciones generales, para el funcionamiento del Sistema Nacional;
+III. Proponer la emisión de acuerdos y resoluciones generales, para el funcionamiento del [Sistema Nacional](articulo-2.md);
 
 IV. Fungir como órgano de consulta y de coordinación de acciones del gobierno federal y de las entidades federativas para convocar, concertar, inducir e integrar las actividades de los diversos participantes e interesados en la materia, a fin de garantizar la consecución del objetivo del Sistema Nacional;
 
@@ -33,7 +33,7 @@ VII. Fomentar la participación comprometida y corresponsable de todos los secto
 
 VIII. Convocar, coordinar y armonizar, con pleno respeto a sus respectivas soberanías, la participación de las entidades federativas y por conducto de éstas, de los municipios, las demarcaciones territoriales de la Ciudad de México y de los diversos grupos sociales locales organizados, en la definición y ejecución de las acciones que se convenga realizar en materia de protección civil; Fracción reformada DOF 19-01-2018
 
-IX. Proponer a la Secretaría de Relaciones Exteriores, los criterios para la celebración y el cumplimiento de los acuerdos internacionales en materia de protección civil;
+IX. Proponer a la [Secretaría](articulo-2.md) de Relaciones Exteriores, los criterios para la celebración y el cumplimiento de los acuerdos internacionales en materia de protección civil;
 
 X. Proponer el establecimiento de las modalidades de cooperación y auxilio internacionales en casos de desastres, de acuerdo con la Secretaría de Relaciones Exteriores y en los términos establecidos en el Reglamento;
 

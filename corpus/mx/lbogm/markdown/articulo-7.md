@@ -21,11 +21,11 @@ Las actividades, organismos y productos sujetos al ámbito de esta Ley, no reque
 
 Se exceptúa de lo dispuesto en el párrafo anterior:
 
-I. Las medidas que en materia de salubridad general corresponda adoptar a la Secretaría de Salud en los términos de la Ley General de Salud y sus reglamentos, salvo en lo relativo a la tramitación y expedición de autorizaciones que regula esta Ley;
+I. Las medidas que en materia de salubridad general corresponda adoptar a la [Secretaría](articulo-3.md) de Salud en los términos de la Ley General de Salud y sus reglamentos, salvo en lo relativo a la tramitación y expedición de autorizaciones que regula esta Ley;
 
 II. Las medidas que en materia de sanidad animal, vegetal y acuícola corresponda adoptar a la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, en los términos de la Ley Federal de Sanidad Animal, de la Ley Federal de Sanidad Vegetal, de la Ley de Pesca, de la Ley de Desarrollo Rural Sustentable, y de las demás disposiciones aplicables, y
 
-III. Las medidas que en materia ambiental corresponda adoptar a la Secretaría de Medio Ambiente y Recursos Naturales en los términos de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, de la Ley General de Vida Silvestre, de la Ley General de Desarrollo Forestal Sustentable y de otras leyes aplicables en dicha materia, salvo en lo relativo a:
+III. Las medidas que en materia ambiental corresponda adoptar a la Secretaría de [Medio Ambiente](articulo-3.md) y Recursos Naturales en los términos de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, de la Ley General de Vida Silvestre, de la Ley General de Desarrollo Forestal Sustentable y de otras leyes aplicables en dicha materia, salvo en lo relativo a:
 
 A) La evaluación del impacto ambiental y del estudio de riesgo regulados en la Sección V del Capítulo IV del Título Primero y en el Capítulo V del Título Cuarto, de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y
 

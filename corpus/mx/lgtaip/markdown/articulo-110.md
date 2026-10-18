@@ -17,4 +17,4 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 110
 
-Los lineamientos generales que emita el Sistema Nacional en materia de clasificación de la información reservada y confidencial y, para la elaboración de versiones públicas, serán de observancia obligatoria para los sujetos obligados.
+Los lineamientos generales que emita el [Sistema Nacional](articulo-3.md) en materia de clasificación de la información reservada y confidencial y, para la elaboración de versiones públicas, serán de observancia obligatoria para los sujetos obligados.

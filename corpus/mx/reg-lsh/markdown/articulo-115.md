@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 115
 
-La persona Usuaria Final que requiera almacenar Petrolíferos y Petroquímicos para su consumo en la realización de sus actividades industriales debe contar con un permiso de Almacenamiento con la modalidad de Usos Propios, en términos de la Normatividad aplicable. Dicho permiso no conlleva la autorización de suministrar Petrolíferos a vehículos automotores de terceras personas ni de vender dichos productos a Particulares.
+La persona Usuaria Final que requiera almacenar Petrolíferos y Petroquímicos para su consumo en la realización de sus actividades industriales debe contar con un permiso de Almacenamiento con la modalidad de [Usos Propios](articulo-3.md), en términos de la [Normatividad](articulo-3.md) aplicable. Dicho permiso no conlleva la autorización de suministrar Petrolíferos a vehículos automotores de terceras personas ni de vender dichos productos a Particulares.

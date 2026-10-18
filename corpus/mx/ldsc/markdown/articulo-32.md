@@ -17,4 +17,4 @@ source_sha256: 45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80
 
 # Artículo 32
 
-La Comisión podrá proponer a la Secretaría acciones de apoyo para la generación de variedades o progenies de café que coadyuven a la solución de problemas presentados por plagas y enfermedades y que mejoren la productividad y la calidad del café mexicano.
+La [Comisión](articulo-3.md) podrá proponer a la [Secretaría](articulo-3.md) acciones de apoyo para la generación de variedades o progenies de café que coadyuven a la solución de problemas presentados por plagas y enfermedades y que mejoren la productividad y la calidad del café mexicano.

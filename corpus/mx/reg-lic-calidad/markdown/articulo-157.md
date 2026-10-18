@@ -17,4 +17,4 @@ source_sha256: d23aedc9ffdb09b9202311f03023241da20445cb45aea855b37bfd9685768861
 
 # Artículo 157
 
-La Comisión, a través del Consejo Técnico es la encargada de la resolución de las controversias y demás cuestiones que surjan en el proceso de elaboración de los Estándares.
+La Comisión, a través del [Consejo Técnico](articulo-2.md) es la encargada de la resolución de las controversias y demás cuestiones que surjan en el proceso de elaboración de los Estándares.

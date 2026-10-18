@@ -19,7 +19,7 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 El Mecanismo elaborará al menos tres tipos de informes, de conformidad con los lineamientos aprobados por su Consejo:
 
-I. Informes de Supervisión: Informes exhaustivos elaborados tras la visita de supervisión a los centros de detención y centros e instituciones privadas de detención e interés público, que abordarán al menos las condiciones de la detención y su conformidad con estándares internacionales y la documentación de posibles actos de tortura o de tratos crueles, inhumanos o degradantes, contando con un enfoque diferencial y especializado. Los informes de supervisión concluirán con una serie de recomendaciones dirigidas al director del centro respectivo y al Servidor Público responsable de la supervisión de dicho centro;
+I. Informes de Supervisión: Informes exhaustivos elaborados tras la visita de supervisión a los centros de detención y centros e instituciones privadas de detención e interés público, que abordarán al menos las condiciones de la detención y su conformidad con estándares internacionales y la documentación de posibles actos de tortura o de tratos crueles, inhumanos o degradantes, contando con un enfoque diferencial y especializado. Los informes de supervisión concluirán con una serie de recomendaciones dirigidas al director del centro respectivo y al [Servidor Público](articulo-5.md) responsable de la supervisión de dicho centro;
 
 II. Informes de Seguimiento: Informes realizados tras visitas de seguimiento para la verificación del cumplimiento de las recomendaciones establecidas en los informes de supervisión; e
 

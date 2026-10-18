@@ -17,4 +17,4 @@ source_sha256: dfe63e9a5dca843a804e5d7878671e2899f2b088534d9ed9813e9878c20b12bd
 
 # Artículo 11
 
-La estructura orgánica, de dirección y funcionamiento de la Guardia Nacional será la que disponen esta Ley y su Reglamento.
+La estructura orgánica, de dirección y funcionamiento de la Guardia Nacional será la que disponen esta Ley y su [Reglamento](articulo-2.md).

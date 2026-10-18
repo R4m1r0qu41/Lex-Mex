@@ -17,4 +17,4 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 181
 
-Convenios Las Autoridades Administrativas de los órdenes local y federal podrán celebrar convenios con instancias privadas u organismos públicos especializados con la finalidad de garantizar que el adolescente cumpla la medida impuesta por el Órgano Jurisdiccional en pleno respeto de sus derechos humanos.
+Convenios Las [Autoridades Administrativas](articulo-3.md) de los órdenes local y federal podrán celebrar convenios con instancias privadas u organismos públicos especializados con la finalidad de garantizar que el adolescente cumpla la medida impuesta por el [Órgano Jurisdiccional](articulo-3.md) en pleno respeto de sus derechos humanos.

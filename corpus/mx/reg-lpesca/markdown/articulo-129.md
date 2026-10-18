@@ -17,7 +17,7 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # Artículo 129
 
-La Secretaría, de conformidad con las normas, podrá:
+La [Secretaría](articulo-2o.md), de conformidad con las normas, podrá:
 
 I. Expedir directamente, o a través de laboratorios acreditados y aprobados, certificados de sanidad de organismos acuáticos vivos y de las instalaciones acuícolas, cuando se solicite por los interesados, los cuales deberán realizar los actos establecidos en las normas aplicables;
 

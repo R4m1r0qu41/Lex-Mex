@@ -19,7 +19,7 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 La Planeación Institucional será realizada por las autoridades educativas militares, mediante el procedimiento que para tal efecto establezca la Secretaría, y deberá:
 
-I. Concebir las metas estratégicas del Sistema;
+I. Concebir las metas estratégicas del [Sistema](articulo-3.md);
 
 II. Determinar las líneas de acción para alcanzar los objetivos específicos, y
 

@@ -17,7 +17,7 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 38
 
-El Instituto, podrá vender los Bienes a través de los siguientes procedimientos: Párrafo reformado DOF 09-08-2019
+El [Instituto](articulo-2o.md), podrá vender los [Bienes](articulo-2o.md) a través de los siguientes procedimientos: Párrafo reformado DOF 09-08-2019
 
 I.- Licitación Pública;
 

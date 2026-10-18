@@ -19,7 +19,7 @@ source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 
 Estarán obligados a la formulación y ejecución de los planes de manejo, según corresponda:
 
-I. Los productores, importadores, exportadores y distribuidores de los productos que al desecharse se convierten en los residuos peligrosos a los que hacen referencia las fracciones I a XI del artículo [31](articulo-31.md) de esta Ley y los que se incluyan en las normas oficiales mexicanas correspondientes;
+I. Los productores, importadores, exportadores y distribuidores de los productos que al desecharse se convierten en los residuos peligrosos a los que hacen referencia las fracciones I a XI del artículo [31](articulo-31.md) de esta [Ley](articulo-5.md) y los que se incluyan en las normas oficiales mexicanas correspondientes;
 
 II. Los generadores de los residuos peligrosos a los que se refieren las fracciones XII a XV del artículo [31](articulo-31.md) y de aquellos que se incluyan en las normas oficiales mexicanas correspondientes; Fracción reformada DOF 19-03-2014
 

@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 104
 
-Corresponde a la Secretaría la elaboración de la metodología para la construcción de los escenarios del Sector Energético que son utilizados para la elaboración de la Estrategia, el PLATEASE, el PLADESE, el PLADESHi y el Balance Nacional de Energía.
+Corresponde a la [Secretaría](articulo-5.md) la elaboración de la metodología para la construcción de los escenarios del Sector Energético que son utilizados para la elaboración de la Estrategia, el PLATEASE, el PLADESE, el PLADESHi y el Balance Nacional de Energía.

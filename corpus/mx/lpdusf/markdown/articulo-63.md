@@ -17,7 +17,7 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 63
 
-La Comisión Nacional recibirá las reclamaciones de los Usuarios con base en las disposiciones de esta Ley. Dichas reclamaciones podrán presentarse ya sea por comparecencia del afectado, en forma escrita, o por cualquier otro medio idóneo, cumpliendo los siguientes requisitos:
+La [Comisión Nacional](articulo-2o.md) recibirá las reclamaciones de los [Usuarios](articulo-2o.md) con base en las disposiciones de esta Ley. Dichas reclamaciones podrán presentarse ya sea por comparecencia del afectado, en forma escrita, o por cualquier otro medio idóneo, cumpliendo los siguientes requisitos:
 
 I. Nombre y domicilio del reclamante;
 
@@ -25,7 +25,7 @@ II. Nombre y domicilio del representante o persona que promueve en su nombre, as
 
 III. Descripción del servicio que se reclama, y relación sucinta de los hechos que motivan la reclamación;
 
-IV. Nombre de la Institución Financiera contra la que se formula la reclamación. La Comisión Nacional podrá solicitar a la Secretaría y a las Comisiones Nacionales los datos necesarios para proceder a la identificación de la Institución Financiera, cuando la información proporcionada por el Usuario sea insuficiente, y Fracción reformada DOF 05-01-2000
+IV. Nombre de la [Institución Financiera](articulo-2o.md) contra la que se formula la reclamación. La Comisión Nacional podrá solicitar a la [Secretaría](articulo-2o.md) y a las Comisiones Nacionales los datos necesarios para proceder a la identificación de la Institución Financiera, cuando la información proporcionada por el Usuario sea insuficiente, y Fracción reformada DOF 05-01-2000
 
 V. Documentación que ampare la contratación del servicio que origina la reclamación. Fracción reformada DOF 05-01-2000, 12-05-2005
 

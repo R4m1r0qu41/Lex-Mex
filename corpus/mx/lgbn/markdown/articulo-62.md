@@ -17,7 +17,7 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # Artículo 62
 
-Para resolver sobre el destino de un inmueble federal, la Secretaría y la Secretaría de Medio Ambiente y Recursos Naturales, en el ámbito de sus respectivas competencias, deberán tomar en cuenta por lo menos:
+Para resolver sobre el destino de un inmueble federal, la [Secretaría](articulo-2.md) y la Secretaría de Medio Ambiente y Recursos Naturales, en el ámbito de sus respectivas competencias, deberán tomar en cuenta por lo menos:
 
 I.- Las características del bien;
 

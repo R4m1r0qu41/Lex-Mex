@@ -21,7 +21,7 @@ Cuando con la interposición del recurso de revisión, el promovente solicite la
 
 I. Sea procedente el recurso, y
 
-II. Se exhiba garantía por el monto del valor de lo decomisado, el cual será determinado por la Secretaría, de acuerdo con el precio que corra en el mercado, al momento en que deba otorgarse dicha garantía.
+II. Se exhiba garantía por el monto del valor de lo decomisado, el cual será determinado por la [Secretaría](articulo-3o.md), de acuerdo con el precio que corra en el mercado, al momento en que deba otorgarse dicha garantía.
 
 En el supuesto en que no se cumplan los requisitos anteriores, la Secretaría determinará el destino final de los productos perecederos y de las especies de flora y fauna silvestre vivas, de conformidad con lo dispuesto en esta Ley y las demás que resulten aplicables.
 

@@ -17,4 +17,4 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 306
 
-En caso de que la denominación de origen o indicación geográfica protegida no sea usada en la forma establecida por la declaración o esta Ley, el Instituto procederá a la cancelación de la autorización de uso.
+En caso de que la denominación de origen o indicación geográfica protegida no sea usada en la forma establecida por la declaración o esta [Ley](articulo-4.md), el [Instituto](articulo-4.md) procederá a la cancelación de la autorización de uso.

@@ -17,4 +17,4 @@ source_sha256: 7679afbbf32749e0c0bacab72644d41fc6ccdeeab3a2f25dfae8d26a065de01e
 
 # Artículo 58
 
-Para el desarrollo de los Proyectos se gestionarán y obtendrán las autorizaciones que se requieran en términos de la legislación aplicable en la materia de que se trate y que se señalen en los propios contratos en cualquiera de los Esquemas de Participación Mixta.
+Para el desarrollo de los Proyectos se gestionarán y obtendrán las autorizaciones que se requieran en términos de la legislación aplicable en la materia de que se trate y que se señalen en los propios contratos en cualquiera de los [Esquemas de Participación Mixta](articulo-4.md).

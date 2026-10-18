@@ -17,4 +17,4 @@ source_sha256: 45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80
 
 # Artículo 74
 
-La Secretaría podrá colaborar con el Comité Nacional Sistema Producto Café en el diseño de mecanismos voluntarios de certificación de origen del café mexicano, a fin de fortalecer su posicionamiento en los mercados internacionales. Dichos certificados serán de carácter informativo, no constituirán requisitos no arancelarios y deberán sujetarse a las disposiciones previstas por la Ley de Comercio Exterior, la Ley de Infraestructura de la Calidad y los tratados internacionales de los que el Estado mexicano sea parte.
+La [Secretaría](articulo-3.md) podrá colaborar con el Comité Nacional Sistema Producto Café en el diseño de mecanismos voluntarios de certificación de origen del café mexicano, a fin de fortalecer su posicionamiento en los mercados internacionales. Dichos certificados serán de carácter informativo, no constituirán requisitos no arancelarios y deberán sujetarse a las disposiciones previstas por la Ley de Comercio Exterior, la Ley de Infraestructura de la Calidad y los tratados internacionales de los que el Estado mexicano sea parte.

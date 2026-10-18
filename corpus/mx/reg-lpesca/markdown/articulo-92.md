@@ -17,7 +17,7 @@ source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 
 # Artículo 92
 
-El pescador deportivo sólo podrá utilizar caña o línea con anzuelo, con carnada o señuelo, sin perjuicio de que pueda disponer del número de repuestos que autorice la Secretaría.
+El pescador deportivo sólo podrá utilizar caña o línea con anzuelo, con carnada o señuelo, sin perjuicio de que pueda disponer del número de repuestos que autorice la [Secretaría](articulo-2o.md).
 
 La práctica de la pesca deportivo-recreativa subacuática, únicamente se permitirá buceando a pulmón, con arpón de liga o resorte.
 

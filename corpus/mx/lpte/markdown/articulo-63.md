@@ -17,4 +17,4 @@ source_sha256: c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41
 
 # Artículo 63
 
-El registro debe contener los asientos y anotaciones registrales relativos a los certificados inscritos conforme a los artículos [61](articulo-61.md) y [62](articulo-62.md) de esta Ley.
+El registro debe contener los asientos y anotaciones registrales relativos a los certificados inscritos conforme a los artículos [61](articulo-61.md) y [62](articulo-62.md) de esta [Ley](articulo-3.md).

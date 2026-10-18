@@ -17,7 +17,7 @@ source_sha256: 8d3d1a9b2d2dec12c65695cd5b87d60f76e2f3c64356f73ab6011d7dc40fbe37
 
 # Artículo 16
 
-La Secretaría coordinará a los Institutos Nacionales de Salud y demás organismos y órganos del sector salud, a fin de que se instrumenten y ejecuten las siguientes acciones:
+La [Secretaría](articulo-3.md) coordinará a los Institutos Nacionales de Salud y demás organismos y órganos del sector salud, a fin de que se instrumenten y ejecuten las siguientes acciones:
 
 I. Realizar estudios e investigaciones clínicas y científicas, epidemiológicas, experimentales de desarrollo tecnológico y básico en las áreas biomédicas y socio-médicas para el diagnóstico y tratamiento de las personas con la condición del espectro autista para procurar su habilitación;
 

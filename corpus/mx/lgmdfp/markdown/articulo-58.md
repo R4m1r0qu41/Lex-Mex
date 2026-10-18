@@ -17,7 +17,7 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 58
 
-La Comisión Nacional de Búsqueda y las Comisiones Locales de Búsqueda, para realizar sus actividades, deben contar como mínimo con:
+La [Comisión Nacional de Búsqueda](articulo-4.md) y las [Comisiones Locales de Búsqueda](articulo-4.md), para realizar sus actividades, deben contar como mínimo con:
 
 I. Grupo especializado de búsqueda, cuyas funciones se encuentran en el artículo [66](articulo-66.md) de esta Ley;
 

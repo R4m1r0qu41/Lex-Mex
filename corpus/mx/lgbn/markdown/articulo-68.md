@@ -17,7 +17,7 @@ source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 
 # Artículo 68
 
-En caso de que las instituciones destinatarias no requieran usar la totalidad del inmueble, lo dejen de utilizar o de necesitar o le den un uso distinto al autorizado, el responsable inmobiliario respectivo deberá poner el mismo a disposición de la Secretaría o de la Secretaría de Medio Ambiente y Recursos Naturales, según corresponda, con todas sus mejoras y accesiones sin que tengan derecho a compensación alguna, dentro de los cuatro meses siguientes a la fecha en que ya no sean útiles para su servicio.
+En caso de que las instituciones destinatarias no requieran usar la totalidad del inmueble, lo dejen de utilizar o de necesitar o le den un uso distinto al autorizado, el responsable inmobiliario respectivo deberá poner el mismo a disposición de la [Secretaría](articulo-2.md) o de la Secretaría de Medio Ambiente y Recursos Naturales, según corresponda, con todas sus mejoras y accesiones sin que tengan derecho a compensación alguna, dentro de los cuatro meses siguientes a la fecha en que ya no sean útiles para su servicio.
 
 En este supuesto, la institución destinataria respectiva proporcionará a la Secretaría o a la Secretaría de Medio Ambiente y Recursos Naturales, según corresponda, la información de que se disponga respecto del inmueble, conforme a los lineamientos que esas dependencias emitan. En todo caso, dicha información será la necesaria para determinar la situación física, jurídica y administrativa del bien.
 

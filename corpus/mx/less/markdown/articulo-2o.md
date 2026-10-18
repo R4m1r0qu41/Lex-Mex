@@ -19,6 +19,6 @@ source_sha256: 74f2c47c7a9282194b2972ec1366352d94f03042c6d0c7f10efde018cb9e3bfb
 
 La presente Ley tiene por objeto:
 
-I. Establecer mecanismos para fomentar el desarrollo, fortalecimiento y visibilidad de la Actividad Económica del Sector Social de la Economía, y Fracción reformada DOF 11-06-2013
+I. Establecer mecanismos para fomentar el desarrollo, fortalecimiento y visibilidad de la [Actividad Económica](articulo-5o.md) del [Sector](articulo-5o.md) Social de la Economía, y Fracción reformada DOF 11-06-2013
 
 II. Definir las reglas para la promoción, fomento y fortalecimiento del Sector Social de la Economía, como un sistema eficaz que contribuya al desarrollo social y económico del país, a la generación de fuentes de trabajo digno, al fortalecimiento de la democracia, a la equitativa distribución del ingreso y a la mayor generación de patrimonio social. Fracción reformada DOF 11-06-2013

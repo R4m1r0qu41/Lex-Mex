@@ -17,6 +17,6 @@ source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 
 # Artículo 61
 
-En el marco del Sistema Nacional de Información, el Consejo Nacional debe establecer y mantener en constante actualización Ecosistemas Nacionales Informáticos que permitan el análisis y ciencia de datos, así como la visualización de información generada en el marco de los Programas Nacionales Estratégicos a través de plataformas informáticas abiertas y accesibles a todas las personas. Asimismo, podrá establecer repositorios temáticos que alojen la información generada dentro de dichos Programas.
+En el marco del [Sistema Nacional de Información](articulo-4.md), el [Consejo Nacional](articulo-4.md) debe establecer y mantener en constante actualización [Ecosistemas Nacionales Informáticos](articulo-4.md) que permitan el análisis y ciencia de datos, así como la visualización de información generada en el marco de los [Programas Nacionales Estratégicos](articulo-4.md) a través de plataformas informáticas abiertas y accesibles a todas las personas. Asimismo, podrá establecer repositorios temáticos que alojen la información generada dentro de dichos Programas.
 
 El Consejo Nacional emitirá los lineamientos específicos para la creación y operación de los Ecosistemas Nacionales Informáticos.

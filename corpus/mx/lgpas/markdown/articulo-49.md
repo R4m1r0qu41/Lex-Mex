@@ -19,6 +19,6 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 Las concesiones a que se refiere esta Ley podrán tener una duración de cinco hasta veinte años para la pesca comercial, y de cincuenta para la acuacultura comercial. Con base en los planes de manejo pesqueros y de acuacultura sancionados y publicados, las concesiones podrán ser prorrogadas hasta por los plazos equivalentes a los concedidos originalmente.
 
-Para la pesca comercial el concesionario deberá entregar un informe al IMIPAS cada dos años, y con base en el dictamen emitido por el Instituto se podrá prorrogar la concesión. Párrafo reformado DOF 04-12-2023
+Para la pesca comercial el concesionario deberá entregar un informe al [IMIPAS](articulo-4o.md) cada dos años, y con base en el dictamen emitido por el Instituto se podrá prorrogar la concesión. Párrafo reformado DOF 04-12-2023
 
 Para la acuacultura comercial el concesionario deberá entregar un informe al IMIPAS cada cinco años, y con base en el dictamen emitido por el Instituto se podrá prorrogar la concesión. Párrafo reformado DOF 04-12-2023

@@ -17,7 +17,7 @@ source_sha256: 066103556290f57dca17504bd178aeb645dff97b3a5e05bf4925e9353204e064
 
 # Artículo 28
 
-La Comisión, además de las funciones conferidas en el artículo [14](../../lgappcea/markdown/articulo-14.md) de la Ley, tendrá las siguientes:
+La Comisión, además de las funciones conferidas en el artículo [14](../../lgappcea/markdown/articulo-14.md) de la [Ley](articulo-2.md), tendrá las siguientes:
 
 I. Aprobar sus reglas internas de operación;
 

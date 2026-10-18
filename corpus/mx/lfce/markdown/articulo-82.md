@@ -17,4 +17,4 @@ source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 
 # Artículo 82
 
-Quien haya presentado la denuncia que dio inicio a la investigación será coadyuvante de la Autoridad Investigadora en el procedimiento seguido en forma de juicio, en los términos que determine el estatuto orgánico.
+Quien haya presentado la denuncia que dio inicio a la investigación será coadyuvante de la [Autoridad Investigadora](articulo-3.md) en el procedimiento seguido en forma de juicio, en los términos que determine el estatuto orgánico.

@@ -17,4 +17,4 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 129
 
-Tanto en la compra de casas habitación con garantía hipotecaria, como en los préstamos hipotecarios, los militares deberán tomar un seguro de vida a favor del Instituto o del Banco, según el caso, a fin de que en caso de su fallecimiento queden liquidados los saldos insolutos del precio del inmueble o del monto del préstamo.
+Tanto en la compra de casas habitación con garantía hipotecaria, como en los préstamos hipotecarios, los militares deberán tomar un seguro de vida a favor del [Instituto](articulo-4o.md) o del Banco, según el caso, a fin de que en caso de su fallecimiento queden liquidados los saldos insolutos del precio del inmueble o del monto del préstamo.

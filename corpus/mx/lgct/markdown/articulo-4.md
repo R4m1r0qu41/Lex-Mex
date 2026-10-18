@@ -17,4 +17,4 @@ source_sha256: 9f964bc5c075d7cf47e5e9df7c2fbe262eb5bd1794de9b230dbd72026a51ae5e
 
 # Artículo 4
 
-La orientación, educación, prevención, producción, distribución, comercialización, importación, consumo, publicidad, promoción, patrocinio, muestreo, verificación y en su caso la aplicación de medidas de seguridad y sanciones relativas a los productos del tabaco serán reguladas bajo los términos establecidos en esta Ley.
+La orientación, educación, prevención, producción, distribución, comercialización, importación, consumo, publicidad, promoción, patrocinio, muestreo, verificación y en su caso la aplicación de medidas de seguridad y sanciones relativas a los productos del tabaco serán reguladas bajo los términos establecidos en esta [Ley](articulo-6.md).

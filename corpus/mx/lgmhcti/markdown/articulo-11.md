@@ -21,11 +21,11 @@ Son bases a partir de las cuales se formularán, ejecutarán y evaluarán las po
 
 I. El apoyo a las humanidades y a la investigación en ciencia básica y de frontera que contribuya al avance del conocimiento en todas las áreas y campos del saber científico, así como a aquélla orientada a diagnosticar, prospectar y proponer a las autoridades competentes acciones y medidas para la prevención, atención y solución de problemáticas nacionales;
 
-II. La definición democrática de la Agenda Nacional, para atender y afrontar las necesidades, problemáticas y retos contemporáneos de la sociedad mexicana, mediante la participación de la comunidad a nivel local, regional y nacional, así como al interior de las universidades, instituciones de educación superior y centros de investigación;
+II. La definición democrática de la [Agenda Nacional](articulo-4.md), para atender y afrontar las necesidades, problemáticas y retos contemporáneos de la sociedad mexicana, mediante la participación de la comunidad a nivel local, regional y nacional, así como al interior de las universidades, instituciones de educación superior y centros de investigación;
 
 III. El desarrollo y consolidación de las capacidades nacionales en la materia, incluyendo el apoyo para la formación especializada, técnica, profesional y de alto nivel de la comunidad, así como para el mantenimiento y el mejoramiento continuo de la infraestructura y los equipamientos indispensables para la investigación humanística y científica, el desarrollo tecnológico y la innovación, además de los mecanismos de colaboración pertinentes para su aprovechamiento eficiente;
 
-IV. La promoción de la participación democrática, informada y efectiva de la comunidad en los procesos de toma de decisión y evaluación en la materia a nivel local, regional y nacional, así como al interior de las universidades, instituciones de educación superior y centros de investigación del Sistema Nacional;
+IV. La promoción de la participación democrática, informada y efectiva de la comunidad en los procesos de toma de decisión y evaluación en la materia a nivel local, regional y nacional, así como al interior de las universidades, instituciones de educación superior y centros de investigación del [Sistema Nacional](articulo-4.md);
 
 V. La inserción laboral y el emprendimiento de las personas humanistas, científicas, tecnólogas e innovadoras en el Sistema Nacional, particularmente de las jóvenes, sin excluir a otros grupos etarios y con perspectiva de género;
 
@@ -47,7 +47,7 @@ XIII. La transición de un sistema energético basado en los combustibles fósil
 
 XIV. La descentralización de las actividades del sector, a través de la colaboración, cooperación y articulación entre los órdenes de gobierno, con la finalidad de coadyuvar a la consolidación de las capacidades locales en la materia, así como al desarrollo regional del país;
 
-XV. La distribución equitativa y proporcional de los recursos públicos destinados a apoyar la investigación, así como su uso óptimo y transparente, conforme a las disposiciones jurídicas aplicables y a los principios establecidos en la presente Ley;
+XV. La distribución equitativa y proporcional de los recursos públicos destinados a apoyar la investigación, así como su uso óptimo y transparente, conforme a las disposiciones jurídicas aplicables y a los principios establecidos en la presente [Ley](articulo-4.md);
 
 XVI. La independencia humanística, científica y tecnológica de México frente a actores y empresas del sector privado y organizaciones o Estados extranjeros, en un contexto global y regional que amplíe las redes de investigación a través del diálogo, intercambio y cooperación internacional;
 

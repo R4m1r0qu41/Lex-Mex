@@ -17,4 +17,4 @@ source_sha256: 23dcee090bbe0c4fb06c75d084cb65ce0b2e8f72a8d082e7059504412bde1614
 
 # Artículo 76
 
-La Secretaría hará uso de los medios legales necesarios, incluyendo el auxilio de la fuerza pública, para lograr la adopción de medidas provisionales, la ejecución de sanciones y la aplicación de las providencias de seguridad que procedan.
+La [Secretaría](articulo-2o.md) hará uso de los medios legales necesarios, incluyendo el auxilio de la fuerza pública, para lograr la adopción de medidas provisionales, la ejecución de sanciones y la aplicación de las providencias de seguridad que procedan.

@@ -17,7 +17,7 @@ source_sha256: 6680a58c98673518aee46582b3137d28987c275785d1f0c97295f0d89c4b692b
 
 # Artículo 51
 
-Los proyectos de Decreto que contengan las declaratorias de Zonas de Desarrollo Turístico Sustentable, antes de ser sometidos por la Secretaría a consideración del titular del Ejecutivo Federal, deberán reunir los siguientes requisitos:
+Los proyectos de Decreto que contengan las declaratorias de Zonas de [Desarrollo Turístico](articulo-2.md) Sustentable, antes de ser sometidos por la Secretaría a consideración del titular del Ejecutivo Federal, deberán reunir los siguientes requisitos:
 
 I. Las consideraciones y los motivos que justifican la declaratoria de una superficie determinada del territorio nacional, como Zona de Desarrollo Turístico Sustentable;
 
@@ -27,10 +27,10 @@ III. La ubicación de la zona constituida, en la que se indique la o las Entidad
 
 IV. La superficie, polígono y delimitación georreferenciada de la zona constituida, así como los medios gráficos en los que se hagan constar, para lo cual se podrán utilizar de referencia los ordenamientos normativos aplicables en materia estadística y geográfica;
 
-V. La descripción de las características naturales y culturales que integren el Atractivo Turístico de la zona constituida, incluidos sus paisajes natural y urbano;
+V. La descripción de las características naturales y culturales que integren el [Atractivo Turístico](articulo-2.md) de la zona constituida, incluidos sus paisajes natural y urbano;
 
 VI. La determinación de las Actividades y Servicios Turísticos específicos que se podrán realizar en la zona constituida cumpliendo con los ordenamientos jurídicos ambientales aplicables;
 
 VII. La mención de los programas en materia ambiental y de asentamientos humanos que resulten aplicables en la zona constituida, y
 
-VIII. La congruencia con lo establecido en el Programa General, una vez que éste sea publicado.
+VIII. La congruencia con lo establecido en el [Programa General](articulo-2.md), una vez que éste sea publicado.

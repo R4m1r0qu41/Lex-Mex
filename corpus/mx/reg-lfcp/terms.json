@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcp:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfcp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfcp:article:2",
+    "fraction": "I",
+    "start_char": 61,
+    "end_char": 109,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcp:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfcp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfcp:article:2",
+    "fraction": "II",
+    "start_char": 109,
+    "end_char": 188,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcp:term:dias",
+    "term": "Días",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfcp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfcp:article:2",
+    "fraction": "III",
+    "start_char": 188,
+    "end_char": 223,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcp:term:corredor-o-corredor-publico",
+    "term": "Corredor o corredor público",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfcp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfcp:article:2",
+    "fraction": "IV",
+    "start_char": 223,
+    "end_char": 545,
+    "basis": "express_definition"
+  }
+]

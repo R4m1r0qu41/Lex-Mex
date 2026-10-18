@@ -17,14 +17,14 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 # Artículo 60
 
-Las actividades de Evaluación de la Conformidad deberán ajustarse a las reglas, procedimientos y métodos que se establezcan en las Normas Oficiales Mexicanas y las Normas Internacionales. Las actividades deberán comprender lo siguiente, en los términos previstos en el Reglamento de esta Ley:
+Las actividades de [Evaluación de la Conformidad](articulo-4.md) deberán ajustarse a las reglas, procedimientos y métodos que se establezcan en las [Normas Oficiales Mexicanas](articulo-4.md) y las [Normas Internacionales](articulo-4.md). Las actividades deberán comprender lo siguiente, en los términos previstos en el Reglamento de esta Ley:
 
 I. La evaluación de los bienes, productos, procesos y servicios, o bien de la información de los símbolos, embalaje, marcado o etiquetado, o terminología de éstos y, en su caso, sus métodos de producción, mediante inspección ocular, muestreo, pruebas, certificación, investigación de campo o revisión y evaluación de los programas de calidad;
 
 II. En su caso, a través de una auto declaración de conformidad por parte de los sujetos obligados de acuerdo con el último párrafo del artículo [69](articulo-69.md) de esta Ley;
 
-III. En caso de ser aplicable, el seguimiento posterior a la Evaluación de la Conformidad inicial, para comprobar el cumplimiento con las Normas Oficiales Mexicanas, Estándares, Normas Internacionales ahí referidos o de otras disposiciones legales y contar con mecanismos que permitan proteger y evitar la divulgación de propiedad industrial o intelectual de sus clientes, y
+III. En caso de ser aplicable, el seguimiento posterior a la Evaluación de la Conformidad inicial, para comprobar el cumplimiento con las Normas Oficiales Mexicanas, [Estándares](articulo-4.md), Normas Internacionales ahí referidos o de otras disposiciones legales y contar con mecanismos que permitan proteger y evitar la divulgación de propiedad industrial o intelectual de sus clientes, y
 
-IV. En caso de ser aplicable, la elaboración de propuestas, revisión y, en su caso, aprobación de criterios generales en materia de certificación de la Evaluación de la Conformidad, a través de comités técnicos de certificación integrados por los sectores interesados, o directamente por las Autoridades Normalizadoras competentes.
+IV. En caso de ser aplicable, la elaboración de propuestas, revisión y, en su caso, aprobación de criterios generales en materia de certificación de la Evaluación de la Conformidad, a través de comités técnicos de certificación integrados por los sectores interesados, o directamente por las [Autoridades Normalizadoras](articulo-4.md) competentes.
 
-Una vez aprobados tales criterios generales, deberán ponerse a disposición de cualquier interesado a través de la Plataforma Tecnológica Integral de Infraestructura de la Calidad.
+Una vez aprobados tales criterios generales, deberán ponerse a disposición de cualquier interesado a través de la [Plataforma Tecnológica Integral de Infraestructura de la Calidad](articulo-4.md).

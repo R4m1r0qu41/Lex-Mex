@@ -17,6 +17,6 @@ source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 
 # Artículo 20
 
-Los clubes o asociaciones de personas deportistas de tiro y cacería debidamente constituidas deben registrarse en las Secretarías de Seguridad y Protección Ciudadana y de la Defensa Nacional para el registro, control y vigilancia de las armas que posean las personas socias; a cuyo efecto deben cumplir con los requisitos que señala el Reglamento de esta Ley.
+Los clubes o asociaciones de personas deportistas de tiro y cacería debidamente constituidas deben registrarse en las [Secretarías](articulo-1o-Bis.md) de Seguridad y Protección Ciudadana y de la Defensa Nacional para el registro, control y vigilancia de las armas que posean las personas socias; a cuyo efecto deben cumplir con los requisitos que señala el [Reglamento](articulo-1o-Bis.md) de esta [Ley](articulo-1o-Bis.md).
 
 Artículo reformado DOF 29-05-2025

@@ -31,7 +31,7 @@ V. Identificación de la zona o zonas donde se pretenda liberar el OGM:
 
 a) Superficie total del predio o predios donde se realizará la liberación;
 
-b) Ubicación, en coordenadas UTM, del polígono o polígonos donde se realizará la liberación, y
+b) Ubicación, en coordenadas [UTM](articulo-2.md), del polígono o polígonos donde se realizará la liberación, y
 
 c) Descripción de los polígonos donde se realizará la liberación y de las zonas vecinas a éstos en un radio según las características de diseminación del OGM de que se trate:
 
@@ -57,10 +57,10 @@ b) Medidas de bioseguridad: 1. Medidas para la erradicación del OGM en zonas di
 
 El promovente deberá distinguir claramente las medidas que se realizarán durante la liberación de los que se realizarán con posterioridad a la misma.
 
-VII. Número de autorización expedida por SALUD, cuando el OGM se destine para uso o consumo humano, o se destine a procesamiento de alimentos para consumo humano, o tenga finalidades de salud pública o se destine a la biorremediación. En caso de no contar con la autorización al momento de presentar la solicitud de permiso, el promovente podrá presentarla posteriormente anexa a un escrito libre en el que se indique el número de autorización;
+VII. Número de autorización expedida por [SALUD](articulo-2.md), cuando el OGM se destine para uso o consumo humano, o se destine a procesamiento de alimentos para consumo humano, o tenga finalidades de salud pública o se destine a la biorremediación. En caso de no contar con la autorización al momento de presentar la solicitud de permiso, el promovente podrá presentarla posteriormente anexa a un escrito libre en el que se indique el número de autorización;
 
-VIII. En caso de importación del OGM, copia legalizada o apostillada de las autorizaciones o documentación oficial que acredite que el OGM está permitido conforme a la legislación del país de origen, al menos para su liberación en programa piloto, traducida al español. La Secretaría competente, de considerarlo necesario, podrá requerir copia simple de la legislación aplicable vigente en el país de exportación traducida al español;
+VIII. En caso de importación del OGM, copia legalizada o apostillada de las autorizaciones o documentación oficial que acredite que el OGM está permitido conforme a la legislación del país de origen, al menos para su liberación en programa piloto, traducida al español. La [Secretaría competente](articulo-2.md), de considerarlo necesario, podrá requerir copia simple de la legislación aplicable vigente en el país de exportación traducida al español;
 
 IX. La propuesta de vigencia del permiso y los elementos empleados para determinarla, y
 
-X. La Información que en cada caso determinen las NOM.
+X. La Información que en cada caso determinen las [NOM](articulo-2.md).

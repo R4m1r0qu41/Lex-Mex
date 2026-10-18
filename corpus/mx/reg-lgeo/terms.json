@@ -1,1 +1,90 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeo:term:conagua",
+    "term": "CONAGUA",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeo",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeo:article:3",
+    "fraction": "I",
+    "start_char": 305,
+    "end_char": 345,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeo:term:coordenadas-geodesicas",
+    "term": "Coordenadas Geodésicas",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeo",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeo:article:3",
+    "fraction": "II",
+    "start_char": 345,
+    "end_char": 616,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeo:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeo",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeo:article:3",
+    "fraction": "III",
+    "start_char": 616,
+    "end_char": 644,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeo:term:punto-de-partida",
+    "term": "Punto de Partida",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeo",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeo:article:3",
+    "fraction": "IV",
+    "start_char": 644,
+    "end_char": 811,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeo:term:reglamento",
+    "term": "Reglamento",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeo",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeo:article:3",
+    "fraction": "V",
+    "start_char": 811,
+    "end_char": 861,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeo:term:registro-de-geotermia",
+    "term": "Registro de Geotermia",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeo",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeo:article:3",
+    "fraction": "VI",
+    "start_char": 861,
+    "end_char": 998,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeo:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeo",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeo:article:3",
+    "fraction": "VII",
+    "start_char": 998,
+    "end_char": 1040,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeo:term:usos-diversos-de-pequena-escala",
+    "term": "Usos Diversos de Pequeña Escala",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeo",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeo:article:3",
+    "fraction": "VIII",
+    "start_char": 1040,
+    "end_char": 1437,
+    "basis": "express_definition"
+  }
+]

@@ -15,4 +15,4 @@ source_sha256: 6680a58c98673518aee46582b3137d28987c275785d1f0c97295f0d89c4b692b
 
 # Décimo Sexto
 
-Los Prestadores de Servicios Turísticos que se encuentren inscritos en el Registro Nacional de Turismo, no requerirán de un nuevo proceso de inscripción; no obstante, a partir del día siguiente de la publicación de la convocatoria para inscribirse en el Registro Nacional de Turismo, contarán con un plazo de un año para actualizar la información y documentación en los términos de la convocatoria señalada en el presente Reglamento. De no cumplir con lo anterior, se cancelará el registro correspondiente.
+Los Prestadores de Servicios Turísticos que se encuentren inscritos en el Registro Nacional de [Turismo](articulo-2.md), no requerirán de un nuevo proceso de inscripción; no obstante, a partir del día siguiente de la publicación de la convocatoria para inscribirse en el Registro Nacional de Turismo, contarán con un plazo de un año para actualizar la información y documentación en los términos de la convocatoria señalada en el presente Reglamento. De no cumplir con lo anterior, se cancelará el registro correspondiente.

@@ -15,8 +15,8 @@ source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 
 # Artículo 78 Bis 11
 
-La Agencia Federal de Aviación Civil establecerá y mantendrá un proceso para analizar los datos e información sobre seguridad operacional obtenida de los sistemas de recopilación y procesamiento de datos y bases de datos sobre seguridad operacional conexas.
+La [Agencia Federal de Aviación Civil](articulo-2.md) establecerá y mantendrá un proceso para analizar los datos e información sobre seguridad operacional obtenida de los sistemas de recopilación y procesamiento de datos y bases de datos sobre seguridad operacional conexas.
 
 Artículo adicionado DOF 20-05-2021. Reformado DOF 03-05-2023
 
-Capítulo XV Ter Gestión de Riesgos Asociados a la Fatiga Capítulo adicionado DOF 03-05-2023
+Capítulo XV Ter Gestión de Riesgos Asociados a la [Fatiga](articulo-2.md) Capítulo adicionado DOF 03-05-2023
