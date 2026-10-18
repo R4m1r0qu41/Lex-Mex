@@ -55,6 +55,11 @@ secrets, transcripts, hidden reasoning, or mutable copies of external state.
   — Split merged article headings into their own provisions (operator decision
   2026-10-18); seven clean reparses first, mechanism for the other ten pending.
 
+- [`docs/plans/glossary-detection.md`](docs/plans/glossary-detection.md)
+  — Detect the "se entiende por:" and imported-definition glossaries that
+  currently yield 0 terms (about 100 instruments); originals before imports.
+  Drafted 2026-10-18, awaiting operator approval of G1.
+
 - [`docs/plans/sqlite-corpus-database.md`](docs/plans/sqlite-corpus-database.md)
   — Database-only SQLite/rusqlite projection: pinned inputs, complete provenance,
   FTS, parity checks and reproducible local artifacts; plan ready, build not started.
