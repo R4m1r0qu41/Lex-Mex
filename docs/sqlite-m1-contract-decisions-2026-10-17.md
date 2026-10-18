@@ -89,14 +89,17 @@ plan's earlier 400–500 MB estimate is withdrawn.
    contain. These are reform evidence, temporal requests and results, review
    queues, amendment legends, validation reports and the standards files.
 
-**Prototype evidence.** Layout B was reconstructed for every record:
+**Prototype evidence.** Layout B was reconstructed for every record of four
+kinds:
 
 - 68,086 provisions
 - 35,887 edges, with 12,302 qualifiers and 33 review objects
 - 3,534 terms
 - 62,785 usages
 
-There were zero mismatches. Mutation checks were then run on copies:
+There were zero mismatches. Instrument, source-manifest and enactment-evidence
+records were stored in the prototype but not reconstructed; the M3 verifier
+must cover every record kind. Mutation checks were then run on copies:
 
 - **Dropped optional key:** 2 files fail.
 - **Null versus value on a mapped column, plus an injected key:** 1 file fails.
@@ -171,7 +174,15 @@ here:
   other operator-curated tool inputs, `_closure-accepted-gaps.json` and
   `_named-offenses.json`. Its schema, Rust type, validator and fixture land in
   the same change as the `lex-db` code that consumes it. The candidate file
-  stays an evidence artifact. It is not a builder input.
+  stays an evidence artifact. It is not a builder input. This location is a
+  proposal for the operator, not an operator decision.
+- **Pinning.** The builder reads the seed at `--corpus-commit`, like every
+  other input. Until the database branch merges, a build must therefore pin a
+  `db/sqlite-projection` commit. The seed is a required input. If it is
+  missing at the pinned commit, the build fails and names the path. A present
+  seed with zero accepted rows loads zero rows, and the manifest records the
+  difference, so a missing seed can be told apart from an empty one (input
+  contract item 3).
 - **Row fields:**
   - `instrument_id` and `kind`
   - `printed_label` and the exact `heading_text`
@@ -231,8 +242,13 @@ here:
   It is `historical_superseded_reference_outdated` with rule `named_instrument`,
   and it carries both an approval and an operator note. It is never retargeted.
 - **G3.** Four LRSIC Transitory Quinto edges, all `historical_target_unavailable`
-  and pointing at `lraf-1990`. Their offsets are 25-27, 29-33, 36-40 and
-  213-215. LRSIC article 2 fraction V targets the current LRAF and stays live.
+  and pointing at `lraf-1990`:
+  - `urn:lex-mx:federal:statute:lrsic:transitory:quinto:reference:25-27:33:direct`
+  - `urn:lex-mx:federal:statute:lrsic:transitory:quinto:reference:29-33:33-a:direct`
+  - `urn:lex-mx:federal:statute:lrsic:transitory:quinto:reference:36-40:33-b:direct`
+  - `urn:lex-mx:federal:statute:lrsic:transitory:quinto:reference:213-215:33:direct`
+
+  LRSIC article 2 fraction V targets the current LRAF and stays live.
 - **G5.** Instrument-level: `cpf` → `urn:lex-mx:federal:statute:lic:article:112-quintus`,
   multiplicity 1.
 - **G6.** Requires the accepted `lgtoc` row: `Artículo 228 b.-` inside
@@ -247,7 +263,9 @@ Commands actually run:
 - the reconstruction comparison and mutation checks
 - the detector
 
-All of them read Git blobs at the commit above. No Rust code changed, so the
+All of them read Git blobs at the commit above. Rerunning the committed
+detector at that commit reproduces the candidate file byte for byte (same
+SHA-256). No Rust code changed, so the
 native Rust gate was not rerun for this documentation and evidence change.
 The operator's two untracked suggestion files in the main worktree were not
 touched.

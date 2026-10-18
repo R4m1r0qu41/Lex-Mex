@@ -485,7 +485,8 @@ Acceptance and stop condition:
 are settled in the
 [M1 contract decisions](../sqlite-m1-contract-decisions-2026-10-17.md).
 Full-corpus prototype measurement chose extras-only (333.7 MB versus
-497.1 MB) and reconstructed every record with zero mismatches. A read-only
+497.1 MB) and reconstructed every provision, edge, term and usage with zero
+mismatches. A read-only
 detector found 117 unreviewed structural-debt candidates in 22 instruments
 (the recorded aggregate was 77 in 14); no seed row is accepted. Golden fixtures
 pinned to edge IDs; G1 corrected to `reg-lan` 153/188 pending operator
