@@ -1,5 +1,14 @@
 # Architecture decisions
 
+## 2026-10-18 — Merged headings are split into their own articles; letter series accepted by equivalence
+
+Operator rulings, continuing the 2026-10-17 entry below:
+
+1. **Letter series are accepted by equivalence with the ordinals.** The `lgtoc` 228 a–v headings are the same per-article numbering device as the Latin ordinals. They are accepted under the same gap-free series rule, where a, b, … are the first, second, … suffix. With the ordinal rows, all 77 series-checked rows are accepted as `merged_heading` debt. The equivalence governs review only. Letter and ordinal suffixes remain distinct identifiers, because 14 instruments print both on the same base number (for example CFF `29-A` and `29 Bis`).
+2. **The LFTR 180 Quintes–Septimus bodies are legally removed text,** like the bracketed placeholders. They are not structural debt.
+3. **`lgs` reason corrected.** In `_closure-accepted-gaps.json`, the `lgs` gap now records that CPF 209 Quintus does not exist and that the reference is stale or wrong. The recorded error is unchanged, and the closure gate compares errors only.
+4. **Split the merged headings into their own articles first,** before any citation-extraction change. Execution plan: `docs/plans/merged-heading-split.md`.
+
 ## 2026-10-17 — Latin ordinal qualifiers and the structural-debt candidate classes
 
 Operator rulings on the SQLite M1 structural-debt candidates (`docs/sqlite-m1-contract-decisions-2026-10-17.md` on `db/sqlite-projection`):

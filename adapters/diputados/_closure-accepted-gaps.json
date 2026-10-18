@@ -39,7 +39,7 @@
     },
     {
       "slug": "lgs",
-      "reason": "Cites CPF article 209 Quintus; the committed CPF text does not parse that heading (Quintus suffix headings).",
+      "reason": "Cites CPF article 209 Quintus, which does not exist: the committed CPF text runs 209, 209 Bis, 209 Ter, 209 Quáter and prints no 209 Quintus. The reference is stale or wrong (operator decision 2026-10-18).",
       "errors": [
         "unresolved_internal_reference: cross-instrument reference target does not exist: urn:lex-mx:federal:code:cpf:article:209-quintus"
       ]

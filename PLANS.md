@@ -51,6 +51,10 @@ secrets, transcripts, hidden reasoning, or mutable copies of external state.
 
 ### Active
 
+- [`docs/plans/merged-heading-split.md`](docs/plans/merged-heading-split.md)
+  — Split merged article headings into their own provisions (operator decision
+  2026-10-18); seven clean reparses first, mechanism for the other ten pending.
+
 - [`docs/plans/sqlite-corpus-database.md`](docs/plans/sqlite-corpus-database.md)
   — Database-only SQLite/rusqlite projection: pinned inputs, complete provenance,
   FTS, parity checks and reproducible local artifacts; plan ready, build not started.
