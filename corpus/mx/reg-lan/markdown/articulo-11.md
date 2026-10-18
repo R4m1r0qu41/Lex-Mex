@@ -17,7 +17,7 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 11
 
-Para efectos de la fracción XIII, del artículo [9](../../lan/markdown/articulo-9.md)o., de la "Ley", "La Comisión" podrá:
+Para efectos de la fracción XIII, del artículo [9](../../lan/markdown/articulo-9.md)o., de la "[Ley](articulo-1o.md)", "[La Comisión](articulo-1o.md)" podrá:
 
 I. Efectuar visitas de inspección observando el procedimiento que al efecto prevé la Ley Federal de Procedimiento Administrativo, y Fracción reformada DOF 25-08-2014
 

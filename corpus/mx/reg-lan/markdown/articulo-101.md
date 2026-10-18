@@ -17,7 +17,7 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 101
 
-Para los efectos del artículo [66](../../lan/markdown/articulo-66.md) de la "Ley", el reglamento del distrito de riego establecerá las reglas y disposiciones para llevar a cabo la administración, operación, conservación y mantenimiento de la infraestructura y de los bienes concesionados, la distribución de las aguas y el servicio de riego a los usuarios.
+Para los efectos del artículo [66](../../lan/markdown/articulo-66.md) de la "[Ley](articulo-1o.md)", el reglamento del distrito de riego establecerá las reglas y disposiciones para llevar a cabo la administración, operación, conservación y mantenimiento de la infraestructura y de los bienes concesionados, la distribución de las aguas y el servicio de riego a los usuarios.
 
 Además de lo dispuesto en el artículo [51](../../lan/markdown/articulo-51.md) de la "Ley", el reglamento del distrito deberá contener lo siguiente:
 
@@ -27,7 +27,7 @@ III. Definición de los derechos y obligaciones de usuarios, asociaciones y soci
 
 IV. Las acciones a realizar en situaciones de emergencia;
 
-V. El procedimiento para la distribución de las aguas cuando se presenten condiciones de escasez, según lo previene el artículo [69](../../lan/markdown/articulo-69.md) de la "Ley", el que debe establecerse tomando como base el título de concesión, los derechos registrados en el padrón de usuarios y los instructivos emitidos por "La Comisión";
+V. El procedimiento para la distribución de las aguas cuando se presenten condiciones de escasez, según lo previene el artículo [69](../../lan/markdown/articulo-69.md) de la "Ley", el que debe establecerse tomando como base el título de concesión, los derechos registrados en el padrón de usuarios y los instructivos emitidos por "[La Comisión](articulo-1o.md)";
 
 VI. Los procedimientos necesarios para elaborar el programa anual de conservación y mantenimiento de las obras que se utilicen para el distrito en su conjunto, así como el presupuesto correspondiente, tanto en lo tocante a la infraestructura como al equipo y a la maquinaria;
 

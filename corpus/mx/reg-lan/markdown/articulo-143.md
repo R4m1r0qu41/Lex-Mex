@@ -17,6 +17,6 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 143
 
-"La Comisión" establecerá las condiciones particulares que deberán cumplir las descargas de aguas residuales previo a su posterior explotación, uso o aprovechamiento; asimismo, fijará las que deberán cumplir en el caso de su infiltración a un acuífero.
+"[La Comisión](articulo-1o.md)" establecerá las condiciones particulares que deberán cumplir las descargas de aguas residuales previo a su posterior explotación, uso o aprovechamiento; asimismo, fijará las que deberán cumplir en el caso de su infiltración a un acuífero.
 
-"La Comisión" podrá otorgar el permiso para recargar acuíferos con aguas depuradas, en los términos de la "Ley" y el presente "Reglamento".
+"La Comisión" podrá otorgar el permiso para recargar acuíferos con aguas depuradas, en los términos de la "[Ley](articulo-1o.md)" y el presente "[Reglamento](articulo-1o.md)".

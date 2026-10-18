@@ -27,6 +27,6 @@ III. Garantizar los flujos mínimos que requiera la estabilidad de los cauces, l
 
 IV. La protección, conservación o restauración de un ecosistema acuático, incluyendo los humedales, lagos, lagunas y esteros, así como los ecosistemas acuáticos que tengan un valor histórico, turístico o recreativo.
 
-"La Comisión" hará los estudios y previsiones necesarias para incorporar las reservas de agua a la programación hidráulica, y promoverá que se mantengan las condiciones de cantidad y calidad requeridas para el cumplimiento de las disposiciones establecidas en las declaratorias respectivas.
+"[La Comisión](articulo-1o.md)" hará los estudios y previsiones necesarias para incorporar las reservas de agua a la programación hidráulica, y promoverá que se mantengan las condiciones de cantidad y calidad requeridas para el cumplimiento de las disposiciones establecidas en las declaratorias respectivas.
 
-Las reservas de aguas nacionales deberán publicarse en el Diario Oficial de la Federación e inscribirse en el "Registro".
+Las reservas de aguas nacionales deberán publicarse en el Diario Oficial de la Federación e inscribirse en el "[Registro](articulo-1o.md)".

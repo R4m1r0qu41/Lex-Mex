@@ -25,7 +25,7 @@ II. Iniciar el ejercicio de los derechos consignados en la concesión a partir d
 
 III. Cubrir los gastos de deslinde y amojonamiento del área concesionada;
 
-IV. Realizar únicamente las obras aprobadas en la concesión o autorizadas posteriormente por "La Comisión";
+IV. Realizar únicamente las obras aprobadas en la concesión o autorizadas posteriormente por "[La Comisión](articulo-1o.md)";
 
 V. Desocupar y entregar dentro del plazo establecido por "La Comisión" las áreas de que se trate en los casos de terminación de las concesiones;
 

@@ -1,5 +1,24 @@
 # Architecture decisions
 
+## 2026-10-18 — `reg-lan` Article 1 defines its four vocables
+
+Operator ruling: `reg-lan` Article 1 establishes the definitions for the whole regulation. It reads: Cuando en el mismo se expresen los vocablos "Ley", "Reglamento", "La Comisión" y "Registro", se entenderá que se refiere a la Ley de Aguas Nacionales, al presente Reglamento, a la Comisión Nacional del Agua y al Registro Público de Derechos de Agua, respectivamente. The committed text matches the operator's quotation.
+
+**Implementation.** A new adapter glossary style, `quoted_respectively`, is configured only for `reg-lan`, on `:article:1` (`crates/lex-parse/src/terms.rs`):
+- Each quoted vocable becomes a term, kept exactly as printed. The regulation writes `La Comisión` with a capital L 338 times and `la Comisión` 3 times, so the printed form matches the text.
+- Every term's definition span is the whole defining sentence. The referents inside it are therefore not counted as usages.
+- Extraction fails rather than guessing when the number of vocables differs from the number of referents.
+- Auto-detection is unchanged. A census found no other instrument with this glossary form: `lic` 71, `luc` 60, `lgtoc` 80 and `reg-lgcc-rne` 2 are equivalences or other forms, not glossaries of this kind.
+
+**Result.** `link --all` relinked only `reg-lan`. The 8 rejected instruments are exactly the accepted gaps, and references stay at 35,880. `reg-lan` gains:
+- 4 terms;
+- 753 usages: `La Comisión` 337, `Ley` 260, `Reglamento` 119 and `Registro` 37;
+- Markdown links from those usages to Article 1. Article 1 has a single paragraph, so the links target the whole note.
+
+Its 126 `parent_shorthand` edges to `lan` are unchanged.
+
+**Known imprecision, not fixed here.** The shared usage matcher also matches a term that is the first word of another title. A pattern scan finds at least 40 such usages: `Ley` in another law's title, such as `Ley Federal de Derechos` or `Ley General del Equilibrio Ecológico…` (35); `Reglamento` in another regulation's title, such as `Reglamento para la Prevención…` (4); and `Registro` in `Registro de Obligaciones y Empréstitos…` (1). The scan also hit 2 correct usages, which name the defined referents in full: `Ley de Aguas Nacionales` and `Registro Público de Derechos de Agua`. The existing `Ley` terms in 94 instruments behave the same way (`reg-lfaebsp`: 5 of 56). A title-aware filter would change usages corpus-wide, so it needs its own decision.
+
 ## 2026-10-18 — Merged headings are split into their own articles; letter series accepted by equivalence
 
 Operator rulings, continuing the 2026-10-17 entry below:
@@ -19,7 +38,7 @@ Operator rulings on the SQLite M1 structural-debt candidates (`docs/sqlite-m1-co
 2. **Bracketed placeholders are text that was legally removed.** Lines such as `[Artículo 11 Bis. Suprimido]` (`lgipe` 20, `lgcs` 7) are not missing structure, and they are not loaded as structural debt.
 3. **Held DCG candidates wait for the DCG pass** (`oaac-dcg-2009`, `socap-sofipo-dcg-2006`).
 4. **Held laws and regulations cite stale or wrong references**, pointing at articles that do not exist. The committed text confirms this for `lgs` → CPF 209 Quintus and `lftr` → LGTAIP 180 Bis. It does not confirm it for `cpf` → LIC 112 Quintus or `lmv` → LGTOC 228-B/228-H. Those headings are printed inside LIC 112 Quáter and LGTOC 228. This contradiction is open, and `_closure-accepted-gaps.json` is unchanged.
-5. **Golden query G1.** Every bare `la Ley` in `reg-lan` means the Ley de Aguas Nacionales, through the definition in `reg-lan` article 1 (`"Ley"` … "se entenderá que se refiere a la Ley de Aguas Nacionales"). All 126 `parent_shorthand` edges in `reg-lan` target `lan`. `reg-lan` has no `terms.json` entry for that definition.
+5. **Golden query G1.** Every bare `la Ley` in `reg-lan` means the Ley de Aguas Nacionales, through the definition in `reg-lan` article 1 (`"Ley"` … "se entenderá que se refiere a la Ley de Aguas Nacionales"). All 126 `parent_shorthand` edges in `reg-lan` target `lan`. `reg-lan` has no `terms.json` entry for that definition. (Superseded 2026-10-18: the definition is now extracted; see "`reg-lan` Article 1 defines its four vocables".)
 
 Not changed: reference extraction. 51 stored edges in 12 instruments are false self-links. In each, an embedded heading's own text is read as a citation to its bare base article (for example `lfped` 15 Quintus → `lfped` article 15, and all 23 `lgtoc` 228 a–v headings → article 228). They remain as committed pending an operator decision.
 

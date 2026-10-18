@@ -17,7 +17,7 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 2o
 
-Para los efectos de este "Reglamento", se entiende por:
+Para los efectos de este "[Reglamento](articulo-1o.md)", se entiende por:
 
 I. Aguas continentales: las aguas nacionales, superficiales o del subsuelo, en la parte continental del territorio nacional;
 
@@ -25,7 +25,7 @@ II. Aguas residuales: las aguas de composición variada provenientes de las desc
 
 III. Barranca profunda: hendedura pronunciada que se forma en el terreno, por el flujo natural del agua, en que la profundidad es mayor a 5 veces la anchura;
 
-IV. Condiciones particulares de descarga: el conjunto de parámetros físicos, químicos y biológicos y de sus niveles máximos permitidos en las descargas de agua residual, determinados por "La Comisión" para un usuario, para un determinado uso o grupo de usuarios o para un cuerpo receptor específico, con el fin de preservar y controlar la calidad de las aguas conforme a la "Ley" y este "Reglamento";
+IV. Condiciones particulares de descarga: el conjunto de parámetros físicos, químicos y biológicos y de sus niveles máximos permitidos en las descargas de agua residual, determinados por "[La Comisión](articulo-1o.md)" para un usuario, para un determinado uso o grupo de usuarios o para un cuerpo receptor específico, con el fin de preservar y controlar la calidad de las aguas conforme a la "[Ley](articulo-1o.md)" y este "Reglamento";
 
 V. Corriente permanente: la que tiene un escurrimiento superficial que no se interrumpe en ninguna época del año, desde donde principia hasta su desembocadura;
 

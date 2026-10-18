@@ -25,4 +25,4 @@ II. Para cualquier uso cuyo volumen anual, para un solo solicitante, no sea mayo
 
 III. Para uso público urbano en localidades con menos de 500 habitantes.
 
-"La Comisión" contestará las solicitudes dentro de los noventa días hábiles contados a partir de su presentación.
+"[La Comisión](articulo-1o.md)" contestará las solicitudes dentro de los noventa días hábiles contados a partir de su presentación.

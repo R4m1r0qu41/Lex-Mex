@@ -17,4 +17,4 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 48
 
-Para efectos de la fracción V, del artículo [27](../../lan/markdown/articulo-27.md) de la "Ley", una vez que quede firme y se notifique la resolución judicial que reconozca los derechos de terceros, o declare la nulidad o revocación de la concesión o asignación, o la transmisión de la misma, "La Comisión" procederá a notificar, en su caso, la terminación legal de la concesión o asignación respectiva, debiendo proceder a efectuar la inscripción correspondiente en el "Registro".
+Para efectos de la fracción V, del artículo [27](../../lan/markdown/articulo-27.md) de la "[Ley](articulo-1o.md)", una vez que quede firme y se notifique la resolución judicial que reconozca los derechos de terceros, o declare la nulidad o revocación de la concesión o asignación, o la transmisión de la misma, "[La Comisión](articulo-1o.md)" procederá a notificar, en su caso, la terminación legal de la concesión o asignación respectiva, debiendo proceder a efectuar la inscripción correspondiente en el "[Registro](articulo-1o.md)".

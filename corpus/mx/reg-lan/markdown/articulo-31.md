@@ -17,7 +17,7 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 31
 
-Las solicitudes de concesión o asignación deberán contener los datos mencionados en el artículo [21](../../lan/markdown/articulo-21.md) de la "Ley"; deberán presentarse por escrito, pudiendo utilizar los formatos aprobados por "La Comisión" a que se refiere el artículo [7](articulo-7o.md)o., del presente "Reglamento", y deberán ir acompañadas por los siguientes documentos:
+Las solicitudes de concesión o asignación deberán contener los datos mencionados en el artículo [21](../../lan/markdown/articulo-21.md) de la "[Ley](articulo-1o.md)"; deberán presentarse por escrito, pudiendo utilizar los formatos aprobados por "[La Comisión](articulo-1o.md)" a que se refiere el artículo [7](articulo-7o.md)o., del presente "[Reglamento](articulo-1o.md)", y deberán ir acompañadas por los siguientes documentos:
 
 I. Los que acrediten la personalidad con que se ostenta el solicitante, en su caso;
 

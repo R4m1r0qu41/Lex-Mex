@@ -17,7 +17,7 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 180
 
-"La Comisión" declarará la terminación de la concesión en los casos previstos en la "Ley" y el presente "Reglamento".
+"[La Comisión](articulo-1o.md)" declarará la terminación de la concesión en los casos previstos en la "[Ley](articulo-1o.md)" y el presente "[Reglamento](articulo-1o.md)".
 
 Previamente, "La Comisión", de oficio o a petición de tercera persona interesada, tramitará el expediente respectivo y dará a conocer al concesionario las causas de terminación. El concesionario dispondrá de un término de quince días hábiles para su defensa.
 

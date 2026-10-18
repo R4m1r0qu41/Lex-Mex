@@ -17,4 +17,4 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 7o
 
-Para efectos de la fracción VII, del artículo [9](../../lan/markdown/articulo-9.md)o., de la "Ley", "La Comisión" aprobará formatos para facilitar la presentación de las solicitudes de concesiones, asignaciones y permisos, así como de los anexos que en su caso ésta requiera.
+Para efectos de la fracción VII, del artículo [9](../../lan/markdown/articulo-9.md)o., de la "[Ley](articulo-1o.md)", "[La Comisión](articulo-1o.md)" aprobará formatos para facilitar la presentación de las solicitudes de concesiones, asignaciones y permisos, así como de los anexos que en su caso ésta requiera.

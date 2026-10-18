@@ -17,4 +17,4 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 1o
 
-El presente ordenamiento tiene por objeto reglamentar la Ley de Aguas Nacionales. Cuando en el mismo se expresen los vocablos "Ley", "Reglamento", "La Comisión" y "Registro", se entenderá que se refiere a la Ley de Aguas Nacionales, al presente Reglamento, a la Comisión Nacional del Agua y al Registro Público de Derechos de Agua, respectivamente.
+El presente ordenamiento tiene por objeto reglamentar la [Ley](articulo-1o.md) de Aguas Nacionales. Cuando en el mismo se expresen los vocablos "Ley", "Reglamento", "La Comisión" y "Registro", se entenderá que se refiere a la Ley de Aguas Nacionales, al presente Reglamento, a la Comisión Nacional del Agua y al Registro Público de Derechos de Agua, respectivamente.

@@ -17,9 +17,9 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 76
 
-En las zonas reglamentadas, "La Comisión" promoverá la participación y concertación con los usuarios de las zonas respectivas para:
+En las zonas reglamentadas, "[La Comisión](articulo-1o.md)" promoverá la participación y concertación con los usuarios de las zonas respectivas para:
 
-I. Establecer los mecanismos o acciones que coadyuven a la vigilancia del cumplimiento de la "Ley", del presente "Reglamento" y, en su caso, de los reglamentos específicos que se establezcan en esas zonas;
+I. Establecer los mecanismos o acciones que coadyuven a la vigilancia del cumplimiento de la "[Ley](articulo-1o.md)", del presente "[Reglamento](articulo-1o.md)" y, en su caso, de los reglamentos específicos que se establezcan en esas zonas;
 
 II. Definir mecanismos para la presentación y tramitación de las sugerencias, solicitudes, denuncias o quejas de los usuarios;
 

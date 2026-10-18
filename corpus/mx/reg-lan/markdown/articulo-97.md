@@ -17,9 +17,9 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 97
 
-La entrega por parte de "La Comisión" de distritos de riego con inversión pública federal, para su administración, operación, conservación y mantenimiento por los usuarios de los mismos, a que se refieren los artículos [64](../../lan/markdown/articulo-64.md) y [65](../../lan/markdown/articulo-65.md) de la "Ley", se efectuará en forma concertada con ellos y se sujetará a lo siguiente:
+La entrega por parte de "[La Comisión](articulo-1o.md)" de distritos de riego con inversión pública federal, para su administración, operación, conservación y mantenimiento por los usuarios de los mismos, a que se refieren los artículos [64](../../lan/markdown/articulo-64.md) y [65](../../lan/markdown/articulo-65.md) de la "[Ley](articulo-1o.md)", se efectuará en forma concertada con ellos y se sujetará a lo siguiente:
 
-I. Los usuarios se deberán asociar en personas morales, y efectuar las acciones necesarias para que sus estatutos y el reglamento respectivo se apeguen a lo que señalan la "Ley" y el presente "Reglamento" para la administración descentralizada de los distritos;
+I. Los usuarios se deberán asociar en personas morales, y efectuar las acciones necesarias para que sus estatutos y el reglamento respectivo se apeguen a lo que señalan la "Ley" y el presente "[Reglamento](articulo-1o.md)" para la administración descentralizada de los distritos;
 
 II. Los usuarios solicitarán las concesiones necesarias para hacerse cargo de una parte o la totalidad de la infraestructura de riego y servicios asociados en un distrito de riego, excepto las obras de captación o almacenamiento y en general las obras de cabeza y, en los casos que fuere necesario, la red mayor de canales, drenes y los caminos asociados serán operados, conservados y administrados por "La Comisión" directamente o a través de terceros, con cargo a los usuarios;
 

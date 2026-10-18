@@ -17,7 +17,7 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 58
 
-Las inscripciones en el "Registro" se harán por cada título de concesión, asignación o permiso, y por los cambios y rectificaciones que se efectúen de acuerdo con la "Ley" y este "Reglamento".
+Las inscripciones en el "[Registro](articulo-1o.md)" se harán por cada título de concesión, asignación o permiso, y por los cambios y rectificaciones que se efectúen de acuerdo con la "[Ley](articulo-1o.md)" y este "[Reglamento](articulo-1o.md)".
 
 En los distritos de riego, las asociaciones de usuarios que sean concesionarios de agua y de la infraestructura de riego respectiva, podrán inscribir en el "Registro" los padrones que estén integrados conforme a la "Ley" y estén debidamente actualizados por los propios concesionarios. Estas inscripciones se llevarán en forma separada a las que se refiere el párrafo anterior.
 

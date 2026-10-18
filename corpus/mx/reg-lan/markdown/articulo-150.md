@@ -17,9 +17,9 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 150
 
-"La Comisión", en el ámbito de su competencia, promoverá las medidas preventivas y de control para evitar la contaminación de las aguas superficiales o las del subsuelo por materiales y residuos peligrosos.
+"[La Comisión](articulo-1o.md)", en el ámbito de su competencia, promoverá las medidas preventivas y de control para evitar la contaminación de las aguas superficiales o las del subsuelo por materiales y residuos peligrosos.
 
-En el caso de que el vertido o infiltración de dichos materiales y residuos peligrosos contaminen las aguas nacionales superficiales o del subsuelo, o los bienes nacionales a que se refiere la "Ley", "La Comisión" determinará las medidas correctivas que deban llevar a cabo las personas físicas o morales responsables o las que, con cargo a éstas, efectuará "La Comisión".
+En el caso de que el vertido o infiltración de dichos materiales y residuos peligrosos contaminen las aguas nacionales superficiales o del subsuelo, o los bienes nacionales a que se refiere la "[Ley](articulo-1o.md)", "La Comisión" determinará las medidas correctivas que deban llevar a cabo las personas físicas o morales responsables o las que, con cargo a éstas, efectuará "La Comisión".
 
 El daño causado se determinará y cuantificará por "La Comisión", en el ámbito de su competencia, y se notificará a los responsables la resolución respectiva y se gestionará su cobro conforme a la "Ley".
 

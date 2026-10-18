@@ -19,6 +19,6 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 Cuando para el cumplimiento de la obligación legal de tratar aguas residuales, se contraten o utilicen los servicios de empresas que realicen dicha actividad, estas últimas serán las que soliciten el permiso de descarga de aguas residuales y cumplirán con lo dispuesto en este Capítulo, siempre que utilicen bienes nacionales como cuerpos receptores de las descargas de las plantas de tratamiento respectivas.
 
-En el caso del párrafo anterior, las personas físicas o morales que contraten o utilicen los servicios mencionados, serán, conforme a la ley, solidariamente responsables con las empresas que traten aguas residuales del cumplimiento de lo dispuesto en la "Ley" y el presente "Reglamento" en materia de control y prevención de la calidad de las aguas.
+En el caso del párrafo anterior, las personas físicas o morales que contraten o utilicen los servicios mencionados, serán, conforme a la ley, solidariamente responsables con las empresas que traten aguas residuales del cumplimiento de lo dispuesto en la "[Ley](articulo-1o.md)" y el presente "[Reglamento](articulo-1o.md)" en materia de control y prevención de la calidad de las aguas.
 
 Independientemente de lo anterior, si antes de llegar a la planta de tratamiento, se descargan aguas residuales a corrientes o depósitos de aguas nacionales, se deberá contar con el permiso de descarga respectivo.

@@ -17,7 +17,7 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 200
 
-La designación de árbitro se hará constar mediante acta que levantará al efecto "La Comisión", en la que se señalarán claramente los puntos esenciales de la controversia y si el arbitraje es en estricto derecho o en amigable composición.
+La designación de árbitro se hará constar mediante acta que levantará al efecto "[La Comisión](articulo-1o.md)", en la que se señalarán claramente los puntos esenciales de la controversia y si el arbitraje es en estricto derecho o en amigable composición.
 
 En el arbitraje en amigable composición, se fijarán las cuestiones que deberán ser objeto del arbitraje y el árbitro propondrá a las partes las reglas para la sustanciación del juicio y tendrá libertad para resolver en conciencia y a buena fe guardada, sin sujeción a reglas legales, pero observando las formalidades esenciales del procedimiento. El árbitro tendrá la facultad de allegarse todos los elementos que juzgue necesarios para resolver las cuestiones que se le hayan planteado. No habrá términos ni incidentes.
 

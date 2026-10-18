@@ -17,7 +17,7 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 92
 
-Para efectos del artículo [52](../../lan/markdown/articulo-52.md) de la "Ley", los derechos de explotación, uso o aprovechamiento de aguas de los miembros de las personas morales a que se refiere la fracción II, del artículo [50](articulo-50.md) de la misma, deberán registrarse en el padrón de usuarios que integrará "La Comisión" y que el concesionario mantendrá actualizado.
+Para efectos del artículo [52](../../lan/markdown/articulo-52.md) de la "[Ley](articulo-1o.md)", los derechos de explotación, uso o aprovechamiento de aguas de los miembros de las personas morales a que se refiere la fracción II, del artículo [50](articulo-50.md) de la misma, deberán registrarse en el padrón de usuarios que integrará "[La Comisión](articulo-1o.md)" y que el concesionario mantendrá actualizado.
 
 El padrón de usuarios contendrá, entre otros, los siguientes datos:
 

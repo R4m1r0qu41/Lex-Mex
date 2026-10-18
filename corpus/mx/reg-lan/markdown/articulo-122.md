@@ -17,4 +17,4 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 122
 
-"La Comisión" otorgará a la Comisión Federal de Electricidad sin mayor trámite, la asignación de aguas nacionales para la generación de energía eléctrica con base en la programación hidráulica a que se refiere el Título Tercero de la "Ley" y a las reservas decretadas para tal uso conforme al Título Quinto de la misma.
+"[La Comisión](articulo-1o.md)" otorgará a la Comisión Federal de Electricidad sin mayor trámite, la asignación de aguas nacionales para la generación de energía eléctrica con base en la programación hidráulica a que se refiere el Título Tercero de la "[Ley](articulo-1o.md)" y a las reservas decretadas para tal uso conforme al Título Quinto de la misma.

@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lan:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lan",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:1",
+    "start_char": 82,
+    "end_char": 348,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lan:term:reglamento",
+    "term": "Reglamento",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lan",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:1",
+    "start_char": 82,
+    "end_char": 348,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lan:term:la-comision",
+    "term": "La Comisión",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lan",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:1",
+    "start_char": 82,
+    "end_char": 348,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lan:term:registro",
+    "term": "Registro",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lan",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:1",
+    "start_char": 82,
+    "end_char": 348,
+    "basis": "express_definition"
+  }
+]

@@ -29,6 +29,6 @@ IV. Las medidas necesarias para hacer frente a situaciones de emergencia, escase
 
 V. Los mecanismos que garanticen la participación de los usuarios en la aplicación del reglamento, y
 
-VI. Las sanciones por incumplimiento previstas en la "Ley".
+VI. Las sanciones por incumplimiento previstas en la "[Ley](articulo-1o.md)".
 
 En el reglamento de estas zonas se atenderá a los usos del agua previstos en el Título Sexto de la "Ley", teniendo prioridad el abastecimiento para consumo humano.

@@ -17,7 +17,7 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 9o
 
-Para efectos de la fracción X, del artículo [9](../../lan/markdown/articulo-9.md)o., de la "Ley", "La Comisión" podrá ejercer las siguientes atribuciones fiscales respecto a las contribuciones y aprovechamientos a que el citado precepto se refiere, en los términos del Código Fiscal de la Federación:
+Para efectos de la fracción X, del artículo [9](../../lan/markdown/articulo-9.md)o., de la "[Ley](articulo-1o.md)", "[La Comisión](articulo-1o.md)" podrá ejercer las siguientes atribuciones fiscales respecto a las contribuciones y aprovechamientos a que el citado precepto se refiere, en los términos del Código Fiscal de la Federación:
 
 I. Devolver y compensar pagos;
 
@@ -41,4 +41,4 @@ Los pagos que se deban efectuar conforme a lo señalado en esta disposición, se
 
 El ejercicio de las facultades a que se refiere este artículo, es independiente y sin menoscabo de las atribuciones que competen a la Secretaría de Hacienda y Crédito Público.
 
-Cuando en el ejercicio de las facultades fiscales a que se refiere este artículo, "La Comisión" imponga multas por infracciones a las disposiciones fiscales y éstas sean efectivamente pagadas y hubieren quedado firmes, las mismas se destinarán a los fondos de productividad para el otorgamiento de estímulos y recompensas a los servidores públicos de "La Comisión". En la distribución de los fondos se estará a lo dispuesto en el artículo [14](articulo-14.md), fracción XIII, del presente "Reglamento".
+Cuando en el ejercicio de las facultades fiscales a que se refiere este artículo, "La Comisión" imponga multas por infracciones a las disposiciones fiscales y éstas sean efectivamente pagadas y hubieren quedado firmes, las mismas se destinarán a los fondos de productividad para el otorgamiento de estímulos y recompensas a los servidores públicos de "La Comisión". En la distribución de los fondos se estará a lo dispuesto en el artículo [14](articulo-14.md), fracción XIII, del presente "[Reglamento](articulo-1o.md)".

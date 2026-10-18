@@ -29,7 +29,7 @@ III. Presentar la documentación que acredite al solicitante como causahabiente 
 
 IV. Presentar documentos que acrediten el pago de las contribuciones y aprovechamientos fiscales en materia de aguas nacionales, por el último ejercicio fiscal.
 
-En la solicitud se deberán asumir expresamente frente a "La Comisión" los compromisos a que se refiere la fracción IV, del artículo [69](articulo-69.md) de este "Reglamento".
+En la solicitud se deberán asumir expresamente frente a "[La Comisión](articulo-1o.md)" los compromisos a que se refiere la fracción IV, del artículo [69](articulo-69.md) de este "[Reglamento](articulo-1o.md)".
 
 Cumplidos los requisitos anteriores, "La Comisión" autorizará, en su caso, la transferencia en un plazo de sesenta días hábiles.
 

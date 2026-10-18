@@ -17,9 +17,9 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 171
 
-Para efectos de los artículos [97](../../lan/markdown/articulo-97.md) y [98](../../lan/markdown/articulo-98.md) de la "Ley":
+Para efectos de los artículos [97](../../lan/markdown/articulo-97.md) y [98](../../lan/markdown/articulo-98.md) de la "[Ley](articulo-1o.md)":
 
-I. Sólo podrán ejecutarse obras para encauzamiento, dragado, limitación o desecación parcial o total de corrientes y depósitos de agua de propiedad nacional, previo permiso de "La Comisión", la que determinará la forma y términos para ejecutar dichas obras, y
+I. Sólo podrán ejecutarse obras para encauzamiento, dragado, limitación o desecación parcial o total de corrientes y depósitos de agua de propiedad nacional, previo permiso de "[La Comisión](articulo-1o.md)", la que determinará la forma y términos para ejecutar dichas obras, y
 
 II. "La Comisión", en el ámbito de su competencia, podrá permitir la construcción de canales y dársenas en la ribera o zona federal de corrientes, lagos o lagunas a su cargo.
 

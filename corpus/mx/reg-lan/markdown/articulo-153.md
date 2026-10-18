@@ -17,7 +17,7 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 153
 
-Para efectos del artículo [92](../../lan/markdown/articulo-92.md) de la "Ley", para poder ordenar la suspensión de las actividades que den origen a las descargas de aguas residuales, "La Comisión" seguirá el siguiente procedimiento:
+Para efectos del artículo [92](../../lan/markdown/articulo-92.md) de la "[Ley](articulo-1o.md)", para poder ordenar la suspensión de las actividades que den origen a las descargas de aguas residuales, "[La Comisión](articulo-1o.md)" seguirá el siguiente procedimiento:
 
 I. Se realizará visita de inspección a las instalaciones de la persona, cuando considere que les son aplicables la "Ley" y la Ley General del Equilibrio Ecológico y la Protección al Ambiente, de conformidad con lo que señalan las mismas;
 

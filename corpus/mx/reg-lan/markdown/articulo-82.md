@@ -17,7 +17,7 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 82
 
-"La Comisión" podrá otorgar:
+"[La Comisión](articulo-1o.md)" podrá otorgar:
 
 I. La asignación de agua a organismos o entidades paraestatales o paramunicipales que administren los sistemas de agua potable y alcantarillado de los municipios, así como de las zonas conurbadas o intermunicipales;
 

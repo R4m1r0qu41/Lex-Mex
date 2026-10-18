@@ -17,6 +17,6 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 185
 
-Para la aplicación de las sanciones a que se refiere la "Ley", cuando no se hubiere levantado acta administrativa previa, "La Comisión" notificará al presunto infractor de los hechos motivo de la infracción, y le otorgará un plazo de quince días hábiles para que presente pruebas y manifieste por escrito lo que a su derecho convenga. Transcurrido el término otorgado, "La Comisión" dictará la resolución que corresponda.
+Para la aplicación de las sanciones a que se refiere la "[Ley](articulo-1o.md)", cuando no se hubiere levantado acta administrativa previa, "[La Comisión](articulo-1o.md)" notificará al presunto infractor de los hechos motivo de la infracción, y le otorgará un plazo de quince días hábiles para que presente pruebas y manifieste por escrito lo que a su derecho convenga. Transcurrido el término otorgado, "La Comisión" dictará la resolución que corresponda.
 
 Las sanciones que se señalen en este capítulo se aplicarán sin perjuicio de la responsabilidad civil o penal que resulte, ni será obstáculo para que "La Comisión", cuando proceda, revoque la concesión, asignación o permiso.

@@ -17,7 +17,7 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 15
 
-Los Consejos de Cuenca cuyo establecimiento acuerde el Consejo Técnico de “La Comisión”, tendrán la delimitación territorial que comprenda el área geográfica de la cuenca o cuencas hidrológicas en que se constituyan. Los Consejos de Cuenca se integrarán conforme a lo siguiente:
+Los Consejos de Cuenca cuyo establecimiento acuerde el Consejo Técnico de “[La Comisión](articulo-1o.md)”, tendrán la delimitación territorial que comprenda el área geográfica de la cuenca o cuencas hidrológicas en que se constituyan. Los Consejos de Cuenca se integrarán conforme a lo siguiente:
 
 I. Formarán parte de los Consejos de Cuenca:
 

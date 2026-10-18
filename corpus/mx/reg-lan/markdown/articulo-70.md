@@ -17,6 +17,6 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 70
 
-"La Comisión" podrá pedir a los solicitantes los datos, documentos y aclaraciones que estime necesarios para emitir su decisión y, con tal objeto, les concederá un plazo de hasta diez días hábiles para su presentación; en caso de no hacerlo dentro del plazo señalado, se tendrá por no presentada la solicitud.
+"[La Comisión](articulo-1o.md)" podrá pedir a los solicitantes los datos, documentos y aclaraciones que estime necesarios para emitir su decisión y, con tal objeto, les concederá un plazo de hasta diez días hábiles para su presentación; en caso de no hacerlo dentro del plazo señalado, se tendrá por no presentada la solicitud.
 
-"La Comisión" deberá dar contestación a la solicitud en un término que no excederá de noventa días hábiles, a partir de su presentación y de toda la documentación que se deba acompañar a la misma, en los términos de la "Ley" y del presente "Reglamento".
+"La Comisión" deberá dar contestación a la solicitud en un término que no excederá de noventa días hábiles, a partir de su presentación y de toda la documentación que se deba acompañar a la misma, en los términos de la "[Ley](articulo-1o.md)" y del presente "[Reglamento](articulo-1o.md)".

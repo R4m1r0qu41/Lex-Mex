@@ -17,6 +17,6 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 79
 
-En las zonas en las cuales el Ejecutivo Federal haya decretado una veda o en las zonas en las que se haya reglamentado la extracción y utilización de aguas nacionales del subsuelo, "La Comisión", en los términos de la "Ley" y el presente "Reglamento", a solicitud de los usuarios, expedirá las concesiones o asignaciones para su explotación, uso o aprovechamiento.
+En las zonas en las cuales el Ejecutivo Federal haya decretado una veda o en las zonas en las que se haya reglamentado la extracción y utilización de aguas nacionales del subsuelo, "[La Comisión](articulo-1o.md)", en los términos de la "[Ley](articulo-1o.md)" y el presente "[Reglamento](articulo-1o.md)", a solicitud de los usuarios, expedirá las concesiones o asignaciones para su explotación, uso o aprovechamiento.
 
 Las aguas nacionales superficiales se podrán continuar explotando, usando o aprovechando al amparo del título de concesión o asignación respectiva, con las limitaciones y modalidades que en su caso establezcan los decretos y reglamentos correspondientes.

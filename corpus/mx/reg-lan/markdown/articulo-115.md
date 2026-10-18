@@ -17,6 +17,6 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 115
 
-Los beneficiarios de las unidades de drenaje están obligados a utilizar la infraestructura respectiva en los términos de la "Ley", de este "Reglamento" y del reglamento de la unidad de drenaje, y las personas morales a que se refiere el artículo [113](articulo-113.md) de este "Reglamento", vigilarán que esto se cumpla.
+Los beneficiarios de las unidades de drenaje están obligados a utilizar la infraestructura respectiva en los términos de la "[Ley](articulo-1o.md)", de este "[Reglamento](articulo-1o.md)" y del reglamento de la unidad de drenaje, y las personas morales a que se refiere el artículo [113](articulo-113.md) de este "Reglamento", vigilarán que esto se cumpla.
 
-"La Comisión" será la autoridad en materia de agua en las unidades de drenaje descentralizadas, y actuará en los términos previstos en la "Ley" y el presente "Reglamento".
+"[La Comisión](articulo-1o.md)" será la autoridad en materia de agua en las unidades de drenaje descentralizadas, y actuará en los términos previstos en la "Ley" y el presente "Reglamento".

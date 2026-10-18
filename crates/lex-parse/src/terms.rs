@@ -7,7 +7,10 @@
 //! `colon_entries` (`Término: a …`, produced by the definition-layout
 //! reconstruction, with non-entry paragraphs continuing the previous
 //! entry), and `roman_colon` (`I. Término: …`, scanned inline so a
-//! glossary whose fractions share one paragraph still splits).
+//! glossary whose fractions share one paragraph still splits). A fourth,
+//! `quoted_respectively`, reads the single sentence `…los vocablos "A",
+//! "B" y "C", se entenderá que se refiere a X, a Y y a Z, respectivamente.`
+//! (`reg-lan` Article 1).
 //!
 //! Usage linking is deterministic and case-sensitive: an occurrence matches
 //! a term exactly or through one generated singular/plural variant, at word
@@ -31,6 +34,10 @@ pub enum GlossaryStyle {
     /// then the definition. Scanned inline, so a glossary whose fractions
     /// share one paragraph (no blank line between them) still splits.
     RomanColon,
+    /// `…los vocablos "A", "B" y "C", se entenderá que se refiere a X, a Y y
+    /// a Z, respectivamente.` — each quoted vocable is a term and the whole
+    /// sentence is every term's definition span.
+    QuotedRespectively,
 }
 
 impl GlossaryStyle {
@@ -40,6 +47,7 @@ impl GlossaryStyle {
             "colon_entries" => Ok(Self::ColonEntries),
             "roman_colon" => Ok(Self::RomanColon),
             "mixed_fractions" => Ok(Self::MixedFractions),
+            "quoted_respectively" => Ok(Self::QuotedRespectively),
             other => bail!("unsupported glossary style {other:?}"),
         }
     }
@@ -56,6 +64,7 @@ pub fn extract_terms(provision: &Provision, style: GlossaryStyle) -> Result<Vec<
         GlossaryStyle::ColonEntries => colon_entries(provision),
         GlossaryStyle::RomanColon => roman_colon_entries(provision)?,
         GlossaryStyle::MixedFractions => mixed_fraction_entries(provision)?,
+        GlossaryStyle::QuotedRespectively => quoted_respectively_entries(provision)?,
     };
     terms_from_entries(provision, entries)
 }
@@ -336,6 +345,60 @@ fn roman_colon_entries(provision: &Provision) -> Result<Vec<GlossaryEntry>> {
         });
     }
     Ok(entries)
+}
+
+/// Quoted vocables paired with their referents by `respectivamente`. The
+/// sentence must list at least two quoted vocables and as many referents,
+/// or extraction fails rather than guessing the pairing. Each entry's span is
+/// the whole sentence, so the referents (`la Ley de Aguas Nacionales`) are
+/// the definition, not usages.
+fn quoted_respectively_entries(provision: &Provision) -> Result<Vec<GlossaryEntry>> {
+    let sentence_re = Regex::new(
+        r#"(?:vocablos|términos|expresiones|palabras)\s+(["“][^"”]+["”](?:\s*,\s*["“][^"”]+["”])*\s+y\s+["“][^"”]+["”]),?\s+se\s+entender[áa]\s+que\s+se\s+refieren?\s+([^.]+?),?\s+respectivamente\."#,
+    )?;
+    let quoted_re = Regex::new(r#"["“]([^"”]+)["”]"#)?;
+    let text = &provision.text;
+    let Some(captures) = sentence_re.captures(text) else {
+        bail!(
+            "glossary provision {} has no quoted `respectivamente` definition",
+            provision.id
+        );
+    };
+    let sentence = captures.get(0).expect("sentence");
+    let terms: Vec<String> = quoted_re
+        .captures_iter(&captures[1])
+        .map(|quoted| quoted[1].trim().to_owned())
+        .collect();
+    let referents = &captures[2];
+    let mut referent_count = referents.split(", ").count();
+    if referents
+        .rsplit(", ")
+        .next()
+        .is_some_and(|last| last.contains(" y "))
+    {
+        referent_count += 1;
+    }
+    if referent_count != terms.len() {
+        bail!(
+            "glossary provision {} pairs {} vocables with {referent_count} referents",
+            provision.id,
+            terms.len()
+        );
+    }
+    let sentence_start = text[..sentence.start()]
+        .rfind(". ")
+        .map_or(0, |index| index + 2);
+    let start_char = text[..sentence_start].chars().count();
+    let end_char = text[..sentence.end()].chars().count();
+    Ok(terms
+        .into_iter()
+        .map(|term| GlossaryEntry {
+            term,
+            fraction: None,
+            start_char,
+            end_char,
+        })
+        .collect())
 }
 
 /// Extract every exact defined-term occurrence across the provisions.
@@ -882,6 +945,66 @@ mod tests {
                 .collect::<Vec<_>>(),
             ["Usuario de la Infraestructura Tecnológica", "Cuenta"]
         );
+    }
+
+    #[test]
+    fn quoted_respectively_terms_share_the_defining_sentence() {
+        // reg-lan Article 1, verbatim.
+        let glossary = provision(
+            REGULATION_ID,
+            "article:1",
+            "El presente ordenamiento tiene por objeto reglamentar la Ley de Aguas \
+             Nacionales. Cuando en el mismo se expresen los vocablos \"Ley\", \
+             \"Reglamento\", \"La Comisión\" y \"Registro\", se entenderá que se \
+             refiere a la Ley de Aguas Nacionales, al presente Reglamento, a la \
+             Comisión Nacional del Agua y al Registro Público de Derechos de Agua, \
+             respectivamente.",
+        );
+        let terms = extract_terms(&glossary, GlossaryStyle::QuotedRespectively).unwrap();
+        assert_eq!(
+            terms
+                .iter()
+                .map(|term| (term.term.as_str(), term.id.rsplit(':').next().unwrap()))
+                .collect::<Vec<_>>(),
+            [
+                ("Ley", "ley"),
+                ("Reglamento", "reglamento"),
+                ("La Comisión", "la-comision"),
+                ("Registro", "registro"),
+            ]
+        );
+        let chars: Vec<char> = glossary.text.chars().collect();
+        let span: String = chars[terms[0].start_char..terms[0].end_char]
+            .iter()
+            .collect();
+        assert!(span.starts_with("Cuando en el mismo"));
+        assert!(span.ends_with("respectivamente."));
+        assert!(terms.iter().all(|term| term.fraction.is_none()
+            && (term.start_char, term.end_char) == (terms[0].start_char, terms[0].end_char)));
+
+        // The parent law named in the first sentence is a usage; the
+        // referents inside the defining sentence are not.
+        let usages = extract_term_usages(std::slice::from_ref(&glossary), &[&terms]).unwrap();
+        assert_eq!(
+            usages
+                .iter()
+                .map(|usage| (usage.span.as_str(), usage.start_char < terms[0].start_char))
+                .collect::<Vec<_>>(),
+            [("Ley", true)]
+        );
+    }
+
+    #[test]
+    fn quoted_respectively_refuses_an_unpaired_sentence() {
+        let glossary = provision(
+            REGULATION_ID,
+            "article:1",
+            "Cuando se expresen los vocablos \"Ley\" y \"Reglamento\", se entenderá \
+             que se refiere a la Ley de Aguas Nacionales, respectivamente.",
+        );
+        assert!(extract_terms(&glossary, GlossaryStyle::QuotedRespectively).is_err());
+        let prose = provision(REGULATION_ID, "article:1", "Sin definiciones.");
+        assert!(extract_terms(&prose, GlossaryStyle::QuotedRespectively).is_err());
     }
     #[test]
     fn reviewed_mixed_glossary_preserves_internal_commas_and_page_joined_entry() {

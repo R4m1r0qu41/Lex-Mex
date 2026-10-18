@@ -17,4 +17,4 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 175
 
-La preferencia en el otorgamiento de las concesiones a que se refiere el último párrafo del artículo [118](../../lan/markdown/articulo-118.md) de la "Ley", para la explotación, uso o aprovechamiento de la zona federal a cargo de "La Comisión", no comprenderá el cauce, el vaso, ni los materiales de construcción.
+La preferencia en el otorgamiento de las concesiones a que se refiere el último párrafo del artículo [118](../../lan/markdown/articulo-118.md) de la "[Ley](articulo-1o.md)", para la explotación, uso o aprovechamiento de la zona federal a cargo de "[La Comisión](articulo-1o.md)", no comprenderá el cauce, el vaso, ni los materiales de construcción.

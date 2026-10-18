@@ -17,4 +17,4 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 121
 
-"La Comisión" podrá aprovechar las aguas nacionales y la infraestructura hidráulica federal para generar energía eléctrica destinada a la prestación de los servicios hidráulicos federales a su cargo, y disponer de los excedentes, en los términos que señale la Ley de Servicio Público de Energía Eléctrica y su reglamento, conforme a lo dispuesto en el artículo [79](../../lan/markdown/articulo-79.md) de la "Ley".
+"[La Comisión](articulo-1o.md)" podrá aprovechar las aguas nacionales y la infraestructura hidráulica federal para generar energía eléctrica destinada a la prestación de los servicios hidráulicos federales a su cargo, y disponer de los excedentes, en los términos que señale la [Ley](articulo-1o.md) de Servicio Público de Energía Eléctrica y su reglamento, conforme a lo dispuesto en el artículo [79](../../lan/markdown/articulo-79.md) de la "Ley".

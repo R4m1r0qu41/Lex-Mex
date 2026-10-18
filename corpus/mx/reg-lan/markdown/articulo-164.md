@@ -17,6 +17,6 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 164
 
-"La Comisión" podrá autorizar la cesión total de las obligaciones y derechos derivados de las concesiones, siempre que la concesión hubiere estado vigente por un lapso no menor de tres años; que el cedente haya cumplido con sus obligaciones, y que el cesionario reúna los mismos requisitos que se tuvieron en cuenta para el otorgamiento de la concesión respectiva y se subrogue en los derechos y obligaciones del cedente.
+"[La Comisión](articulo-1o.md)" podrá autorizar la cesión total de las obligaciones y derechos derivados de las concesiones, siempre que la concesión hubiere estado vigente por un lapso no menor de tres años; que el cedente haya cumplido con sus obligaciones, y que el cesionario reúna los mismos requisitos que se tuvieron en cuenta para el otorgamiento de la concesión respectiva y se subrogue en los derechos y obligaciones del cedente.
 
 En estos casos, "La Comisión" deberá vigilar que el adquirente provea lo necesario para que la transmisión no afecte la operación, conservación y mantenimiento de las obras, la continuidad de los servicios y el cobro de las cuotas respectivas.

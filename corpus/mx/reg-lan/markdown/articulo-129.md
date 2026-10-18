@@ -17,6 +17,6 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 129
 
-"La Comisión", en el ámbito de su competencia y en coordinación con las demás autoridades competentes y con las personas responsables, promoverá la integración y actualización de un inventario del estado de las obras hidráulicas públicas, privadas o sociales, con la finalidad de identificar medidas necesarias para la protección de la infraestructura hidráulica.
+"[La Comisión](articulo-1o.md)", en el ámbito de su competencia y en coordinación con las demás autoridades competentes y con las personas responsables, promoverá la integración y actualización de un inventario del estado de las obras hidráulicas públicas, privadas o sociales, con la finalidad de identificar medidas necesarias para la protección de la infraestructura hidráulica.
 
 Conforme a lo anterior, la ejecución de las medidas identificadas será responsabilidad de los titulares de las obras y en su caso de los administradores o concesionarios que tengan a su cargo su operación y conservación, sin perjuicio de la responsabilidad que corresponda a los primeros.

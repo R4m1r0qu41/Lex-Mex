@@ -17,7 +17,7 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 14
 
-Para efectos del artículo [12](../../lan/markdown/articulo-12.md) de la "Ley", el Director General de "La Comisión" tendrá las siguientes facultades:
+Para efectos del artículo [12](../../lan/markdown/articulo-12.md) de la "[Ley](articulo-1o.md)", el Director General de "[La Comisión](articulo-1o.md)" tendrá las siguientes facultades:
 
 I. Dirigir y representar legalmente a "La Comisión", así como efectuar el trámite y resolución de los asuntos de la competencia de "La Comisión";
 
@@ -25,7 +25,7 @@ II. Planear, programar, organizar, administrar, controlar y evaluar el funcionam
 
 III. Establecer las políticas, normas, sistemas y procedimientos tanto de carácter técnico, como para la administración de los recursos humanos, financieros, materiales y tecnológicos de "La Comisión", de acuerdo a sus programas y objetivos;
 
-IV. Adscribir orgánicamente las unidades administrativas de "La Comisión" que propicien el debido cumplimiento de la "Ley" y este "Reglamento", tanto en el ámbito nacional y estatal como en el de las cuencas hidrológicas, fijar su número y jurisdicción, y mandar publicar los acuerdos respectivos en el Diario Oficial de la Federación;
+IV. Adscribir orgánicamente las unidades administrativas de "La Comisión" que propicien el debido cumplimiento de la "Ley" y este "[Reglamento](articulo-1o.md)", tanto en el ámbito nacional y estatal como en el de las cuencas hidrológicas, fijar su número y jurisdicción, y mandar publicar los acuerdos respectivos en el Diario Oficial de la Federación;
 
 V. Delegar sus facultades en los servidores públicos o unidades administrativas de "La Comisión", sin menoscabo de su ejercicio directo, así como mandar publicar los acuerdos respectivos en el Diario Oficial de la Federación;
 
