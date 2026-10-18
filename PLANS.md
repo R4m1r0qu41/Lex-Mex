@@ -51,6 +51,10 @@ secrets, transcripts, hidden reasoning, or mutable copies of external state.
 
 ### Active
 
+- [`docs/plans/sqlite-corpus-database.md`](docs/plans/sqlite-corpus-database.md)
+  — Database-only SQLite/rusqlite projection: pinned inputs, complete provenance,
+  FTS, parity checks and reproducible local artifacts; plan ready, build not started.
+
 - [`docs/plans/corpus-wide-reverse-linking.md`](docs/plans/corpus-wide-reverse-linking.md)
   — Relink the committed federal corpus, then validate and republish Markdown.
   Landed locally, unpushed (8 held). Held instruments and

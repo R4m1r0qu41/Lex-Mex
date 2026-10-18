@@ -1,5 +1,9 @@
 # Architecture decisions
 
+## 2026-10-17 — SQLite projection plan adopted with changes
+
+The database plan (`docs/plans/sqlite-corpus-database.md`) is adopted with these operator-approved changes: the build runs in a dedicated worktree and branch and merges into `main` after acceptance; releases live in the Git-ignored `derived/db/` folder inside the repository and are never committed, laid out as immutable content-addressed directories so they can be published online later; the 32 standards are catalogue-only; a logical content digest is the reproducibility gate and byte identity a reported observation; known structural debt, reproducibility status and accepted-gap targets are stored so "absent" is never read as "does not exist". Prerequisite: the linker records each edge's `resolution_rule` before the database build.
+
 ## 2026-10-17 — Codex review fixes (R1–R6) and the validation-warning decisions
 
 Codex's review of the parent-law work asked for six repairs (R1–R6); they were made in `feeabc23e` and Codex verified them there. The follow-on punctuation fix (`7dc6d649c`) and the three warning changes below have not yet been reviewed by Codex. R1–R6: a configured full law title outranks its bare-parent prefix; a quoted `“Ley”` no longer bypasses the dated or anaphoric exclusions; unsupported anaphora (`en comento`, `que se cita`) and equivalent historical wording (`en vigor al…`, `que estaba vigente al…`) stay unlinked, as does a dated modifier behind an attached comma or parenthesis; `link <slug>` applies the same protected-edge guard as the corpus closure and refuses before writing, with the audited override `link <slug> --migrate-protected` (it prints every changed edge and cannot be combined with `--all`; use it only for a recorded operator migration such as LRSIC/LGMIME); and `validate` rechecks every persisted `legal_operator_review` against its edge and source text (`legal_operator_review_invalid`).
