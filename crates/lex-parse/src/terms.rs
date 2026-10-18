@@ -492,6 +492,63 @@ fn provision_usages(
     usages
 }
 
+/// Extract usages written exactly as a glossary prints its vocables: the
+/// term, case-sensitive and without singular/plural variants, between a
+/// matched pair of straight (`"Ley"`) or curly (`“Ley”`) quotes. The usage
+/// span is the term inside the quotes. An adapter opts in with
+/// `usage_form: "quoted"` (`reg-lan`, whose Article 1 defines its vocables
+/// in quotes), so a bare word, or the first word of another title such as
+/// `Ley Federal de Derechos`, is not a usage. `term_sets` priority and the
+/// own-definition exclusion are as in [`extract_term_usages`].
+pub fn extract_quoted_term_usages(
+    provisions: &[Provision],
+    term_sets: &[&[DefinedTerm]],
+) -> Result<Vec<TermUsage>> {
+    let mut candidates: Vec<&DefinedTerm> = term_sets.iter().flat_map(|set| set.iter()).collect();
+    // Longest terms first; ties keep `term_sets` priority (stable sort).
+    candidates.sort_by_key(|term| std::cmp::Reverse(term.term.chars().count()));
+
+    let mut usages = Vec::new();
+    for provision in provisions {
+        let chars: Vec<char> = provision.text.chars().collect();
+        let mut position = 0;
+        while position < chars.len() {
+            let close = match chars[position] {
+                '"' => '"',
+                '“' => '”',
+                _ => {
+                    position += 1;
+                    continue;
+                }
+            };
+            let start = position + 1;
+            let matched = candidates.iter().find(|term| {
+                let end = start + term.term.chars().count();
+                matches_at(&chars, start, &term.term)
+                    && chars.get(end) == Some(&close)
+                    && !inside_own_definition(term, provision, start)
+            });
+            let Some(term) = matched else {
+                position += 1;
+                continue;
+            };
+            let end_char = start + term.term.chars().count();
+            usages.push(TermUsage {
+                schema_version: SCHEMA_VERSION.to_owned(),
+                id: format!("{}:term-usage:{start}-{end_char}", provision.id),
+                provision_id: provision.id.clone(),
+                term_id: term.id.clone(),
+                span: term.term.clone(),
+                start_char: start,
+                end_char,
+            });
+            // Resume after the closing quote, so it never opens a new match.
+            position = end_char + 1;
+        }
+    }
+    Ok(usages)
+}
+
 fn starts_word(chars: &[char], position: usize) -> bool {
     chars[position].is_alphabetic() && (position == 0 || !chars[position - 1].is_alphanumeric())
 }
@@ -681,7 +738,10 @@ mod tests {
     };
     use pretty_assertions::assert_eq;
 
-    use super::{GlossaryStyle, detect_glossary_terms, extract_term_usages, extract_terms};
+    use super::{
+        GlossaryStyle, detect_glossary_terms, extract_quoted_term_usages, extract_term_usages,
+        extract_terms,
+    };
 
     const STATUTE_ID: &str = "urn:lex-mx:test:statute";
     const REGULATION_ID: &str = "urn:lex-mx:test:regulation";
@@ -1023,6 +1083,46 @@ mod tests {
         assert!(extract_terms(&glossary, GlossaryStyle::QuotedRespectively).is_err());
         let prose = provision(REGULATION_ID, "article:1", "Sin definiciones.");
         assert!(extract_terms(&prose, GlossaryStyle::QuotedRespectively).is_err());
+    }
+
+    #[test]
+    fn quoted_usage_form_matches_only_the_quoted_vocable() {
+        let glossary = provision(
+            REGULATION_ID,
+            "article:1",
+            "El presente ordenamiento tiene por objeto reglamentar la Ley de Aguas \
+             Nacionales. Cuando en el mismo se expresen los vocablos \"Ley\", \
+             \"Reglamento\", \"La Comisión\" y \"Registro\", se entenderá que se \
+             refiere a la Ley de Aguas Nacionales, al presente Reglamento, a la \
+             Comisión Nacional del Agua y al Registro Público de Derechos de Agua, \
+             respectivamente.",
+        );
+        let terms = extract_terms(&glossary, GlossaryStyle::QuotedRespectively).unwrap();
+        let body = provision(
+            REGULATION_ID,
+            "article:2",
+            "\"La Comisión\" aplicará la \"Ley\" y el “Reglamento”. La Ley, la Ley \
+             Federal de Derechos, las \"Leyes\", la \"ley\", el \"Registro” y el \
+             “Registro\" no cuentan; la Comisión tampoco.",
+        );
+        let usages =
+            extract_quoted_term_usages(&[glossary.clone(), body.clone()], &[&terms]).unwrap();
+        // Article 1's own quoted vocables are the definition, not usages.
+        assert!(usages.iter().all(|usage| usage.provision_id == body.id));
+        assert_eq!(
+            usages
+                .iter()
+                .map(|usage| usage.span.as_str())
+                .collect::<Vec<_>>(),
+            ["La Comisión", "Ley", "Reglamento"]
+        );
+        let chars: Vec<char> = body.text.chars().collect();
+        for usage in &usages {
+            let span: String = chars[usage.start_char..usage.end_char].iter().collect();
+            assert_eq!(span, usage.span);
+            assert!(matches!(chars[usage.start_char - 1], '"' | '“'));
+            assert!(matches!(chars[usage.end_char], '"' | '”'));
+        }
     }
 
     #[test]

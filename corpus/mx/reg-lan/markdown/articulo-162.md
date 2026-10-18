@@ -29,6 +29,6 @@ IV. Ejercitar en los términos de la concesión, los derechos afectos a la misma
 
 V. Cubrir los derechos y aprovechamientos por la explotación y supervisión de los servicios y obras concesionadas, en los términos de la ley y el título respectivo;
 
-VI. Llevar a cabo las medidas de impacto ambiental necesarias y, en general, cumplir con lo dispuesto en la [Ley](articulo-1o.md) General del Equilibrio Ecológico y la Protección al Ambiente y su [Reglamento](articulo-1o.md) en la Materia; VII. Contratar por su cuenta y mantener en vigor las pólizas de seguros contra riesgos respecto a las construcciones e instalaciones existentes en el área concesionada, en el concepto de que el importe de la indemnización en su caso, deberá aplicarse a la reparación del o los daños causados, y
+VI. Llevar a cabo las medidas de impacto ambiental necesarias y, en general, cumplir con lo dispuesto en la Ley General del Equilibrio Ecológico y la Protección al Ambiente y su Reglamento en la Materia; VII. Contratar por su cuenta y mantener en vigor las pólizas de seguros contra riesgos respecto a las construcciones e instalaciones existentes en el área concesionada, en el concepto de que el importe de la indemnización en su caso, deberá aplicarse a la reparación del o los daños causados, y
 
 VIII. Las demás que señale el título de concesión en los términos del concurso.

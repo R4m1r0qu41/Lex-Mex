@@ -26,9 +26,9 @@ use lex_parse::{
     Commencement, CorpusExpectations, CorpusView, DiputadosOptions, GlossaryStyle,
     InstrumentContextPolicy, ReferenceOptions, audit_pdf, derive_article_temporal_determinations,
     detect_glossary_terms, extract_doc, extract_html_text, extract_internal_references,
-    extract_pdf, extract_references, extract_term_usages, extract_terms, find_admitted_furniture,
-    find_glossary_provision, parse_dcg, parse_itf_dcg, repair_article_dates,
-    repair_partial_repeals, validate_corpus,
+    extract_pdf, extract_quoted_term_usages, extract_references, extract_term_usages,
+    extract_terms, find_admitted_furniture, find_glossary_provision, parse_dcg, parse_itf_dcg,
+    repair_article_dates, repair_partial_repeals, validate_corpus,
 };
 use lex_source::{
     SourceConfig, SourceFormat, discover, fetch, fetch_annex, fetch_formal, load_batch_manifest,
@@ -2348,7 +2348,16 @@ fn extract_instrument_terms(
             })?;
         term_sets.push(&sibling.1.terms);
     }
-    let usages = extract_term_usages(provisions, &term_sets)?;
+    let usage_form = context
+        .config
+        .glossary
+        .as_ref()
+        .and_then(|glossary| glossary.usage_form.as_deref());
+    let usages = match usage_form {
+        None => extract_term_usages(provisions, &term_sets)?,
+        Some("quoted") => extract_quoted_term_usages(provisions, &term_sets)?,
+        Some(other) => bail!("unsupported glossary usage_form {other:?}"),
+    };
     Ok((terms, usages))
 }
 

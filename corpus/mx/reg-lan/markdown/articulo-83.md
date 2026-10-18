@@ -21,7 +21,7 @@ Para efectos del artículo [44](../../lan/markdown/articulo-44.md) de la "[Ley](
 
 I. La programación para el aprovechamiento de las fuentes de suministro de agua y la forma de su ejecución; II. Los sitios y formas de medición tanto del suministro como de la descarga de aguas residuales;
 
-III. El uso racional y eficiente del agua, así como el respeto a las reservas y a los derechos de terceros aguas abajo inscritos en "El [Registro](articulo-1o.md)";
+III. El uso racional y eficiente del agua, así como el respeto a las reservas y a los derechos de terceros aguas abajo inscritos en "El Registro";
 
 IV. El cumplimiento de las normas y condiciones de calidad en el suministro de agua y en la descarga de agua residual a cuerpos receptores;
 

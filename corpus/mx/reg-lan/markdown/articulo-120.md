@@ -21,6 +21,6 @@ No se requerirá de concesión para la explotación, uso o aprovechamiento de ag
 
 La construcción de las obras de infraestructura que se requieran para la generación de energía hidroeléctrica a que se refiere el párrafo anterior, requerirán permiso de la “Autoridad del Agua” para los efectos de los artículos [97](../../lan/markdown/articulo-97.md) y [98](../../lan/markdown/articulo-98.md) de la Ley.
 
-Sin perjuicio de lo anterior, las personas físicas o morales a que se refiere este artículo deberán cumplir, en todo caso, con lo dispuesto en la Ley del Servicio Público de Energía Eléctrica y su [Reglamento](articulo-1o.md).
+Sin perjuicio de lo anterior, las personas físicas o morales a que se refiere este artículo deberán cumplir, en todo caso, con lo dispuesto en la Ley del Servicio Público de Energía Eléctrica y su Reglamento.
 
 Artículo reformado DOF 24-05-2011

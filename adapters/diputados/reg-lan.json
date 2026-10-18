@@ -21,7 +21,8 @@
   "allow_article_gaps": true,
   "glossary": {
     "provision_suffix": ":article:1",
-    "style": "quoted_respectively"
+    "style": "quoted_respectively",
+    "usage_form": "quoted"
   },
   "formal_publication_urls": {},
   "parent_instrument_id": "urn:lex-mx:federal:statute:lan"

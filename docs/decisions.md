@@ -19,6 +19,19 @@ Its 126 `parent_shorthand` edges to `lan` are unchanged.
 
 **Known imprecision, not fixed here.** The shared usage matcher also matches a term that is the first word of another title. A pattern scan finds at least 40 such usages: `Ley` in another law's title, such as `Ley Federal de Derechos` or `Ley General del Equilibrio Ecológico…` (35); `Reglamento` in another regulation's title, such as `Reglamento para la Prevención…` (4); and `Registro` in `Registro de Obligaciones y Empréstitos…` (1). The scan also hit 2 correct usages, which name the defined referents in full: `Ley de Aguas Nacionales` and `Registro Público de Derechos de Agua`. The existing `Ley` terms in 94 instruments behave the same way (`reg-lfaebsp`: 5 of 56). A title-aware filter would change usages corpus-wide, so it needs its own decision.
 
+**Superseded for `reg-lan` the same day (operator ruling: option b, reg-lan only).**
+- **The rule.** A usage counts only when the vocable is written exactly as Article 1 expresses it:
+  - between a matched pair of straight (`"Ley"`) or curly (`“Ley”`) quotes;
+  - with its capital letter;
+  - with no singular or plural variant.
+- **Implementation.** It is the adapter option `glossary.usage_form: "quoted"` (`extract_quoted_term_usages` in `crates/lex-parse/src/terms.rs`). The recorded span is the word inside the quotes, so Markdown reads `"[Ley](articulo-1o.md)"`. The quotes are the condition for a match, not part of the span.
+- **Result.** `reg-lan` now has 706 usages: `La Comisión` 337, `Ley` 223, `Reglamento` 112 and `Registro` 34. Every usage is quoted, no mixed quote pair occurs, and terms and references are unchanged.
+- **What was dropped.** 47 bare usages:
+  - 41 were the first word of another title, which is the imprecision above;
+  - 2 were genuine bare uses that are no longer linked as terms: `la Ley` in Article 120 and `este Reglamento` in Article 135. The Article 120 citation still links to `lan` through its `parent_shorthand` edge;
+  - 4 were other text: two `su Reglamento` naming other laws' regulations, a quoted `"El Registro"`, and a chapter heading stored inside Article 53 (`Capítulo IV Registro Público de Derechos de Agua`).
+- **Elsewhere.** The other 93 `Ley` terms keep the bare matcher and remain debt.
+
 ## 2026-10-18 — Merged headings are split into their own articles; letter series accepted by equivalence
 
 Operator rulings, continuing the 2026-10-17 entry below:

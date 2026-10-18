@@ -90,13 +90,21 @@ impl ExternalInstrument {
 pub struct GlossaryConfig {
     /// Canonical-ID suffix of the glossary provision, e.g. `:article:4`.
     pub provision_suffix: String,
-    /// `fractions` (`I. Término, a …`) or `colon_entries` (`Término: a …`).
+    /// `fractions` (`I. Término, a …`), `colon_entries` (`Término: a …`),
+    /// `roman_colon` (`I. Término: …`), `mixed_fractions` (reviewed
+    /// comma/colon entries) or `quoted_respectively` (one `…los vocablos
+    /// "A" y "B", se entenderá que se refiere a X y a Y, respectivamente.`).
     pub style: String,
     /// Instruments whose glossaries this one is expressly additive to, in
     /// resolution-priority order after the instrument's own terms. The DCG
     /// defines its terms "además de los términos utilizados en la Ley…".
     #[serde(default)]
     pub additive_to: Vec<String>,
+    /// How a usage is written. Absent: the bare term or a singular/plural
+    /// variant. `quoted`: only the exact term between a matched pair of
+    /// quotes, as `reg-lan` writes `"Ley"`.
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub usage_form: Option<String>,
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
