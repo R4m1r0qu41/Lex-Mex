@@ -5,8 +5,8 @@
   "detector": "embedded-article-headings-v2",
   "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes",
   "status_counts": {
-    "accepted": 77,
     "deferred": 10,
+    "proposed": 77,
     "rejected": 27,
     "unreviewed": 3
   },
@@ -26,13 +26,13 @@
       "source_path": "corpus/mx/cpf/provisions.json",
       "source_blob_oid": "da6408aed968ca259c6db29ee13b60dedfd28cfe",
       "source_sha256": "ca8255bbbf7a89a9912e7cc657608205c491536689ea99085e274b6df02d999c",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:code:cpf",
@@ -49,13 +49,13 @@
       "source_path": "corpus/mx/cpf/provisions.json",
       "source_blob_oid": "da6408aed968ca259c6db29ee13b60dedfd28cfe",
       "source_sha256": "ca8255bbbf7a89a9912e7cc657608205c491536689ea99085e274b6df02d999c",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:code:cpf",
@@ -72,13 +72,13 @@
       "source_path": "corpus/mx/cpf/provisions.json",
       "source_blob_oid": "da6408aed968ca259c6db29ee13b60dedfd28cfe",
       "source_sha256": "ca8255bbbf7a89a9912e7cc657608205c491536689ea99085e274b6df02d999c",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lac",
@@ -95,13 +95,13 @@
       "source_path": "corpus/mx/lac/provisions.json",
       "source_blob_oid": "971432a51b45c0d14706d1138dc9c6f2bb570e31",
       "source_sha256": "d9d7e624542e458b3774df80a2d7d5a5722b9a7a786538ffd49a794355e8e48e",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lac",
@@ -118,13 +118,13 @@
       "source_path": "corpus/mx/lac/provisions.json",
       "source_blob_oid": "971432a51b45c0d14706d1138dc9c6f2bb570e31",
       "source_sha256": "d9d7e624542e458b3774df80a2d7d5a5722b9a7a786538ffd49a794355e8e48e",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lac",
@@ -141,13 +141,13 @@
       "source_path": "corpus/mx/lac/provisions.json",
       "source_blob_oid": "971432a51b45c0d14706d1138dc9c6f2bb570e31",
       "source_sha256": "d9d7e624542e458b3774df80a2d7d5a5722b9a7a786538ffd49a794355e8e48e",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lac",
@@ -164,13 +164,13 @@
       "source_path": "corpus/mx/lac/provisions.json",
       "source_blob_oid": "971432a51b45c0d14706d1138dc9c6f2bb570e31",
       "source_sha256": "d9d7e624542e458b3774df80a2d7d5a5722b9a7a786538ffd49a794355e8e48e",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lac",
@@ -187,13 +187,13 @@
       "source_path": "corpus/mx/lac/provisions.json",
       "source_blob_oid": "971432a51b45c0d14706d1138dc9c6f2bb570e31",
       "source_sha256": "d9d7e624542e458b3774df80a2d7d5a5722b9a7a786538ffd49a794355e8e48e",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lac",
@@ -210,13 +210,13 @@
       "source_path": "corpus/mx/lac/provisions.json",
       "source_blob_oid": "971432a51b45c0d14706d1138dc9c6f2bb570e31",
       "source_sha256": "d9d7e624542e458b3774df80a2d7d5a5722b9a7a786538ffd49a794355e8e48e",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lac",
@@ -233,13 +233,13 @@
       "source_path": "corpus/mx/lac/provisions.json",
       "source_blob_oid": "971432a51b45c0d14706d1138dc9c6f2bb570e31",
       "source_sha256": "d9d7e624542e458b3774df80a2d7d5a5722b9a7a786538ffd49a794355e8e48e",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lac",
@@ -256,13 +256,13 @@
       "source_path": "corpus/mx/lac/provisions.json",
       "source_blob_oid": "971432a51b45c0d14706d1138dc9c6f2bb570e31",
       "source_sha256": "d9d7e624542e458b3774df80a2d7d5a5722b9a7a786538ffd49a794355e8e48e",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lac",
@@ -279,13 +279,13 @@
       "source_path": "corpus/mx/lac/provisions.json",
       "source_blob_oid": "971432a51b45c0d14706d1138dc9c6f2bb570e31",
       "source_sha256": "d9d7e624542e458b3774df80a2d7d5a5722b9a7a786538ffd49a794355e8e48e",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lac",
@@ -302,13 +302,13 @@
       "source_path": "corpus/mx/lac/provisions.json",
       "source_blob_oid": "971432a51b45c0d14706d1138dc9c6f2bb570e31",
       "source_sha256": "d9d7e624542e458b3774df80a2d7d5a5722b9a7a786538ffd49a794355e8e48e",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:laero",
@@ -325,13 +325,13 @@
       "source_path": "corpus/mx/laero/provisions.json",
       "source_blob_oid": "8b41dee8ddc22f234487beaf55de4a34c2bfbe1e",
       "source_sha256": "58ecdfd550dba29326d9699735163a386ebe706720eeef58651875b906179ad1",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:laero",
@@ -348,13 +348,13 @@
       "source_path": "corpus/mx/laero/provisions.json",
       "source_blob_oid": "8b41dee8ddc22f234487beaf55de4a34c2bfbe1e",
       "source_sha256": "58ecdfd550dba29326d9699735163a386ebe706720eeef58651875b906179ad1",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:laero",
@@ -371,13 +371,13 @@
       "source_path": "corpus/mx/laero/provisions.json",
       "source_blob_oid": "8b41dee8ddc22f234487beaf55de4a34c2bfbe1e",
       "source_sha256": "58ecdfd550dba29326d9699735163a386ebe706720eeef58651875b906179ad1",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:laero",
@@ -394,13 +394,13 @@
       "source_path": "corpus/mx/laero/provisions.json",
       "source_blob_oid": "8b41dee8ddc22f234487beaf55de4a34c2bfbe1e",
       "source_sha256": "58ecdfd550dba29326d9699735163a386ebe706720eeef58651875b906179ad1",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:laero",
@@ -417,13 +417,13 @@
       "source_path": "corpus/mx/laero/provisions.json",
       "source_blob_oid": "8b41dee8ddc22f234487beaf55de4a34c2bfbe1e",
       "source_sha256": "58ecdfd550dba29326d9699735163a386ebe706720eeef58651875b906179ad1",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:laero",
@@ -440,13 +440,13 @@
       "source_path": "corpus/mx/laero/provisions.json",
       "source_blob_oid": "8b41dee8ddc22f234487beaf55de4a34c2bfbe1e",
       "source_sha256": "58ecdfd550dba29326d9699735163a386ebe706720eeef58651875b906179ad1",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:laero",
@@ -463,13 +463,13 @@
       "source_path": "corpus/mx/laero/provisions.json",
       "source_blob_oid": "8b41dee8ddc22f234487beaf55de4a34c2bfbe1e",
       "source_sha256": "58ecdfd550dba29326d9699735163a386ebe706720eeef58651875b906179ad1",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:laero",
@@ -486,13 +486,13 @@
       "source_path": "corpus/mx/laero/provisions.json",
       "source_blob_oid": "8b41dee8ddc22f234487beaf55de4a34c2bfbe1e",
       "source_sha256": "58ecdfd550dba29326d9699735163a386ebe706720eeef58651875b906179ad1",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:laero",
@@ -509,13 +509,13 @@
       "source_path": "corpus/mx/laero/provisions.json",
       "source_blob_oid": "8b41dee8ddc22f234487beaf55de4a34c2bfbe1e",
       "source_sha256": "58ecdfd550dba29326d9699735163a386ebe706720eeef58651875b906179ad1",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lfd",
@@ -532,13 +532,13 @@
       "source_path": "corpus/mx/lfd/provisions.json",
       "source_blob_oid": "ac4f6a9347d23d9633e54ff16c6daf3f3aef7c77",
       "source_sha256": "62b39f1c63adbaab244f08cff60bb9e0392daa52fdd71020657de10825a0cfac",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lfd",
@@ -555,13 +555,13 @@
       "source_path": "corpus/mx/lfd/provisions.json",
       "source_blob_oid": "ac4f6a9347d23d9633e54ff16c6daf3f3aef7c77",
       "source_sha256": "62b39f1c63adbaab244f08cff60bb9e0392daa52fdd71020657de10825a0cfac",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lfd",
@@ -578,13 +578,13 @@
       "source_path": "corpus/mx/lfd/provisions.json",
       "source_blob_oid": "ac4f6a9347d23d9633e54ff16c6daf3f3aef7c77",
       "source_sha256": "62b39f1c63adbaab244f08cff60bb9e0392daa52fdd71020657de10825a0cfac",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lfdo",
@@ -601,13 +601,13 @@
       "source_path": "corpus/mx/lfdo/provisions.json",
       "source_blob_oid": "69f6b22cb629e8f7410ab297760c26dde4e5cbfe",
       "source_sha256": "7c7112f2e2b5092294a0a59653eeb4a9706daf5a199487bf6c43fe9dfc44d8e6",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lfpa",
@@ -624,13 +624,13 @@
       "source_path": "corpus/mx/lfpa/provisions.json",
       "source_blob_oid": "faa6349f2259f0dea51e44c40859106bb54d4a62",
       "source_sha256": "c1c6c56ba8e604e05ab9e744c405a9a6fa95f5c0c85a0e5e6ab007c48ac44591",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lfpc",
@@ -647,13 +647,13 @@
       "source_path": "corpus/mx/lfpc/provisions.json",
       "source_blob_oid": "bdb1a003eac3e8e0753af617bc94e5af4664e16f",
       "source_sha256": "cedade1df4e7e459797caa0c6b2ae12f13addf015df459faebee71b8dcb22d95",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lfpc",
@@ -670,13 +670,13 @@
       "source_path": "corpus/mx/lfpc/provisions.json",
       "source_blob_oid": "bdb1a003eac3e8e0753af617bc94e5af4664e16f",
       "source_sha256": "cedade1df4e7e459797caa0c6b2ae12f13addf015df459faebee71b8dcb22d95",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lfped",
@@ -693,13 +693,13 @@
       "source_path": "corpus/mx/lfped/provisions.json",
       "source_blob_oid": "9abf809c8dab99f6b89cf5316fc67677455d65df",
       "source_sha256": "8fbeedc7cd417aabd41c0e922221f6de04c21490b3398343996a51f1118fe01a",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lfped",
@@ -716,13 +716,13 @@
       "source_path": "corpus/mx/lfped/provisions.json",
       "source_blob_oid": "9abf809c8dab99f6b89cf5316fc67677455d65df",
       "source_sha256": "8fbeedc7cd417aabd41c0e922221f6de04c21490b3398343996a51f1118fe01a",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lfped",
@@ -739,13 +739,13 @@
       "source_path": "corpus/mx/lfped/provisions.json",
       "source_blob_oid": "9abf809c8dab99f6b89cf5316fc67677455d65df",
       "source_sha256": "8fbeedc7cd417aabd41c0e922221f6de04c21490b3398343996a51f1118fe01a",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lfped",
@@ -762,13 +762,13 @@
       "source_path": "corpus/mx/lfped/provisions.json",
       "source_blob_oid": "9abf809c8dab99f6b89cf5316fc67677455d65df",
       "source_sha256": "8fbeedc7cd417aabd41c0e922221f6de04c21490b3398343996a51f1118fe01a",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lfped",
@@ -785,13 +785,13 @@
       "source_path": "corpus/mx/lfped/provisions.json",
       "source_blob_oid": "9abf809c8dab99f6b89cf5316fc67677455d65df",
       "source_sha256": "8fbeedc7cd417aabd41c0e922221f6de04c21490b3398343996a51f1118fe01a",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lfped",
@@ -808,13 +808,13 @@
       "source_path": "corpus/mx/lfped/provisions.json",
       "source_blob_oid": "9abf809c8dab99f6b89cf5316fc67677455d65df",
       "source_sha256": "8fbeedc7cd417aabd41c0e922221f6de04c21490b3398343996a51f1118fe01a",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lfped",
@@ -831,13 +831,13 @@
       "source_path": "corpus/mx/lfped/provisions.json",
       "source_blob_oid": "9abf809c8dab99f6b89cf5316fc67677455d65df",
       "source_sha256": "8fbeedc7cd417aabd41c0e922221f6de04c21490b3398343996a51f1118fe01a",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lftr",
@@ -923,13 +923,13 @@
       "source_path": "corpus/mx/lgamvlv/provisions.json",
       "source_blob_oid": "807091740319023e51077c8b824b30a3d64448eb",
       "source_sha256": "c7ff44fd7bec71257854125ffb34c02d7cfe17121bf8e8c3457b3b050e31534e",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lgamvlv",
@@ -946,13 +946,13 @@
       "source_path": "corpus/mx/lgamvlv/provisions.json",
       "source_blob_oid": "807091740319023e51077c8b824b30a3d64448eb",
       "source_sha256": "c7ff44fd7bec71257854125ffb34c02d7cfe17121bf8e8c3457b3b050e31534e",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lgamvlv",
@@ -969,13 +969,13 @@
       "source_path": "corpus/mx/lgamvlv/provisions.json",
       "source_blob_oid": "807091740319023e51077c8b824b30a3d64448eb",
       "source_sha256": "c7ff44fd7bec71257854125ffb34c02d7cfe17121bf8e8c3457b3b050e31534e",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lgamvlv",
@@ -992,13 +992,13 @@
       "source_path": "corpus/mx/lgamvlv/provisions.json",
       "source_blob_oid": "807091740319023e51077c8b824b30a3d64448eb",
       "source_sha256": "c7ff44fd7bec71257854125ffb34c02d7cfe17121bf8e8c3457b3b050e31534e",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lgamvlv",
@@ -1015,13 +1015,13 @@
       "source_path": "corpus/mx/lgamvlv/provisions.json",
       "source_blob_oid": "807091740319023e51077c8b824b30a3d64448eb",
       "source_sha256": "c7ff44fd7bec71257854125ffb34c02d7cfe17121bf8e8c3457b3b050e31534e",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lgamvlv",
@@ -1038,13 +1038,13 @@
       "source_path": "corpus/mx/lgamvlv/provisions.json",
       "source_blob_oid": "807091740319023e51077c8b824b30a3d64448eb",
       "source_sha256": "c7ff44fd7bec71257854125ffb34c02d7cfe17121bf8e8c3457b3b050e31534e",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lgcs",
@@ -1222,13 +1222,13 @@
       "source_path": "corpus/mx/lgdnna/provisions.json",
       "source_blob_oid": "b33ecd177ebdbeeb25c4d61f6900246b4a3b7ddc",
       "source_sha256": "2693cb78f014304a6fcf7b3df13b04c6029d89bab3d773bfaecf2334f1c0b81d",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lgipe",
@@ -1705,13 +1705,13 @@
       "source_path": "corpus/mx/lgmdfp/provisions.json",
       "source_blob_oid": "4e12f5b9e679f1fed9f82940aa925bcee5f91bff",
       "source_sha256": "acd363e9c8b67513115375b0a659d7c91c072f3c50164d450995bbe0c31dce3b",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lgmdfp",
@@ -1728,13 +1728,13 @@
       "source_path": "corpus/mx/lgmdfp/provisions.json",
       "source_blob_oid": "4e12f5b9e679f1fed9f82940aa925bcee5f91bff",
       "source_sha256": "acd363e9c8b67513115375b0a659d7c91c072f3c50164d450995bbe0c31dce3b",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lgs",
@@ -1751,13 +1751,13 @@
       "source_path": "corpus/mx/lgs/provisions.json",
       "source_blob_oid": "ef0f0f7adea6a50323d6c7ae4c0151364c1e590b",
       "source_sha256": "3bca60da11c7b077efc4186be4497341faaa16ee5e86818af33e31a1f6644fca",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lgs",
@@ -1774,13 +1774,13 @@
       "source_path": "corpus/mx/lgs/provisions.json",
       "source_blob_oid": "ef0f0f7adea6a50323d6c7ae4c0151364c1e590b",
       "source_sha256": "3bca60da11c7b077efc4186be4497341faaa16ee5e86818af33e31a1f6644fca",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lgs",
@@ -1797,13 +1797,13 @@
       "source_path": "corpus/mx/lgs/provisions.json",
       "source_blob_oid": "ef0f0f7adea6a50323d6c7ae4c0151364c1e590b",
       "source_sha256": "3bca60da11c7b077efc4186be4497341faaa16ee5e86818af33e31a1f6644fca",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lgtoc",
@@ -1820,13 +1820,13 @@
       "source_path": "corpus/mx/lgtoc/provisions.json",
       "source_blob_oid": "9a9730f359190f8d7d6b6881e94772269de4aaa0",
       "source_sha256": "74129ddcd3cf959b06c383400e370ef519ce084d7ec8e2ccacceb603fb895be5",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "letter series (series_check passed); supported by the lgtoc 22 count in docs/decisions.md and the Codex confirmation of 228 b; ruling 1 covers ordinals, not letters",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lgtoc",
@@ -1843,13 +1843,13 @@
       "source_path": "corpus/mx/lgtoc/provisions.json",
       "source_blob_oid": "9a9730f359190f8d7d6b6881e94772269de4aaa0",
       "source_sha256": "74129ddcd3cf959b06c383400e370ef519ce084d7ec8e2ccacceb603fb895be5",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lgtoc",
@@ -1866,13 +1866,13 @@
       "source_path": "corpus/mx/lgtoc/provisions.json",
       "source_blob_oid": "9a9730f359190f8d7d6b6881e94772269de4aaa0",
       "source_sha256": "74129ddcd3cf959b06c383400e370ef519ce084d7ec8e2ccacceb603fb895be5",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "letter series (series_check passed); supported by the lgtoc 22 count in docs/decisions.md and the Codex confirmation of 228 b; ruling 1 covers ordinals, not letters",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lgtoc",
@@ -1889,13 +1889,13 @@
       "source_path": "corpus/mx/lgtoc/provisions.json",
       "source_blob_oid": "9a9730f359190f8d7d6b6881e94772269de4aaa0",
       "source_sha256": "74129ddcd3cf959b06c383400e370ef519ce084d7ec8e2ccacceb603fb895be5",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "letter series (series_check passed); supported by the lgtoc 22 count in docs/decisions.md and the Codex confirmation of 228 b; ruling 1 covers ordinals, not letters",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lgtoc",
@@ -1912,13 +1912,13 @@
       "source_path": "corpus/mx/lgtoc/provisions.json",
       "source_blob_oid": "9a9730f359190f8d7d6b6881e94772269de4aaa0",
       "source_sha256": "74129ddcd3cf959b06c383400e370ef519ce084d7ec8e2ccacceb603fb895be5",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "letter series (series_check passed); supported by the lgtoc 22 count in docs/decisions.md and the Codex confirmation of 228 b; ruling 1 covers ordinals, not letters",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lgtoc",
@@ -1935,13 +1935,13 @@
       "source_path": "corpus/mx/lgtoc/provisions.json",
       "source_blob_oid": "9a9730f359190f8d7d6b6881e94772269de4aaa0",
       "source_sha256": "74129ddcd3cf959b06c383400e370ef519ce084d7ec8e2ccacceb603fb895be5",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "letter series (series_check passed); supported by the lgtoc 22 count in docs/decisions.md and the Codex confirmation of 228 b; ruling 1 covers ordinals, not letters",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lgtoc",
@@ -1958,13 +1958,13 @@
       "source_path": "corpus/mx/lgtoc/provisions.json",
       "source_blob_oid": "9a9730f359190f8d7d6b6881e94772269de4aaa0",
       "source_sha256": "74129ddcd3cf959b06c383400e370ef519ce084d7ec8e2ccacceb603fb895be5",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "letter series (series_check passed); supported by the lgtoc 22 count in docs/decisions.md and the Codex confirmation of 228 b; ruling 1 covers ordinals, not letters",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lgtoc",
@@ -1981,13 +1981,13 @@
       "source_path": "corpus/mx/lgtoc/provisions.json",
       "source_blob_oid": "9a9730f359190f8d7d6b6881e94772269de4aaa0",
       "source_sha256": "74129ddcd3cf959b06c383400e370ef519ce084d7ec8e2ccacceb603fb895be5",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "letter series (series_check passed); supported by the lgtoc 22 count in docs/decisions.md and the Codex confirmation of 228 b; ruling 1 covers ordinals, not letters",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lgtoc",
@@ -2004,13 +2004,13 @@
       "source_path": "corpus/mx/lgtoc/provisions.json",
       "source_blob_oid": "9a9730f359190f8d7d6b6881e94772269de4aaa0",
       "source_sha256": "74129ddcd3cf959b06c383400e370ef519ce084d7ec8e2ccacceb603fb895be5",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "letter series (series_check passed); supported by the lgtoc 22 count in docs/decisions.md and the Codex confirmation of 228 b; ruling 1 covers ordinals, not letters",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lgtoc",
@@ -2027,13 +2027,13 @@
       "source_path": "corpus/mx/lgtoc/provisions.json",
       "source_blob_oid": "9a9730f359190f8d7d6b6881e94772269de4aaa0",
       "source_sha256": "74129ddcd3cf959b06c383400e370ef519ce084d7ec8e2ccacceb603fb895be5",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "letter series (series_check passed); supported by the lgtoc 22 count in docs/decisions.md and the Codex confirmation of 228 b; ruling 1 covers ordinals, not letters",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lgtoc",
@@ -2050,13 +2050,13 @@
       "source_path": "corpus/mx/lgtoc/provisions.json",
       "source_blob_oid": "9a9730f359190f8d7d6b6881e94772269de4aaa0",
       "source_sha256": "74129ddcd3cf959b06c383400e370ef519ce084d7ec8e2ccacceb603fb895be5",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "letter series (series_check passed); supported by the lgtoc 22 count in docs/decisions.md and the Codex confirmation of 228 b; ruling 1 covers ordinals, not letters",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lgtoc",
@@ -2073,13 +2073,13 @@
       "source_path": "corpus/mx/lgtoc/provisions.json",
       "source_blob_oid": "9a9730f359190f8d7d6b6881e94772269de4aaa0",
       "source_sha256": "74129ddcd3cf959b06c383400e370ef519ce084d7ec8e2ccacceb603fb895be5",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "letter series (series_check passed); supported by the lgtoc 22 count in docs/decisions.md and the Codex confirmation of 228 b; ruling 1 covers ordinals, not letters",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lgtoc",
@@ -2096,13 +2096,13 @@
       "source_path": "corpus/mx/lgtoc/provisions.json",
       "source_blob_oid": "9a9730f359190f8d7d6b6881e94772269de4aaa0",
       "source_sha256": "74129ddcd3cf959b06c383400e370ef519ce084d7ec8e2ccacceb603fb895be5",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "letter series (series_check passed); supported by the lgtoc 22 count in docs/decisions.md and the Codex confirmation of 228 b; ruling 1 covers ordinals, not letters",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lgtoc",
@@ -2119,13 +2119,13 @@
       "source_path": "corpus/mx/lgtoc/provisions.json",
       "source_blob_oid": "9a9730f359190f8d7d6b6881e94772269de4aaa0",
       "source_sha256": "74129ddcd3cf959b06c383400e370ef519ce084d7ec8e2ccacceb603fb895be5",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "letter series (series_check passed); supported by the lgtoc 22 count in docs/decisions.md and the Codex confirmation of 228 b; ruling 1 covers ordinals, not letters",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lgtoc",
@@ -2142,13 +2142,13 @@
       "source_path": "corpus/mx/lgtoc/provisions.json",
       "source_blob_oid": "9a9730f359190f8d7d6b6881e94772269de4aaa0",
       "source_sha256": "74129ddcd3cf959b06c383400e370ef519ce084d7ec8e2ccacceb603fb895be5",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "letter series (series_check passed); supported by the lgtoc 22 count in docs/decisions.md and the Codex confirmation of 228 b; ruling 1 covers ordinals, not letters",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lgtoc",
@@ -2165,13 +2165,13 @@
       "source_path": "corpus/mx/lgtoc/provisions.json",
       "source_blob_oid": "9a9730f359190f8d7d6b6881e94772269de4aaa0",
       "source_sha256": "74129ddcd3cf959b06c383400e370ef519ce084d7ec8e2ccacceb603fb895be5",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "letter series (series_check passed); supported by the lgtoc 22 count in docs/decisions.md and the Codex confirmation of 228 b; ruling 1 covers ordinals, not letters",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lgtoc",
@@ -2188,13 +2188,13 @@
       "source_path": "corpus/mx/lgtoc/provisions.json",
       "source_blob_oid": "9a9730f359190f8d7d6b6881e94772269de4aaa0",
       "source_sha256": "74129ddcd3cf959b06c383400e370ef519ce084d7ec8e2ccacceb603fb895be5",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "letter series (series_check passed); supported by the lgtoc 22 count in docs/decisions.md and the Codex confirmation of 228 b; ruling 1 covers ordinals, not letters",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lgtoc",
@@ -2211,13 +2211,13 @@
       "source_path": "corpus/mx/lgtoc/provisions.json",
       "source_blob_oid": "9a9730f359190f8d7d6b6881e94772269de4aaa0",
       "source_sha256": "74129ddcd3cf959b06c383400e370ef519ce084d7ec8e2ccacceb603fb895be5",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "letter series (series_check passed); supported by the lgtoc 22 count in docs/decisions.md and the Codex confirmation of 228 b; ruling 1 covers ordinals, not letters",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lgtoc",
@@ -2234,13 +2234,13 @@
       "source_path": "corpus/mx/lgtoc/provisions.json",
       "source_blob_oid": "9a9730f359190f8d7d6b6881e94772269de4aaa0",
       "source_sha256": "74129ddcd3cf959b06c383400e370ef519ce084d7ec8e2ccacceb603fb895be5",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "letter series (series_check passed); supported by the lgtoc 22 count in docs/decisions.md and the Codex confirmation of 228 b; ruling 1 covers ordinals, not letters",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lgtoc",
@@ -2257,13 +2257,13 @@
       "source_path": "corpus/mx/lgtoc/provisions.json",
       "source_blob_oid": "9a9730f359190f8d7d6b6881e94772269de4aaa0",
       "source_sha256": "74129ddcd3cf959b06c383400e370ef519ce084d7ec8e2ccacceb603fb895be5",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "letter series (series_check passed); supported by the lgtoc 22 count in docs/decisions.md and the Codex confirmation of 228 b; ruling 1 covers ordinals, not letters",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lgtoc",
@@ -2280,13 +2280,13 @@
       "source_path": "corpus/mx/lgtoc/provisions.json",
       "source_blob_oid": "9a9730f359190f8d7d6b6881e94772269de4aaa0",
       "source_sha256": "74129ddcd3cf959b06c383400e370ef519ce084d7ec8e2ccacceb603fb895be5",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "letter series (series_check passed); supported by the lgtoc 22 count in docs/decisions.md and the Codex confirmation of 228 b; ruling 1 covers ordinals, not letters",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lgtoc",
@@ -2303,13 +2303,13 @@
       "source_path": "corpus/mx/lgtoc/provisions.json",
       "source_blob_oid": "9a9730f359190f8d7d6b6881e94772269de4aaa0",
       "source_sha256": "74129ddcd3cf959b06c383400e370ef519ce084d7ec8e2ccacceb603fb895be5",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "letter series (series_check passed); supported by the lgtoc 22 count in docs/decisions.md and the Codex confirmation of 228 b; ruling 1 covers ordinals, not letters",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lgtoc",
@@ -2326,13 +2326,13 @@
       "source_path": "corpus/mx/lgtoc/provisions.json",
       "source_blob_oid": "9a9730f359190f8d7d6b6881e94772269de4aaa0",
       "source_sha256": "74129ddcd3cf959b06c383400e370ef519ce084d7ec8e2ccacceb603fb895be5",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "letter series (series_check passed); supported by the lgtoc 22 count in docs/decisions.md and the Codex confirmation of 228 b; ruling 1 covers ordinals, not letters",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lgv",
@@ -2349,13 +2349,13 @@
       "source_path": "corpus/mx/lgv/provisions.json",
       "source_blob_oid": "05beb6c176a37ec5b00c06f2ab7e3ccc3348cda5",
       "source_sha256": "4b2e305de7bcccee0fad6da4cd9a2c797bcc0eea5b01adea5edc6153579a58b8",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lic",
@@ -2372,13 +2372,13 @@
       "source_path": "corpus/mx/lic/provisions.json",
       "source_blob_oid": "599dd81aeda03944f7490de231173bf82f1bd73b",
       "source_sha256": "e67c8ea834bbaeef0a6a5bf203521595bb1055d9e5797f3506789f4b31c42c12",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lic",
@@ -2395,13 +2395,13 @@
       "source_path": "corpus/mx/lic/provisions.json",
       "source_blob_oid": "599dd81aeda03944f7490de231173bf82f1bd73b",
       "source_sha256": "e67c8ea834bbaeef0a6a5bf203521595bb1055d9e5797f3506789f4b31c42c12",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:statute:lic",
@@ -2418,13 +2418,13 @@
       "source_path": "corpus/mx/lic/provisions.json",
       "source_blob_oid": "599dd81aeda03944f7490de231173bf82f1bd73b",
       "source_sha256": "e67c8ea834bbaeef0a6a5bf203521595bb1055d9e5797f3506789f4b31c42c12",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
@@ -2487,13 +2487,13 @@
       "source_path": "corpus/mx/reg-lgcfd/provisions.json",
       "source_blob_oid": "a43c13d7389e763d624e4f427ef28b6699f57f73",
       "source_sha256": "6717a4781030a3d9d3ebbc25e5aad061e5d9c34a40aa5419f253a74834668533",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:regulation:reg-lsem",
@@ -2510,13 +2510,13 @@
       "source_path": "corpus/mx/reg-lsem/provisions.json",
       "source_blob_oid": "475f8fe1f71835e8dd7409e310d69ed38548d481",
       "source_sha256": "a0d7987f9d45a735bc97a76079878bd434c9bd5041c5afe73194cb5fa75f7326",
-      "review_status": "accepted",
+      "review_status": "proposed",
       "series_check": true,
       "detected_kind": "embedded_heading",
-      "review_basis": "ruling 1: heading continues the containing article's numbering series (series_check passed)",
-      "reviewer": "operator",
-      "reviewed_at": "2026-10-17",
-      "decision_reference": "docs/decisions.md#2026-10-17-latin-ordinal-qualifiers-and-the-structural-debt-candidate-classes"
+      "review_basis": "ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated",
+      "reviewer": null,
+      "reviewed_at": null,
+      "decision_reference": null
     },
     {
       "instrument_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006",

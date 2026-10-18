@@ -7,8 +7,8 @@ The three contract details the Codex review required before M2
 The operator has ruled on the structural-debt candidate classes, and the
 rulings are recorded in `docs/decisions.md` (2026-10-17, "Latin ordinal
 qualifiers and the structural-debt candidate classes"). The result is 77
-accepted rows, 27 rejected, 10 deferred to the DCG pass and 3 still
-unreviewed. The label grammar now ranks the Latin ordinals beyond `Nonies`;
+rows proposed for acceptance (awaiting the operator's yes), 27 rejected, 10
+deferred to the DCG pass and 3 still unreviewed. The label grammar now ranks the Latin ordinals beyond `Nonies`;
 that change landed on `main` (`fe4a53f1e`), and this branch was rebased onto
 it. No database file or canonical record changed.
 
@@ -24,8 +24,8 @@ it. No database file or canonical record changed.
   The v1 file at `4582e47fb` remains in Git history.
 - Reviewed seed:
   [`sqlite-structural-debt-review-2026-10-17.json`](sqlite-structural-debt-review-2026-10-17.json)
-  (SHA-256 `932f65cb…2b64`), from `prompts/apply-structural-debt-rulings.py`
-  (SHA-256 `998b5e5e…7387`).
+  (SHA-256 `8d8ee42e…2200`), from `prompts/apply-structural-debt-rulings.py`
+  (SHA-256 `b8377af6…419a`).
 
 ## 1. Physical payload layout: extras-only
 
@@ -172,26 +172,31 @@ statuses are:
 
 | Status | Rows | Basis |
 |---|---:|---|
-| `accepted` (`merged_heading`) | 77 | Ruling 1. The `series_check` passed in all 17 law and regulation instruments with accepted rows, including `lgtoc` 228 a–v and the six instruments the aggregate omitted. |
+| `proposed` (`merged_heading`) | 77 | The `series_check` passed in 17 law and regulation instruments, including the six the aggregate omitted. For the 54 ordinal rows, ruling 1 confirms the series. For the 23 `lgtoc` letter rows (228 a–v), ruling 1 does not apply; their support is the `lgtoc` 22 count in `docs/decisions.md` and the Codex confirmation of 228 b. |
 | `rejected` (`legally_removed_placeholder`) | 27 | Ruling 2: bracketed placeholders are text that was legally removed (`lgipe` 20, `lgcs` 7). |
 | `deferred` | 10 | Ruling 3: held DCG candidates wait for the DCG pass (`socap-sofipo-dcg-2006` 8, `oaac-dcg-2009` 2). |
 | `unreviewed` | 3 | No ruling: the LFTR 180 Quintes–Septimus headings have bracketed bodies. Whether ruling 2 extends to them is open. |
 
-The accepted total equals the old aggregate of 77 only by coincidence; the
-rows differ. Ruling 1 confirmed the nature of these headings. Reading it as
-acceptance of the rows as `merged_heading` debt is this session's
-interpretation, and it can be reversed in the review file.
+The proposed total equals the old aggregate of 77 only by coincidence; the
+rows differ. Ruling 1 confirmed what these headings are. It did not accept the
+rows as debt, so they carry no reviewer. Until the operator answers yes,
+promotion to `adapters/shared/_known-structural-debt.json` is blocked; M1
+type, schema and DDL work is not.
 
-**Finding: 23 stored edges are false self-links.** In each, the text of an
-embedded heading was extracted as a citation to its bare base article. For
-example, `Artículo 15 Sextus.-` inside `lfped` 15 Quintus is stored as an
-edge to `lfped` article 15. The citation regex
-(`crates/lex-parse/src/lib.rs`) lacks these spellings: it has `Septiesdecies`
-where the text prints `Septdecies`, and it has no `Sextus`. Adding the
-spellings without separating the headings would point the 23 edges at
-articles that do not exist, and the relink would reject the affected graphs.
-The database projects the edges as committed. The repair is a parser and
-linker decision for `main`.
+**Finding: 51 stored edges are false self-links.** They are spread over 12
+instruments, counted by heading locator: every stored edge whose span falls
+inside a candidate heading. In each, an embedded heading's own number was
+extracted as a citation to its bare base article. Examples: `Artículo 15
+Sextus.-` inside `lfped` 15 Quintus is stored as an edge to `lfped`
+article 15, and all 23 `lgtoc` 228 a–v headings are stored as edges to
+article 228. The extractor stops at the number because it does not recognize
+the suffix form. In `crates/lex-parse/src/lib.rs`, the citation regex has
+`Septiesdecies` where the text prints `Septdecies`, has no `Sextus`, and
+accepts a letter only as an uppercase `-A`. Extending the regex alone would
+point these edges at articles that do not exist, and the relink would reject
+the affected graphs. The fix is either to stop reading a heading line as a
+citation, or to separate the headings first. The database projects the edges
+as committed. The repair is a parser and linker decision for `main`.
 
 **Seed contract.**
 
@@ -217,10 +222,12 @@ linker decision for `main`.
   - `label_grammar`
   - `source_path`, `source_blob_oid` and `source_sha256`
   - `detected_at_commit` and the detector version
-  - `review_status`: `accepted`, `rejected`, `deferred` or `unreviewed`
+  - `review_status`: `accepted`, `rejected`, `deferred`, `proposed` or
+    `unreviewed`
   - `reviewer`, `reviewed_at` and the decision reference
 - **Loading rule.** Only `accepted` rows load into `known_structural_debt`.
-  The manifest counts the `rejected`, `deferred` and `unreviewed` rows. The
+  The manifest counts the `rejected`, `deferred`, `proposed` and
+  `unreviewed` rows. The
   builder never infers debt. A later option, which this record does not
   adopt: rejected `legally_removed_placeholder` rows could back a
   `removed_placeholder` lookup qualification, so that `lgipe` 11 Bis reports
@@ -246,7 +253,7 @@ linker decision for `main`.
    - **Not found in this release; coverage not established.**
 
    No outcome says that a provision does not exist. Qualifications can
-   combine. LIC 112 Quintus has an accepted debt row (printed inside `lic`
+   combine. LIC 112 Quintus has a proposed debt row (printed inside `lic`
    article 112 Quáter at 688–710) and is also cited by the `cpf` accepted
    gap. The operator described the held laws' citations as stale or wrong.
    That holds for `lgs` → CPF 209 Quintus and `lftr` → LGTAIP 180 Bis, which
@@ -293,7 +300,7 @@ linker decision for `main`.
   LRSIC article 2 fraction V targets the current LRAF and stays live.
 - **G5.** Instrument-level: `cpf` → `urn:lex-mx:federal:statute:lic:article:112-quintus`,
   multiplicity 1.
-- **G6.** Uses the accepted `lgtoc` row: `Artículo 228 b.-` inside
+- **G6.** Requires the `lgtoc` row to be accepted: `Artículo 228 b.-` inside
   `urn:lex-mx:federal:statute:lgtoc:article:228`, chars 2213–2229.
 
 ## Validation and preservation
@@ -321,8 +328,9 @@ touched.
 
 Next action: M1 implementation continues. The pieces are:
 
-- manifest and seed types and schemas, promoting the accepted review rows to
-  `adapters/shared/_known-structural-debt.json`;
+- manifest and seed types and schemas, promoting rows to
+  `adapters/shared/_known-structural-debt.json` once the operator accepts
+  them;
 - the DDL under this contract;
 - an adversarial fixture;
 - feature probes.
@@ -331,5 +339,7 @@ Open for the operator, none of which blocks M1:
 
 - the three LFTR bracketed-body rows;
 - the `cpf`/`lmv` contradiction;
-- the 23 false self-link edges;
+- the yes/no on accepting the 77 proposed rows, including `lgtoc`'s letter
+  series;
+- the 51 false self-link edges;
 - the missing `reg-lan` definition term.

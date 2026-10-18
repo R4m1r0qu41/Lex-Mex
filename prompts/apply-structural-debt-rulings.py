@@ -7,7 +7,9 @@ Input is the output of prompts/detect-embedded-article-headings.py. Each
 candidate gains a mechanical `series_check` and a review status taken only
 from the rulings in docs/decisions.md (2026-10-17, "Latin ordinal qualifiers
 and the structural-debt candidate classes"). A row no ruling covers stays
-`unreviewed`. Statuses: accepted, rejected, deferred, unreviewed.
+`unreviewed`. Statuses: accepted, rejected, deferred, proposed, unreviewed.
+`proposed` means the series check passed and a ruling supports the class,
+but the operator has not accepted the rows as debt; only `accepted` loads.
 """
 import hashlib
 import json
@@ -68,7 +70,10 @@ def review(row, series_ok):
     if row['body_bracketed']:
         return 'unreviewed', 'merged_heading', 'heading printed with a bracketed body; ruling 2 covers bracketed placeholders, extension to these rows not ruled'
     if series_ok:
-        return 'accepted', 'merged_heading', 'ruling 1: heading continues the containing article\'s numbering series (series_check passed)'
+        if parts(row['printed_label'])[1] is not None and parts(row['printed_label'])[2] == 0:
+            return 'proposed', 'merged_heading', ('letter series (series_check passed); supported by the lgtoc 22 count in '
+                                                  'docs/decisions.md and the Codex confirmation of 228 b; ruling 1 covers ordinals, not letters')
+        return 'proposed', 'merged_heading', 'ruling 1 confirms the ordinal series (series_check passed); acceptance as debt not yet stated'
     return 'unreviewed', 'merged_heading', 'series_check failed; no ruling applies'
 
 

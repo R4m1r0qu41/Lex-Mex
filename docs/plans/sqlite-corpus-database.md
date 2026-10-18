@@ -412,7 +412,7 @@ M1 also measures the storage layout (item 4 above) and records the projected
 size, and fixes the `known_structural_debt` and reproducibility seed sources.
 Settled 2026-10-17 in the
 [M1 contract decisions](../sqlite-m1-contract-decisions-2026-10-17.md):
-extras-only layout, seed contract and reviewed seed (77 accepted, 27 rejected
+extras-only layout, seed contract and reviewed seed (77 proposed, 27 rejected
 as legally removed placeholders, 10 deferred to the DCG pass, 3 unreviewed),
 three-outcome lookup and view-supplied `not_assessed`.
 
@@ -486,9 +486,9 @@ Acceptance and stop condition:
 2026-10-17 (operator rulings): Latin ordinals beyond `Nonies` are the same
 numbering series; the label grammar now ranks them (`fe4a53f1e` on `main`,
 full native gate passed, this branch rebased). The candidate classes are
-reviewed: 77 accepted, 27 rejected (legally removed placeholders), 10 deferred
+reviewed: 77 proposed for acceptance (operator yes pending), 27 rejected (legally removed placeholders), 10 deferred
 to the DCG pass, and 3 LFTR bracketed-body rows still unreviewed. G1 now rests
-on the `reg-lan` article 1 definition of "Ley". Open, not blocking: 23 stored
+on the `reg-lan` article 1 definition of "Ley". Open, not blocking: 51 stored
 false self-link edges from embedded headings, the `cpf`/`lmv` stale-reference
 contradiction, and the missing `reg-lan` definition term.
 
@@ -525,5 +525,5 @@ file changed. The operator's two suggestion files remain untouched/untracked.
 `resolution_rule` landed (see `docs/decisions.md`).
 
 Exactly one next action: continue M1 implementation — manifest and seed
-types/schemas (promoting the accepted review rows), DDL under the settled
+types/schemas (promoting rows once accepted), DDL under the settled
 contract, an adversarial fixture and feature probes.
