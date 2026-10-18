@@ -963,7 +963,7 @@ mod tests {
             },
         )
         .unwrap();
-        assert!(!previous.result.determinations[0].evidence_sha256.is_empty());
+        assert_ne!(previous.result.determinations[0].evidence_sha256, "");
 
         // The rerun is against materially different evidence text (still
         // containing the old quoted fragment, so a bare substring check
@@ -1258,7 +1258,7 @@ mod tests {
         let evidence_map = |text: &str| HashMap::from([(provision_id.clone(), text.to_owned())]);
 
         // route_temporal_analysis already stamps evidence_sha256.
-        assert!(!routed.result.determinations[0].evidence_sha256.is_empty());
+        assert_ne!(routed.result.determinations[0].evidence_sha256, "");
 
         // A reparse that reproduces the same text keeps the determination.
         let mut reparsed = vec![make_provision(&original_text)];

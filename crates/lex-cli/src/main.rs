@@ -4367,7 +4367,8 @@ mod tests {
 
         let mut hashed = item;
         hashed.proposed_machine_conclusion.evidence_sha256 = "abc".to_owned();
-        assert!(super::legacy_review_rows(&[hashed], &same).is_empty());
+        let found = super::legacy_review_rows(&[hashed], &same);
+        assert!(found.is_empty(), "{found:?}");
     }
 
     #[test]
@@ -5187,12 +5188,14 @@ mod tests {
             usages: vec![],
         };
         let corpus = corpus_with(vec![historical.clone()]);
-        assert!(protected_edge_drift(&corpus, &graph(vec![historical.clone()])).is_empty());
+        let found = protected_edge_drift(&corpus, &graph(vec![historical.clone()]));
+        assert!(found.is_empty(), "{found:?}");
         // Recording a resolution rule on a protected edge that predates the
         // field is allowed; changing an already recorded rule is not.
         let mut with_rule = historical.clone();
         with_rule.resolution_rule = Some(lex_core::ResolutionRule::NamedInstrument);
-        assert!(protected_edge_drift(&corpus, &graph(vec![with_rule.clone()])).is_empty());
+        let found = protected_edge_drift(&corpus, &graph(vec![with_rule.clone()]));
+        assert!(found.is_empty(), "{found:?}");
         let mut other_rule = with_rule.clone();
         other_rule.resolution_rule = Some(lex_core::ResolutionRule::ParentShorthand);
         assert_eq!(
@@ -5213,7 +5216,8 @@ mod tests {
             ReferenceResolutionStatus::Resolved,
             "urn:lex-mx:federal:statute:lraf",
         )]);
-        assert!(protected_edge_drift(&ordinary, &graph(vec![])).is_empty());
+        let found = protected_edge_drift(&ordinary, &graph(vec![]));
+        assert!(found.is_empty(), "{found:?}");
     }
 
     #[test]

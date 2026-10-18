@@ -934,7 +934,11 @@ mod tests {
         );
         // The índice (18)/(9) markers did not land on article 1, and the
         // índice TRANSITORIOS echo did not open a transitory.
-        assert!(articles[0].amendment_marks.is_empty());
+        assert!(
+            articles[0].amendment_marks.is_empty(),
+            "{:?}",
+            articles[0].amendment_marks
+        );
         assert_eq!(
             document
                 .provisions
@@ -1120,6 +1124,10 @@ mod tests {
             .iter()
             .find(|item| item.id.ends_with(":article:25"))
             .unwrap();
-        assert!(article_25.amendment_marks.is_empty());
+        assert!(
+            article_25.amendment_marks.is_empty(),
+            "{:?}",
+            article_25.amendment_marks
+        );
     }
 }

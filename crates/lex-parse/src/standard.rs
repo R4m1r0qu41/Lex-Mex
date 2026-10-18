@@ -1822,7 +1822,7 @@ mod tests {
         let clauses = parse_standard_clauses(NO_TRANSITORIOS_ANNEX_SAMPLE, &metadata).unwrap();
         let transitories =
             parse_standard_transitories(NO_TRANSITORIOS_ANNEX_SAMPLE, &metadata).unwrap();
-        assert!(transitories.is_empty());
+        assert!(transitories.is_empty(), "{transitories:?}");
         let report = validate_standard(
             &metadata,
             &clauses,
@@ -1854,7 +1854,7 @@ mod tests {
             parse_standard_clauses(NO_TRANSITORIOS_SIGNATURE_ONLY_SAMPLE, &metadata).unwrap();
         let transitories =
             parse_standard_transitories(NO_TRANSITORIOS_SIGNATURE_ONLY_SAMPLE, &metadata).unwrap();
-        assert!(transitories.is_empty());
+        assert!(transitories.is_empty(), "{transitories:?}");
         let report = validate_standard(
             &metadata,
             &clauses,
@@ -2230,7 +2230,11 @@ mod tests {
             transitories[0].asserted_dates,
             vec![NaiveDate::from_ymd_opt(2025, 10, 1).unwrap()]
         );
-        assert!(transitories[1].asserted_dates.is_empty());
+        assert!(
+            transitories[1].asserted_dates.is_empty(),
+            "{:?}",
+            transitories[1].asserted_dates
+        );
     }
 
     #[test]
@@ -2314,7 +2318,11 @@ mod tests {
         assert_eq!(transitories.len(), 1);
         assert_eq!(transitories[0].ordinal, "ÚNICO");
         assert!(transitories[0].text.contains("Entrará en vigor"));
-        assert!(transitories[0].asserted_dates.is_empty());
+        assert!(
+            transitories[0].asserted_dates.is_empty(),
+            "{:?}",
+            transitories[0].asserted_dates
+        );
         let report = validate_standard(
             &metadata,
             &clauses,
@@ -2338,7 +2346,7 @@ mod tests {
         );
         assert_eq!(clauses[6].label, "5.1 El establecimiento debe medir.");
         let transitories = parse_standard_transitories(SAMPLE, &metadata).unwrap();
-        assert!(transitories.is_empty());
+        assert!(transitories.is_empty(), "{transitories:?}");
         let report = validate_standard(&metadata, &clauses, &transitories, &[], SAMPLE);
         assert!(report.valid, "{:#?}", report.issues);
     }
@@ -2361,7 +2369,7 @@ mod tests {
             parse_standard_transitories(INDEX_AND_APPENDIX_SAMPLE, &metadata).unwrap();
         // This fixture has no TRANSITORIOS heading at all -- just a bare
         // signature/date line -- so no transitorios should be recognized.
-        assert!(transitories.is_empty());
+        assert!(transitories.is_empty(), "{transitories:?}");
         let report = validate_standard(
             &metadata,
             &clauses,
@@ -2479,12 +2487,10 @@ mod tests {
         // produced the bogus target "Anexo de". A real annex identifier
         // ("Apéndice normativo A", "Anexo 1") starts with a genuine capital
         // or digit; a bare "Anexo" followed by prose names nothing.
-        assert!(
-            title_targets(
-                "Eliminación del Anexo de la Norma Oficial Mexicana NOM-999-TEST-2026, Prueba."
-            )
-            .is_empty()
+        let found = title_targets(
+            "Eliminación del Anexo de la Norma Oficial Mexicana NOM-999-TEST-2026, Prueba.",
         );
+        assert!(found.is_empty(), "{found:?}");
         // The legitimate forms keep working, including a digit identifier.
         assert_eq!(
             title_targets(
@@ -2524,7 +2530,8 @@ mod tests {
         // standard's identity and nothing about what changed. Guessing a target
         // here would be worse than reporting the scope as unknown, and the
         // digits of the designation itself must never be read as numerals.
-        assert!(title_targets(NOM_020_2015_TITLE).is_empty());
+        let found = title_targets(NOM_020_2015_TITLE);
+        assert!(found.is_empty(), "{found:?}");
 
         let mut metadata = metadata();
         metadata
