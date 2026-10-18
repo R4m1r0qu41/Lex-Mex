@@ -101,7 +101,39 @@ fn terms_from_entries(
 /// from the first entry), scanned inline so the entries may share one
 /// paragraph or be separated. Returns an empty vector when no glossary is
 /// found, so a law without defined terms simply yields none.
+///
+/// When this finds nothing, the wider fallback pass of [`detect_glossary`]
+/// runs; a glossary that pass holds back yields no terms here.
 pub fn detect_glossary_terms(provisions: &[Provision]) -> Result<Vec<DefinedTerm>> {
+    Ok(detect_glossary(provisions)?.terms)
+}
+
+/// Outcome of glossary auto-detection.
+#[derive(Debug, Default)]
+pub struct GlossaryDetection {
+    pub terms: Vec<DefinedTerm>,
+    /// The provision and reason when the wider pass found a glossary it
+    /// could not extract completely. Such a glossary yields no terms rather
+    /// than a partial set.
+    pub held: Option<(String, String)>,
+}
+
+/// Auto-detect a glossary: first the established `se entenderá por:` pass,
+/// unchanged, then (only when it finds nothing) the wider pass for `se
+/// entiende por:`, inserted phrases (`se entiende, en singular o plural,
+/// por:`) and introductions that adopt another instrument's definitions
+/// (`…las definiciones contenidas en el artículo 3 de la Ley, así como las
+/// siguientes:`). Running the wider pass only as a fallback keeps every
+/// glossary the established pass already finds byte for byte.
+pub fn detect_glossary(provisions: &[Provision]) -> Result<GlossaryDetection> {
+    let terms = detect_established_glossary(provisions)?;
+    if !terms.is_empty() {
+        return Ok(GlossaryDetection { terms, held: None });
+    }
+    detect_wider_glossary(provisions)
+}
+
+fn detect_established_glossary(provisions: &[Provision]) -> Result<Vec<DefinedTerm>> {
     let intro = Regex::new(r"(?i)se\s+entender[áa]\s+(?:por|lo\s+siguiente)\s*:")?;
     let fraction = Regex::new(r"(?:^|[;:\n])[ \t]*([IVXLCDM]{1,7})\.\s+")?;
     for provision in provisions {
@@ -177,6 +209,204 @@ pub fn detect_glossary_terms(provisions: &[Provision]) -> Result<Vec<DefinedTerm
         }
     }
     Ok(Vec::new())
+}
+
+/// The wider fallback pass. A glossary is accepted only whole: its fractions
+/// run I, II, III… without a gap (`Bis`/`Ter` may follow their base), every
+/// fraction that is not a repeal placeholder yields a term before the
+/// glossary's delimiter, no fraction swallows another fraction heading (a
+/// running page header between two fractions does), and no two terms share
+/// an identifier. Otherwise the glossary is held with its reason. Chapter-,
+/// title- or article-scoped introductions are skipped: their terms do not
+/// govern the whole instrument.
+fn detect_wider_glossary(provisions: &[Provision]) -> Result<GlossaryDetection> {
+    let defines = Regex::new(
+        r"(?i)\bse\s+(?:entiende|entienden|entender[áa]n?|deben?\s+entender|deber[áa]n?\s+entender)(?:\s*,\s*en\s+singular\s+o\s+plural)?\s*,?\s*(?:por|como)\s*:",
+    )?;
+    let adopts = Regex::new(
+        r"(?i)\bdefiniciones\b[^:]{0,320}?,?\s*(?:así\s+como|y,?)\s+(?:a\s+|en\s+)?(?:l[ao]s\s+)?(?:siguientes(?:\s+definiciones)?|definiciones\s+siguientes)\s*:",
+    )?;
+    let lists = Regex::new(
+        r"(?i)\bse\s+(?:aplican|observar[áa]n)\s+las\s+siguientes\s+definiciones\s*:|\bse\s+considera\s*:",
+    )?;
+    let scoped = Regex::new(
+        r"(?i)efectos?\s+(?:de|del)\s+(?:este|esta|el\s+presente|la\s+presente|presente|dicho|dicha)\s+(?:capítulo|título|sección|apartado|artículo|párrafo)|artículo\s+anterior",
+    )?;
+    // A fraction starts the text or follows `;`, `:`, `.`, a line break, the
+    // conjunction `y` (the last entry of an inline glossary: `…de Economía, y
+    // X.- Servicio: …`) or an amendment note (`…Fracción recorrida DOF
+    // 28-01-2011 XX.- Impacto ambiental: …`). A spurious start breaks the
+    // numbering and holds the glossary rather than splitting it wrongly.
+    let fraction = Regex::new(
+        r"(?:^|[;:.\n]|\by|DOF\s+\d{2}-\d{2}-\d{4})[ \t]*([IVXLCDM]{1,7}(?:\s+(?:Bis|Ter))?)\.-?\s+",
+    )?;
+    for provision in provisions {
+        if provision.provision_type != ProvisionType::Article {
+            continue;
+        }
+        let text = &provision.text;
+        let head_end = text
+            .char_indices()
+            .nth(500)
+            .map_or(text.len(), |(index, _)| index);
+        let head = &text[..head_end];
+        let Some(intro) = defines
+            .find(head)
+            .or_else(|| adopts.find(head))
+            .or_else(|| lists.find(head))
+        else {
+            continue;
+        };
+        if scoped.is_match(&head[..intro.end()]) {
+            continue;
+        }
+        let body_start = intro.end();
+        let starts: Vec<(usize, usize, String)> = fraction
+            .captures_iter(&text[body_start..])
+            .map(|captures| {
+                let numeral = captures.get(1).expect("numeral");
+                (
+                    body_start + numeral.start(),
+                    body_start + captures.get(0).expect("fraction").end(),
+                    numeral.as_str().to_owned(),
+                )
+            })
+            .collect();
+        if starts.len() < 2 {
+            continue;
+        }
+        return Ok(match complete_entries(text, &starts) {
+            Ok(entries) => GlossaryDetection {
+                terms: terms_from_entries(provision, entries)?,
+                held: None,
+            },
+            Err(reason) => GlossaryDetection {
+                terms: Vec::new(),
+                held: Some((provision.id.clone(), reason)),
+            },
+        });
+    }
+    Ok(GlossaryDetection::default())
+}
+
+/// Every entry of a wider-pass glossary, or the reason it is incomplete.
+fn complete_entries(
+    text: &str,
+    starts: &[(usize, usize, String)],
+) -> std::result::Result<Vec<GlossaryEntry>, String> {
+    let swallowed = Regex::new(r"(?:^|\s)[IVXLCDM]{1,7}(?:\s+(?:Bis|Ter))?\.-?\s+[A-ZÁÉÍÓÚÑ]")
+        .expect("static regex");
+    let mut previous: Option<u32> = None;
+    for (_, _, numeral) in starts {
+        let (base, qualified) = match numeral.split_once(char::is_whitespace) {
+            Some((base, _)) => (base, true),
+            None => (numeral.as_str(), false),
+        };
+        let value = roman_value(base)
+            .ok_or_else(|| format!("fraction {numeral} is not a Roman numeral"))?;
+        let expected = if qualified {
+            previous
+        } else {
+            Some(previous.map_or(1, |value| value + 1))
+        };
+        if Some(value) != expected {
+            return Err(format!(
+                "fraction {numeral} breaks the I, II, III… sequence after {}",
+                previous.map_or_else(|| "the introduction".to_owned(), |value| value.to_string())
+            ));
+        }
+        previous = Some(value);
+    }
+    let bodies: Vec<(&str, &str, usize, usize)> = starts
+        .iter()
+        .enumerate()
+        .map(|(index, (numeral_start, body_start, numeral))| {
+            let end = starts
+                .get(index + 1)
+                .map_or(text.len(), |(next, _, _)| *next);
+            (
+                numeral.as_str(),
+                &text[*body_start..end],
+                *numeral_start,
+                end,
+            )
+        })
+        .collect();
+    let delimiter = bodies
+        .iter()
+        .filter(|(_, body, _, _)| !is_repeal_placeholder_body(body))
+        .find_map(|(_, body, _, _)| {
+            body.chars()
+                .take(COLON_TERM_MAX_CHARS + 5)
+                .find(|character| matches!(character, ':' | '.' | ','))
+        })
+        .ok_or("no fraction has a term delimiter")?;
+    let mut entries = Vec::with_capacity(bodies.len());
+    let mut slugs = std::collections::HashSet::new();
+    for (numeral, body, start, end) in bodies {
+        if is_repeal_placeholder_body(body) {
+            continue;
+        }
+        let term = body
+            .find(delimiter)
+            .map(|offset| body[..offset].trim())
+            .filter(|term| !term.is_empty() && term.chars().count() <= COLON_TERM_MAX_CHARS)
+            .ok_or_else(|| format!("fraction {numeral} has no term before `{delimiter}`"))?;
+        // A term is a short name on one line. Punctuation inside it means
+        // the fraction is not `Term<delimiter> definition`: a nested list
+        // (`Tabacos labrados y otros: … a) Cigarros, …`) or a quoted name
+        // that needs the quoted style.
+        if term.contains([':', ';', '.', '\n', '"', '“', '”']) {
+            return Err(format!("fraction {numeral} has no plain term: {term:?}"));
+        }
+        if let Some(found) = swallowed.find(body) {
+            return Err(format!(
+                "fraction {numeral} contains another fraction heading {:?}",
+                found.as_str().trim()
+            ));
+        }
+        if !slugs.insert(slug(term)) {
+            return Err(format!("fraction {numeral} repeats the term {term:?}"));
+        }
+        entries.push(GlossaryEntry {
+            term: term.to_owned(),
+            fraction: Some(numeral.to_owned()),
+            start_char: text[..start].chars().count(),
+            end_char: text[..end].chars().count(),
+        });
+    }
+    Ok(entries)
+}
+
+/// A repealed fraction's whole body (`Derogada.`, `(Se deroga)`,
+/// `Se deroga. Fracción derogada DOF …`).
+fn is_repeal_placeholder_body(body: &str) -> bool {
+    let normalized = body.trim_start().trim_start_matches('(').to_lowercase();
+    normalized.starts_with("derogad") || normalized.starts_with("se deroga")
+}
+
+fn roman_value(numeral: &str) -> Option<u32> {
+    let mut total = 0;
+    let mut previous = 0;
+    for character in numeral.chars().rev() {
+        let value = match character {
+            'I' => 1,
+            'V' => 5,
+            'X' => 10,
+            'L' => 50,
+            'C' => 100,
+            'D' => 500,
+            'M' => 1000,
+            _ => return None,
+        };
+        if value < previous {
+            total -= value;
+        } else {
+            total += value;
+            previous = value;
+        }
+    }
+    Some(total)
 }
 
 /// The delimiter separating term from definition in the first entry: the
@@ -1083,6 +1313,235 @@ mod tests {
         assert!(extract_terms(&glossary, GlossaryStyle::QuotedRespectively).is_err());
         let prose = provision(REGULATION_ID, "article:1", "Sin definiciones.");
         assert!(extract_terms(&prose, GlossaryStyle::QuotedRespectively).is_err());
+    }
+
+    fn wider(text: &str) -> super::GlossaryDetection {
+        super::detect_glossary(&[provision(STATUTE_ID, "article:3", text)]).unwrap()
+    }
+
+    fn wider_terms(text: &str) -> Vec<String> {
+        let detection = wider(text);
+        assert_eq!(detection.held, None);
+        detection.terms.into_iter().map(|term| term.term).collect()
+    }
+
+    #[test]
+    fn wider_pass_reads_se_entiende_por_with_dash_numerals() {
+        // lgeepa 3o, verbatim opening (definitions shortened).
+        assert_eq!(
+            wider_terms(
+                "Para los efectos de esta Ley se entiende por:\n\nI.- Ambiente: El conjunto \
+                 de elementos naturales y artificiales;\n\nII.- Áreas naturales protegidas: \
+                 Las zonas del territorio nacional;"
+            ),
+            ["Ambiente", "Áreas naturales protegidas"]
+        );
+    }
+
+    #[test]
+    fn wider_pass_reads_inserted_phrases_and_inline_fractions() {
+        // lsh 5: the fractions share one paragraph.
+        assert_eq!(
+            wider_terms(
+                "Para los efectos de esta Ley se entiende, en singular o plural, por: I. \
+                 Agencia: Agencia Nacional de Seguridad Industrial; II. Almacenamiento: \
+                 Depósito y resguardo de Hidrocarburos;"
+            ),
+            ["Agencia", "Almacenamiento"]
+        );
+        // lbogm 3 and lgeepa 3o shapes: an entry ends with a period or with an
+        // amendment note, on the same line as the next fraction.
+        assert_eq!(
+            wider_terms(
+                "Para los efectos de esta Ley, se entiende por: I. Actividades: Las \
+                 actividades de liberación. II. Bioseguridad: Las acciones; Fracción recorrida \
+                 DOF 28-01-2011 III.- Impacto ambiental: Modificación del ambiente;"
+            ),
+            ["Actividades", "Bioseguridad", "Impacto ambiental"]
+        );
+        // reg-lfppi 2 shape: the last inline entry follows `, y`.
+        assert_eq!(
+            wider_terms(
+                "Para efectos de este Reglamento se entiende por: I.- Ley: la Ley Federal; \
+                 II.- Secretaría: la Secretaría de Economía, y III.- Servicio: el servicio \
+                 público."
+            ),
+            ["Ley", "Secretaría", "Servicio"]
+        );
+        // lotfja 2: `se entenderá, por:`.
+        assert_eq!(
+            wider_terms(
+                "Para efectos de esta Ley se entenderá, por:\n\nI. Junta: La Junta de \
+                 Gobierno y Administración;\n\nII. Ley: La Ley Orgánica del Tribunal \
+                 Federal de Justicia Administrativa;"
+            ),
+            ["Junta", "Ley"]
+        );
+    }
+
+    #[test]
+    fn wider_pass_reads_introductions_that_adopt_other_definitions() {
+        // lcne 6 (`y, las siguientes:`) and a regulation importing its parent's.
+        assert_eq!(
+            wider_terms(
+                "Para efectos de la interpretación y aplicación de la presente Ley, se deben \
+                 entender los conceptos y las definiciones, en singular o plural, previstos \
+                 en la Ley del Sector Hidrocarburos, la Ley del Sector Eléctrico, la Ley de \
+                 Planeación y Transición Energética y, las siguientes:\n\nI. Actividades en \
+                 materia energética: Las actividades relacionadas con el sector eléctrico;\n\n\
+                 II. Beneficio: La ventaja obtenida;"
+            ),
+            ["Actividades en materia energética", "Beneficio"]
+        );
+        assert_eq!(
+            wider_terms(
+                "Para los efectos del presente Reglamento, serán aplicables las definiciones \
+                 establecidas en el artículo 5 A de la Ley del Seguro Social, así como las \
+                 siguientes:\n\nI. Consejo Técnico: El Consejo Técnico del Instituto;\n\nII. \
+                 Derogada.\n\nIII. Reserva General: La reserva prevista;"
+            ),
+            ["Consejo Técnico", "Reserva General"]
+        );
+    }
+
+    #[test]
+    fn wider_pass_reads_the_remaining_introduction_forms() {
+        let entries = "\n\nI. Agencia: La Agencia;\n\nII. Banco: El Banco;";
+        for intro in [
+            // reg-lpeam 4
+            "Para efectos del presente reglamento, además de las definiciones previstas en el \
+             artículo 5 de la Ley, se debe entender por:",
+            // reg-laam 5
+            "Para efectos de lo establecido en el presente Reglamento, se entenderá como:",
+            // lgeo 2
+            "Para efectos de la interpretación y aplicación de la presente Ley, se deben \
+             entender los conceptos y las definiciones, en singular o plural, previstos en la \
+             Ley de Planeación y Transición Energética, la Ley del Sector Eléctrico y en las \
+             siguientes definiciones:",
+            // reg-lpte 5
+            "Para efectos de la interpretación y aplicación del presente Reglamento se deben \
+             entender los conceptos y las definiciones, en singular o plural, previstas en los \
+             artículos 3 de la Ley de Planeación y Transición Energética, así como las \
+             definiciones siguientes:",
+            // reg-lgeepa-anp 3
+            "Para los efectos de este Reglamento se estará a las definiciones que se contienen \
+             en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, así como a \
+             las siguientes:",
+            // reg-lic-calidad 2
+            "Para efectos de este Reglamento, además de las establecidas en la Ley de \
+             Infraestructura de la Calidad, se aplican las siguientes definiciones:",
+            // lgn 2
+            "Para efectos de la presente Ley se observarán las siguientes definiciones:",
+            // ladua 2
+            "Para los efectos de esta Ley se considera:",
+        ] {
+            assert_eq!(
+                wider_terms(&format!("{intro}{entries}")),
+                ["Agencia", "Banco"],
+                "{intro}"
+            );
+        }
+    }
+
+    #[test]
+    fn wider_pass_holds_an_incomplete_glossary_instead_of_extracting_part() {
+        // reg-lgcc-rne 2: a running page header precedes fraction VI, so V
+        // would swallow VI.
+        let leaked = wider(
+            "Para los efectos del presente Reglamento, se considerarán las definiciones \
+             contenidas en el artículo 3 de la Ley, así como las siguientes:\n\nI. Cédula: \
+             Instrumento de reporte;\n\nII. Emisiones Indirectas: Son los Gases; REGLAMENTO DE \
+             LA LEY GENERAL DE CAMBIO CLIMÁTICO III. Establecimiento Sujeto a Reporte: El \
+             conjunto de Fuentes;",
+        );
+        assert!(leaked.terms.is_empty());
+        let (provision_id, reason) = leaked.held.unwrap();
+        assert!(provision_id.ends_with("article:3"));
+        assert!(
+            reason.contains("contains another fraction heading"),
+            "{reason}"
+        );
+
+        // reg-lss-maeba 2 shape: III is followed by V.
+        // lieps 3o shape: fraction II opens a nested list instead of a
+        // definition.
+        let nested = wider(
+            "Para los efectos de esta Ley se entiende por:\n\nI. Cerveza, la bebida \
+             fermentada.\n\nII. Tabacos labrados y otros: Párrafo reformado DOF \
+             07-11-2025\n\na) Cigarros, los cigarros con o sin filtro.",
+        );
+        assert!(nested.terms.is_empty());
+        assert!(nested.held.unwrap().1.contains("no plain term"));
+
+        // lsct 2 shape: quoted names.
+        let quoted = wider(
+            "Para los efectos de la presente Ley se entenderá por:\n\nI.- “Tratado”: el \
+             convenio regido por el derecho internacional público;\n\nII.- “Reserva”: la \
+             declaración formulada al firmar.",
+        );
+        assert!(quoted.terms.is_empty());
+        assert!(quoted.held.unwrap().1.contains("no plain term"));
+
+        let gap = wider(
+            "Para los efectos de esta Ley, se entiende por:\n\nI. Adquirente: Persona;\n\nII. \
+             Avalúo: Dictamen;\n\nIII. Bien: Mueble;\n\nV. Comité Técnico: Órgano;",
+        );
+        assert!(gap.terms.is_empty());
+        assert!(gap.held.unwrap().1.contains("breaks the I, II, III"));
+    }
+
+    #[test]
+    fn wider_pass_skips_scoped_and_enumerating_introductions() {
+        for text in [
+            // cff 16: a single definition enumerated, not a glossary.
+            "Se entenderá por actividades empresariales las siguientes:\n\nI. Las comerciales \
+             que son las que tienen ese carácter.\n\nII. Las industriales entendidas como la \
+             extracción.",
+            // lisr 142
+            "Se entiende que, entre otros, son ingresos en los términos de este Capítulo los \
+             siguientes:\n\nI. El importe de las deudas perdonadas.\n\nII. La ganancia cambiaria.",
+            // lasoc 12
+            "Se entienden como servicios básicos de salud en materia de asistencia social los \
+             siguientes:\n\nI. Los señalados en el Artículo 168:\n\nII. Los demás.",
+            // cpf 401: chapter-scoped.
+            "Para los efectos de este Capítulo, se entiende por:\n\nI. Servidores Públicos, las \
+             personas;\n\nII. Funcionarios electorales, quienes integren los órganos;",
+            // ccom 1416: title-scoped.
+            "Para los efectos del presente título se entenderá por:\n\nI.- Acuerdo de arbitraje, \
+             el acuerdo;\n\nII.- Arbitraje, cualquier procedimiento arbitral;",
+            // ladua 137 bis 2: article-scoped.
+            "Para efecto del artículo anterior y de los siguientes, se entiende por:\n\nI.- \
+             Persona Física: El ciudadano.\n\nII.- Franja Fronteriza Norte: La comprendida.",
+        ] {
+            let detection = wider(text);
+            assert!(detection.terms.is_empty(), "{text}");
+            assert_eq!(detection.held, None, "{text}");
+        }
+    }
+
+    #[test]
+    fn the_established_pass_wins_over_the_wider_pass() {
+        let wider_first = provision(
+            STATUTE_ID,
+            "article:2",
+            "Para los efectos de esta Ley se entiende por:\n\nI. Agencia: La Agencia;\n\nII. \
+             Banco: El Banco;",
+        );
+        let established = provision(
+            STATUTE_ID,
+            "article:9",
+            "Para efectos de esta Ley se entenderá por:\n\nI. Cliente: La persona;\n\nII. \
+             Operación: El acto;",
+        );
+        let detection = super::detect_glossary(&[wider_first, established]).unwrap();
+        assert_eq!(
+            detection
+                .terms
+                .iter()
+                .map(|term| term.term.as_str())
+                .collect::<Vec<_>>(),
+            ["Cliente", "Operación"]
+        );
     }
 
     #[test]

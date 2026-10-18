@@ -25,9 +25,9 @@ use lex_export::{
 use lex_parse::{
     Commencement, CorpusExpectations, CorpusView, DiputadosOptions, GlossaryStyle,
     InstrumentContextPolicy, ReferenceOptions, audit_pdf, derive_article_temporal_determinations,
-    detect_glossary_terms, extract_doc, extract_html_text, extract_internal_references,
-    extract_pdf, extract_quoted_term_usages, extract_references, extract_term_usages,
-    extract_terms, find_admitted_furniture, find_glossary_provision, parse_dcg, parse_itf_dcg,
+    detect_glossary, extract_doc, extract_html_text, extract_internal_references, extract_pdf,
+    extract_quoted_term_usages, extract_references, extract_term_usages, extract_terms,
+    find_admitted_furniture, find_glossary_provision, parse_dcg, parse_itf_dcg,
     repair_article_dates, repair_partial_repeals, validate_corpus,
 };
 use lex_source::{
@@ -2319,21 +2319,28 @@ fn extract_instrument_terms(
 ) -> Result<(Vec<lex_core::DefinedTerm>, Vec<lex_core::TermUsage>)> {
     // An adapter may configure its glossary explicitly (the audited
     // committed instruments do); otherwise a fraction glossary is
-    // auto-detected from a "…se entenderá por:" provision, so bulk
-    // instruments get their defined terms linked without hand-config.
-    let (terms, additive_to): (Vec<lex_core::DefinedTerm>, &[String]) =
-        match &context.config.glossary {
-            Some(glossary) => {
-                let style = GlossaryStyle::from_config(&glossary.style)?;
-                let glossary_provision =
-                    find_glossary_provision(provisions, &glossary.provision_suffix)?;
-                (
-                    extract_terms(glossary_provision, style)?,
-                    &glossary.additive_to,
-                )
-            }
-            None => (detect_glossary_terms(provisions)?, &[][..]),
-        };
+    // auto-detected (`detect_glossary`), so bulk instruments get their
+    // defined terms linked without hand-config. A detected glossary that is
+    // incomplete is held with no terms and reported here.
+    let (terms, additive_to): (Vec<lex_core::DefinedTerm>, &[String]) = if let Some(glossary) =
+        &context.config.glossary
+    {
+        let style = GlossaryStyle::from_config(&glossary.style)?;
+        let glossary_provision = find_glossary_provision(provisions, &glossary.provision_suffix)?;
+        (
+            extract_terms(glossary_provision, style)?,
+            &glossary.additive_to,
+        )
+    } else {
+        let detection = detect_glossary(provisions)?;
+        if let Some((provision_id, reason)) = &detection.held {
+            eprintln!(
+                "{}: glossary held with no terms at {provision_id}: {reason}",
+                context.config.slug
+            );
+        }
+        (detection.terms, &[][..])
+    };
     if terms.is_empty() {
         return Ok((Vec::new(), Vec::new()));
     }
