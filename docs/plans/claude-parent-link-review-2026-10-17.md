@@ -64,3 +64,20 @@ No database build, main relink/reparse, commit or push. Standards32 separate;
 
 Exactly one next action: repair D1/D2 with narrow regressions and return affected
 cases/native checks before initiating database implementation.
+
+## D1/D2 final verification accepted — 2026-10-17
+
+Clean baseline `36618376a5b6997d69d5254cf4b0c88684a2f19b`. Independent19parent
+cases and6ordercases pass; no concrete new defect in bounded review. Native
+fmt/clippy/307tests/LRITF/IFPE pass. Fresh shared-validator pass:467/467valid,
+0errors42warnings, exact stored-report parity; all canonical bytes matchcurrent.
+No corpus/adapter difference from624b6306f. Prior fullclosure accepted8gaps at
+that HEAD; no fullclosure rerun. D1affected-pattern scan123parents found0matches.
+
+Report/evidence: `docs/pre-database-fix-verification-2026-10-17.md` and companion
+JSON. Reported D1/D2 technical blockers cleared. Accepted gaps, standards scope,
+merged-heading and temporal debt remain explicit; no DB built, code/corpus/notes
+edits, commit or push by verification.
+
+Exactly one next action: begin the commit-pinned SQLite/rusqlite projection with
+explicit coverage and preservation of provenance, typed edges and review state.

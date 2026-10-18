@@ -71,8 +71,8 @@ secrets, transcripts, hidden reasoning, or mutable copies of external state.
 ### Completed
 
 - [`docs/plans/claude-parent-link-review-2026-10-17.md`](docs/plans/claude-parent-link-review-2026-10-17.md)
-  — Pre-database recheck: all previous cases pass; two P2 boundaries remain.
-  Native 307 tests and isolated full closure pass; code/corpus unchanged.
+  — D1/D2 fixes accepted; 19 parent cases, six order cases and 307 tests pass.
+  Fresh 467-instrument validation matches stored reports; ready for SQLite projection.
 
 - [`docs/plans/linker-claude-audit-2026-10-16.md`](docs/plans/linker-claude-audit-2026-10-16.md)
   — Seven additional extraction/export findings reproduced and handed to Claude;
