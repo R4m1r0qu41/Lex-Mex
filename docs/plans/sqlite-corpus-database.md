@@ -8,8 +8,11 @@ what cites it, where is a term defined, where did the text come from, and what
 is known to be missing. It never changes the corpus, and it can be rebuilt from
 any pinned commit with one command. It does not tell you whether a provision is
 legally in force (most provisions are still `not_analyzed`), it does not fill
-missing articles or links, and a citation the corpus does not contain is shown
-as known-missing, not as non-existent. The build happens in its own Git
+missing articles or links. Something the corpus does not contain is reported
+as not found: with the recorded reason when the repository records one (not
+separately parsed, cited but not in the corpus, excluded), otherwise as "not
+found in this release; coverage not established" — never as non-existent. The
+build happens in its own Git
 worktree and branch and merges into `main` only after acceptance. The database
 file lives in a Git-ignored folder inside the repository for now, and its
 layout is chosen so it can later be published online without redesign.
@@ -45,7 +48,7 @@ the separate standards model visible without claiming it has been projected.
 - **Storage now.** Release directories are written under the repository's
   Git-ignored `derived/db/` folder (`derived/db/<release-id>/corpus.sqlite`,
   `manifest.json`, `verification.json`). Database files are never committed:
-  at roughly 400–500 MB (estimate below) they would permanently bloat Git
+  at roughly 340–380 MB (M1 measurement, below) they would permanently bloat Git
   history. If a tracked copy is ever wanted, use Git LFS or a release asset,
   decided separately.
 - **Online later (design constraints now, no serving work in this plan).**
@@ -171,8 +174,10 @@ absence of a stored link are not evidence of complete legal coverage.
    reconstruction source; store a per-row JSON payload only for record fields
    that no column represents (an "extra fields" payload), and verify
    no-field-dropped by reconstructing each record from columns plus extras and
-   comparing it with the raw record. M1 measures both layouts on a sample and
-   records the choice and projected size.
+   comparing it with the raw record. **Settled in M1:** extras-only, measured
+   on the full corpus at 333.7 MB against 497.1 MB for full payloads; the
+   column-mapping, absent-versus-null, number and parity rules are in
+   [M1 contract decisions](../sqlite-m1-contract-decisions-2026-10-17.md).
    Store standards metadata/catalogue provenance; inventory hashes and explicit
    exclusions for their unprojected clauses/text, without claiming full inclusion.
 5. Release identity hashes a versioned build specification: corpus commit,
@@ -205,29 +210,32 @@ and raw input bytes as `BLOB`; SQLite STRICT does not accept `JSON` or `BOOLEAN`
 as type names. FTS virtual tables are separate.
 [SQLite STRICT documentation](https://www.sqlite.org/stricttables.html).
 
-All canonical objects retain complete JSON payloads in addition to the columns
-needed for queries. Preserve null/omitted distinctions in the original payload;
-never manufacture review, temporal or baseline values to satisfy SQL NOT NULL.
+Every canonical record stays completely reconstructible as a logical record:
+mapped columns plus its `extras` object, ordered child rows and attached
+review objects, equal to the raw record as a JSON value (M1 contract
+decisions). Only the approval/operator-review objects keep a full `payload`.
+Preserve null/omitted distinctions; never manufacture review, temporal or
+baseline values to satisfy SQL NOT NULL.
 Unknown schema versions/enum values fail with a useful diagnostic until mapped.
 
 | Table/group | Key and required behavior |
 |---|---|
 | `corpus_release` | One row per database; deterministic specification, versions, counts and declared scope. |
 | `input_files` | Relative path PK; exact JSON bytes, digest, byte length, handling policy, optional instrument owner. |
-| `instruments` | Canonical ID PK, slug UNIQUE; actual instrument metadata, complete payload, optional adapter parent and count-baseline payload. No default 'audited' or 'clean'. |
-| `source_manifests` | Instrument + source role + ordinal/path; all operational/formal/annex provenance, complete payload. Missing formal metadata stays absent. |
-| `provisions` | Explicit deterministic `INTEGER PRIMARY KEY` row ID for FTS; canonical ID UNIQUE, owning instrument FK, original array ordinal, type including annex, label/number/headings/text and temporal/review columns plus full payload. UNIQUE instrument/ordinal and ID/owner pair. |
-| `reference_edges` | Canonical edge ID PK; full source/target strings, source kind, spans, basis/confidence/form/status and complete payload. See constraints below. |
-| `reference_qualifiers` | Composite PK `(edge_id, ordinal)`; exact type/text/optional offsets and payload. Preserve list text and repeated types; no span uniqueness or AUTOINCREMENT. |
+| `instruments` | Canonical ID PK, slug UNIQUE; actual instrument metadata, extras, optional adapter parent and count-baseline payload. No default 'audited' or 'clean'. |
+| `source_manifests` | Instrument + source role + ordinal/path; all operational/formal/annex provenance, extras. Missing formal metadata stays absent. |
+| `provisions` | Explicit deterministic `INTEGER PRIMARY KEY` row ID for FTS; canonical ID UNIQUE, owning instrument FK, original array ordinal, type including annex, label/number/headings/text and temporal/review columns plus extras. UNIQUE instrument/ordinal and ID/owner pair. |
+| `reference_edges` | Canonical edge ID PK; full source/target strings, source kind, spans, basis/confidence/form/status and extras. See constraints below. |
+| `reference_qualifiers` | Composite PK `(edge_id, ordinal)`; exact type/text/optional offsets and extras. Preserve list text and repeated types; no span uniqueness or AUTOINCREMENT. |
 | `outdated_reference_approvals` / `legal_operator_reviews` | Independent optional one-to-one rows keyed by edge ID; complete canonical payload and queryable reviewer/time fields. One can exist without the other. |
-| `defined_terms` | Canonical ID PK; owning instrument, defining provision, fraction, offsets, basis and payload. |
-| `term_usages` | Canonical ID PK; provision and term FKs, exact span/offsets and payload. Cross-instrument usages are valid and remain separate from reference edges. |
-| `enactment_evidence` | Canonical ID PK; owner, kind, containing-act title, source heading, text, publication date/period and full payload; not law provisions. |
+| `defined_terms` | Canonical ID PK; owning instrument, defining provision, fraction, offsets, basis and extras. |
+| `term_usages` | Canonical ID PK; provision and term FKs, exact span/offsets and extras. Cross-instrument usages are valid and remain separate from reference edges. |
+| `enactment_evidence` | Canonical ID PK; owner, kind, containing-act title, source heading, text, publication date/period and extras; not law provisions. |
 | `evidence_artifacts` | Path/kind/owner; preserved reform evidence, amendment legends, temporal proposals/results and review queues with schema/version/hash. Define query views only over real existing fields. |
 | `coverage` / `coverage_accepted_gaps` | Explicit included/excluded/unavailable/not-assessed states, eight gap entries with exact error multiplicity/reason and source provenance. Keep instrument validation and closure completeness distinct. |
 | `standards_catalog` | Standard ID/designation/title and exact metadata payload, stored validation summary, exclusion reason; declare clauses/text/links unprojected and fresh validation not performed. |
-| `known_structural_debt` | One row per sourced known defect: instrument, missing or affected label, kind (`merged_heading`, `label_grammar_gap`, …), where the text actually lives (containing provision ID), source document and decision reference. Seeded from `docs/decisions.md` (about 77 merged headings in 14 instruments); never inferred by the builder. |
-| `instrument_reproducibility` | Per instrument: `identical`, `differs`, `fails` or `no_retained_text`, with the measuring commit and source note. Rows exist only where a recorded measurement exists; otherwise `not_assessed`. |
+| `known_structural_debt` | One row per sourced known defect: instrument, missing or affected label, kind (`merged_heading`, `label_grammar_gap`, …), where the text actually lives (containing provision ID and exact character locator), source path/blob/hash and decision reference. Loaded only from operator-accepted rows of `adapters/shared/_known-structural-debt.json`; the `docs/decisions.md` aggregate (about 77 in 14 instruments) is not a seed. Never inferred by the builder. |
+| `instrument_reproducibility` | Recorded measurements only: `identical`, `differs`, `fails` or `no_retained_text`, with the measuring commit, method and evidence hash. A view over `instruments` supplies `not_assessed` where no row exists; no stored `not_assessed` rows. Zero rows at this baseline. |
 | `coverage_status_counts` | Per instrument: provisions by temporal status and review status, so `not_analyzed` is visible and dates are not read as reviewed. |
 
 Indexes: provision `(instrument_id, ordinal)` and `(instrument_id, number)`;
@@ -254,8 +262,10 @@ instrument/number uniqueness across articles, transitories and annexes.
   adapter parent; `own_instrument_*` targets the owner; `relative_position`
   pairs with the `relative` form.
 - Expose a `cited_but_missing` view from the accepted-gap error records (source
-  instrument, missing target ID, multiplicity), so an absent target reads as
-  "cited, not in corpus" rather than "does not exist".
+  instrument, missing target ID, multiplicity, reason), so an absent target
+  reads as "cited, not in corpus" rather than "does not exist". It is
+  instrument-level: held graphs do not store the rejected edge, so no citing
+  provision or span is claimed.
 - Preserve every distinct edge ID; shared source spans/range expansion are valid.
   Do not deduplicate on `(source, start, end)` or infer parent-shorthand origin
   from target identity. Adapter parent is separate provenance.
@@ -298,25 +308,31 @@ for acceptance, not HTTP/MCP endpoints:
    ordering. Exact article lookup is a separate operation; BM25 weights alone do
    not guarantee that an article outranks every mention of its number.
 
-An exact lookup that finds nothing must also consult `known_structural_debt`
-and `cited_but_missing` and report "not separately parsed" or "cited, not in
-corpus" when they apply.
+An exact lookup has three outcomes: found; not found with one or more sourced
+qualifications (`not_separately_parsed` from an accepted debt row,
+`cited_not_in_corpus` from an accepted-gap record, `excluded` from a coverage
+exclusion); or "not found in this release; coverage not established".
+Qualifications combine (LIC 112 Quintus has both a debt candidate and the
+`cpf` gap).
 
 **Golden queries** (expected answers taken from cases the operator has
 reviewed; each is an M3 acceptance fixture):
 
-1. `reg-lan` article 122 cites LAN article 122, rule `parent_shorthand`.
+1. `reg-lan` articles 153 and 188 cite LAN article 122, rule
+   `parent_shorthand` (pinned edge IDs in the M1 decisions; no stored edge
+   comes from `reg-lan` article 122 — operator to confirm the reviewed case).
 2. `lic`'s citation of LFCE article 31 bis is approved-outdated (rule
    `named_instrument`) and carries the legal operator note naming the current
    article 3 fracción IX; the database never retargets it.
-3. The `lrsic` historical edge appears in the history view, never as a live
-   citation.
+3. The four `lrsic` Transitory Quinto edges to `lraf-1990` appear in the
+   history view, never as live citations; article 2 fraction V (current LRAF)
+   stays live.
 4. An approved-outdated edge returns its approval and its operator note
    together.
-5. The `cpf` citation of LIC article 112 Quintus appears in
-   `cited_but_missing`.
+5. `cited_but_missing` lists `cpf` → LIC article 112 Quintus, multiplicity 1
+   (instrument-level; no citing provision).
 6. `lgtoc` article 228-B returns "not separately parsed" with its containing
-   provision from `known_structural_debt`.
+   provision from `known_structural_debt` (requires the accepted seed row).
 7. FTS for `obligacion` and `obligación` return the same provisions.
 8. Exact lookup of a `Terdecies` article returns that article.
 
@@ -393,6 +409,10 @@ FTS5/JSON/STRICT support with executable feature probes.
 
 M1 also measures the storage layout (item 4 above) and records the projected
 size, and fixes the `known_structural_debt` and reproducibility seed sources.
+Settled 2026-10-17 in the
+[M1 contract decisions](../sqlite-m1-contract-decisions-2026-10-17.md):
+extras-only layout, seed contract with 117 unreviewed candidates awaiting
+operator class review, three-outcome lookup and view-supplied `not_assessed`.
 
 Acceptance: every present canonical field/file has a preservation mapping;
 title anchors, missing historical targets, absent metadata, annex provisions,
@@ -461,6 +481,16 @@ Acceptance and stop condition:
 
 ## Current checkpoint and next action
 
+2026-10-17 (M1 contract, `db/sqlite-projection`): the three review details
+are settled in the
+[M1 contract decisions](../sqlite-m1-contract-decisions-2026-10-17.md).
+Full-corpus prototype measurement chose extras-only (333.7 MB versus
+497.1 MB) and reconstructed every record with zero mismatches. A read-only
+detector found 117 unreviewed structural-debt candidates in 22 instruments
+(the recorded aggregate was 77 in 14); no seed row is accepted. Golden fixtures
+pinned to edge IDs; G1 corrected to `reg-lan` 153/188 pending operator
+confirmation. No Rust code, dependency or database file exists yet.
+
 2026-10-17 (Codex review): strengthened plan and `resolution_rule` prerequisite
 reviewed at `cd49b9db4`; fmt/clippy/309 tests pass. Before M2, M1 must settle
 physical payload layout, source-backed structural-debt seeds, and explicit
@@ -482,5 +512,7 @@ file changed. The operator's two suggestion files remain untouched/untracked.
 
 `resolution_rule` landed (see `docs/decisions.md`).
 
-Exactly one next action: on the operator's go, create the database worktree
-and start M1.
+Exactly one next action: operator reviews the four structural-debt candidate
+classes (and confirms G1); M1 implementation then continues with manifest and
+seed types/schemas, DDL under the settled contract, an adversarial fixture and
+feature probes.
