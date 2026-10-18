@@ -155,6 +155,20 @@ M2 is waiting for the operator to approve the mechanism.
 - **The old parse lost text, not only structure.** In `lgmdfp` and
   `reg-lsem`, everything after a chapter heading that followed an
   unrecognized ordinal heading was missing from the corpus.
+- **The silent drop is general and still open.** A probe fixture with an
+  unrecognized heading after a chapter break (`Artículo 33 b.-`) loses that
+  article's text with no error. The parse keeps `33` and `34` only. The
+  grammar fix closes the ordinal case; the drop itself remains. Its corpus-wide
+  scope is unknown, because the detector only sees committed text. A
+  source-coverage check of retained text against committed provisions would
+  size it. Operator decision needed: a hard failure or a warning, and whether
+  to run the coverage check.
+- **M2 viability (2026-10-18 re-probe).** For `lac`, `laero`, `lfpc` and
+  `lic`, the full text of every article the reparse adds is already in the
+  committed corpus. Nothing was lost, so a split of committed text is viable
+  there. `lgtoc` needs lowercase-letter headings first. For `lfd`, `lfdo`,
+  `lfpa` and `lgs`, lost text can be neither detected nor recovered without
+  source; a committed-text split separates only what is present.
 - **Chapter headings were merged as well.** Merged text also swallowed
   chapter headings, so the containers carried the wrong `heading_context`
   for the articles that followed.
