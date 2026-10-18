@@ -461,6 +461,12 @@ Acceptance and stop condition:
 
 ## Current checkpoint and next action
 
+2026-10-17 (Codex review): strengthened plan and `resolution_rule` prerequisite
+reviewed at `cd49b9db4`; fmt/clippy/309 tests pass. Before M2, M1 must settle
+physical payload layout, source-backed structural-debt seeds, and explicit
+unknown/not-assessed semantics. See [review](../sqlite-plan-review-2026-10-17.md).
+No database work started.
+
 2026-10-17 (later): operator review adopted with changes — plain summary,
 dedicated worktree and in-repo Git-ignored storage with online-later
 constraints, `resolution_rule` prerequisite, structural-debt and
