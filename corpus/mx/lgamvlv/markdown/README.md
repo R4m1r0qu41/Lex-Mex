@@ -60,6 +60,11 @@ Fuente operativa: [camara_de_diputados](https://www.diputados.gob.mx/LeyesBiblio
 - [Artículo 34 Septies](articulo-34-Septies.md)
 - [Artículo 34 Octies](articulo-34-Octies.md)
 - [Artículo 34 Nonies](articulo-34-Nonies.md)
+- [Artículo 34 Decies](articulo-34-Decies.md)
+- [Artículo 34 Undecies](articulo-34-Undecies.md)
+- [Artículo 34 Duodecies](articulo-34-Duodecies.md)
+- [Artículo 34 Terdecies](articulo-34-Terdecies.md)
+- [Artículo 34 Quaterdecies](articulo-34-Quaterdecies.md)
 - [Artículo 34-A](articulo-34-A.md)
 - [Artículo 34-B](articulo-34-B.md)
 - [Artículo 34-C](articulo-34-C.md)
@@ -104,6 +109,7 @@ Fuente operativa: [camara_de_diputados](https://www.diputados.gob.mx/LeyesBiblio
 - [Artículo 59 Septies](articulo-59-Septies.md)
 - [Artículo 59 Octies](articulo-59-Octies.md)
 - [Artículo 59 Nonies](articulo-59-Nonies.md)
+- [Artículo 59 Decies](articulo-59-Decies.md)
 - [Artículo 60](articulo-60.md)
 
 ## Disposiciones transitorias

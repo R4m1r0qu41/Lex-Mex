@@ -1858,7 +1858,28 @@
       "title": "Título SEXTO",
       "chapter": "Capítulo III"
     },
-    "text": "La Junta de Gobierno celebrará sesiones ordinarias por lo menos cuatro veces al año y las extraordinarias que propondrá su Presidente, el Comisionado Ejecutivo o al menos 3 de sus integrantes.\n\nArtículo adicionado DOF 03-01-2017\n\nArtículo 84 Sexíes. La Junta de Gobierno sesionará válidamente con la asistencia de la mayoría de sus integrantes, siempre que esté presente la persona Titular de la Presidencia de la Junta de Gobierno. Los acuerdos se adoptarán por mayoría de votos de sus integrantes presentes.\n\nArtículo adicionado DOF 03-01-2017. Reformado DOF 28-04-2022",
+    "text": "La Junta de Gobierno celebrará sesiones ordinarias por lo menos cuatro veces al año y las extraordinarias que propondrá su Presidente, el Comisionado Ejecutivo o al menos 3 de sus integrantes.\n\nArtículo adicionado DOF 03-01-2017",
+    "publication_date": "2013-01-09",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:84-sexies",
+    "instrument_id": "urn:lex-mx:federal:statute:lgv",
+    "provision_type": "article",
+    "label": "Artículo 84 Sexíes",
+    "number": "84 Sexíes",
+    "heading_context": {
+      "title": "Título SEXTO",
+      "chapter": "Capítulo III"
+    },
+    "text": "La Junta de Gobierno sesionará válidamente con la asistencia de la mayoría de sus integrantes, siempre que esté presente la persona Titular de la Presidencia de la Junta de Gobierno. Los acuerdos se adoptarán por mayoría de votos de sus integrantes presentes.\n\nArtículo adicionado DOF 03-01-2017. Reformado DOF 28-04-2022",
     "publication_date": "2013-01-09",
     "effective_from": null,
     "effective_to": null,

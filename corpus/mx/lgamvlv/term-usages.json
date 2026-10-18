@@ -172,12 +172,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:34-nonies:term-usage:1488-1505",
-    "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:34-nonies",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:34-duodecies:term-usage:31-48",
+    "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:34-duodecies",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:registro-nacional",
     "span": "Registro Nacional",
-    "start_char": 1488,
-    "end_char": 1505
+    "start_char": 31,
+    "end_char": 48
   },
   {
     "schema_version": "0.1.0",
@@ -1171,12 +1171,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:59-nonies:term-usage:650-686",
-    "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:59-nonies",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:59-decies:term-usage:24-60",
+    "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:59-decies",
     "term_id": "urn:lex-mx:federal:statute:lgamvlv:term:centros-de-justicia-para-las-mujeres",
     "span": "Centros de Justicia para las Mujeres",
-    "start_char": 650,
-    "end_char": 686
+    "start_char": 24,
+    "end_char": 60
   },
   {
     "schema_version": "0.1.0",

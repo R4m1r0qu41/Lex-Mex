@@ -93,6 +93,7 @@ Fuente operativa: [camara_de_diputados](https://www.diputados.gob.mx/LeyesBiblio
 - [Artículo 84 Ter](articulo-84-Ter.md)
 - [Artículo 84 Quáter](articulo-84-Quáter.md)
 - [Artículo 84 Quinquies](articulo-84-Quinquies.md)
+- [Artículo 84 Sexíes](articulo-84-Sexíes.md)
 - [Artículo 84 Septies](articulo-84-Septies.md)
 - [Artículo 84 Octies](articulo-84-Octies.md)
 - [Artículo 85](articulo-85.md)

@@ -79,22 +79,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdnna:article:135-quinquies:reference:551-554:135:direct",
-    "source_provision_id": "urn:lex-mx:federal:statute:lgdnna:article:135-quinquies",
-    "source_span": "135",
-    "start_char": 551,
-    "end_char": 554,
-    "target_instrument_id": "urn:lex-mx:federal:statute:lgdnna",
-    "target_provision_id": "urn:lex-mx:federal:statute:lgdnna:article:135",
-    "qualifiers": [],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct",
-    "resolution_rule": "own_instrument_default"
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgdnna:article:135-septies:reference:710-711:135-septies:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgdnna:article:135-septies",
     "source_span": "I",

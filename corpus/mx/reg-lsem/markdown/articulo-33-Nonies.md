@@ -24,7 +24,3 @@ Al término de su comisión o cuando la misma le haya sido revocada, el Miembro 
 Asimismo, el Miembro del Servicio Exterior deberá reanudar labores, para lo cual se presentará en la Dirección General, dentro del plazo establecido en el artículo 117 del Reglamento, a fin de que la Secretaría le reconozca su rango y le indique las funciones a desempeñar.
 
 Artículo adicionado DOF 02-11-2018
-
-ARTÍCULO 33 Decies.- El personal comisionado, de acuerdo con el artículo [18](../../lsem/markdown/articulo-18.md) de la Ley, podrá presentarse a los concursos de ascenso, siempre y cuando cumpla con los requisitos que para tal efecto señalan la Ley y el Reglamento.
-
-Artículo adicionado DOF 02-11-2018

@@ -2,8 +2,8 @@
   "schema_version": "0.1.0",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lsem",
   "valid": true,
-  "article_count": 182,
+  "article_count": 186,
   "transitory_count": 10,
-  "reference_count": 143,
+  "reference_count": 146,
   "issues": []
 }
