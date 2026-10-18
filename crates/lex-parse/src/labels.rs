@@ -6,37 +6,46 @@
 //! a base number with optional thousands separators or dotted segments,
 //! an optional ordinal mark (`1o`, `2º`), an optional single-letter
 //! suffix (`15-D`) that must never swallow a qualifier (`32-Bis`), and an
-//! optional qualifier (`Bis` … `Octies`). Secondary regulations use
+//! optional qualifier (`Bis` … `Novodecies`). Secondary regulations use
 //! compound identifiers such as `2 Bis 102`, where every trailing numeric
 //! component is part of the identifier.
 
-/// Qualifier words in rank order; equivalent variants share a rank.
-const QUALIFIERS: [&str; 10] = [
-    "Bis",
-    "Ter",
-    "Quáter",
-    "Quater",
-    "Quinquies",
-    "Quintus",
-    "Sexies",
-    "Septies",
-    "Octies",
-    "Nonies",
+/// Qualifier words with their rank; equivalent variants share a rank.
+///
+/// The qualifiers are one Latin ordinal series on the same article number:
+/// `78 Nonies` is followed by `78 Decies` … `78 Novodecies`, and `15 Quintus`
+/// by `15 Sextus` … `15 Novenus`. Spellings beyond `Nonies` are the ones the
+/// committed corpus prints (operator decision 2026-10-17, `docs/decisions.md`).
+const QUALIFIERS: [(&str, u8); 28] = [
+    ("Bis", 1),
+    ("Ter", 2),
+    ("Quáter", 3),
+    ("Quater", 3),
+    ("Quinquies", 4),
+    ("Quintus", 4),
+    ("Quintes", 4),
+    ("Sexies", 5),
+    ("Sextus", 5),
+    ("Sexties", 5),
+    ("Sexíes", 5),
+    ("Septies", 6),
+    ("Septimus", 6),
+    ("Séptimus", 6),
+    ("Octies", 7),
+    ("Octavus", 7),
+    ("Nonies", 8),
+    ("Novenus", 8),
+    ("Decies", 9),
+    ("Undecies", 10),
+    ("Duodecies", 11),
+    ("Terdecies", 12),
+    ("Quaterdecies", 13),
+    ("Quinquiesdecies", 14),
+    ("Sexiesdecies", 15),
+    ("Septdecies", 16),
+    ("Octodecies", 17),
+    ("Novodecies", 18),
 ];
-
-/// Rank used for ordering; `Quáter` and `Quater` are the same qualifier.
-fn qualifier_rank(index: usize) -> u8 {
-    match index {
-        0 => 1,     // Bis
-        1 => 2,     // Ter
-        2 | 3 => 3, // Quáter / Quater
-        4 | 5 => 4, // Quinquies / Quintus
-        6 => 5,     // Sexies
-        7 => 6,     // Septies
-        8 => 7,     // Octies
-        _ => 8,     // Nonies
-    }
-}
 
 // Spanish collation order: `Ñ` is its own letter, sorting between `N`
 // and `O` (as it appears in law, e.g. LFT 353-N, 353-Ñ, 353-O). The
@@ -337,14 +346,14 @@ fn is_letter(character: char) -> bool {
     character.is_ascii_alphabetic() || "ÁÉÍÓÚÑáéíóúñ".contains(character)
 }
 
-/// Match a bare qualifier word (`Bis` … `Nonies`) at the start of `text`,
+/// Match a bare qualifier word (`Bis` … `Novodecies`) at the start of `text`,
 /// case-insensitively, returning it exactly as written so the heading keeps
 /// its source casing (`BIS` in LIVA, `Bis` in CFF). Heading parsers that
 /// consume a letter suffix before the qualifier (`Artículo 1o.-A BIS.-`)
 /// need this; the grammar's own hyphen form (`32-B Bis`) never reaches here.
 #[must_use]
 pub fn match_qualifier_word_at(text: &str) -> Option<&str> {
-    for qualifier in QUALIFIERS {
+    for (qualifier, _) in QUALIFIERS {
         let count = qualifier.chars().count();
         let matched = text
             .chars()
@@ -397,7 +406,7 @@ fn parse_qualifier(cursor: &mut Cursor) -> Option<(u8, String)> {
         return None;
     }
     let rest = cursor.rest();
-    for (index, qualifier) in QUALIFIERS.iter().enumerate() {
+    for (qualifier, rank) in QUALIFIERS {
         if rest.len() >= qualifier.len()
             && rest
                 .chars()
@@ -409,7 +418,7 @@ fn parse_qualifier(cursor: &mut Cursor) -> Option<(u8, String)> {
             let after = rest.chars().nth(qualifier.chars().count());
             if after.is_none_or(|next| !is_letter(next)) {
                 cursor.position += matched.len();
-                return Some((qualifier_rank(index), matched));
+                return Some((rank, matched));
             }
         }
     }
@@ -534,7 +543,7 @@ pub fn find_labels(text: &str) -> Vec<(std::ops::Range<usize>, ArticleLabel)> {
 
 #[cfg(test)]
 mod tests {
-    use super::{canonical_slug, find_labels, match_label_at};
+    use super::{canonical_slug, find_labels, match_label_at, match_qualifier_word_at};
 
     fn full(text: &str) -> super::ArticleLabel {
         let label = match_label_at(text).expect("label parses");
@@ -684,6 +693,67 @@ mod tests {
         assert_eq!(full("54 Quintus").slug(), "54-quintus");
         assert!(full("54 Quáter").sort_key() < full("54 Quintus").sort_key());
         assert!(full("54 Quintus").sort_key() < full("55").sort_key());
+    }
+
+    #[test]
+    fn latin_ordinals_continue_the_qualifier_series() {
+        let series = [
+            "78 Nonies",
+            "78 Decies",
+            "78 Undecies",
+            "78 Duodecies",
+            "78 Terdecies",
+            "78 Quaterdecies",
+            "78 Quinquiesdecies",
+            "78 Sexiesdecies",
+            "78 Septdecies",
+            "78 Octodecies",
+            "78 Novodecies",
+            "79",
+        ];
+        for pair in series.windows(2) {
+            assert!(
+                full(pair[0]).sort_key() < full(pair[1]).sort_key(),
+                "{pair:?}"
+            );
+        }
+        let classical = [
+            "15 Quintus",
+            "15 Sextus",
+            "15 Séptimus",
+            "15 Octavus",
+            "15 Novenus",
+        ];
+        for pair in classical.windows(2) {
+            assert!(
+                full(pair[0]).sort_key() < full(pair[1]).sort_key(),
+                "{pair:?}"
+            );
+        }
+        assert_eq!(
+            full("180 Quintes").sort_key(),
+            full("180 Quintus").sort_key()
+        );
+        assert_eq!(full("84 Sexíes").sort_key(), full("84 Sexies").sort_key());
+        assert_eq!(
+            full("135 Sexties").sort_key(),
+            full("135 Sextus").sort_key()
+        );
+        assert_eq!(
+            full("73 SEPTIMUS").sort_key(),
+            full("73 Séptimus").sort_key()
+        );
+        assert_eq!(full("15 Séptimus").slug(), "15-septimus");
+        assert_eq!(full("73 QUATERDECIES").slug(), "73-quaterdecies");
+        assert_eq!(
+            match_label_at("12 Terdecies. La").unwrap().raw(),
+            "12 Terdecies"
+        );
+        assert_eq!(
+            match_qualifier_word_at("Sexiesdecies. Las"),
+            Some("Sexiesdecies")
+        );
+        assert_eq!(match_qualifier_word_at("Sexiesdecimo"), None);
     }
     #[test]
     fn slash_ordinal_normalization_is_bound_to_the_exact_numeric_suffix() {
