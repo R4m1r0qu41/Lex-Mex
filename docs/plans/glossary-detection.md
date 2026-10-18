@@ -61,6 +61,47 @@ siguientes:".
 
 ## Milestones
 
+### G0 — Usage-driven cross-check (operator idea, 2026-10-18)
+
+A capitalized `Ley` or `Reglamento` used as a noun is a sign that the
+instrument defines it somewhere. Examples are `la Ley`, `dicha Ley` and
+`conforme al Reglamento`, where no title follows. Scanning for these uses
+finds glossaries that the introduction grammar misses, and it checks G1
+independently of that grammar.
+
+**Census (2026-10-18, metadata scan, at least 3 definite or anaphoric uses):**
+
+| | `Ley` | `Reglamento` |
+|---|---:|---:|
+| Instruments with that many uses | 220 | 110 |
+| Already a term | 63 | 16 |
+| No term, express definition found | 47 (43 list entries, 4 quoted) | 17 (list entries) |
+| No term, no express definition | 110 | 77 |
+
+**Findings:**
+- **The found definitions are precise.** All 10 sampled were genuine glossary
+  entries, for example `VII. Ley: la Ley Minera` (`reg-lmin` 1) and `I. Ley:
+  la Ley del Seguro Social` (`lss` 5 A).
+- **One inline form was missed:** `se entiende por Ley, a la Ley Federal de
+  Protección al Consumidor` (`reg-lfpc` 2).
+- **Most of the "no definition" group defines nothing expressly.** These are
+  mostly regulations whose glossary opens by importing the parent's
+  definitions: `además de las definiciones previstas en el artículo 4 de la
+  Ley` (`reg-lfiiedb` 2, `reg-lmigra` 3), or `Las definiciones contenidas en la
+  Ley serán aplicables` (`reg-lsem` 2). There, `la Ley` means the parent by
+  context: the title and the wording before `así como las siguientes`.
+  Citations through it already resolve (`parent_shorthand`). Making it a term
+  needs a decision on an implicit definition: where its span is, and which
+  `Basis` applies. The type has no `implicit` basis today.
+- **In statutes, `el Reglamento` usually means the law's own regulation.**
+  An article-level citation to it is rare: only one `artículo N del
+  Reglamento` occurs in a statute with exactly one child regulation (`lsh`).
+
+**Use in G1:** an instrument with this signal and no term is a G1 target.
+When G1 finishes, each such instrument either has the term or is on a
+reviewed list of implicit or absent definitions. Census script: a disposable
+scratch probe, to be reimplemented as a Rust audit in G1.
+
 ### G1 — Detector and completeness probe
 
 1. Widen the introduction grammar in `detect_glossary_terms`, with fixtures
@@ -107,6 +148,11 @@ send a Codex review packet.
 reg-lan quoted-usage rule landed separately.
 
 ## Discoveries
+
+- **The wording before the list names the originals.** `así como las
+  siguientes` follows a clause that names them (`las definiciones contenidas
+  en el artículo 3 de la Ley`). That preceding clause is the evidence for
+  `additive_to` in G3 (operator clarification, 2026-10-18).
 
 - Header leaks inside glossary text (a running page title between two
   fractions) would merge two entries silently. The completeness probe has to
