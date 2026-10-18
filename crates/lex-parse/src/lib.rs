@@ -830,7 +830,7 @@ fn bare_word_follows(rest: &str, quoted: bool) -> bool {
     let Some(next) = rest.chars().next() else {
         return true;
     };
-    if next == '(' {
+    if next == '(' || next == ',' {
         return !excluded_reading(rest[1..].trim_start());
     }
     if !next.is_alphabetic() {
@@ -2090,11 +2090,21 @@ fn validate_provisions(
                     match plain_article_number(&provision.number) {
                         Some(number) if number == expected_number => {
                             expected_number += 1;
-                            // Track the plain article so a following suffixed
-                            // article is ordered against it.
-                            previous_article = labels::match_label_at(&provision.number)
-                                .filter(|label| label.raw() == provision.number)
-                                .map(|label| (label.sort_key(), provision.number.clone()));
+                            // Order the plain article against the preceding
+                            // label (a suffix of a later base must not
+                            // precede it) and track it for the next one.
+                            if labels::match_label_at(&provision.number)
+                                .is_some_and(|label| label.raw() == provision.number)
+                            {
+                                validate_article_order_by_label(
+                                    provision,
+                                    &mut previous_article,
+                                    false,
+                                    issues,
+                                );
+                            } else {
+                                previous_article = None;
+                            }
                         }
                         Some(number) => issues.push(error(
                             "article_order",
@@ -3911,6 +3921,32 @@ mod tests {
             "{:?}",
             swapped.issues
         );
+        // A plain article after a suffix of the same or a later base. The
+        // parser never emits these orders, so relabel the parsed provisions.
+        let relabel = |second: &'static str, third: &'static str| {
+            validate_sample_with(
+                &text("Artículo 1.- Uno.\n\nArtículo 2.- Dos.\n\nArtículo 3.- Tres."),
+                &strict(3),
+                move |provisions| {
+                    provisions[1].number = second.to_owned();
+                    provisions[2].number = third.to_owned();
+                },
+            )
+        };
+        let same_base = relabel("2-A", "2");
+        assert!(
+            same_base.issues.iter().any(|i| i.code == "suffix_order"),
+            "{:?}",
+            same_base.issues
+        );
+        let later_base = relabel("3-A", "2");
+        assert!(
+            later_base.issues.iter().any(|i| i.code == "article_order"),
+            "{:?}",
+            later_base.issues
+        );
+        let ordered_again = relabel("2", "3");
+        assert!(ordered_again.valid && ordered_again.issues.is_empty());
         // A suffixed article whose base runs backwards is an error. The
         // parser never emits this order, so reorder the parsed provisions.
         let backwards = validate_sample_with(
@@ -4387,6 +4423,9 @@ mod tests {
             "Se aplicará el artículo 1 de la Ley, vigente hasta el 31 de diciembre de 1990.",
             "Se aplicará el artículo 1 de la Ley (vigente hasta el 31 de diciembre de 1990).",
             "Se aplicará el artículo 1 de la Ley, en cita.",
+            "Se aplicará el artículo 1 de la “Ley” , vigente hasta el 31 de diciembre de 1990.",
+            "Se aplicará el artículo 1 de la \"Ley\" , vigente hasta el 31 de diciembre de 1990.",
+            "Se aplicará el artículo 1 de la Ley , vigente hasta el 31 de diciembre de 1990.",
         ] {
             assert!(parent_edges(text, &known).is_empty(), "{text}");
         }
@@ -4395,6 +4434,8 @@ mod tests {
             "Se aplicará el artículo 1 de la Ley. Vigente hasta mañana.",
             "Se aplicará el artículo 1 de la Ley, vigente conforme a lo anterior.",
             "Se aplicará el artículo 1 de la Ley (aplicable).",
+            "Se aplicará el artículo 1 de la Ley , y de otras.",
+            "Se aplicará el artículo 1 de la “Ley” , conforme a lo anterior.",
         ] {
             assert_eq!(parent_edges(text, &known).len(), 1, "{text}");
         }

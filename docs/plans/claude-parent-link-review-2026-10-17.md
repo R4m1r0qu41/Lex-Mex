@@ -47,3 +47,20 @@ behave correctly. No main code, corpus, operator decision, commit or push change
 
 Exactly one next action: close the punctuation boundary with narrow regressions
 and return the affected cases/native checks before broader relinking.
+
+## Pre-database recheck complete — 2026-10-17
+
+Baseline clean `624b6306f8399efaf65c29bef73544b3e2ef939e`, reviewing punctuation
+repair `7dc6d649c` and count/suffix/accepted-gap changes `624b6306f`.
+All18previousparentcases pass; two P2 boundaries remain: whitespace before comma
+bypasses historical exclusion, strict plain numbering forgets preceding suffix.
+Visible report/evidence: `docs/pre-database-recheck-2026-10-17.md` and companion JSON.
+
+Native fmt/clippy/307tests/LRITF/IFPE pass. All248newfrozen counts match. Private
+fullclosure exit0:8exactacceptedgaps,459unchanged,0relinked,35887refs and9763cross;
+allcanonicalJSON/graphs byte-identical. Main code/corpus/legalnotes untouched.
+No database build, main relink/reparse, commit or push. Standards32 separate;
+87storedwarnings=42federal+45standards (old95narrative stale).
+
+Exactly one next action: repair D1/D2 with narrow regressions and return affected
+cases/native checks before initiating database implementation.

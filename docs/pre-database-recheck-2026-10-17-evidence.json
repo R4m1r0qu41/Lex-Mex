@@ -1,0 +1,2204 @@
+{
+  "baseline_head": "624b6306f8399efaf65c29bef73544b3e2ef939e",
+  "verdict": "two_P2_code_gaps_before_database",
+  "remaining_finding_count": 2,
+  "independent_review": {
+    "head": "624b6306f8399efaf65c29bef73544b3e2ef939e",
+    "reviewed_commits": [
+      "7dc6d649cbe8c16598c42eea81830cbe79cf5272",
+      "624b6306f8399efaf65c29bef73544b3e2ef939e"
+    ],
+    "source_sha256": {
+      "crates/lex-parse/src/lib.rs": "89d00a5ba9978d900c1ba8174c27d3a4fe7b9baf21340b9976eb8eaa81723315",
+      "crates/lex-parse/src/labels.rs": "b45f8855dd232fa028c14734a20e1867484943e554a80813ff40363b840bbd4e"
+    },
+    "summary": {
+      "original13_parent_cases_passed": 13,
+      "previous_direct_R2_controls_passed": 2,
+      "previous3_punctuation_failures_now_passed": 3,
+      "total_prior_cases_passed": 18,
+      "concrete_residual_findings": 2
+    },
+    "prior_parent_cases": [
+      {
+        "input": "Se aplicará el artículo 1 de la Ley.",
+        "expected": [
+          "1 -> urn:lex-mx:federal:statute:lan:article:1 Resolved"
+        ],
+        "actual": [
+          "1 -> urn:lex-mx:federal:statute:lan:article:1 Resolved"
+        ],
+        "pass": true
+      },
+      {
+        "input": "Se aplicará el artículo 1 de la Ley Federal del Trabajo.",
+        "expected": [
+          "1 -> urn:lex-mx:federal:statute:lft:article:1 Resolved"
+        ],
+        "actual": [
+          "1 -> urn:lex-mx:federal:statute:lft:article:1 Resolved"
+        ],
+        "pass": true
+      },
+      {
+        "input": "Se aplicará el artículo 1 de la Ley en Materia de Telecomunicaciones y Radiodifusión.",
+        "expected": [
+          "1 -> urn:lex-mx:federal:statute:lmtr:article:1 Resolved"
+        ],
+        "actual": [
+          "1 -> urn:lex-mx:federal:statute:lmtr:article:1 Resolved"
+        ],
+        "pass": true
+      },
+      {
+        "input": "La Ley Federal del Trabajo es el ordenamiento en comento. Se aplicará el artículo 1 de la Ley en comento.",
+        "expected": [],
+        "actual": [],
+        "pass": true
+      },
+      {
+        "input": "La Ley Federal del Trabajo es el ordenamiento al que se hace referencia. Se aplicará el artículo 1 de la Ley que se cita.",
+        "expected": [],
+        "actual": [],
+        "pass": true
+      },
+      {
+        "input": "Se aplicará el artículo 1 de la Ley vigente hasta el 31 de diciembre de 1990.",
+        "expected": [],
+        "actual": [],
+        "pass": true
+      },
+      {
+        "input": "Se aplicará el artículo 1 de la Ley en vigor al 31 de diciembre de 1990.",
+        "expected": [],
+        "actual": [],
+        "pass": true
+      },
+      {
+        "input": "Se aplicará el artículo 1 de la Ley que estaba vigente al 31 de diciembre de 1990.",
+        "expected": [],
+        "actual": [],
+        "pass": true
+      },
+      {
+        "input": "Se aplicará el artículo 1 de la “Ley” vigente hasta el 31 de diciembre de 1990.",
+        "expected": [],
+        "actual": [],
+        "pass": true
+      },
+      {
+        "input": "Se aplicará el artículo 1 de la “Ley” en cita.",
+        "expected": [],
+        "actual": [],
+        "pass": true
+      },
+      {
+        "input": "Se aplicará el artículo 1 de la “Ley”, vigente hasta el 31 de diciembre de 1990.",
+        "expected": [],
+        "actual": [],
+        "pass": true
+      },
+      {
+        "input": "Se aplicará el artículo 1 de la “Ley” (vigente hasta el 31 de diciembre de 1990).",
+        "expected": [],
+        "actual": [],
+        "pass": true
+      },
+      {
+        "input": "Se aplicará el artículo 1 de la Ley, vigente hasta el 31 de diciembre de 1990.",
+        "expected": [],
+        "actual": [],
+        "pass": true
+      },
+      {
+        "input": "Se aplicará el artículo 1 de dicha Ley.",
+        "expected": [],
+        "actual": [],
+        "pass": true
+      },
+      {
+        "input": "Se aplicará el artículo 1 de la Ley y de este Reglamento.",
+        "expected": [],
+        "actual": [],
+        "pass": true
+      },
+      {
+        "input": "Se aplicará el artículo 1 del Código.",
+        "expected": [
+          "1 -> urn:lex-mx:federal:code:cff:article:1 Resolved"
+        ],
+        "actual": [
+          "1 -> urn:lex-mx:federal:code:cff:article:1 Resolved"
+        ],
+        "pass": true
+      },
+      {
+        "input": "Se aplicará el artículo 1 del Código Civil Federal.",
+        "expected": [
+          "1 -> urn:lex-mx:federal:code:ccf:article:1 Resolved"
+        ],
+        "actual": [
+          "1 -> urn:lex-mx:federal:code:ccf:article:1 Resolved"
+        ],
+        "pass": true
+      },
+      {
+        "input": "El Código Civil Federal es el ordenamiento en comento. Se aplicará el artículo 1 del Código en comento.",
+        "expected": [],
+        "actual": [],
+        "pass": true
+      }
+    ],
+    "findings": [
+      {
+        "id": "strict_plain_article_does_not_compare_prior_suffix",
+        "severity": "P2",
+        "path": "crates/lex-parse/src/lib.rs",
+        "lines": [
+          2090,
+          2097
+        ],
+        "evidence_kind": "minimal_validator_reproduction",
+        "expected": "Check numeric article against previous suffix sort key as well as expected plain counter. [1,2-A,2] must expose suffix_order warning; [1,3-A,2] must fail article_order for backwards base.",
+        "actual": "Strict [1,2-A,2] and [1,3-A,2] both return valid=true,issues=[]. The same inputs with allow_article_gaps=true produce expected suffix_order and article_order respectively.",
+        "mechanism": "Successful plain-number branch updates previous_article without calling sort-key check. Suffix forward jump is not flagged in strict mode, and following plain number erases that ordering history.",
+        "positive_control": "[1,1-A,2] valid with no issues in strict and gap-tolerant modes.",
+        "observed_stored_instance": false,
+        "suggested_test": "Exercise suffix-to-plain transitions in strict mode, including same-base descent and backwards-base descent; current committed test covers only plain-to-suffix descent."
+      },
+      {
+        "id": "whitespace_before_comma_bypasses_historical_parent_guard",
+        "severity": "P2",
+        "path": "crates/lex-parse/src/lib.rs",
+        "lines": [
+          829,
+          837
+        ],
+        "evidence_kind": "minimal_extractor_reproduction",
+        "input": "Se aplicará el artículo 1 de la “Ley” , vigente hasta el 31 de diciembre de 1990.",
+        "expected": [],
+        "actual": [
+          "1 -> urn:lex-mx:federal:statute:lan:article:1 Resolved"
+        ],
+        "mechanism": "The attached-comma path now checks excluded_reading, but after trim_start only opening parenthesis gets equivalent handling; a whitespace-separated comma returns true as nonalphabetic punctuation.",
+        "scope": "One directly related whitespace normalization variant only; not a broader grammar search.",
+        "observed_stored_instance": false,
+        "suggested_test": "The already-fixed quoted comma historical-modifier case should behave identically when whitespace precedes the comma."
+      }
+    ],
+    "suffix_cases_stdout": [
+      "ORDER INPUT: [\"1\", \"1-A\", \"2\"] allow_gaps=false VALID=true ISSUES=[]",
+      "ORDER INPUT: [\"1\", \"1-A\", \"2\"] allow_gaps=true VALID=true ISSUES=[]",
+      "ORDER INPUT: [\"1\", \"2-A\", \"2\"] allow_gaps=false VALID=true ISSUES=[]",
+      "ORDER INPUT: [\"1\", \"2-A\", \"2\"] allow_gaps=true VALID=true ISSUES=[(Warning, \"suffix_order\", \"article 2 does not sort after 2-A within the same base\")]",
+      "ORDER INPUT: [\"1\", \"3-A\", \"2\"] allow_gaps=false VALID=true ISSUES=[]",
+      "ORDER INPUT: [\"1\", \"3-A\", \"2\"] allow_gaps=true VALID=false ISSUES=[(Warning, \"article_gap\", \"articles between 1 and 3-A are absent (derogated, or a parse gap)\"), (Error, \"article_order\", \"article 2 sorts before article 3-A\")]"
+    ],
+    "validation": [
+      {
+        "command": "CARGO_TARGET_DIR=/private/tmp/lex-linker-independent-audit/target cargo run --locked --offline --manifest-path .work/pre-db-review-20261017/harness/Cargo.toml --quiet",
+        "exit_code": 0,
+        "stdout": ".work/pre-db-review-20261017/harness-output.txt"
+      },
+      {
+        "command": "CARGO_TARGET_DIR=/private/tmp/lex-linker-fix-20261016/target cargo test --locked --offline -p lex-parse --lib strict_ordering_checks_suffixes_by_sort_key",
+        "exit_code": 0,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "log": ".work/pre-db-review-20261017/suffix-targeted-test.txt"
+      },
+      {
+        "command": "CARGO_TARGET_DIR=/private/tmp/lex-linker-fix-20261016/target cargo test --locked --offline -p lex-parse --lib punctuation_does_not_hide_a_dated_modifier",
+        "exit_code": 0,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "log": ".work/pre-db-review-20261017/punctuation-targeted-test.txt"
+      }
+    ],
+    "harness_source": ".work/pre-db-review-20261017/harness/src/main.rs",
+    "scope": "Bounded punctuation replay and new suffix-order validator review. No stored corpus defect asserted, arbitrary grammar search, main tracked changes, staging, commit or Claude invocation. Parent unrelated task plan preserved.",
+    "harness_sources": {
+      "rust": "use std::{collections::HashSet,fs};\nuse lex_core::Provision;\nfn main(){\n let all:Vec<Provision>=serde_json::from_str(&fs::read_to_string(\"/Users/jr/Dev/lex-mex/corpus/mx/reg-lan/provisions.json\").unwrap()).unwrap();\n let parent=\"urn:lex-mx:federal:statute:lan\";\n let named=\"urn:lex-mx:federal:statute:lmtr\";\n let other=\"urn:lex-mx:federal:statute:lft\";\n let opts=lex_parse::ReferenceOptions{policy:lex_parse::InstrumentContextPolicy::SentenceEarliestMarker{internal_markers:vec![\"de este reglamento\".into(),\"del presente reglamento\".into()],external_instruments:vec![(\"ley en materia de telecomunicaciones y radiodifusión\".into(),named.into()),(\"ley federal del trabajo\".into(),other.into())]},transitory_citations:true,same_article_fractions:true,relative_references:true,historical_targets:vec![],parent_instrument:Some(parent.into())};\n for text in [\n \"Se aplicará el artículo 1 de la Ley.\",\n \"Se aplicará el artículo 1 de la Ley Federal del Trabajo.\",\n \"Se aplicará el artículo 1 de la Ley en Materia de Telecomunicaciones y Radiodifusión.\",\n \"La Ley Federal del Trabajo es el ordenamiento en comento. Se aplicará el artículo 1 de la Ley en comento.\",\n \"La Ley Federal del Trabajo es el ordenamiento al que se hace referencia. Se aplicará el artículo 1 de la Ley que se cita.\",\n \"Se aplicará el artículo 1 de la Ley vigente hasta el 31 de diciembre de 1990.\",\n \"Se aplicará el artículo 1 de la Ley en vigor al 31 de diciembre de 1990.\",\n \"Se aplicará el artículo 1 de la Ley que estaba vigente al 31 de diciembre de 1990.\",\n \"Se aplicará el artículo 1 de la “Ley” vigente hasta el 31 de diciembre de 1990.\",\n \"Se aplicará el artículo 1 de la “Ley” en cita.\",\n \"Se aplicará el artículo 1 de la “Ley”, vigente hasta el 31 de diciembre de 1990.\",\n \"Se aplicará el artículo 1 de la “Ley” (vigente hasta el 31 de diciembre de 1990).\",\n \"Se aplicará el artículo 1 de la Ley, vigente hasta el 31 de diciembre de 1990.\",\n \"Se aplicará el artículo 1 de la “Ley” , vigente hasta el 31 de diciembre de 1990.\",\n \"Se aplicará el artículo 1 de dicha Ley.\",\n \"Se aplicará el artículo 1 de la Ley y de este Reglamento.\",\n ] {\n let mut ps=all[..3].to_vec();ps[1].text=text.into();let mut targets:HashSet<_>=ps.iter().map(|p|p.id.clone()).collect();\n for target in [parent,named,other]{targets.insert(format!(\"{target}:article:1\"));}\n let refs=lex_parse::extract_references(&ps,None,&opts,&targets).unwrap();println!(\"INPUT: {text}\");for e in refs.iter().filter(|e|e.source_provision_id==ps[1].id){println!(\"{} -> {} {:?}\",e.source_span,e.target_provision_id,e.resolution_status);}\n }\n\n let all:Vec<Provision>=serde_json::from_str(&fs::read_to_string(\"/Users/jr/Dev/lex-mex/corpus/mx/reg-cff/provisions.json\").unwrap()).unwrap();\n let parent=\"urn:lex-mx:federal:code:cff\";let other=\"urn:lex-mx:federal:code:ccf\";\n let opts=lex_parse::ReferenceOptions{policy:lex_parse::InstrumentContextPolicy::SentenceEarliestMarker{internal_markers:vec![\"de este reglamento\".into()],external_instruments:vec![(\"código civil federal\".into(),other.into())]},transitory_citations:true,same_article_fractions:true,relative_references:true,historical_targets:vec![],parent_instrument:Some(parent.into())};\n for text in [\"Se aplicará el artículo 1 del Código.\",\"Se aplicará el artículo 1 del Código Civil Federal.\",\"El Código Civil Federal es el ordenamiento en comento. Se aplicará el artículo 1 del Código en comento.\"] {\n let mut ps=all[..3].to_vec();ps[1].text=text.into();let mut targets:HashSet<_>=ps.iter().map(|p|p.id.clone()).collect();for target in [parent,other]{targets.insert(format!(\"{target}:article:1\"));}\n let refs=lex_parse::extract_references(&ps,None,&opts,&targets).unwrap();println!(\"INPUT: {text}\");for e in refs.iter().filter(|e|e.source_provision_id==ps[1].id){println!(\"{} -> {} {:?}\",e.source_span,e.target_provision_id,e.resolution_status);}\n }\n\n let all:Vec<Provision>=serde_json::from_str(&fs::read_to_string(\"/Users/jr/Dev/lex-mex/corpus/mx/lritf/provisions.json\").unwrap()).unwrap();\n for numbers in [[\"1\",\"1-A\",\"2\"],[\"1\",\"2-A\",\"2\"],[\"1\",\"3-A\",\"2\"]] {\n  let mut ps=all[..3].to_vec();\n  for (p,n) in ps.iter_mut().zip(numbers){p.number=n.into();p.label=format!(\"Artículo {n}\");p.id=format!(\"{}:article:{}\",p.instrument_id,n.to_lowercase());p.text=\"Texto de la disposición.\".into();}\n  for allow_gaps in [false,true]{\n   let report=lex_parse::validate_corpus(&lex_parse::CorpusView{instrument_id:&ps[0].instrument_id,official_title:None,provisions:&ps,references:&[],terms:&[],term_usages:&[],amendment_references:&[]},&lex_parse::CorpusExpectations{articles:Some(3),transitories:Some(0),allow_article_gaps:allow_gaps,..Default::default()},&HashSet::new(),&HashSet::new());\n   println!(\"ORDER INPUT: {:?} allow_gaps={allow_gaps} VALID={} ISSUES={:?}\",numbers,report.valid,report.issues.iter().map(|i|(&i.severity,&i.code,&i.message)).collect::<Vec<_>>());\n  }\n }\n}\n",
+      "cargo_toml": "[package]\nname = \"lex-linker-independent-audit\"\nversion = \"0.1.0\"\nedition = \"2024\"\n[dependencies]\nlex-core = { path = \"/Users/jr/Dev/lex-mex/crates/lex-core\" }\nlex-parse = { path = \"/Users/jr/Dev/lex-mex/crates/lex-parse\" }\nserde_json = \"1\"\n\n[workspace]\n",
+      "lock_sha256": "631c270b357f2b867918af4e2fbcc68b3da2fcece173864bf39cea8565ff93f0",
+      "stdout": "INPUT: Se aplicará el artículo 1 de la Ley.\n1 -> urn:lex-mx:federal:statute:lan:article:1 Resolved\nINPUT: Se aplicará el artículo 1 de la Ley Federal del Trabajo.\n1 -> urn:lex-mx:federal:statute:lft:article:1 Resolved\nINPUT: Se aplicará el artículo 1 de la Ley en Materia de Telecomunicaciones y Radiodifusión.\n1 -> urn:lex-mx:federal:statute:lmtr:article:1 Resolved\nINPUT: La Ley Federal del Trabajo es el ordenamiento en comento. Se aplicará el artículo 1 de la Ley en comento.\nINPUT: La Ley Federal del Trabajo es el ordenamiento al que se hace referencia. Se aplicará el artículo 1 de la Ley que se cita.\nINPUT: Se aplicará el artículo 1 de la Ley vigente hasta el 31 de diciembre de 1990.\nINPUT: Se aplicará el artículo 1 de la Ley en vigor al 31 de diciembre de 1990.\nINPUT: Se aplicará el artículo 1 de la Ley que estaba vigente al 31 de diciembre de 1990.\nINPUT: Se aplicará el artículo 1 de la “Ley” vigente hasta el 31 de diciembre de 1990.\nINPUT: Se aplicará el artículo 1 de la “Ley” en cita.\nINPUT: Se aplicará el artículo 1 de la “Ley”, vigente hasta el 31 de diciembre de 1990.\nINPUT: Se aplicará el artículo 1 de la “Ley” (vigente hasta el 31 de diciembre de 1990).\nINPUT: Se aplicará el artículo 1 de la Ley, vigente hasta el 31 de diciembre de 1990.\nINPUT: Se aplicará el artículo 1 de la “Ley” , vigente hasta el 31 de diciembre de 1990.\n1 -> urn:lex-mx:federal:statute:lan:article:1 Resolved\nINPUT: Se aplicará el artículo 1 de dicha Ley.\nINPUT: Se aplicará el artículo 1 de la Ley y de este Reglamento.\nINPUT: Se aplicará el artículo 1 del Código.\n1 -> urn:lex-mx:federal:code:cff:article:1 Resolved\nINPUT: Se aplicará el artículo 1 del Código Civil Federal.\n1 -> urn:lex-mx:federal:code:ccf:article:1 Resolved\nINPUT: El Código Civil Federal es el ordenamiento en comento. Se aplicará el artículo 1 del Código en comento.\nORDER INPUT: [\"1\", \"1-A\", \"2\"] allow_gaps=false VALID=true ISSUES=[]\nORDER INPUT: [\"1\", \"1-A\", \"2\"] allow_gaps=true VALID=true ISSUES=[]\nORDER INPUT: [\"1\", \"2-A\", \"2\"] allow_gaps=false VALID=true ISSUES=[]\nORDER INPUT: [\"1\", \"2-A\", \"2\"] allow_gaps=true VALID=true ISSUES=[(Warning, \"suffix_order\", \"article 2 does not sort after 2-A within the same base\")]\nORDER INPUT: [\"1\", \"3-A\", \"2\"] allow_gaps=false VALID=true ISSUES=[]\nORDER INPUT: [\"1\", \"3-A\", \"2\"] allow_gaps=true VALID=false ISSUES=[(Warning, \"article_gap\", \"articles between 1 and 3-A are absent (derogated, or a parse gap)\"), (Error, \"article_order\", \"article 2 sorts before article 3-A\")]\n"
+    }
+  },
+  "count_and_closure_review": {
+    "head": "624b6306f8399efaf65c29bef73544b3e2ef939e",
+    "status": "Accepted: current full private closure exits0 with exactly8 recorded accepted gaps and no canonical JSON change",
+    "count_freeze": {
+      "new_records": 248,
+      "all_counts_match": true,
+      "new_provenance_counts": {
+        "machine-proposed": 248
+      },
+      "invalid_timestamp_rows": [],
+      "typed_boundary_note": "CountBaseline (lex-source/src/lib.rs112) uses String for provenance, parser_version and proposed_at; load_config257 has no checks for these fields. Current values verified consistent; metadata hardening opportunity, no present structural blocker. Count expectations themselves are typed Option<usize> and enforced."
+    },
+    "accepted_gaps": {
+      "entries": 8,
+      "error_counts": {
+        "cpf": 1,
+        "cub-dcg-2005": 9,
+        "cucb-dcg-2004": 1,
+        "lftr": 1,
+        "lgs": 1,
+        "lmv": 2,
+        "oaac-dcg-2009": 3,
+        "socap-sofipo-dcg-2006": 3
+      },
+      "controls": "cli/main.rs2801-2844 sorts error vectors retaining multiplicity, then rejects any new/changed actual entry or resolved/changed recorded entry. Empty or absent lists accept only no rejection. Current slugs unique. No errors are downgraded; rejected corpus graph stays unchanged.",
+      "limit": "Matches complete emitted error strings, not source citation identity; intentional missing-target gap contract."
+    },
+    "readiness": "Closure/count gate has no blocker. Known embedded headings and8 explicit rejected instruments remain accepted structural debt. Overall DB readiness also depends on parent-owned D1/D2 residual parser repairs, outside this gate review.",
+    "writes": "Private copied adapters/canonical JSON plus .work receipts only; no main source/corpus writes; no exports.",
+    "closure": {
+      "command": [
+        "/Users/jr/Dev/lex-mex/target/debug/lex-mex",
+        "--root",
+        "/var/folders/rk/wvmmfkbn39s2wd0c52f8y15h0000gn/T/lex-predb-closure-pygth0rx",
+        "link",
+        "--all"
+      ],
+      "exit_code": 0,
+      "report": {
+        "status": "failed",
+        "instruments": 467,
+        "relinked": 0,
+        "unchanged": 459,
+        "references_before": 35887,
+        "references_after": 35887,
+        "resolved_cross_instrument": 9763,
+        "ambiguous_titles": [
+          "ley de amnistía (lamn, lamni)"
+        ],
+        "rejected": [
+          {
+            "slug": "cpf",
+            "errors": [
+              "unresolved_internal_reference: cross-instrument reference target does not exist: urn:lex-mx:federal:statute:lic:article:112-quintus"
+            ]
+          },
+          {
+            "slug": "cub-dcg-2005",
+            "errors": [
+              "unresolved_internal_reference: internal reference target does not exist: urn:lex-mx:federal:regulation:cub-dcg-2005:article:319-bis",
+              "unresolved_internal_reference: internal reference target does not exist: urn:lex-mx:federal:regulation:cub-dcg-2005:article:319-bis",
+              "unresolved_internal_reference: internal reference target does not exist: urn:lex-mx:federal:regulation:cub-dcg-2005:article:319-bis-5",
+              "unresolved_internal_reference: internal reference target does not exist: urn:lex-mx:federal:regulation:cub-dcg-2005:article:319-bis",
+              "unresolved_internal_reference: internal reference target does not exist: urn:lex-mx:federal:regulation:cub-dcg-2005:article:319-bis",
+              "unresolved_internal_reference: internal reference target does not exist: urn:lex-mx:federal:regulation:cub-dcg-2005:article:319-bis",
+              "unresolved_internal_reference: internal reference target does not exist: urn:lex-mx:federal:regulation:cub-dcg-2005:article:319-bis",
+              "unresolved_internal_reference: internal reference target does not exist: urn:lex-mx:federal:regulation:cub-dcg-2005:article:319-bis",
+              "unresolved_internal_reference: internal reference target does not exist: urn:lex-mx:federal:regulation:cub-dcg-2005:article:319-bis"
+            ]
+          },
+          {
+            "slug": "cucb-dcg-2004",
+            "errors": [
+              "unresolved_internal_reference: internal reference target does not exist: urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-5"
+            ]
+          },
+          {
+            "slug": "lftr",
+            "errors": [
+              "unresolved_internal_reference: cross-instrument reference target does not exist: urn:lex-mx:federal:statute:lgtaip:article:180-bis"
+            ]
+          },
+          {
+            "slug": "lgs",
+            "errors": [
+              "unresolved_internal_reference: cross-instrument reference target does not exist: urn:lex-mx:federal:code:cpf:article:209-quintus"
+            ]
+          },
+          {
+            "slug": "lmv",
+            "errors": [
+              "unresolved_internal_reference: cross-instrument reference target does not exist: urn:lex-mx:federal:statute:lgtoc:article:228-b",
+              "unresolved_internal_reference: cross-instrument reference target does not exist: urn:lex-mx:federal:statute:lgtoc:article:228-h"
+            ]
+          },
+          {
+            "slug": "oaac-dcg-2009",
+            "errors": [
+              "unresolved_internal_reference: internal reference target does not exist: urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis",
+              "unresolved_internal_reference: internal reference target does not exist: urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis",
+              "unresolved_internal_reference: internal reference target does not exist: urn:lex-mx:federal:regulation:oaac-dcg-2009:article:105-bis"
+            ]
+          },
+          {
+            "slug": "socap-sofipo-dcg-2006",
+            "errors": [
+              "unresolved_internal_reference: internal reference target does not exist: urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:48-bis",
+              "unresolved_internal_reference: internal reference target does not exist: urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:48-bis",
+              "unresolved_internal_reference: internal reference target does not exist: urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:48-bis"
+            ]
+          }
+        ]
+      },
+      "canonical_changed_paths": [],
+      "all_json_before_sha256": "024325b719d177cc2b05551ce7dd9fb80cf6a44f119edc7d5e9c20fba7de1b41",
+      "all_json_after_sha256": "024325b719d177cc2b05551ce7dd9fb80cf6a44f119edc7d5e9c20fba7de1b41",
+      "reference_graph_before_sha256": "9fb7ee56a6264cac57ae2a9bbf4193f81d1174506a27ea239a517023b75c28fe",
+      "reference_graph_after_sha256": "9fb7ee56a6264cac57ae2a9bbf4193f81d1174506a27ea239a517023b75c28fe",
+      "hash_definition": "SHA256 of canonical JSON serialization (sorted keys, compact separators) of path->fileSHA256 maps.",
+      "main_corpus_unchanged_exit": 0,
+      "receipt": "closure-receipt.json",
+      "log": "closure.log"
+    },
+    "warnings": {
+      "stored_total": 87,
+      "federal": 42,
+      "standards": 45,
+      "narrative95": "Stale by8; update narrative. No missing federal warning inferred.",
+      "federal_codes": {
+        "suffix_order": 5,
+        "counts_not_frozen": 8,
+        "article_gap": 8,
+        "historical_superseded_reference_outdated": 17,
+        "historical_reference_target_unavailable": 4
+      }
+    }
+  },
+  "inventory": {
+    "head": "624b6306f8399efaf65c29bef73544b3e2ef939e",
+    "stats": {
+      "instruments": 467,
+      "provisions": 68086,
+      "references": 35887,
+      "validation_errors": 0,
+      "resolved_edges": 35866,
+      "resolved_cross_instrument": 9763
+    },
+    "warning_counts": {
+      "suffix_order": 5,
+      "counts_not_frozen": 8,
+      "article_gap": 8,
+      "historical_superseded_reference_outdated": 17,
+      "historical_reference_target_unavailable": 4
+    },
+    "issues": [],
+    "unexpected_corpus_change_paths": [],
+    "new_frozen_baselines": [
+      {
+        "slug": "cjm",
+        "articles": 952,
+        "transitories": 4,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "cmpp",
+        "articles": 452,
+        "transitories": 1,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "cue-dcg-2003",
+        "articles": 114,
+        "transitories": 8,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "fi-dcg-2014",
+        "articles": 232,
+        "transitories": 4,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "laam",
+        "articles": 57,
+        "transitories": 3,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lagra",
+        "articles": 201,
+        "transitories": 8,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lamn",
+        "articles": 9,
+        "transitories": 5,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lansi",
+        "articles": 38,
+        "transitories": 9,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "larcp",
+        "articles": 37,
+        "transitories": 7,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "larefam",
+        "articles": 78,
+        "transitories": 4,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lasoc",
+        "articles": 68,
+        "transitories": 3,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lbio",
+        "articles": 46,
+        "transitories": 13,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lcaaa",
+        "articles": 19,
+        "transitories": 2,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lcacsam",
+        "articles": 25,
+        "transitories": 1,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lcacsefam",
+        "articles": 37,
+        "transitories": 4,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lcid",
+        "articles": 42,
+        "transitories": 9,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lcjpjf",
+        "articles": 74,
+        "transitories": 5,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lcmopfih",
+        "articles": 15,
+        "transitories": 5,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lcnbv",
+        "articles": 31,
+        "transitories": 11,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lcndh",
+        "articles": 86,
+        "transitories": 8,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lcne",
+        "articles": 28,
+        "transitories": 13,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lcnp",
+        "articles": 4,
+        "transitories": 0,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lcpro",
+        "articles": 22,
+        "transitories": 4,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "ldefam",
+        "articles": 57,
+        "transitories": 1,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "ldpam",
+        "articles": 52,
+        "transitories": 6,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "ldparm",
+        "articles": 80,
+        "transitories": 2,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "ldrs",
+        "articles": 193,
+        "transitories": 10,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "ldsc",
+        "articles": 85,
+        "transitories": 6,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "ldsca",
+        "articles": 150,
+        "transitories": 8,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lebhn",
+        "articles": 70,
+        "transitories": 3,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lec",
+        "articles": 14,
+        "transitories": 3,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lei",
+        "articles": 38,
+        "transitories": 2,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lemefam",
+        "articles": 52,
+        "transitories": 2,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "len",
+        "articles": 24,
+        "transitories": 4,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lepecfe",
+        "articles": 131,
+        "transitories": 18,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lepepm",
+        "articles": 126,
+        "transitories": 21,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "less",
+        "articles": 58,
+        "transitories": 6,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lexp",
+        "articles": 25,
+        "transitories": 0,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lfafe",
+        "articles": 125,
+        "transitories": 8,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lfca",
+        "articles": 68,
+        "transitories": 9,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lfcsq",
+        "articles": 75,
+        "transitories": 11,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lfdeapd",
+        "articles": 33,
+        "transitories": 3,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lfdefp",
+        "articles": 42,
+        "transitories": 7,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lffaosc",
+        "articles": 32,
+        "transitories": 6,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lffpmn",
+        "articles": 13,
+        "transitories": 6,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lfgr",
+        "articles": 101,
+        "transitories": 16,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lfiiedb",
+        "articles": 141,
+        "transitories": 1,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lfiv",
+        "articles": 35,
+        "transitories": 3,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lfll",
+        "articles": 28,
+        "transitories": 5,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lfm",
+        "articles": 65,
+        "transitories": 4,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lfmped",
+        "articles": 25,
+        "transitories": 2,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lfmzaah",
+        "articles": 62,
+        "transitories": 4,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lfpccs",
+        "articles": 42,
+        "transitories": 3,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lfpdppp",
+        "articles": 64,
+        "transitories": 20,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lfped",
+        "articles": 105,
+        "transitories": 5,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lfppcpcia",
+        "articles": 75,
+        "transitories": 5,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lfppipp",
+        "articles": 52,
+        "transitories": 4,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lfpsdmh",
+        "articles": 24,
+        "transitories": 5,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lfsa",
+        "articles": 177,
+        "transitories": 10,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lfsp",
+        "articles": 50,
+        "transitories": 8,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lfsv",
+        "articles": 97,
+        "transitories": 5,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lftr",
+        "articles": 324,
+        "transitories": 0,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lfvv",
+        "articles": 48,
+        "transitories": 6,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lga",
+        "articles": 123,
+        "transitories": 17,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lgaas",
+        "articles": 111,
+        "transitories": 7,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lgag",
+        "articles": 45,
+        "transitories": 2,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lgahotdu",
+        "articles": 119,
+        "transitories": 15,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lgamvlv",
+        "articles": 101,
+        "transitories": 8,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lgappcea",
+        "articles": 18,
+        "transitories": 6,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lgb",
+        "articles": 45,
+        "transitories": 4,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lgcdc",
+        "articles": 42,
+        "transitories": 6,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lgcfd",
+        "articles": 157,
+        "transitories": 11,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lgcs",
+        "articles": 45,
+        "transitories": 8,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lgct",
+        "articles": 57,
+        "transitories": 4,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lgdlpi",
+        "articles": 25,
+        "transitories": 8,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lgdnna",
+        "articles": 181,
+        "transitories": 13,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lgdocia",
+        "articles": 32,
+        "transitories": 7,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lgds",
+        "articles": 87,
+        "transitories": 6,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lge",
+        "articles": 183,
+        "transitories": 17,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lgec",
+        "articles": 49,
+        "transitories": 7,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lgeo",
+        "articles": 66,
+        "transitories": 8,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lges",
+        "articles": 77,
+        "transitories": 21,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lgimh",
+        "articles": 52,
+        "transitories": 2,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lgipd",
+        "articles": 60,
+        "transitories": 7,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lgipe",
+        "articles": 542,
+        "transitories": 25,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lgmasc",
+        "articles": 144,
+        "transitories": 17,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lgmde",
+        "articles": 29,
+        "transitories": 7,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lgmdfp",
+        "articles": 188,
+        "transitories": 21,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lgmhcti",
+        "articles": 100,
+        "transitories": 22,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lgmime",
+        "articles": 70,
+        "transitories": 30,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lgoaac",
+        "articles": 265,
+        "transitories": 7,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lgp",
+        "articles": 165,
+        "transitories": 4,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lgpas",
+        "articles": 167,
+        "transitories": 10,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lgpdppso",
+        "articles": 137,
+        "transitories": 20,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lgpisdme",
+        "articles": 43,
+        "transitories": 10,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lgpist",
+        "articles": 96,
+        "transitories": 16,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lgpp",
+        "articles": 97,
+        "transitories": 9,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lgpsacdii",
+        "articles": 76,
+        "transitories": 8,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lgpsdms",
+        "articles": 48,
+        "transitories": 12,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lgpsvd",
+        "articles": 30,
+        "transitories": 4,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lgsc",
+        "articles": 123,
+        "transitories": 4,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lgscmm",
+        "articles": 107,
+        "transitories": 24,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lgsmime",
+        "articles": 118,
+        "transitories": 5,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lgt",
+        "articles": 73,
+        "transitories": 0,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lgtaip",
+        "articles": 216,
+        "transitories": 20,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lgv",
+        "articles": 202,
+        "transitories": 16,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lieps",
+        "articles": 70,
+        "transitories": 14,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lif-2026",
+        "articles": 34,
+        "transitories": 30,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lih",
+        "articles": 64,
+        "transitories": 2,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "limj",
+        "articles": 20,
+        "transitories": 4,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "linbal",
+        "articles": 16,
+        "transitories": 3,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "linpi",
+        "articles": 29,
+        "transitories": 9,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lisipl",
+        "articles": 7,
+        "transitories": 0,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lisr",
+        "articles": 236,
+        "transitories": 2,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lissfam",
+        "articles": 231,
+        "transitories": 6,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "liva",
+        "articles": 80,
+        "transitories": 5,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lmigra",
+        "articles": 162,
+        "transitories": 10,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lmin",
+        "articles": 79,
+        "transitories": 12,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lmtr",
+        "articles": 299,
+        "transitories": 32,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lnac",
+        "articles": 37,
+        "transitories": 5,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "loam",
+        "articles": 101,
+        "transitories": 5,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "loefam",
+        "articles": 233,
+        "transitories": 4,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "log",
+        "articles": 26,
+        "transitories": 6,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "loinah",
+        "articles": 20,
+        "transitories": 1,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "loipn",
+        "articles": 34,
+        "transitories": 4,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lopgjdf",
+        "articles": 84,
+        "transitories": 6,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lopjf",
+        "articles": 307,
+        "transitories": 21,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "loscm",
+        "articles": 16,
+        "transitories": 2,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lota",
+        "articles": 30,
+        "transitories": 5,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "louaaan",
+        "articles": 26,
+        "transitories": 4,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "louam",
+        "articles": 37,
+        "transitories": 6,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lounam",
+        "articles": 18,
+        "transitories": 8,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lpeam",
+        "articles": 26,
+        "transitories": 4,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lperc",
+        "articles": 145,
+        "transitories": 3,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lpf",
+        "articles": 55,
+        "transitories": 5,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lpo",
+        "articles": 50,
+        "transitories": 5,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lppddhp",
+        "articles": 67,
+        "transitories": 14,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lpte",
+        "articles": 100,
+        "transitories": 8,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lram",
+        "articles": 71,
+        "transitories": 3,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lrart27-mn",
+        "articles": 52,
+        "transitories": 6,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lrart3-mmce",
+        "articles": 68,
+        "transitories": 14,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lrart5-prof",
+        "articles": 73,
+        "transitories": 22,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lrascap",
+        "articles": 144,
+        "transitories": 0,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lrcdn",
+        "articles": 31,
+        "transitories": 1,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lrmnyut",
+        "articles": 16,
+        "transitories": 1,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lrpcap",
+        "articles": 79,
+        "transitories": 5,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lrpv",
+        "articles": 27,
+        "transitories": 4,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lrsf",
+        "articles": 69,
+        "transitories": 7,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lse",
+        "articles": 188,
+        "transitories": 14,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lsem",
+        "articles": 86,
+        "transitories": 6,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lsh",
+        "articles": 166,
+        "transitories": 23,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lsint",
+        "articles": 34,
+        "transitories": 5,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lsm",
+        "articles": 65,
+        "transitories": 7,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lsnieg",
+        "articles": 134,
+        "transitories": 17,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lsniimsp",
+        "articles": 51,
+        "transitories": 6,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lsprem",
+        "articles": 32,
+        "transitories": 45,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lsrlip",
+        "articles": 13,
+        "transitories": 0,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lsss",
+        "articles": 43,
+        "transitories": 1,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "luach",
+        "articles": 16,
+        "transitories": 5,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "luc",
+        "articles": 151,
+        "transitories": 10,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "luefa",
+        "articles": 7,
+        "transitories": 3,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lupdecr",
+        "articles": 20,
+        "transitories": 2,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lviv",
+        "articles": 97,
+        "transitories": 5,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "lvzmm",
+        "articles": 68,
+        "transitories": 4,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "oga",
+        "articles": 1868,
+        "transitories": 1,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "pef-2026",
+        "articles": 39,
+        "transitories": 16,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-laam",
+        "articles": 144,
+        "transitories": 3,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lagra-fodmc",
+        "articles": 15,
+        "transitories": 2,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lagra-mcdets",
+        "articles": 68,
+        "transitories": 2,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lagra-mopr",
+        "articles": 164,
+        "transitories": 5,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-larcp",
+        "articles": 50,
+        "transitories": 1,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-larefagn",
+        "articles": 153,
+        "transitories": 3,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lbio",
+        "articles": 116,
+        "transitories": 10,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-ldrs-moirsse",
+        "articles": 46,
+        "transitories": 5,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lebhn",
+        "articles": 43,
+        "transitories": 4,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lecampo",
+        "articles": 21,
+        "transitories": 2,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lemefagn",
+        "articles": 180,
+        "transitories": 2,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-len",
+        "articles": 50,
+        "transitories": 4,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lepecfe",
+        "articles": 82,
+        "transitories": 8,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lepepm",
+        "articles": 81,
+        "transitories": 7,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lfa",
+        "articles": 71,
+        "transitories": 10,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lfafe",
+        "articles": 99,
+        "transitories": 8,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lfcine",
+        "articles": 72,
+        "transitories": 6,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lffarosc",
+        "articles": 58,
+        "transitories": 7,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lfll",
+        "articles": 32,
+        "transitories": 4,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lfmzaah",
+        "articles": 56,
+        "transitories": 4,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lfpccs",
+        "articles": 122,
+        "transitories": 8,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lfpdppp",
+        "articles": 144,
+        "transitories": 5,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lfrt-mcpctrt",
+        "articles": 54,
+        "transitories": 9,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lfsa",
+        "articles": 373,
+        "transitories": 8,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lfsp",
+        "articles": 77,
+        "transitories": 6,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lfsv",
+        "articles": 193,
+        "transitories": 11,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lftaipg",
+        "articles": 95,
+        "transitories": 11,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lftr-mcsre",
+        "articles": 28,
+        "transitories": 3,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lfvv",
+        "articles": 89,
+        "transitories": 2,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lgamvlv",
+        "articles": 72,
+        "transitories": 2,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lgappcea",
+        "articles": 34,
+        "transitories": 3,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lgcdc",
+        "articles": 22,
+        "transitories": 5,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lgcfd",
+        "articles": 146,
+        "transitories": 8,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lgct",
+        "articles": 86,
+        "transitories": 5,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lgdnna",
+        "articles": 114,
+        "transitories": 8,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lgds",
+        "articles": 83,
+        "transitories": 3,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lgeepa-moe",
+        "articles": 79,
+        "transitories": 4,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lgeo",
+        "articles": 100,
+        "transitories": 10,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lgife",
+        "articles": 77,
+        "transitories": 6,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lgipd",
+        "articles": 93,
+        "transitories": 5,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lgp",
+        "articles": 240,
+        "transitories": 4,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lgpsacdii",
+        "articles": 66,
+        "transitories": 6,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lgpsvd",
+        "articles": 42,
+        "transitories": 4,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lgs-insumos",
+        "articles": 255,
+        "transitories": 6,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lgs-mcsotcsh",
+        "articles": 136,
+        "transitories": 3,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lgs-mcspiumc",
+        "articles": 80,
+        "transitories": 4,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lgs-mpsam",
+        "articles": 310,
+        "transitories": 3,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lgt",
+        "articles": 114,
+        "transitories": 19,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lgv",
+        "articles": 93,
+        "transitories": 11,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lgvs",
+        "articles": 154,
+        "transitories": 10,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lic-calidad",
+        "articles": 253,
+        "transitories": 11,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lieg",
+        "articles": 92,
+        "transitories": 3,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lieps",
+        "articles": 19,
+        "transitories": 2,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lih",
+        "articles": 36,
+        "transitories": 5,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lisr",
+        "articles": 313,
+        "transitories": 9,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lissfam",
+        "articles": 95,
+        "transitories": 3,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-liva",
+        "articles": 84,
+        "transitories": 3,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lmigra",
+        "articles": 262,
+        "transitories": 0,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lmin",
+        "articles": 108,
+        "transitories": 7,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lnac",
+        "articles": 46,
+        "transitories": 5,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-logan",
+        "articles": 114,
+        "transitories": 4,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-loinah",
+        "articles": 57,
+        "transitories": 4,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lopgjdf",
+        "articles": 137,
+        "transitories": 8,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lopgr",
+        "articles": 137,
+        "transitories": 10,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lpeam",
+        "articles": 70,
+        "transitories": 4,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lpesca",
+        "articles": 165,
+        "transitories": 5,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lpf",
+        "articles": 226,
+        "transitories": 8,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lpo",
+        "articles": 70,
+        "transitories": 7,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lppddhp",
+        "articles": 114,
+        "transitories": 7,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lpte",
+        "articles": 136,
+        "transitories": 13,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lrart5c",
+        "articles": 102,
+        "transitories": 14,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lrmineras",
+        "articles": 27,
+        "transitories": 1,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lrpc",
+        "articles": 96,
+        "transitories": 3,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lrpv",
+        "articles": 44,
+        "transitories": 8,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lse",
+        "articles": 306,
+        "transitories": 27,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lsem",
+        "articles": 182,
+        "transitories": 10,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lsh",
+        "articles": 336,
+        "transitories": 32,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lsm",
+        "articles": 255,
+        "transitories": 5,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lspee-ma",
+        "articles": 63,
+        "transitories": 4,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "reg-lupdecr",
+        "articles": 17,
+        "transitories": 3,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "scap-dcg-2012",
+        "articles": 382,
+        "transitories": 10,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      },
+      {
+        "slug": "servinv-dcg-2013",
+        "articles": 56,
+        "transitories": 6,
+        "provenance": "machine-proposed",
+        "mismatch": []
+      }
+    ],
+    "new_frozen_count": 248,
+    "baseline_mismatches": [],
+    "source_provisions_reference_decisions_unchanged_in_reviewed_range": true,
+    "scope": "Programmatic committed JSON inventory; no source text dumped or canonical writes. Counts and existing-target checks do not replace full validation.",
+    "validation_issue_severities": {
+      "warning": 42
+    },
+    "separate_standards_inventory": {
+      "instruments": 32,
+      "stored_issue_severities": {
+        "warning": 45
+      },
+      "stored_issue_codes": {
+        "standard_supplement_character_unspecified": 35,
+        "standard_redesignated": 1,
+        "standard_unconsolidated_modification": 3,
+        "standard_modification_target_unresolved": 3,
+        "standard_trailing_material": 2,
+        "standard_modification_scope_unknown": 1
+      },
+      "scope": "Separate standard.json/clauses model. No fresh standards validation in this federal linker recheck; must be explicit in DB selection coverage."
+    },
+    "all_stored_warning_count": 87
+  },
+  "native_gate": [
+    {
+      "command": "cargo fmt --check",
+      "exit_code": 0,
+      "log_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "results": []
+    },
+    {
+      "command": "cargo clippy --workspace --all-targets -- -D warnings",
+      "exit_code": 0,
+      "log_sha256": "1f5852af1ed7025b5728e842e3c3c2f5d2f720d25557d84c38f1ffda99719c59",
+      "results": []
+    },
+    {
+      "command": "cargo test --workspace",
+      "exit_code": 0,
+      "log_sha256": "cf35a941f69c29de18b1c20ac3fef18d8b86e8f10c0dc26a9f5864574f13c091",
+      "results": [
+        "test result: ok. 38 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.90s",
+        "test result: ok. 3 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 1.38s",
+        "test result: ok. 27 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.14s",
+        "test result: ok. 13 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.02s",
+        "test result: ok. 222 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.96s",
+        "test result: ok. 4 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.01s",
+        "test result: ok. 0 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s",
+        "test result: ok. 0 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s",
+        "test result: ok. 0 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s",
+        "test result: ok. 0 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s"
+      ]
+    },
+    {
+      "command": "cargo run --locked -p lex-cli -- validate lritf",
+      "exit_code": 0,
+      "log_sha256": "1723d56b1fee1d7ad1dcc7291289f1eab57ba6a879c8fba09dcd512a7cacd2ba",
+      "results": [
+        "validation: valid; 145 articles, 11 transitories, 126 references, 0 issues"
+      ]
+    },
+    {
+      "command": "cargo run --locked -p lex-cli -- validate ifpe-dcg-2021",
+      "exit_code": 0,
+      "log_sha256": "dafbf7b25ee5ce5489fd9e4e6be701d3d1a7e83bfc375dcbcfd70f93d5434d11",
+      "results": [
+        "validation: valid; 59 articles, 4 transitories, 115 references, 0 issues"
+      ]
+    }
+  ],
+  "native_test_count": 307,
+  "source_sha256": {
+    "crates/lex-cli/src/main.rs": "80e58622404dcf2db0b79a8115723db5634501b25ba1501f36b071b493aeb531",
+    "crates/lex-parse/src/lib.rs": "89d00a5ba9978d900c1ba8174c27d3a4fe7b9baf21340b9976eb8eaa81723315",
+    "crates/lex-source/src/lib.rs": "480a55e77ec7de56b4e24aa439bfbf02bf10f27cc18d8b3033a9fa175b151db4"
+  },
+  "limits": [
+    "Synthetic defects, no stored corruption established.",
+    "No database build; no main code/corpus/review edits, commit or push.",
+    "32 standards are a separate model with no fresh validation in this federal recheck.",
+    "Accepted eight closure gaps and known structural debt are preserved."
+  ]
+}

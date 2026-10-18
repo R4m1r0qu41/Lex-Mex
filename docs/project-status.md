@@ -116,11 +116,11 @@ in `docs/ingestion-difficulty-log.md`'s `temporal-derive` entry — the
 intended queue for addressing one outlier category at a time.
 
 Update 2026-10-17: after the warning decisions (see [decisions](decisions.md)),
-all 467 instrument `validation.json` reports are valid and carry 95 non-blocking
-warnings in total with the 32 NOM standard reports: 8 article gaps, 5
-suffix-order notices, 21 expected approved or historical references, 8
-unfrozen count baselines (the four held DCGs), and the standard-boundary
-notices. The older breakdown below is superseded for the 242-report subset.
+all 467 federal instrument `validation.json` reports are valid and carry 42
+non-blocking warnings (the 32 separate NOM standard reports carry 45 more, 87
+in all): 8 article gaps, 5 suffix-order notices, 21 expected approved or
+historical references, and 8 unfrozen count baselines (the four held DCGs).
+The older breakdown below is superseded for the 242-report subset.
 
 All 242 `validation.json` reports are valid. They contained 390 non-blocking
 warnings then: 291 non-numeric/suffixed-article notices, 36 unfrozen count

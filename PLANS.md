@@ -71,8 +71,8 @@ secrets, transcripts, hidden reasoning, or mutable copies of external state.
 ### Completed
 
 - [`docs/plans/claude-parent-link-review-2026-10-17.md`](docs/plans/claude-parent-link-review-2026-10-17.md)
-  — R1–R6 fixes verified against original cases; one P2 punctuation boundary
-  remains. Native 304 tests and private REG-LAN replay pass; code/corpus unchanged.
+  — Pre-database recheck: all previous cases pass; two P2 boundaries remain.
+  Native 307 tests and isolated full closure pass; code/corpus unchanged.
 
 - [`docs/plans/linker-claude-audit-2026-10-16.md`](docs/plans/linker-claude-audit-2026-10-16.md)
   — Seven additional extraction/export findings reproduced and handed to Claude;
