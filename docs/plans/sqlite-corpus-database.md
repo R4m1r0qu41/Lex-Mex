@@ -306,8 +306,9 @@ corpus" when they apply.
 reviewed; each is an M3 acceptance fixture):
 
 1. `reg-lan` article 122 cites LAN article 122, rule `parent_shorthand`.
-2. `lic`'s citation of LFCE resolves to article 3 fracción IX and carries its
-   legal operator note.
+2. `lic`'s citation of LFCE article 31 bis is approved-outdated (rule
+   `named_instrument`) and carries the legal operator note naming the current
+   article 3 fracción IX; the database never retargets it.
 3. The `lrsic` historical edge appears in the history view, never as a live
    citation.
 4. An approved-outdated edge returns its approval and its operator note

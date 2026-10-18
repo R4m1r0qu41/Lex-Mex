@@ -45,8 +45,13 @@ edge may target another instrument in the corpus when the source cites it by
 its configured official name; citations of an instrument's official title
 itself (for example, the statutory-basis articles named in the DCG's title)
 anchor to the instrument identifier with spans validated against the official
-title. Edges are directed; reverse navigation exists only as a presentation
-feature.
+title. Each edge also records its `resolution_rule`, the way the linker chose
+the target (no instrument named, an explicit self marker, a named instrument,
+a regulation's bare `la Ley` resolved to its recorded parent law, a fraction
+inside its own article, or an `artículo anterior/siguiente` position), so an
+inferred target stays distinguishable from a named one; edges written before
+the field existed carry none. Edges are directed; reverse navigation exists
+only as a presentation feature.
 
 Expressly defined terms are canonical records anchored to the exact span of
 their definition entry in the instrument's glossary provision (LRITF Article
