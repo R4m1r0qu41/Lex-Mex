@@ -29,21 +29,21 @@ source counts. Existing instruments have not been reverse-relinked. No
 temporal model ran. The final native gate passed (265 tests, LRITF and
 IFPE validation).
 
-## Current corpus totals (2026-10-16)
+## Current corpus totals (2026-10-18)
 
 | Measure | Count |
 |---|---:|
 | Instruments (laws, regulations, codes, DCGs) | 467 |
 | — `in_force` / `repealed` (historical: `lftr`, `reg-lfmn`) | 465 / 2 |
 | — Cámara de Diputados / CNBV DCGs / Secretaría de Salud / DOF sources | 455 / 10 / 1 / 1 |
-| Articles | 64,586 |
+| Articles | 64,609 |
 | Original transitory provisions | 3,470 |
 | Annexes | 30 |
-| Reference edges | 35,887 |
-| — resolved / historical-target-unavailable / approved outdated | 35,866 / 4 / 17 |
-| — resolved cross-instrument edges | 9,763 |
-| Provisions `not_analyzed` / `machine_accepted` / `lawyer_verified` / `review_required` | 47,843 / 20,240 / 2 / 1 |
-| Provisions with temporal status `unknown` | 46,524 |
+| Reference edges | 35,880 |
+| — resolved / historical-target-unavailable / approved outdated | 35,859 / 4 / 17 |
+| — resolved cross-instrument edges | 9,766 |
+| Provisions `not_analyzed` / `machine_accepted` / `lawyer_verified` / `review_required` | 47,866 / 20,240 / 2 / 1 |
+| Provisions with temporal status `unknown` | 46,547 |
 | Generated Markdown files under `corpus/mx` (incl. NOMs) | 68,560 |
 | NOM standards (separate boundary, not counted as instruments) | 32 |
 | Current Cámara laws and regulations covered | 452 of 453 (`egdf` excluded) |

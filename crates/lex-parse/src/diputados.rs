@@ -1961,6 +1961,8 @@ mod tests {
         include_str!("../../../fixtures/diputados/reform-bare-ley-title-sample.txt");
     const REFORM_UPPERCASE_LEY_TITLE_FIXTURE: &str =
         include_str!("../../../fixtures/diputados/reform-uppercase-ley-title-sample.txt");
+    const ARTICLE_LATIN_ORDINAL_AFTER_CHAPTER_FIXTURE: &str =
+        include_str!("../../../fixtures/diputados/article-latin-ordinal-after-chapter-sample.txt");
     const ARTICLE_LETTER_SUFFIX_QUALIFIER_FIXTURE: &str =
         include_str!("../../../fixtures/diputados/article-letter-suffix-qualifier-sample.txt");
     const NESTED_OMNIBUS_TRANSITORY_FIXTURE: &str =
@@ -2069,6 +2071,35 @@ mod tests {
             .map(|provision| provision.number.as_str())
             .collect::<Vec<_>>();
         assert_eq!(numbers, ["54 Quáter", "54 Quintus", "55"]);
+    }
+
+    /// Regression (merged-heading split, 2026-10-18): a Latin ordinal beyond
+    /// `Nonies` was not a heading, so `33 Decies` stayed inside `33 Nonies`
+    /// and the text after a following chapter heading (`33 Undecies`) was
+    /// lost from the corpus (`reg-lsem`, `lgmdfp`).
+    #[test]
+    fn latin_ordinal_headings_after_a_chapter_are_separate_articles() {
+        let document = parse_diputados(
+            ARTICLE_LATIN_ORDINAL_AFTER_CHAPTER_FIXTURE,
+            &options(
+                "urn:lex-mx:federal:statute:sample",
+                "Ley General de Muestra",
+            ),
+            NaiveDate::from_ymd_opt(2004, 5, 20).expect("valid date"),
+        )
+        .expect("latin ordinal fixture parses");
+        let numbers = document
+            .provisions
+            .iter()
+            .map(|provision| provision.number.as_str())
+            .collect::<Vec<_>>();
+        assert_eq!(numbers, ["33 Nonies", "33 Decies", "33 Undecies", "34"]);
+        assert!(!document.provisions[0].text.contains("Decies"));
+        assert!(document.provisions[2].text.contains("undecies"));
+        assert_eq!(
+            document.provisions[2].heading_context.chapter.as_deref(),
+            Some("Capítulo III")
+        );
     }
 
     #[test]

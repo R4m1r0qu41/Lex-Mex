@@ -117,22 +117,50 @@ bind, and only the unsplit instruments keep accepted debt.
 
 ## Current checkpoint
 
-2026-10-18: plan created from the probe; M1 next. No canonical data changed.
+2026-10-18: M1 landed on `main`. The 7 clean instruments are reparsed and gain
+23 articles in total: `lfped` 7, `lgamvlv` 6, `reg-lsem` 4, `lgmdfp` 3, and 1
+each for `lgdnna`, `lgv` and `reg-lgcfd`.
+
+- **Recovered text.** Four of these articles had been lost from the committed
+  corpus: `lgmdfp` 12 Duodecies and `reg-lsem` 33 Undecies–Terdecies.
+- **Edges.** 8 false self-links removed; 3 `reg-lsem` parent-law edges added.
+  References go 35,887 → 35,880, resolved cross-instrument 9,763 → 9,766.
+- **Baselines.** Count baselines re-frozen for the 7.
+- **Closure.** `link --all` exits 0 with 0 relinked and the 8 accepted gaps
+  unchanged.
+- **Markdown** regenerated for the 7.
+- **Probe match.** The repository result is byte-identical to the probe.
+
+M2 is waiting for the operator to approve the mechanism.
 
 ## Progress
 
 - 2026-10-18: rulings recorded in `docs/decisions.md`; `lgs` accepted-gap
   reason corrected; probe run.
+- 2026-10-18: M1 verification passed in the probe. Byte accounting is exact,
+  and the only text between a container and its split articles is the heading
+  line, except where text was lost. Instrument, terms, reform evidence and
+  validation files are unchanged apart from counts. Term usages keep the same
+  (term, span) multiset; only the IDs move. No reviewed state is on an affected
+  container, and the held `lgdnna` 135 Ter → 157 edge is unchanged. A
+  regression fixture (`article-latin-ordinal-after-chapter-sample.txt`) fails
+  under the pre-`fe4a53f1e` grammar with `["33 Nonies", "34"]` and passes now.
+  Applied in the repository.
 
 ## Discoveries
 
 - **The detector undercounts.** The reparse finds headings that the
   line-start detector missed: `reg-lsem` 33 Undecies–Terdecies and `lgmdfp`
   12 Duodecies.
+- **The old parse lost text, not only structure.** In `lgmdfp` and
+  `reg-lsem`, everything after a chapter heading that followed an
+  unrecognized ordinal heading was missing from the corpus.
 - **Chapter headings were merged as well.** Merged text also swallowed
   chapter headings, so the containers carried the wrong `heading_context`
   for the articles that followed.
 
 ## Next action
 
-M1: run the verification list for the clean 7 in a fresh disposable clone.
+The operator decides the M2 mechanism for the remaining 10. The proposal is
+a deterministic Rust split of the committed text, accepted only if it
+reproduces the M1 reparses byte for byte.

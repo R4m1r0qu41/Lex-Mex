@@ -9,6 +9,8 @@ Operator rulings, continuing the 2026-10-17 entry below:
 3. **`lgs` reason corrected.** In `_closure-accepted-gaps.json`, the `lgs` gap now records that CPF 209 Quintus does not exist and that the reference is stale or wrong. The recorded error is unchanged, and the closure gate compares errors only.
 4. **Split the merged headings into their own articles first,** before any citation-extraction change. Execution plan: `docs/plans/merged-heading-split.md`.
 
+**M1 applied.** Seven instruments with retained, hash-matching source were reparsed: `lfped`, `lgamvlv`, `lgdnna`, `lgmdfp`, `lgv`, `reg-lgcfd` and `reg-lsem`. They gain 23 articles. Four of those had been lost from the corpus, not just merged: `lgmdfp` 12 Duodecies and `reg-lsem` 33 Undecies–Terdecies. Their machine-proposed count baselines are re-frozen at the new counts under this decision. The other 10 instruments wait for an operator-approved mechanism.
+
 ## 2026-10-17 — Latin ordinal qualifiers and the structural-debt candidate classes
 
 Operator rulings on the SQLite M1 structural-debt candidates (`docs/sqlite-m1-contract-decisions-2026-10-17.md` on `db/sqlite-projection`):
