@@ -1,14 +1,15 @@
 //! Defined-term (glossary) extraction and exact usage linking.
 //!
 //! Mexican financial instruments commonly open with a glossary provision —
-//! LRITF Article 4, DCG-IFPE-2021 Article 1 — though not always. Three
+//! LRITF Article 4, DCG-IFPE-2021 Article 1 — though not always. Five
 //! layouts are supported: `fractions` (`I. Término, a …`, continuation
 //! paragraphs such as incisos belong to the preceding fraction),
 //! `colon_entries` (`Término: a …`, produced by the definition-layout
 //! reconstruction, with non-entry paragraphs continuing the previous
 //! entry), and `roman_colon` (`I. Término: …`, scanned inline so a
-//! glossary whose fractions share one paragraph still splits). A fourth,
-//! `quoted_respectively`, reads the single sentence `…los vocablos "A",
+//! glossary whose fractions share one paragraph still splits),
+//! `mixed_fractions` (reviewed comma/colon entries), and
+//! `quoted_respectively`, which reads the single sentence `…los vocablos "A",
 //! "B" y "C", se entenderá que se refiere a X, a Y y a Z, respectivamente.`
 //! (`reg-lan` Article 1).
 //!
@@ -357,12 +358,26 @@ fn quoted_respectively_entries(provision: &Provision) -> Result<Vec<GlossaryEntr
         r#"(?:vocablos|términos|expresiones|palabras)\s+(["“][^"”]+["”](?:\s*,\s*["“][^"”]+["”])*\s+y\s+["“][^"”]+["”]),?\s+se\s+entender[áa]\s+que\s+se\s+refieren?\s+([^.]+?),?\s+respectivamente\."#,
     )?;
     let quoted_re = Regex::new(r#"["“]([^"”]+)["”]"#)?;
+    // Every comma and every `y` separates referents, and each referent opens
+    // with its own `a`/`al` marker. A conjunction inside a referent
+    // (`a la Secretaría de Educación y Cultura`) leaves a piece without a
+    // marker, so the sentence is refused instead of paired by guesswork.
+    let separator_re = Regex::new(r"\s*,\s+|\s+y\s+")?;
+    let referent_re = Regex::new(r"^(?:al|a\s+(?:la|las|los|lo|el))\s+\S")?;
+    let boundary_re = Regex::new(r"\.\s+|\n\s*\n")?;
     let text = &provision.text;
-    let Some(captures) = sentence_re.captures(text) else {
-        bail!(
+    let sentences: Vec<_> = sentence_re.captures_iter(text).collect();
+    let captures = match sentences.as_slice() {
+        [only] => only,
+        [] => bail!(
             "glossary provision {} has no quoted `respectivamente` definition",
             provision.id
-        );
+        ),
+        _ => bail!(
+            "glossary provision {} has {} quoted `respectivamente` definitions; this style reads exactly one",
+            provision.id,
+            sentences.len()
+        ),
     };
     let sentence = captures.get(0).expect("sentence");
     let terms: Vec<String> = quoted_re
@@ -370,24 +385,27 @@ fn quoted_respectively_entries(provision: &Provision) -> Result<Vec<GlossaryEntr
         .map(|quoted| quoted[1].trim().to_owned())
         .collect();
     let referents = &captures[2];
-    let mut referent_count = referents.split(", ").count();
-    if referents
-        .rsplit(", ")
-        .next()
-        .is_some_and(|last| last.contains(" y "))
-    {
-        referent_count += 1;
-    }
-    if referent_count != terms.len() {
+    let pieces: Vec<&str> = separator_re.split(referents).collect();
+    let separators: Vec<&str> = separator_re
+        .find_iter(referents)
+        .map(|separator| separator.as_str().trim())
+        .collect();
+    let paired = pieces.len() == terms.len()
+        && pieces.iter().all(|piece| referent_re.is_match(piece))
+        && separators.split_last().is_some_and(|(last, rest)| {
+            *last == "y" && rest.iter().all(|separator| *separator == ",")
+        });
+    if !paired {
         bail!(
-            "glossary provision {} pairs {} vocables with {referent_count} referents",
+            "glossary provision {} pairs {} vocables with an ambiguous or unequal referent list",
             provision.id,
             terms.len()
         );
     }
-    let sentence_start = text[..sentence.start()]
-        .rfind(". ")
-        .map_or(0, |index| index + 2);
+    let sentence_start = boundary_re
+        .find_iter(&text[..sentence.start()])
+        .last()
+        .map_or(0, |boundary| boundary.end());
     let start_char = text[..sentence_start].chars().count();
     let end_char = text[..sentence.end()].chars().count();
     Ok(terms
@@ -1005,6 +1023,57 @@ mod tests {
         assert!(extract_terms(&glossary, GlossaryStyle::QuotedRespectively).is_err());
         let prose = provision(REGULATION_ID, "article:1", "Sin definiciones.");
         assert!(extract_terms(&prose, GlossaryStyle::QuotedRespectively).is_err());
+    }
+
+    #[test]
+    fn quoted_respectively_refuses_a_conjunction_inside_a_referent() {
+        // Two referents, one of which contains `y`: counting `y` as a
+        // separator would wrongly pair three vocables.
+        let glossary = provision(
+            REGULATION_ID,
+            "article:1",
+            "Los vocablos \"A\", \"B\" y \"C\", se entenderá que se refiere al \
+             Registro, a la Secretaría de Educación y Cultura, respectivamente.",
+        );
+        let error = extract_terms(&glossary, GlossaryStyle::QuotedRespectively).unwrap_err();
+        assert!(error.to_string().contains("ambiguous"), "{error}");
+    }
+
+    #[test]
+    fn quoted_respectively_refuses_a_second_definition_sentence() {
+        let glossary = provision(
+            REGULATION_ID,
+            "article:1",
+            "Los vocablos \"A\" y \"B\", se entenderá que se refiere al X y a la Y, \
+             respectivamente. Los vocablos \"C\" y \"D\", se entenderá que se \
+             refiere al Z y a la W, respectivamente.",
+        );
+        let error = extract_terms(&glossary, GlossaryStyle::QuotedRespectively).unwrap_err();
+        assert!(error.to_string().contains("has 2 quoted"), "{error}");
+    }
+
+    #[test]
+    fn quoted_respectively_span_starts_after_a_newline_boundary_and_allows_line_breaks() {
+        let glossary = provision(
+            REGULATION_ID,
+            "article:1",
+            "Primera oración.\nCuando se expresen los vocablos \"A\", \"B\" y\n\"C\", \
+             se entenderá que se refiere al X,\na la Y y\na la Z, respectivamente.",
+        );
+        let terms = extract_terms(&glossary, GlossaryStyle::QuotedRespectively).unwrap();
+        assert_eq!(
+            terms
+                .iter()
+                .map(|term| term.term.as_str())
+                .collect::<Vec<_>>(),
+            ["A", "B", "C"]
+        );
+        let chars: Vec<char> = glossary.text.chars().collect();
+        let span: String = chars[terms[0].start_char..terms[0].end_char]
+            .iter()
+            .collect();
+        assert!(span.starts_with("Cuando se expresen"), "{span:?}");
+        assert!(span.ends_with("respectivamente."), "{span:?}");
     }
     #[test]
     fn reviewed_mixed_glossary_preserves_internal_commas_and_page_joined_entry() {

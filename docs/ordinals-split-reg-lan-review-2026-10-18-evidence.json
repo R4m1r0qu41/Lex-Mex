@@ -1,0 +1,157 @@
+{
+  "baseline": "4582e47fb",
+  "head": "adadd9c9da40a58d3a63af10ce4013024ff4d54a",
+  "instruments": {
+    "lfped": {
+      "source_hashes_match": {
+        "pdf": true,
+        "txt": true
+      },
+      "added": 7,
+      "partitions": [
+        {
+          "container": "urn:lex-mx:federal:statute:lfped:article:15-quintus",
+          "exact_body_partition": true,
+          "new_from_old": [
+            "urn:lex-mx:federal:statute:lfped:article:15-sextus",
+            "urn:lex-mx:federal:statute:lfped:article:15-septimus",
+            "urn:lex-mx:federal:statute:lfped:article:15-octavus",
+            "urn:lex-mx:federal:statute:lfped:article:15-novenus"
+          ],
+          "recovered": []
+        },
+        {
+          "container": "urn:lex-mx:federal:statute:lfped:article:63-quintus",
+          "exact_body_partition": true,
+          "new_from_old": [
+            "urn:lex-mx:federal:statute:lfped:article:63-sextus",
+            "urn:lex-mx:federal:statute:lfped:article:63-septimus",
+            "urn:lex-mx:federal:statute:lfped:article:63-octavus"
+          ],
+          "recovered": []
+        }
+      ]
+    },
+    "lgamvlv": {
+      "source_hashes_match": {
+        "pdf": true,
+        "txt": true
+      },
+      "added": 6,
+      "partitions": [
+        {
+          "container": "urn:lex-mx:federal:statute:lgamvlv:article:34-nonies",
+          "exact_body_partition": true,
+          "new_from_old": [
+            "urn:lex-mx:federal:statute:lgamvlv:article:34-decies",
+            "urn:lex-mx:federal:statute:lgamvlv:article:34-undecies",
+            "urn:lex-mx:federal:statute:lgamvlv:article:34-duodecies",
+            "urn:lex-mx:federal:statute:lgamvlv:article:34-terdecies",
+            "urn:lex-mx:federal:statute:lgamvlv:article:34-quaterdecies"
+          ],
+          "recovered": []
+        },
+        {
+          "container": "urn:lex-mx:federal:statute:lgamvlv:article:59-nonies",
+          "exact_body_partition": true,
+          "new_from_old": [
+            "urn:lex-mx:federal:statute:lgamvlv:article:59-decies"
+          ],
+          "recovered": []
+        }
+      ]
+    },
+    "lgdnna": {
+      "source_hashes_match": {
+        "pdf": true,
+        "txt": true
+      },
+      "added": 1,
+      "partitions": [
+        {
+          "container": "urn:lex-mx:federal:statute:lgdnna:article:135-quinquies",
+          "exact_body_partition": true,
+          "new_from_old": [
+            "urn:lex-mx:federal:statute:lgdnna:article:135-sexties"
+          ],
+          "recovered": []
+        }
+      ]
+    },
+    "lgmdfp": {
+      "source_hashes_match": {
+        "pdf": true,
+        "txt": true
+      },
+      "added": 3,
+      "partitions": [
+        {
+          "container": "urn:lex-mx:federal:statute:lgmdfp:article:12-nonies",
+          "exact_body_partition": true,
+          "new_from_old": [
+            "urn:lex-mx:federal:statute:lgmdfp:article:12-decies",
+            "urn:lex-mx:federal:statute:lgmdfp:article:12-undecies"
+          ],
+          "recovered": [
+            "urn:lex-mx:federal:statute:lgmdfp:article:12-duodecies"
+          ]
+        }
+      ]
+    },
+    "lgv": {
+      "source_hashes_match": {
+        "pdf": true,
+        "txt": true
+      },
+      "added": 1,
+      "partitions": [
+        {
+          "container": "urn:lex-mx:federal:statute:lgv:article:84-quinquies",
+          "exact_body_partition": true,
+          "new_from_old": [
+            "urn:lex-mx:federal:statute:lgv:article:84-sexies"
+          ],
+          "recovered": []
+        }
+      ]
+    },
+    "reg-lgcfd": {
+      "source_hashes_match": {
+        "pdf": true,
+        "txt": true
+      },
+      "added": 1,
+      "partitions": [
+        {
+          "container": "urn:lex-mx:federal:regulation:reg-lgcfd:article:84-quintus",
+          "exact_body_partition": true,
+          "new_from_old": [
+            "urn:lex-mx:federal:regulation:reg-lgcfd:article:84-sextus"
+          ],
+          "recovered": []
+        }
+      ]
+    },
+    "reg-lsem": {
+      "source_hashes_match": {
+        "pdf": true,
+        "txt": true
+      },
+      "added": 4,
+      "partitions": [
+        {
+          "container": "urn:lex-mx:federal:regulation:reg-lsem:article:33-nonies",
+          "exact_body_partition": true,
+          "new_from_old": [
+            "urn:lex-mx:federal:regulation:reg-lsem:article:33-decies"
+          ],
+          "recovered": [
+            "urn:lex-mx:federal:regulation:reg-lsem:article:33-undecies",
+            "urn:lex-mx:federal:regulation:reg-lsem:article:33-duodecies",
+            "urn:lex-mx:federal:regulation:reg-lsem:article:33-terdecies"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -53,8 +53,11 @@ What "clean" means for the first group:
 - each new article carries its container's fields exactly, except that
   `heading_context` is corrected where the merged text had swallowed a
   chapter heading (three `reg-lsem` articles, one `lgmdfp` article);
-- the false self-link edges disappear, one genuine `lfped` edge moves into
-  its new article, and `reg-lsem` gains three parent-law edges.
+- 10 false self-link edges disappear; two genuine citations move into their
+  new articles (`lfped` 15 Septimus → `lfped` 5, `reg-lsem` 33 Decies →
+  `lsem` 18); and `reg-lsem` gains three new parent-law edges. Net −7 edges
+  (corrected 2026-10-18 after the Codex review, which counted 12 removed and 5
+  added edge IDs).
 
 ## Milestones
 
@@ -89,7 +92,13 @@ container's fields, and `heading_context` is recomputed for any chapter
 heading inside the split text.
 
 **Acceptance:**
-- it reproduces all seven M1 reparses byte for byte;
+- for the 19 M1 articles that splitting the old committed containers can
+  recover, it reproduces the M1 reparse byte for byte;
+- the 4 source-recovered articles (`lgmdfp` 12 Duodecies, `reg-lsem` 33
+  Undecies–Terdecies) are not in the old committed text. They are tested
+  separately, against hash-bound retained source, with their own fixture;
+- a run on committed text alone reports content or chapter context it cannot
+  see as unavailable, and never invents it;
 - `lgtoc` additionally needs lowercase single-letter heading support, with a
   fixture;
 - `cpf` needs the duplicate reform-evidence ID understood first, or the
@@ -117,13 +126,25 @@ bind, and only the unsplit instruments keep accepted debt.
 
 ## Current checkpoint
 
+2026-10-18 (Codex review): independent source replay and nine body partitions
+pass; 313 tests pass. The M2 all-seven byte-parity requirement cannot be met
+from old committed text alone because four articles were source-recovered.
+Edge accounting is ten false self-links removed, two moved citations and three
+new parent edges. See [review](../ordinals-split-reg-lan-review-2026-10-18.md).
+Correct the gate/accounting before M2; operator approval remains pending.
+Corrected 2026-10-18: the M2 acceptance now separates the 19 split-recoverable
+articles from the 4 source-recovered ones, and the edge accounting reads 10
+removed, 2 moved, 3 added (net −7). The `quoted_respectively` guards Codex asked
+for are in `crates/lex-parse/src/terms.rs`; a `link --all` replay relinked 0.
+
 2026-10-18: M1 landed on `main`. The 7 clean instruments are reparsed and gain
 23 articles in total: `lfped` 7, `lgamvlv` 6, `reg-lsem` 4, `lgmdfp` 3, and 1
 each for `lgdnna`, `lgv` and `reg-lgcfd`.
 
 - **Recovered text.** Four of these articles had been lost from the committed
   corpus: `lgmdfp` 12 Duodecies and `reg-lsem` 33 Undecies–Terdecies.
-- **Edges.** 8 false self-links removed; 3 `reg-lsem` parent-law edges added.
+- **Edges.** 10 false self-links removed; 2 citations moved into new articles;
+  3 `reg-lsem` parent-law edges added (net −7).
   References go 35,887 → 35,880, resolved cross-instrument 9,763 → 9,766.
 - **Baselines.** Count baselines re-frozen for the 7.
 - **Closure.** `link --all` exits 0 with 0 relinked and the 8 accepted gaps
@@ -177,4 +198,5 @@ M2 is waiting for the operator to approve the mechanism.
 
 The operator decides the M2 mechanism for the remaining 10. The proposal is
 a deterministic Rust split of the committed text, accepted only if it
-reproduces the M1 reparses byte for byte.
+reproduces the 19 split-recoverable M1 articles byte for byte and reports
+what committed text cannot supply as unavailable.
