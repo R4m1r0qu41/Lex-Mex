@@ -146,13 +146,20 @@ send a Codex review packet.
 
 ## Current checkpoint
 
+2026-10-18 (Codex review at dbc3ab17d): G1 totals and all 19 holds independently
+confirmed; 324 tests pass. G2 remains partial (LSS scope unresolved). Reproduced
+repeal-placeholder completeness bypass and duplicate qualified-fraction acceptance.
+Before expanding admission, follow the [outlier and title-usage review](../glossary-g0-g2-outlier-review-2026-10-18.md):
+strict guard repairs, source-bound adapter profiles, persisted coverage, and a
+separate title-span usage filter. No production changes in this review.
+
 2026-10-18: G0 and G1 landed (operator "go"). The wider fallback pass adds
 1,619 terms and 28,245 usages to 94 instruments that had none, and holds 19
 incomplete glossaries with a reason. No existing glossary changed. Details and
 the open rulings are in `docs/decisions.md` (2026-10-18, "Glossary
 auto-detection gains a wider fallback pass").
 
-**Next:** G2 (complete the originals) and G3 (imports).
+**Original next step (superseded by the review checkpoint):** G2 and G3.
 - G2 is mostly done by G1: LSH 5, LGEEPA 3, LSE 3, LPTE 3 and LGEO 2 now have
   terms.
 - LSS needs a ruling: its art. 159 glossary is the one detected, not 5 A.
@@ -176,6 +183,7 @@ auto-detection gains a wider fallback pass").
 
 ## Next action
 
-The operator rules on which glossary governs where the established pass chose
-a narrower one (`lss` 159 versus 5 A, and the others listed in the decision
-entry). G3 imports follow.
+Repair the reproduced completeness guards and define persisted extraction
+coverage, then add the smallest source-bound exception batch from the review.
+Operator rulings on glossary scope remain pending; G3 imports follow accepted
+originals and scope decisions.
