@@ -38,6 +38,11 @@ pub struct DiputadosOptions {
     pub annex_markers: Vec<String>,
     pub separate_enactment: bool,
     pub nested_instrument: Option<lex_core::NestedInstrumentProfile>,
+    /// Article labels whose heading the source prints without a separator
+    /// after the number (`Artículo 71 El médico tratante…`, `reg-pmimss`).
+    /// Reviewed per instrument: each must open exactly one main-sequence
+    /// block, followed by a capitalized body, or the parse fails.
+    pub separatorless_article_headings: Vec<String>,
 }
 
 #[derive(Debug)]
@@ -336,6 +341,26 @@ fn parse_ordinal_article_start<'a>(
     None
 }
 
+/// A configured separatorless heading: `Artículo 71 El médico…` → `("71",
+/// "El médico…")`, only for a label the adapter lists.
+fn parse_separatorless_article_start<'a>(
+    block: &'a str,
+    options: &DiputadosOptions,
+) -> Option<(String, &'a str)> {
+    options
+        .separatorless_article_headings
+        .iter()
+        .find_map(|label| {
+            let body = ["Artículo ", "ARTÍCULO ", "ARTICULO ", "Articulo "]
+                .iter()
+                .find_map(|prefix| block.strip_prefix(prefix))?
+                .strip_prefix(label.as_str())?
+                .strip_prefix(' ')?;
+            body.starts_with(char::is_uppercase)
+                .then(|| (label.clone(), body.trim()))
+        })
+}
+
 fn parse_statute_article_start<'a>(
     block: &'a str,
     ordinals: &'a [String],
@@ -449,6 +474,9 @@ fn is_page_furniture(line: &str, options: &DiputadosOptions, page_number: &Regex
         || line == "Secretaría de Servicios Parlamentarios"
         || line.starts_with("Última Reforma DOF ")
         || (line.contains("DIARIO OFICIAL") && line.contains("PAGE"))
+        // A DOF edition's running header (`Jueves 30 de noviembre de 2006
+        // DIARIO OFICIAL (Séptima Sección) 107`), as `standard.rs` reads it.
+        || (line.contains("DIARIO OFICIAL") && (line.contains("Sección)") || line.contains("Seccion)")))
         || page_number.is_match(line)
 }
 
@@ -1296,6 +1324,7 @@ pub fn parse_diputados_publication(
         apartado: None,
     };
     let mut in_statute_transitories = false;
+    let mut separatorless_found: Vec<String> = Vec::new();
     let mut roman_transitory_section = false;
     let mut singleton_heading: Option<String> = None;
     let mut in_substantive_annex = false;
@@ -1524,7 +1553,13 @@ pub fn parse_diputados_publication(
                 }
                 continue;
             }
-            if let Some((number, body)) = parse_statute_article_start(&block, &ordinals) {
+            let separatorless = parse_separatorless_article_start(&block, options);
+            if let Some((label, _)) = &separatorless {
+                separatorless_found.push(label.clone());
+            }
+            if let Some((number, body)) =
+                separatorless.or_else(|| parse_statute_article_start(&block, &ordinals))
+            {
                 let base = article_base(&number);
                 // A consolidated código quotes other laws' articles inside
                 // editorial notes ("…el artículo 54 de la citada Ley, a la
@@ -1581,6 +1616,17 @@ pub fn parse_diputados_publication(
     }
     if provisions.is_empty() {
         bail!("no provisions recognized for {}", options.instrument_id);
+    }
+    for label in &options.separatorless_article_headings {
+        let found = separatorless_found
+            .iter()
+            .filter(|found| *found == label)
+            .count();
+        anyhow::ensure!(
+            found == 1,
+            "{}: configured separatorless heading `Artículo {label}` opens {found} blocks, not exactly one",
+            options.instrument_id
+        );
     }
     let reform_evidence = extract_reform_evidence(raw, options)?;
     Ok(DiputadosDocument {
@@ -1948,6 +1994,10 @@ mod tests {
         include_str!("../../../fixtures/diputados/wrapped-running-header-regulation-sample.txt");
     const SUBSTANTIVE_APPENDIX_FIXTURE: &str =
         include_str!("../../../fixtures/diputados/substantive-appendix-sample.txt");
+    const DOF_EDITION_PAGE_HEADER_FIXTURE: &str =
+        include_str!("../../../fixtures/diputados/dof-edition-page-header-sample.txt");
+    const SEPARATORLESS_ARTICLE_HEADING_FIXTURE: &str =
+        include_str!("../../../fixtures/diputados/separatorless-article-heading-sample.txt");
     const ARTICLE_QUINTUS_FIXTURE: &str =
         include_str!("../../../fixtures/diputados/article-quintus-sample.txt");
     const REFORM_ORDINAL_FIRST_DAY_FIXTURE: &str =
@@ -1976,6 +2026,7 @@ mod tests {
             annex_markers: Vec::new(),
             separate_enactment: false,
             nested_instrument: None,
+            separatorless_article_headings: Vec::new(),
         }
     }
 
@@ -2439,6 +2490,7 @@ mod tests {
             annex_markers: Vec::new(),
             separate_enactment: false,
             nested_instrument: None,
+            separatorless_article_headings: Vec::new(),
         };
         let document = parse_diputados(
             PAGE_BOUNDARY_AMENDMENT_FIXTURE,
@@ -2456,6 +2508,83 @@ mod tests {
     }
 
     #[test]
+    fn dof_edition_running_headers_never_enter_provision_text() {
+        // reg-pmimss is the DOF publication itself; both page parities'
+        // headers fall inside a paragraph.
+        let document = parse_diputados(
+            DOF_EDITION_PAGE_HEADER_FIXTURE,
+            &options(
+                "urn:lex-mx:federal:regulation:sample",
+                "Reglamento de Muestra",
+            ),
+            NaiveDate::from_ymd_opt(2006, 11, 30).expect("valid date"),
+        )
+        .expect("DOF edition fixture parses");
+        assert_eq!(document.provisions.len(), 2);
+        assert!(document.provisions.iter().all(|provision| {
+            !provision.text.contains("DIARIO OFICIAL") && !provision.text.contains("Sección")
+        }));
+        assert!(
+            document.provisions[0]
+                .text
+                .contains("órganos de operación administrativa desconcentrada")
+        );
+        // Ordinary prose that cites the Diario Oficial stays.
+        assert!(
+            document.provisions[1]
+                .text
+                .contains("publicación en el Diario Oficial de la Federación")
+        );
+    }
+
+    #[test]
+    fn configured_separatorless_article_heading_opens_its_article() {
+        // reg-pmimss prints `Artículo 71 El médico…` without the period.
+        let parse = |labels: &[&str]| {
+            let mut options = options(
+                "urn:lex-mx:federal:regulation:sample",
+                "Reglamento de Muestra",
+            );
+            options.separatorless_article_headings =
+                labels.iter().map(|label| (*label).to_owned()).collect();
+            parse_diputados(
+                SEPARATORLESS_ARTICLE_HEADING_FIXTURE,
+                &options,
+                NaiveDate::from_ymd_opt(2006, 11, 30).expect("valid date"),
+            )
+        };
+        let numbers = |document: &super::DiputadosDocument| {
+            document
+                .provisions
+                .iter()
+                .map(|provision| provision.number.clone())
+                .collect::<Vec<_>>()
+        };
+
+        let configured = parse(&["71"]).expect("configured heading parses");
+        assert_eq!(numbers(&configured), ["70", "71", "72"]);
+        assert!(
+            configured.provisions[1]
+                .text
+                .starts_with("El médico tratante, en todos")
+        );
+        assert!(!configured.provisions[0].text.contains("Artículo 71"));
+
+        // Unconfigured, the heading stays inside article 70: no global rule.
+        let unconfigured = parse(&[]).expect("unconfigured fixture parses");
+        assert_eq!(numbers(&unconfigured), ["70", "72"]);
+        assert!(
+            unconfigured.provisions[0]
+                .text
+                .contains("Artículo 71 El médico")
+        );
+
+        // A configured label that never opens a block fails the parse.
+        let error = parse(&["71", "73"]).unwrap_err().to_string();
+        assert!(error.contains("`Artículo 73` opens 0 blocks"), "{error}");
+    }
+
+    #[test]
     fn configured_wrapped_running_header_never_enters_provision_text() {
         let options = DiputadosOptions {
             instrument_id: "urn:lex-mx:federal:regulation:sample".to_owned(),
@@ -2467,6 +2596,7 @@ mod tests {
             stop_markers: Vec::new(),
             annex_markers: Vec::new(),
             separate_enactment: false, nested_instrument: None,
+            separatorless_article_headings: Vec::new(),
         };
         let document = parse_diputados(
             WRAPPED_RUNNING_HEADER_REGULATION_FIXTURE,

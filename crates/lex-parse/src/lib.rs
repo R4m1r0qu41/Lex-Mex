@@ -3166,6 +3166,7 @@ mod tests {
             annex_markers: Vec::new(),
             separate_enactment: false,
             nested_instrument: None,
+            separatorless_article_headings: Vec::new(),
         }
     }
 
@@ -3364,6 +3365,7 @@ mod tests {
                 header_lines: Vec::new(),
                 stop_markers: Vec::new(),
                 annex_markers: Vec::new(), separate_enactment: false, nested_instrument: None,
+                separatorless_article_headings: Vec::new(),
             },
             NaiveDate::from_ymd_opt(2002, 1, 15).unwrap(),
         )
@@ -3412,6 +3414,7 @@ mod tests {
                 header_lines: Vec::new(),
                 stop_markers: Vec::new(),
                 annex_markers: Vec::new(), separate_enactment: false, nested_instrument: None,
+                separatorless_article_headings: Vec::new(),
             },
             date,
         )
@@ -3617,6 +3620,7 @@ mod tests {
                 annex_markers: Vec::new(),
                 separate_enactment: false,
                 nested_instrument: None,
+                separatorless_article_headings: Vec::new(),
             },
             date,
         )
@@ -3891,6 +3895,7 @@ mod tests {
             annex_markers: Vec::new(),
             separate_enactment: false,
             nested_instrument: None,
+            separatorless_article_headings: Vec::new(),
         };
         let mut document = parse_diputados(text, &options, date).unwrap();
         reorder(&mut document.provisions);
@@ -4335,6 +4340,7 @@ mod tests {
                 annex_markers: Vec::new(),
                 separate_enactment: false,
                 nested_instrument: None,
+                separatorless_article_headings: Vec::new(),
             },
             NaiveDate::from_ymd_opt(2002, 1, 15).unwrap(),
         )
@@ -4480,6 +4486,7 @@ mod tests {
                 annex_markers: Vec::new(),
                 separate_enactment: false,
                 nested_instrument: None,
+                separatorless_article_headings: Vec::new(),
             },
             NaiveDate::from_ymd_opt(2002, 1, 15).unwrap(),
         )
@@ -4933,6 +4940,7 @@ Ciudad de México, a 1 de octubre de 2025.
             annex_markers: vec![],
             separate_enactment: false,
             nested_instrument: None,
+            separatorless_article_headings: Vec::new(),
         };
         let doc = parse_diputados(
             include_str!("../../../fixtures/diputados/held-lcnbv-article15.txt"),
@@ -5133,6 +5141,7 @@ Ciudad de México, a 1 de octubre de 2025.
             annex_markers: vec![],
             separate_enactment: false,
             nested_instrument: None,
+            separatorless_article_headings: Vec::new(),
         };
         let doc = parse_diputados(
             include_str!("../../../fixtures/diputados/held-lcnbv-article15.txt"),
@@ -5282,6 +5291,7 @@ Ciudad de México, a 1 de octubre de 2025.
             annex_markers: vec![],
             separate_enactment: false,
             nested_instrument: None,
+            separatorless_article_headings: Vec::new(),
         };
         let refs = ReferenceOptions {
             policy: InstrumentContextPolicy::SentenceEarliestMarker {
@@ -5336,6 +5346,7 @@ Ciudad de México, a 1 de octubre de 2025.
                 annex_markers: Vec::new(),
                 separate_enactment: false,
                 nested_instrument: None,
+                separatorless_article_headings: Vec::new(),
             },
             NaiveDate::from_ymd_opt(2002, 1, 15).unwrap(),
         )

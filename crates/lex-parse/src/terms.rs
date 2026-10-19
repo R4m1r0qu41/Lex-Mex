@@ -2039,6 +2039,7 @@ mod tests {
             annex_markers: Vec::new(),
             separate_enactment: false,
             nested_instrument: None,
+            separatorless_article_headings: Vec::new(),
         };
         let doc = crate::parse_diputados(
             include_str!("../../../fixtures/diputados/followup-lmigra-glossary.txt"),

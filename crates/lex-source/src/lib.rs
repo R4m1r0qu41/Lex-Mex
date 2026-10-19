@@ -247,6 +247,12 @@ pub struct SourceConfig {
     /// header lines configure both lines here.
     #[serde(default)]
     pub header_lines: Vec<String>,
+    /// Article labels whose heading the source prints without a separator
+    /// after the number (`Artículo 71 El médico tratante…` in
+    /// `reg-pmimss`). Reviewed per instrument; each must open exactly one
+    /// main-sequence block or the parse fails.
+    #[serde(default, skip_serializing_if = "Vec::is_empty")]
+    pub separatorless_article_headings: Vec<String>,
     /// Blocks that end the main document before the reform-decree
     /// appendix, in addition to the parser's built-in appendix markers.
     #[serde(default)]
@@ -776,8 +782,8 @@ mod tests {
             }
             manifest_count += 1;
         }
-        assert_eq!(manifest_count, 43, "expected 43 committed batch manifests");
-        assert_eq!(slugs.len(), 227, "expected 227 unique instruments");
+        assert_eq!(manifest_count, 44, "expected 44 committed batch manifests");
+        assert_eq!(slugs.len(), 228, "expected 228 unique instruments");
     }
 
     #[test]

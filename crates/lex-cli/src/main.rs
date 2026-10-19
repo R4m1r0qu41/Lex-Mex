@@ -1915,6 +1915,7 @@ fn diputados_options(config: &SourceConfig) -> DiputadosOptions {
         annex_markers: config.substantive_annex_markers.clone(),
         separate_enactment: config.separate_enactment,
         nested_instrument: config.nested_instrument.clone(),
+        separatorless_article_headings: config.separatorless_article_headings.clone(),
     }
 }
 

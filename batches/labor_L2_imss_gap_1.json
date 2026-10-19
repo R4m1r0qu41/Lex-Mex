@@ -1,0 +1,28 @@
+{
+  "schema_version": "0.1.0",
+  "batch_id": "labor_L2_imss_gap_1",
+  "description": "IMSS medical-benefits regulation admitted as a test of a regulation that adopts LSS Article 5 A.",
+  "notes": [
+    "Operator authorized the admission on 2026-10-18 as a test case for ingestion into a more populated and linked corpus.",
+    "The Cámara de Diputados current-regulations index (norma/reglamento.htm) lists this instrument with its DOF publication of 2006-11-30 and no reforms; regla/n29.pdf is that publication.",
+    "Article 2 adopts the definitions of LSS Article 5 A, as reg-lss-macerf and reg-lss-maeba do."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "reg-pmimss",
+      "short_name": "RPMIMSS",
+      "title": "REGLAMENTO de Prestaciones Médicas del Instituto Mexicano del Seguro Social",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/norma/reglamento.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regla/n29.pdf",
+      "role": "regulation",
+      "parent_law": "lss"
+    }
+  ],
+  "expected_edges": [
+    "reg-pmimss -> lss"
+  ]
+}
