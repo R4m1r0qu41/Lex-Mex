@@ -1,5 +1,31 @@
 # Architecture decisions
 
+## 2026-10-18 — Glossary completeness check: whole repeal placeholders and qualified fraction order
+
+The operator asked for the completeness-check repair first (Codex review, `docs/glossary-g0-g2-outlier-review-2026-10-18.md`, P1 and the qualified-order P2). Both repairs are in `complete_entries` (`crates/lex-parse/src/terms.rs`), which the wider pass and the `auto_whole` style use.
+
+**P1, repeal placeholders:**
+- **A fraction counts as repealed only if the whole entry is a placeholder.** That means `Derogada.`, `(Se deroga);` or `Se deroga.`, optionally followed by amendment notes (`Fracción adicionada DOF … . Derogada DOF …`) and the `y` that introduces an inline glossary's last entry. Before, the test was only that the entry started that way.
+- **The last entry is checked on its first paragraph only,** because it runs on to the article's closing paragraphs.
+- **The 13 placeholder shapes found in committed glossary provisions all pass.** A table test (`wider_pass_skips_every_surveyed_repeal_placeholder_shape`) runs each one through the wider pass. Most of them occur in glossaries the established pass finds, and that pass does not use this check.
+- **An entry that starts with repeal wording but goes on holds the glossary.** Example: `Derogados: Los permisos retirados`. It is neither dropped nor read as a term, and no legal finding is made about it.
+- **The check for a hidden fraction heading now also runs on placeholders.** So `II. Derogada. ENCABEZADO III. Secretaría: …` holds instead of losing III.
+
+**P2, qualified fractions:**
+- **Each fraction is checked against a key:** its value plus its qualifier (none, `Bis`, `Ter`). An unqualified fraction must follow the previous number. A qualified one must repeat the number with the next qualifier.
+- **So these hold:** `I, I Bis, I Bis`; `I Ter` straight after `I`; and a numeral not in standard spelling (`IIII`).
+- **The printed label stays as the entry's `fraction`.**
+
+**Result:**
+- A disposable `link --all` probe changes no corpus file. References stay at 35,880, and the rejected set is still the 8 accepted gaps.
+- The same 19 glossaries are held, for the same reasons.
+- So none of the 94 admissions, and neither `lss` glossary, relied on either defect. The established pass is unchanged.
+
+**Still open from the same review:**
+- a persisted extraction-coverage report, so that a held glossary is distinguishable from an empty `[]`;
+- source-bound per-instrument extraction profiles;
+- the title-span usage filter.
+
 ## 2026-10-18 — LSS defines two term sets: Article 5 A and Article 159
 
 **Operator ruling (2026-10-18, after the Codex outlier review).** LSS Article 5 A is the glossary. Article 159 adds to it, the way a further `se entenderá por:` does: it defines a different set of terms. Both are linked, and they must not conflict. This is an operator ruling on glossary scope, not a JRH legal approval. It covers `lss` only. The other instruments listed under "Which glossary governs" in the entry below are still open.

@@ -385,6 +385,51 @@ fn wider_glossary_entries(
     Some(complete_entries(text, &starts))
 }
 
+/// Each fraction's parsing key is its base value and qualifier rank (none,
+/// `Bis`, `Ter`); the printed label is kept as the entry's fraction. An
+/// unqualified fraction follows the previous base; a qualified one repeats
+/// the base with the next qualifier, so `I, I Bis, I Bis` and `I, I Ter`
+/// both break the sequence.
+fn check_fraction_sequence(starts: &[(usize, usize, String)]) -> std::result::Result<(), String> {
+    let mut previous: Option<(u32, u32)> = None;
+    for (_, _, numeral) in starts {
+        let (base, rank) = match numeral.split_once(char::is_whitespace) {
+            Some((base, "Bis")) => (base, 1),
+            Some((base, "Ter")) => (base, 2),
+            Some(_) => return Err(format!("fraction {numeral} has an unknown qualifier")),
+            None => (numeral.as_str(), 0),
+        };
+        let value = roman_value(base)
+            .filter(|value| canonical_roman(*value) == base)
+            .ok_or_else(|| format!("fraction {numeral} is not a canonical Roman numeral"))?;
+        let expected = if rank == 0 {
+            previous.map_or(1, |(value, _)| value + 1)
+        } else {
+            previous.map_or(0, |(value, _)| value)
+        };
+        let expected_rank = if rank == 0 {
+            0
+        } else {
+            previous.map_or(0, |(_, rank)| rank + 1)
+        };
+        if value != expected || rank != expected_rank {
+            return Err(format!(
+                "fraction {numeral} breaks the I, II, III… sequence after {}",
+                previous.map_or_else(
+                    || "the introduction".to_owned(),
+                    |(value, rank)| match rank {
+                        0 => value.to_string(),
+                        1 => format!("{value} Bis"),
+                        _ => format!("{value} Ter"),
+                    }
+                )
+            ));
+        }
+        previous = Some((value, rank));
+    }
+    Ok(())
+}
+
 /// Every entry of a wider-pass glossary, or the reason it is incomplete.
 fn complete_entries(
     text: &str,
@@ -392,27 +437,7 @@ fn complete_entries(
 ) -> std::result::Result<Vec<GlossaryEntry>, String> {
     let swallowed = Regex::new(r"(?:^|\s)[IVXLCDM]{1,7}(?:\s+(?:Bis|Ter))?\.-?\s+[A-ZÁÉÍÓÚÑ]")
         .expect("static regex");
-    let mut previous: Option<u32> = None;
-    for (_, _, numeral) in starts {
-        let (base, qualified) = match numeral.split_once(char::is_whitespace) {
-            Some((base, _)) => (base, true),
-            None => (numeral.as_str(), false),
-        };
-        let value = roman_value(base)
-            .ok_or_else(|| format!("fraction {numeral} is not a Roman numeral"))?;
-        let expected = if qualified {
-            previous
-        } else {
-            Some(previous.map_or(1, |value| value + 1))
-        };
-        if Some(value) != expected {
-            return Err(format!(
-                "fraction {numeral} breaks the I, II, III… sequence after {}",
-                previous.map_or_else(|| "the introduction".to_owned(), |value| value.to_string())
-            ));
-        }
-        previous = Some(value);
-    }
+    check_fraction_sequence(starts)?;
     let bodies: Vec<(&str, &str, usize, usize)> = starts
         .iter()
         .enumerate()
@@ -428,9 +453,23 @@ fn complete_entries(
             )
         })
         .collect();
+    let last = bodies.len().saturating_sub(1);
+    let placeholder = |index: usize, body: &str| {
+        // The last entry runs to the end of the article, so its closing
+        // paragraphs follow the placeholder; any other placeholder must be
+        // the whole entry.
+        let entry = if index == last {
+            body.split("\n\n").next().unwrap_or(body)
+        } else {
+            body
+        };
+        REPEAL_PLACEHOLDER.is_match(entry.trim())
+    };
     let delimiter = bodies
         .iter()
-        .filter(|(_, body, _, _)| !is_repeal_placeholder_body(body))
+        .enumerate()
+        .filter(|(index, (_, body, _, _))| !placeholder(*index, body))
+        .map(|(_, entry)| entry)
         .find_map(|(_, body, _, _)| {
             body.chars()
                 .take(COLON_TERM_MAX_CHARS + 5)
@@ -439,9 +478,25 @@ fn complete_entries(
         .ok_or("no fraction has a term delimiter")?;
     let mut entries = Vec::with_capacity(bodies.len());
     let mut slugs = std::collections::HashSet::new();
-    for (numeral, body, start, end) in bodies {
-        if is_repeal_placeholder_body(body) {
+    for (index, (numeral, body, start, end)) in bodies.into_iter().enumerate() {
+        // A fraction heading inside any entry, a placeholder included, means
+        // furniture hid a fraction (`II. Derogada. ENCABEZADO III. …`).
+        if let Some(found) = swallowed.find(body) {
+            return Err(format!(
+                "fraction {numeral} contains another fraction heading {:?}",
+                found.as_str().trim()
+            ));
+        }
+        if placeholder(index, body) {
             continue;
+        }
+        // Only a whole placeholder is a repealed fraction. An entry that
+        // opens with the repeal wording and goes on (`Derogados: Los
+        // permisos retirados`) is not read as either.
+        if starts_with_repeal_wording(body) {
+            return Err(format!(
+                "fraction {numeral} opens with repeal wording but is not a repeal placeholder"
+            ));
         }
         let term = body
             .find(delimiter)
@@ -454,12 +509,6 @@ fn complete_entries(
         // that needs the quoted style.
         if term.contains([':', ';', '.', '\n', '"', '“', '”']) {
             return Err(format!("fraction {numeral} has no plain term: {term:?}"));
-        }
-        if let Some(found) = swallowed.find(body) {
-            return Err(format!(
-                "fraction {numeral} contains another fraction heading {:?}",
-                found.as_str().trim()
-            ));
         }
         if !slugs.insert(slug(term)) {
             return Err(format!("fraction {numeral} repeats the term {term:?}"));
@@ -474,11 +523,45 @@ fn complete_entries(
     Ok(entries)
 }
 
-/// A repealed fraction's whole body (`Derogada.`, `(Se deroga)`,
-/// `Se deroga. Fracción derogada DOF …`).
-fn is_repeal_placeholder_body(body: &str) -> bool {
+/// A repealed fraction's whole entry: `Derogada.`, `(Se deroga);` or `Se
+/// deroga.`, optionally followed by its amendment notes (`Fracción derogada
+/// DOF 12-01-2024`, `Fracción adicionada DOF … . Derogada DOF …`) and the
+/// conjunction that introduces an inline glossary's last entry.
+static REPEAL_PLACEHOLDER: LazyLock<Regex> = LazyLock::new(|| {
+    Regex::new(
+        r"(?i)^\(?\s*(?:derogad[ao]s?|se\s+deroga)\s*\)?\s*[.;,]?(?:\s*(?:fracci[óo]n\s+)?(?:derogad[ao]|adicionad[ao]|reformad[ao]|recorrid[ao])\s+(?:DOF\s+)?\d{2}-\d{2}-\d{4}(?:\s*(?:,|y)\s*\d{2}-\d{2}-\d{4})*\s*[.;,]?)*(?:\s+y)?$",
+    )
+    .expect("repeal placeholder regex must compile")
+});
+
+fn starts_with_repeal_wording(body: &str) -> bool {
     let normalized = body.trim_start().trim_start_matches('(').to_lowercase();
     normalized.starts_with("derogad") || normalized.starts_with("se deroga")
+}
+
+fn canonical_roman(mut value: u32) -> String {
+    let mut numeral = String::new();
+    for (step, symbol) in [
+        (1000, "M"),
+        (900, "CM"),
+        (500, "D"),
+        (400, "CD"),
+        (100, "C"),
+        (90, "XC"),
+        (50, "L"),
+        (40, "XL"),
+        (10, "X"),
+        (9, "IX"),
+        (5, "V"),
+        (4, "IV"),
+        (1, "I"),
+    ] {
+        while value >= step {
+            numeral.push_str(symbol);
+            value -= step;
+        }
+    }
+    numeral
 }
 
 fn roman_value(numeral: &str) -> Option<u32> {
@@ -1584,6 +1667,110 @@ mod tests {
         );
         assert!(gap.terms.is_empty());
         assert!(gap.held.unwrap().1.contains("breaks the I, II, III"));
+    }
+
+    #[test]
+    fn wider_pass_holds_repeal_wording_that_is_not_a_whole_placeholder() {
+        // Codex review 2026-10-18, P1: furniture after a placeholder hid
+        // fraction III, and the whole glossary was accepted as `Agencia`.
+        let hidden = wider(
+            "Para los efectos de esta Ley se entiende por:\nI. Agencia: La agencia;\nII. \
+             Derogada. ENCABEZADO DE PAGINA III. Secretaría: La secretaría.",
+        );
+        assert!(hidden.terms.is_empty());
+        let reason = hidden.held.unwrap().1;
+        assert!(reason.contains("another fraction heading"), "{reason}");
+
+        // A genuine entry that opens with the repeal wording is not dropped.
+        let genuine = wider(
+            "Para los efectos de esta Ley se entiende por:\nI. Derogados: Los permisos \
+             retirados;\nII. Vigentes: Los permisos activos.",
+        );
+        assert!(genuine.terms.is_empty());
+        let reason = genuine.held.unwrap().1;
+        assert!(reason.contains("repeal wording"), "{reason}");
+
+        // Whole placeholders, with their amendment notes, are still skipped.
+        assert_eq!(
+            wider_terms(
+                "Para los efectos de esta Ley, se entiende por:\n\nI. Agencia: La agencia;\n\n\
+                 II. Derogada. Fracción adicionada DOF 12-01-2015. Derogada DOF 01-02-2020\n\n\
+                 III. (Se deroga); Fracción derogada DOF 03-04-2021\n\nIV. Se deroga \
+                 Fracción reformada DOF 05-06-2010, 07-08-2012. Derogada DOF 09-10-2019\n\nV. \
+                 Banco: El banco.\n\nVI. Derogada.\n\nArtículo reformado DOF 11-12-2022",
+            ),
+            ["Agencia", "Banco"]
+        );
+    }
+
+    #[test]
+    fn wider_pass_skips_every_surveyed_repeal_placeholder_shape() {
+        // The 13 placeholder shapes in committed glossary provisions
+        // (2026-10-18 survey), verbatim but for the dates.
+        for placeholder in [
+            "Derogada. Fracción derogada DOF 01-02-2003",
+            "(Se deroga); Fracción derogada DOF 01-02-2003",
+            "Se deroga. Fracción derogada DOF 01-02-2003",
+            "Derogada.",
+            "Se deroga. Fracción adicionada DOF 01-02-2003. Derogada DOF 04-05-2006",
+            "Derogada. Fracción adicionada DOF 01-02-2003. Derogada DOF 04-05-2006",
+            "Derogada Fracción derogada DOF 01-02-2003",
+            "Se deroga Fracción reformada DOF 01-02-2003. Derogada DOF 04-05-2006",
+            "(Se deroga). Fracción derogada DOF 01-02-2003",
+            "(Se deroga) Fracción derogada DOF 01-02-2003",
+            "Derogada; Fracción derogada DOF 01-02-2003",
+            "Derogada. Fracción reformada DOF 01-02-2003. Derogada DOF 04-05-2006",
+            "Se deroga. Fracción recorrida DOF 01-02-2003. Derogada DOF 04-05-2006",
+        ] {
+            assert_eq!(
+                wider_terms(&format!(
+                    "Para los efectos de esta Ley, se entiende por:\n\nI. Agencia: La \
+                     agencia;\n\nII. {placeholder}\n\nIII. Banco: El banco."
+                )),
+                ["Agencia", "Banco"],
+                "{placeholder}"
+            );
+        }
+    }
+
+    #[test]
+    fn wider_pass_checks_qualified_fraction_order_and_spelling() {
+        let glossary = |fractions: &str| {
+            wider(&format!(
+                "Para los efectos de esta Ley, se entiende por:\n\n{fractions}"
+            ))
+        };
+        // Codex review 2026-10-18, P2: a repeated `Bis` with a new name.
+        let repeated = glossary(
+            "I. Agencia: La agencia;\n\nI Bis. Banco: El banco;\n\nI Bis. Caja: La \
+             caja;\n\nII. Deuda: La deuda.",
+        );
+        assert!(repeated.terms.is_empty());
+        assert!(repeated.held.unwrap().1.contains("I Bis breaks"));
+
+        let ter_first = glossary("I. Agencia: La agencia;\n\nI Ter. Banco: El banco;");
+        assert!(ter_first.held.unwrap().1.contains("I Ter breaks"));
+
+        let spelled = glossary(
+            "I. Agencia: La agencia;\n\nII. Banco: El banco;\n\nIII. Caja: La \
+             caja;\n\nIIII. Deuda: La deuda.",
+        );
+        assert!(
+            spelled
+                .held
+                .unwrap()
+                .1
+                .contains("not a canonical Roman numeral")
+        );
+
+        assert_eq!(
+            wider_terms(
+                "Para los efectos de esta Ley, se entiende por:\n\nI. Agencia: La \
+                 agencia;\n\nI Bis. Banco: El banco;\n\nI Ter. Caja: La caja;\n\nII. \
+                 Deuda: La deuda;\n\nIII. Ente: El ente.",
+            ),
+            ["Agencia", "Banco", "Caja", "Deuda", "Ente"]
+        );
     }
 
     #[test]

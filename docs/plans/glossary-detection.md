@@ -146,6 +146,11 @@ send a Codex review packet.
 
 ## Current checkpoint
 
+2026-10-18 (completeness-check repair): Codex P1 (whole-entry repeal
+placeholders) and P2 (qualified fraction order and spelling) are fixed in
+`complete_entries`. A probe `link --all` changes no corpus file, and the 19 holds
+are unchanged. Persisted coverage is still open.
+
 2026-10-18 (operator ruling on LSS): Article 5 A is the glossary, and 159 adds a
 different set of terms. Both are linked through `additional_provisions` and the
 new `auto_whole` and `auto_established` styles. `lss` goes from 6 terms to 30 and
