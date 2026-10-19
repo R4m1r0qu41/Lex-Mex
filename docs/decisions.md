@@ -1,5 +1,22 @@
 # Architecture decisions
 
+## 2026-10-19 — Coverage validation binds current selection and imports
+
+Codex review of `c40378666` found that local coverage counts alone could not
+detect stale import counts or changed adapter selection. Validation now replays
+extraction read-only and compares the coverage, terms and usages with current
+inputs. Corpus closure preflights eligible coverage against the final in-memory
+corpus before writing. Coverage objects reject unknown JSON fields as their
+existing schema requires. The DOF furniture filter now requires a complete dated
+page header, preserving substantive section citations with a regression fixture.
+No canonical data or legal decision changed.
+
+The six header reparses independently reproduce from hash-matching PDFs/text,
+including reform evidence. Their 226 references retain their meanings/targets;
+some IDs and offsets changed with the cleaned text. Reform evidence also changed
+(MEIA 0→4, MPCCA 4→11, LGS-investigacion 0→1; MAAA/MRETC at unchanged counts).
+See `docs/glossary-coverage-header-review-2026-10-19.md` for exact verification.
+
 ## 2026-10-19 — Persisted glossary extraction coverage (`glossary-coverage.json`)
 
 **Why.** Codex review 2026-10-18, P2: a held glossary was reported only on stderr. The persisted empty `terms.json` could not distinguish a held glossary from an instrument with none, and the database must not infer either from `[]`.

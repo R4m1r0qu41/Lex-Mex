@@ -1114,6 +1114,7 @@ pub const GLOSSARY_STRATEGY_VERSION: &str = "glossary-extraction-1";
 /// from an instrument with no detected glossary, which an empty terms list
 /// cannot. It is a deterministic technical record, never a legal approval.
 #[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize)]
+#[serde(deny_unknown_fields)]
 pub struct GlossaryCoverage {
     pub schema_version: String,
     pub strategy_version: String,
@@ -1146,6 +1147,7 @@ pub enum GlossaryCoverageStatus {
 }
 
 #[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize)]
+#[serde(deny_unknown_fields)]
 pub struct GlossaryProvisionCoverage {
     pub provision_id: String,
     pub provision_text_sha256: String,
@@ -1162,6 +1164,7 @@ pub struct GlossaryProvisionCoverage {
 }
 
 #[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize)]
+#[serde(deny_unknown_fields)]
 pub struct GlossaryHoldRecord {
     pub provision_id: String,
     pub provision_text_sha256: String,
@@ -1185,6 +1188,7 @@ pub enum GlossaryHoldCode {
 }
 
 #[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize)]
+#[serde(deny_unknown_fields)]
 pub struct GlossaryImportCoverage {
     pub additive_to: String,
     pub term_count: usize,
@@ -2286,6 +2290,25 @@ mod glossary_coverage_tests {
             message: "fraction V breaks the I, II, III… sequence after 3".to_owned(),
         });
         check(&empty, &held_empty).unwrap();
+    }
+
+    #[test]
+    fn coverage_deserialization_rejects_fields_the_schema_forbids() {
+        let record = lritf();
+        let original = serde_json::to_value(configured(&record)).unwrap();
+        let mut top = original.clone();
+        top["unrecognized"] = serde_json::json!(true);
+        assert!(serde_json::from_value::<GlossaryCoverage>(top).is_err());
+        let mut nested = original;
+        nested["glossaries"][0]["unrecognized"] = serde_json::json!(true);
+        assert!(serde_json::from_value::<GlossaryCoverage>(nested).is_err());
+        assert!(
+            serde_json::from_value::<GlossaryImportCoverage>(serde_json::json!({
+                "additive_to": "urn:lex-mx:test:original", "term_count": 1,
+                "unrecognized": true
+            }))
+            .is_err()
+        );
     }
 
     #[test]

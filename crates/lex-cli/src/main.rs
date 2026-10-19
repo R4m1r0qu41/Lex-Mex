@@ -3121,6 +3121,13 @@ fn run_corpus_closure(root: &Path) -> Result<CorpusClosureReport> {
         &original_terms,
         &original_usages,
     );
+    preflight_closure_coverage(
+        &corpora,
+        &contexts,
+        &coverage,
+        &decisions,
+        &refreshed_as_persisted,
+    )?;
     let (targets, term_targets) = closure_link_targets(&corpora);
     let mut relinked = 0;
     let mut unchanged = 0;
@@ -3215,6 +3222,31 @@ fn load_instrument_contexts(
         contexts.insert(slug.clone(), InstrumentContext { config, paths });
     }
     Ok(contexts)
+}
+
+/// Validate all final-state coverage before the closure writes any output.
+fn preflight_closure_coverage(
+    corpora: &[(String, Corpus)],
+    contexts: &HashMap<String, InstrumentContext>,
+    coverage: &[lex_core::GlossaryCoverage],
+    decisions: &[ClosureDecision],
+    refreshed_as_persisted: &[bool],
+) -> Result<()> {
+    // Bind coverage to the final corpus, including originals restored after a
+    // rejection. Preflight every record before writing any closure output.
+    for (index, (slug, corpus)) in corpora.iter().enumerate() {
+        if !matches!(decisions[index], ClosureDecision::Rejected(_))
+            || refreshed_as_persisted[index]
+        {
+            validate_glossary_coverage_inputs(
+                &coverage[index],
+                &contexts[slug],
+                corpus,
+                &sibling_views(corpora, &corpus.instrument.id),
+            )?;
+        }
+    }
+    Ok(())
 }
 
 fn refresh_linked_terms(
@@ -3481,6 +3513,38 @@ fn append_parent_rule_issues(
     }
 }
 
+/// Check extraction provenance against current adapter selection and originals,
+/// not merely counts in the importing instrument. Replay is read-only and also
+/// catches stale term usages even when their stored counts still match.
+fn validate_glossary_coverage_inputs(
+    coverage: &lex_core::GlossaryCoverage,
+    context: &InstrumentContext,
+    corpus: &Corpus,
+    siblings: &[(&str, &Corpus)],
+) -> Result<()> {
+    coverage
+        .validate(
+            &corpus.instrument,
+            &corpus.provisions,
+            &corpus.terms,
+            &corpus.term_usages,
+        )
+        .map_err(anyhow::Error::msg)?;
+    let expected =
+        extract_instrument_terms(context, &corpus.instrument, &corpus.provisions, siblings)?;
+    anyhow::ensure!(
+        serde_json::to_value(coverage)? == serde_json::to_value(&expected.coverage)?,
+        "glossary coverage differs from current adapter selection or imported terms; relink required"
+    );
+    anyhow::ensure!(
+        serde_json::to_value(&corpus.terms)? == serde_json::to_value(&expected.terms)?
+            && serde_json::to_value(&corpus.term_usages)?
+                == serde_json::to_value(&expected.usages)?,
+        "glossary terms or usages differ from current extraction; relink required"
+    );
+    Ok(())
+}
+
 /// `glossary-coverage.json` must describe the persisted terms and the current
 /// glossary provision text; a stale record is an error. A missing record is a
 /// warning, for instruments not yet relinked since the record was introduced.
@@ -3488,21 +3552,18 @@ fn append_glossary_coverage_issues(
     report: &mut lex_core::ValidationReport,
     corpus: &Corpus,
     directory: &Path,
+    context: &InstrumentContext,
+    siblings: &[(&str, &Corpus)],
 ) -> Result<()> {
     let path = directory.join(GLOSSARY_COVERAGE_FILE);
     let (severity, code, message) = if path.is_file() {
         let coverage: lex_core::GlossaryCoverage = read_json(&path)?;
-        match coverage.validate(
-            &corpus.instrument,
-            &corpus.provisions,
-            &corpus.terms,
-            &corpus.term_usages,
-        ) {
+        match validate_glossary_coverage_inputs(&coverage, context, corpus, siblings) {
             Ok(()) => return Ok(()),
             Err(error) => (
                 lex_core::Severity::Error,
                 "glossary_coverage_inconsistent",
-                error,
+                error.to_string(),
             ),
         }
     } else {
@@ -4244,7 +4305,8 @@ fn run_validate(root: &Path, context: &InstrumentContext) -> Result<lex_core::Va
     validate_persisted_repeal_evidence(root, &corpus)?;
     let mut external_targets = HashSet::new();
     let mut external_terms = HashSet::new();
-    for (_, sibling) in read_sibling_corpora(root, &corpus.instrument.id)? {
+    let siblings = read_sibling_corpora(root, &corpus.instrument.id)?;
+    for (_, sibling) in &siblings {
         external_targets.extend(sibling.provisions.iter().map(|item| item.id.clone()));
         external_terms.extend(sibling.terms.iter().map(|term| term.id.clone()));
     }
@@ -4270,7 +4332,11 @@ fn run_validate(root: &Path, context: &InstrumentContext) -> Result<lex_core::Va
         &external_terms,
     );
     append_parent_rule_issues(&mut report, config, &corpus.references);
-    append_glossary_coverage_issues(&mut report, &corpus, &paths.corpus)?;
+    let sibling_views: Vec<_> = siblings
+        .iter()
+        .map(|(slug, sibling)| (slug.as_str(), sibling))
+        .collect();
+    append_glossary_coverage_issues(&mut report, &corpus, &paths.corpus, context, &sibling_views)?;
     write_validation(&report, &paths.corpus)?;
     println!(
         "validation: {}; {} articles, {} transitories, {} references, {} issues",
@@ -4897,30 +4963,42 @@ mod tests {
         let fixtures = [
             (
                 "target",
-                "urn:test:target",
+                "urn:lex-mx:test:target",
                 "Ley Destino",
                 "DESTINO",
                 "Texto destino.",
             ),
             (
                 "source",
-                "urn:test:source",
+                "urn:lex-mx:test:source",
                 "Ley Fuente",
                 "FUENTE",
                 "En términos del artículo 1 de la Ley Destino.",
             ),
             (
                 "broken",
-                "urn:test:broken",
+                "urn:lex-mx:test:broken",
                 "Ley Rota",
                 "ROTA",
                 "En términos del artículo 9 de la Ley Destino.",
             ),
-            ("left", "urn:test:left", "Ley Repetida", "IZQ", "Texto."),
-            ("right", "urn:test:right", "Ley Repetida", "DER", "Texto."),
+            (
+                "left",
+                "urn:lex-mx:test:left",
+                "Ley Repetida",
+                "IZQ",
+                "Texto.",
+            ),
+            (
+                "right",
+                "urn:lex-mx:test:right",
+                "Ley Repetida",
+                "DER",
+                "Texto.",
+            ),
             (
                 "ask",
-                "urn:test:ask",
+                "urn:lex-mx:test:ask",
                 "Ley Consulta",
                 "CONSULTA",
                 "En términos del artículo 1 de la Ley Repetida.",
@@ -4941,7 +5019,7 @@ mod tests {
         let temporary = tempfile::tempdir().unwrap();
         let root = temporary.path();
         write_title_closure_fixture(root);
-        let target_id = "urn:test:target";
+        let target_id = "urn:lex-mx:test:target";
 
         let report = run_corpus_closure(root).unwrap();
 
@@ -5248,6 +5326,114 @@ mod tests {
             lex_core::GlossaryCoverageStatus::NoneDetected
         );
         assert!(absent.hold.is_none() && absent.glossaries.is_empty());
+    }
+
+    #[test]
+    fn coverage_replay_rejects_stale_imports_and_adapter_selection() {
+        let temporary = tempfile::tempdir().unwrap();
+        let root = temporary.path();
+        let id = "urn:lex-mx:test:importer";
+        let parent_id = "urn:lex-mx:test:parent";
+        write_fixture_adapter(
+            root,
+            "importer",
+            id,
+            "Ley Fuente",
+            "FUENTE",
+            &serde_json::json!([]),
+        );
+        let mut context = instrument_context(root, "importer").unwrap();
+        context.config.glossary = Some(
+            serde_json::from_value(serde_json::json!({
+                "provision_suffix": ":article:1", "style": "auto_whole",
+                "additive_to": [format!("{parent_id}:article:1")]
+            }))
+            .unwrap(),
+        );
+        let mut parent = fixture_corpus(
+            parent_id,
+            "Ley Original",
+            "ORIGINAL",
+            "Para efectos de esta Ley se entiende por: I. Agencia: La entidad; II. Banco: La institución.",
+        );
+        parent.terms = lex_parse::detect_glossary_terms(&parent.provisions).unwrap();
+        let mut corpus = fixture_corpus(
+            id,
+            "Ley Fuente",
+            "FUENTE",
+            "Para efectos de esta Ley se entiende por: I. Cuenta: La Agencia administra la Cuenta; II. Fondo: El Banco administra el Fondo.",
+        );
+        let extraction = extract_instrument_terms(
+            &context,
+            &corpus.instrument,
+            &corpus.provisions,
+            &[("parent", &parent)],
+        )
+        .unwrap();
+        corpus.terms = extraction.terms;
+        corpus.term_usages = extraction.usages;
+        let check = |context: &super::InstrumentContext, parent: &Corpus| {
+            super::validate_glossary_coverage_inputs(
+                &extraction.coverage,
+                context,
+                &corpus,
+                &[("parent", parent)],
+            )
+        };
+        check(&context, &parent).unwrap();
+        let mut changed = parent.clone();
+        changed.terms.pop();
+        assert!(
+            check(&context, &changed)
+                .unwrap_err()
+                .to_string()
+                .contains("imported terms")
+        );
+        // A rename with unchanged import count must also invalidate usages.
+        changed = parent.clone();
+        changed.terms[0].term = "Otra Agencia".to_owned();
+        assert!(check(&context, &changed).is_err());
+        context
+            .config
+            .glossary
+            .as_mut()
+            .unwrap()
+            .additive_to
+            .clear();
+        assert!(check(&context, &parent).is_err());
+    }
+
+    #[test]
+    fn coverage_replay_rejects_fabricated_placeholder_metadata() {
+        let temporary = tempfile::tempdir().unwrap();
+        let id = "urn:lex-mx:test:glosario";
+        write_fixture_adapter(
+            temporary.path(),
+            "glosario",
+            id,
+            "Ley Glosario",
+            "GLOSARIO",
+            &serde_json::json!([]),
+        );
+        let context = instrument_context(temporary.path(), "glosario").unwrap();
+        let mut corpus = fixture_corpus(
+            id,
+            "Ley Glosario",
+            "GLOSARIO",
+            "Para efectos de esta Ley se entiende por: I. Agencia: La entidad; II. Derogada. III. Banco: La institución.",
+        );
+        let mut extraction =
+            extract_instrument_terms(&context, &corpus.instrument, &corpus.provisions, &[])
+                .unwrap();
+        corpus.terms = extraction.terms;
+        corpus.term_usages = extraction.usages;
+        super::validate_glossary_coverage_inputs(&extraction.coverage, &context, &corpus, &[])
+            .unwrap();
+        extraction.coverage.glossaries[0].repeal_placeholders = Some(vec!["IV".to_owned()]);
+        assert!(
+            super::validate_glossary_coverage_inputs(&extraction.coverage, &context, &corpus, &[])
+                .is_err()
+        );
     }
 
     #[test]

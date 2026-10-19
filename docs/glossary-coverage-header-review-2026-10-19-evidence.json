@@ -1,0 +1,105 @@
+{
+  "baseline": "c40378666",
+  "six_source_pdf_and_text_hashes_match": true,
+  "independent_parser_replay_matches": true,
+  "reform_evidence_replay_matches": true,
+  "instruments": {
+    "reg-lgcc-rne": {
+      "changed_fields": {
+        "heading_context": 29,
+        "text": 20
+      },
+      "reference_count": 43,
+      "reference_semantics_unchanged": true,
+      "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGCC_MRNE_281014.pdf",
+      "pdf_sha256": "62420210c5aaffe687daf130a64ff506009625340c554bfb36d2f1b5dcac0192",
+      "text_sha256": "5775459b2789f93ed63618a3a4af28bf2827b883a871d98fa139b185ad2b68b4"
+    },
+    "reg-lgeepa-maaa": {
+      "changed_fields": {
+        "text": 17,
+        "heading_context": 8
+      },
+      "reference_count": 49,
+      "reference_semantics_unchanged": true,
+      "reform-temporal-evidence.json": {
+        "before": 5,
+        "after": 5
+      },
+      "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGEEPA_MAAA_311014.pdf",
+      "pdf_sha256": "d50b44df321cf8be51375c07cee5dbcf03eac76df1cd11ab4bd777c9fce0f789",
+      "text_sha256": "d927c1c6dd3e308cb2e2bdade8964579bc446a9cf074bbb5f8d58d840b4ef342"
+    },
+    "reg-lgeepa-meia": {
+      "changed_fields": {
+        "text": 18
+      },
+      "reference_count": 37,
+      "reference_semantics_unchanged": true,
+      "reform-temporal-evidence.json": {
+        "before": 0,
+        "after": 4
+      },
+      "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGEEPA_MEIA_311014.pdf",
+      "pdf_sha256": "c7790df38b773b04e4769459d5fd49cca5b7a5b4955f7618632117275259071f",
+      "text_sha256": "8f8c5d2512b9e390ace741f015d455a4e2a814d95d2ff19cb16bf79e74b5afc8"
+    },
+    "reg-lgeepa-mpcca": {
+      "changed_fields": {
+        "text": 14
+      },
+      "reference_count": 17,
+      "reference_semantics_unchanged": true,
+      "reform-temporal-evidence.json": {
+        "before": 4,
+        "after": 11
+      },
+      "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGEEPA_MPCCA_311014.pdf",
+      "pdf_sha256": "cf47ab93fdea40d2b3e41b58784df62f89dd90b4482dd3b7f25adc7f6957036b",
+      "text_sha256": "2d07c05dbdabce7baa05d40a9ad4e314a5ecf3ee669ef4d115bd01a2e14d5593"
+    },
+    "reg-lgeepa-mretc": {
+      "changed_fields": {
+        "heading_context": 32,
+        "text": 16
+      },
+      "reference_count": 13,
+      "reference_semantics_unchanged": true,
+      "reform-temporal-evidence.json": {
+        "before": 3,
+        "after": 3
+      },
+      "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGEEPA_MRETC_311014.pdf",
+      "pdf_sha256": "71c334347de911b670b7e920a44db19f2555f611203ec25d227733687972f424",
+      "text_sha256": "b4dedf046312cf1a5c7e44ab44caba93baf0cb1a7ecf84eaa54deba7ab28e1f1"
+    },
+    "reg-lgs-investigacion": {
+      "changed_fields": {
+        "text": 26
+      },
+      "reference_count": 67,
+      "reference_semantics_unchanged": true,
+      "reform-temporal-evidence.json": {
+        "before": 0,
+        "after": 1
+      },
+      "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MIS.pdf",
+      "pdf_sha256": "f135d534dcd7a2734bc7f44e9381e7173c7d8033e1df75a2d4fb132d956e848b",
+      "text_sha256": "60646990a9a9540ca30102138531b6a9b8063d49388b85302bed71a5e804b25c"
+    }
+  },
+  "native_tests": 343,
+  "closure": {
+    "unchanged": 460,
+    "relinked": 0,
+    "rejected_accepted_gaps": 8,
+    "canonical_files_byte_identical": 73219,
+    "exit_code_recovered": false
+  },
+  "pmimss_replay": {
+    "provisions": 173,
+    "text_order_headings_and_reform_evidence_match": true,
+    "pdf_sha256": "2031b8a0cffc7dd2c9a3012644baea0ccd914029b6bf46ae3ca73f46f78dd735",
+    "text_sha256": "1a52c10f8a41951c359762ee1f21f9800d716922f76fef63c1914086668134cf"
+  }
+}

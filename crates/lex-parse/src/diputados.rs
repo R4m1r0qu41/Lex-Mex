@@ -483,6 +483,20 @@ impl HeadingPatterns {
     }
 }
 
+/// Only a complete dated DOF page header is furniture. A substantive sentence
+/// can cite `DIARIO OFICIAL (Primera Sección)` and must remain source text.
+fn is_dof_edition_header(line: &str) -> bool {
+    static HEADER: std::sync::LazyLock<Regex> = std::sync::LazyLock::new(|| {
+        let date = r"(?:Lunes|Martes|Miércoles|Miercoles|Jueves|Viernes|Sábado|Sabado|Domingo)\s+\d{1,2}\s+de\s+[a-záéíóú]+\s+de\s+\d{4}";
+        let section = r"\([^()\r\n]*Secci[oó]n\)";
+        Regex::new(&format!(
+            r"(?i)^(?:{date}\s+DIARIO OFICIAL\s+{section}\s+\d+|\d+\s+{section}\s+DIARIO OFICIAL\s+{date})$"
+        ))
+        .expect("static DOF edition header regex")
+    });
+    HEADER.is_match(line)
+}
+
 fn is_page_furniture(line: &str, options: &DiputadosOptions, page_number: &Regex) -> bool {
     options
         .header_lines
@@ -495,7 +509,7 @@ fn is_page_furniture(line: &str, options: &DiputadosOptions, page_number: &Regex
         || (line.contains("DIARIO OFICIAL") && line.contains("PAGE"))
         // A DOF edition's running header (`Jueves 30 de noviembre de 2006
         // DIARIO OFICIAL (Séptima Sección) 107`), as `standard.rs` reads it.
-        || (line.contains("DIARIO OFICIAL") && (line.contains("Sección)") || line.contains("Seccion)")))
+        || is_dof_edition_header(line)
         || page_number.is_match(line)
 }
 
@@ -2587,6 +2601,28 @@ mod tests {
             "Primer párrafo. Párrafo reformado DOF 03-04-2025\n\nSegundo párrafo."
         );
         assert!(!document.provisions[0].text.contains("LEY REGLAMENTARIA"));
+    }
+
+    #[test]
+    fn dof_section_citations_in_substantive_prose_are_not_headers() {
+        let text =
+            include_str!("../../../fixtures/diputados/dof-section-citation-prose-sample.txt");
+        let document = parse_diputados(
+            text,
+            &options(
+                "urn:lex-mx:federal:regulation:sample",
+                "Reglamento de Muestra",
+            ),
+            NaiveDate::from_ymd_opt(2006, 11, 30).unwrap(),
+        )
+        .unwrap();
+        assert_eq!(document.provisions.len(), 2);
+        assert!(document.provisions[0].text.contains(
+            "El aviso se publicará en el DIARIO OFICIAL (Primera Sección) y surtirá efectos al día siguiente."
+        ));
+        assert!(document.provisions[1].text.contains(
+            "La referencia DIARIO OFICIAL (Séptima Sección) 107 identifica la publicación del aviso."
+        ));
     }
 
     #[test]

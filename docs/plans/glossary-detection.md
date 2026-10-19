@@ -146,6 +146,14 @@ send a Codex review packet.
 
 ## Current checkpoint
 
+2026-10-19 (Codex review and repairs): six header reparses reproduce from
+hash-matching source, including reform evidence. Added read-only coverage replay
+against current adapter/imports and final-state closure preflight; coverage
+objects reject unknown JSON fields. The DOF header filter now preserves
+substantive section citations; seven source replays reproduce exactly. See [review](../glossary-coverage-header-review-2026-10-19.md).
+No canonical/adaptor data changed by these repairs. Profiles and title filter
+remain the next work.
+
 2026-10-19 (persisted coverage): every instrument has `glossary-coverage.json`
 (status, method, fractions, placeholders, hold code, imports, text hashes), and
 `validate` checks it. Statuses: 12 configured, 299 detected, 12 held and 145
