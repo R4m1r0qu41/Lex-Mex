@@ -25,7 +25,7 @@ II. La convocante repartirá el formato para mejorar ofertas por escrito, el cua
 
 III. El servidor público que presida el evento, procederá a la apertura de cada uno de los sobres que contengan la postura y no se calificarán como postura legal, aquellas que hubieren omitido alguno de los requisitos, condiciones o documentos exigidos en la convocatoria;
 
-IV. Una vez realizada la aceptación de las posturas, el servidor público que presida el evento procederá a identificar, en presencia del representante del Órgano Interno de Control en el Instituto, el importe de la postura que sea la más alta hasta ese momento;
+IV. Una vez realizada la aceptación de las posturas, el servidor público que presida el evento procederá a identificar, en presencia del representante del Órgano Interno de Control en el [Instituto](../../lss/markdown/articulo-5-A.md), el importe de la postura que sea la más alta hasta ese momento;
 
 V. Una vez realizado lo anterior, el servidor público que presida el evento procederá a dar lectura en voz alta, del importe que haya resultado el más alto;
 
@@ -39,4 +39,4 @@ IX. En caso de empate de la postura el servidor público que presida el acto, en
 
 X. Una vez obtenida la declaración de última postura o el resultado del sorteo, el servidor público que preside el acto procederá a dar lectura en voz alta a la mayor y declarará ganador a su oferente.
 
-Por lo menos un postor y el servidor público que designe quien presida el evento, rubricarán las posturas, tanto las aceptadas como las rechazadas. REGLAMENTO DE LA LEY DEL SEGURO SOCIAL, EN MATERIA DE ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES ADJUDICADOS CON MOTIVO DE LA APLICACIÓN DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCIÓN
+Por lo menos un postor y el servidor público que designe quien presida el evento, rubricarán las posturas, tanto las aceptadas como las rechazadas.

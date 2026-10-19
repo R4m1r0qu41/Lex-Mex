@@ -15,4 +15,4 @@ source_sha256: 9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd
 
 # CUARTO
 
-En un plazo de 180 días naturales contados a partir de la entrada en vigor de este Reglamento, las Delegaciones deberán proceder, por conducto de la Jefatura Delegacional de Servicios Administrativos o de la Subdelegación que corresponda, a tramitar el avalúo de todos aquellos bienes que a la fecha de entrada en vigor del presente ordenamiento carezcan del mismo o la vigencia de éste haya fenecido.
+En un plazo de 180 días naturales contados a partir de la entrada en vigor de este [Reglamento](articulo-2.md), las [Delegaciones](articulo-2.md) deberán proceder, por conducto de la Jefatura Delegacional de Servicios Administrativos o de la [Subdelegación](articulo-2.md) que corresponda, a tramitar el avalúo de todos aquellos bienes que a la fecha de entrada en vigor del presente ordenamiento carezcan del mismo o la vigencia de éste haya fenecido.

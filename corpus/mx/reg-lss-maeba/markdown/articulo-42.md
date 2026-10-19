@@ -17,6 +17,6 @@ source_sha256: 9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd
 
 # Artículo 42
 
-La Delegación podrá cancelar la subasta por caso fortuito o fuerza mayor, situación que se hará del conocimiento de los participantes en la misma forma en que se difundió la convocatoria.
+La [Delegación](articulo-2.md) podrá cancelar la subasta por caso fortuito o fuerza mayor, situación que se hará del conocimiento de los participantes en la misma forma en que se difundió la convocatoria.
 
-Cancelada la subasta, el Instituto comunicará a través de su página electrónica y al correo electrónico proporcionado por cada uno de los postores, los términos para la devolución de su garantía de seriedad y sostenimiento, la devolución no podrá exceder de 10 días hábiles.
+Cancelada la subasta, el [Instituto](../../lss/markdown/articulo-5-A.md) comunicará a través de su página electrónica y al correo electrónico proporcionado por cada uno de los postores, los términos para la devolución de su garantía de seriedad y sostenimiento, la devolución no podrá exceder de 10 días hábiles.

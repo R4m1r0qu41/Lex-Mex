@@ -23,7 +23,7 @@ I. Se trate de bienes muebles de fácil descomposición o deterioro;
 
 II. Se trate de materiales inflamables, siempre que en la localidad no se puedan guardar o depositar en lugares apropiados para su conservación;
 
-III. Se trate de bienes cuya administración resulte incosteable para el Instituto;
+III. Se trate de bienes cuya administración resulte incosteable para el [Instituto](../../lss/markdown/articulo-5-A.md);
 
 IV. El valor de los bienes sea menor a cinco mil días del salario mínimo general vigente en el Distrito Federal;
 
@@ -33,6 +33,6 @@ VI. Se trate de los frutos que se generen por la administración de empresas o p
 
 VII. Se trate de bienes sobre los que exista oferta de compra presentada por alguna entidad paraestatal de la Administración Pública Federal, por el gobierno de alguna entidad federativa, municipio o del Distrito Federal, siempre que el importe ofrecido sea el equivalente o superior al precio de avalúo, o
 
-VIII. Cuando, a juicio del Comité Técnico, se justifique que existen circunstancias que puedan provocar pérdidas o costos adicionales importantes.
+VIII. Cuando, a juicio del [Comité Técnico](articulo-2.md), se justifique que existen circunstancias que puedan provocar pérdidas o costos adicionales importantes.
 
 Para efectos del supuesto previsto en la fracción V, de este artículo, se podrá reducir el valor base de enajenación de los bienes, hasta un 25%. Para bienes inmuebles, en ningún caso el valor base podrá ser inferior al importe obtenido en el procedimiento administrativo de ejecución, actualizado a valor presente. En todos los casos se deberá invitar al acto de adjudicación directa a un representante del Órgano Interno de Control en el Instituto.

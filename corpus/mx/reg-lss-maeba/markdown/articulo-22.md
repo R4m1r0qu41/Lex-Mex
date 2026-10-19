@@ -17,7 +17,7 @@ source_sha256: 9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd
 
 # Artículo 22
 
-Las sesiones del Comité Técnico se realizarán conforme a lo siguiente:
+Las sesiones del [Comité Técnico](articulo-2.md) se realizarán conforme a lo siguiente:
 
 I. Las ordinarias se efectuarán cuando menos una vez al mes. Las extraordinarias se llevarán a cabo a solicitud del Presidente del Comité Técnico o de la mayoría de sus miembros;
 

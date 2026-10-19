@@ -17,13 +17,13 @@ source_sha256: 9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd
 
 # Artículo 50
 
-La solicitud que se someta a consideración del Comité Técnico, para proceder a la adjudicación directa, será elaborada por la Jefatura Delegacional de Servicios Administrativos y deberá contener, como mínimo, la siguiente información:
+La solicitud que se someta a consideración del [Comité Técnico](articulo-2.md), para proceder a la adjudicación directa, será elaborada por la Jefatura Delegacional de Servicios Administrativos y deberá contener, como mínimo, la siguiente información:
 
 I. Descripción detallada de los bienes;
 
 II. Motivación y fundamento legal del supuesto utilizado;
 
-III. En el caso de que se cuente con un posible adquirente, las condiciones de pago y una carta suscrita por éste o su representante legal, en la que manifieste bajo protesta de decir verdad, que REGLAMENTO DE LA LEY DEL SEGURO SOCIAL, EN MATERIA DE ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES ADJUDICADOS CON MOTIVO DE LA APLICACIÓN DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCIÓN en el caso de que se le adjudiquen los bienes, otorgará la garantía de seriedad y sostenimiento correspondiente;
+III. En el caso de que se cuente con un posible adquirente, las condiciones de pago y una carta suscrita por éste o su representante legal, en la que manifieste bajo protesta de decir verdad, que en el caso de que se le adjudiquen los bienes, otorgará la garantía de seriedad y sostenimiento correspondiente;
 
 IV. En su caso, la investigación de mercado o el análisis de costo beneficio, y
 

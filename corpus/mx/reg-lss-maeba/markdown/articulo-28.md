@@ -17,4 +17,4 @@ source_sha256: 9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd
 
 # Artículo 28
 
-La Delegación se abstendrá de aceptar cualquier propuesta o en su caso de formalizar alguna enajenación, cuando de la información proporcionada por autoridad competente, se tengan elementos para presumir que los recursos con los que se pagará el bien correspondiente, no tienen un origen lícito.
+La [Delegación](articulo-2.md) se abstendrá de aceptar cualquier propuesta o en su caso de formalizar alguna enajenación, cuando de la información proporcionada por autoridad competente, se tengan elementos para presumir que los recursos con los que se pagará el bien correspondiente, no tienen un origen lícito.

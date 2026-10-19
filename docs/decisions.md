@@ -1,5 +1,30 @@
 # Architecture decisions
 
+## 2026-10-18 — `reg-lss-maeba`: wrapped running header removed by reparse; adopts LSS Article 5 A
+
+The operator asked for the `reg-lss-macerf` treatment to be applied to `reg-lss-maeba`. Its glossary was held because its running header sat inside fraction III.
+
+**Cause and repair:**
+- **Cause.** The Diputados parser drops a running header by comparing whole source lines with the uppercased official title. maeba's header wraps onto two lines, so it leaked into 18 provisions, the Article 2 glossary among them.
+- **Repair.** The adapter now declares the two printed lines as `header_lines`. That is the existing mechanism, already tested by `configured_wrapped_running_header_never_enters_provision_text`. maeba was then reparsed with `pipeline`.
+- **Same source.** The retained PDF and the extracted text match the recorded hashes (`9816ce7f…`, `d8e21cb9…`). No source changed, and the furniture audit reports 0 findings.
+
+**Reparse diff:**
+- **Provision ids and fields.** All 67 ids are unchanged. No field other than `text` changed.
+- **Header leaks.** In 18 provisions the only change is the removed header.
+- **Transitory *noveno*.** It no longer ends with the "Dado en la Residencia del Poder Ejecutivo Federal… Rúbrica." block. The current parser has classified that block as enactment apparatus since 2026-07-25 (`is_enactment_signature`), after maeba's July parse. Another 37 regulations still carry such a block from their original parse; that is recorded debt, not changed here.
+- **References.** The 17 references and their targets are unchanged. Only their offsets, and the offset-bearing ids, shift by the removed text. No operator review or approval was bound to them.
+
+**Glossary:**
+- **Configuration.** Article 2 uses `auto_whole` with `additive_to: ["urn:lex-mx:federal:statute:lss:article:5-a"]`, as for macerf.
+- **Terms.** 10 terms, I–X, complete. None repeats a 5 A or 159 name.
+- **Usages.** 197 in all: 116 of its own terms and 81 of 5 A terms (`Instituto` 68, `Ley` 8, `Código` 5).
+
+**Result** (`link --all`, byte-identical to a disposable probe apart from the retrieval timestamp):
+- No other instrument changes. References stay at 35,880, and the rejected set is still the 8 accepted gaps.
+- 18 glossaries remain held.
+- The other header-leak holds (`reg-lgcc-rne`, `reg-lgeepa-maaa`, `-meia`, `-mpcca`, `-mretc`, `reg-lgs-investigacion`) are candidates for the same treatment.
+
 ## 2026-10-18 — `reg-lss-macerf` adopts LSS Article 5 A only (scoped `additive_to`)
 
 The operator named two targets to check against LSS Article 5 A: `reg-lss-macerf` and `regla/n29.pdf`.

@@ -19,4 +19,4 @@ source_sha256: 9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd
 
 El procedimiento de subasta pública inicia con la convocatoria y concluye con la notificación del fallo correspondiente.
 
-La subasta pública podrá realizarse de manera presencial o por medios electrónicos, en términos de las disposiciones del presente Reglamento.
+La subasta pública podrá realizarse de manera presencial o por medios electrónicos, en términos de las disposiciones del presente [Reglamento](articulo-2.md).

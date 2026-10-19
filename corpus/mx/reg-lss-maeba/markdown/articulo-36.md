@@ -17,4 +17,4 @@ source_sha256: 9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd
 
 # Artículo 36
 
-En caso de que para realizar la enajenación se contrate a un tercero especializado, la Delegación deberá contar previamente a la publicación de la convocatoria con el valor base de enajenación, y definir si éste se mantendrá en reserva.
+En caso de que para realizar la enajenación se contrate a un tercero especializado, la [Delegación](articulo-2.md) deberá contar previamente a la publicación de la convocatoria con el valor base de enajenación, y definir si éste se mantendrá en reserva.

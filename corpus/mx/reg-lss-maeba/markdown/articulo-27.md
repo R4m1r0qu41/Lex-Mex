@@ -17,6 +17,6 @@ source_sha256: 9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd
 
 # Artículo 27
 
-No podrá participar como postor en los procedimientos de enajenación, ningún servidor público del Instituto, valuadores, terceros especializados, ni sus cónyuges o parientes consanguíneos o por afinidad hasta el cuarto grado o civiles, o de terceros con los que dichos servidores tengan vínculos privados o de negocios.
+No podrá participar como postor en los procedimientos de enajenación, ningún servidor público del [Instituto](../../lss/markdown/articulo-5-A.md), valuadores, terceros especializados, ni sus cónyuges o parientes consanguíneos o por afinidad hasta el cuarto grado o civiles, o de terceros con los que dichos servidores tengan vínculos privados o de negocios.
 
-Las enajenaciones que se realicen en contravención a lo dispuesto en el párrafo anterior, serán nulas y deberá informarse al Órgano Interno de Control en el Instituto, en términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+Las enajenaciones que se realicen en contravención a lo dispuesto en el párrafo anterior, serán nulas y deberá informarse al Órgano Interno de Control en el Instituto, en términos de la [Ley](../../lss/markdown/articulo-5-A.md) Federal de Responsabilidades Administrativas de los Servidores Públicos.

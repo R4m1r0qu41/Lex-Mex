@@ -15,4 +15,4 @@ source_sha256: 9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd
 
 # SÉPTIMO
 
-Los bienes adjudicados a favor del Instituto a partir de la entrada en vigor del presente Reglamento que se encuentren en resguardo de las Subdelegaciones, deberán ser puestos bajo custodia de la Delegación a cuya circunscripción pertenezcan dentro de un plazo que no podrá exceder de 90 días hábiles, previa suscripción del acta de entrega recepción correspondiente, en los términos del presente Reglamento.
+Los bienes adjudicados a favor del [Instituto](../../lss/markdown/articulo-5-A.md) a partir de la entrada en vigor del presente [Reglamento](articulo-2.md) que se encuentren en resguardo de las [Subdelegaciones](articulo-2.md), deberán ser puestos bajo custodia de la [Delegación](articulo-2.md) a cuya circunscripción pertenezcan dentro de un plazo que no podrá exceder de 90 días hábiles, previa suscripción del acta de entrega recepción correspondiente, en los términos del presente Reglamento.

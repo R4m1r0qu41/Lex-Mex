@@ -15,4 +15,4 @@ source_sha256: 9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd
 
 # SEGUNDO
 
-Se derogan todas las disposiciones de carácter administrativo que se opongan al presente Reglamento. REGLAMENTO DE LA LEY DEL SEGURO SOCIAL, EN MATERIA DE ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES ADJUDICADOS CON MOTIVO DE LA APLICACIÓN DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCIÓN
+Se derogan todas las disposiciones de carácter administrativo que se opongan al presente [Reglamento](articulo-2.md).

@@ -17,4 +17,4 @@ source_sha256: 9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd
 
 # Artículo 33
 
-La convocatoria deberá emitirse dentro de los treinta días hábiles siguientes a aquel en que la Jefatura Delegacional de Servicios Administrativos hubiere recibido los bienes, previo cumplimiento de lo dispuesto en el artículo [10](articulo-10.md), del presente Reglamento, o del día en que se hubiere obtenido el nuevo avalúo en caso de que éste resulte necesario.
+La convocatoria deberá emitirse dentro de los treinta días hábiles siguientes a aquel en que la Jefatura Delegacional de Servicios Administrativos hubiere recibido los bienes, previo cumplimiento de lo dispuesto en el artículo [10](articulo-10.md), del presente [Reglamento](articulo-2.md), o del día en que se hubiere obtenido el nuevo avalúo en caso de que éste resulte necesario.

@@ -17,6 +17,6 @@ source_sha256: 9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd
 
 # Artículo 56
 
-En caso de que el postor en cuyo favor se hubiera adjudicado un bien, no cumpla con las obligaciones contraídas, perderá el importe de la garantía de seriedad y sostenimiento que hubiere constituido y la Delegación, a través de la Jefatura Delegacional de Servicios de Finanzas, lo aplicará de inmediato a favor del Instituto, lo cual se hará del conocimiento de dicho postor de conformidad con lo establecido en el Código.
+En caso de que el postor en cuyo favor se hubiera adjudicado un bien, no cumpla con las obligaciones contraídas, perderá el importe de la garantía de seriedad y sostenimiento que hubiere constituido y la [Delegación](articulo-2.md), a través de la Jefatura Delegacional de Servicios de Finanzas, lo aplicará de inmediato a favor del [Instituto](../../lss/markdown/articulo-5-A.md), lo cual se hará del conocimiento de dicho postor de conformidad con lo establecido en el [Código](../../lss/markdown/articulo-5-A.md).
 
-Por lo que respecta al bien, se realizará una nueva subasta en la forma y plazos que se señalan en este Reglamento.
+Por lo que respecta al bien, se realizará una nueva subasta en la forma y plazos que se señalan en este [Reglamento](articulo-2.md).

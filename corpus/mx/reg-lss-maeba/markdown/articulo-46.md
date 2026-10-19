@@ -19,6 +19,6 @@ source_sha256: 9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd
 
 La subasta a través de medios electrónicos tendrá una duración de ocho días hábiles, que empezará a partir de las 12:00 horas del primer día y concluirá a las 12:00 horas del octavo día y, en su caso, de cada una de las fechas que se señalen en la convocatoria. Para los efectos de este párrafo se entenderá que las 12:00 horas corresponden a la Zona Centro.
 
-En dicho periodo los postores presentarán sus ofertas iniciales, así como las subsecuentes. Para tal efecto, podrán verificar en la página del Instituto, todas las posturas que se vayan realizando, utilizando su clave de identificación de usuario, con la finalidad de constatar el desarrollo de la subasta.
+En dicho periodo los postores presentarán sus ofertas iniciales, así como las subsecuentes. Para tal efecto, podrán verificar en la página del [Instituto](../../lss/markdown/articulo-5-A.md), todas las posturas que se vayan realizando, utilizando su clave de identificación de usuario, con la finalidad de constatar el desarrollo de la subasta.
 
 De cada postura, se enviará mensaje que confirme al postor la recepción de ésta, en el que se señalará el importe ofrecido, la fecha y hora de dicho ofrecimiento, así como el bien de que se trate. Asimismo, el Instituto publicará en su página electrónica la clave de la postura y el monto ofrecido.

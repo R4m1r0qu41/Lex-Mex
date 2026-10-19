@@ -17,4 +17,4 @@ source_sha256: 9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd
 
 # Artículo 57
 
-En el caso de que el postor que hubiere adquirido los bienes muebles objeto de la subasta, no los retire en el plazo mencionado en el artículo [35](articulo-35.md), fracción V, contado a partir de que se ponga a su disposición, la Delegación lo informará a la Dirección Jurídica del Instituto, para que ésta emita la declaración de abandono a favor del Instituto, debiendo notificar dicha circunstancia al adquirente, para los efectos a que haya lugar.
+En el caso de que el postor que hubiere adquirido los bienes muebles objeto de la subasta, no los retire en el plazo mencionado en el artículo [35](articulo-35.md), fracción V, contado a partir de que se ponga a su disposición, la [Delegación](articulo-2.md) lo informará a la Dirección Jurídica del [Instituto](../../lss/markdown/articulo-5-A.md), para que ésta emita la declaración de abandono a favor del Instituto, debiendo notificar dicha circunstancia al adquirente, para los efectos a que haya lugar.

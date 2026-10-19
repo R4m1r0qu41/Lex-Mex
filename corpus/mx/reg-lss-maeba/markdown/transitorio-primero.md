@@ -15,4 +15,4 @@ source_sha256: 9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd
 
 # PRIMERO
 
-El presente Reglamento entrará en vigor a partir del día siguiente a su publicación en el Diario Oficial de la Federación.
+El presente [Reglamento](articulo-2.md) entrará en vigor a partir del día siguiente a su publicación en el Diario Oficial de la Federación.

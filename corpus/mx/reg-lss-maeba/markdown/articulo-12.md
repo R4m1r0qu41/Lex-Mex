@@ -17,4 +17,4 @@ source_sha256: 9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd
 
 # Artículo 12
 
-La Subdelegación integrará y pondrá a disposición de la Jefatura Delegacional de Servicios Administrativos una base de datos, en la que se identifiquen detalladamente los bienes recibidos para su administración y enajenación, de acuerdo a la naturaleza de los mismos, a efecto de que ésta incorpore la información correspondiente a la enajenación de los mismos.
+La [Subdelegación](articulo-2.md) integrará y pondrá a disposición de la Jefatura Delegacional de Servicios Administrativos una base de datos, en la que se identifiquen detalladamente los bienes recibidos para su administración y enajenación, de acuerdo a la naturaleza de los mismos, a efecto de que ésta incorpore la información correspondiente a la enajenación de los mismos.

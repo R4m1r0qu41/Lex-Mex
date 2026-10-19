@@ -146,6 +146,10 @@ send a Codex review packet.
 
 ## Current checkpoint
 
+2026-10-18 (maeba): a wrapped running header was removed by reparse
+(`header_lines`). `reg-lss-maeba` now has 10 terms and adopts LSS 5 A (197
+usages). 18 glossaries remain held.
+
 2026-10-18 (G3, first import): `reg-lss-macerf` adopts LSS Article 5 A only,
 through a provision-scoped `additive_to` entry. That gives 449 usages; its own
 terms are unchanged. `n29` (Prestaciones Médicas) is not in the corpus.

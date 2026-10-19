@@ -17,6 +17,6 @@ source_sha256: 9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd
 
 # Artículo 32
 
-La convocatoria para el procedimiento de enajenación de bienes inmuebles, deberá publicarse en el Diario Oficial de la Federación. Tratándose de la enajenación de bienes muebles, la convocatoria se fijará en un sitio visible de la Delegación y Subdelegación correspondiente.
+La convocatoria para el procedimiento de enajenación de bienes inmuebles, deberá publicarse en el Diario Oficial de la Federación. Tratándose de la enajenación de bienes muebles, la convocatoria se fijará en un sitio visible de la [Delegación](articulo-2.md) y [Subdelegación](articulo-2.md) correspondiente.
 
-En todos los casos, la Delegación deberá dar a conocer la convocatoria en la página electrónica del Instituto, el mismo día de su publicación en el Diario Oficial de la Federación o de que se fije en un sitio visible de la Delegación y Subdelegación correspondientes, en su caso.
+En todos los casos, la Delegación deberá dar a conocer la convocatoria en la página electrónica del [Instituto](../../lss/markdown/articulo-5-A.md), el mismo día de su publicación en el Diario Oficial de la Federación o de que se fije en un sitio visible de la Delegación y Subdelegación correspondientes, en su caso.

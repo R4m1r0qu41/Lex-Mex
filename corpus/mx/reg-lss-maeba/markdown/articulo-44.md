@@ -19,7 +19,7 @@ source_sha256: 9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd
 
 Los interesados en participar en una subasta pública en los términos de la presente Sección, deberán cumplir con los requisitos siguientes:
 
-I. Obtener su clave de identificación de usuario, a través de la página electrónica del Instituto, para lo cual deberán proporcionar los datos siguientes:
+I. Obtener su clave de identificación de usuario, a través de la página electrónica del [Instituto](../../lss/markdown/articulo-5-A.md), para lo cual deberán proporcionar los datos siguientes:
 
 a) Tratándose de personas físicas:
 
@@ -57,7 +57,7 @@ b) Tratándose de personas morales:
 
 Una vez revisada la información proporcionada por el interesado, la convocante le remitirá, a través del correo electrónico proporcionado por éste, la clave de identificación de usuario, para que pueda realizar su postura en los términos de la fracción III, de este artículo;
 
-II. Depositar la garantía de seriedad y sostenimiento, el cual se realizará mediante transferencia electrónica de fondos a través de las instituciones de crédito autorizadas por el Instituto para tales REGLAMENTO DE LA LEY DEL SEGURO SOCIAL, EN MATERIA DE ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES ADJUDICADOS CON MOTIVO DE LA APLICACIÓN DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCIÓN efectos, conforme a lo señalado en los artículos [24](articulo-24.md) y [25](articulo-25.md) de este Reglamento, el cual será el equivalente al 10% por ciento del valor fijado a los bienes en la convocatoria de que se trate.
+II. Depositar la garantía de seriedad y sostenimiento, el cual se realizará mediante transferencia electrónica de fondos a través de las instituciones de crédito autorizadas por el Instituto para tales efectos, conforme a lo señalado en los artículos [24](articulo-24.md) y [25](articulo-25.md) de este [Reglamento](articulo-2.md), el cual será el equivalente al 10% por ciento del valor fijado a los bienes en la convocatoria de que se trate.
 
 Las instituciones de crédito autorizadas enviarán a los postores por la misma vía, el comprobante de la operación realizada, el cual deberá ser impreso por el interesado para cualquier aclaración.
 

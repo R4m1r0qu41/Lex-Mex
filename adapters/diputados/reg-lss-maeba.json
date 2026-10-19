@@ -20,5 +20,16 @@
   },
   "allow_article_gaps": true,
   "formal_publication_urls": {},
-  "parent_instrument_id": "urn:lex-mx:federal:statute:lss"
+  "parent_instrument_id": "urn:lex-mx:federal:statute:lss",
+  "header_lines": [
+    "REGLAMENTO DE LA LEY DEL SEGURO SOCIAL, EN MATERIA DE ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES",
+    "ADJUDICADOS CON MOTIVO DE LA APLICACIÓN DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCIÓN"
+  ],
+  "glossary": {
+    "provision_suffix": ":article:2",
+    "style": "auto_whole",
+    "additive_to": [
+      "urn:lex-mx:federal:statute:lss:article:5-a"
+    ]
+  }
 }

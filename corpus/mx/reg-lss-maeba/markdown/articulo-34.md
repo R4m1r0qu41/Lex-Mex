@@ -17,4 +17,4 @@ source_sha256: 9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd
 
 # Artículo 34
 
-Los bienes objeto de la subasta podrán ser presentados físicamente por la Jefatura Delegacional de Servicios Administrativos en los lugares y horarios que se indiquen en la convocatoria, REGLAMENTO DE LA LEY DEL SEGURO SOCIAL, EN MATERIA DE ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES ADJUDICADOS CON MOTIVO DE LA APLICACIÓN DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCIÓN con independencia de la imagen digitalizada que de los mismos sea presentada en la página electrónica del Instituto.
+Los bienes objeto de la subasta podrán ser presentados físicamente por la Jefatura Delegacional de Servicios Administrativos en los lugares y horarios que se indiquen en la convocatoria, con independencia de la imagen digitalizada que de los mismos sea presentada en la página electrónica del [Instituto](../../lss/markdown/articulo-5-A.md).

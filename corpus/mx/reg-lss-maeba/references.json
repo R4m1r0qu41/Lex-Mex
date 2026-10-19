@@ -24,19 +24,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:13:reference:798-800:10:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:13:reference:619-621:10:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:13",
     "source_span": "10",
-    "start_char": 798,
-    "end_char": 800,
+    "start_char": 619,
+    "end_char": 621,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lss-maeba",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:10",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción IV",
-        "start_char": 802,
-        "end_char": 813
+        "start_char": 623,
+        "end_char": 634
       }
     ],
     "basis": "express_cross_reference",
@@ -47,19 +47,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:17:reference:830-832:11:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:17:reference:651-653:11:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:17",
     "source_span": "11",
-    "start_char": 830,
-    "end_char": 832,
+    "start_char": 651,
+    "end_char": 653,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lss-maeba",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:11",
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
         "text": "último párrafo",
-        "start_char": 802,
-        "end_char": 816
+        "start_char": 623,
+        "end_char": 637
       }
     ],
     "basis": "express_cross_reference",
@@ -157,11 +157,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:44:reference:1900-1902:24:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:44:reference:1721-1723:24:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:44",
     "source_span": "24",
-    "start_char": 1900,
-    "end_char": 1902,
+    "start_char": 1721,
+    "end_char": 1723,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lss-maeba",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:24",
     "qualifiers": [],
@@ -173,11 +173,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:44:reference:1905-1907:25:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:44:reference:1726-1728:25:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:44",
     "source_span": "25",
-    "start_char": 1905,
-    "end_char": 1907,
+    "start_char": 1726,
+    "end_char": 1728,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lss-maeba",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:25",
     "qualifiers": [],
