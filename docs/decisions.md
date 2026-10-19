@@ -1,5 +1,41 @@
 # Architecture decisions
 
+## 2026-10-19 — LIEPS glossary under its rulings: incisos, cross-references, lower-case usages
+
+**Why.** The 2026-10-19 operator rulings on LIEPS Article 3 (recorded below) need four pieces the glossary layer lacked:
+- an inciso locator on a term;
+- profile incisos and cross-references;
+- inciso anchors;
+- a reviewed lower-case usage form.
+
+**What.**
+- **`DefinedTerm.inciso`** (optional; `defined-term.schema.json` `inciso`, which requires `fraction`). An inciso term's span is its inciso, from its marker to the next marker or the end of the fraction. A parent term (`Tabacos labrados`, VIII) spans its whole fraction. So a usage inside the parent's span is not a usage of the parent, the usual own-definition exclusion.
+- **Profile `incisos`.**
+  - Each inciso is bound to its literal marker (`a)`) at a character offset, with disposition `definition` (terms), `non_definition`, or `cross_reference` (`refers_to` a fraction and inciso, which must define a term in the same profile).
+  - The listed markers must be exactly the fraction's markers, lettered in order. A marker is one at the start of the fraction body or of a paragraph, or after a sentence, so a reform that adds or removes an inciso fails extraction.
+  - A definition fraction may list only incisos (IX).
+- **`usage_form: "with_lowercase"`.** Usages also match the lower-case form, and the exact case wins a tie. The coverage record now carries the adapter's `usage_form`, which reg-lan's coverage gains as `quoted`. The form is admitted only with status `configured`.
+- **Inciso anchors.** An inciso term's Obsidian anchor is `f-viii-a` when its marker starts a paragraph. VIII c, which shares b's paragraph, links to the anchor of the paragraph that holds it (`f-viii-b`).
+  - This meets the ruling's "inciso-level anchors in the Markdown export" in the **Obsidian** export only, checked end to end in a scratch vault. Committed corpus Markdown has no block anchors and links to the whole note.
+- **LIEPS adapter.** `auto_whole` with a profile on I, VIII, IX and XXII per the rulings, and on XIX and XXXVIII (below), plus `usage_form: "with_lowercase"`.
+- **Strategy version.** It stays `glossary-extraction-2`: no existing extraction changes meaning. The corpus-wide relink changed only LIEPS, and reg-lan's coverage field.
+
+**Machine boundary readings, not rulings. Operator review needed:**
+- **XIX** is read as the whole printed name `Concentrados, polvos y jarabes, esencias o extractos de sabores, que permitan obtener bebidas saborizadas`. The shared comma rule gave `Concentrados`, whose 17 lower-case matches mixed in XVII's energy-drink concentrates and alcoholic-drink concentrates.
+- **XXXVIII** is read as `Videojuego con contenido violento, extremo o para adulto, no apto para personas menores de 18 años`, not the comma-cut `Videojuego con contenido violento`.
+- **XXII f)** `Turbosina y kerosenos` is kept as one term, as printed.
+
+**Measured.**
+- **Terms.** LIEPS goes from held to configured: 58 terms (39 fraction-level less IX's, plus 20 inciso terms) and 328 usages, of which 319 are lower case. References are unchanged (150; corpus 35,949). The 35 changed Markdown files differ only in link markup (161 links added, none lost).
+- **Different from the ruling's premise.** The ruling cited 39 lower-case `tabacos labrados`. Longest match sends 28 `otros tabacos labrados` to VIII c, so the parent `Tabacos labrados` gets 8.
+- **Questionable lower-case matches (about 11 of 319), for review:**
+  - `puro` (X, `biocombustible puro`);
+  - `alcohol isopropílico` (2-E, twice) and X's `alcohol tipo etanol anhidro`, which VI excludes;
+  - `gasolinas` in 2-E's chemistry text (twice) and `gasolina de alto octanaje` inside XXII e) `Gasavión`;
+  - `azúcar` as an ingredient (XIII, XXX, XXXI).
+  - Exact-case matches on old law titles in transitories (`Industrias del Azúcar, Alcohol…`, `Venta de Gasolina`) are the known title-prefix imprecision.
+- **Unchanged.** `defined-term.schema.json` is still documentation: no code validates terms against it.
+
 ## 2026-10-19 — Glossary grammar reads every fraction qualifier and accounts for every entry (`glossary-extraction-2`)
 
 **Why.** While preparing LIEPS (`XX BIS. Edulcorante`), a census found that the

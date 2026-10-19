@@ -36,6 +36,7 @@
       "type": "array",
       "items": { "$ref": "#/$defs/import" }
     },
+    "usage_form": { "type": "string", "enum": ["quoted", "with_lowercase"] },
     "term_count": { "type": "integer", "minimum": 0 },
     "usage_count": { "type": "integer", "minimum": 0 }
   },
@@ -92,7 +93,33 @@
             "properties": {
               "fraction": { "$ref": "#/$defs/fraction" },
               "disposition": { "type": "string", "enum": ["definition", "non_definition"] },
-              "terms": { "type": "array", "minItems": 1, "items": { "$ref": "#/$defs/span" } }
+              "terms": { "type": "array", "minItems": 1, "items": { "$ref": "#/$defs/span" } },
+              "incisos": {
+                "type": "array",
+                "minItems": 1,
+                "items": {
+                  "type": "object",
+                  "additionalProperties": false,
+                  "required": ["marker", "disposition"],
+                  "properties": {
+                    "marker": { "$ref": "#/$defs/span" },
+                    "disposition": {
+                      "type": "string",
+                      "enum": ["definition", "non_definition", "cross_reference"]
+                    },
+                    "terms": { "type": "array", "minItems": 1, "items": { "$ref": "#/$defs/span" } },
+                    "refers_to": {
+                      "type": "object",
+                      "additionalProperties": false,
+                      "required": ["fraction", "inciso"],
+                      "properties": {
+                        "fraction": { "$ref": "#/$defs/fraction" },
+                        "inciso": { "type": "string", "pattern": "^[a-z]$" }
+                      }
+                    }
+                  }
+                }
+              }
             }
           }
         },

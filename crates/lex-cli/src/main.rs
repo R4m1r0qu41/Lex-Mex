@@ -27,9 +27,9 @@ use lex_parse::{
     InstrumentContextPolicy, ReferenceOptions, audit_pdf, derive_article_temporal_determinations,
     detect_glossary, extract_doc, extract_glossaries, extract_html_text,
     extract_internal_references, extract_pdf, extract_quoted_term_usages, extract_references,
-    extract_term_usages, find_admitted_furniture, find_glossary_provision, parse_dcg,
-    parse_itf_dcg, repair_article_dates, repair_partial_repeals, repeal_placeholders,
-    unread_fractions, validate_corpus,
+    extract_term_usages, extract_term_usages_with_lowercase, find_admitted_furniture,
+    find_glossary_provision, parse_dcg, parse_itf_dcg, repair_article_dates,
+    repair_partial_repeals, repeal_placeholders, unread_fractions, validate_corpus,
 };
 use lex_source::{
     SourceConfig, SourceFormat, discover, fetch, fetch_annex, fetch_formal, load_batch_manifest,
@@ -2341,6 +2341,11 @@ fn extract_instrument_terms(
         glossaries,
         hold,
     } = select_glossary(context, provisions)?;
+    let usage_form = context
+        .config
+        .glossary
+        .as_ref()
+        .and_then(|glossary| glossary.usage_form.clone());
     let coverage = |imports, usage_count| lex_core::GlossaryCoverage {
         schema_version: lex_core::SCHEMA_VERSION.to_owned(),
         strategy_version: lex_core::GLOSSARY_STRATEGY_VERSION.to_owned(),
@@ -2351,6 +2356,7 @@ fn extract_instrument_terms(
         glossaries: glossaries.clone(),
         hold: hold.clone(),
         imports,
+        usage_form: usage_form.clone(),
         term_count: terms.len(),
         usage_count,
     };
@@ -2368,14 +2374,10 @@ fn extract_instrument_terms(
         .collect::<Result<Vec<_>>>()?;
     let mut term_sets: Vec<&[lex_core::DefinedTerm]> = vec![&terms];
     term_sets.extend(adopted.iter().map(Vec::as_slice));
-    let usage_form = context
-        .config
-        .glossary
-        .as_ref()
-        .and_then(|glossary| glossary.usage_form.as_deref());
-    let usages = match usage_form {
+    let usages = match usage_form.as_deref() {
         None => extract_term_usages(provisions, &term_sets)?,
         Some("quoted") => extract_quoted_term_usages(provisions, &term_sets)?,
+        Some("with_lowercase") => extract_term_usages_with_lowercase(provisions, &term_sets)?,
         Some(other) => bail!("unsupported glossary usage_form {other:?}"),
     };
     let imports = additive_to

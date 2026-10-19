@@ -14,6 +14,9 @@
     "end_char",
     "basis"
   ],
+  "dependentRequired": {
+    "inciso": ["fraction"]
+  },
   "properties": {
     "schema_version": {
       "type": "string",
@@ -38,6 +41,10 @@
     "fraction": {
       "type": "string",
       "pattern": "^[IVXLCDM]+(?: (?:Bis|Ter|Quáter|Quater|Quinquies|Sexies|Septies|Octies|Nonies|Decies))?$"
+    },
+    "inciso": {
+      "type": "string",
+      "pattern": "^[a-z]$"
     },
     "start_char": {
       "type": "integer",

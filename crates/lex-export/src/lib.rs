@@ -89,11 +89,21 @@ pub fn term_targets(corpora: &[(&Corpus, &str)], targets: &LinkTargets) -> TermT
             let Some(note) = targets.get(&term.defining_provision_id) else {
                 continue;
             };
+            // An inciso that shares its paragraph with another (LIEPS VIII
+            // `…tabaco. c) Otros tabacos labrados…`) has no anchor of its
+            // own, so it links to the paragraph that holds it.
+            let anchor = Some(term_anchor(term))
+                .filter(|anchor| note.anchors.contains(anchor))
+                .or_else(|| {
+                    term.inciso
+                        .as_ref()
+                        .and_then(|_| containing_paragraph_anchor(corpus, term))
+                });
             output.insert(
                 term.id.clone(),
                 TermTarget {
                     note: note.clone(),
-                    anchor: Some(term_anchor(term)).filter(|anchor| note.anchors.contains(anchor)),
+                    anchor,
                 },
             );
         }
@@ -131,8 +141,31 @@ fn fraction_key(label: &str) -> String {
         .replace(' ', "-")
 }
 
+/// The emitted anchor of the paragraph that holds a term's definition.
+fn containing_paragraph_anchor(corpus: &Corpus, term: &lex_core::DefinedTerm) -> Option<String> {
+    let provision = corpus
+        .provisions
+        .iter()
+        .find(|provision| provision.id == term.defining_provision_id)?;
+    let mut offset = 0;
+    for (paragraph, anchor) in provision
+        .text
+        .split("\n\n")
+        .zip(paragraph_anchors(corpus, provision))
+    {
+        let end = offset + paragraph.chars().count();
+        if (offset..end).contains(&term.start_char) {
+            return anchor;
+        }
+        offset = end + 2;
+    }
+    None
+}
+
 fn term_anchor(term: &lex_core::DefinedTerm) -> String {
-    if let Some(fraction) = &term.fraction {
+    if let (Some(fraction), Some(inciso)) = (&term.fraction, &term.inciso) {
+        format!("f-{}-{inciso}", fraction_key(fraction))
+    } else if let Some(fraction) = &term.fraction {
         format!("f-{}", fraction_key(fraction))
     } else {
         let slug = term.id.rsplit(":term:").next().unwrap_or("term");
@@ -553,8 +586,9 @@ fn with_block_anchors(corpus: &Corpus, provision: &Provision, body: &str) -> Str
 }
 
 /// The one registry of block anchors a provision's note actually emits, per
-/// canonical paragraph: `f-<roman>` on fraction paragraphs and `t-<slug>` on
-/// definition entries that start a paragraph. An anchor that more than one
+/// canonical paragraph: `f-<roman>` on fraction paragraphs, `t-<slug>` on
+/// definition entries that start a paragraph, and `f-<roman>-<letter>` on a
+/// defining inciso that starts one. An anchor that more than one
 /// paragraph would carry (a fraction numeral repeated under different
 /// apartados) is not emitted at all, because a link to it could not identify
 /// one target. Links consult this registry and fall back to the whole note.
@@ -566,7 +600,9 @@ fn paragraph_anchors(corpus: &Corpus, provision: &Provision) -> Vec<Option<Strin
     .expect("static regex");
     let mut anchors_by_offset: HashMap<usize, String> = HashMap::new();
     for term in &corpus.terms {
-        if term.defining_provision_id == provision.id && term.fraction.is_none() {
+        if term.defining_provision_id == provision.id
+            && (term.fraction.is_none() || term.inciso.is_some())
+        {
             anchors_by_offset.insert(term.start_char, term_anchor(term));
         }
     }
@@ -1506,6 +1542,7 @@ mod tests {
             instrument_id: LRITF_INSTRUMENT_ID.to_owned(),
             defining_provision_id: glossary.id.clone(),
             fraction: Some(fraction.to_owned()),
+            inciso: None,
             start_char: start,
             end_char: end,
             basis: Basis::ExpressCrossReference,
@@ -1543,6 +1580,7 @@ mod tests {
             instrument_id: LRITF_INSTRUMENT_ID.to_owned(),
             defining_provision_id: glossary.id.clone(),
             fraction: Some("XX Bis".to_owned()),
+            inciso: None,
             start_char: 46,
             end_char: 75,
             basis: Basis::ExpressDefinition,
@@ -1556,6 +1594,47 @@ mod tests {
             terms[&corpus.terms[0].id].anchor.as_deref(),
             Some("f-xx-bis")
         );
+    }
+
+    #[test]
+    fn an_inciso_definition_links_to_its_inciso_or_the_paragraph_that_holds_it() {
+        // LIEPS 3 VIII, operator ruling 2026-10-19: each inciso links to its
+        // own anchor; `c)` shares `b)`'s paragraph, so it links there.
+        let mut glossary = sample_article("3");
+        glossary.text = "Se entiende por:\n\nVIII. Tabacos labrados y otros:\n\na) Cigarros, los \
+                         cigarros.\n\nb) Puros, los puros. c) Otros tabacos labrados, los demás."
+            .to_owned();
+        let chars: Vec<char> = glossary.text.chars().collect();
+        let at = |needle: &str| {
+            let byte = glossary.text.find(needle).unwrap();
+            glossary.text[..byte].chars().count()
+        };
+        let term = |name: &str, inciso: Option<&str>, start: usize| lex_core::DefinedTerm {
+            schema_version: SCHEMA_VERSION.to_owned(),
+            id: format!("{LRITF_INSTRUMENT_ID}:term:{name}"),
+            term: name.to_owned(),
+            instrument_id: LRITF_INSTRUMENT_ID.to_owned(),
+            defining_provision_id: glossary.id.clone(),
+            fraction: Some("VIII".to_owned()),
+            inciso: inciso.map(str::to_owned),
+            start_char: start,
+            end_char: chars.len(),
+            basis: Basis::ExpressDefinition,
+        };
+        let mut corpus = corpus_of(sample_instrument(), vec![glossary.clone()], Vec::new());
+        corpus.terms = vec![
+            term("tabacos-labrados", None, at("VIII.")),
+            term("cigarros", Some("a"), at("a)")),
+            term("puros", Some("b"), at("b)")),
+            term("otros-tabacos-labrados", Some("c"), at("c)")),
+        ];
+        let targets = link_targets(&[(&corpus, "lritf")]);
+        let terms = term_targets(&[(&corpus, "lritf")], &targets);
+        let anchor = |index: usize| terms[&corpus.terms[index].id].anchor.clone();
+        assert_eq!(anchor(0).as_deref(), Some("f-viii"));
+        assert_eq!(anchor(1).as_deref(), Some("f-viii-a"));
+        assert_eq!(anchor(2).as_deref(), Some("f-viii-b"));
+        assert_eq!(anchor(3).as_deref(), Some("f-viii-b"));
     }
 
     #[test]

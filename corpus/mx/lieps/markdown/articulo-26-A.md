@@ -17,6 +17,6 @@ source_sha256: 32639ede8448f91e6ddde556d4b8bceaf349b904bc21631f06e1c8a7a3d416f4
 
 # Artículo 26-A
 
-Las autoridades fiscales podrán requerir a los contribuyentes la información o documentación que sea necesaria para constatar el uso adecuado de los marbetes o precintos que les hayan sido entregados, para lo cual se les otorgará un plazo de 10 días, apercibiéndoles que, de no hacerlo en ese plazo, se les tendrá por desistidos de la solicitud de marbetes o precintos que, en su caso, hubieren formulado.
+Las autoridades fiscales podrán requerir a los contribuyentes la información o documentación que sea necesaria para constatar el uso adecuado de los [marbetes](articulo-3o.md) o [precintos](articulo-3o.md) que les hayan sido entregados, para lo cual se les otorgará un plazo de 10 días, apercibiéndoles que, de no hacerlo en ese plazo, se les tendrá por desistidos de la solicitud de marbetes o precintos que, en su caso, hubieren formulado.
 
 Artículo adicionado DOF 31-12-1999. Derogado DOF 01-01-2002. Adicionado DOF 01-10-2007

@@ -45,7 +45,7 @@ IFPE validation).
 | Provisions `not_analyzed` / `machine_accepted` / `lawyer_verified` / `review_required` | 48,039 / 20,240 / 2 / 1 |
 | Provisions with temporal status `unknown` | 46,720 |
 | Generated Markdown files under `corpus/mx` (incl. NOMs) | 68,757 |
-| Glossaries (`glossary-coverage.json`) configured / detected / held / none detected | 17 / 299 / 7 / 145 |
+| Glossaries (`glossary-coverage.json`) configured / detected / held / none detected | 18 / 299 / 6 / 145 |
 | NOM standards (separate boundary, not counted as instruments) | 32 |
 | Current Cámara laws and regulations covered | 452 of 453 (`egdf` excluded) |
 

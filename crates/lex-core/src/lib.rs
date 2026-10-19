@@ -1081,6 +1081,12 @@ pub struct DefinedTerm {
     /// qualified (`I Bis`, `VII Ter`).
     #[serde(default, skip_serializing_if = "Option::is_none")]
     pub fraction: Option<String>,
+    /// Letter of the inciso that defines the term inside its fraction
+    /// (`a` for LIEPS Article 3 VIII `a) Cigarros, …`); the span is then the
+    /// inciso's, not the whole fraction's. Only a reviewed glossary profile
+    /// reads incisos.
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub inciso: Option<String>,
     /// Unicode character span of the complete definition entry (including
     /// its continuation paragraphs) within the defining provision's text.
     pub start_char: usize,
@@ -1179,6 +1185,10 @@ pub struct GlossaryCoverage {
     pub hold: Option<GlossaryHoldRecord>,
     /// The `additive_to` entries whose terms usages also resolve against.
     pub imports: Vec<GlossaryImportCoverage>,
+    /// The adapter's reviewed usage form (`quoted`, `with_lowercase`), when
+    /// usages are not matched the default way.
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub usage_form: Option<String>,
     pub term_count: usize,
     pub usage_count: usize,
 }
@@ -1301,17 +1311,53 @@ pub struct GlossaryProfileEntry {
     /// (`“Ratificación”, “adhesión” o “aceptación”: …`).
     #[serde(default, skip_serializing_if = "Vec::is_empty")]
     pub terms: Vec<GlossarySpan>,
+    /// Every inciso of a definition fraction, in order, when its incisos
+    /// define terms of their own (LIEPS Article 3 VIII `Tabacos labrados`:
+    /// `a) Cigarros`, `b) Puros`…). The fraction's own terms, if any, are
+    /// parents defined by the whole fraction.
+    #[serde(default, skip_serializing_if = "Vec::is_empty")]
+    pub incisos: Vec<GlossaryProfileInciso>,
+}
+
+/// One inciso of a profiled fraction.
+#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize)]
+#[serde(deny_unknown_fields)]
+pub struct GlossaryProfileInciso {
+    /// The inciso's literal marker (`a)`) at its offset; the inciso runs to
+    /// the next marker or the end of the fraction.
+    pub marker: GlossarySpan,
+    pub disposition: GlossaryEntryDisposition,
+    /// A definition's terms, in order.
+    #[serde(default, skip_serializing_if = "Vec::is_empty")]
+    pub terms: Vec<GlossarySpan>,
+    /// The inciso a cross-reference points to, which must define a term in
+    /// the same profile (LIEPS XXII `d) Gasolina, el producto definido
+    /// conforme a… la fracción IX, inciso b)`).
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub refers_to: Option<GlossaryIncisoLocator>,
+}
+
+/// A fraction and inciso of the same glossary provision.
+#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize)]
+#[serde(deny_unknown_fields)]
+pub struct GlossaryIncisoLocator {
+    pub fraction: String,
+    pub inciso: String,
 }
 
 #[derive(Debug, Clone, Copy, PartialEq, Eq, Serialize, Deserialize)]
 #[serde(rename_all = "snake_case")]
 pub enum GlossaryEntryDisposition {
-    /// The fraction defines the listed terms; its whole entry is each
-    /// term's definition span.
+    /// The fraction or inciso defines the listed terms; its whole entry is
+    /// each term's definition span. A fraction whose incisos define terms
+    /// may list none of its own.
     Definition,
-    /// The fraction is substantive text inside the glossary, not a
+    /// The fraction or inciso is substantive text inside the glossary, not a
     /// definition, and yields no term.
     NonDefinition,
+    /// The inciso only points to a term another inciso defines, so the term
+    /// is defined once; it yields no term.
+    CrossReference,
 }
 
 /// Literal text at a character offset of the glossary provision's text.
@@ -1427,6 +1473,9 @@ impl GlossaryCoverage {
             matches!(glossary.method.as_str(), "established_pass" | "wider_pass")
         };
         match self.status {
+            _ if self.usage_form.is_some() && self.status != GlossaryCoverageStatus::Configured => {
+                false
+            }
             GlossaryCoverageStatus::Configured => {
                 !self.glossaries.is_empty()
                     && self.hold.is_none()
@@ -2329,6 +2378,7 @@ mod glossary_coverage_tests {
             }],
             hold: None,
             imports: Vec::new(),
+            usage_form: None,
             term_count: record.terms.len(),
             usage_count: record.usages.len(),
         }

@@ -108,7 +108,9 @@ pub struct GlossaryConfig {
     pub additive_to: Vec<String>,
     /// How a usage is written. Absent: the bare term or a singular/plural
     /// variant. `quoted`: only the exact term between a matched pair of
-    /// quotes, as `reg-lan` writes `"Ley"`.
+    /// quotes, as `reg-lan` writes `"Ley"`. `with_lowercase`: as absent, or
+    /// either in lower case, as LIEPS writes `tabacos labrados` (a reviewed
+    /// option, operator ruling 2026-10-19).
     #[serde(default, skip_serializing_if = "Option::is_none")]
     pub usage_form: Option<String>,
     /// Further glossary provisions of the same instrument, each defining a

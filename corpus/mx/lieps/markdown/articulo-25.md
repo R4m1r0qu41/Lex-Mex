@@ -21,7 +21,7 @@ Las autoridades fiscales podrán determinar presuntivamente que se enajenaron lo
 
 I.- (Se deroga). Fracción derogada DOF 26-12-1990
 
-II.- 12.3%, en cerveza. III.- 5%, en las bebidas alcohólicas que se añejen en barricas que se encuentren en lugares cubiertos, 10% cuando dichas barricas se encuentren en lugares descubiertos y 1.5% cuando el añejamiento se realice por otros sistemas; y 1% por su envasamiento. Fracción reformada DOF 31-12-1998, 31-12-1999, 01-01-2002
+II.- 12.3%, en [cerveza](articulo-3o.md). III.- 5%, en las [bebidas alcohólicas](articulo-3o.md) que se añejen en barricas que se encuentren en lugares cubiertos, 10% cuando dichas barricas se encuentren en lugares descubiertos y 1.5% cuando el añejamiento se realice por otros sistemas; y 1% por su envasamiento. Fracción reformada DOF 31-12-1998, 31-12-1999, 01-01-2002
 
 IV.- (Se deroga). Fracción derogada DOF 28-12-1989. Adicionada DOF 26-12-1990. Derogada DOF 31-12-1998
 

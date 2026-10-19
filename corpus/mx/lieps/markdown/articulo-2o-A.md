@@ -17,7 +17,7 @@ source_sha256: 32639ede8448f91e6ddde556d4b8bceaf349b904bc21631f06e1c8a7a3d416f4
 
 # Artículo 2o-A
 
-Sin perjuicio de lo dispuesto en el artículo [2](articulo-2o.md)o., fracción I, incisos D), y H), en la enajenación de gasolinas y diésel en el territorio nacional, se aplicarán las cuotas siguientes:
+Sin perjuicio de lo dispuesto en el artículo [2](articulo-2o.md)o., fracción I, incisos D), y H), en la enajenación de [gasolinas](articulo-3o.md) y [diésel](articulo-3o.md) en el territorio nacional, se aplicarán las cuotas siguientes:
 
 I. Gasolina menor a 91 octanos 59.1390 centavos por litro. Fracción reformada DOF 09-12-2019 Cuota de la fracción actualizada por acuerdo DOF 24-12-2015, 27-12-2016, 29-12-2017, 28-12-2018, 24-12-2019, 24-12-2020, 23-12-2021, 28-12-2022, 22-12-2023, 27-12-2024, 22-12-2025
 

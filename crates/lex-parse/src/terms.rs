@@ -191,6 +191,7 @@ fn terms_from_entries(
             instrument_id: provision.instrument_id.clone(),
             defining_provision_id: provision.id.clone(),
             fraction: entry.fraction,
+            inciso: entry.inciso,
             start_char: entry.start_char,
             end_char: entry.end_char,
             basis: Basis::ExpressDefinition,
@@ -368,6 +369,7 @@ fn established_glossary(provision: &Provision) -> Result<EstablishedGlossary> {
         entries.push(GlossaryEntry {
             term: term.to_owned(),
             fraction: Some(normalize_fraction_label(numeral)),
+            inciso: None,
             start_char: text[..*numeral_start].chars().count(),
             end_char: text[..entry_end].chars().count(),
         });
@@ -533,8 +535,48 @@ fn wider_fraction_starts(provision: &Provision) -> Option<Vec<(usize, usize, Str
 
 /// How a profile reads one fraction instead of the shared term rule.
 enum EntryHint<'a> {
-    Terms(Vec<&'a str>),
+    /// The fraction's own terms, defined by the whole fraction, and the
+    /// incisos that define terms of their own.
+    Terms {
+        terms: Vec<&'a str>,
+        incisos: Vec<IncisoHint<'a>>,
+    },
     NonDefinition,
+}
+
+/// An inciso that defines terms, with its byte span in the provision text.
+struct IncisoHint<'a> {
+    letter: String,
+    start: usize,
+    end: usize,
+    terms: Vec<&'a str>,
+}
+
+/// An inciso marker inside a fraction: `a)` at the start of the fraction
+/// body or of a paragraph, or after a sentence (`…tabaco. c) Otros…`).
+static INCISO_MARKER: LazyLock<Regex> = LazyLock::new(|| {
+    Regex::new(r"(?:^|\n\n|\.[ \t]+)([a-z])\)[ \t]").expect("inciso marker regex must compile")
+});
+
+/// A profile term must be a plain span inside `[start, end)`.
+fn plain_span_at(
+    span: &GlossarySpan,
+    at: usize,
+    start: usize,
+    end: usize,
+    place: &str,
+) -> Result<()> {
+    if at < start
+        || at + span.text.len() > end
+        || span.text.trim() != span.text
+        || span.text.contains('\n')
+    {
+        bail!(
+            "profile term {:?} is not a plain span inside {place}",
+            span.text
+        );
+    }
+    Ok(())
 }
 
 /// Read an `auto_whole` glossary under its reviewed profile. The profile
@@ -602,41 +644,44 @@ fn profiled_glossary_entries(
         };
         let body_start = starts[index].1;
         let end = starts.get(index + 1).map_or(text.len(), |next| next.0);
+        let fraction_place = format!("fraction {}", entry.fraction);
         let hint = match entry.disposition {
-            GlossaryEntryDisposition::NonDefinition if entry.terms.is_empty() => {
+            GlossaryEntryDisposition::NonDefinition
+                if entry.terms.is_empty() && entry.incisos.is_empty() =>
+            {
                 EntryHint::NonDefinition
             }
-            GlossaryEntryDisposition::Definition if !entry.terms.is_empty() => {
+            GlossaryEntryDisposition::Definition
+                if !entry.terms.is_empty() || !entry.incisos.is_empty() =>
+            {
                 let terms = entry
                     .terms
                     .iter()
                     .map(|span| {
-                        let at = byte_at(span)?;
-                        if at < body_start
-                            || at + span.text.len() > end
-                            || span.text.trim() != span.text
-                            || span.text.contains('\n')
-                        {
-                            bail!(
-                                "profile term {:?} is not a plain span inside fraction {}",
-                                span.text,
-                                entry.fraction
-                            );
-                        }
+                        plain_span_at(span, byte_at(span)?, body_start, end, &fraction_place)?;
                         Ok(span.text.as_str())
                     })
                     .collect::<Result<Vec<_>>>()?;
-                EntryHint::Terms(terms)
+                let incisos = profiled_incisos(text, entry, body_start, end, &byte_at)?;
+                if terms.is_empty() && incisos.iter().all(|inciso| inciso.terms.is_empty()) {
+                    bail!(
+                        "glossary profile fraction {} defines no term",
+                        entry.fraction
+                    );
+                }
+                EntryHint::Terms { terms, incisos }
             }
             _ => bail!(
-                "glossary profile fraction {}: a definition lists its terms and a non-definition none",
+                "glossary profile fraction {}: a definition lists its terms or incisos, a non-definition neither",
                 entry.fraction
             ),
         };
+
         if hints.insert(index, hint).is_some() {
             bail!("glossary profile names fraction {} twice", entry.fraction);
         }
     }
+    check_cross_references(profile)?;
     complete_entries(text, &starts, &hints).map_err(|(_, reason)| {
         anyhow::anyhow!(
             "glossary at {} is incomplete under its profile: {reason}",
@@ -645,10 +690,110 @@ fn profiled_glossary_entries(
     })
 }
 
+/// A cross-reference names an inciso that defines a term in the same
+/// profile, so a term is defined once and every pointer to it resolves.
+fn check_cross_references(profile: &GlossaryProfile) -> Result<()> {
+    for entry in &profile.entries {
+        for inciso in &entry.incisos {
+            let Some(target) = &inciso.refers_to else {
+                continue;
+            };
+            let defines = profile.entries.iter().any(|candidate| {
+                candidate.fraction == target.fraction
+                    && candidate.incisos.iter().any(|other| {
+                        other.marker.text == format!("{})", target.inciso)
+                            && other.disposition == GlossaryEntryDisposition::Definition
+                    })
+            });
+            if !defines {
+                bail!(
+                    "glossary profile fraction {} inciso {:?} refers to {} {}), which defines no term",
+                    entry.fraction,
+                    inciso.marker.text,
+                    target.fraction,
+                    target.inciso
+                );
+            }
+        }
+    }
+    Ok(())
+}
+
+/// Read a profiled fraction's incisos. The listed markers must be exactly
+/// the fraction's inciso markers, lettered `a)`, `b)`… in order, so an inciso
+/// added or removed by a reform fails extraction; each inciso runs to the
+/// next marker or the end of the fraction.
+fn profiled_incisos<'a>(
+    text: &str,
+    entry: &'a lex_core::GlossaryProfileEntry,
+    body_start: usize,
+    end: usize,
+    byte_at: &dyn Fn(&GlossarySpan) -> Result<usize>,
+) -> Result<Vec<IncisoHint<'a>>> {
+    if entry.incisos.is_empty() {
+        return Ok(Vec::new());
+    }
+    let found: Vec<usize> = INCISO_MARKER
+        .captures_iter(&text[body_start..end])
+        .map(|captures| body_start + captures.get(1).expect("letter").start())
+        .collect();
+    let listed = entry
+        .incisos
+        .iter()
+        .map(|inciso| byte_at(&inciso.marker))
+        .collect::<Result<Vec<_>>>()?;
+    let lettered = entry
+        .incisos
+        .iter()
+        .zip('a'..='z')
+        .all(|(inciso, letter)| inciso.marker.text == format!("{letter})"));
+    if listed != found || !lettered {
+        bail!(
+            "glossary profile fraction {} does not list exactly its incisos a), b)… in order",
+            entry.fraction
+        );
+    }
+    let mut incisos = Vec::new();
+    for (index, inciso) in entry.incisos.iter().enumerate() {
+        let start = listed[index];
+        let inciso_end = listed.get(index + 1).copied().unwrap_or(end);
+        let letter = inciso.marker.text.trim_end_matches(')').to_owned();
+        let place = format!("fraction {} inciso {letter})", entry.fraction);
+        match inciso.disposition {
+            GlossaryEntryDisposition::Definition
+                if !inciso.terms.is_empty() && inciso.refers_to.is_none() =>
+            {
+                let terms = inciso
+                    .terms
+                    .iter()
+                    .map(|span| {
+                        plain_span_at(span, byte_at(span)?, start, inciso_end, &place)?;
+                        Ok(span.text.as_str())
+                    })
+                    .collect::<Result<Vec<_>>>()?;
+                incisos.push(IncisoHint {
+                    letter,
+                    start,
+                    end: inciso_end,
+                    terms,
+                });
+            }
+            GlossaryEntryDisposition::NonDefinition
+                if inciso.terms.is_empty() && inciso.refers_to.is_none() => {}
+            GlossaryEntryDisposition::CrossReference
+                if inciso.terms.is_empty() && inciso.refers_to.is_some() => {}
+            _ => bail!(
+                "glossary profile {place}: a definition lists its terms, a cross-reference its target, a non-definition neither"
+            ),
+        }
+    }
+    Ok(incisos)
+}
+
 /// Each fraction's parsing key is its base value and qualifier rank (none,
 /// `Bis`, `Ter`, `Quáter`…); the label, its qualifier in title case, is kept
-/// as the entry's fraction. An unqualified fraction follows the previous base; a qualified one repeats
-/// the base with the next qualifier, so `I, I Bis, I Bis` and `I, I Ter`
+/// as the entry's fraction. An unqualified fraction follows the previous
+/// base; a qualified one repeats the base with the next qualifier, so `I, I Bis, I Bis` and `I, I Ter`
 /// both break the sequence.
 fn check_fraction_sequence(
     starts: &[(usize, usize, String)],
@@ -780,7 +925,7 @@ fn complete_entries(
                 ),
             ));
         }
-        let mut push_term = |term: &str| {
+        let mut push_term = |term: &str, inciso: Option<&str>, from: usize, to: usize| {
             if !slugs.insert(slug(term)) {
                 return Err((
                     GlossaryHoldCode::RepeatedTerm,
@@ -790,20 +935,17 @@ fn complete_entries(
             entries.push(GlossaryEntry {
                 term: term.to_owned(),
                 fraction: Some(numeral.to_owned()),
-                start_char: text[..start].chars().count(),
-                end_char: text[..end].chars().count(),
+                inciso: inciso.map(str::to_owned),
+                start_char: text[..from].chars().count(),
+                end_char: text[..to].chars().count(),
             });
             Ok(())
         };
-        match hints.get(&index) {
-            Some(EntryHint::NonDefinition) => continue,
-            Some(EntryHint::Terms(terms)) => {
-                for term in terms {
-                    push_term(term)?;
-                }
-                continue;
+        if let Some(hint) = hints.get(&index) {
+            for (term, inciso, from, to) in hinted_terms(hint, start, end) {
+                push_term(term, inciso, from, to)?;
             }
-            None => {}
+            continue;
         }
         if placeholder(index, body) {
             repeal_placeholders.push(numeral.to_owned());
@@ -820,16 +962,41 @@ fn complete_entries(
                 ),
             ));
         }
-        push_term(entry_term(
-            numeral,
-            body,
-            delimiter.ok_or_else(no_term_delimiter)?,
-        )?)?;
+        push_term(
+            entry_term(numeral, body, delimiter.ok_or_else(no_term_delimiter)?)?,
+            None,
+            start,
+            end,
+        )?;
     }
     Ok(WiderGlossary {
         entries,
         repeal_placeholders,
     })
+}
+
+/// The terms a profile hint defines, each with its inciso letter and byte
+/// span: a fraction's own terms span the whole fraction `[start, end)`.
+fn hinted_terms<'a>(
+    hint: &'a EntryHint,
+    start: usize,
+    end: usize,
+) -> Vec<(&'a str, Option<&'a str>, usize, usize)> {
+    let EntryHint::Terms { terms, incisos } = hint else {
+        return Vec::new();
+    };
+    let mut read: Vec<_> = terms.iter().map(|term| (*term, None, start, end)).collect();
+    for inciso in incisos {
+        for term in &inciso.terms {
+            read.push((
+                *term,
+                Some(inciso.letter.as_str()),
+                inciso.start,
+                inciso.end,
+            ));
+        }
+    }
+    read
 }
 
 /// The plain term before an entry's delimiter, or why the entry has none.
@@ -953,6 +1120,7 @@ fn is_repealed_fraction_placeholder(term: &str) -> bool {
 struct GlossaryEntry {
     term: String,
     fraction: Option<String>,
+    inciso: Option<String>,
     start_char: usize,
     end_char: usize,
 }
@@ -993,6 +1161,7 @@ fn mixed_fraction_entries(provision: &Provision) -> Result<Vec<GlossaryEntry>> {
         result.push(GlossaryEntry {
             term,
             fraction: Some(normalize_fraction_label(fraction)),
+            inciso: None,
             start_char: provision.text[..*start].chars().count(),
             end_char: provision.text[..end].chars().count(),
         });
@@ -1013,6 +1182,7 @@ fn fraction_entries(provision: &Provision) -> Result<Vec<GlossaryEntry>> {
             entries.push(GlossaryEntry {
                 term,
                 fraction: Some(normalize_fraction_label(&captures[1])),
+                inciso: None,
                 start_char,
                 end_char,
             });
@@ -1050,6 +1220,7 @@ fn colon_entries(provision: &Provision) -> Vec<GlossaryEntry> {
             Some(term) => entries.push(GlossaryEntry {
                 term: term.to_owned(),
                 fraction: None,
+                inciso: None,
                 start_char,
                 end_char,
             }),
@@ -1093,6 +1264,7 @@ fn roman_colon_entries(provision: &Provision) -> Result<Vec<GlossaryEntry>> {
         entries.push(GlossaryEntry {
             term: term.clone(),
             fraction: Some(normalize_fraction_label(fraction)),
+            inciso: None,
             start_char: text[..*byte_start].chars().count(),
             end_char: text[..byte_end].chars().count(),
         });
@@ -1165,6 +1337,7 @@ fn quoted_respectively_entries(provision: &Provision) -> Result<Vec<GlossaryEntr
         .map(|term| GlossaryEntry {
             term,
             fraction: None,
+            inciso: None,
             start_char,
             end_char,
         })
@@ -1183,10 +1356,40 @@ pub fn extract_term_usages(
     provisions: &[Provision],
     term_sets: &[&[DefinedTerm]],
 ) -> Result<Vec<TermUsage>> {
+    Ok(term_usages(provisions, term_sets, false))
+}
+
+/// [`extract_term_usages`], where each term also matches in lower case
+/// (`tabacos labrados` for `Tabacos labrados`). An adapter opts in with
+/// `usage_form: "with_lowercase"` after review, for an instrument whose
+/// running text writes its defined terms in lower case (LIEPS); the
+/// exact-case form still wins a tie.
+pub fn extract_term_usages_with_lowercase(
+    provisions: &[Provision],
+    term_sets: &[&[DefinedTerm]],
+) -> Result<Vec<TermUsage>> {
+    Ok(term_usages(provisions, term_sets, true))
+}
+
+fn term_usages(
+    provisions: &[Provision],
+    term_sets: &[&[DefinedTerm]],
+    lowercase: bool,
+) -> Vec<TermUsage> {
     let mut candidates: Vec<(String, &DefinedTerm)> = Vec::new();
     for set in term_sets {
         for term in *set {
-            for variant in term_variants(&term.term) {
+            let variants = term_variants(&term.term);
+            let lower: Vec<String> = if lowercase {
+                variants
+                    .iter()
+                    .map(|variant| variant.to_lowercase())
+                    .filter(|variant| !variants.contains(variant))
+                    .collect()
+            } else {
+                Vec::new()
+            };
+            for variant in variants.into_iter().chain(lower) {
                 candidates.push((variant, term));
             }
         }
@@ -1199,7 +1402,7 @@ pub fn extract_term_usages(
     for provision in provisions {
         usages.extend(provision_usages(provision, &candidates));
     }
-    Ok(usages)
+    usages
 }
 
 fn provision_usages(
@@ -2530,6 +2733,7 @@ mod tests {
             fraction: fraction.to_owned(),
             disposition,
             terms,
+            incisos: Vec::new(),
         }
     }
 
@@ -2896,5 +3100,234 @@ mod tests {
         assert_eq!(lex_core::fraction_qualifier_rank("QUÁTER"), Some(3));
         assert_eq!(lex_core::fraction_qualifier_rank("Decies"), Some(9));
         assert_eq!(lex_core::fraction_qualifier_rank("Quintus"), None);
+    }
+
+    const INCISOS: &str = "Para los efectos de esta Ley se entiende por: I. Cerveza, la bebida.\n\n\
+         II. Tabacos labrados y otros: Párrafo reformado DOF 07-11-2025\n\n\
+         a) Cigarros, los cigarros.\n\n\
+         b) Puros, los puros. c) Otros tabacos labrados, los demás.\n\n\
+         III. Para los efectos del artículo 2o. se entenderá por:\n\n\
+         a) Gasolina, combustible.\n\n\
+         b) Diésel, combustible.\n\n\
+         IV. Combustibles fósiles:\n\n\
+         a) Propano, gas.\n\n\
+         b) Gasolina, el producto definido en la fracción III, inciso a) de este artículo.\n\n\
+         V. Marbete, el signo.";
+
+    fn inciso(
+        marker: GlossarySpan,
+        disposition: lex_core::GlossaryEntryDisposition,
+        terms: Vec<GlossarySpan>,
+        refers_to: Option<(&str, &str)>,
+    ) -> lex_core::GlossaryProfileInciso {
+        lex_core::GlossaryProfileInciso {
+            marker,
+            disposition,
+            terms,
+            refers_to: refers_to.map(|(fraction, inciso)| lex_core::GlossaryIncisoLocator {
+                fraction: fraction.to_owned(),
+                inciso: inciso.to_owned(),
+            }),
+        }
+    }
+
+    /// LIEPS Article 3's shape, operator rulings 2026-10-19: a parent with
+    /// defining incisos (VIII), incisos without a parent term (IX), and a
+    /// cross-reference that defines nothing (XXII d).
+    fn inciso_entries(text: &str) -> Vec<GlossaryProfileEntry> {
+        use lex_core::GlossaryEntryDisposition::{CrossReference, Definition};
+        let at = |anchor: &str, literal: &str| span(text, anchor, literal);
+        vec![
+            GlossaryProfileEntry {
+                incisos: vec![
+                    inciso(
+                        at("a) Cigarros", "a)"),
+                        Definition,
+                        vec![at("a) Cigarros", "Cigarros")],
+                        None,
+                    ),
+                    inciso(
+                        at("b) Puros", "b)"),
+                        Definition,
+                        vec![at("b) Puros", "Puros")],
+                        None,
+                    ),
+                    inciso(
+                        at("c) Otros", "c)"),
+                        Definition,
+                        vec![at("c) Otros tabacos labrados", "Otros tabacos labrados")],
+                        None,
+                    ),
+                ],
+                ..entry(
+                    "II",
+                    Definition,
+                    vec![at("II. Tabacos labrados", "Tabacos labrados")],
+                )
+            },
+            GlossaryProfileEntry {
+                incisos: vec![
+                    inciso(
+                        at("a) Gasolina", "a)"),
+                        Definition,
+                        vec![at("a) Gasolina", "Gasolina")],
+                        None,
+                    ),
+                    inciso(
+                        at("b) Diésel", "b)"),
+                        Definition,
+                        vec![at("b) Diésel", "Diésel")],
+                        None,
+                    ),
+                ],
+                ..entry("III", Definition, Vec::new())
+            },
+            GlossaryProfileEntry {
+                incisos: vec![
+                    inciso(
+                        at("a) Propano", "a)"),
+                        Definition,
+                        vec![at("a) Propano", "Propano")],
+                        None,
+                    ),
+                    inciso(
+                        at("b) Gasolina, el", "b)"),
+                        CrossReference,
+                        Vec::new(),
+                        Some(("III", "a")),
+                    ),
+                ],
+                ..entry(
+                    "IV",
+                    Definition,
+                    vec![at("IV. Combustibles fósiles", "Combustibles fósiles")],
+                )
+            },
+        ]
+    }
+
+    fn inciso_terms(
+        text: &str,
+        entries: Vec<GlossaryProfileEntry>,
+    ) -> anyhow::Result<Vec<lex_core::DefinedTerm>> {
+        let glossary = provision(STATUTE_ID, "article:3", text);
+        let hint = profile(text, entries, Vec::new());
+        extract_glossaries(&[(&glossary, GlossaryStyle::AutoWhole, Some(&hint))])
+    }
+
+    #[test]
+    fn profile_reads_parent_and_inciso_terms_with_inciso_spans() {
+        let terms = inciso_terms(INCISOS, inciso_entries(INCISOS)).unwrap();
+        let chars: Vec<char> = INCISOS.chars().collect();
+        let read: Vec<(String, String, String, String)> = terms
+            .iter()
+            .map(|term| {
+                (
+                    term.term.clone(),
+                    term.fraction.clone().unwrap_or_default(),
+                    term.inciso.clone().unwrap_or_default(),
+                    chars[term.start_char..term.end_char].iter().collect(),
+                )
+            })
+            .collect();
+        let named: Vec<(&str, &str, &str)> = read
+            .iter()
+            .map(|(term, fraction, inciso, _)| (term.as_str(), fraction.as_str(), inciso.as_str()))
+            .collect();
+        assert_eq!(
+            named,
+            [
+                ("Cerveza", "I", ""),
+                ("Tabacos labrados", "II", ""),
+                ("Cigarros", "II", "a"),
+                ("Puros", "II", "b"),
+                ("Otros tabacos labrados", "II", "c"),
+                ("Gasolina", "III", "a"),
+                ("Diésel", "III", "b"),
+                ("Combustibles fósiles", "IV", ""),
+                ("Propano", "IV", "a"),
+                ("Marbete", "V", ""),
+            ]
+        );
+        // The parent spans its whole fraction; an inciso only itself, even
+        // when it shares a paragraph (`b) Puros… c) Otros…`).
+        assert!(read[1].3.starts_with("II. Tabacos") && read[1].3.contains("c) Otros"));
+        assert_eq!(read[3].3, "b) Puros, los puros. ");
+        assert!(
+            read[4]
+                .3
+                .starts_with("c) Otros tabacos labrados, los demás.")
+        );
+        assert!(!read[4].3.contains("III."));
+    }
+
+    #[test]
+    fn profile_incisos_fail_closed_on_drift_and_dangling_references() {
+        use lex_core::GlossaryEntryDisposition::{CrossReference, Definition};
+        // An inciso the profile does not list (a reform added `c)`).
+        let mut missing = inciso_entries(INCISOS);
+        missing[0].incisos.pop();
+        let error = inciso_terms(INCISOS, missing).unwrap_err();
+        assert!(
+            error
+                .to_string()
+                .contains("does not list exactly its incisos"),
+            "{error}"
+        );
+        // A cross-reference to an inciso that defines nothing.
+        let mut dangling = inciso_entries(INCISOS);
+        dangling[2].incisos[1].refers_to = Some(lex_core::GlossaryIncisoLocator {
+            fraction: "IV".to_owned(),
+            inciso: "b".to_owned(),
+        });
+        let error = inciso_terms(INCISOS, dangling).unwrap_err();
+        assert!(error.to_string().contains("defines no term"), "{error}");
+        // A term outside its inciso.
+        let mut outside = inciso_entries(INCISOS);
+        outside[0].incisos[1].terms = vec![span(INCISOS, "a) Cigarros", "Cigarros")];
+        let error = inciso_terms(INCISOS, outside).unwrap_err();
+        assert!(
+            error.to_string().contains("not a plain span inside"),
+            "{error}"
+        );
+        // A cross-reference that also lists terms.
+        let mut both = inciso_entries(INCISOS);
+        both[2].incisos[1].disposition = CrossReference;
+        both[2].incisos[1].terms = vec![span(INCISOS, "b) Gasolina, el", "Gasolina")];
+        assert!(inciso_terms(INCISOS, both).is_err());
+        // A definition fraction with neither terms nor incisos.
+        let mut empty = inciso_entries(INCISOS);
+        empty[1].incisos.clear();
+        empty[1].disposition = Definition;
+        assert!(inciso_terms(INCISOS, empty).is_err());
+    }
+
+    #[test]
+    fn lower_case_usages_match_only_when_the_adapter_opts_in() {
+        let terms = inciso_terms(INCISOS, inciso_entries(INCISOS)).unwrap();
+        let body = provision(
+            STATUTE_ID,
+            "article:5",
+            "Los tabacos labrados y los Tabacos labrados pagan; la cerveza y los cigarros también.",
+        );
+        let spans = |usages: Vec<lex_core::TermUsage>| -> Vec<String> {
+            usages.into_iter().map(|usage| usage.span).collect()
+        };
+        assert_eq!(
+            spans(extract_term_usages(std::slice::from_ref(&body), &[&terms]).unwrap()),
+            ["Tabacos labrados"]
+        );
+        assert_eq!(
+            spans(
+                super::extract_term_usages_with_lowercase(std::slice::from_ref(&body), &[&terms])
+                    .unwrap()
+            ),
+            [
+                "tabacos labrados",
+                "Tabacos labrados",
+                "cerveza",
+                "cigarros"
+            ]
+        );
     }
 }

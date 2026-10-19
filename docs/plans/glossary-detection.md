@@ -146,6 +146,11 @@ send a Codex review packet.
 
 ## Current checkpoint
 
+2026-10-19 (LIEPS): profile incisos and cross-references, `DefinedTerm.inciso`,
+inciso anchors (Obsidian only) and `usage_form: "with_lowercase"` release LIEPS
+(58 terms, 328 usages); 6 holds remain. The XIX, XXXVIII and XXII f) term boundaries
+and about 11 lower-case matches await operator review. See `docs/decisions.md`.
+
 2026-10-19 (`glossary-extraction-2`): every glossary grammar reads every fraction
 qualifier (`Bis`… `Decies`, any case, `N. Bis.`), and the established pass starts
 a fraction after a DOF note, reads an off-delimiter entry by its own delimiter, and
@@ -247,20 +252,13 @@ auto-detection gains a wider fallback pass").
 
 ## Next action
 
-`glossary-extraction-2` is done (it unblocks LIEPS's `XX BIS`). Next is LIEPS under the
-2026-10-19 operator rulings (see `docs/decisions.md`). It needs four things:
-- an optional inciso locator on `DefinedTerm` and in its schema;
-- inciso-level term spans and cross-reference non-definitions in the profile;
-- inciso anchors in the Markdown export, falling back where two incisos share a
-  paragraph (VIII b and c);
-- a reviewed lower-case usage option.
-
-Then:
+LIEPS is done (operator review pending on three term boundaries and the
+lower-case matches listed in `docs/decisions.md`). Next:
+- lan, whose quoted terms keep their quotes and whose XXV nests `a.`/`b.` items;
 - ltfccg's chapter-heading leak, a parser fix;
 - the label and boundary holds (log, servinv-dcg-2013, reg-lftr-mcsre, ladua after
   its reparse; fi-dcg-2014 by re-ingesting the new CNBV edition);
 - the title-span usage filter, which also unblocks the meia and mpcca imports;
-- the 12 unread fractions (profiles or rulings) and lan's quoted terms, which keep
-  their quote characters and so never match a usage.
+- the 12 unread fractions (profiles or rulings).
 Operator rulings on glossary scope remain pending except `lss` (both 5 A and
 159, ruled 2026-10-18); G3 imports follow accepted originals and scope decisions.

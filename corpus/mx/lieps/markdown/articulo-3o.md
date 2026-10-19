@@ -17,11 +17,11 @@ source_sha256: 32639ede8448f91e6ddde556d4b8bceaf349b904bc21631f06e1c8a7a3d416f4
 
 # Artículo 3o
 
-Para los efectos de esta Ley se entiende por: I. Bebidas con contenido alcohólico, las bebidas alcohólicas y las bebidas refrescantes, de acuerdo con lo siguiente:
+Para los efectos de esta Ley se entiende por: I. Bebidas con contenido alcohólico, las [bebidas alcohólicas](articulo-3o.md) y las [bebidas refrescantes](articulo-3o.md), de acuerdo con lo siguiente:
 
 a) Bebidas alcohólicas, las que a la temperatura de 15° centígrados tengan una graduación alcohólica de más de 3°G.L., hasta 55°G.L., incluyendo el aguardiente y a los concentrados de bebidas alcohólicas aun cuando tengan una graduación alcohólica mayor.
 
-b) Bebidas refrescantes, las elaboradas con un mínimo de 50% a base de vino de mesa, producto de la fermentación natural de frutas, pudiéndose adicionar agua, bióxido de carbono o agua carbonatada, jugo de frutas, extracto de frutas, aceites esenciales, ácido cítrico, azúcar, ácido benzoico o ácido sórbico o sus sales como conservadores, así como aquéllas que se elaboran de destilados alcohólicos diversos de los antes señalados.
+b) Bebidas refrescantes, las elaboradas con un mínimo de 50% a base de vino de mesa, producto de la fermentación natural de frutas, pudiéndose adicionar agua, bióxido de carbono o agua carbonatada, jugo de frutas, extracto de frutas, aceites esenciales, ácido cítrico, [azúcar](articulo-3o.md), ácido benzoico o ácido sórbico o sus sales como conservadores, así como aquéllas que se elaboran de destilados alcohólicos diversos de los antes señalados.
 
 II. Cerveza, la bebida fermentada, elaborada con malta de cebada, lúpulo, levadura y agua o con infusiones de cualquier semilla farinácea procedente de gramíneas o leguminosas, raíces o frutos feculentos o azúcares como adjuntos de la malta, con adición de lúpulo o sucedáneos de éste.
 
@@ -31,7 +31,7 @@ IV. Marbete, el signo distintivo de control fiscal y sanitario que puede ser fí
 
 V. Precinto, el signo distintivo de control fiscal y sanitario, que se adhiere a los recipientes que contengan bebidas alcohólicas con capacidad que exceda a 5,000 mililitros. Fracción reformada DOF 01-12-2004
 
-VI. Alcohol, la solución acuosa de etanol con las impurezas que la acompañan, con graduación mayor de 55°G.L., a una temperatura de 15°C. No queda comprendido el etanol para uso automotriz. Fracción reformada DOF 18-11-2015
+VI. Alcohol, la solución acuosa de etanol con las impurezas que la acompañan, con graduación mayor de 55°G.L., a una temperatura de 15°C. No queda comprendido el [etanol para uso automotriz](articulo-3o.md). Fracción reformada DOF 18-11-2015
 
 VII. Alcohol desnaturalizado, la solución acuosa de etanol con las impurezas que la acompañan, con una graduación mayor de 55°G.L., a una temperatura de 15°C, con la adición de las sustancias desnaturalizantes autorizadas por la Secretaría de Salud. No queda comprendido el etanol para uso automotriz. Fracción reformada DOF 18-11-2015
 
@@ -45,15 +45,15 @@ d) Otros productos que contengan nicotina, los que contengan nicotina ya sea nat
 
 IX. Para los efectos de lo dispuesto en los artículos [2](articulo-2o.md)o., fracción I, incisos D) y H), y 2o.-A de esta Ley se entenderá por:
 
-a) Combustibles automotrices: gasolinas, diésel, combustibles no fósiles o la mezcla de cualquiera de los combustibles mencionados.
+a) Combustibles automotrices: [gasolinas](articulo-3o.md), [diésel](articulo-3o.md), [combustibles no fósiles](articulo-3o.md) o la mezcla de cualquiera de los combustibles mencionados.
 
 b) Gasolina, combustible líquido que se puede obtener del proceso de refinación del petróleo crudo o mediante procesos alternativos que pueden utilizar como insumo materias primas que tuvieron su origen en el petróleo formado por la mezcla de hidrocarburos líquidos volátiles, principalmente parafinas ramificadas, aromáticos, naftenos y olefinas, pudiendo contener otros compuestos provenientes de otras fuentes, que se clasifica en función del número de octano.
 
 c) Diésel, combustible líquido que puede obtenerse del proceso de refinación del petróleo crudo o mediante procesos alternativos que pueden utilizar como insumo materias primas que tuvieron su origen en el petróleo, formado por la mezcla compleja de hidrocarburos, principalmente parafinas no ramificadas, pudiendo contener otros compuestos provenientes de otras fuentes, con independencia del uso al que se destine.
 
-d) Combustibles no fósiles, combustibles o componentes de combustibles que no se obtienen o derivan de un proceso de destilación de petróleo crudo o del procesamiento de gas natural. Fracción reformada DOF 11-12-2013, 18-11-2015, 09-12-2019
+d) Combustibles no fósiles, combustibles o componentes de combustibles que no se obtienen o derivan de un proceso de destilación de petróleo crudo o del procesamiento de [gas natural](articulo-3o.md). Fracción reformada DOF 11-12-2013, 18-11-2015, 09-12-2019
 
-X. Etanol para uso automotriz, alcohol tipo etanol anhidro con contenido de agua menor o igual a 1 por ciento y que cumpla con las especificaciones de calidad y características como biocombustible puro, que emita la autoridad competente. Fracción reformada DOF 11-12-2013, 18-11-2015, 09-12-2019
+X. Etanol para uso automotriz, [alcohol](articulo-3o.md) tipo etanol anhidro con contenido de agua menor o igual a 1 por ciento y que cumpla con las especificaciones de calidad y características como biocombustible [puro](articulo-3o.md), que emita la autoridad competente. Fracción reformada DOF 11-12-2013, 18-11-2015, 09-12-2019
 
 XI. (Se deroga). Fracción derogada DOF 30-12-2002. Adicionada DOF 23-12-2005. Derogada DOF 09-12-2019
 
@@ -69,7 +69,7 @@ En las permutas y pagos en especie, el impuesto especial sobre producción y ser
 
 XIII. Mieles incristalizables, el producto residual de la fabricación de azúcar, cuando referido a 85° brix a 20° centígrados, los azúcares fermentables expresados en glucosa no excedan del 61%. Fracción reformada DOF 30-12-2002, 31-12-2003
 
-XIV. Red pública de telecomunicaciones, la red de telecomunicaciones a través de la cual se explotan comercialmente servicios de telecomunicaciones. La red no comprende los equipos terminales de telecomunicaciones de los usuarios ni las redes de telecomunicaciones que se encuentren más allá del punto de conexión terminal. Fracción reformada DOF 30-12-2002. Derogada DOF 31-12-2003. Adicionada DOF 27-11-2009
+XIV. Red pública de telecomunicaciones, la [red de telecomunicaciones](articulo-3o.md) a través de la cual se explotan comercialmente servicios de telecomunicaciones. La red no comprende los [equipos terminales de telecomunicaciones](articulo-3o.md) de los usuarios ni las redes de telecomunicaciones que se encuentren más allá del punto de conexión terminal. Fracción reformada DOF 30-12-2002. Derogada DOF 31-12-2003. Adicionada DOF 27-11-2009
 
 XV. Red de telecomunicaciones, el sistema integrado por medios de transmisión, tales como canales o circuitos que utilicen bandas de frecuencias del espectro radioeléctrico, enlaces satelitales, cableados, redes de transmisión eléctrica o cualquier otro medio de transmisión, así como, en su caso, centrales, dispositivos de conmutación o cualquier equipo necesario. Fracción reformada DOF 30-12-2002, 31-12-2003. Derogada DOF 27-12-2006. Adicionada DOF 27-11-2009
 
@@ -79,9 +79,9 @@ XVII. Bebidas energetizantes, las bebidas no alcohólicas adicionadas con la mez
 
 Se consideran concentrados, polvos y jarabes para preparar bebidas energetizantes, aquéllos que por dilución permiten obtener bebidas energetizantes con las características señaladas en el párrafo anterior. Fracción adicionada DOF 19-11-2010
 
-XVIII. Bebidas saborizadas, las bebidas no alcohólicas elaboradas por la disolución en agua de cualquier tipo de azúcares o edulcorantes y que pueden incluir ingredientes adicionales tales como saborizantes naturales, artificiales o sintéticos, adicionados o no, de jugo, pulpa o néctar, de frutas o de verduras o de legumbres, de sus concentrados o extractos y otros aditivos para alimentos, y que pueden estar o no carbonatadas. Fracción adicionada DOF 11-12-2013. Reformada DOF 07-11-2025
+XVIII. Bebidas saborizadas, las bebidas no alcohólicas elaboradas por la disolución en agua de cualquier tipo de azúcares o [edulcorantes](articulo-3o.md) y que pueden incluir ingredientes adicionales tales como saborizantes naturales, artificiales o sintéticos, adicionados o no, de jugo, pulpa o néctar, de frutas o de verduras o de legumbres, de sus concentrados o extractos y otros aditivos para alimentos, y que pueden estar o no carbonatadas. Fracción adicionada DOF 11-12-2013. Reformada DOF 07-11-2025
 
-XIX. Concentrados, polvos y jarabes, esencias o extractos de sabores, que permitan obtener bebidas saborizadas, a los productos con o sin edulcorantes o saboreadores, naturales, artificiales o sintéticos, adicionados o no, de jugo, pulpa o néctar, de frutas, de verduras o legumbres y otros aditivos para alimentos. Fracción adicionada DOF 11-12-2013
+XIX. Concentrados, polvos y jarabes, esencias o extractos de sabores, que permitan obtener [bebidas saborizadas](articulo-3o.md), a los productos con o sin edulcorantes o saboreadores, naturales, artificiales o sintéticos, adicionados o no, de jugo, pulpa o néctar, de frutas, de verduras o legumbres y otros aditivos para alimentos. Fracción adicionada DOF 11-12-2013
 
 XX. Azúcares, a los monosacáridos, disacáridos y polisacáridos, siempre que en este último caso se utilicen como edulcorantes con aporte calórico. Fracción adicionada DOF 11-12-2013
 
@@ -111,7 +111,7 @@ j) Coque de Carbón, combustible sólido carbonoso formado por la destilación d
 
 k) Carbón Mineral, roca sedimentaria utilizada como combustible sólido, compuesto principalmente por carbono y otros elementos en cantidades variables como hidrógeno, azufre, oxígeno y nitrógeno.
 
-l) Otros combustibles fósiles, cualquier otro derivado del petróleo, carbón mineral o gas natural que se destinen a un proceso de combustión y que no estén listados en los incisos anteriores. Fracción adicionada DOF 11-12-2013
+l) Otros combustibles fósiles, cualquier otro derivado del petróleo, [carbón mineral](articulo-3o.md) o gas natural que se destinen a un proceso de combustión y que no estén listados en los incisos anteriores. Fracción adicionada DOF 11-12-2013
 
 XXIII. Plaguicida, cualquier substancia o mezcla de substancias que se destina a controlar cualquier plaga, incluidos los vectores que transmiten las enfermedades humanas y de animales, las especies no deseadas que causen perjuicio o que interfieran con la producción agropecuaria y forestal, así como las substancias defoliantes y las desecantes. Fracción adicionada DOF 11-12-2013
 
@@ -145,4 +145,4 @@ XXXVII. Establecimientos de consumo final, a las cantinas, bares, cervecerías, 
 
 XXXVIII. Videojuego con contenido violento, extremo o para adulto, no apto para personas menores de 18 años, aquellos que se clasifiquen como tales por contener violencia intensa o escenas prolongadas de violencia intensa, derramamiento de sangre, contenido sexual o contenido sexual gráfico, lenguaje fuerte o apuestas con moneda real. Fracción adicionada DOF 07-11-2025
 
-XXXIX. Contenido adicional dentro del videojuego, todo contenido digital que complementa el videojuego por el que se paga una contraprestación, que pudiendo ser descargable o no, se utilice como elemento interactivo dentro del videojuego, como serían productos digitales o promocionales, que permitan mejorar la experiencia del adquirente, entre otros: nuevos escenarios, niveles, personajes, armas o modos de juegos. Fracción adicionada DOF 07-11-2025 Fe de erratas al artículo DOF 17-04-1981. Reformado DOF 31-12-1981, 31-12-1982, 31-12-1985, 28-12-1989, 26-12-1990, 20-12-1991, 20-07-1992, 03-12-1993, 28-12-1994, 29-12-1997, 29-05-1998, 31-12-1998, 31-12-1999, 01-01-2002
+XXXIX. Contenido adicional dentro del videojuego, todo contenido digital que complementa el videojuego por el que se paga una [contraprestación](articulo-3o.md), que pudiendo ser descargable o no, se utilice como elemento interactivo dentro del videojuego, como serían productos digitales o promocionales, que permitan mejorar la experiencia del adquirente, entre otros: nuevos escenarios, niveles, personajes, armas o modos de juegos. Fracción adicionada DOF 07-11-2025 Fe de erratas al artículo DOF 17-04-1981. Reformado DOF 31-12-1981, 31-12-1982, 31-12-1985, 28-12-1989, 26-12-1990, 20-12-1991, 20-07-1992, 03-12-1993, 28-12-1994, 29-12-1997, 29-05-1998, 31-12-1998, 31-12-1999, 01-01-2002

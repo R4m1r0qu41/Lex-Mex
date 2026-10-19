@@ -21,7 +21,7 @@ Al valor de los actos o actividades que a continuación se señalan, se aplicar�
 
 I. En la enajenación o, en su caso, en la importación de los siguientes bienes:
 
-A) Bebidas con contenido alcohólico y cerveza:
+A) Bebidas con contenido alcohólico y [cerveza](articulo-3o.md):
 
 1. Con una graduación alcohólica de hasta 14° G.L. .................................... 26.5% Numeral reformado DOF 31-12-2003, 11-12-2013
 
@@ -29,21 +29,21 @@ A) Bebidas con contenido alcohólico y cerveza:
 
 3. Con una graduación alcohólica de más de 20°G.L ...................................... 53% Numeral reformado DOF 31-12-2003, 11-12-2013
 
-B) Alcohol, alcohol desnaturalizado y mieles incristalizables. ................................. 50% Inciso reformado DOF 31-12-2003
+B) Alcohol, [alcohol desnaturalizado](articulo-3o.md) y [mieles incristalizables](articulo-3o.md). ................................. 50% Inciso reformado DOF 31-12-2003
 
 C) Tabacos labrados y otros:
 
 1. Cigarros. .................................................................................................. 200%
 
-2. Puros y otros tabacos labrados. .............................................................. 200%
+2. Puros y [otros tabacos labrados](articulo-3o.md). .............................................................. 200%
 
 3. Puros y otros tabacos labrados hechos enteramente a mano. ................. 32%
 
 4. Otros productos que contengan nicotina. ................................................ 100% Párrafo con numerales reformado DOF 27-12-2006, 07-11-2025
 
-Adicionalmente a las tasas establecidas en este numeral, se pagará una cuota de $1.1584 por cigarro enajenado o importado. Para los efectos de esta Ley se considera que el peso de un cigarro equivale a 0.75 gramos de tabaco, incluyendo el peso de otras sustancias con que esté mezclado el tabaco. También se considera que un cigarro contiene 8 miligramos de nicotina. Párrafo adicionado DOF 27-11-2009. Reformado DOF 19-11-2010 Cuota del párrafo actualizada por acuerdo DOF 24-12-2019, 24-12-2020, 23-12-2021, 28-12-2022, 22-12-2023, 27-12-2024 Párrafo reformado DOF 07-11-2025
+Adicionalmente a las tasas establecidas en este numeral, se pagará una cuota de $1.1584 por [cigarro](articulo-3o.md) enajenado o importado. Para los efectos de esta Ley se considera que el peso de un cigarro equivale a 0.75 gramos de tabaco, incluyendo el peso de otras sustancias con que esté mezclado el tabaco. También se considera que un cigarro contiene 8 miligramos de nicotina. Párrafo adicionado DOF 27-11-2009. Reformado DOF 19-11-2010 Cuota del párrafo actualizada por acuerdo DOF 24-12-2019, 24-12-2020, 23-12-2021, 28-12-2022, 22-12-2023, 27-12-2024 Párrafo reformado DOF 07-11-2025
 
-Tratándose de los tabacos labrados no considerados en el párrafo anterior, con excepción de puros y otros tabacos labrados hechos enteramente a mano, se aplicará la cuota mencionada en dicho párrafo al resultado de dividir el peso total de los tabacos labrados enajenados o importados, entre 0.75. Para tal efecto se deberá incluir el peso de otras sustancias con que esté mezclado el tabaco. No se deberá considerar el filtro ni el papel o cualquier otra sustancia que no contenga tabaco, con el que estén envueltos los referidos tabacos labrados. Tratándose de otros productos que contengan nicotina, se aplicará la referida cuota al resultado de dividir el contenido de nicotina que contengan dichos productos, entre 8, sin considerar cualquier otra sustancia que no contenga nicotina con la que estén elaborados. Párrafo adicionado DOF 27-11-2009. Reformado DOF 11-12-2013, 07-11-2025
+Tratándose de los [tabacos labrados](articulo-3o.md) no considerados en el párrafo anterior, con excepción de [puros](articulo-3o.md) y otros tabacos labrados hechos enteramente a mano, se aplicará la cuota mencionada en dicho párrafo al resultado de dividir el peso total de los tabacos labrados enajenados o importados, entre 0.75. Para tal efecto se deberá incluir el peso de otras sustancias con que esté mezclado el tabaco. No se deberá considerar el filtro ni el papel o cualquier otra sustancia que no contenga tabaco, con el que estén envueltos los referidos tabacos labrados. Tratándose de [otros productos que contengan nicotina](articulo-3o.md), se aplicará la referida cuota al resultado de dividir el contenido de nicotina que contengan dichos productos, entre 8, sin considerar cualquier otra sustancia que no contenga nicotina con la que estén elaborados. Párrafo adicionado DOF 27-11-2009. Reformado DOF 11-12-2013, 07-11-2025
 
 La cuota a que se refieren los párrafos anteriores, se actualizará anualmente y entrará en vigor a partir del 1 de enero de cada año, con el factor de actualización correspondiente al periodo comprendido desde el mes de diciembre del penúltimo año hasta el mes de diciembre inmediato anterior a aquél por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo [17-A](../../cff/markdown/articulo-17-A.md) del Código Fiscal de la Federación. La Secretaría de Hacienda y Crédito Público publicará el factor de actualización en el Diario Oficial de la Federación durante el mes de diciembre de cada año, así como la cuota actualizada, misma que se expresará hasta el diezmilésimo. Párrafo adicionado DOF 09-12-2019
 
@@ -69,9 +69,9 @@ Cuando la autoridad aduanera o fiscal, en ejercicio de sus facultades de comprob
 
 E) (Se deroga). Inciso derogado DOF 18-11-2015
 
-F) Bebidas energetizantes, así como concentrados, polvos y jarabes para preparar bebidas energetizantes ..................................................................................................... 25% Inciso derogado DOF 30-12-2002. Adicionado DOF 19-11-2010
+F) Bebidas energetizantes, así como concentrados, polvos y jarabes para preparar [bebidas energetizantes](articulo-3o.md) ..................................................................................................... 25% Inciso derogado DOF 30-12-2002. Adicionado DOF 19-11-2010
 
-G) Bebidas saborizadas; concentrados, polvos, jarabes, esencias o extractos de sabores, que al diluirse permitan obtener bebidas saborizadas; y jarabes o concentrados para preparar bebidas saborizadas que se expendan en envases abiertos utilizando aparatos automáticos, eléctricos o mecánicos, siempre que los bienes a que se refiere este inciso contengan cualquier tipo de azúcares o edulcorantes añadidos.
+G) Bebidas saborizadas; concentrados, polvos, jarabes, esencias o extractos de sabores, que al diluirse permitan obtener [bebidas saborizadas](articulo-3o.md); y jarabes o concentrados para preparar bebidas saborizadas que se expendan en envases abiertos utilizando aparatos automáticos, eléctricos o mecánicos, siempre que los bienes a que se refiere este inciso contengan cualquier tipo de [azúcares](articulo-3o.md) o [edulcorantes](articulo-3o.md) añadidos.
 
 Las cuotas aplicables serán de $3.0818 por litro cuando se trate de bebidas saborizadas que contengan cualquier tipo de azúcares añadidos y de $1.5000 por litro cuando contengan cualquier tipo de edulcorantes añadidos. Tratándose de concentrados, polvos, jarabes, esencias o extractos de sabores, el impuesto se calculará tomando en cuenta el número de litros de bebidas saborizadas que, de conformidad con las especificaciones del fabricante, se puedan obtener.
 
@@ -85,7 +85,7 @@ H) Combustibles Fósiles Cuota Unidad de medida
 
 2. Butano ......................................... 13.1025 centavos por litro.
 
-3. Gasolinas y gasavión .................. 17.7591 centavos por litro.
+3. Gasolinas y [gasavión](articulo-3o.md) .................. 17.7591 centavos por litro.
 
 4. Turbosina y otros kerosenos ....... 21.2108 centavos por litro. 5. Diesel ........................................... 21.5491 centavos por litro.
 
@@ -97,7 +97,7 @@ H) Combustibles Fósiles Cuota Unidad de medida
 
 9. Carbón mineral ............................ 47.1189 pesos por tonelada.
 
-10. Otros combustibles fósiles ......... 68.1134 pesos por tonelada de carbono que contenga el combustible. Cuotas del inciso H) actualizadas por acuerdo DOF 22-12-2014, 24-12-2015, 27-12-2016, 29-12-2017, 28-12-2018, 24-12-2019, 24-12-2020, 23-12-2021, 28-12-2022, 22-12-2023, 27-12-2024, 22-12-2025
+10. Otros [combustibles fósiles](articulo-3o.md) ......... 68.1134 pesos por tonelada de carbono que contenga el combustible. Cuotas del inciso H) actualizadas por acuerdo DOF 22-12-2014, 24-12-2015, 27-12-2016, 29-12-2017, 28-12-2018, 24-12-2019, 24-12-2020, 23-12-2021, 28-12-2022, 22-12-2023, 27-12-2024, 22-12-2025
 
 Tratándose de fracciones de las unidades de medida, la cuota se aplicará en la proporción que corresponda a dichas fracciones respecto de la unidad de medida de que se trate.
 
@@ -119,17 +119,17 @@ Tabla 1. Categorías de peligro de toxicidad aguda
 
 Categoría Categoría Categoría Categoría Categoría Vía de exposición 1 2 3 4 5 Oral (mg/kg) 5 50 300 2000 5000 Dérmica (mg/kg) 50 200 1000 2000 - Inhalatoria 100 500 2500 5000 Gases (ppmV) Inhalatoria 0,5 2 10 20 Vapores (mg/l) Inhalatoria 0,05 0,5 1 5 Polvos y nieblas (mg/l)
 
-La aplicación de la tabla se sujetará a lo dispuesto a la Norma Oficial Mexicana “NOM- 232-SSA1-2009, Plaguicidas: que establece los requisitos del envase, embalaje y etiquetado de productos grado técnico y para uso agrícola, forestal, pecuario, jardinería, urbano, industrial y doméstico”, publicada en el Diario Oficial de la Federación el 13 de abril de 2010, emitida por la autoridad competente. Inciso adicionado DOF 11-12-2013
+La aplicación de la tabla se sujetará a lo dispuesto a la Norma Oficial Mexicana “NOM- 232-SSA1-2009, [Plaguicidas](articulo-3o.md): que establece los requisitos del envase, embalaje y etiquetado de productos grado técnico y para uso agrícola, forestal, pecuario, jardinería, urbano, industrial y doméstico”, publicada en el Diario Oficial de la Federación el 13 de abril de 2010, emitida por la autoridad competente. Inciso adicionado DOF 11-12-2013
 
-J) Alimentos no básicos que se listan a continuación, con una densidad calórica de 275 kilocalorías o mayor por cada 100 gramos ........................................................... 8%
+J) Alimentos no básicos que se listan a continuación, con una [densidad calórica](articulo-3o.md) de 275 kilocalorías o mayor por cada 100 gramos ........................................................... 8%
 
 1. Botanas.
 
 2. Productos de confitería.
 
-3. Chocolate y demás productos derivados del cacao.
+3. Chocolate y demás productos [derivados del cacao](articulo-3o.md).
 
-4. Flanes y pudines.
+4. Flanes y [pudines](articulo-3o.md).
 
 5. Dulces de frutas y hortalizas.
 
@@ -161,13 +161,13 @@ La omisión en el pago del impuesto o del entero de las retenciones que, en su c
 
 Asimismo, el incumplimiento a las obligaciones a que se refiere el párrafo anterior y las fracciones III, inciso a) y IV, inciso a) del artículo [20-A](articulo-20-A.md) de esta Ley, dará lugar al bloqueo temporal del acceso al servicio digital del prestador de los servicios digitales, bloqueo que se realizará de conformidad con lo dispuesto en los artículos [18-H BIS](../../liva/markdown/articulo-18-H-BIS.md) a [18-H QUINTUS](../../liva/markdown/articulo-18-H-QUINTUS.md) de la Ley del Impuesto al Valor Agregado. Inciso derogado DOF 31-12-2003. Adicionado DOF 01-10-2007. Reformado DOF 27-11-2009, 07-11-2025
 
-C) Los que se proporcionen en territorio nacional a través de una o más redes públicas de telecomunicaciones. .............................................................................................. 3% Inciso adicionado DOF 27-11-2009
+C) Los que se proporcionen en territorio nacional a través de una o más [redes públicas de telecomunicaciones](articulo-3o.md). .............................................................................................. 3% Inciso adicionado DOF 27-11-2009
 
 D) Los que se proporcionen en territorio nacional que permitan el acceso o descarga de videojuegos con contenido violento, extremo o para adulto, no apto para personas menores de 18 años, proporcionados por residentes en el extranjero sin establecimiento en México y residentes en el país, en términos del artículo [18-B](../../liva/markdown/articulo-18-B.md), primer párrafo y fracción I de la Ley del Impuesto al Valor Agregado, en los siguientes supuestos: ............. 8% 1. El acceso o descarga permitido directamente por el prestador del servicio digital.
 
 2. El acceso o descarga permitido a través de plataformas digitales de intermediación a que se refieren los artículos [1](../../liva/markdown/articulo-1o.md)o.-A BIS y 18-B, fracción II de la Ley del Impuesto al Valor Agregado.
 
-Quedan comprendidos en este inciso los videojuegos con contenido violento, extremo o para adulto, no apto para personas menores de 18 años, cuyo acceso o descarga se realice sin el pago de una contraprestación, pero que oferten cualquier contenido adicional dentro del videojuego. En este caso, la tasa se aplicará sobre el precio pagado por el contenido adicional.
+Quedan comprendidos en este inciso los videojuegos con contenido violento, extremo o para adulto, no apto para personas menores de 18 años, cuyo acceso o descarga se realice sin el pago de una [contraprestación](articulo-3o.md), pero que oferten cualquier [contenido adicional dentro del videojuego](articulo-3o.md). En este caso, la tasa se aplicará sobre el precio pagado por el contenido adicional.
 
 Cuando el acceso o descarga a que se refiere este inciso, se realice mediante el pago de una membresía o suscripción, periódica o no, que dé acceso a un catálogo de videojuegos que incluya videojuegos con contenido violento, extremo o para adulto, no apto para personas menores de 18 años, ya sea exclusivamente o conjuntamente con otro tipo de contenido o servicio digital, la tasa se aplicará únicamente al precio que corresponda por el acceso o descarga de cada videojuego por el que se deba pagar el impuesto en términos de este inciso, siempre que en el comprobante respectivo se haga la separación de cada uno de ellos. Cuando no se haga la separación mencionada, la contraprestación cobrada se entenderá que corresponde a un 70% del monto de los servicios a que se refiere este inciso, en cuyo caso dicho impuesto no podrá ser menor que el que corresponda al servicio digital de videojuegos que se hubiera pagado de manera separada al precio de la membresía o suscripción. Inciso adicionado DOF 07-11-2025
 

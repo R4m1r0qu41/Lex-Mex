@@ -17,7 +17,7 @@ source_sha256: 32639ede8448f91e6ddde556d4b8bceaf349b904bc21631f06e1c8a7a3d416f4
 
 # Artículo 26
 
-Cuando el contribuyente sea omiso en presentar por más de tres veces en un mismo ejercicio las declaraciones a que se refiere el artículo [19](articulo-19.md) de esta Ley, tenga adeudos fiscales a su cargo, salvo que los contribuyentes celebren convenio con las autoridades fiscales para cubrir a plazos, ya sea mediante pago diferido o en parcialidades o los hayan impugnado mediante cualquier medio de defensa, no se compruebe el uso de los marbetes o precintos entregados previamente, o se compruebe el uso incorrecto de los mismos, así como cuando no exista relación entre el volumen producido, envasado o comercializado y la solicitud respectiva, las autoridades fiscales podrán no proporcionar los marbetes o precintos a que se refiere esta Ley.
+Cuando el contribuyente sea omiso en presentar por más de tres veces en un mismo ejercicio las declaraciones a que se refiere el artículo [19](articulo-19.md) de esta Ley, tenga adeudos fiscales a su cargo, salvo que los contribuyentes celebren convenio con las autoridades fiscales para cubrir a plazos, ya sea mediante pago diferido o en parcialidades o los hayan impugnado mediante cualquier medio de defensa, no se compruebe el uso de los [marbetes](articulo-3o.md) o [precintos](articulo-3o.md) entregados previamente, o se compruebe el uso incorrecto de los mismos, así como cuando no exista relación entre el volumen producido, envasado o comercializado y la solicitud respectiva, las autoridades fiscales podrán no proporcionar los marbetes o precintos a que se refiere esta Ley.
 
 Artículo reformado DOF 31-12-1982, 30-12-1983, 28-12-1989, 20-12-1991, 01-01-2002, 28-06-2006
 

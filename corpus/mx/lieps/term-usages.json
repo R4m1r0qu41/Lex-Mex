@@ -1,1 +1,2954 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2:term-usage:264-271",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:cerveza",
+    "span": "cerveza",
+    "start_char": 264,
+    "end_char": 271
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2:term-usage:685-708",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:alcohol-desnaturalizado",
+    "span": "alcohol desnaturalizado",
+    "start_char": 685,
+    "end_char": 708
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2:term-usage:711-734",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:mieles-incristalizables",
+    "span": "mieles incristalizables",
+    "start_char": 711,
+    "end_char": 734
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2:term-usage:966-988",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:otros-tabacos-labrados",
+    "span": "otros tabacos labrados",
+    "start_char": 966,
+    "end_char": 988
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2:term-usage:1070-1092",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:otros-tabacos-labrados",
+    "span": "otros tabacos labrados",
+    "start_char": 1070,
+    "end_char": 1092
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2:term-usage:1392-1399",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:cigarros",
+    "span": "cigarro",
+    "start_char": 1392,
+    "end_char": 1399
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2:term-usage:1483-1490",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:cigarros",
+    "span": "cigarro",
+    "start_char": 1483,
+    "end_char": 1490
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2:term-usage:1625-1632",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:cigarros",
+    "span": "cigarro",
+    "start_char": 1625,
+    "end_char": 1632
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2:term-usage:1897-1913",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:tabacos-labrados",
+    "span": "tabacos labrados",
+    "start_char": 1897,
+    "end_char": 1913
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2:term-usage:1971-1976",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:puros",
+    "span": "puros",
+    "start_char": 1971,
+    "end_char": 1976
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2:term-usage:1979-2001",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:otros-tabacos-labrados",
+    "span": "otros tabacos labrados",
+    "start_char": 1979,
+    "end_char": 2001
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2:term-usage:2123-2139",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:tabacos-labrados",
+    "span": "tabacos labrados",
+    "start_char": 2123,
+    "end_char": 2139
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2:term-usage:2410-2426",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:tabacos-labrados",
+    "span": "tabacos labrados",
+    "start_char": 2410,
+    "end_char": 2426
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2:term-usage:2442-2480",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:otros-productos-que-contengan-nicotina",
+    "span": "otros productos que contengan nicotina",
+    "start_char": 2442,
+    "end_char": 2480
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2:term-usage:6617-6639",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-energetizantes",
+    "span": "bebidas energetizantes",
+    "start_char": 6617,
+    "end_char": 6639
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2:term-usage:6926-6945",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-saborizadas",
+    "span": "bebidas saborizadas",
+    "start_char": 6926,
+    "end_char": 6945
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2:term-usage:6986-7005",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-saborizadas",
+    "span": "bebidas saborizadas",
+    "start_char": 6986,
+    "end_char": 7005
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2:term-usage:7179-7187",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:azucares",
+    "span": "azúcares",
+    "start_char": 7179,
+    "end_char": 7187
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2:term-usage:7190-7202",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:edulcorante",
+    "span": "edulcorantes",
+    "start_char": 7190,
+    "end_char": 7202
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2:term-usage:7282-7301",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-saborizadas",
+    "span": "bebidas saborizadas",
+    "start_char": 7282,
+    "end_char": 7301
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2:term-usage:7334-7342",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:azucares",
+    "span": "azúcares",
+    "start_char": 7334,
+    "end_char": 7342
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2:term-usage:7410-7422",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:edulcorante",
+    "span": "edulcorantes",
+    "start_char": 7410,
+    "end_char": 7422
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2:term-usage:7577-7596",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-saborizadas",
+    "span": "bebidas saborizadas",
+    "start_char": 7577,
+    "end_char": 7596
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2:term-usage:7805-7813",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:azucares",
+    "span": "azúcares",
+    "start_char": 7805,
+    "end_char": 7813
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2:term-usage:7816-7828",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:edulcorante",
+    "span": "edulcorantes",
+    "start_char": 7816,
+    "end_char": 7828
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2:term-usage:9125-9133",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:gasavion",
+    "span": "gasavión",
+    "start_char": 9125,
+    "end_char": 9133
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2:term-usage:9642-9662",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:combustibles-fosiles",
+    "span": "combustibles fósiles",
+    "start_char": 9642,
+    "end_char": 9662
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2:term-usage:12342-12353",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:plaguicida",
+    "span": "Plaguicidas",
+    "start_char": 12342,
+    "end_char": 12353
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2:term-usage:12736-12753",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:densidad-calorica",
+    "span": "densidad calórica",
+    "start_char": 12736,
+    "end_char": 12753
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2:term-usage:12939-12958",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:derivados-del-cacao",
+    "span": "derivados del cacao",
+    "start_char": 12939,
+    "end_char": 12958
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2:term-usage:12973-12980",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:pudin",
+    "span": "pudines",
+    "start_char": 12973,
+    "end_char": 12980
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2:term-usage:13510-13527",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:densidad-calorica",
+    "span": "densidad calórica",
+    "start_char": 13510,
+    "end_char": 13527
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2:term-usage:17525-17561",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:red-publica-de-telecomunicaciones",
+    "span": "redes públicas de telecomunicaciones",
+    "start_char": 17525,
+    "end_char": 17561
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2:term-usage:18603-18619",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:contraprestacion",
+    "span": "contraprestación",
+    "start_char": 18603,
+    "end_char": 18619
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2:term-usage:18648-18689",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:contenido-adicional-dentro-del-videojuego",
+    "span": "contenido adicional dentro del videojuego",
+    "start_char": 18648,
+    "end_char": 18689
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2:term-usage:19450-19466",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:contraprestacion",
+    "span": "contraprestación",
+    "start_char": 19450,
+    "end_char": 19466
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2-a:term-usage:101-110",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2-a",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:gasolina",
+    "span": "gasolinas",
+    "start_char": 101,
+    "end_char": 110
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2-a:term-usage:113-119",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2-a",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:diesel",
+    "span": "diésel",
+    "start_char": 113,
+    "end_char": 119
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2-a:term-usage:1893-1902",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2-a",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:gasolina",
+    "span": "gasolinas",
+    "start_char": 1893,
+    "end_char": 1902
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2-a:term-usage:1905-1911",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2-a",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:diesel",
+    "span": "diésel",
+    "start_char": 1905,
+    "end_char": 1911
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2-a:term-usage:2603-2612",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2-a",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:gasolina",
+    "span": "gasolinas",
+    "start_char": 2603,
+    "end_char": 2612
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2-a:term-usage:2615-2621",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2-a",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:diesel",
+    "span": "diésel",
+    "start_char": 2615,
+    "end_char": 2621
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2-a:term-usage:2863-2872",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2-a",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:gasolina",
+    "span": "gasolinas",
+    "start_char": 2863,
+    "end_char": 2872
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2-a:term-usage:2875-2881",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2-a",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:diesel",
+    "span": "diésel",
+    "start_char": 2875,
+    "end_char": 2881
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2-e:term-usage:140-166",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2-e",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:otros-combustibles-fosiles",
+    "span": "otros combustibles fósiles",
+    "start_char": 140,
+    "end_char": 166
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2-e:term-usage:1611-1620",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2-e",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:gasolina",
+    "span": "gasolinas",
+    "start_char": 1611,
+    "end_char": 1620
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2-e:term-usage:2285-2291",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2-e",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:diesel",
+    "span": "diésel",
+    "start_char": 2285,
+    "end_char": 2291
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2-e:term-usage:3617-3624",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2-e",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:propano",
+    "span": "propano",
+    "start_char": 3617,
+    "end_char": 3624
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2-e:term-usage:3892-3901",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2-e",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:gasolina",
+    "span": "gasolinas",
+    "start_char": 3892,
+    "end_char": 3901
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2-e:term-usage:4200-4207",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2-e",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:propano",
+    "span": "propano",
+    "start_char": 4200,
+    "end_char": 4207
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2-e:term-usage:4594-4601",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2-e",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:alcohol",
+    "span": "alcohol",
+    "start_char": 4594,
+    "end_char": 4601
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2-e:term-usage:4876-4883",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2-e",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:propano",
+    "span": "propano",
+    "start_char": 4876,
+    "end_char": 4883
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:2-e:term-usage:5271-5278",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:2-e",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:alcohol",
+    "span": "alcohol",
+    "start_char": 5271,
+    "end_char": 5278
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:87-106",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-alcoholicas",
+    "span": "bebidas alcohólicas",
+    "start_char": 87,
+    "end_char": 106
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:113-133",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-refrescantes",
+    "span": "bebidas refrescantes",
+    "start_char": 113,
+    "end_char": 133
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:690-696",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:azucares",
+    "span": "azúcar",
+    "start_char": 690,
+    "end_char": 696
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:1061-1069",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:azucares",
+    "span": "azúcares",
+    "start_char": 1061,
+    "end_char": 1069
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:1392-1411",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-alcoholicas",
+    "span": "bebidas alcohólicas",
+    "start_char": 1392,
+    "end_char": 1411
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:1821-1840",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-alcoholicas",
+    "span": "bebidas alcohólicas",
+    "start_char": 1821,
+    "end_char": 1840
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:2083-2109",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:etanol-para-uso-automotriz",
+    "span": "etanol para uso automotriz",
+    "start_char": 2083,
+    "end_char": 2109
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:2420-2446",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:etanol-para-uso-automotriz",
+    "span": "etanol para uso automotriz",
+    "start_char": 2420,
+    "end_char": 2446
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:3580-3589",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:gasolina",
+    "span": "gasolinas",
+    "start_char": 3580,
+    "end_char": 3589
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:3591-3597",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:diesel",
+    "span": "diésel",
+    "start_char": 3591,
+    "end_char": 3597
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:3599-3622",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:combustibles-no-fosiles",
+    "span": "combustibles no fósiles",
+    "start_char": 3599,
+    "end_char": 3622
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:4736-4747",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:gas-natural",
+    "span": "gas natural",
+    "start_char": 4736,
+    "end_char": 4747
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:4839-4846",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:alcohol",
+    "span": "alcohol",
+    "start_char": 4839,
+    "end_char": 4846
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:5005-5009",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:puros",
+    "span": "puro",
+    "start_char": 5005,
+    "end_char": 5009
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:7238-7244",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:azucares",
+    "span": "azúcar",
+    "start_char": 7238,
+    "end_char": 7244
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:7296-7304",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:azucares",
+    "span": "azúcares",
+    "start_char": 7296,
+    "end_char": 7304
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:7450-7475",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:red-de-telecomunicaciones",
+    "span": "red de telecomunicaciones",
+    "start_char": 7450,
+    "end_char": 7475
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:7580-7620",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:equipo-terminal-de-telecomunicaciones",
+    "span": "equipos terminales de telecomunicaciones",
+    "start_char": 7580,
+    "end_char": 7620
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:7644-7671",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:red-de-telecomunicaciones",
+    "span": "redes de telecomunicaciones",
+    "start_char": 7644,
+    "end_char": 7671
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:9227-9235",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:azucares",
+    "span": "azúcares",
+    "start_char": 9227,
+    "end_char": 9235
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:9238-9250",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:edulcorante",
+    "span": "edulcorantes",
+    "start_char": 9238,
+    "end_char": 9250
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:9698-9717",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-saborizadas",
+    "span": "bebidas saborizadas",
+    "start_char": 9698,
+    "end_char": 9717
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:9745-9757",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:edulcorante",
+    "span": "edulcorantes",
+    "start_char": 9745,
+    "end_char": 9757
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:10072-10084",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:edulcorante",
+    "span": "edulcorantes",
+    "start_char": 10072,
+    "end_char": 10084
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:10288-10296",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:azucares",
+    "span": "azúcares",
+    "start_char": 10288,
+    "end_char": 10296
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:11396-11404",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:gasolina",
+    "span": "gasolina",
+    "start_char": 11396,
+    "end_char": 11404
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:13102-13116",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:carbon-mineral",
+    "span": "carbón mineral",
+    "start_char": 13102,
+    "end_char": 13116
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:13119-13130",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:gas-natural",
+    "span": "gas natural",
+    "start_char": 13119,
+    "end_char": 13130
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:15268-15276",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:azucares",
+    "span": "azúcares",
+    "start_char": 15268,
+    "end_char": 15276
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:15285-15297",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:edulcorante",
+    "span": "edulcorantes",
+    "start_char": 15285,
+    "end_char": 15297
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:15616-15622",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:azucares",
+    "span": "azúcar",
+    "start_char": 15616,
+    "end_char": 15622
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:15691-15697",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:azucares",
+    "span": "azúcar",
+    "start_char": 15691,
+    "end_char": 15697
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:15945-15951",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:azucares",
+    "span": "azúcar",
+    "start_char": 15945,
+    "end_char": 15951
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:16169-16181",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:edulcorante",
+    "span": "edulcorantes",
+    "start_char": 16169,
+    "end_char": 16181
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:17488-17507",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-alcoholicas",
+    "span": "bebidas alcohólicas",
+    "start_char": 17488,
+    "end_char": 17507
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:18074-18090",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:contraprestacion",
+    "span": "contraprestación",
+    "start_char": 18074,
+    "end_char": 18090
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:4:term-usage:1935-1963",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-alcoholicas-a-granel",
+    "span": "bebidas alcohólicas a granel",
+    "start_char": 1935,
+    "end_char": 1963
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:4:term-usage:2088-2107",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-saborizadas",
+    "span": "bebidas saborizadas",
+    "start_char": 2088,
+    "end_char": 2107
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:4:term-usage:2910-2917",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:cerveza",
+    "span": "cerveza",
+    "start_char": 2910,
+    "end_char": 2917
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:4:term-usage:2927-2947",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-refrescantes",
+    "span": "bebidas refrescantes",
+    "start_char": 2927,
+    "end_char": 2947
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:4:term-usage:3024-3056",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-con-contenido-alcoholico",
+    "span": "bebidas con contenido alcohólico",
+    "start_char": 3024,
+    "end_char": 3056
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:5:term-usage:564-582",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:contraprestacion",
+    "span": "contraprestaciones",
+    "start_char": 564,
+    "end_char": 582
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:5:term-usage:1132-1140",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:cigarros",
+    "span": "cigarros",
+    "start_char": 1132,
+    "end_char": 1140
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:5:term-usage:1249-1271",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:otros-tabacos-labrados",
+    "span": "otros tabacos labrados",
+    "start_char": 1249,
+    "end_char": 1271
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:5:term-usage:1399-1437",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:otros-productos-que-contengan-nicotina",
+    "span": "otros productos que contengan nicotina",
+    "start_char": 1399,
+    "end_char": 1437
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:5:term-usage:1623-1631",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:cigarros",
+    "span": "cigarros",
+    "start_char": 1623,
+    "end_char": 1631
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:5:term-usage:1633-1655",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:otros-tabacos-labrados",
+    "span": "otros tabacos labrados",
+    "start_char": 1633,
+    "end_char": 1655
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:5:term-usage:1963-1982",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-saborizadas",
+    "span": "bebidas saborizadas",
+    "start_char": 1963,
+    "end_char": 1982
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:5:term-usage:4918-4934",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:bonos-de-carbono",
+    "span": "bonos de carbono",
+    "start_char": 4918,
+    "end_char": 4934
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:5-a:term-usage:342-358",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:5-a",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:contraprestacion",
+    "span": "contraprestación",
+    "start_char": 342,
+    "end_char": 358
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:5-a:term-usage:558-576",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:5-a",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:contraprestacion",
+    "span": "contraprestaciones",
+    "start_char": 558,
+    "end_char": 576
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:5-a:term-usage:995-1013",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:5-a",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:contraprestacion",
+    "span": "contraprestaciones",
+    "start_char": 995,
+    "end_char": 1013
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:5-c:term-usage:75-93",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:5-c",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:contraprestacion",
+    "span": "contraprestaciones",
+    "start_char": 75,
+    "end_char": 93
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:7:term-usage:1529-1545",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:contraprestacion",
+    "span": "contraprestación",
+    "start_char": 1529,
+    "end_char": 1545
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:7:term-usage:1561-1569",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:cigarros",
+    "span": "cigarros",
+    "start_char": 1561,
+    "end_char": 1569
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:7:term-usage:1572-1610",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:otros-productos-que-contengan-nicotina",
+    "span": "otros productos que contengan nicotina",
+    "start_char": 1572,
+    "end_char": 1610
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:7:term-usage:1671-1676",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:puros",
+    "span": "puros",
+    "start_char": 1671,
+    "end_char": 1676
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:7:term-usage:1679-1701",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:otros-tabacos-labrados",
+    "span": "otros tabacos labrados",
+    "start_char": 1679,
+    "end_char": 1701
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:7:term-usage:2371-2390",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-alcoholicas",
+    "span": "bebidas alcohólicas",
+    "start_char": 2371,
+    "end_char": 2390
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:8:term-usage:714-721",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:cerveza",
+    "span": "cerveza",
+    "start_char": 714,
+    "end_char": 721
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:8:term-usage:723-743",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-refrescantes",
+    "span": "bebidas refrescantes",
+    "start_char": 723,
+    "end_char": 743
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:8:term-usage:745-753",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:cigarros",
+    "span": "cigarros",
+    "start_char": 745,
+    "end_char": 753
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:8:term-usage:755-760",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:puros",
+    "span": "puros",
+    "start_char": 755,
+    "end_char": 760
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:8:term-usage:763-785",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:otros-tabacos-labrados",
+    "span": "otros tabacos labrados",
+    "start_char": 763,
+    "end_char": 785
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:8:term-usage:788-826",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:otros-productos-que-contengan-nicotina",
+    "span": "otros productos que contengan nicotina",
+    "start_char": 788,
+    "end_char": 826
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:8:term-usage:1619-1642",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:alcohol-desnaturalizado",
+    "span": "alcohol desnaturalizado",
+    "start_char": 1619,
+    "end_char": 1642
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:8:term-usage:1645-1668",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:mieles-incristalizables",
+    "span": "mieles incristalizables",
+    "start_char": 1645,
+    "end_char": 1668
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:8:term-usage:1997-2016",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-saborizadas",
+    "span": "bebidas saborizadas",
+    "start_char": 1997,
+    "end_char": 2016
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:8:term-usage:2115-2134",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-saborizadas",
+    "span": "bebidas saborizadas",
+    "start_char": 2115,
+    "end_char": 2134
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:8:term-usage:2316-2329",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:suero-oral",
+    "span": "sueros orales",
+    "start_char": 2316,
+    "end_char": 2329
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:8:term-usage:2776-2787",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:gas-natural",
+    "span": "gas natural",
+    "start_char": 2776,
+    "end_char": 2787
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:8:term-usage:2833-2871",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:otros-productos-que-contengan-nicotina",
+    "span": "otros productos que contengan nicotina",
+    "start_char": 2833,
+    "end_char": 2871
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:8:term-usage:5990-6026",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:red-publica-de-telecomunicaciones",
+    "span": "redes públicas de telecomunicaciones",
+    "start_char": 5990,
+    "end_char": 6026
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:8:term-usage:6260-6296",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:red-publica-de-telecomunicaciones",
+    "span": "redes públicas de telecomunicaciones",
+    "start_char": 6260,
+    "end_char": 6296
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:8:term-usage:6471-6507",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:red-publica-de-telecomunicaciones",
+    "span": "redes públicas de telecomunicaciones",
+    "start_char": 6471,
+    "end_char": 6507
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:8:term-usage:6577-6610",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:red-publica-de-telecomunicaciones",
+    "span": "red pública de telecomunicaciones",
+    "start_char": 6577,
+    "end_char": 6610
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:8:term-usage:6646-6679",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:red-publica-de-telecomunicaciones",
+    "span": "red pública de telecomunicaciones",
+    "start_char": 6646,
+    "end_char": 6679
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:8:term-usage:6808-6841",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:red-publica-de-telecomunicaciones",
+    "span": "red pública de telecomunicaciones",
+    "start_char": 6808,
+    "end_char": 6841
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:8:term-usage:7229-7254",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:red-de-telecomunicaciones",
+    "span": "red de telecomunicaciones",
+    "start_char": 7229,
+    "end_char": 7254
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:8:term-usage:7397-7430",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:red-publica-de-telecomunicaciones",
+    "span": "red pública de telecomunicaciones",
+    "start_char": 7397,
+    "end_char": 7430
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:8:term-usage:7554-7570",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:contraprestacion",
+    "span": "contraprestación",
+    "start_char": 7554,
+    "end_char": 7570
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:8:term-usage:7738-7754",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:contraprestacion",
+    "span": "contraprestación",
+    "start_char": 7738,
+    "end_char": 7754
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:8:term-usage:7811-7829",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:contraprestacion",
+    "span": "contraprestaciones",
+    "start_char": 7811,
+    "end_char": 7829
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:8:term-usage:8067-8085",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:contraprestacion",
+    "span": "contraprestaciones",
+    "start_char": 8067,
+    "end_char": 8085
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:10:term-usage:118-136",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:contraprestacion",
+    "span": "contraprestaciones",
+    "start_char": 118,
+    "end_char": 136
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:10:term-usage:180-198",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:contraprestacion",
+    "span": "contraprestaciones",
+    "start_char": 180,
+    "end_char": 198
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:10:term-usage:275-291",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:contraprestacion",
+    "span": "contraprestación",
+    "start_char": 275,
+    "end_char": 291
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:10:term-usage:425-433",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:cigarros",
+    "span": "cigarros",
+    "start_char": 425,
+    "end_char": 433
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:10:term-usage:435-457",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:otros-tabacos-labrados",
+    "span": "otros tabacos labrados",
+    "start_char": 435,
+    "end_char": 457
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:10:term-usage:460-498",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:otros-productos-que-contengan-nicotina",
+    "span": "otros productos que contengan nicotina",
+    "start_char": 460,
+    "end_char": 498
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:10:term-usage:640-648",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:cigarros",
+    "span": "cigarros",
+    "start_char": 640,
+    "end_char": 648
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:10:term-usage:687-709",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:otros-tabacos-labrados",
+    "span": "otros tabacos labrados",
+    "start_char": 687,
+    "end_char": 709
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:10:term-usage:772-810",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:otros-productos-que-contengan-nicotina",
+    "span": "otros productos que contengan nicotina",
+    "start_char": 772,
+    "end_char": 810
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:10:term-usage:1063-1081",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:contraprestacion",
+    "span": "contraprestaciones",
+    "start_char": 1063,
+    "end_char": 1081
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:11:term-usage:84-100",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:contraprestacion",
+    "span": "contraprestación",
+    "start_char": 84,
+    "end_char": 100
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:11:term-usage:137-145",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:cigarros",
+    "span": "cigarros",
+    "start_char": 137,
+    "end_char": 145
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:11:term-usage:148-186",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:otros-productos-que-contengan-nicotina",
+    "span": "otros productos que contengan nicotina",
+    "start_char": 148,
+    "end_char": 186
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:11:term-usage:391-396",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:puros",
+    "span": "puros",
+    "start_char": 391,
+    "end_char": 396
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:11:term-usage:399-421",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:otros-tabacos-labrados",
+    "span": "otros tabacos labrados",
+    "start_char": 399,
+    "end_char": 421
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:11:term-usage:548-564",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:contraprestacion",
+    "span": "contraprestación",
+    "start_char": 548,
+    "end_char": 564
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:11:term-usage:855-863",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:cigarros",
+    "span": "cigarros",
+    "start_char": 855,
+    "end_char": 863
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:11:term-usage:866-888",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:otros-tabacos-labrados",
+    "span": "otros tabacos labrados",
+    "start_char": 866,
+    "end_char": 888
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:11:term-usage:1029-1037",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:cigarros",
+    "span": "cigarros",
+    "start_char": 1029,
+    "end_char": 1037
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:11:term-usage:1064-1086",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:otros-tabacos-labrados",
+    "span": "otros tabacos labrados",
+    "start_char": 1064,
+    "end_char": 1086
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:11:term-usage:1137-1175",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:otros-productos-que-contengan-nicotina",
+    "span": "otros productos que contengan nicotina",
+    "start_char": 1137,
+    "end_char": 1175
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:11:term-usage:1420-1439",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-saborizadas",
+    "span": "bebidas saborizadas",
+    "start_char": 1420,
+    "end_char": 1439
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:11:term-usage:1444-1452",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:azucares",
+    "span": "azúcares",
+    "start_char": 1444,
+    "end_char": 1452
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:11:term-usage:1455-1467",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:edulcorante",
+    "span": "edulcorantes",
+    "start_char": 1455,
+    "end_char": 1467
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:11:term-usage:1622-1641",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-saborizadas",
+    "span": "bebidas saborizadas",
+    "start_char": 1622,
+    "end_char": 1641
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:11:term-usage:1646-1654",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:azucares",
+    "span": "azúcares",
+    "start_char": 1646,
+    "end_char": 1654
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:11:term-usage:1657-1669",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:edulcorante",
+    "span": "edulcorantes",
+    "start_char": 1657,
+    "end_char": 1669
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:13:term-usage:1480-1503",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:alcohol-desnaturalizado",
+    "span": "alcohol desnaturalizado",
+    "start_char": 1480,
+    "end_char": 1503
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:13:term-usage:1506-1529",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:mieles-incristalizables",
+    "span": "mieles incristalizables",
+    "start_char": 1506,
+    "end_char": 1529
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:13:term-usage:2724-2743",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-saborizadas",
+    "span": "bebidas saborizadas",
+    "start_char": 2724,
+    "end_char": 2743
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:13:term-usage:2925-2938",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:suero-oral",
+    "span": "sueros orales",
+    "start_char": 2925,
+    "end_char": 2938
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:13:term-usage:3142-3153",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:plaguicida",
+    "span": "plaguicidas",
+    "start_char": 3142,
+    "end_char": 3153
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:13:term-usage:3314-3325",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:gas-natural",
+    "span": "gas natural",
+    "start_char": 3314,
+    "end_char": 3325
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:14:term-usage:1103-1111",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:cigarros",
+    "span": "cigarros",
+    "start_char": 1103,
+    "end_char": 1111
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:14:term-usage:1113-1135",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:otros-tabacos-labrados",
+    "span": "otros tabacos labrados",
+    "start_char": 1113,
+    "end_char": 1135
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:14:term-usage:1138-1176",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:otros-productos-que-contengan-nicotina",
+    "span": "otros productos que contengan nicotina",
+    "start_char": 1138,
+    "end_char": 1176
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:14:term-usage:1368-1376",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:cigarros",
+    "span": "cigarros",
+    "start_char": 1368,
+    "end_char": 1376
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:14:term-usage:1403-1425",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:otros-tabacos-labrados",
+    "span": "otros tabacos labrados",
+    "start_char": 1403,
+    "end_char": 1425
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:14:term-usage:1476-1514",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:otros-productos-que-contengan-nicotina",
+    "span": "otros productos que contengan nicotina",
+    "start_char": 1476,
+    "end_char": 1514
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:14:term-usage:1756-1775",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-saborizadas",
+    "span": "bebidas saborizadas",
+    "start_char": 1756,
+    "end_char": 1775
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:17:term-usage:86-102",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:contraprestacion",
+    "span": "contraprestación",
+    "start_char": 86,
+    "end_char": 102
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:17:term-usage:188-206",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:contraprestacion",
+    "span": "contraprestaciones",
+    "start_char": 188,
+    "end_char": 206
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:17:term-usage:257-275",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:contraprestacion",
+    "span": "contraprestaciones",
+    "start_char": 257,
+    "end_char": 275
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:17:term-usage:352-368",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:contraprestacion",
+    "span": "contraprestación",
+    "start_char": 352,
+    "end_char": 368
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:18-a:term-usage:118-154",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:18-a",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:red-publica-de-telecomunicaciones",
+    "span": "redes públicas de telecomunicaciones",
+    "start_char": 118,
+    "end_char": 154
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:2876-2892",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:tabacos-labrados",
+    "span": "tabacos labrados",
+    "start_char": 2876,
+    "end_char": 2892
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:2898-2936",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:otros-productos-que-contengan-nicotina",
+    "span": "otros productos que contengan nicotina",
+    "start_char": 2898,
+    "end_char": 2936
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:3045-3061",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:tabacos-labrados",
+    "span": "tabacos labrados",
+    "start_char": 3045,
+    "end_char": 3061
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:3089-3097",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:cigarros",
+    "span": "cigarros",
+    "start_char": 3089,
+    "end_char": 3097
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:3664-3672",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:cigarros",
+    "span": "cigarros",
+    "start_char": 3664,
+    "end_char": 3672
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:3675-3713",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:otros-productos-que-contengan-nicotina",
+    "span": "otros productos que contengan nicotina",
+    "start_char": 3675,
+    "end_char": 3713
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:4414-4422",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:marbete",
+    "span": "marbetes",
+    "start_char": 4414,
+    "end_char": 4422
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:4451-4470",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-alcoholicas",
+    "span": "bebidas alcohólicas",
+    "start_char": 4451,
+    "end_char": 4470
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:4529-4557",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-alcoholicas-a-granel",
+    "span": "bebidas alcohólicas a granel",
+    "start_char": 4529,
+    "end_char": 4557
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:4578-4587",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:precinto",
+    "span": "precintos",
+    "start_char": 4578,
+    "end_char": 4587
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:4744-4763",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-alcoholicas",
+    "span": "bebidas alcohólicas",
+    "start_char": 4744,
+    "end_char": 4763
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:4972-4991",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-alcoholicas",
+    "span": "bebidas alcohólicas",
+    "start_char": 4972,
+    "end_char": 4991
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:5076-5084",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:marbete",
+    "span": "marbetes",
+    "start_char": 5076,
+    "end_char": 5084
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:5087-5096",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:precinto",
+    "span": "precintos",
+    "start_char": 5087,
+    "end_char": 5096
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:5229-5237",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:marbete",
+    "span": "marbetes",
+    "start_char": 5229,
+    "end_char": 5237
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:5529-5536",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:marbete",
+    "span": "marbete",
+    "start_char": 5529,
+    "end_char": 5536
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:5542-5561",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-alcoholicas",
+    "span": "bebidas alcohólicas",
+    "start_char": 5542,
+    "end_char": 5561
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:5721-5728",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:marbete",
+    "span": "marbete",
+    "start_char": 5721,
+    "end_char": 5728
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:5982-5989",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:marbete",
+    "span": "marbete",
+    "start_char": 5982,
+    "end_char": 5989
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:8532-8548",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:tabacos-labrados",
+    "span": "tabacos labrados",
+    "start_char": 8532,
+    "end_char": 8548
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:8554-8592",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:otros-productos-que-contengan-nicotina",
+    "span": "otros productos que contengan nicotina",
+    "start_char": 8554,
+    "end_char": 8592
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:8816-8832",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:tabacos-labrados",
+    "span": "tabacos labrados",
+    "start_char": 8816,
+    "end_char": 8832
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:8866-8874",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:cigarros",
+    "span": "cigarros",
+    "start_char": 8866,
+    "end_char": 8874
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:9189-9196",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:alcohol",
+    "span": "alcohol",
+    "start_char": 9189,
+    "end_char": 9196
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:9198-9221",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:alcohol-desnaturalizado",
+    "span": "alcohol desnaturalizado",
+    "start_char": 9198,
+    "end_char": 9221
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:9224-9247",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:mieles-incristalizables",
+    "span": "mieles incristalizables",
+    "start_char": 9224,
+    "end_char": 9247
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:9252-9284",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-con-contenido-alcoholico",
+    "span": "bebidas con contenido alcohólico",
+    "start_char": 9252,
+    "end_char": 9284
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:9286-9293",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:cerveza",
+    "span": "cerveza",
+    "start_char": 9286,
+    "end_char": 9293
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:9295-9311",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:tabacos-labrados",
+    "span": "tabacos labrados",
+    "start_char": 9295,
+    "end_char": 9311
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:9314-9352",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:otros-productos-que-contengan-nicotina",
+    "span": "otros productos que contengan nicotina",
+    "start_char": 9314,
+    "end_char": 9352
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:9354-9379",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:combustibles-automotrices",
+    "span": "combustibles automotrices",
+    "start_char": 9354,
+    "end_char": 9379
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:9381-9403",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-energetizantes",
+    "span": "bebidas energetizantes",
+    "start_char": 9381,
+    "end_char": 9403
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:9450-9472",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-energetizantes",
+    "span": "bebidas energetizantes",
+    "start_char": 9450,
+    "end_char": 9472
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:9474-9493",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-saborizadas",
+    "span": "bebidas saborizadas",
+    "start_char": 9474,
+    "end_char": 9493
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:9498-9506",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:azucares",
+    "span": "azúcares",
+    "start_char": 9498,
+    "end_char": 9506
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:9509-9521",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:edulcorante",
+    "span": "edulcorantes",
+    "start_char": 9509,
+    "end_char": 9521
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:9641-9660",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-saborizadas",
+    "span": "bebidas saborizadas",
+    "start_char": 9641,
+    "end_char": 9660
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:9665-9673",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:azucares",
+    "span": "azúcares",
+    "start_char": 9665,
+    "end_char": 9673
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:9676-9688",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:edulcorante",
+    "span": "edulcorantes",
+    "start_char": 9676,
+    "end_char": 9688
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:9708-9728",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:combustibles-fosiles",
+    "span": "combustibles fósiles",
+    "start_char": 9708,
+    "end_char": 9728
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:9731-9742",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:plaguicida",
+    "span": "plaguicidas",
+    "start_char": 9731,
+    "end_char": 9742
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:10795-10802",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:alcohol",
+    "span": "alcohol",
+    "start_char": 10795,
+    "end_char": 10802
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:10804-10827",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:alcohol-desnaturalizado",
+    "span": "alcohol desnaturalizado",
+    "start_char": 10804,
+    "end_char": 10827
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:10829-10852",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:mieles-incristalizables",
+    "span": "mieles incristalizables",
+    "start_char": 10829,
+    "end_char": 10852
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:10858-10877",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-alcoholicas",
+    "span": "bebidas alcohólicas",
+    "start_char": 10858,
+    "end_char": 10877
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:12814-12821",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:alcohol",
+    "span": "alcohol",
+    "start_char": 12814,
+    "end_char": 12821
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:12827-12846",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-alcoholicas",
+    "span": "bebidas alcohólicas",
+    "start_char": 12827,
+    "end_char": 12846
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:13041-13049",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:marbete",
+    "span": "marbetes",
+    "start_char": 13041,
+    "end_char": 13049
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:13052-13061",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:precinto",
+    "span": "precintos",
+    "start_char": 13052,
+    "end_char": 13061
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:13322-13341",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-alcoholicas",
+    "span": "bebidas alcohólicas",
+    "start_char": 13322,
+    "end_char": 13341
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:13546-13554",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:marbete",
+    "span": "marbetes",
+    "start_char": 13546,
+    "end_char": 13554
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:13557-13566",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:precinto",
+    "span": "precintos",
+    "start_char": 13557,
+    "end_char": 13566
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:13842-13850",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:marbete",
+    "span": "marbetes",
+    "start_char": 13842,
+    "end_char": 13850
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:13853-13862",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:precinto",
+    "span": "precintos",
+    "start_char": 13853,
+    "end_char": 13862
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:13964-13972",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:marbete",
+    "span": "marbetes",
+    "start_char": 13964,
+    "end_char": 13972
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:13975-13984",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:precinto",
+    "span": "precintos",
+    "start_char": 13975,
+    "end_char": 13984
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:14835-14854",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-alcoholicas",
+    "span": "bebidas alcohólicas",
+    "start_char": 14835,
+    "end_char": 14854
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:15413-15432",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-alcoholicas",
+    "span": "bebidas alcohólicas",
+    "start_char": 15413,
+    "end_char": 15432
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:15809-15817",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:cigarros",
+    "span": "cigarros",
+    "start_char": 15809,
+    "end_char": 15817
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:15820-15842",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:otros-tabacos-labrados",
+    "span": "otros tabacos labrados",
+    "start_char": 15820,
+    "end_char": 15842
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:15861-15866",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:puros",
+    "span": "puros",
+    "start_char": 15861,
+    "end_char": 15866
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:15869-15891",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:otros-tabacos-labrados",
+    "span": "otros tabacos labrados",
+    "start_char": 15869,
+    "end_char": 15891
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:16058-16066",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:cigarros",
+    "span": "cigarros",
+    "start_char": 16058,
+    "end_char": 16066
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:16069-16091",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:otros-tabacos-labrados",
+    "span": "otros tabacos labrados",
+    "start_char": 16069,
+    "end_char": 16091
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:16473-16481",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:cigarros",
+    "span": "cigarros",
+    "start_char": 16473,
+    "end_char": 16481
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:16484-16506",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:otros-tabacos-labrados",
+    "span": "otros tabacos labrados",
+    "start_char": 16484,
+    "end_char": 16506
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:16525-16530",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:puros",
+    "span": "puros",
+    "start_char": 16525,
+    "end_char": 16530
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:16533-16555",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:otros-tabacos-labrados",
+    "span": "otros tabacos labrados",
+    "start_char": 16533,
+    "end_char": 16555
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:17005-17013",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:cigarros",
+    "span": "cigarros",
+    "start_char": 17005,
+    "end_char": 17013
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:17016-17038",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:otros-tabacos-labrados",
+    "span": "otros tabacos labrados",
+    "start_char": 17016,
+    "end_char": 17038
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:17534-17542",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:cigarros",
+    "span": "cigarros",
+    "start_char": 17534,
+    "end_char": 17542
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:17545-17567",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:otros-tabacos-labrados",
+    "span": "otros tabacos labrados",
+    "start_char": 17545,
+    "end_char": 17567
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:18297-18305",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:cigarros",
+    "span": "cigarros",
+    "start_char": 18297,
+    "end_char": 18305
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:18308-18330",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:otros-tabacos-labrados",
+    "span": "otros tabacos labrados",
+    "start_char": 18308,
+    "end_char": 18330
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:18349-18354",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:puros",
+    "span": "puros",
+    "start_char": 18349,
+    "end_char": 18354
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:18357-18379",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:otros-tabacos-labrados",
+    "span": "otros tabacos labrados",
+    "start_char": 18357,
+    "end_char": 18379
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:19485-19493",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:cigarros",
+    "span": "cigarros",
+    "start_char": 19485,
+    "end_char": 19493
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:19496-19518",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:otros-tabacos-labrados",
+    "span": "otros tabacos labrados",
+    "start_char": 19496,
+    "end_char": 19518
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:19537-19542",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:puros",
+    "span": "puros",
+    "start_char": 19537,
+    "end_char": 19542
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:19545-19567",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:otros-tabacos-labrados",
+    "span": "otros tabacos labrados",
+    "start_char": 19545,
+    "end_char": 19567
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:20206-20225",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-saborizadas",
+    "span": "bebidas saborizadas",
+    "start_char": 20206,
+    "end_char": 20225
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:20230-20238",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:azucares",
+    "span": "azúcares",
+    "start_char": 20230,
+    "end_char": 20238
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:20241-20253",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:edulcorante",
+    "span": "edulcorantes",
+    "start_char": 20241,
+    "end_char": 20253
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:20561-20594",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:establecimientos-de-consumo-final",
+    "span": "establecimientos de consumo final",
+    "start_char": 20561,
+    "end_char": 20594
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19:term-usage:20721-20728",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:marbete",
+    "span": "marbete",
+    "start_char": 20721,
+    "end_char": 20728
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19-a:term-usage:136-144",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19-a",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:cigarros",
+    "span": "cigarros",
+    "start_char": 136,
+    "end_char": 144
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19-a:term-usage:147-169",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19-a",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:otros-tabacos-labrados",
+    "span": "otros tabacos labrados",
+    "start_char": 147,
+    "end_char": 169
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19-a:term-usage:904-912",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19-a",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:cigarros",
+    "span": "cigarros",
+    "start_char": 904,
+    "end_char": 912
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19-a:term-usage:915-937",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19-a",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:otros-tabacos-labrados",
+    "span": "otros tabacos labrados",
+    "start_char": 915,
+    "end_char": 937
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19-a:term-usage:956-961",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19-a",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:puros",
+    "span": "puros",
+    "start_char": 956,
+    "end_char": 961
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:19-a:term-usage:964-986",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:19-a",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:otros-tabacos-labrados",
+    "span": "otros tabacos labrados",
+    "start_char": 964,
+    "end_char": 986
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:20-a:term-usage:2085-2103",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:20-a",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:contraprestacion",
+    "span": "contraprestaciones",
+    "start_char": 2085,
+    "end_char": 2103
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:20-a:term-usage:2418-2436",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:20-a",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:contraprestacion",
+    "span": "contraprestaciones",
+    "start_char": 2418,
+    "end_char": 2436
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:21:term-usage:226-251",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:combustibles-automotrices",
+    "span": "combustibles automotrices",
+    "start_char": 226,
+    "end_char": 251
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:21:term-usage:373-398",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:combustibles-automotrices",
+    "span": "combustibles automotrices",
+    "start_char": 373,
+    "end_char": 398
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:23:term-usage:560-568",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:marbete",
+    "span": "marbetes",
+    "start_char": 560,
+    "end_char": 568
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:23:term-usage:571-580",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:precinto",
+    "span": "precintos",
+    "start_char": 571,
+    "end_char": 580
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:23:term-usage:907-915",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:marbete",
+    "span": "marbetes",
+    "start_char": 907,
+    "end_char": 915
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:23:term-usage:918-927",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:precinto",
+    "span": "precintos",
+    "start_char": 918,
+    "end_char": 927
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:23-a:term-usage:144-151",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:23-a",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:alcohol",
+    "span": "alcohol",
+    "start_char": 144,
+    "end_char": 151
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:23-a:term-usage:153-176",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:23-a",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:alcohol-desnaturalizado",
+    "span": "alcohol desnaturalizado",
+    "start_char": 153,
+    "end_char": 176
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:23-a:term-usage:179-202",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:23-a",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:mieles-incristalizables",
+    "span": "mieles incristalizables",
+    "start_char": 179,
+    "end_char": 202
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:23-b:term-usage:19-38",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:23-b",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-alcoholicas",
+    "span": "bebidas alcohólicas",
+    "start_char": 19,
+    "end_char": 38
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:23-b:term-usage:65-72",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:23-b",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:marbete",
+    "span": "marbete",
+    "start_char": 65,
+    "end_char": 72
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:23-b:term-usage:75-83",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:23-b",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:precinto",
+    "span": "precinto",
+    "start_char": 75,
+    "end_char": 83
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:23-b:term-usage:301-319",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:23-b",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:contraprestacion",
+    "span": "contraprestaciones",
+    "start_char": 301,
+    "end_char": 319
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:23-b:term-usage:715-734",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:23-b",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-alcoholicas",
+    "span": "bebidas alcohólicas",
+    "start_char": 715,
+    "end_char": 734
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:25:term-usage:326-333",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:cerveza",
+    "span": "cerveza",
+    "start_char": 326,
+    "end_char": 333
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:25:term-usage:352-371",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-alcoholicas",
+    "span": "bebidas alcohólicas",
+    "start_char": 352,
+    "end_char": 371
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:26:term-usage:425-433",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:marbete",
+    "span": "marbetes",
+    "start_char": 425,
+    "end_char": 433
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:26:term-usage:436-445",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:precinto",
+    "span": "precintos",
+    "start_char": 436,
+    "end_char": 445
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:26:term-usage:686-694",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:marbete",
+    "span": "marbetes",
+    "start_char": 686,
+    "end_char": 694
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:26:term-usage:697-706",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:precinto",
+    "span": "precintos",
+    "start_char": 697,
+    "end_char": 706
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:26-a:term-usage:149-157",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:26-a",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:marbete",
+    "span": "marbetes",
+    "start_char": 149,
+    "end_char": 157
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:26-a:term-usage:160-169",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:26-a",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:precinto",
+    "span": "precintos",
+    "start_char": 160,
+    "end_char": 169
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:26-a:term-usage:348-356",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:26-a",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:marbete",
+    "span": "marbetes",
+    "start_char": 348,
+    "end_char": 356
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:26-a:term-usage:359-368",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:26-a",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:precinto",
+    "span": "precintos",
+    "start_char": 359,
+    "end_char": 368
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:27:term-usage:233-251",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:contraprestacion",
+    "span": "contraprestaciones",
+    "start_char": 233,
+    "end_char": 251
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:28:term-usage:213-220",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:cerveza",
+    "span": "cerveza",
+    "start_char": 213,
+    "end_char": 220
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:article:28:term-usage:410-418",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:gasolina",
+    "span": "gasolina",
+    "start_char": 410,
+    "end_char": 418
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:transitory:segundo:term-usage:122-130",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:gasolina",
+    "span": "Gasolina",
+    "start_char": 122,
+    "end_char": 130
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:transitory:tercero:term-usage:129-136",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:cerveza",
+    "span": "Cerveza",
+    "start_char": 129,
+    "end_char": 136
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:transitory:tercero:term-usage:375-381",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:azucares",
+    "span": "Azúcar",
+    "start_char": 375,
+    "end_char": 381
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:transitory:tercero:term-usage:383-390",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:alcohol",
+    "span": "Alcohol",
+    "start_char": 383,
+    "end_char": 390
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:transitory:quinto:term-usage:297-313",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:contraprestacion",
+    "span": "contraprestación",
+    "start_char": 297,
+    "end_char": 313
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:transitory:quinto:term-usage:508-524",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:contraprestacion",
+    "span": "contraprestación",
+    "start_char": 508,
+    "end_char": 524
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:transitory:quinto:term-usage:997-1016",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-alcoholicas",
+    "span": "bebidas alcohólicas",
+    "start_char": 997,
+    "end_char": 1016
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:transitory:quinto:term-usage:1167-1173",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:azucares",
+    "span": "Azúcar",
+    "start_char": 1167,
+    "end_char": 1173
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:transitory:quinto:term-usage:1175-1182",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:alcohol",
+    "span": "Alcohol",
+    "start_char": 1175,
+    "end_char": 1182
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:transitory:octavo:term-usage:67-74",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:cerveza",
+    "span": "cerveza",
+    "start_char": 67,
+    "end_char": 74
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:transitory:octavo:term-usage:259-266",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:cerveza",
+    "span": "cerveza",
+    "start_char": 259,
+    "end_char": 266
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:transitory:octavo:term-usage:455-462",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:cerveza",
+    "span": "cerveza",
+    "start_char": 455,
+    "end_char": 462
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:transitory:octavo:term-usage:706-713",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:cerveza",
+    "span": "cerveza",
+    "start_char": 706,
+    "end_char": 713
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:transitory:octavo:term-usage:796-803",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:cerveza",
+    "span": "cerveza",
+    "start_char": 796,
+    "end_char": 803
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:transitory:octavo:term-usage:912-919",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:cerveza",
+    "span": "cerveza",
+    "start_char": 912,
+    "end_char": 919
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:transitory:octavo:term-usage:1002-1009",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:cerveza",
+    "span": "cerveza",
+    "start_char": 1002,
+    "end_char": 1009
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:transitory:noveno:term-usage:33-40",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:cerveza",
+    "span": "cerveza",
+    "start_char": 33,
+    "end_char": 40
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:transitory:noveno:term-usage:257-264",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:cerveza",
+    "span": "cerveza",
+    "start_char": 257,
+    "end_char": 264
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:transitory:noveno:term-usage:630-637",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:cerveza",
+    "span": "cerveza",
+    "start_char": 630,
+    "end_char": 637
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:transitory:decimo-primero:term-usage:75-94",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:transitory:decimo-primero",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-alcoholicas",
+    "span": "bebidas alcohólicas",
+    "start_char": 75,
+    "end_char": 94
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:transitory:decimo-primero:term-usage:338-346",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:transitory:decimo-primero",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:marbete",
+    "span": "marbetes",
+    "start_char": 338,
+    "end_char": 346
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:transitory:decimo-primero:term-usage:759-765",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:transitory:decimo-primero",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:azucares",
+    "span": "Azúcar",
+    "start_char": 759,
+    "end_char": 765
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:transitory:decimo-primero:term-usage:767-774",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:transitory:decimo-primero",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:alcohol",
+    "span": "Alcohol",
+    "start_char": 767,
+    "end_char": 774
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:transitory:decimotercero:term-usage:80-88",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:transitory:decimotercero",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:gasolina",
+    "span": "gasolina",
+    "start_char": 80,
+    "end_char": 88
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:transitory:decimotercero:term-usage:684-692",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:transitory:decimotercero",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:gasolina",
+    "span": "gasolina",
+    "start_char": 684,
+    "end_char": 692
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lieps:transitory:decimotercero:term-usage:818-826",
+    "provision_id": "urn:lex-mx:federal:statute:lieps:transitory:decimotercero",
+    "term_id": "urn:lex-mx:federal:statute:lieps:term:gasolina",
+    "span": "gasolina",
+    "start_char": 818,
+    "end_char": 826
+  }
+]
