@@ -17,7 +17,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 275
 
-El anteproyecto de presupuesto al que se refiere el [artículo anterior](articulo-274.md) deberá contener un reporte de la Dirección General que incluya, al menos, la siguiente información: I. El análisis del impacto que el presupuesto que se proponga tendrá para el Instituto en un horizonte de mediano plazo;
+El anteproyecto de presupuesto al que se refiere el [artículo anterior](articulo-274.md) deberá contener un reporte de la Dirección General que incluya, al menos, la siguiente información: I. El análisis del impacto que el presupuesto que se proponga tendrá para el [Instituto](articulo-5-A.md) en un horizonte de mediano plazo;
 
 II. El presupuesto asignado por programas, señalando prioridades, objetivos, metas y unidades responsables de su ejercicio, así como su valuación estimada por programa, y los mecanismos e indicadores de evaluación para cada programa;
 
@@ -37,7 +37,7 @@ VI. Excedentes de operación;
 
 VII. Excedentes de flujo de efectivo, antes y después de la creación, incremento o decremento del Fondo para el Cumplimiento de Obligaciones Laborales de Carácter Legal y Contractual señalado en el artículo [286](articulo-286.md) K;
 
-VIII. Montos en que se proponga incrementar, decrementar o, en su caso, reconstituir las Reservas Financieras y Actuariales y la Reserva General Financiera y Actuarial a que se refieren las fracciones III y IV del artículo [280](articulo-280.md) de esta Ley, para cada seguro y el Fondo para Cumplimiento de Obligaciones Laborales de Carácter Legal y Contractual, así como el respaldo de inversiones financieras que se dará al mismo;
+VIII. Montos en que se proponga incrementar, decrementar o, en su caso, reconstituir las Reservas Financieras y Actuariales y la Reserva General Financiera y Actuarial a que se refieren las fracciones III y IV del artículo [280](articulo-280.md) de esta [Ley](articulo-5-A.md), para cada seguro y el Fondo para Cumplimiento de Obligaciones Laborales de Carácter Legal y Contractual, así como el respaldo de inversiones financieras que se dará al mismo;
 
 IX. Ingresos y gastos totales por seguro expresados como devengados;
 

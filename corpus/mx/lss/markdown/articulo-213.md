@@ -17,4 +17,4 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 213
 
-El Instituto podrá celebrar convenios de reversión de cuotas o subrogación de servicios, con los patrones que tengan instaladas guarderías en sus empresas o establecimientos, cuando reúnan los requisitos señalados en las disposiciones relativas.
+El [Instituto](articulo-5-A.md) podrá celebrar convenios de reversión de cuotas o subrogación de servicios, con los patrones que tengan instaladas guarderías en sus empresas o establecimientos, cuando reúnan los requisitos señalados en las disposiciones relativas.

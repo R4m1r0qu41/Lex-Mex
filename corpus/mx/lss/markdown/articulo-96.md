@@ -19,4 +19,4 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 En caso de enfermedad no profesional, el asegurado tendrá derecho a un subsidio en dinero que se otorgará cuando la enfermedad lo incapacite para el trabajo. El subsidio se pagará a partir del cuarto día del inicio de la incapacidad, mientras dure ésta y hasta por el término de cincuenta y dos semanas.
 
-Si al concluir dicho período el asegurado continuare incapacitado, previo dictamen del Instituto, se podrá prorrogar el pago del subsidio hasta por veintiséis semanas más.
+Si al concluir dicho período el asegurado continuare incapacitado, previo dictamen del [Instituto](articulo-5-A.md), se podrá prorrogar el pago del subsidio hasta por veintiséis semanas más.

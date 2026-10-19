@@ -17,4 +17,4 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 248
 
-La prima, cuota, períodos de pago y demás modalidades en la contratación de los seguros adicionales, serán convenidos por el Instituto con base en las características de los riesgos y de las prestaciones protegidas, así como en las valuaciones actuariales de los contratos correspondientes.
+La prima, cuota, períodos de pago y demás modalidades en la contratación de los seguros adicionales, serán convenidos por el [Instituto](articulo-5-A.md) con base en las características de los riesgos y de las prestaciones protegidas, así como en las valuaciones actuariales de los contratos correspondientes.

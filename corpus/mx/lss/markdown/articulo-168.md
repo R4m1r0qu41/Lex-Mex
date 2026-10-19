@@ -35,4 +35,4 @@ IV. El Gobierno Federal, por cada día de salario cotizado, aportará mensualmen
 
 Los valores mencionados del importe de la cuota social, se actualizarán trimestralmente de conformidad con el Índice Nacional de Precios al Consumidor, en los meses de marzo, junio, septiembre y diciembre de cada año. Fracción reformada DOF 26-05-2009
 
-Estas cuotas y aportaciones al destinarse al otorgamiento de pensiones y demás beneficios establecidos en esta Ley, se entenderán destinadas al gasto público en materia de seguridad social. Párrafo reformado DOF 26-05-2009
+Estas cuotas y aportaciones al destinarse al otorgamiento de pensiones y demás beneficios establecidos en esta [Ley](articulo-5-A.md), se entenderán destinadas al gasto público en materia de seguridad social. Párrafo reformado DOF 26-05-2009

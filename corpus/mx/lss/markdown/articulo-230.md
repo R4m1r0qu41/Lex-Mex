@@ -17,4 +17,4 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 230
 
-Los sujetos a que se refiere el artículo [13](articulo-13.md) de esta Ley podrán gestionar y obtener que un tercero, persona física o moral, se obligue ante el Instituto a aportar la totalidad o parte de las cuotas a su cargo.
+Los sujetos a que se refiere el artículo [13](articulo-13.md) de esta [Ley](articulo-5-A.md) podrán gestionar y obtener que un tercero, persona física o moral, se obligue ante el [Instituto](articulo-5-A.md) a aportar la totalidad o parte de las cuotas a su cargo.

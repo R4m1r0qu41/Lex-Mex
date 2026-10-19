@@ -17,4 +17,4 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 112
 
-Los riesgos protegidos en este capítulo son la invalidez y la muerte del asegurado o del pensionado por invalidez, en los términos y con las modalidades previstos en esta Ley.
+Los riesgos protegidos en este capítulo son la invalidez y la muerte del asegurado o del pensionado por invalidez, en los términos y con las modalidades previstos en esta [Ley](articulo-5-A.md).

@@ -17,7 +17,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 22
 
-Los documentos, datos e informes que los trabajadores, patrones y demás personas proporcionen al Instituto, en cumplimiento de las obligaciones que les impone esta Ley, serán estrictamente confidenciales y no podrán comunicarse o darse a conocer en forma nominativa e individual.
+Los documentos, datos e informes que los trabajadores, patrones y demás personas proporcionen al [Instituto](articulo-5-A.md), en cumplimiento de las obligaciones que les impone esta [Ley](articulo-5-A.md), serán estrictamente confidenciales y no podrán comunicarse o darse a conocer en forma nominativa e individual.
 
 Lo dispuesto en el párrafo anterior no se aplicará cuando:
 

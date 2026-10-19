@@ -19,7 +19,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 El Consejo Técnico tendrá las atribuciones siguientes;
 
-I. Decidir sobre las inversiones de las reservas y demás recursos del Instituto, con sujeción a lo previsto en esta Ley y sus reglamentos, excepto los provenientes del seguro de retiro, cesantía en edad avanzada y vejez;
+I. Decidir sobre las inversiones de las reservas y demás recursos del [Instituto](articulo-5-A.md), con sujeción a lo previsto en esta [Ley](articulo-5-A.md) y sus reglamentos, excepto los provenientes del seguro de retiro, cesantía en edad avanzada y vejez;
 
 II. Vigilar y promover el equilibrio financiero de todos los ramos de aseguramiento comprendidos en esta Ley;
 

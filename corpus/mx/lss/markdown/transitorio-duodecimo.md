@@ -15,4 +15,4 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # DUODECIMO
 
-Estarán a cargo del Gobierno Federal las pensiones que se encuentren en curso de pago, así como las prestaciones o pensiones de aquellos sujetos que se encuentren en período de conservación de derechos y las pensiones que se otorguen a los asegurados que opten por el esquema establecido por la Ley que se deroga.
+Estarán a cargo del Gobierno Federal las pensiones que se encuentren en curso de pago, así como las prestaciones o pensiones de aquellos sujetos que se encuentren en período de conservación de derechos y las pensiones que se otorguen a los asegurados que opten por el esquema establecido por la [Ley](articulo-5-A.md) que se deroga.

@@ -15,7 +15,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # VIGESIMO OCTAVO
 
-A fin de que el marco normativo que regula a las Administradoras de Fondos para el Retiro y a las sociedades de inversión especializadas de fondos para el retiro guarde congruencia con esta Ley, previamente a la entrada en vigor a la misma, se deberá reformar la Ley para la Coordinación de los Sistemas de Ahorro para el Retiro.
+A fin de que el marco normativo que regula a las Administradoras de Fondos para el Retiro y a las sociedades de inversión especializadas de fondos para el retiro guarde congruencia con esta [Ley](articulo-5-A.md), previamente a la entrada en vigor a la misma, se deberá reformar la Ley para la Coordinación de los Sistemas de Ahorro para el Retiro.
 
 La Ley para la Coordinación de los Sistemas de Ahorro para el Retiro deberá prever la prohibición de que los recursos invertidos en las sociedades de inversión especializadas de fondos para el retiro se destinen al financiamiento de Partidos Políticos, inversiones en el extranjero o cualquier fin distinto al resguardo e incremento de los mismos.
 

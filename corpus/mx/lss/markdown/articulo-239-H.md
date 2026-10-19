@@ -17,6 +17,6 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 239-H
 
-El Consejo Técnico podrá autorizar una periodicidad diferente para el aseguramiento y pago de las cuotas, así como expedir las reglas de carácter general que en su caso resulten aplicables para el aseguramiento de las y los sujetos a que se refiere el presente Capítulo de esta Ley.
+El Consejo Técnico podrá autorizar una periodicidad diferente para el aseguramiento y pago de las cuotas, así como expedir las reglas de carácter general que en su caso resulten aplicables para el aseguramiento de las y los sujetos a que se refiere el presente Capítulo de esta [Ley](articulo-5-A.md).
 
 Artículo adicionado DOF 16-11-2022

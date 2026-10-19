@@ -17,6 +17,6 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 40-F
 
-En ningún caso el Instituto podrá liberar a los patrones del pago de las cuotas obrero patronales. Tampoco podrá condonar, total o parcialmente, la actualización de las cuotas ni los recargos correspondientes.
+En ningún caso el [Instituto](articulo-5-A.md) podrá liberar a los patrones del pago de las cuotas obrero patronales. Tampoco podrá condonar, total o parcialmente, la actualización de las cuotas ni los recargos correspondientes.
 
 Artículo adicionado DOF 20-12-2001

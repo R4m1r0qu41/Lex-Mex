@@ -17,6 +17,6 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 207
 
-Los asegurados a que se refiere esta Sección tendrán derecho al servicio a partir de que el trabajador sea dado de alta ante el Instituto y cuando sean dados de baja en el régimen obligatorio conservarán durante las cuatro semanas posteriores a dicha baja, el derecho a las prestaciones de este seguro.
+Los asegurados a que se refiere esta Sección tendrán derecho al servicio a partir de que el trabajador sea dado de alta ante el [Instituto](articulo-5-A.md) y cuando sean dados de baja en el régimen obligatorio conservarán durante las cuatro semanas posteriores a dicha baja, el derecho a las prestaciones de este seguro.
 
 Artículo reformado DOF 20-12-2001

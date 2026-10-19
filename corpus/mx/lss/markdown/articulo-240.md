@@ -17,4 +17,4 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 240
 
-Todas las familias en México tienen derecho a un seguro de salud para sus miembros y para ese efecto, podrán celebrar con el Instituto Mexicano del Seguro Social convenio para el otorgamiento de las prestaciones en especie del seguro de enfermedades y maternidad, en los términos del reglamento respectivo.
+Todas las familias en México tienen derecho a un seguro de salud para sus miembros y para ese efecto, podrán celebrar con el [Instituto](articulo-5-A.md) Mexicano del Seguro Social convenio para el otorgamiento de las prestaciones en especie del seguro de enfermedades y maternidad, en los términos del reglamento respectivo.

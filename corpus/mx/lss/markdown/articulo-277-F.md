@@ -17,7 +17,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 277-F
 
-En casos debidamente justificados, el Consejo Técnico podrá autorizar que el Instituto celebre contratos plurianuales de obras públicas, adquisiciones, arrendamientos o servicios durante el ejercicio fiscal, siempre que:
+En casos debidamente justificados, el Consejo Técnico podrá autorizar que el [Instituto](articulo-5-A.md) celebre contratos plurianuales de obras públicas, adquisiciones, arrendamientos o servicios durante el ejercicio fiscal, siempre que:
 
 I. Justifiquen que su celebración representa ventajas económicas o que sus términos o condiciones son más favorables, considerando en su caso, la vigencia de las patentes de los bienes a adquirir;
 

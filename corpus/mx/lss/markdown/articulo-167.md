@@ -17,4 +17,4 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 167
 
-Los patrones y el Gobierno Federal, en la parte que les corresponde están obligados a enterar al Instituto el importe de las cuotas obrero patronales y la aportación estatal del seguro de retiro, cesantía en edad avanzada y vejez. Dichas cuotas se recibirán y se depositarán en las respectivas subcuentas de la cuenta individual de cada trabajador, en los términos previstos en la Ley para la Coordinación de los Sistemas de Ahorro para el Retiro.
+Los patrones y el Gobierno Federal, en la parte que les corresponde están obligados a enterar al [Instituto](articulo-5-A.md) el importe de las cuotas obrero patronales y la aportación estatal del seguro de retiro, cesantía en edad avanzada y vejez. Dichas cuotas se recibirán y se depositarán en las respectivas subcuentas de la cuenta individual de cada trabajador, en los términos previstos en la [Ley](articulo-5-A.md) para la Coordinación de los Sistemas de Ahorro para el Retiro.

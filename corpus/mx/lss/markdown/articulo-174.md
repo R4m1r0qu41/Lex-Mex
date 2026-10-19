@@ -17,4 +17,4 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 174
 
-Para los efectos de este seguro, es derecho de todo trabajador asegurado contar con una cuenta individual, la que se integrará en los términos señalados en el artículo [159](articulo-159.md) fracción I de esta Ley.
+Para los efectos de este seguro, es derecho de todo trabajador asegurado contar con una cuenta individual, la que se integrará en los términos señalados en el artículo [159](articulo-159.md) fracción I de esta [Ley](articulo-5-A.md).

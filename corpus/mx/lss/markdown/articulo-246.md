@@ -17,4 +17,4 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 246
 
-El Instituto podrá contratar seguros adicionales para satisfacer las prestaciones económicas pactadas en los contratos Ley o en los contratos colectivos de trabajo que fueran superiores a las de la misma naturaleza que establece el régimen obligatorio del Seguro Social.
+El [Instituto](articulo-5-A.md) podrá contratar seguros adicionales para satisfacer las prestaciones económicas pactadas en los contratos [Ley](articulo-5-A.md) o en los contratos colectivos de trabajo que fueran superiores a las de la misma naturaleza que establece el régimen obligatorio del Seguro Social.

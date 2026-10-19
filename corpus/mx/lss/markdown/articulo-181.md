@@ -17,4 +17,4 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 181
 
-La Administradora de Fondos para el Retiro deberá informar a cada trabajador titular de una cuenta individual, el estado de la misma, en los términos, periodicidad y forma que al efecto establezca la Ley para la Coordinación de los Sistemas de Ahorro para el Retiro, sin perjuicio de que el asegurado en todo tiempo tenga el derecho a solicitar cualquier tipo de información, relacionada con su cuenta individual, a la administradora.
+La Administradora de Fondos para el Retiro deberá informar a cada trabajador titular de una cuenta individual, el estado de la misma, en los términos, periodicidad y forma que al efecto establezca la [Ley](articulo-5-A.md) para la Coordinación de los Sistemas de Ahorro para el Retiro, sin perjuicio de que el asegurado en todo tiempo tenga el derecho a solicitar cualquier tipo de información, relacionada con su cuenta individual, a la administradora.

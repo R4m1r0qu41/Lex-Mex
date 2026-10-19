@@ -17,6 +17,6 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 28-A
 
-La base de cotización para los sujetos obligados señalados en la fracción II del artículo [12](articulo-12.md) de esta Ley, se integrará por el total de las percepciones que reciban por la aportación de su trabajo personal, aplicándose en lo conducente lo establecido en los artículos [28](articulo-28.md), [29](articulo-29.md), [30](articulo-30.md), [32](articulo-32.md) y demás aplicables de esta Ley.
+La base de cotización para los sujetos obligados señalados en la fracción II del artículo [12](articulo-12.md) de esta [Ley](articulo-5-A.md), se integrará por el total de las percepciones que reciban por la aportación de su trabajo personal, aplicándose en lo conducente lo establecido en los artículos [28](articulo-28.md), [29](articulo-29.md), [30](articulo-30.md), [32](articulo-32.md) y demás aplicables de esta Ley.
 
 Artículo adicionado DOF 20-12-2001

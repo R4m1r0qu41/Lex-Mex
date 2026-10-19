@@ -17,7 +17,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 286-C
 
-El Instituto deberá contar con una unidad administrativa que de manera especializada se encargará de la inversión de los recursos del Instituto y los mecanismos que deberá utilizar para ello, bajo criterios de prudencia, seguridad, rendimiento, liquidez, diversificación de riesgo, transparencia y respeto a las sanas prácticas y usos del medio financiero nacional, procurando una revelación plena de información.
+El [Instituto](articulo-5-A.md) deberá contar con una unidad administrativa que de manera especializada se encargará de la inversión de los recursos del Instituto y los mecanismos que deberá utilizar para ello, bajo criterios de prudencia, seguridad, rendimiento, liquidez, diversificación de riesgo, transparencia y respeto a las sanas prácticas y usos del medio financiero nacional, procurando una revelación plena de información.
 
 Dicha unidad administrativa deberá contar con una infraestructura profesional y operativa que permita un proceso flexible, transparente y eficiente, para operar de manera competitiva en el mercado financiero.
 

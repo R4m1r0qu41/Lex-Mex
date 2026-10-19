@@ -17,7 +17,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 274
 
-A más tardar cuarenta y cinco días naturales antes de que conforme a lo establecido en la Constitución Política de los Estados Unidos Mexicanos, el Ejecutivo Federal remita al Congreso de la Unión la iniciativa de Ley de Ingresos y el Proyecto de Presupuesto de Egresos de la Federación, el Director General propondrá al Consejo Técnico el anteproyecto de presupuesto de ingresos y egresos del Instituto, que incluya los gastos de operación y el flujo de efectivo, tomando en cuenta los criterios de política económica y presupuestaria del Gobierno Federal, así como la evolución de los ingresos de éste y lineamientos del control del gasto.
+A más tardar cuarenta y cinco días naturales antes de que conforme a lo establecido en la Constitución Política de los Estados Unidos Mexicanos, el Ejecutivo Federal remita al Congreso de la Unión la iniciativa de [Ley](articulo-5-A.md) de Ingresos y el Proyecto de Presupuesto de Egresos de la Federación, el Director General propondrá al Consejo Técnico el anteproyecto de presupuesto de ingresos y egresos del [Instituto](articulo-5-A.md), que incluya los gastos de operación y el flujo de efectivo, tomando en cuenta los criterios de política económica y presupuestaria del Gobierno Federal, así como la evolución de los ingresos de éste y lineamientos del control del gasto.
 
 El Consejo Técnico discutirá y aprobará dicho anteproyecto de presupuesto que será remitido a la Secretaría de Hacienda y Crédito Público para los efectos del artículo [276](articulo-276.md) de esta Ley.
 

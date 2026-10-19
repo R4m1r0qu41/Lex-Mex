@@ -17,7 +17,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 286-L
 
-Las personas particulares podrán presentar ante el Instituto, las promociones o solicitudes relacionadas con el ejercicio de las facultades de éste, establecidas en la Ley y sus Reglamentos a través del Buzón IMSS, para lo cual emplearán los medios de identificación correspondientes. Párrafo reformado DOF 07-06-2024
+Las personas particulares podrán presentar ante el [Instituto](articulo-5-A.md), las promociones o solicitudes relacionadas con el ejercicio de las facultades de éste, establecidas en la [Ley](articulo-5-A.md) y sus Reglamentos a través del [Buzón IMSS](articulo-5-A.md), para lo cual emplearán los medios de identificación correspondientes. Párrafo reformado DOF 07-06-2024
 
 Las actuaciones realizadas a través del Buzón IMSS producirán los mismos efectos legales que los documentos firmados autógrafamente y, en consecuencia, tendrán el mismo valor probatorio que las disposiciones aplicables les otorguen a éstos. Párrafo reformado DOF 07-06-2024
 

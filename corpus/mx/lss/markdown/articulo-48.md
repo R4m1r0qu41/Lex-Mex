@@ -17,4 +17,4 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 48
 
-Si el Instituto comprueba que el riesgo de trabajo fue producido intencionalmente por el patrón, por sí o por medio de tercera persona, el Instituto otorgará al asegurado las prestaciones en dinero y en especie que la presente Ley establece y el patrón quedará obligado a restituir íntegramente al Instituto las erogaciones que éste haga por tales conceptos.
+Si el [Instituto](articulo-5-A.md) comprueba que el riesgo de trabajo fue producido intencionalmente por el patrón, por sí o por medio de tercera persona, el Instituto otorgará al asegurado las prestaciones en dinero y en especie que la presente [Ley](articulo-5-A.md) establece y el patrón quedará obligado a restituir íntegramente al Instituto las erogaciones que éste haga por tales conceptos.

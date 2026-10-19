@@ -17,4 +17,4 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 7
 
-El Seguro Social cubre las contingencias y proporciona los servicios que se especifican a propósito de cada régimen particular, mediante prestaciones en especie y en dinero, en las formas y condiciones previstas por esta Ley y sus reglamentos.
+El Seguro Social cubre las contingencias y proporciona los servicios que se especifican a propósito de cada régimen particular, mediante prestaciones en especie y en dinero, en las formas y condiciones previstas por esta [Ley](articulo-5-A.md) y sus reglamentos.

@@ -17,7 +17,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 193
 
-Los beneficiarios del trabajador titular de una cuenta individual del seguro de retiro, cesantía en edad avanzada y vejez serán los que establecen las fracciones III al IX del artículo [84](articulo-84.md), en relación con los artículos [129](articulo-129.md) al [137](articulo-137.md) de esta Ley.
+Los beneficiarios del trabajador titular de una cuenta individual del seguro de retiro, cesantía en edad avanzada y vejez serán los que establecen las fracciones III al IX del artículo [84](articulo-84.md), en relación con los artículos [129](articulo-129.md) al [137](articulo-137.md) de esta [Ley](articulo-5-A.md).
 
 En caso de fallecimiento del trabajador o pensionado, tendrán derecho a recibir los recursos de la cuenta individual que en términos de las disposiciones legales puedan entregarse en una sola exhibición por no tener otro fin específico, a los beneficiarios designados expresamente en los contratos de administración de fondos para el retiro que las Administradoras de Fondos para el Retiro celebren con los trabajadores, en la proporción estipulada para cada uno de ellos. Para tales efectos, el trabajador podrá en cualquier tiempo sustituir a los beneficiarios que hubiera designado, así como modificar, en su caso, la proporción correspondiente a cada uno de ellos.
 

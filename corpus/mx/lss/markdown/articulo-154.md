@@ -17,9 +17,9 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 154
 
-Para los efectos de esta Ley existe cesantía en edad avanzada cuando el asegurado quede privado de trabajos remunerados a partir de los sesenta años de edad. Párrafo reformado DOF 20-12-2001
+Para los efectos de esta [Ley](articulo-5-A.md) existe cesantía en edad avanzada cuando el asegurado quede privado de trabajos remunerados a partir de los sesenta años de edad. Párrafo reformado DOF 20-12-2001
 
-Para gozar de las prestaciones de este ramo se requiere que el asegurado tenga reconocidas ante el Instituto un mínimo de mil cotizaciones semanales. Párrafo reformado DOF 16-12-2020
+Para gozar de las prestaciones de este ramo se requiere que el asegurado tenga reconocidas ante el [Instituto](articulo-5-A.md) un mínimo de mil cotizaciones semanales. Párrafo reformado DOF 16-12-2020
 
 El trabajador cesante que tenga sesenta años o más y no reúna las semanas de cotización señaladas en el párrafo precedente, podrá retirar el saldo de su cuenta individual en una sola exhibición o seguir cotizando hasta cubrir las semanas necesarias para que opere su pensión.
 

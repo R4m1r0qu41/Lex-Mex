@@ -17,7 +17,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 5-A
 
-Para los efectos de esta Ley, se entiende por:
+Para los efectos de esta [Ley](articulo-5-A.md), se entiende por:
 
 I. Ley: la Ley del Seguro Social;
 
@@ -37,9 +37,9 @@ VIII. Sujetos o sujeto obligado: los señalados en los artículos 12, 13, 229, 2
 
 IX. Sujetos o sujeto de aseguramiento: los señalados en los artículos 12, 13, 241 y 250 A, de la Ley;
 
-X. Responsables o responsable solidario: para los efectos de las aportaciones de seguridad social son aquellos que define como tales el artículo 26 del Código y los previstos en esta Ley;
+X. Responsables o responsable solidario: para los efectos de las aportaciones de seguridad social son aquellos que define como tales el artículo 26 del [Código](articulo-5-A.md) y los previstos en esta Ley;
 
-XI. Asegurados o asegurado: el trabajador o sujeto de aseguramiento inscrito ante el Instituto, en los términos de la Ley;
+XI. Asegurados o asegurado: el trabajador o sujeto de aseguramiento inscrito ante el [Instituto](articulo-5-A.md), en los términos de la Ley;
 
 XII. Beneficiarios: la o el cónyuge del asegurado o asegurada o del pensionado o pensionada y a falta de éstos, a la concubina o el concubinario en su caso, a quien haya suscrito una unión civil con el asegurado o asegurada o el pensionado o pensionada, cualquiera que fuere su sexo, así como los ascendientes y descendientes de la o el asegurado o de la o el pensionado señalados en la ley; Fracción reformada DOF 20-01-2023
 
@@ -65,7 +65,7 @@ XXII. Servicio de guardería: derecho de las madres y padres trabajadores asegur
 
 XXIII. Buzón IMSS: el sistema de comunicación electrónico implementado, administrado por el Instituto Mexicano del Seguro Social y establecido en su página de Internet, a través del cual podrá realizar la notificación de cualquier acto, requerimiento o resolución administrativa que emita en documentos digitales, e informar sobre aspectos de interés; mediante el cual, los particulares podrán presentar promociones, solicitudes, avisos o dar cumplimiento a sus obligaciones y requerimientos efectuados por el Instituto; ello, mediante documentos digitales, así como realizar consultas sobre su situación fiscal y administrativa ante el Instituto, y Fracción adicionada DOF 07-06-2024
 
-XXIV. Personas Particulares: las y los derechohabientes, patrones, sujetos obligados, contadores públicos, contadores públicos autorizados, responsables solidarios, terceros relacionados, sean personas físicas o morales y representantes legales que realicen actuaciones ante el Instituto mediante el Buzón IMSS. Fracción adicionada DOF 07-06-2024
+XXIV. Personas Particulares: las y los derechohabientes, patrones, sujetos obligados, contadores públicos, contadores públicos autorizados, responsables solidarios, terceros relacionados, sean personas físicas o morales y representantes legales que realicen actuaciones ante el Instituto mediante el [Buzón IMSS](articulo-5-A.md). Fracción adicionada DOF 07-06-2024
 
 Por lo que respecta a los matrimonios celebrados entre personas del mismo sexo, esta ley reconoce tales uniones con los mismos derechos y obligaciones que los celebrados entre hombre y mujer. Párrafo adicionado DOF 20-01-2023
 

@@ -27,6 +27,6 @@ III. Se deroga. Fracción derogada DOF 01-12-2023
 
 IV. Se deroga. Fracción derogada DOF 01-12-2023 V. Los trabajadores al servicio de las administraciones públicas de la Federación, entidades federativas y municipios que estén excluidas o no comprendidas en otras leyes o decretos como sujetos de seguridad social.
 
-Mediante convenio con el Instituto se establecerán las modalidades y fechas de incorporación al régimen obligatorio, de los sujetos de aseguramiento comprendidos en este artículo.
+Mediante convenio con el [Instituto](articulo-5-A.md) se establecerán las modalidades y fechas de incorporación al régimen obligatorio, de los sujetos de aseguramiento comprendidos en este artículo.
 
 Dichos convenios deberán sujetarse al reglamento que al efecto expida el Ejecutivo Federal.

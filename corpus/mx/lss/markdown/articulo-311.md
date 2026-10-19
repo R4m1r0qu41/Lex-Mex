@@ -19,8 +19,8 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 Se impondrá sanción de tres meses a tres años de prisión, a los patrones o sus representantes y demás sujetos obligados que:
 
-I. No formulen los avisos de inscripción o proporcionen al Instituto datos falsos evadiendo el pago o reduciendo el importe de las cuotas obrero patronales, en perjuicio del Instituto o de los trabajadores, en un porcentaje de veinticinco por ciento o más de la obligación fiscal, o
+I. No formulen los avisos de inscripción o proporcionen al [Instituto](articulo-5-A.md) datos falsos evadiendo el pago o reduciendo el importe de las cuotas obrero patronales, en perjuicio del Instituto o de los trabajadores, en un porcentaje de veinticinco por ciento o más de la obligación fiscal, o
 
-II. Obtengan un beneficio indebido y no comuniquen al Instituto la suspensión o término de actividades; clausura; cambio de razón social; modificación de salario; actividad; domicilio; sustitución patronal; fusión o cualquier otra circunstancia que afecte su registro ante el Instituto y proporcionar al Instituto información falsa respecto de las obligaciones a su cargo, en términos de esta Ley.
+II. Obtengan un beneficio indebido y no comuniquen al Instituto la suspensión o término de actividades; clausura; cambio de razón social; modificación de salario; actividad; domicilio; sustitución patronal; fusión o cualquier otra circunstancia que afecte su registro ante el Instituto y proporcionar al Instituto información falsa respecto de las obligaciones a su cargo, en términos de esta [Ley](articulo-5-A.md).
 
 Artículo adicionado DOF 20-12-2001

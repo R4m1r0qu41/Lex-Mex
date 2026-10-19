@@ -17,7 +17,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 23
 
-Cuando los contratos colectivos concedan prestaciones inferiores a las otorgadas por esta Ley, el patrón pagará al Instituto todos los aportes proporcionales a las prestaciones contractuales. Para satisfacer las diferencias entre estas últimas y las establecidas por la Ley, las partes cubrirán las cuotas correspondientes.
+Cuando los contratos colectivos concedan prestaciones inferiores a las otorgadas por esta [Ley](articulo-5-A.md), el patrón pagará al [Instituto](articulo-5-A.md) todos los aportes proporcionales a las prestaciones contractuales. Para satisfacer las diferencias entre estas últimas y las establecidas por la Ley, las partes cubrirán las cuotas correspondientes.
 
 Si en los contratos colectivos se pactan prestaciones iguales a las establecidas por esta Ley, el patrón pagará al Instituto íntegramente las cuotas obrero patronales.
 

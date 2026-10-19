@@ -19,7 +19,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 El ramo de guarderías cubre los cuidados, durante la jornada de trabajo, de las hijas e hijos en la primera infancia, de las personas trabajadoras, mediante el otorgamiento de las prestaciones establecidas en este capítulo. Párrafo reformado DOF 21-10-2020
 
-Este beneficio se podrá extender a los asegurados que por resolución judicial ejerzan la patria potestad y la custodia de un menor, siempre y cuando estén vigentes en sus derechos ante el Instituto y no puedan proporcionar la atención y cuidados al menor.
+Este beneficio se podrá extender a los asegurados que por resolución judicial ejerzan la patria potestad y la custodia de un menor, siempre y cuando estén vigentes en sus derechos ante el [Instituto](articulo-5-A.md) y no puedan proporcionar la atención y cuidados al menor.
 
 El servicio de guardería se proporcionará en el turno matutino y vespertino pudiendo tener acceso a alguno de estos turnos, el hijo del trabajador cuya jornada de labores sea nocturna.
 

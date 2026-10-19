@@ -17,7 +17,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 205
 
-Las personas trabajadoras aseguradas tendrán derecho a los servicios de guardería para sus hijas e hijos, durante las horas de su jornada de trabajo, en la forma y términos establecidos en esta Ley y en el reglamento relativo. Párrafo reformado DOF 21-10-2020
+Las personas trabajadoras aseguradas tendrán derecho a los servicios de guardería para sus hijas e hijos, durante las horas de su jornada de trabajo, en la forma y términos establecidos en esta [Ley](articulo-5-A.md) y en el reglamento relativo. Párrafo reformado DOF 21-10-2020
 
 El servicio de guarderías se proporcionará en el turno matutino y vespertino, pudiendo tener acceso a alguno de estos turnos, el hijo del trabajador cuya jornada de labores sea nocturna.
 

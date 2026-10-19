@@ -19,7 +19,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 El sistema de profesionalización y desarrollo comprendido en el Estatuto a que se refiere el [artículo anterior](articulo-286-I.md) se regirá por los siguientes principios:
 
-I. El mérito propio y la igualdad de oportunidades para el ingreso y la promoción en el servicio, con base en la experiencia general y/o en el Instituto, desempeño, aptitudes, conocimientos y capacidad;
+I. El mérito propio y la igualdad de oportunidades para el ingreso y la promoción en el servicio, con base en la experiencia general y/o en el [Instituto](articulo-5-A.md), desempeño, aptitudes, conocimientos y capacidad;
 
 II. Especialización y profesionalización para el desempeño de las funciones y actividades asignadas a cada puesto;
 

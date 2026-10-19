@@ -17,7 +17,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 46
 
-No se considerarán para los efectos de esta Ley, riesgos de trabajo los que sobrevengan por alguna de las causas siguientes:
+No se considerarán para los efectos de esta [Ley](articulo-5-A.md), riesgos de trabajo los que sobrevengan por alguna de las causas siguientes:
 
 I. Si el accidente ocurre encontrándose el trabajador en estado de embriaguez;
 

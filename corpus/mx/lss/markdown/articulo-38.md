@@ -21,4 +21,4 @@ El patrón al efectuar el pago de salarios a sus trabajadores, deberá retener l
 
 Cuando no lo haga en tiempo oportuno, sólo podrá descontar al trabajador cuatro cotizaciones semanales acumuladas, quedando las restantes a su cargo.
 
-El patrón tendrá el carácter de retenedor de las cuotas que descuente a sus trabajadores y deberá determinar y enterar al Instituto las cuotas obrero patronales, en los términos establecidos por esta Ley y sus reglamentos.
+El patrón tendrá el carácter de retenedor de las cuotas que descuente a sus trabajadores y deberá determinar y enterar al [Instituto](articulo-5-A.md) las cuotas obrero patronales, en los términos establecidos por esta [Ley](articulo-5-A.md) y sus reglamentos.

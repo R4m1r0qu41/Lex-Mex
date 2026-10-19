@@ -23,6 +23,6 @@ Los pagos diferidos que los patrones realicen con base en convenio, se aplicará
 
 El pago diferido de las cuotas del seguro de retiro, cesantía en edad avanzada y vejez, también causará los accesorios a que se refiere el [artículo anterior](articulo-40-C.md), depositándose las cuotas actualizadas y los recargos en la cuenta individual del trabajador.
 
-De todas las prórrogas que involucren cuotas del seguro de retiro, cesantía en edad avanzada y vejez, el Instituto deberá informar a la Comisión Nacional del Sistema de Ahorro para el Retiro. Sin perjuicio de lo anterior, los patrones deberán proporcionar copia de las prórrogas que involucren dichas cuotas, a la Comisión Nacional del Sistema de Ahorro para el Retiro, así como a las entidades financieras que mediante reglas generales determine la misma Comisión.
+De todas las prórrogas que involucren cuotas del seguro de retiro, cesantía en edad avanzada y vejez, el [Instituto](articulo-5-A.md) deberá informar a la Comisión Nacional del Sistema de Ahorro para el Retiro. Sin perjuicio de lo anterior, los patrones deberán proporcionar copia de las prórrogas que involucren dichas cuotas, a la Comisión Nacional del Sistema de Ahorro para el Retiro, así como a las entidades financieras que mediante reglas generales determine la misma Comisión.
 
 Artículo adicionado DOF 20-12-2001

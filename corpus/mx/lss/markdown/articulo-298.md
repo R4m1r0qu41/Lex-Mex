@@ -19,4 +19,4 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 La obligación de enterar las cuotas y los capitales constitutivos, prescribirá a los cinco años de la fecha de su exigibilidad.
 
-La prescripción se regirá en cuanto a su consumación e interrupción, por las disposiciones aplicables del Código Fiscal de la Federación.
+La prescripción se regirá en cuanto a su consumación e interrupción, por las disposiciones aplicables del [Código](articulo-5-A.md) Fiscal de la Federación.

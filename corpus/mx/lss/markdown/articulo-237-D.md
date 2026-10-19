@@ -17,7 +17,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 237-D
 
-El Instituto podrá verificar que los patrones del campo se encuentran al corriente en cuanto al cumplimiento de las obligaciones a su cargo derivadas de esta Ley, previamente al otorgamiento de los subsidios, apoyos o beneficios, derivados del Presupuesto de Egresos de la Federación, que dichos patrones del campo soliciten al Gobierno Federal, a través de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
+El [Instituto](articulo-5-A.md) podrá verificar que los patrones del campo se encuentran al corriente en cuanto al cumplimiento de las obligaciones a su cargo derivadas de esta [Ley](articulo-5-A.md), previamente al otorgamiento de los subsidios, apoyos o beneficios, derivados del Presupuesto de Egresos de la Federación, que dichos patrones del campo soliciten al Gobierno Federal, a través de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
 
 Para tales efectos, sin perjuicio del ejercicio de las facultades de comprobación que le corresponden al Instituto en su carácter de organismo fiscal autónomo, la Secretaría de Agricultura y Desarrollo Rural, deberá proporcionar semestralmente al Instituto el padrón de personas empleadoras del campo que sean sujetas de las disposiciones contenidas en este Capítulo, correspondientes a los sectores agrícola, hortícola, ganadero, forestal, acuícola, apícolas u otras semejantes, identificando a aquellas sujetas a recibir subsidios, apoyos o beneficios derivados del Presupuesto de Egresos de la Federación. Párrafo reformado DOF 24-01-2024
 

@@ -17,6 +17,6 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 288
 
-En los casos de concurso u otros procedimientos, en los que se discuta la prelación de créditos, los del Instituto serán preferentes a cualquier otro.
+En los casos de concurso u otros procedimientos, en los que se discuta la prelación de créditos, los del [Instituto](articulo-5-A.md) serán preferentes a cualquier otro.
 
 Artículo reformado DOF 20-12-2001

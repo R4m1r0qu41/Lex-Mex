@@ -17,7 +17,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 127
 
-Cuando ocurra la muerte de la o el asegurado o del pensionado por invalidez, el Instituto otorgará a sus beneficiarios, conforme a lo dispuesto en el presente capítulo, las siguientes prestaciones: Párrafo reformado DOF 20-01-2023
+Cuando ocurra la muerte de la o el asegurado o del pensionado por invalidez, el [Instituto](articulo-5-A.md) otorgará a sus beneficiarios, conforme a lo dispuesto en el presente capítulo, las siguientes prestaciones: Párrafo reformado DOF 20-01-2023
 
 I. Pensión de viudez;
 
@@ -33,6 +33,6 @@ En caso de fallecimiento de un asegurado o de una asegurada, las pensiones a que
 
 Cuando el trabajador o la trabajadora fallecidos, hayan tenido un saldo acumulado en su cuenta individual que sea mayor al necesario para integrar el monto constitutivo para contratar una renta que sea superior a la pensión a que tengan derecho sus beneficiarios, en los términos de este capítulo, estos podrán retirar la suma excedente en una sola exhibición de la cuenta individual del trabajador o trabajadora fallecidos, o contratar una renta por una suma mayor. Párrafo reformado DOF 20-01-2023
 
-La renta vitalicia se sujetará a lo dispuesto en el artículo [159](articulo-159.md) fracción IV de esta Ley.
+La renta vitalicia se sujetará a lo dispuesto en el artículo [159](articulo-159.md) fracción IV de esta [Ley](articulo-5-A.md).
 
 En caso de fallecimiento de un pensionado por riesgos de trabajo, invalidez, retiro, cesantía en edad avanzada y vejez, las pensiones a que se refieren las fracciones I, II, y III de este artículo se otorgarán con cargo al seguro de sobrevivencia que haya contratado el pensionado fallecido.

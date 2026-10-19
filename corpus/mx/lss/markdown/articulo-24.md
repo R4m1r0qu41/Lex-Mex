@@ -17,4 +17,4 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 24
 
-Los patrones tendrán el derecho a descontar del importe de las prestaciones contractuales que deben cubrir directamente, las cuantías correspondientes a las prestaciones de la misma naturaleza otorgadas por el Instituto.
+Los patrones tendrán el derecho a descontar del importe de las prestaciones contractuales que deben cubrir directamente, las cuantías correspondientes a las prestaciones de la misma naturaleza otorgadas por el [Instituto](articulo-5-A.md).

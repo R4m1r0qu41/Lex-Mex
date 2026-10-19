@@ -31,7 +31,7 @@ V. Guarderías y Prestaciones Sociales;
 
 VI. Seguro de Salud para la Familia, y
 
-VII. Para otros seguros o coberturas, que en su caso, se establezcan con base en esta Ley.
+VII. Para otros seguros o coberturas, que en su caso, se establezcan con base en esta [Ley](articulo-5-A.md).
 
 Las Reservas Operativas recibirán la totalidad de los ingresos por cuotas obrero patronales y aportaciones federales, así como por las cuotas y contribuciones de los seguros voluntarios y otros que se establezcan, salvo lo dispuesto en la fracción VI del artículo [15](articulo-15.md) de esta Ley. Sólo se podrá disponer de ellas para hacer frente al pago de prestaciones, gastos administrativos y constitución de las Reservas Financieras y Actuariales del seguro y cobertura a que correspondan, y para la aportación correspondiente para la constitución de las Reservas de Operación para Contingencias y Financiamiento y General Financiera y Actuarial.
 

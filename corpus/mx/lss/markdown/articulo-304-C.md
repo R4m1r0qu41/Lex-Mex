@@ -17,9 +17,9 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 304-C
 
-No se impondrán multas cuando se cumplan en forma espontánea las obligaciones patronales fuera de los plazos señalados por la Ley o cuando se haya incurrido en infracción por caso fortuito o fuerza mayor. Se considerará que el cumplimiento no es espontáneo en el caso de que:
+No se impondrán multas cuando se cumplan en forma espontánea las obligaciones patronales fuera de los plazos señalados por la [Ley](articulo-5-A.md) o cuando se haya incurrido en infracción por caso fortuito o fuerza mayor. Se considerará que el cumplimiento no es espontáneo en el caso de que:
 
-I. La omisión sea descubierta por el Instituto;
+I. La omisión sea descubierta por el [Instituto](articulo-5-A.md);
 
 II. La omisión haya sido corregida por el patrón después de que el Instituto hubiere notificado una orden de visita domiciliaria, o haya mediado requerimiento o cualquier otra gestión notificada por el mismo, tendientes a la comprobación del cumplimiento de sus obligaciones en materia de seguridad social, y
 

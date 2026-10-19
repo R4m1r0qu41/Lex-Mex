@@ -15,4 +15,4 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # DECIMO OCTAVO
 
-A los asegurados que al momento de entrar en vigor esta Ley opten por acogerse al nuevo sistema de pensiones, les serán reconocidas las semanas cotizadas bajo el régimen anterior, con la finalidad de que al cumplirse los requisitos legales, se les conceda la pensión que corresponda.
+A los asegurados que al momento de entrar en vigor esta [Ley](articulo-5-A.md) opten por acogerse al nuevo sistema de pensiones, les serán reconocidas las semanas cotizadas bajo el régimen anterior, con la finalidad de que al cumplirse los requisitos legales, se les conceda la pensión que corresponda.

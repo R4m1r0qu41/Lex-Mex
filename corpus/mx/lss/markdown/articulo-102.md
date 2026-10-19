@@ -21,7 +21,7 @@ Para que la asegurada tenga derecho al subsidio que se señala en el [artículo 
 
 I. Que haya cubierto por lo menos treinta cotizaciones semanales en el período de doce meses anteriores a la fecha en que debiera comenzar el pago del subsidio;
 
-II. Que se haya certificado por el Instituto el embarazo y la fecha probable del parto, y
+II. Que se haya certificado por el [Instituto](articulo-5-A.md) el embarazo y la fecha probable del parto, y
 
 III. Que no ejecute trabajo alguno mediante retribución durante los períodos anteriores y posteriores al parto.
 

@@ -17,4 +17,4 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 92
 
-Si al concluir el período de cincuenta y dos semanas previsto en el [artículo anterior](articulo-91.md), el asegurado continúa enfermo, el Instituto prorrogará su tratamiento hasta por cincuenta y dos semanas más, previo dictamen médico.
+Si al concluir el período de cincuenta y dos semanas previsto en el [artículo anterior](articulo-91.md), el asegurado continúa enfermo, el [Instituto](articulo-5-A.md) prorrogará su tratamiento hasta por cincuenta y dos semanas más, previo dictamen médico.

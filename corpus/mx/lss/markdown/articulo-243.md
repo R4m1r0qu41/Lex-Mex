@@ -17,4 +17,4 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 243
 
-El Instituto, también, podrá celebrar este tipo de convenios, en forma individual o colectiva con trabajadores mexicanos que se encuentren laborando en el extranjero, a fin de que se proteja a sus familiares residentes en el territorio nacional y a ellos mismos cuando se ubiquen en éste. Estos asegurados cubrirán íntegramente la prima establecida en el [artículo anterior](articulo-242.md).
+El [Instituto](articulo-5-A.md), también, podrá celebrar este tipo de convenios, en forma individual o colectiva con trabajadores mexicanos que se encuentren laborando en el extranjero, a fin de que se proteja a sus familiares residentes en el territorio nacional y a ellos mismos cuando se ubiquen en éste. Estos asegurados cubrirán íntegramente la prima establecida en el [artículo anterior](articulo-242.md).

@@ -25,6 +25,6 @@ II. Los subsidios por incapacidad para el trabajo por enfermedad no profesional 
 
 III. La ayuda para gastos de funeral, y
 
-IV. Los finiquitos que establece la Ley.
+IV. Los finiquitos que establece la [Ley](articulo-5-A.md).
 
 Los subsidios por incapacidad para trabajar derivada de un riesgo de trabajo, prescriben en dos años a partir del día en que se hubiera generado el derecho a su percepción.

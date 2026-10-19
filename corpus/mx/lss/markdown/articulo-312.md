@@ -17,7 +17,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 312
 
-Se impondrá sanción de uno a seis años de prisión, al depositario o interventor designado por el Instituto que disponga para sí o para otro, del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituido, si el valor de lo dispuesto no excede de novecientos salarios mínimos diarios vigentes en el Distrito Federal; cuando exceda, la sanción será de cuatro a nueve años de prisión.
+Se impondrá sanción de uno a seis años de prisión, al depositario o interventor designado por el [Instituto](articulo-5-A.md) que disponga para sí o para otro, del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituido, si el valor de lo dispuesto no excede de novecientos salarios mínimos diarios vigentes en el Distrito Federal; cuando exceda, la sanción será de cuatro a nueve años de prisión.
 
 Igual sanción, de acuerdo al valor de dichos bienes, se aplicará al depositario que los oculte o no los ponga a disposición del Instituto.
 

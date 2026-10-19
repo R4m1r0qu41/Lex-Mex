@@ -17,7 +17,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 304-D
 
-El Instituto podrá dejar sin efectos las multas impuestas por infracción a las disposiciones de esta Ley y sus reglamentos, cuando a su juicio, con la sola exhibición documental por los interesados se acredite que no se incurrió en la infracción.
+El [Instituto](articulo-5-A.md) podrá dejar sin efectos las multas impuestas por infracción a las disposiciones de esta [Ley](articulo-5-A.md) y sus reglamentos, cuando a su juicio, con la sola exhibición documental por los interesados se acredite que no se incurrió en la infracción.
 
 La solicitud de dejar sin efectos las multas en los términos de este artículo, no constituye instancia y las resoluciones que dicte el Instituto al respecto no podrán ser impugnadas por los medios de defensa que establece esta Ley.
 

@@ -17,6 +17,6 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 87
 
-El Instituto podrá determinar la hospitalización del asegurado, del pensionado o de los beneficiarios, cuando así lo exija la enfermedad, particularmente tratándose de padecimientos contagiosos.
+El [Instituto](articulo-5-A.md) podrá determinar la hospitalización del asegurado, del pensionado o de los beneficiarios, cuando así lo exija la enfermedad, particularmente tratándose de padecimientos contagiosos.
 
 Para la hospitalización se requiere el consentimiento expreso del enfermo, a menos que la naturaleza de la enfermedad haga dispensable esa medida. La hospitalización de menores de edad y demás incapacitados, precisa el consentimiento de quienes ejerzan la patria potestad o la tutela, o bien, del Ministerio Público o autoridad legalmente competente. Párrafo reformado DOF 20-12-2001

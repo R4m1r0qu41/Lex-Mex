@@ -17,4 +17,4 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 234
 
-La seguridad social se extiende al campo mexicano, en los términos y formas que se establecen en la presente Ley y los reglamentos respectivos.
+La seguridad social se extiende al campo mexicano, en los términos y formas que se establecen en la presente [Ley](articulo-5-A.md) y los reglamentos respectivos.

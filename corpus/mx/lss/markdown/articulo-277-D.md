@@ -17,9 +17,9 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 277-D
 
-El Consejo Técnico, sujeto a las previsiones presupuestarias, aprobará los sueldos y prestaciones de los trabajadores de confianza a que se refiere el artículo [256](articulo-256.md) de esta Ley, y la contratación de servicios profesionales por honorarios, que resulten estrictamente necesarios, conforme a las bases de observancia obligatoria que el mismo emita.
+El Consejo Técnico, sujeto a las previsiones presupuestarias, aprobará los sueldos y prestaciones de los trabajadores de confianza a que se refiere el artículo [256](articulo-256.md) de esta [Ley](articulo-5-A.md), y la contratación de servicios profesionales por honorarios, que resulten estrictamente necesarios, conforme a las bases de observancia obligatoria que el mismo emita.
 
-Los sueldos a que se refiere el párrafo anterior se determinarán considerando los tabuladores que para las dependencias y entidades del sector público federal expida la Secretaría de Hacienda y Crédito Público y las condiciones imperantes en el mercado, conforme a un sistema de valuación de puestos. Los ajustes deberán guardar congruencia con los lineamientos que al efecto observe el Gobierno Federal, efecto para el cual el Instituto solicitará la opinión de la Secretaría de Hacienda y Crédito Público.
+Los sueldos a que se refiere el párrafo anterior se determinarán considerando los tabuladores que para las dependencias y entidades del sector público federal expida la Secretaría de Hacienda y Crédito Público y las condiciones imperantes en el mercado, conforme a un sistema de valuación de puestos. Los ajustes deberán guardar congruencia con los lineamientos que al efecto observe el Gobierno Federal, efecto para el cual el [Instituto](articulo-5-A.md) solicitará la opinión de la Secretaría de Hacienda y Crédito Público.
 
 El Director General del Instituto no podrá recibir percepciones superiores a las de un Secretario del Despacho en la Administración Pública Federal Centralizada.
 

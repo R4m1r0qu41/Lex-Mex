@@ -17,6 +17,6 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 286-N
 
-Cuando los documentos se presenten a través de los medios de comunicación a que se refiere este Capítulo, se utilicen para efectos del pago de cuotas obrero patronales, u otros trámites relacionados con ello, se regirán por lo que respecto de ese tipo de documentos se establezca en el Código.
+Cuando los documentos se presenten a través de los medios de comunicación a que se refiere este Capítulo, se utilicen para efectos del pago de cuotas obrero patronales, u otros trámites relacionados con ello, se regirán por lo que respecto de ese tipo de documentos se establezca en el [Código](articulo-5-A.md).
 
 Artículo adicionado DOF 20-12-2001

@@ -17,7 +17,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 306
 
-En los delitos previstos en este Capítulo en que el daño o perjuicio o beneficio indebido sea cuantificable, el Instituto hará la cuantificación correspondiente en la propia querella.
+En los delitos previstos en este Capítulo en que el daño o perjuicio o beneficio indebido sea cuantificable, el [Instituto](articulo-5-A.md) hará la cuantificación correspondiente en la propia querella.
 
 En los delitos a que se refiere este Capítulo, la autoridad judicial no impondrá sanción pecuniaria.
 

@@ -21,7 +21,7 @@ Durante el tiempo en que el trabajador deje de estar sujeto a una relación labo
 
 I. Realizar aportaciones a su cuenta individual, y II. Retirar parcialmente por situación de desempleo los recursos de la Subcuenta de Retiro, Cesantía en Edad Avanzada y Vejez, a partir del cuadragésimo sexto día natural contado desde el día en que quedó desempleado, en los siguientes términos:
 
-a) Si su cuenta individual tiene al menos tres años de haber sido abierta y tiene un mínimo de doce bimestres de cotización al Instituto acreditados en dicha cuenta, podrá retirar en una exhibición la cantidad que resulte al equivalente a treinta días de su último salario base de cotización, con un límite de diez veces el salario mínimo mensual general que rija en el Distrito Federal, o
+a) Si su cuenta individual tiene al menos tres años de haber sido abierta y tiene un mínimo de doce bimestres de cotización al [Instituto](articulo-5-A.md) acreditados en dicha cuenta, podrá retirar en una exhibición la cantidad que resulte al equivalente a treinta días de su último salario base de cotización, con un límite de diez veces el salario mínimo mensual general que rija en el Distrito Federal, o
 
 b) Si su cuenta individual tiene cinco años o más de haber sido abierta, podrá retirar la cantidad que resulte menor entre noventa días de su propio salario base de cotización de las últimas doscientas cincuenta semanas o las que tuviere, o el once punto cinco por ciento del saldo de la Subcuenta de Retiro, Cesantía en Edad Avanzada y Vejez.
 

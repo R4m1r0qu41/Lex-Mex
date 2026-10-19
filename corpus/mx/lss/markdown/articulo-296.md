@@ -17,7 +17,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 296
 
-Los derechohabientes podrán interponer ante el Instituto queja administrativa, la cual tendrá la finalidad de conocer las insatisfacciones de los usuarios por actos u omisiones del personal institucional vinculados con la prestación de los servicios médicos, siempre que los mismos no constituyan un acto definitivo impugnable a través del recurso de inconformidad. Párrafo reformado DOF 20-12-2001
+Los derechohabientes podrán interponer ante el [Instituto](articulo-5-A.md) queja administrativa, la cual tendrá la finalidad de conocer las insatisfacciones de los usuarios por actos u omisiones del personal institucional vinculados con la prestación de los servicios médicos, siempre que los mismos no constituyan un acto definitivo impugnable a través del recurso de inconformidad. Párrafo reformado DOF 20-12-2001
 
 El procedimiento administrativo de queja deberá agotarse previamente al conocimiento que deba tener otro órgano o autoridad de algún procedimiento administrativo, recurso o instancia jurisdiccional.
 

@@ -17,6 +17,6 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 19
 
-Para los efectos de esta Ley, las sociedades cooperativas pagarán la cuota correspondiente a los patrones, y cada uno de los socios a que se refiere la fracción II del artículo [12](articulo-12.md) de esta Ley cubrirán sus cuotas como trabajadores.
+Para los efectos de esta [Ley](articulo-5-A.md), las sociedades cooperativas pagarán la cuota correspondiente a los patrones, y cada uno de los socios a que se refiere la fracción II del artículo [12](articulo-12.md) de esta Ley cubrirán sus cuotas como trabajadores.
 
 Artículo reformado DOF 20-12-2001

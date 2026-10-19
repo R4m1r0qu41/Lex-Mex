@@ -17,6 +17,6 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 268-A
 
-El Director General será auxiliado en el cumplimiento de sus funciones por los servidores públicos de mando, personal de base y de confianza que se establezcan en el Reglamento Interior del Instituto que a propuesta del Consejo Técnico, expida el Ejecutivo Federal considerando lo que al efecto se estipule en el contrato colectivo de trabajo suscrito con los trabajadores del Instituto.
+El Director General será auxiliado en el cumplimiento de sus funciones por los servidores públicos de mando, personal de base y de confianza que se establezcan en el Reglamento Interior del [Instituto](articulo-5-A.md) que a propuesta del Consejo Técnico, expida el Ejecutivo Federal considerando lo que al efecto se estipule en el contrato colectivo de trabajo suscrito con los trabajadores del Instituto.
 
 Artículo adicionado DOF 20-12-2001

@@ -17,4 +17,4 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 156
 
-El derecho al goce de la pensión de cesantía en edad avanzada comenzará desde el día en que el asegurado cumpla con los requisitos señalados en el artículo [154](articulo-154.md) de esta Ley, siempre que solicite el otorgamiento de dicha pensión y acredite haber quedado privado de trabajo, si no fue recibido en el Instituto el aviso de baja.
+El derecho al goce de la pensión de cesantía en edad avanzada comenzará desde el día en que el asegurado cumpla con los requisitos señalados en el artículo [154](articulo-154.md) de esta [Ley](articulo-5-A.md), siempre que solicite el otorgamiento de dicha pensión y acredite haber quedado privado de trabajo, si no fue recibido en el [Instituto](articulo-5-A.md) el aviso de baja.

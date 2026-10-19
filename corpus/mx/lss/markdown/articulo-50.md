@@ -17,6 +17,6 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 50
 
-El asegurado que sufra algún accidente o enfermedad de trabajo, para gozar de las prestaciones en dinero a que se refiere este Capítulo, deberá someterse a los exámenes médicos y a los tratamientos que determine el Instituto, salvo cuando justifique la causa de no hacerlo. El Instituto deberá dar aviso al patrón cuando califique de profesional algún accidente o enfermedad, o en caso de recaída con motivo de éstos.
+El asegurado que sufra algún accidente o enfermedad de trabajo, para gozar de las prestaciones en dinero a que se refiere este Capítulo, deberá someterse a los exámenes médicos y a los tratamientos que determine el [Instituto](articulo-5-A.md), salvo cuando justifique la causa de no hacerlo. El Instituto deberá dar aviso al patrón cuando califique de profesional algún accidente o enfermedad, o en caso de recaída con motivo de éstos.
 
 Artículo reformado DOF 20-12-2001

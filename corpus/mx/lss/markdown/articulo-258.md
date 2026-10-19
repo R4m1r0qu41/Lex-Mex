@@ -17,7 +17,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 258
 
-La autoridad suprema del Instituto es la Asamblea General, integrada por treinta miembros que serán designados en la forma siguiente:
+La autoridad suprema del [Instituto](articulo-5-A.md) es la Asamblea General, integrada por treinta miembros que serán designados en la forma siguiente:
 
 I. Diez por el Ejecutivo Federal;
 

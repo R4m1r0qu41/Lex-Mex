@@ -1,5 +1,39 @@
 # Architecture decisions
 
+## 2026-10-18 — LSS defines two term sets: Article 5 A and Article 159
+
+**Operator ruling (2026-10-18, after the Codex outlier review).** LSS Article 5 A is the glossary. Article 159 adds to it, the way a further `se entenderá por:` does: it defines a different set of terms. Both are linked, and they must not conflict. This is an operator ruling on glossary scope, not a JRH legal approval. It covers `lss` only. The other instruments listed under "Which glossary governs" in the entry below are still open.
+
+**Mechanism:**
+- **More than one glossary provision.** An adapter's `glossary` may list `additional_provisions` (`crates/lex-source/src/lib.rs`). Their terms add to the first provision's (`extract_glossaries`). A term identifier defined in two of them fails `link`; it is not resolved by precedence.
+- **Two new styles apply an auto-detection grammar to one named provision:**
+  - `auto_established`: the established `se entenderá por:` pass, exactly as auto-detection applies it.
+  - `auto_whole`: the wider pass, accepted only whole. An incomplete glossary fails `link` instead of being held with no terms.
+- **`lss`:** 5 A uses `auto_whole`, and 159 uses `auto_established`, so 159's terms stay byte for byte.
+- **Ordering against the Codex review.** Codex put the repeal-placeholder and qualified-fraction guard repairs before any new admission. 5 A has no repealed fraction and no `Bis`/`Ter`, so neither defect can reach it.
+
+**Result** (`link --all`, byte-identical to a disposable probe):
+- `lss` goes from 6 terms to 30, and from 5 usages to 946. Its 6 Article 159 records are unchanged, and no term identifier repeats.
+- No other instrument changes. References stay at 35,880, and the rejected set is still exactly the 8 accepted gaps.
+- **Usages by term:** `Instituto` 500, `Ley` 407, `Código` 28, `Pensión` 5 (159), `Buzón IMSS` 4, `Trabajador Independiente o por cuenta propia` 2. The other 24 terms have none, for two reasons:
+  - 13 of 5 A's names are alternations (`Trabajadores o trabajador`, `Patrones, patrón o persona empleadora`), and the bare matcher needs that exact string;
+  - the matcher is case-sensitive, and running text writes `beneficiarios` or `cuenta individual` in lower case.
+
+  Aliases for alternation names are a separate schema and semantic decision.
+- **Title-prefix debt in `lss`:** a scratch count finds about 72 usages inside another title:
+  - 64 are `Ley` followed by another law's title, including 4 of `Ley del Seguro Social que se deroga` (the repealed 1973 law);
+  - 8 are `Instituto` inside the INFONAVIT or ISSSTE names.
+
+  The title-span filter in the Codex review remains the fix.
+
+**Open:**
+- **Article 159 is incomplete under the established pass.** It yields 6 of 8 terms:
+  - VII (`Monto constitutivo es la cantidad…`) has no comma delimiter;
+  - VIII (`Suma asegurada es…`) follows VII inline after a period.
+
+  This is the copula class of `ltfccg` in the Codex review. Its fix is a per-entry term-span profile, not a general split on `es`.
+- **Imports are not configured.** The `reg-lss-*` imports of 5 A (G3) remain unconfigured, and `reg-lss-maeba` is still held for a header leak.
+
 ## 2026-10-18 — Glossary auto-detection gains a wider fallback pass (glossary-detection G0–G1)
 
 The operator approved G0 and G1 of `docs/plans/glossary-detection.md`.
@@ -41,7 +75,7 @@ The operator approved G0 and G1 of `docs/plans/glossary-detection.md`.
   - no Roman fractions: `reg-senado`.
 
 **Open for the operator:**
-- **Which glossary governs** where the established pass picked a later or narrower one: `lss`, `lgs`, `lrart3-mmce`, `reg-lgs-mpsam`, `reg-lgp`, `scap-dcg-2012`, `reg-lgs-mcsotcsh`.
+- **Which glossary governs** where the established pass picked a later or narrower one: `lss` (ruled 2026-10-18: both 5 A and 159, see the entry above), `lgs`, `lrart3-mmce`, `reg-lgs-mpsam`, `reg-lgp`, `scap-dcg-2012`, `reg-lgs-mcsotcsh`.
 - **Title-prefix usages.** The bare matcher adds at most 1,045 usages where `Ley`, `Reglamento` or `Código` is followed by a title word (`de`, `Federal`, `General`…). Some of these are the defined law's own title, so this is an upper bound. A title-aware filter remains a separate change.
 - **Imports are not configured yet** (`additive_to`, G3).
 

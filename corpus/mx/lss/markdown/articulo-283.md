@@ -17,7 +17,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 283
 
-La Reserva de Operación para Contingencias y Financiamiento, se constituirá, incrementará o reconstituirá hasta representar sesenta días de ingreso promedio global del año anterior del Instituto, con el objetivo de proveer estabilidad y certidumbre a la operación cotidiana del propio Instituto y facilitar la planeación de mediano plazo de las operaciones de los distintos seguros que se establecen en esta Ley.
+La Reserva de Operación para Contingencias y Financiamiento, se constituirá, incrementará o reconstituirá hasta representar sesenta días de ingreso promedio global del año anterior del [Instituto](articulo-5-A.md), con el objetivo de proveer estabilidad y certidumbre a la operación cotidiana del propio Instituto y facilitar la planeación de mediano plazo de las operaciones de los distintos seguros que se establecen en esta [Ley](articulo-5-A.md).
 
 A dicha Reserva podrán afectarse además de los ingresos ordinarios, los recursos que de manera extraordinaria obtenga el Instituto, caso en que podrá exceder el límite señalado en el párrafo anterior hasta por el total de estas afectaciones extraordinarias.
 

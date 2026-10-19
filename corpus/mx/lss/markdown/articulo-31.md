@@ -25,4 +25,4 @@ Si las ausencias del trabajador son por períodos de ocho días consecutivos o m
 
 II. En los casos de las fracciones II y III del artículo [30](articulo-30.md), se seguirán las mismas reglas de la fracción anterior;
 
-III. En el caso de ausencias de trabajadores comprendidos en la fracción III del artículo [29](articulo-29.md), cualquiera que sea la naturaleza del salario que perciban, el reglamento determinará lo procedente conforme al criterio sustentado en las bases anteriores, y IV. Tratándose de ausencias amparadas por incapacidades médicas expedidas por el Instituto no será obligatorio cubrir las cuotas obrero patronales, excepto por lo que se refiere al ramo de retiro.
+III. En el caso de ausencias de trabajadores comprendidos en la fracción III del artículo [29](articulo-29.md), cualquiera que sea la naturaleza del salario que perciban, el reglamento determinará lo procedente conforme al criterio sustentado en las bases anteriores, y IV. Tratándose de ausencias amparadas por incapacidades médicas expedidas por el [Instituto](articulo-5-A.md) no será obligatorio cubrir las cuotas obrero patronales, excepto por lo que se refiere al ramo de retiro.

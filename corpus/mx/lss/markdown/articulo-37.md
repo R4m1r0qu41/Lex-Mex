@@ -17,4 +17,4 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 37
 
-En tanto el patrón no presente al Instituto el aviso de baja del trabajador, subsistirá su obligación de cubrir las cuotas obrero patronales respectivas; sin embargo, si se comprueba que dicho trabajador fue inscrito por otro patrón, el Instituto devolverá al patrón omiso, a su solicitud, el importe de las cuotas obrero patronales pagadas en exceso, a partir de la fecha de la nueva alta.
+En tanto el patrón no presente al [Instituto](articulo-5-A.md) el aviso de baja del trabajador, subsistirá su obligación de cubrir las cuotas obrero patronales respectivas; sin embargo, si se comprueba que dicho trabajador fue inscrito por otro patrón, el Instituto devolverá al patrón omiso, a su solicitud, el importe de las cuotas obrero patronales pagadas en exceso, a partir de la fecha de la nueva alta.

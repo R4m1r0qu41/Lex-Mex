@@ -17,4 +17,4 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 163
 
-El otorgamiento de la pensión de vejez sólo se podrá efectuar previa solicitud del asegurado y se le cubrirá a partir de la fecha en que haya dejado de trabajar, siempre que cumpla con los requisitos señalados en el artículo [162](articulo-162.md) de esta Ley.
+El otorgamiento de la pensión de vejez sólo se podrá efectuar previa solicitud del asegurado y se le cubrirá a partir de la fecha en que haya dejado de trabajar, siempre que cumpla con los requisitos señalados en el artículo [162](articulo-162.md) de esta [Ley](articulo-5-A.md).

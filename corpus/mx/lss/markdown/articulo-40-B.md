@@ -17,7 +17,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 40-B
 
-Se aceptarán como forma de pago: dinero en efectivo, cheques certificados o de caja, así como las transferencias electrónicas de fondos y tarjetas de crédito o de débito expedidas por instituciones de crédito, en los términos del correspondiente reglamento. También se podrá efectuar el pago mediante las notas de crédito que expida el Instituto para la devolución de cantidades enteradas sin justificación legal, las cuales sólo serán recibidas en las oficinas que el Instituto autorice.
+Se aceptarán como forma de pago: dinero en efectivo, cheques certificados o de caja, así como las transferencias electrónicas de fondos y tarjetas de crédito o de débito expedidas por instituciones de crédito, en los términos del correspondiente reglamento. También se podrá efectuar el pago mediante las notas de crédito que expida el [Instituto](articulo-5-A.md) para la devolución de cantidades enteradas sin justificación legal, las cuales sólo serán recibidas en las oficinas que el Instituto autorice.
 
 El patrón podrá aplicar las notas de crédito expedidas por el Instituto, dentro de los cinco años siguientes a su expedición o solicitar su monetización una vez vencido dicho plazo, siempre y cuando no tenga adeudos con el Instituto. En este último caso, deberá presentar ante la oficina correspondiente, la solicitud de monetización a la que adjuntará la nota de crédito original para que se tramite el pago de la misma.
 

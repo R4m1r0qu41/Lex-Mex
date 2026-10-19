@@ -17,6 +17,6 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 250-B
 
-Para los efectos del [artículo anterior](articulo-250-A.md), el Gobierno Federal deberá otorgar al Instituto los subsidios y transferencias que correspondan al importe de las primas relativas a tales seguros y otras coberturas.
+Para los efectos del [artículo anterior](articulo-250-A.md), el Gobierno Federal deberá otorgar al [Instituto](articulo-5-A.md) los subsidios y transferencias que correspondan al importe de las primas relativas a tales seguros y otras coberturas.
 
 Artículo adicionado DOF 20-12-2001

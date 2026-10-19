@@ -146,6 +146,12 @@ send a Codex review packet.
 
 ## Current checkpoint
 
+2026-10-18 (operator ruling on LSS): Article 5 A is the glossary, and 159 adds a
+different set of terms. Both are linked through `additional_provisions` and the
+new `auto_whole` and `auto_established` styles. `lss` goes from 6 terms to 30 and
+from 5 usages to 946, with the 159 records unchanged. 159 still lacks VII and VIII.
+Details are in `docs/decisions.md` (2026-10-18, "LSS defines two term sets").
+
 2026-10-18 (Codex review at dbc3ab17d): G1 totals and all 19 holds independently
 confirmed; 324 tests pass. G2 remains partial (LSS scope unresolved). Reproduced
 repeal-placeholder completeness bypass and duplicate qualified-fraction acceptance.
@@ -185,5 +191,5 @@ auto-detection gains a wider fallback pass").
 
 Repair the reproduced completeness guards and define persisted extraction
 coverage, then add the smallest source-bound exception batch from the review.
-Operator rulings on glossary scope remain pending; G3 imports follow accepted
-originals and scope decisions.
+Operator rulings on glossary scope remain pending except `lss` (both 5 A and
+159, ruled 2026-10-18); G3 imports follow accepted originals and scope decisions.

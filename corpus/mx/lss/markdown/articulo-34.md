@@ -19,7 +19,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 Cuando encontrándose el asegurado al servicio de un mismo patrón se modifique el salario estipulado, se estará a lo siguiente:
 
-I. En los casos previstos en la fracción I del artículo [30](articulo-30.md), el patrón estará obligado a presentar al Instituto los avisos de modificación del salario diario base de cotización dentro de un plazo máximo de cinco días hábiles, contados a partir del día siguiente a la fecha en que cambie el salario;
+I. En los casos previstos en la fracción I del artículo [30](articulo-30.md), el patrón estará obligado a presentar al [Instituto](articulo-5-A.md) los avisos de modificación del salario diario base de cotización dentro de un plazo máximo de cinco días hábiles, contados a partir del día siguiente a la fecha en que cambie el salario;
 
 II. En los casos previstos en la fracción II del artículo [30](articulo-30.md), los patrones estarán obligados a comunicar al Instituto dentro de los primeros cinco días hábiles de los meses de enero, marzo, mayo, julio, septiembre y noviembre, las modificaciones del salario diario promedio obtenido en el bimestre anterior, y
 

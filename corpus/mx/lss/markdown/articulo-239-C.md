@@ -17,9 +17,9 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 239-C
 
-La persona empleadora de la persona trabajadora del hogar tendrá las obligaciones inherentes que establezcan la presente Ley y sus reglamentos; adicionalmente, deberá cumplir lo siguiente:
+La persona empleadora de la persona trabajadora del hogar tendrá las obligaciones inherentes que establezcan la presente [Ley](articulo-5-A.md) y sus reglamentos; adicionalmente, deberá cumplir lo siguiente:
 
-I. Deberá registrar e inscribir a la persona trabajadora del hogar a la fecha de inicio de la relación laboral, para salvaguardar sus derechos, por los días que labore durante el mes calendario, así como presentar los documentos y datos que el Instituto solicite para tal efecto;
+I. Deberá registrar e inscribir a la persona trabajadora del hogar a la fecha de inicio de la relación laboral, para salvaguardar sus derechos, por los días que labore durante el mes calendario, así como presentar los documentos y datos que el [Instituto](articulo-5-A.md) solicite para tal efecto;
 
 II. Con base en la información proporcionada por la persona empleadora de la persona trabajadora del hogar, el Instituto calculará la propuesta de cédula de determinación de las cuotas obrero patronales correspondientes, distinguiendo la cuota obrera de la patronal. La persona empleadora no determinará las cuotas obrero patronales. La persona empleadora deberá retener la cuota obrera que corresponde a la persona trabajadora del hogar por su aseguramiento y enterarla junto con la cuota patronal a su cargo;
 

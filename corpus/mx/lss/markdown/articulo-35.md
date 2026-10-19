@@ -17,4 +17,4 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 35
 
-Los cambios en el salario base de cotización derivados de las modificaciones señaladas en el [artículo anterior](articulo-34.md), así como aquellos que por Ley deben efectuarse al salario mínimo, surtirán efectos a partir de la fecha en que ocurrió el cambio, tanto para la cotización como para las prestaciones en dinero.
+Los cambios en el salario base de cotización derivados de las modificaciones señaladas en el [artículo anterior](articulo-34.md), así como aquellos que por [Ley](articulo-5-A.md) deben efectuarse al salario mínimo, surtirán efectos a partir de la fecha en que ocurrió el cambio, tanto para la cotización como para las prestaciones en dinero.

@@ -17,7 +17,7 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 15-A
 
-La contratación de servicios especializados o la ejecución de obras especializadas deberán cumplir con las condiciones y requisitos establecidos en la Ley Federal del Trabajo.
+La contratación de servicios especializados o la ejecución de obras especializadas deberán cumplir con las condiciones y requisitos establecidos en la [Ley](articulo-5-A.md) Federal del Trabajo.
 
 La persona física o moral que contrate la prestación de servicios o la ejecución de obras con otra persona física o moral que incumpla las obligaciones en materia de seguridad social, será responsable solidaria en relación con los trabajadores utilizados para ejecutar dichas contrataciones.
 
@@ -27,7 +27,7 @@ I. De las partes en el contrato: Nombre, denominación o razón social; Registro
 
 II. De cada contrato: Objeto; periodo de vigencia; relación de trabajadores u otros sujetos que prestarán los servicios especializados o ejecutarán las obras especializadas a favor del beneficiario, indicando su nombre, CURP, número de seguridad social y salario base de cotización, así como nombre y Registro Federal de Contribuyentes del beneficiario de los servicios por cada uno de los contratos. III. Copia simple del registro emitido por la Secretaría del Trabajo y Previsión Social para la prestación de servicios especializados o la ejecución de obras especializadas.
 
-Para la verificación del cumplimiento de las obligaciones establecidas en la Ley Federal del Trabajo y en el presente ordenamiento, el Instituto y la Secretaría del Trabajo y Previsión Social, deberán celebrar convenios de colaboración, para el intercambio de información y la realización de acciones de verificación conjuntas, en su respectivo ámbito de competencia.
+Para la verificación del cumplimiento de las obligaciones establecidas en la Ley Federal del Trabajo y en el presente ordenamiento, el [Instituto](articulo-5-A.md) y la Secretaría del Trabajo y Previsión Social, deberán celebrar convenios de colaboración, para el intercambio de información y la realización de acciones de verificación conjuntas, en su respectivo ámbito de competencia.
 
 El Instituto informará a la Secretaría del Trabajo y Previsión Social del incumplimiento a los requisitos indicados en el presente artículo para los efectos señalados en la propia Ley Federal del Trabajo.
 
