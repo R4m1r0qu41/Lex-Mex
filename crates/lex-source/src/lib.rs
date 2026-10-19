@@ -117,6 +117,10 @@ pub struct GlossaryConfig {
     /// error.
     #[serde(default, skip_serializing_if = "Vec::is_empty")]
     pub additional_provisions: Vec<GlossaryProvisionConfig>,
+    /// A reviewed exception profile for an `auto_whole` glossary the shared
+    /// grammar holds (see [`lex_core::GlossaryProfile`]).
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub profile: Option<lex_core::GlossaryProfile>,
 }
 
 /// One further glossary provision and its style (see [`GlossaryConfig`]).

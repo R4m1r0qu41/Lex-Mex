@@ -17,4 +17,4 @@ source_sha256: 7211b1c71876d2ea4776c11dc1e045ebbb34b7e98b130f16c7864f75f5e90744
 
 # Artículo 16
 
-Para la reparación del daño y la compensación ambiental se aplicarán los niveles y las alternativas previstos en este ordenamiento y las Leyes ambientales. La falta de estas disposiciones no será impedimento ni eximirá de la obligación de restituir lo dañado a su estado base.
+Para la reparación del daño y la compensación ambiental se aplicarán los niveles y las alternativas previstos en este ordenamiento y las [Leyes ambientales](articulo-2o.md). La falta de estas disposiciones no será impedimento ni eximirá de la obligación de restituir lo dañado a su estado base.

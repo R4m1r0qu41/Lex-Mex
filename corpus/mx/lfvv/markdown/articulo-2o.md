@@ -31,6 +31,6 @@ V.- Proceso de mejoramiento: Técnica o conjunto de técnicas y procedimientos q
 
 VI.- Registro: El Registro Nacional de Variedades Vegetales a que se refiere el artículo [33](articulo-33.md) de esta ley; VII.- Secretaría; La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación. Fracción reformada DOF 09-04-2012
 
-VIII.- Título de obtentor: Documento expedido por la Secretaría en el que se reconoce y ampara el derecho del obtentor de una variedad vegetal, nueva, distinta, estable y homogénea, y
+VIII.- Título de obtentor: Documento expedido por la [Secretaría](articulo-2o.md) en el que se reconoce y ampara el derecho del obtentor de una variedad vegetal, nueva, distinta, estable y homogénea, y
 
 IX.- Variedad vegetal: Subdivisión de una especie que incluye a un grupo de individuos con características similares y que se considera estable y homogénea.

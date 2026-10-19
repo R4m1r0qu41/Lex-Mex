@@ -17,4 +17,4 @@ source_sha256: ea99e8d1b13b36451e69f865d4aeeca08ce847fb7dcab648e77f65ca88991a8b
 
 # Artículo 26
 
-En el caso de variedades vegetales protegidas conforme a la Ley Federal de Variedades Vegetales, se deberá contar con el consentimiento del titular del derecho de obtentor para su explotación, calificación, propagación, comercialización o inscripción en el Catálogo Nacional de Variedades Vegetales.
+En el caso de variedades vegetales protegidas conforme a la Ley Federal de [Variedades Vegetales](articulo-3.md), se deberá contar con el consentimiento del titular del derecho de obtentor para su explotación, calificación, propagación, comercialización o inscripción en el [Catálogo Nacional de Variedades Vegetales](articulo-3.md).

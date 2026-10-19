@@ -17,11 +17,11 @@ source_sha256: 9ed842aa48bd26aee06dc45bbdbd65efcb32343c78040a5a5d091275bec38343
 
 # Artículo 3o
 
-La Secretaría tendrá las siguientes atribuciones:
+La [Secretaría](articulo-2o.md) tendrá las siguientes atribuciones:
 
 I.- Fomentar y promover las actividades relativas a la protección de los derechos del obtentor, en las que participen las diversas dependencias y entidades de la Administración Pública Federal, entidades federativas y municipios, así como los sectores social y privado;
 
-II.- Tramitar las solicitudes de protección de los derechos del obtentor y resolver, previo dictamen del Comité, sobre la expedición del título de obtentor, en los términos de esta ley y su reglamento;
+II.- Tramitar las solicitudes de protección de los derechos del obtentor y resolver, previo dictamen del [Comité](articulo-2o.md), sobre la expedición del título de obtentor, en los términos de esta ley y su reglamento;
 
 III.- Expedir las licencias de emergencia en los casos que se señalan en esta ley;
 

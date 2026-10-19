@@ -17,6 +17,6 @@ source_sha256: 9ed842aa48bd26aee06dc45bbdbd65efcb32343c78040a5a5d091275bec38343
 
 # Artículo 39
 
-Si se comprueba que los requisitos establecidos en el artículo [7](articulo-7o.md)o. de esta ley no fueron cumplidos en el momento del otorgamiento del título de obtentor, la Secretaría declarará la nulidad de dicho título, previa substanciación del procedimiento respectivo.
+Si se comprueba que los requisitos establecidos en el artículo [7](articulo-7o.md)o. de esta ley no fueron cumplidos en el momento del otorgamiento del título de obtentor, la [Secretaría](articulo-2o.md) declarará la nulidad de dicho título, previa substanciación del procedimiento respectivo.
 
 Cualquier persona podrá hacer del conocimiento de la Secretaría la existencia de hechos que puedan dar lugar a la nulidad de un título de obtentor.

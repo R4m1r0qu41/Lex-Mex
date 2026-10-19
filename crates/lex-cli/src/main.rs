@@ -2421,6 +2421,7 @@ fn provision_coverage(
             .filter_map(|term| term.fraction.clone())
             .collect(),
         repeal_placeholders,
+        profile: None,
         term_count: own.len(),
     }
 }
@@ -2436,19 +2437,25 @@ fn select_glossary(
 ) -> Result<SelectedGlossary> {
     use lex_core::{GlossaryCoverageStatus, GlossaryHoldRecord};
     if let Some(glossary) = &context.config.glossary {
-        let mut named = vec![(glossary.provision_suffix.as_str(), glossary.style.as_str())];
+        let mut named = vec![(
+            glossary.provision_suffix.as_str(),
+            glossary.style.as_str(),
+            glossary.profile.as_ref(),
+        )];
         named.extend(glossary.additional_provisions.iter().map(|additional| {
             (
                 additional.provision_suffix.as_str(),
                 additional.style.as_str(),
+                None,
             )
         }));
         let configured = named
             .iter()
-            .map(|(suffix, style)| {
+            .map(|(suffix, style, profile)| {
                 Ok((
                     find_glossary_provision(provisions, suffix)?,
                     GlossaryStyle::from_config(style)?,
+                    *profile,
                 ))
             })
             .collect::<Result<Vec<_>>>()?;
@@ -2456,13 +2463,16 @@ fn select_glossary(
         let glossaries = configured
             .iter()
             .zip(&named)
-            .map(|((provision, style), (_, name))| {
-                provision_coverage(
-                    provision,
-                    name,
-                    &terms,
-                    repeal_placeholders(provision, *style),
-                )
+            .map(|((provision, style, profile), (_, name, _))| {
+                lex_core::GlossaryProvisionCoverage {
+                    profile: profile.cloned(),
+                    ..provision_coverage(
+                        provision,
+                        name,
+                        &terms,
+                        repeal_placeholders(provision, *style, *profile),
+                    )
+                }
             })
             .collect();
         return Ok(SelectedGlossary {
@@ -5128,8 +5138,12 @@ mod tests {
         plain.id = format!("{law_id}:article:2");
         plain.text = "Esta Ley es de observancia general.".to_owned();
         law.terms = lex_parse::extract_glossaries(&[
-            (&law.provisions[0], lex_parse::GlossaryStyle::AutoWhole),
-            (&add_on, lex_parse::GlossaryStyle::AutoEstablished),
+            (
+                &law.provisions[0],
+                lex_parse::GlossaryStyle::AutoWhole,
+                None,
+            ),
+            (&add_on, lex_parse::GlossaryStyle::AutoEstablished, None),
         ])
         .unwrap();
         law.provisions.extend([add_on, plain]);

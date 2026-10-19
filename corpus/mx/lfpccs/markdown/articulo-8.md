@@ -17,7 +17,7 @@ source_sha256: ea99e8d1b13b36451e69f865d4aeeca08ce847fb7dcab648e77f65ca88991a8b
 
 # Artículo 8
 
-Las funciones del Sistema serán:
+Las funciones del [Sistema](articulo-3.md) serán:
 
 I. Promover la concurrencia y participación de los sectores, ramas, grupos y agentes económicos, vinculados con la conservación, investigación, producción, certificación, comercialización, fomento, abasto y uso de semillas, para concertar acuerdos que favorezcan la cooperación y complementariedad de los sectores público, social y privado, dándole seguimiento a su instrumentación.
 

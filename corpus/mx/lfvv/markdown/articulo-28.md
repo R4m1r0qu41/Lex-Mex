@@ -17,4 +17,4 @@ source_sha256: 9ed842aa48bd26aee06dc45bbdbd65efcb32343c78040a5a5d091275bec38343
 
 # Artículo 28
 
-En las situaciones en que, por la gravedad y magnitud de la emergencia, un solo licenciatario no pueda hacer frente a la misma, la Secretaría podrá hacer extensiva la licencia a dos o más interesados para que, en forma simultánea, realicen lo necesario para cubrirla.
+En las situaciones en que, por la gravedad y magnitud de la emergencia, un solo licenciatario no pueda hacer frente a la misma, la [Secretaría](articulo-2o.md) podrá hacer extensiva la licencia a dos o más interesados para que, en forma simultánea, realicen lo necesario para cubrirla.

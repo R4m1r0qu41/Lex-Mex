@@ -25,7 +25,7 @@ II. Las personas morales privadas mexicanas, sin fines de lucro, cuyo objeto soc
 
 III. La Federación a través de la procuraduría, y
 
-IV. Las Procuradurías o instituciones que ejerzan funciones de protección ambiental de las entidades federativas y del Distrito Federal en el ámbito de su circunscripción territorial, conjuntamente con la procuraduría.
+IV. Las [Procuradurías](articulo-2o.md) o instituciones que ejerzan funciones de protección ambiental de las entidades federativas y del Distrito Federal en el ámbito de su circunscripción territorial, conjuntamente con la procuraduría.
 
 Las personas morales referidas en la fracción II de este artículo, deberán acreditar que fueron legalmente constituidas por lo menos tres años antes de la presentación de la demanda por daño ocasionado al ambiente. Asimismo deberán cumplir por los requisitos previstos por el Código Nacional de Procedimientos Civiles y Familiares. Párrafo reformado DOF 14-11-2025
 

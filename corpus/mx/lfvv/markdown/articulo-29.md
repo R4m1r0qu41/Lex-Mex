@@ -17,9 +17,9 @@ source_sha256: 9ed842aa48bd26aee06dc45bbdbd65efcb32343c78040a5a5d091275bec38343
 
 # Artículo 29
 
-El Comité se integrará garantizando el principio de paridad de género con las siguientes personas integrantes propietarias:
+El [Comité](articulo-2o.md) se integrará garantizando el principio de paridad de género con las siguientes personas integrantes propietarias:
 
-I.- La Presidencia, la Secretaría Técnica y tres personas representantes más, designadas por la Secretaría;
+I.- La Presidencia, la [Secretaría](articulo-2o.md) Técnica y tres personas representantes más, designadas por la Secretaría;
 
 II.- Una persona representante del Instituto Mexicano de la Propiedad Industrial;
 

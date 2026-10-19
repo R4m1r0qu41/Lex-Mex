@@ -17,4 +17,4 @@ source_sha256: ea99e8d1b13b36451e69f865d4aeeca08ce847fb7dcab648e77f65ca88991a8b
 
 # Artículo 29
 
-Para la correcta identificación de las semillas calificadas, deberán ostentar en su envase las etiquetas que para tal efecto establezcan las respectivas Normas Oficiales Mexicanas y las Reglas respectivas.
+Para la correcta identificación de las semillas calificadas, deberán ostentar en su envase las etiquetas que para tal efecto establezcan las respectivas [Normas Oficiales Mexicanas](articulo-3.md) y las [Reglas](articulo-3.md) respectivas.

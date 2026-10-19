@@ -17,7 +17,7 @@ source_sha256: ea99e8d1b13b36451e69f865d4aeeca08ce847fb7dcab648e77f65ca88991a8b
 
 # Artículo 10
 
-Las sesiones que celebre el Sistema serán ordinarias o extraordinarias. Las sesiones ordinarias se llevarán a cabo cuando menos cuatro veces al año en forma trimestral y las extraordinarias las veces que sean necesarias, cuando sean convocadas por el Presidente o un mínimo de seis de sus integrantes según lo dispongan sus reglas de funcionamiento y operación.
+Las sesiones que celebre el [Sistema](articulo-3.md) serán ordinarias o extraordinarias. Las sesiones ordinarias se llevarán a cabo cuando menos cuatro veces al año en forma trimestral y las extraordinarias las veces que sean necesarias, cuando sean convocadas por el Presidente o un mínimo de seis de sus integrantes según lo dispongan sus reglas de funcionamiento y operación.
 
 En ambos casos, las sesiones serán válidas cuando se encuentren presentes la mayoría de sus miembros. En caso de ausencia del Presidente la sesión la presidirá su suplente. El Presidente o quien presida la sesión tendrá voto de calidad en caso de empate.
 

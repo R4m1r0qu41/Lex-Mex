@@ -17,4 +17,4 @@ source_sha256: ea99e8d1b13b36451e69f865d4aeeca08ce847fb7dcab648e77f65ca88991a8b
 
 # Artículo 31
 
-La Secretaría aprobará de conformidad con la Ley Federal sobre Metrología y Normalización, a personas morales para operar como organismos de certificación para la calificación de semillas, siempre que cuenten con los elementos necesarios para llevar a cabo dicha calificación, de conformidad con las Normas Oficiales Mexicanas que para tal efecto expida la Secretaría.
+La [Secretaría](articulo-3.md) aprobará de conformidad con la Ley Federal sobre Metrología y Normalización, a personas morales para operar como organismos de certificación para la calificación de semillas, siempre que cuenten con los elementos necesarios para llevar a cabo dicha calificación, de conformidad con las [Normas Oficiales Mexicanas](articulo-3.md) que para tal efecto expida la Secretaría.

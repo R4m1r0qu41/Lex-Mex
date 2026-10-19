@@ -28,7 +28,9 @@ use std::sync::LazyLock;
 
 use anyhow::{Context, Result, bail};
 use lex_core::{
-    Basis, DefinedTerm, GlossaryHoldCode, Provision, ProvisionType, SCHEMA_VERSION, TermUsage,
+    Basis, DefinedTerm, GLOSSARY_STRATEGY_VERSION, GlossaryEntryDisposition, GlossaryHoldCode,
+    GlossaryProfile, GlossarySpan, Provision, ProvisionType, SCHEMA_VERSION, TermUsage,
+    evidence_sha256,
 };
 use regex::Regex;
 
@@ -105,21 +107,46 @@ pub fn extract_terms(provision: &Provision, style: GlossaryStyle) -> Result<Vec<
 /// The repealed fractions a configured style skipped as whole placeholders,
 /// when the style reports them (`auto_whole`); `None` for the other styles.
 #[must_use]
-pub fn repeal_placeholders(provision: &Provision, style: GlossaryStyle) -> Option<Vec<String>> {
-    match (style, wider_glossary_entries(provision)) {
-        (GlossaryStyle::AutoWhole, Some(Ok(glossary))) => Some(glossary.repeal_placeholders),
-        _ => None,
+pub fn repeal_placeholders(
+    provision: &Provision,
+    style: GlossaryStyle,
+    profile: Option<&GlossaryProfile>,
+) -> Option<Vec<String>> {
+    if style != GlossaryStyle::AutoWhole {
+        return None;
     }
+    match profile {
+        Some(profile) => profiled_glossary_entries(provision, profile).ok(),
+        None => wider_glossary_entries(provision).and_then(std::result::Result::ok),
+    }
+    .map(|glossary| glossary.repeal_placeholders)
 }
 
-/// Extract an instrument's configured glossary provisions, in order. Each
+/// Extract an instrument's configured glossary provisions, in order, each
+/// with its style and, for `auto_whole`, an optional reviewed profile. Each
 /// provision defines a different set of terms and the sets add to each
 /// other, so a term defined in two of them is an error rather than a
 /// precedence choice.
-pub fn extract_glossaries(glossaries: &[(&Provision, GlossaryStyle)]) -> Result<Vec<DefinedTerm>> {
+pub fn extract_glossaries(
+    glossaries: &[(&Provision, GlossaryStyle, Option<&GlossaryProfile>)],
+) -> Result<Vec<DefinedTerm>> {
     let mut terms: Vec<DefinedTerm> = Vec::new();
-    for (provision, style) in glossaries {
-        let extracted = extract_terms(provision, *style)?;
+    for (provision, style, profile) in glossaries {
+        let extracted = match profile {
+            Some(profile) => {
+                if *style != GlossaryStyle::AutoWhole {
+                    bail!(
+                        "glossary profile at {} requires style auto_whole",
+                        provision.id
+                    );
+                }
+                terms_from_entries(
+                    provision,
+                    profiled_glossary_entries(provision, profile)?.entries,
+                )?
+            }
+            None => extract_terms(provision, *style)?,
+        };
         for term in &extracted {
             if let Some(earlier) = terms.iter().find(|earlier| earlier.id == term.id) {
                 bail!(
@@ -399,6 +426,18 @@ static WIDER_FRACTION: LazyLock<Regex> = LazyLock::new(|| {
 fn wider_glossary_entries(
     provision: &Provision,
 ) -> Option<std::result::Result<WiderGlossary, Incomplete>> {
+    let starts = wider_fraction_starts(provision)?;
+    Some(complete_entries(
+        &provision.text,
+        &starts,
+        &std::collections::HashMap::new(),
+    ))
+}
+
+/// Each fraction candidate of a wider-pass glossary: the numeral's byte
+/// offset, its body's byte offset and its printed label. `None` when the
+/// provision opens no glossary that governs the whole instrument.
+fn wider_fraction_starts(provision: &Provision) -> Option<Vec<(usize, usize, String)>> {
     let text = &provision.text;
     let head_end = text
         .char_indices()
@@ -424,10 +463,121 @@ fn wider_glossary_entries(
             )
         })
         .collect();
-    if starts.len() < 2 {
-        return None;
+    (starts.len() >= 2).then_some(starts)
+}
+
+/// How a profile reads one fraction instead of the shared term rule.
+enum EntryHint<'a> {
+    Terms(Vec<&'a str>),
+    NonDefinition,
+}
+
+/// Read an `auto_whole` glossary under its reviewed profile. The profile
+/// must be bound to this exact text and strategy, and every hint must match
+/// the text literally at its offset and be used; anything else fails rather
+/// than falling back. The shared completeness checks still run on every
+/// fraction the profile does not name.
+fn profiled_glossary_entries(
+    provision: &Provision,
+    profile: &GlossaryProfile,
+) -> Result<WiderGlossary> {
+    let text = &provision.text;
+    if profile.strategy_version != GLOSSARY_STRATEGY_VERSION {
+        bail!(
+            "glossary profile at {} targets strategy {}, not {GLOSSARY_STRATEGY_VERSION}",
+            provision.id,
+            profile.strategy_version
+        );
     }
-    Some(complete_entries(text, &starts))
+    if evidence_sha256(text) != profile.provision_text_sha256 {
+        bail!(
+            "glossary profile at {} was reviewed against different text",
+            provision.id
+        );
+    }
+    let byte_at = |span: &GlossarySpan| -> Result<usize> {
+        let start = text
+            .char_indices()
+            .map(|(index, _)| index)
+            .nth(span.start_char)
+            .filter(|start| !span.text.is_empty() && text[*start..].starts_with(&span.text));
+        start.with_context(|| {
+            format!(
+                "glossary profile span {:?} is not at character {} of {}",
+                span.text, span.start_char, provision.id
+            )
+        })
+    };
+    let mut starts = wider_fraction_starts(provision)
+        .with_context(|| format!("no glossary detected at {}", provision.id))?;
+    for candidate in &profile.ignored_candidates {
+        let at = byte_at(candidate)?;
+        let index = starts
+            .iter()
+            .position(|(numeral_start, _, _)| *numeral_start == at)
+            .with_context(|| {
+                format!(
+                    "ignored candidate {:?} at character {} is not a fraction candidate",
+                    candidate.text, candidate.start_char
+                )
+            })?;
+        starts.remove(index);
+    }
+    let mut hints = std::collections::HashMap::new();
+    for entry in &profile.entries {
+        let matching: Vec<usize> = (0..starts.len())
+            .filter(|index| starts[*index].2 == entry.fraction)
+            .collect();
+        let [index] = matching[..] else {
+            bail!(
+                "glossary profile fraction {} does not name exactly one fraction of {}",
+                entry.fraction,
+                provision.id
+            );
+        };
+        let body_start = starts[index].1;
+        let end = starts.get(index + 1).map_or(text.len(), |next| next.0);
+        let hint = match entry.disposition {
+            GlossaryEntryDisposition::NonDefinition if entry.terms.is_empty() => {
+                EntryHint::NonDefinition
+            }
+            GlossaryEntryDisposition::Definition if !entry.terms.is_empty() => {
+                let terms = entry
+                    .terms
+                    .iter()
+                    .map(|span| {
+                        let at = byte_at(span)?;
+                        if at < body_start
+                            || at + span.text.len() > end
+                            || span.text.trim() != span.text
+                            || span.text.contains('\n')
+                        {
+                            bail!(
+                                "profile term {:?} is not a plain span inside fraction {}",
+                                span.text,
+                                entry.fraction
+                            );
+                        }
+                        Ok(span.text.as_str())
+                    })
+                    .collect::<Result<Vec<_>>>()?;
+                EntryHint::Terms(terms)
+            }
+            _ => bail!(
+                "glossary profile fraction {}: a definition lists its terms and a non-definition none",
+                entry.fraction
+            ),
+        };
+        if hints.insert(index, hint).is_some() {
+            bail!("glossary profile names fraction {} twice", entry.fraction);
+        }
+    }
+    complete_entries(text, &starts, &hints).map_err(|(_, reason)| {
+        anyhow::anyhow!(
+            "glossary at {} is incomplete under its profile: {reason}",
+            provision.id
+        )
+    })
 }
 
 /// Each fraction's parsing key is its base value and qualifier rank (none,
@@ -490,13 +640,27 @@ fn check_fraction_sequence(
     Ok(())
 }
 
+/// A fraction heading inside an entry: furniture hid a fraction.
+static SWALLOWED_FRACTION: LazyLock<Regex> = LazyLock::new(|| {
+    Regex::new(r"(?:^|\s)[IVXLCDM]{1,7}(?:\s+(?:Bis|Ter))?\.-?\s+[A-ZÁÉÍÓÚÑ]")
+        .expect("swallowed fraction regex must compile")
+});
+
+fn no_term_delimiter() -> Incomplete {
+    (
+        GlossaryHoldCode::NoTermDelimiter,
+        "no fraction has a term delimiter".to_owned(),
+    )
+}
+
 /// Every entry of a wider-pass glossary, or the reason it is incomplete.
+/// A profile's hints read the fractions they name instead of the shared
+/// term rule.
 fn complete_entries(
     text: &str,
     starts: &[(usize, usize, String)],
+    hints: &std::collections::HashMap<usize, EntryHint>,
 ) -> std::result::Result<WiderGlossary, Incomplete> {
-    let swallowed = Regex::new(r"(?:^|\s)[IVXLCDM]{1,7}(?:\s+(?:Bis|Ter))?\.-?\s+[A-ZÁÉÍÓÚÑ]")
-        .expect("static regex");
     check_fraction_sequence(starts)?;
     let bodies: Vec<(&str, &str, usize, usize)> = starts
         .iter()
@@ -528,26 +692,23 @@ fn complete_entries(
     let delimiter = bodies
         .iter()
         .enumerate()
-        .filter(|(index, (_, body, _, _))| !placeholder(*index, body))
+        .filter(|(index, (_, body, _, _))| !placeholder(*index, body) && !hints.contains_key(index))
         .map(|(_, entry)| entry)
         .find_map(|(_, body, _, _)| {
             body.chars()
                 .take(COLON_TERM_MAX_CHARS + 5)
                 .find(|character| matches!(character, ':' | '.' | ','))
-        })
-        .ok_or_else(|| {
-            (
-                GlossaryHoldCode::NoTermDelimiter,
-                "no fraction has a term delimiter".to_owned(),
-            )
-        })?;
+        });
+    if delimiter.is_none() && hints.is_empty() {
+        return Err(no_term_delimiter());
+    }
     let mut entries = Vec::with_capacity(bodies.len());
     let mut repeal_placeholders = Vec::new();
     let mut slugs = std::collections::HashSet::new();
     for (index, (numeral, body, start, end)) in bodies.into_iter().enumerate() {
         // A fraction heading inside any entry, a placeholder included, means
         // furniture hid a fraction (`II. Derogada. ENCABEZADO III. …`).
-        if let Some(found) = swallowed.find(body) {
+        if let Some(found) = SWALLOWED_FRACTION.find(body) {
             return Err((
                 GlossaryHoldCode::SwallowedFraction,
                 format!(
@@ -555,6 +716,31 @@ fn complete_entries(
                     found.as_str().trim()
                 ),
             ));
+        }
+        let mut push_term = |term: &str| {
+            if !slugs.insert(slug(term)) {
+                return Err((
+                    GlossaryHoldCode::RepeatedTerm,
+                    format!("fraction {numeral} repeats the term {term:?}"),
+                ));
+            }
+            entries.push(GlossaryEntry {
+                term: term.to_owned(),
+                fraction: Some(numeral.to_owned()),
+                start_char: text[..start].chars().count(),
+                end_char: text[..end].chars().count(),
+            });
+            Ok(())
+        };
+        match hints.get(&index) {
+            Some(EntryHint::NonDefinition) => continue,
+            Some(EntryHint::Terms(terms)) => {
+                for term in terms {
+                    push_term(term)?;
+                }
+                continue;
+            }
+            None => {}
         }
         if placeholder(index, body) {
             repeal_placeholders.push(numeral.to_owned());
@@ -571,19 +757,11 @@ fn complete_entries(
                 ),
             ));
         }
-        let term = entry_term(numeral, body, delimiter)?;
-        if !slugs.insert(slug(term)) {
-            return Err((
-                GlossaryHoldCode::RepeatedTerm,
-                format!("fraction {numeral} repeats the term {term:?}"),
-            ));
-        }
-        entries.push(GlossaryEntry {
-            term: term.to_owned(),
-            fraction: Some(numeral.to_owned()),
-            start_char: text[..start].chars().count(),
-            end_char: text[..end].chars().count(),
-        });
+        push_term(entry_term(
+            numeral,
+            body,
+            delimiter.ok_or_else(no_term_delimiter)?,
+        )?)?;
     }
     Ok(WiderGlossary {
         entries,
@@ -1819,7 +1997,8 @@ mod tests {
                     "Para los efectos de esta Ley, se entiende \
                  por:\n\nI. Agencia: La agencia;\n\nII. Derogada.\n\nIII. Banco: El banco."
                 ),
-                GlossaryStyle::AutoWhole
+                GlossaryStyle::AutoWhole,
+                None
             ),
             Some(vec!["II".to_owned()])
         );
@@ -2054,8 +2233,8 @@ mod tests {
     fn configured_glossaries_add_their_term_sets_and_refuse_a_shared_term() {
         let (glossary, add_on) = (lss_5_a(), lss_159());
         let terms = extract_glossaries(&[
-            (&glossary, GlossaryStyle::AutoWhole),
-            (&add_on, GlossaryStyle::AutoEstablished),
+            (&glossary, GlossaryStyle::AutoWhole, None),
+            (&add_on, GlossaryStyle::AutoEstablished, None),
         ])
         .unwrap();
         assert_eq!(
@@ -2087,8 +2266,8 @@ mod tests {
              Social.\n\nII. Pensión, la renta.",
         );
         let error = extract_glossaries(&[
-            (&glossary, GlossaryStyle::AutoWhole),
-            (&redefines, GlossaryStyle::AutoEstablished),
+            (&glossary, GlossaryStyle::AutoWhole, None),
+            (&redefines, GlossaryStyle::AutoEstablished, None),
         ])
         .unwrap_err()
         .to_string();
@@ -2241,5 +2420,196 @@ mod tests {
         let terms = extract_terms(&p, GlossaryStyle::MixedFractions).unwrap();
         assert_eq!(terms.len(), 2);
         assert_eq!(terms[0].term, "Nombre");
+    }
+
+    use lex_core::{
+        GlossaryEntryDisposition::{Definition, NonDefinition},
+        GlossaryProfile, GlossaryProfileEntry, GlossarySpan,
+    };
+
+    /// A profile bound to `text`.
+    fn profile(
+        text: &str,
+        entries: Vec<GlossaryProfileEntry>,
+        ignored_candidates: Vec<GlossarySpan>,
+    ) -> GlossaryProfile {
+        GlossaryProfile {
+            strategy_version: lex_core::GLOSSARY_STRATEGY_VERSION.to_owned(),
+            provision_text_sha256: lex_core::evidence_sha256(text),
+            rationale: "test".to_owned(),
+            evidence: "test".to_owned(),
+            entries,
+            ignored_candidates,
+        }
+    }
+
+    /// `literal` at its offset inside the unique `anchor`.
+    fn span(text: &str, anchor: &str, literal: &str) -> GlossarySpan {
+        assert_eq!(text.matches(anchor).count(), 1, "{anchor}");
+        let byte = text.find(anchor).unwrap() + anchor.find(literal).unwrap();
+        GlossarySpan {
+            text: literal.to_owned(),
+            start_char: text[..byte].chars().count(),
+        }
+    }
+
+    fn entry(
+        fraction: &str,
+        disposition: lex_core::GlossaryEntryDisposition,
+        terms: Vec<GlossarySpan>,
+    ) -> GlossaryProfileEntry {
+        GlossaryProfileEntry {
+            fraction: fraction.to_owned(),
+            disposition,
+            terms,
+        }
+    }
+
+    fn profiled(text: &str, profile: &GlossaryProfile) -> anyhow::Result<Vec<String>> {
+        let glossary = provision(STATUTE_ID, "article:2", text);
+        Ok(
+            extract_glossaries(&[(&glossary, GlossaryStyle::AutoWhole, Some(profile))])?
+                .into_iter()
+                .map(|term| format!("{} {}", term.fraction.unwrap(), term.term))
+                .collect(),
+        )
+    }
+
+    // lfvv 2 VII: `Secretaría;` where every other fraction uses a colon.
+    const SEMICOLON: &str = "Para los efectos de esta ley se entenderá por:\n\nI.- Comité: El \
+                             Comité Calificador; II.- Secretaría; La Secretaría de \
+                             Agricultura.\n\nIII.- Registro: El Registro Nacional.";
+
+    fn semicolon_entry() -> GlossaryProfileEntry {
+        entry(
+            "II",
+            Definition,
+            vec![span(SEMICOLON, "II.- Secretaría;", "Secretaría")],
+        )
+    }
+
+    #[test]
+    fn profile_term_span_reads_a_fraction_the_shared_rule_holds() {
+        assert_eq!(
+            wider(SEMICOLON).held.unwrap().code,
+            GlossaryHoldCode::MissingTerm
+        );
+        let hint = profile(SEMICOLON, vec![semicolon_entry()], Vec::new());
+        assert_eq!(
+            profiled(SEMICOLON, &hint).unwrap(),
+            ["I Comité", "II Secretaría", "III Registro"]
+        );
+    }
+
+    #[test]
+    fn profile_fails_closed_on_any_drift_or_unused_hint() {
+        let hint = |entries| profile(SEMICOLON, entries, Vec::new());
+        // One changed character in the bound text.
+        let drifted = SEMICOLON.replace("Nacional.", "Nacional;");
+        let error = profiled(&drifted, &hint(vec![semicolon_entry()])).unwrap_err();
+        assert!(error.to_string().contains("different text"), "{error}");
+        // A span whose literal is not at its offset.
+        let mut shifted = semicolon_entry();
+        shifted.terms[0].start_char = 3;
+        assert!(profiled(SEMICOLON, &hint(vec![shifted])).is_err());
+        // A span inside a different fraction than the one it names.
+        let mut misplaced = semicolon_entry();
+        misplaced.fraction = "III".to_owned();
+        assert!(profiled(SEMICOLON, &hint(vec![misplaced])).is_err());
+        // A fraction the text does not have.
+        let mut absent = semicolon_entry();
+        absent.fraction = "IV".to_owned();
+        assert!(profiled(SEMICOLON, &hint(vec![absent])).is_err());
+        // The same fraction named twice.
+        assert!(profiled(SEMICOLON, &hint(vec![semicolon_entry(), semicolon_entry()])).is_err());
+        // A definition without terms, and a non-definition with them.
+        assert!(profiled(SEMICOLON, &hint(vec![entry("II", Definition, Vec::new())])).is_err());
+        let mut with_terms = semicolon_entry();
+        with_terms.disposition = NonDefinition;
+        assert!(profiled(SEMICOLON, &hint(vec![with_terms])).is_err());
+        // An ignored candidate that is not a fraction candidate.
+        let unused = profile(
+            SEMICOLON,
+            vec![semicolon_entry()],
+            vec![span(SEMICOLON, "El Registro", "Registro")],
+        );
+        assert!(profiled(SEMICOLON, &unused).is_err());
+        // A profile on any style other than auto_whole.
+        let glossary = provision(STATUTE_ID, "article:2", SEMICOLON);
+        let bound = hint(vec![semicolon_entry()]);
+        assert!(
+            extract_glossaries(&[(&glossary, GlossaryStyle::RomanColon, Some(&bound))]).is_err()
+        );
+    }
+
+    #[test]
+    fn profile_keeps_the_shared_checks_on_every_other_fraction() {
+        // lfca 2: `A. C. y` reads as fraction C. Ignoring that exact
+        // candidate releases the glossary; it does not relax the sequence,
+        // so a genuinely missing fraction still holds.
+        let abbreviation = "Para los efectos de esta Ley se entenderá por: I. Centro: el Centro \
+                            de Capacitación A. C. y Estudios S. A., y II. Temporada: el conjunto.";
+        assert_eq!(
+            wider(abbreviation).held.unwrap().code,
+            GlossaryHoldCode::SequenceBreak
+        );
+        let ignore = |text: &str| profile(text, Vec::new(), vec![span(text, "A. C. y", "C.")]);
+        assert_eq!(
+            profiled(abbreviation, &ignore(abbreviation)).unwrap(),
+            ["I Centro", "II Temporada"]
+        );
+        let gap = abbreviation.replace("II. Temporada", "III. Temporada");
+        let error = profiled(&gap, &ignore(&gap)).unwrap_err();
+        assert!(
+            error.to_string().contains("breaks the I, II, III"),
+            "{error}"
+        );
+    }
+
+    #[test]
+    fn profile_reads_non_definitions_and_several_terms_per_fraction() {
+        // lfra 2 V–VI and lsct 2 V.
+        let text = "Para los efectos de la presente Ley se entenderá por:\n\nI.- “Tratado”: el \
+                    convenio;\n\nII.- “Ratificación”, “adhesión” o “aceptación”: el acto;\n\nIII. \
+                    Se entiende por cadena causal la secuencia;\n\nIV. No se considerará que existe \
+                    un daño;\n\nV.- Fondo: El Fondo.";
+        let hint = profile(
+            text,
+            vec![
+                entry("I", Definition, vec![span(text, "“Tratado”", "Tratado")]),
+                entry(
+                    "II",
+                    Definition,
+                    vec![
+                        span(text, "“Ratificación”", "Ratificación"),
+                        span(text, "“adhesión”", "adhesión"),
+                        span(text, "“aceptación”", "aceptación"),
+                    ],
+                ),
+                entry(
+                    "III",
+                    Definition,
+                    vec![span(text, "por cadena causal", "cadena causal")],
+                ),
+                entry("IV", NonDefinition, Vec::new()),
+            ],
+            Vec::new(),
+        );
+        assert_eq!(
+            profiled(text, &hint).unwrap(),
+            [
+                "I Tratado",
+                "II Ratificación",
+                "II adhesión",
+                "II aceptación",
+                "III cadena causal",
+                "V Fondo"
+            ]
+        );
+        // One fraction listing a term twice is still a repeated term.
+        let mut twice = hint.clone();
+        twice.entries[1].terms[1] = twice.entries[1].terms[0].clone();
+        let error = profiled(text, &twice).unwrap_err();
+        assert!(error.to_string().contains("repeats the term"), "{error}");
     }
 }

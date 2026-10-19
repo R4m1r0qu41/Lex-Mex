@@ -17,7 +17,7 @@ source_sha256: 9ed842aa48bd26aee06dc45bbdbd65efcb32343c78040a5a5d091275bec38343
 
 # Artículo 20
 
-En el caso de la transmisión de los derechos a que se refiere la fracción II del artículo [4](articulo-4o.md)o. de esta ley, el beneficiario, cesionario o causahabiente de dichos derechos estará obligado a proporcionar a la Secretaría:
+En el caso de la transmisión de los derechos a que se refiere la fracción II del artículo [4](articulo-4o.md)o. de esta ley, el beneficiario, cesionario o causahabiente de dichos derechos estará obligado a proporcionar a la [Secretaría](articulo-2o.md):
 
 I.- Su nombre, nacionalidad y domicilio;
 

@@ -17,7 +17,7 @@ source_sha256: 9ed842aa48bd26aee06dc45bbdbd65efcb32343c78040a5a5d091275bec38343
 
 # Artículo 26
 
-En caso de emergencia, la Secretaría procederá en los términos siguientes:
+En caso de emergencia, la [Secretaría](articulo-2o.md) procederá en los términos siguientes:
 
 I.- Informará al titular de la variedad vegetal o a las personas autorizadas por él de la situación de emergencia y de la necesidad de disponer de la variedad vegetal en las cantidades suficientes que a juicio de la Secretaría cubran la emergencia. En caso de que muestren su interés en cubrir la emergencia deberán obligarse a cubrirla en los términos que establezca la Secretaría;
 

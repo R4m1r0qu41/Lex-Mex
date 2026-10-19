@@ -4,15 +4,66 @@
   "instrument_id": "urn:lex-mx:federal:statute:lfpccs",
   "source_sha256": "ea99e8d1b13b36451e69f865d4aeeca08ce847fb7dcab648e77f65ca88991a8b",
   "extracted_text_sha256": "c8d59b071e75ff18ae64ccbc6debd788120bdde24946494586754285c972627e",
-  "status": "held",
-  "glossaries": [],
-  "hold": {
-    "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:3",
-    "provision_text_sha256": "6a30ae4a30c525fb88576269fc8811de20491182b958b79b84ac8237323a7217",
-    "code": "missing_term",
-    "message": "fraction XXVII has no term before `:`"
-  },
+  "status": "configured",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:3",
+      "provision_text_sha256": "6a30ae4a30c525fb88576269fc8811de20491182b958b79b84ac8237323a7217",
+      "method": "auto_whole",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII",
+        "XIII",
+        "XIV",
+        "XV",
+        "XVI",
+        "XVII",
+        "XVIII",
+        "XIX",
+        "XX",
+        "XXI",
+        "XXII",
+        "XXIII",
+        "XXIV",
+        "XXV",
+        "XXVI",
+        "XXVII",
+        "XXVIII",
+        "XXIX"
+      ],
+      "repeal_placeholders": [],
+      "profile": {
+        "strategy_version": "glossary-extraction-1",
+        "provision_text_sha256": "6a30ae4a30c525fb88576269fc8811de20491182b958b79b84ac8237323a7217",
+        "rationale": "Fraction XXVII writes its term before a period (`SNICS. El Servicio…`) where every other fraction uses a colon.",
+        "evidence": "docs/decisions.md (2026-10-19, glossary exception profiles, batch 1)",
+        "entries": [
+          {
+            "fraction": "XXVII",
+            "disposition": "definition",
+            "terms": [
+              {
+                "text": "SNICS",
+                "start_char": 6725
+              }
+            ]
+          }
+        ]
+      },
+      "term_count": 29
+    }
+  ],
   "imports": [],
-  "term_count": 0,
-  "usage_count": 0
+  "term_count": 29,
+  "usage_count": 177
 }

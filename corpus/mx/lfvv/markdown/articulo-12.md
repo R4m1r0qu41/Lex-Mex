@@ -17,6 +17,6 @@ source_sha256: 9ed842aa48bd26aee06dc45bbdbd65efcb32343c78040a5a5d091275bec38343
 
 # Artículo 12
 
-La verificación del cumplimiento de los requisitos señalados en los artículos [7](articulo-7o.md)o. y 9o. de esta ley estará a cargo del Comité, con base en lo que establezca el reglamento respectivo y las normas oficiales mexicanas correspondientes.
+La verificación del cumplimiento de los requisitos señalados en los artículos [7](articulo-7o.md)o. y 9o. de esta ley estará a cargo del [Comité](articulo-2o.md), con base en lo que establezca el reglamento respectivo y las normas oficiales mexicanas correspondientes.
 
-Una vez cumplidos todos los requisitos, la Secretaría expedirá el título de obtentor, que reconocerá y amparará los derechos a que se refiere el artículo [4](articulo-4o.md)o. de esta ley.
+Una vez cumplidos todos los requisitos, la [Secretaría](articulo-2o.md) expedirá el título de obtentor, que reconocerá y amparará los derechos a que se refiere el artículo [4](articulo-4o.md)o. de esta ley.

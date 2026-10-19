@@ -21,7 +21,7 @@ Incurre en infracción administrativa a las disposiciones de esta Ley, la person
 
 I. Comercialice o ponga en circulación cualquier categoría de semillas sin cumplir con lo dispuesto en el artículo [33](articulo-33.md) de esta Ley;
 
-II. Expida certificado, dictamen, acreditación o cualquier otro documento donde se haga constar el cumplimiento de cualquier acto a los que se refiere el presente ordenamiento sin estar autorizado para ello o sin observar el estricto cumplimiento de lo dispuesto por esta Ley, las Normas Oficiales Mexicanas, Normas Mexicanas, las Reglas o las Guías que de ella se deriven;
+II. Expida certificado, dictamen, acreditación o cualquier otro documento donde se haga constar el cumplimiento de cualquier acto a los que se refiere el presente ordenamiento sin estar autorizado para ello o sin observar el estricto cumplimiento de lo dispuesto por esta Ley, las [Normas Oficiales Mexicanas](articulo-3.md), [Normas Mexicanas](articulo-3.md), las [Reglas](articulo-3.md) o las [Guías](articulo-3.md) que de ella se deriven;
 
 III. Comercialice o ponga en circulación semilla o material de propagación que careciendo del plaguicida necesario, se le haya agregado colorante, con lo que induzca o pueda inducirse a error, confusión o una falsa apreciación de sus características;
 

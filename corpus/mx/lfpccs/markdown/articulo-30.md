@@ -19,6 +19,6 @@ source_sha256: ea99e8d1b13b36451e69f865d4aeeca08ce847fb7dcab648e77f65ca88991a8b
 
 La calificación de semillas podrá ser realizada por:
 
-I. La Secretaría, a través del SNICS; y
+I. La [Secretaría](articulo-3.md), a través del [SNICS](articulo-3.md); y
 
 II. Las personas morales que apruebe la Secretaría como organismos de certificación, acreditados en los términos de la Ley Federal sobre Metrología y Normalización.

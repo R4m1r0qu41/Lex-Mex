@@ -17,6 +17,6 @@ source_sha256: 7211b1c71876d2ea4776c11dc1e045ebbb34b7e98b130f16c7864f75f5e90744
 
 # Artículo 45
 
-El Fondo de Responsabilidad Ambiental tendrá como objeto el pago de la reparación de los daños que sean ocasionados al ambiente, en los casos que por razones de urgencia o importancia determine la administración pública federal, además del pago de los estudios e investigaciones que el juez requiera realizar a la Secretaría o la Procuraduría durante el proceso jurisdiccional de responsabilidad ambiental.
+El [Fondo](articulo-2o.md) de Responsabilidad Ambiental tendrá como objeto el pago de la reparación de los daños que sean ocasionados al ambiente, en los casos que por razones de urgencia o importancia determine la administración pública federal, además del pago de los estudios e investigaciones que el juez requiera realizar a la [Secretaría](articulo-2o.md) o la [Procuraduría](articulo-2o.md) durante el proceso jurisdiccional de responsabilidad ambiental.
 
-La información relativa a la operación del Fondo será pública en términos de lo establecido por la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
+La información relativa a la operación del Fondo será pública en términos de lo establecido por la [Ley](articulo-2o.md) Federal de Transparencia y Acceso a la Información Pública Gubernamental.

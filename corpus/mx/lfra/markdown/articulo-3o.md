@@ -17,9 +17,9 @@ source_sha256: 7211b1c71876d2ea4776c11dc1e045ebbb34b7e98b130f16c7864f75f5e90744
 
 # Artículo 3o
 
-Las definiciones de esta Ley, así como la forma, prelación, alcance, niveles y alternativas de la reparación y compensación del daño al ambiente que en ella se prevén, serán aplicables a:
+Las definiciones de esta [Ley](articulo-2o.md), así como la forma, prelación, alcance, niveles y alternativas de la reparación y compensación del daño al ambiente que en ella se prevén, serán aplicables a:
 
-I. Los convenios, procedimientos y actos administrativos suscritos o sustanciados de conformidad a las Leyes ambientales y los tratados internacionales de los que México sea Parte;
+I. Los convenios, procedimientos y actos administrativos suscritos o sustanciados de conformidad a las [Leyes ambientales](articulo-2o.md) y los tratados internacionales de los que México sea Parte;
 
 II. El procedimiento judicial de responsabilidad ambiental previsto en esta Ley;
 

@@ -21,6 +21,6 @@ La reparación de los daños ocasionados al ambiente consistirá en restituir a 
 
 La reparación deberá llevarse a cabo en el lugar en el que fue producido el daño.
 
-Los propietarios o poseedores de los inmuebles en los que se haya ocasionado un daño al ambiente, deberán permitir su reparación, de conformidad a esta Ley. El incumplimiento a dicha obligación dará lugar a la imposición de medios de apremio y a la responsabilidad penal que corresponda.
+Los propietarios o poseedores de los inmuebles en los que se haya ocasionado un daño al ambiente, deberán permitir su reparación, de conformidad a esta [Ley](articulo-2o.md). El incumplimiento a dicha obligación dará lugar a la imposición de medios de apremio y a la responsabilidad penal que corresponda.
 
 Los propietarios y poseedores que resulten afectados por las acciones de reparación del daño al ambiente producido por terceros, tendrán derecho de repetir respecto a la persona que resulte responsable por los daños y perjuicios que se les ocasionen.

@@ -1160,7 +1160,22 @@ pub struct GlossaryProvisionCoverage {
     /// grammar (`wider_pass`, `auto_whole`) reports them; absent otherwise.
     #[serde(default, skip_serializing_if = "Option::is_none")]
     pub repeal_placeholders: Option<Vec<String>>,
+    /// The reviewed exception profile applied to an `auto_whole` glossary.
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub profile: Option<GlossaryProfile>,
     pub term_count: usize,
+}
+
+impl GlossaryProvisionCoverage {
+    /// A profile applies only to `auto_whole`, and only to the text and
+    /// strategy it was reviewed against.
+    fn profile_is_bound(&self, strategy_version: &str) -> bool {
+        self.profile.as_ref().is_none_or(|profile| {
+            self.method == "auto_whole"
+                && profile.provision_text_sha256 == self.provision_text_sha256
+                && profile.strategy_version == strategy_version
+        })
+    }
 }
 
 #[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize)]
@@ -1192,6 +1207,62 @@ pub enum GlossaryHoldCode {
 pub struct GlossaryImportCoverage {
     pub additive_to: String,
     pub term_count: usize,
+}
+
+/// A reviewed exception profile for one `auto_whole` glossary provision
+/// (adapter `glossary.profile`). It describes how to read unchanged
+/// canonical text that the shared grammar holds: it never edits the text
+/// and is not a legal approval. It is bound to the provision text's SHA-256
+/// and every hint names its literal text and character offset, so any
+/// drift fails extraction until the profile is reviewed again. The
+/// coverage record repeats it, so an exception is never reported as a
+/// clean extraction.
+#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize)]
+#[serde(deny_unknown_fields)]
+pub struct GlossaryProfile {
+    pub strategy_version: String,
+    pub provision_text_sha256: String,
+    pub rationale: String,
+    /// Where the review of this profile is recorded.
+    pub evidence: String,
+    /// Fractions read by hint instead of by the shared term rule.
+    #[serde(default, skip_serializing_if = "Vec::is_empty")]
+    pub entries: Vec<GlossaryProfileEntry>,
+    /// Fraction-like candidates that are not fractions (`C.` in
+    /// `A. C. y`).
+    #[serde(default, skip_serializing_if = "Vec::is_empty")]
+    pub ignored_candidates: Vec<GlossarySpan>,
+}
+
+#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize)]
+#[serde(deny_unknown_fields)]
+pub struct GlossaryProfileEntry {
+    /// The fraction's printed label.
+    pub fraction: String,
+    pub disposition: GlossaryEntryDisposition,
+    /// A definition's terms, in order. One fraction may define several
+    /// (`“Ratificación”, “adhesión” o “aceptación”: …`).
+    #[serde(default, skip_serializing_if = "Vec::is_empty")]
+    pub terms: Vec<GlossarySpan>,
+}
+
+#[derive(Debug, Clone, Copy, PartialEq, Eq, Serialize, Deserialize)]
+#[serde(rename_all = "snake_case")]
+pub enum GlossaryEntryDisposition {
+    /// The fraction defines the listed terms; its whole entry is each
+    /// term's definition span.
+    Definition,
+    /// The fraction is substantive text inside the glossary, not a
+    /// definition, and yields no term.
+    NonDefinition,
+}
+
+/// Literal text at a character offset of the glossary provision's text.
+#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize)]
+#[serde(deny_unknown_fields)]
+pub struct GlossarySpan {
+    pub text: String,
+    pub start_char: usize,
 }
 
 impl GlossaryCoverage {
@@ -1258,6 +1329,12 @@ impl GlossaryCoverage {
                     glossary.provision_id
                 ));
             }
+            if !glossary.profile_is_bound(&self.strategy_version) {
+                return Err(format!(
+                    "glossary provision {} has a profile not bound to its text and method",
+                    glossary.provision_id
+                ));
+            }
         }
         if self
             .glossaries
@@ -1301,6 +1378,7 @@ impl GlossaryCoverage {
             GlossaryCoverageStatus::Detected => {
                 self.glossaries.len() == 1
                     && detected_method(&self.glossaries[0])
+                    && self.glossaries[0].profile.is_none()
                     && self.hold.is_none()
                     && self.imports.is_empty()
                     && has_terms
@@ -2188,6 +2266,7 @@ mod glossary_coverage_tests {
                     .filter_map(|term| term.fraction.clone())
                     .collect(),
                 repeal_placeholders: None,
+                profile: None,
                 term_count: record.terms.len(),
             }],
             hold: None,
@@ -2290,6 +2369,51 @@ mod glossary_coverage_tests {
             message: "fraction V breaks the I, II, III… sequence after 3".to_owned(),
         });
         check(&empty, &held_empty).unwrap();
+    }
+
+    #[test]
+    fn a_profile_is_reported_only_on_the_auto_whole_text_it_was_reviewed_against() {
+        let record = lritf();
+        let mut profiled = configured(&record);
+        profiled.glossaries[0].method = "auto_whole".to_owned();
+        let profile = GlossaryProfile {
+            strategy_version: GLOSSARY_STRATEGY_VERSION.to_owned(),
+            provision_text_sha256: profiled.glossaries[0].provision_text_sha256.clone(),
+            rationale: "test".to_owned(),
+            evidence: "test".to_owned(),
+            entries: Vec::new(),
+            ignored_candidates: vec![GlossarySpan {
+                text: "C.".to_owned(),
+                start_char: 0,
+            }],
+        };
+        profiled.glossaries[0].profile = Some(profile.clone());
+        check(&record, &profiled).unwrap();
+
+        let mut other_text = profiled.clone();
+        other_text.glossaries[0].profile = Some(GlossaryProfile {
+            provision_text_sha256: "0".repeat(64),
+            ..profile
+        });
+        assert!(
+            check(&record, &other_text)
+                .unwrap_err()
+                .contains("not bound")
+        );
+
+        let mut other_method = profiled.clone();
+        other_method.glossaries[0].method = "fractions".to_owned();
+        assert!(
+            check(&record, &other_method)
+                .unwrap_err()
+                .contains("not bound")
+        );
+
+        // A detected glossary never carries an exception.
+        let mut detected = profiled;
+        detected.status = GlossaryCoverageStatus::Detected;
+        detected.glossaries[0].method = "wider_pass".to_owned();
+        assert!(check(&record, &detected).is_err());
     }
 
     #[test]

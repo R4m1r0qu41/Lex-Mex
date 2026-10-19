@@ -1,1 +1,156 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfra:term:actividades-consideradas-como-altamente-riesgosas",
+    "term": "Actividades consideradas como altamente riesgosas",
+    "instrument_id": "urn:lex-mx:federal:statute:lfra",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfra:article:2",
+    "fraction": "I",
+    "start_char": 270,
+    "end_char": 606,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfra:term:criterio-de-equivalencia",
+    "term": "Criterio de equivalencia",
+    "instrument_id": "urn:lex-mx:federal:statute:lfra",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfra:article:2",
+    "fraction": "II",
+    "start_char": 606,
+    "end_char": 851,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfra:term:dano-al-ambiente",
+    "term": "Daño al ambiente",
+    "instrument_id": "urn:lex-mx:federal:statute:lfra",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfra:article:2",
+    "fraction": "III",
+    "start_char": 851,
+    "end_char": 1281,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfra:term:dano-indirecto",
+    "term": "Daño indirecto",
+    "instrument_id": "urn:lex-mx:federal:statute:lfra",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfra:article:2",
+    "fraction": "IV",
+    "start_char": 1281,
+    "end_char": 1449,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfra:term:cadena-causal",
+    "term": "cadena causal",
+    "instrument_id": "urn:lex-mx:federal:statute:lfra",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfra:article:2",
+    "fraction": "V",
+    "start_char": 1449,
+    "end_char": 1590,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfra:term:estado-base",
+    "term": "Estado base",
+    "instrument_id": "urn:lex-mx:federal:statute:lfra",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfra:article:2",
+    "fraction": "VIII",
+    "start_char": 2139,
+    "end_char": 2397,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfra:term:fondo",
+    "term": "Fondo",
+    "instrument_id": "urn:lex-mx:federal:statute:lfra",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfra:article:2",
+    "fraction": "IX",
+    "start_char": 2397,
+    "end_char": 2448,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfra:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:statute:lfra",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfra:article:2",
+    "fraction": "X",
+    "start_char": 2448,
+    "end_char": 2502,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfra:term:leyes-ambientales",
+    "term": "Leyes ambientales",
+    "instrument_id": "urn:lex-mx:federal:statute:lfra",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfra:article:2",
+    "fraction": "XI",
+    "start_char": 2502,
+    "end_char": 3064,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfra:term:mecanismos-alternativos",
+    "term": "Mecanismos alternativos",
+    "instrument_id": "urn:lex-mx:federal:statute:lfra",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfra:article:2",
+    "fraction": "XII",
+    "start_char": 3064,
+    "end_char": 3466,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfra:term:procuraduria",
+    "term": "Procuraduría",
+    "instrument_id": "urn:lex-mx:federal:statute:lfra",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfra:article:2",
+    "fraction": "XIII",
+    "start_char": 3466,
+    "end_char": 3538,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfra:term:sancion-economica",
+    "term": "Sanción económica",
+    "instrument_id": "urn:lex-mx:federal:statute:lfra",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfra:article:2",
+    "fraction": "XIV",
+    "start_char": 3538,
+    "end_char": 3769,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfra:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lfra",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfra:article:2",
+    "fraction": "XV",
+    "start_char": 3769,
+    "end_char": 3842,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfra:term:servicios-ambientales",
+    "term": "Servicios ambientales",
+    "instrument_id": "urn:lex-mx:federal:statute:lfra",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfra:article:2",
+    "fraction": "XVI",
+    "start_char": 3842,
+    "end_char": 4012,
+    "basis": "express_definition"
+  }
+]

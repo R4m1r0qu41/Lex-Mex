@@ -17,4 +17,4 @@ source_sha256: 9ed842aa48bd26aee06dc45bbdbd65efcb32343c78040a5a5d091275bec38343
 
 # Artículo 6o
 
-El obtentor podrá renunciar a los derechos que le confiere la fracción II del artículo [4](articulo-4o.md)o. de esta ley. La renuncia deberá constar por escrito y para su validez deberá inscribirse en el Registro. Será irrevocable y el aprovechamiento y explotación de la variedad vegetal y de su material de propagación pasarán a formar parte del dominio público.
+El obtentor podrá renunciar a los derechos que le confiere la fracción II del artículo [4](articulo-4o.md)o. de esta ley. La renuncia deberá constar por escrito y para su validez deberá inscribirse en el [Registro](articulo-2o.md). Será irrevocable y el aprovechamiento y explotación de la variedad vegetal y de su material de propagación pasarán a formar parte del dominio público.

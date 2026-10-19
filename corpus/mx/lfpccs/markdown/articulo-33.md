@@ -33,8 +33,8 @@ VII. Nombre o razón social del productor o responsable de la semilla y su domic
 
 VIII. Número de lote que permita dar seguimiento o rastreo al origen y calidad de la misma; y
 
-IX. Los demás datos que en su caso establezcan las Normas Oficiales Mexicanas que deriven de esta Ley.
+IX. Los demás datos que en su caso establezcan las [Normas Oficiales Mexicanas](articulo-3.md) que deriven de esta Ley.
 
 Tratándose de la comercialización o puesta en circulación de semillas de organismos genéticamente modificados, se deberán acatar las disposiciones de esta Ley que les sean aplicables, además de cumplir con lo que dispone la Ley en la materia.
 
-La Secretaría podrá restringir la circulación o comercialización de semillas o de producto para consumo que pueda ser utilizado como material de propagación, cuando medie una declaratoria de cuarentena debidamente fundada en consideraciones científicas y de acuerdo con la Ley Federal de Sanidad Vegetal y demás disposiciones que de ella deriven.
+La [Secretaría](articulo-3.md) podrá restringir la circulación o comercialización de semillas o de producto para consumo que pueda ser utilizado como material de propagación, cuando medie una declaratoria de cuarentena debidamente fundada en consideraciones científicas y de acuerdo con la Ley Federal de Sanidad Vegetal y demás disposiciones que de ella deriven.

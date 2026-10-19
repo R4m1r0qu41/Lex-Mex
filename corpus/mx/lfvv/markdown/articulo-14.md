@@ -17,7 +17,7 @@ source_sha256: 9ed842aa48bd26aee06dc45bbdbd65efcb32343c78040a5a5d091275bec38343
 
 # Artículo 14
 
-Cuando se cumplan los requisitos de novedad, denominación y llenado formal de la solicitud, la Secretaría expedirá, dentro de los ciento veinte días naturales siguientes a la presentación de la solicitud, una constancia de presentación en tanto se otorga el título de obtentor.
+Cuando se cumplan los requisitos de novedad, denominación y llenado formal de la solicitud, la [Secretaría](articulo-2o.md) expedirá, dentro de los ciento veinte días naturales siguientes a la presentación de la solicitud, una constancia de presentación en tanto se otorga el título de obtentor.
 
 El titular de esta constancia se presume obtentor de la variedad vegetal.
 

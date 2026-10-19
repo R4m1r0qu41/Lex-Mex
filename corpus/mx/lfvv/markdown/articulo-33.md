@@ -17,7 +17,7 @@ source_sha256: 9ed842aa48bd26aee06dc45bbdbd65efcb32343c78040a5a5d091275bec38343
 
 # Artículo 33
 
-La Secretaría establecerá un Registro que será público y en el que deberán inscribirse, cuando menos:
+La [Secretaría](articulo-2o.md) establecerá un [Registro](articulo-2o.md) que será público y en el que deberán inscribirse, cuando menos:
 
 I.- La solicitud de expedición del título de obtentor;
 

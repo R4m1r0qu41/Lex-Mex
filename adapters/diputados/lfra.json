@@ -19,5 +19,35 @@
     "proposed_at": "2026-07-12T08:01:13Z"
   },
   "allow_article_gaps": true,
-  "formal_publication_urls": {}
+  "formal_publication_urls": {},
+  "glossary": {
+    "provision_suffix": ":article:2",
+    "style": "auto_whole",
+    "profile": {
+      "strategy_version": "glossary-extraction-1",
+      "provision_text_sha256": "015185a42b674dd3412f4a9ee07439ddfc6560d4a54a1f92d6478dc05354c794",
+      "rationale": "Operator ruling 2026-10-19: fraction V (`Se entiende por cadena causal la secuencia…`) defines `cadena causal`; fractions VI and VII are substantive rules inside the glossary, not definitions.",
+      "evidence": "docs/decisions.md (2026-10-19, glossary exception profiles, batch 1)",
+      "entries": [
+        {
+          "fraction": "V",
+          "disposition": "definition",
+          "terms": [
+            {
+              "text": "cadena causal",
+              "start_char": 1468
+            }
+          ]
+        },
+        {
+          "fraction": "VI",
+          "disposition": "non_definition"
+        },
+        {
+          "fraction": "VII",
+          "disposition": "non_definition"
+        }
+      ]
+    }
+  }
 }

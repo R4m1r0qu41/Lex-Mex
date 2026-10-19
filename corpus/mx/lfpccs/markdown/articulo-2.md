@@ -17,10 +17,10 @@ source_sha256: ea99e8d1b13b36451e69f865d4aeeca08ce847fb7dcab648e77f65ca88991a8b
 
 # Artículo 2
 
-La aplicación de esta Ley corresponde al Ejecutivo Federal, por conducto de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y tiene por objeto regular:
+La aplicación de esta Ley corresponde al Ejecutivo Federal, por conducto de la [Secretaría](articulo-3.md) de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y tiene por objeto regular:
 
 I. La producción de semillas Certificadas;
 
 II. La calificación de semillas; y
 
-III. La comercialización y puesta en circulación de semillas. Son sujetos de esta Ley, los productores y comercializadores de semillas, los obtentores, fitomejoradores y mantenedores de semillas, los Comités Consultivos Regionales y Estatales de Semillas, asociaciones de agricultores consumidores de semillas, las instituciones de enseñanza superior, de investigación y extensión y los organismos de certificación que realicen actividades relacionadas con las materias que regula esta Ley.
+III. La comercialización y puesta en circulación de semillas. Son sujetos de esta Ley, los productores y comercializadores de semillas, los obtentores, fitomejoradores y mantenedores de semillas, los Comités Consultivos Regionales y Estatales de [Semillas](articulo-3.md), asociaciones de agricultores consumidores de semillas, las instituciones de enseñanza superior, de investigación y extensión y los organismos de certificación que realicen actividades relacionadas con las materias que regula esta Ley.

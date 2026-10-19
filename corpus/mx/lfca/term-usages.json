@@ -1,1 +1,326 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:article:3:term-usage:501-511",
+    "provision_id": "urn:lex-mx:federal:statute:lfca:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfca:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 501,
+    "end_char": 511
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:article:10:term-usage:1333-1343",
+    "provision_id": "urn:lex-mx:federal:statute:lfca:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lfca:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1333,
+    "end_char": 1343
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:article:12:term-usage:1009-1019",
+    "provision_id": "urn:lex-mx:federal:statute:lfca:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfca:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1009,
+    "end_char": 1019
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:article:16:term-usage:410-420",
+    "provision_id": "urn:lex-mx:federal:statute:lfca:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfca:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 410,
+    "end_char": 420
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:article:16:term-usage:1222-1232",
+    "provision_id": "urn:lex-mx:federal:statute:lfca:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfca:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1222,
+    "end_char": 1232
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:article:18:term-usage:188-198",
+    "provision_id": "urn:lex-mx:federal:statute:lfca:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfca:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 188,
+    "end_char": 198
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:article:21:term-usage:578-588",
+    "provision_id": "urn:lex-mx:federal:statute:lfca:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfca:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 578,
+    "end_char": 588
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:article:25:term-usage:565-575",
+    "provision_id": "urn:lex-mx:federal:statute:lfca:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lfca:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 565,
+    "end_char": 575
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:article:25:term-usage:913-923",
+    "provision_id": "urn:lex-mx:federal:statute:lfca:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lfca:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 913,
+    "end_char": 923
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:article:25:term-usage:1324-1334",
+    "provision_id": "urn:lex-mx:federal:statute:lfca:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lfca:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1324,
+    "end_char": 1334
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:article:25:term-usage:1609-1619",
+    "provision_id": "urn:lex-mx:federal:statute:lfca:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lfca:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1609,
+    "end_char": 1619
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:article:26:term-usage:359-369",
+    "provision_id": "urn:lex-mx:federal:statute:lfca:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfca:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 359,
+    "end_char": 369
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:article:26:term-usage:877-887",
+    "provision_id": "urn:lex-mx:federal:statute:lfca:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfca:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 877,
+    "end_char": 887
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:article:28:term-usage:475-485",
+    "provision_id": "urn:lex-mx:federal:statute:lfca:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lfca:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 475,
+    "end_char": 485
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:article:32:term-usage:322-332",
+    "provision_id": "urn:lex-mx:federal:statute:lfca:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfca:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 322,
+    "end_char": 332
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:article:36:term-usage:1379-1389",
+    "provision_id": "urn:lex-mx:federal:statute:lfca:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lfca:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1379,
+    "end_char": 1389
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:article:37:term-usage:1544-1554",
+    "provision_id": "urn:lex-mx:federal:statute:lfca:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lfca:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1544,
+    "end_char": 1554
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:article:41:term-usage:452-462",
+    "provision_id": "urn:lex-mx:federal:statute:lfca:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lfca:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 452,
+    "end_char": 462
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:article:41:term-usage:765-775",
+    "provision_id": "urn:lex-mx:federal:statute:lfca:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lfca:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 765,
+    "end_char": 775
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:article:43:term-usage:224-234",
+    "provision_id": "urn:lex-mx:federal:statute:lfca:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lfca:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 224,
+    "end_char": 234
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:article:44:term-usage:725-735",
+    "provision_id": "urn:lex-mx:federal:statute:lfca:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lfca:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 725,
+    "end_char": 735
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:article:45:term-usage:689-699",
+    "provision_id": "urn:lex-mx:federal:statute:lfca:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lfca:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 689,
+    "end_char": 699
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:article:46:term-usage:817-827",
+    "provision_id": "urn:lex-mx:federal:statute:lfca:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lfca:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 817,
+    "end_char": 827
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:article:47:term-usage:683-693",
+    "provision_id": "urn:lex-mx:federal:statute:lfca:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lfca:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 683,
+    "end_char": 693
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:article:50:term-usage:409-419",
+    "provision_id": "urn:lex-mx:federal:statute:lfca:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lfca:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 409,
+    "end_char": 419
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:article:50:term-usage:959-969",
+    "provision_id": "urn:lex-mx:federal:statute:lfca:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lfca:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 959,
+    "end_char": 969
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:article:51:term-usage:1146-1156",
+    "provision_id": "urn:lex-mx:federal:statute:lfca:article:51",
+    "term_id": "urn:lex-mx:federal:statute:lfca:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1146,
+    "end_char": 1156
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:article:51:term-usage:1335-1345",
+    "provision_id": "urn:lex-mx:federal:statute:lfca:article:51",
+    "term_id": "urn:lex-mx:federal:statute:lfca:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1335,
+    "end_char": 1345
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:article:57:term-usage:881-891",
+    "provision_id": "urn:lex-mx:federal:statute:lfca:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lfca:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 881,
+    "end_char": 891
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:article:58:term-usage:1023-1033",
+    "provision_id": "urn:lex-mx:federal:statute:lfca:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lfca:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1023,
+    "end_char": 1033
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:article:59:term-usage:1372-1382",
+    "provision_id": "urn:lex-mx:federal:statute:lfca:article:59",
+    "term_id": "urn:lex-mx:federal:statute:lfca:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1372,
+    "end_char": 1382
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:article:60:term-usage:340-350",
+    "provision_id": "urn:lex-mx:federal:statute:lfca:article:60",
+    "term_id": "urn:lex-mx:federal:statute:lfca:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 340,
+    "end_char": 350
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:article:60:term-usage:1066-1076",
+    "provision_id": "urn:lex-mx:federal:statute:lfca:article:60",
+    "term_id": "urn:lex-mx:federal:statute:lfca:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1066,
+    "end_char": 1076
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:article:61:term-usage:86-96",
+    "provision_id": "urn:lex-mx:federal:statute:lfca:article:61",
+    "term_id": "urn:lex-mx:federal:statute:lfca:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 86,
+    "end_char": 96
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:transitory:cuarto:term-usage:45-55",
+    "provision_id": "urn:lex-mx:federal:statute:lfca:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lfca:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 45,
+    "end_char": 55
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfca:transitory:noveno:term-usage:580-590",
+    "provision_id": "urn:lex-mx:federal:statute:lfca:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:statute:lfca:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 580,
+    "end_char": 590
+  }
+]

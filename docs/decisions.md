@@ -1,5 +1,54 @@
 # Architecture decisions
 
+## 2026-10-19 — Glossary exception profiles, batch 1
+
+**Why.** Codex review 2026-10-18 asked that small instrument exceptions be
+typed, declarative and source-bound, never `allow_gaps`, regex patches,
+instrument branches or canonical text edits. Twelve glossaries were still held.
+
+**What.** An `auto_whole` adapter glossary may carry a `profile`
+(`lex_core::GlossaryProfile`):
+- It is bound to the strategy version and the provision text's SHA-256.
+- Every hint names its literal text and character offset.
+- Three operations exist:
+  - a fraction read as a `definition` with explicit term spans (one or more);
+  - a `non_definition` fraction that yields no term;
+  - an `ignored_candidates` span that is not a fraction.
+- Any drift, unmatched span, unused hint or duplicate fails extraction.
+- Every fraction the profile does not name still passes the shared checks, sequence included.
+- The coverage record repeats the profile, so an exception is never reported as a clean extraction. `validate` rejects a profile on another method or other text.
+
+**Batch 1.** Each profile was released by hint against committed text that the current parser reproduces.
+
+| Instrument | Hint | Terms / usages |
+|---|---|---|
+| `lfvv` 2 | VII `Secretaría;` (semicolon) | 9 / 57 |
+| `lfpccs` 3 | XXVII `SNICS.` (period) | 29 / 177 |
+| `lfca` 2 | ignore `C.` in `Cinematográfica A. C. y` | 21 / 36 |
+| `lsct` 2 | quoted names in all eight fractions; V defines `Ratificación`, `adhesión`, `aceptación` | 10 / 3 |
+| `lfra` 2 | V defines `cadena causal`; VI and VII non-definitions | 14 / 123 |
+
+**Operator ruling (2026-10-19), not a JRH legal review.**
+- **LFRA:** V's "Se entiende por cadena causal…" is a definition, and VI and VII are substantive rules.
+- **LIEPS Article 3:**
+  - ingest VIII as the parent `Tabacos labrados` plus its four incisos, each linking to its own inciso;
+  - ingest IX's incisos (combustibles automotrices, gasolina, diésel…) as the actual definitions.
+  - LIEPS needs an inciso locator in `DefinedTerm`, so it is the next batch.
+
+**Measured.**
+- `link --all`: 5 relinked, 455 unchanged, 8 rejected (exactly the accepted gaps).
+- References are unchanged at 35,950, and no provision changed.
+- Terms 5,310 → 5,393; usages 94,736 → 95,132.
+- Coverage: 17 configured, 299 detected, 7 held, 145 none detected.
+
+**Known false matches.** About 20 of LFRA's 67 `Ley` usages are other laws' titles (`Ley General del Equilibrio…`). lfvv and lfpccs each have one `Secretaría` that names another ministry. This is the corpus-wide title-prefix defect, which the title-span filter addresses.
+
+**Not in this batch.**
+- `ltfccg`: the current parser leaves `Capítulo II.- Información Previa` inside Article 3. That heading would be swallowed into fraction XI, so it needs a parser fix first.
+- `fi-dcg-2014`: CNBV has published a new edition. The live source parses with one more article and detects its glossary, so this is re-ingestion work.
+- `ladua`: its committed parse is stale.
+- `log`, `servinv-dcg-2013`, `reg-lftr-mcsre`: label and boundary cases that need retained-source verification.
+
 ## 2026-10-19 — Coverage validation binds current selection and imports
 
 Codex review of `c40378666` found that local coverage counts alone could not

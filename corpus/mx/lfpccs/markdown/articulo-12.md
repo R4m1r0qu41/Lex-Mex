@@ -17,4 +17,4 @@ source_sha256: ea99e8d1b13b36451e69f865d4aeeca08ce847fb7dcab648e77f65ca88991a8b
 
 # Artículo 12
 
-El Fondo de Apoyos e Incentivos será administrado por la Secretaría y operado por el SNICS y se regirá por las reglas de operación y funcionamiento que para tal efecto sean expedidas por la propia Secretaría con la opinión del Sistema. La existencia del Fondo no limita la creación de diversos fondos privados o sociales que tengan una relación directa con la producción y uso de semillas.
+El Fondo de Apoyos e Incentivos será administrado por la [Secretaría](articulo-3.md) y operado por el [SNICS](articulo-3.md) y se regirá por las reglas de operación y funcionamiento que para tal efecto sean expedidas por la propia Secretaría con la opinión del [Sistema](articulo-3.md). La existencia del Fondo no limita la creación de diversos fondos privados o sociales que tengan una relación directa con la producción y uso de semillas.

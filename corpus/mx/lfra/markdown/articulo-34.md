@@ -19,4 +19,4 @@ source_sha256: 7211b1c71876d2ea4776c11dc1e045ebbb34b7e98b130f16c7864f75f5e90744
 
 El órgano jurisdiccional podrá allegarse oficiosamente de los medios de prueba que considere necesarios, sin más limitación que las establecidas en la ley.
 
-El Juez requerirá a la Secretaría y a la Procuraduría para que aporten todos los elementos periciales, testimoniales, documentales y demás indicios y elementos de prueba con los que cuenten. Los servidores públicos estarán obligados a cumplir con dicha obligación.
+El Juez requerirá a la [Secretaría](articulo-2o.md) y a la [Procuraduría](articulo-2o.md) para que aporten todos los elementos periciales, testimoniales, documentales y demás indicios y elementos de prueba con los que cuenten. Los servidores públicos estarán obligados a cumplir con dicha obligación.

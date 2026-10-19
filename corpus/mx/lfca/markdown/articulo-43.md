@@ -17,4 +17,4 @@ source_sha256: 29f509ea5cd695b026dca622c5cee399dc723086316b2038d061d59a4e438de2
 
 # Artículo 43
 
-Las obras cinematográficas y obras audiovisuales importadas que pretendan ser distribuidas, exhibidas, difundidas, comercializadas y comunicadas en territorio nacional deben sujetarse a lo establecido en la presente Ley, su Reglamento y demás disposiciones jurídicas aplicables.
+Las obras cinematográficas y obras audiovisuales importadas que pretendan ser distribuidas, exhibidas, difundidas, comercializadas y comunicadas en territorio nacional deben sujetarse a lo establecido en la presente Ley, su [Reglamento](articulo-2o.md) y demás disposiciones jurídicas aplicables.

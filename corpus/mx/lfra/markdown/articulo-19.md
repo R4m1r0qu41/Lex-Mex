@@ -17,7 +17,7 @@ source_sha256: 7211b1c71876d2ea4776c11dc1e045ebbb34b7e98b130f16c7864f75f5e90744
 
 # Artículo 19
 
-La sanción económica prevista en la presente Ley, será accesoria a la reparación o compensación del Daño ocasionado al ambiente y consistirá en el pago por un monto equivalente de:
+La sanción económica prevista en la presente [Ley](articulo-2o.md), será accesoria a la reparación o compensación del Daño ocasionado al ambiente y consistirá en el pago por un monto equivalente de:
 
 I. De trescientos a cincuenta mil días de salario mínimo general vigente en el Distrito Federal al momento de imponer la sanción, cuando el responsable sea una persona física, y
 

@@ -17,4 +17,4 @@ source_sha256: 9ed842aa48bd26aee06dc45bbdbd65efcb32343c78040a5a5d091275bec38343
 
 # Artículo 46
 
-Cuando la Secretaría actúe como árbitro, se integrará una comisión arbitral, presidida por el titular de la Dirección General Jurídica de la propia Secretaría.
+Cuando la [Secretaría](articulo-2o.md) actúe como árbitro, se integrará una comisión arbitral, presidida por el titular de la Dirección General Jurídica de la propia Secretaría.

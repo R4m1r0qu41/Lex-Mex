@@ -25,7 +25,7 @@ II. La obligación de compensar ambientalmente a través de las acciones que pro
 
 III. Las medidas y acciones necesarias para evitar que se incremente el daño ocasionado al ambiente;
 
-IV. El pago de la Sanción Económica que resulte procedente, así como los razonamientos y justificación respecto al por qué el monto impuesto es suficiente para lograr los fines de inhibición y prevención general y especial a los que hace referencia el artículo [2](articulo-2o.md)o., fracción XI de esta Ley;
+IV. El pago de la Sanción Económica que resulte procedente, así como los razonamientos y justificación respecto al por qué el monto impuesto es suficiente para lograr los fines de inhibición y prevención general y especial a los que hace referencia el artículo [2](articulo-2o.md)o., fracción XI de esta [Ley](articulo-2o.md);
 
 V. El importe que corresponda pagar a favor del actor o actores que hayan probado su pretensión, correspondiente a los gastos realizados para acreditar la responsabilidad, que deberá ser deducido del monto determinado en la Sanción Económica y consignado ante el Juez en términos de los dispuesto por el artículo [23](articulo-23.md) de esta Ley, y
 

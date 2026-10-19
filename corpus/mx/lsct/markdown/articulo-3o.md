@@ -15,4 +15,4 @@ source_sha256: a48cb9fbc325567be8d5e1b131a59b45e0ef9b57dd350e81eadd48cba75ac201
 
 # Artículo 3o
 
-Corresponde al Presidente de la República otorgar Plenos Poderes.
+Corresponde al Presidente de la República otorgar [Plenos Poderes](articulo-2o.md).

@@ -17,7 +17,7 @@ source_sha256: 7211b1c71876d2ea4776c11dc1e045ebbb34b7e98b130f16c7864f75f5e90744
 
 # Artículo 2o
 
-Para los efectos de esta Ley se estará a las siguientes definiciones, así como aquellas previstas en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, las Leyes ambientales y los tratados internacionales de los que México sea Parte. Se entiende por:
+Para los efectos de esta [Ley](articulo-2o.md) se estará a las siguientes definiciones, así como aquellas previstas en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, las [Leyes ambientales](articulo-2o.md) y los tratados internacionales de los que México sea Parte. Se entiende por:
 
 I. Actividades consideradas como altamente riesgosas: Las actividades que implican la generación o manejo de sustancias con características corrosivas, reactivas, radioactivas, explosivas, tóxicas, inflamables o biológico-infecciosas en términos de lo dispuesto por la Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
@@ -25,7 +25,7 @@ II. Criterio de equivalencia: Lineamiento obligatorio para orientar las medidas 
 
 III. Daño al ambiente: Pérdida, cambio, deterioro, menoscabo, afectación o modificación adversos y mensurables de los hábitat, de los ecosistemas, de los elementos y recursos naturales, de sus condiciones químicas, físicas o biológicas, de las relaciones de interacción que se dan entre éstos, así como de los servicios ambientales que proporcionan. Para esta definición se estará a lo dispuesto por el artículo [6](articulo-6o.md)o. de esta Ley;
 
-IV. Daño indirecto: Es aquel daño que en una cadena causal no constituye un efecto inmediato del acto u omisión que es imputado a una persona en términos de esta Ley;
+IV. Daño indirecto: Es aquel daño que en una [cadena causal](articulo-2o.md) no constituye un efecto inmediato del acto u omisión que es imputado a una persona en términos de esta Ley;
 
 V. Se entiende por cadena causal la secuencia de influencias de causa y efecto de un fenómeno que se representa por eslabones relacionados;
 

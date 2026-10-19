@@ -146,6 +146,13 @@ send a Codex review packet.
 
 ## Current checkpoint
 
+2026-10-19 (exception profiles, batch 1): adapter `glossary.profile`, bound to
+text hash and literal spans, with three operations (term spans, non-definition
+fractions, ignored candidates). It releases lfvv, lfpccs, lfca, lsct and lfra
+(+83 terms, +396 usages). References and provisions are unchanged, and 7 remain
+held. The operator ruled LFRA (V defines, VI–VII do not) and LIEPS (VIII parent plus
+incisos, IX incisos). See `docs/decisions.md`.
+
 2026-10-19 (Codex review and repairs): six header reparses reproduce from
 hash-matching source, including reform evidence. Added read-only coverage replay
 against current adapter/imports and final-state closure preflight; coverage
@@ -232,8 +239,12 @@ auto-detection gains a wider fallback pass").
 
 ## Next action
 
-The completeness guards and persisted coverage are done. Next, add the smallest
-source-bound exception batch from the review (12 holds), then the title-span usage
-filter, which also unblocks the meia and mpcca imports.
+Exception profiles batch 1 is done (7 holds remain). Next is LIEPS under the
+2026-10-19 operator ruling, which needs an inciso locator on `DefinedTerm` with its
+schema. Then:
+- ltfccg's chapter-heading leak, a parser fix;
+- the label and boundary holds (log, servinv-dcg-2013, reg-lftr-mcsre, ladua after
+  its reparse; fi-dcg-2014 by re-ingesting the new CNBV edition);
+- the title-span usage filter, which also unblocks the meia and mpcca imports.
 Operator rulings on glossary scope remain pending except `lss` (both 5 A and
 159, ruled 2026-10-18); G3 imports follow accepted originals and scope decisions.

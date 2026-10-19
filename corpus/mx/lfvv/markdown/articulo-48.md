@@ -17,7 +17,7 @@ source_sha256: 9ed842aa48bd26aee06dc45bbdbd65efcb32343c78040a5a5d091275bec38343
 
 # Artículo 48
 
-La Secretaría impondrá, con arreglo a la Ley Federal de Procedimiento Administrativo, por las infracciones que a continuación se indican, las multas siguientes:
+La [Secretaría](articulo-2o.md) impondrá, con arreglo a la Ley Federal de Procedimiento Administrativo, por las infracciones que a continuación se indican, las multas siguientes:
 
 I.- Modificar la denominación de la variedad vegetal protegida sin autorización de la Secretaría, de doscientos a dos mil días de salario mínimo;
 

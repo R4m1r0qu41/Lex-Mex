@@ -17,4 +17,4 @@ source_sha256: ea99e8d1b13b36451e69f865d4aeeca08ce847fb7dcab648e77f65ca88991a8b
 
 # Artículo 15
 
-El Programa Nacional de Semillas tendrá carácter especial conforme a la Ley de Planeación y establecerá entre otros aspectos, las líneas de política, objetivos, metas, estrategias y acciones en materia de semillas.
+El Programa Nacional de [Semillas](articulo-3.md) tendrá carácter especial conforme a la Ley de Planeación y establecerá entre otros aspectos, las líneas de política, objetivos, metas, estrategias y acciones en materia de semillas.

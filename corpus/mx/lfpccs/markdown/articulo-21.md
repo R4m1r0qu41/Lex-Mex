@@ -17,4 +17,4 @@ source_sha256: ea99e8d1b13b36451e69f865d4aeeca08ce847fb7dcab648e77f65ca88991a8b
 
 # Artículo 21
 
-El SNICS tendrá a su cargo el Catálogo Nacional de Variedades Vegetales, así como el Catálogo de Mantenedores, los cuales publicará anualmente.
+El [SNICS](articulo-3.md) tendrá a su cargo el [Catálogo Nacional de Variedades Vegetales](articulo-3.md), así como el [Catálogo de Mantenedores](articulo-3.md), los cuales publicará anualmente.

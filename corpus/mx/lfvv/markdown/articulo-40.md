@@ -17,7 +17,7 @@ source_sha256: 9ed842aa48bd26aee06dc45bbdbd65efcb32343c78040a5a5d091275bec38343
 
 # Artículo 40
 
-La Secretaría podrá revocar, previa substanciación del procedimiento respectivo, un título de obtentor en cualquier momento por cualquiera de las siguientes circunstancias:
+La [Secretaría](articulo-2o.md) podrá revocar, previa substanciación del procedimiento respectivo, un título de obtentor en cualquier momento por cualquiera de las siguientes circunstancias:
 
 I.- Cuando durante dos años no se cubran los derechos a que se refiere el artículo [16](articulo-16.md) de esta ley;
 

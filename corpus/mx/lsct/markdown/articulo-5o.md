@@ -15,4 +15,4 @@ source_sha256: a48cb9fbc325567be8d5e1b131a59b45e0ef9b57dd350e81eadd48cba75ac201
 
 # Artículo 5o
 
-La voluntad de los Estados Unidos Mexicanos para obligarse por un tratado se manifestará a través de intercambio de notas diplomáticas, canje o depósito del instrumento de ratificación, adhesión o aceptación, mediante las cuales se notifique la aprobación por el Senado el tratado en cuestión.
+La voluntad de los Estados Unidos Mexicanos para obligarse por un tratado se manifestará a través de intercambio de notas diplomáticas, canje o depósito del instrumento de ratificación, [adhesión](articulo-2o.md) o [aceptación](articulo-2o.md), mediante las cuales se notifique la aprobación por el Senado el tratado en cuestión.

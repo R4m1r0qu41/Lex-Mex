@@ -17,6 +17,6 @@ source_sha256: 7211b1c71876d2ea4776c11dc1e045ebbb34b7e98b130f16c7864f75f5e90744
 
 # Artículo 10
 
-Toda persona física o moral que con su acción u omisión ocasione directa o indirectamente un daño al ambiente, será responsable y estará obligada a la reparación de los daños, o bien, cuando la reparación no sea posible a la compensación ambiental que proceda, en los términos de la presente Ley.
+Toda persona física o moral que con su acción u omisión ocasione directa o indirectamente un daño al ambiente, será responsable y estará obligada a la reparación de los daños, o bien, cuando la reparación no sea posible a la compensación ambiental que proceda, en los términos de la presente [Ley](articulo-2o.md).
 
 De la misma forma estará obligada a realizar las acciones necesarias para evitar que se incremente el daño ocasionado al ambiente.

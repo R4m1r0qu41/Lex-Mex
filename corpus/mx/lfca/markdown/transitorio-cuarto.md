@@ -15,4 +15,4 @@ source_sha256: 29f509ea5cd695b026dca622c5cee399dc723086316b2038d061d59a4e438de2
 
 # Cuarto
 
-El Poder Ejecutivo Federal deberá expedir el Reglamento en un plazo no mayor de 180 días hábiles contados a partir del día de la entrada en vigor de la presente Ley.
+El Poder Ejecutivo Federal deberá expedir el [Reglamento](articulo-2o.md) en un plazo no mayor de 180 días hábiles contados a partir del día de la entrada en vigor de la presente Ley.

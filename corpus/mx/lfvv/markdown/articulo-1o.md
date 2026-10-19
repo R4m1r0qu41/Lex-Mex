@@ -17,6 +17,6 @@ source_sha256: 9ed842aa48bd26aee06dc45bbdbd65efcb32343c78040a5a5d091275bec38343
 
 # Artículo 1o
 
-La presente Ley tiene por objeto fijar las bases y procedimientos para la protección de los derechos de los obtentores de variedades vegetales. Su aplicación e interpretación, para efectos administrativos, corresponderá al Ejecutivo Federal a través de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
+La presente Ley tiene por objeto fijar las bases y procedimientos para la protección de los derechos de los obtentores de variedades vegetales. Su aplicación e interpretación, para efectos administrativos, corresponderá al Ejecutivo Federal a través de la [Secretaría](articulo-2o.md) de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
 
 Artículo reformado DOF 09-04-2012

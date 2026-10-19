@@ -17,4 +17,4 @@ source_sha256: 9ed842aa48bd26aee06dc45bbdbd65efcb32343c78040a5a5d091275bec38343
 
 # Artículo 36
 
-La Secretaría garantizará el acceso a la información contenida en las inscripciones del Registro.
+La [Secretaría](articulo-2o.md) garantizará el acceso a la información contenida en las inscripciones del [Registro](articulo-2o.md).
