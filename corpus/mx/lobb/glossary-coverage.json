@@ -1,0 +1,25 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:statute:lobb",
+  "source_sha256": "915a4f4f7947f248971aebed71f67ddf5fd26bd41faeacb7084ded7a6c57b6dc",
+  "extracted_text_sha256": "0d69ea008262234ca96e1796d986685efebf4bd1862618c9b41525066c7a3511",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lobb:article:2",
+      "provision_text_sha256": "06189c71e3977bfe68b93eb6836fb4e954ca719012087075c4b480c6bf834599",
+      "method": "established_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV"
+      ],
+      "term_count": 4
+    }
+  ],
+  "imports": [],
+  "term_count": 4,
+  "usage_count": 241
+}

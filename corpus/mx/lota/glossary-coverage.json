@@ -1,0 +1,12 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:statute:lota",
+  "source_sha256": "dd4e6e24f201a4e6b37919dc0461523bdb4f74e7c4852815f51bfd576c990296",
+  "extracted_text_sha256": "3b6ac2f8c81298cacad9e4b3a9288441ce644371a3e88d6568a22c0b62d58145",
+  "status": "none_detected",
+  "glossaries": [],
+  "imports": [],
+  "term_count": 0,
+  "usage_count": 0
+}

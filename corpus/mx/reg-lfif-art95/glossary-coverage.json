@@ -1,0 +1,12 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lfif-art95",
+  "source_sha256": "7441e7d717cad5c0ddfa869b3e844715578e004fc81d47388345a0de3bd8dbd8",
+  "extracted_text_sha256": "bfcbdf1e448d45815abb90168ffb51580ff15eab1a8462f246d39077a611337c",
+  "status": "none_detected",
+  "glossaries": [],
+  "imports": [],
+  "term_count": 0,
+  "usage_count": 0
+}

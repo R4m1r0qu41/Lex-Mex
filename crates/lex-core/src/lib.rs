@@ -1076,8 +1076,9 @@ pub struct DefinedTerm {
     pub term: String,
     pub instrument_id: String,
     pub defining_provision_id: String,
-    /// Roman numeral of the defining fraction, for fraction-style
-    /// glossaries such as LRITF Article 4.
+    /// Printed label of the defining fraction, for fraction-style
+    /// glossaries such as LRITF Article 4: a Roman numeral, optionally
+    /// qualified (`I Bis`, `VII Ter`).
     #[serde(default, skip_serializing_if = "Option::is_none")]
     pub fraction: Option<String>,
     /// Unicode character span of the complete definition entry (including
@@ -1102,6 +1103,212 @@ pub struct TermUsage {
     pub span: String,
     pub start_char: usize,
     pub end_char: usize,
+}
+
+/// Version of the glossary extraction strategies a [`GlossaryCoverage`]
+/// describes. Bump it when detection or completeness rules change meaning.
+pub const GLOSSARY_STRATEGY_VERSION: &str = "glossary-extraction-1";
+
+/// How `terms.json` was produced for one instrument
+/// (`glossary-coverage.json`). It separates a glossary held as incomplete
+/// from an instrument with no detected glossary, which an empty terms list
+/// cannot. It is a deterministic technical record, never a legal approval.
+#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize)]
+pub struct GlossaryCoverage {
+    pub schema_version: String,
+    pub strategy_version: String,
+    pub instrument_id: String,
+    pub source_sha256: String,
+    pub extracted_text_sha256: String,
+    pub status: GlossaryCoverageStatus,
+    /// The glossary provisions whose terms were extracted, in order.
+    pub glossaries: Vec<GlossaryProvisionCoverage>,
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub hold: Option<GlossaryHoldRecord>,
+    /// The `additive_to` entries whose terms usages also resolve against.
+    pub imports: Vec<GlossaryImportCoverage>,
+    pub term_count: usize,
+    pub usage_count: usize,
+}
+
+#[derive(Debug, Clone, Copy, PartialEq, Eq, Serialize, Deserialize)]
+#[serde(rename_all = "snake_case")]
+pub enum GlossaryCoverageStatus {
+    /// The adapter names the glossary provisions and their styles.
+    Configured,
+    /// Auto-detection found a complete glossary.
+    Detected,
+    /// Auto-detection found a glossary it could not extract completely, so
+    /// the instrument has no terms.
+    Held,
+    /// Auto-detection found no glossary.
+    NoneDetected,
+}
+
+#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize)]
+pub struct GlossaryProvisionCoverage {
+    pub provision_id: String,
+    pub provision_text_sha256: String,
+    /// `established_pass` or `wider_pass` for a detected glossary, otherwise
+    /// the configured style.
+    pub method: String,
+    /// The printed fraction label of each extracted term, in order.
+    pub fractions: Vec<String>,
+    /// Repealed fractions skipped as whole placeholders. Only the wider-pass
+    /// grammar (`wider_pass`, `auto_whole`) reports them; absent otherwise.
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub repeal_placeholders: Option<Vec<String>>,
+    pub term_count: usize,
+}
+
+#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize)]
+pub struct GlossaryHoldRecord {
+    pub provision_id: String,
+    pub provision_text_sha256: String,
+    pub code: GlossaryHoldCode,
+    pub message: String,
+}
+
+/// Why a detected glossary was held as incomplete.
+#[derive(Debug, Clone, Copy, PartialEq, Eq, Serialize, Deserialize)]
+#[serde(rename_all = "snake_case")]
+pub enum GlossaryHoldCode {
+    SequenceBreak,
+    UnknownQualifier,
+    NoncanonicalNumeral,
+    NoTermDelimiter,
+    SwallowedFraction,
+    RepealWording,
+    MissingTerm,
+    UnplainTerm,
+    RepeatedTerm,
+}
+
+#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize)]
+pub struct GlossaryImportCoverage {
+    pub additive_to: String,
+    pub term_count: usize,
+}
+
+impl GlossaryCoverage {
+    /// Check the record against its schema and against the instrument's
+    /// persisted record, provisions, terms and usages: each named provision's
+    /// text must still hash as recorded, and the counts and fractions must be
+    /// those of `terms.json`. A mismatch means the record is stale.
+    pub fn validate(
+        &self,
+        instrument: &Instrument,
+        provisions: &[Provision],
+        terms: &[DefinedTerm],
+        usages: &[TermUsage],
+    ) -> Result<(), String> {
+        let schema: serde_json::Value = serde_json::from_str(include_str!(
+            "../../../schemas/glossary-coverage.schema.json"
+        ))
+        .map_err(|e| e.to_string())?;
+        jsonschema::validator_for(&schema)
+            .map_err(|e| e.to_string())?
+            .validate(&serde_json::to_value(self).map_err(|e| e.to_string())?)
+            .map_err(|e| e.to_string())?;
+        if self.instrument_id != instrument.id
+            || self.source_sha256 != instrument.source_sha256
+            || self.extracted_text_sha256 != instrument.extracted_text_sha256
+        {
+            return Err("coverage does not belong to this instrument record".to_owned());
+        }
+        if self.term_count != terms.len() || self.usage_count != usages.len() {
+            return Err(format!(
+                "coverage counts {} terms and {} usages; terms.json has {} and term-usages.json {}",
+                self.term_count,
+                self.usage_count,
+                terms.len(),
+                usages.len()
+            ));
+        }
+        let text_hash = |id: &str| {
+            provisions
+                .iter()
+                .find(|provision| provision.id == id)
+                .map(|provision| evidence_sha256(&provision.text))
+        };
+        for glossary in &self.glossaries {
+            if text_hash(&glossary.provision_id).as_deref()
+                != Some(glossary.provision_text_sha256.as_str())
+            {
+                return Err(format!(
+                    "glossary provision {} is missing or its text changed",
+                    glossary.provision_id
+                ));
+            }
+            let own: Vec<&DefinedTerm> = terms
+                .iter()
+                .filter(|term| term.defining_provision_id == glossary.provision_id)
+                .collect();
+            let fractions: Vec<&str> = own
+                .iter()
+                .filter_map(|term| term.fraction.as_deref())
+                .collect();
+            if own.len() != glossary.term_count || fractions != glossary.fractions {
+                return Err(format!(
+                    "glossary provision {} does not match its terms in terms.json",
+                    glossary.provision_id
+                ));
+            }
+        }
+        if self
+            .glossaries
+            .iter()
+            .map(|glossary| glossary.term_count)
+            .sum::<usize>()
+            != terms.len()
+        {
+            return Err("terms.json has terms outside the recorded glossaries".to_owned());
+        }
+        if let Some(hold) = &self.hold
+            && text_hash(&hold.provision_id).as_deref() != Some(hold.provision_text_sha256.as_str())
+        {
+            return Err(format!(
+                "held glossary provision {} is missing or its text changed",
+                hold.provision_id
+            ));
+        }
+        if !self.status_is_consistent(!terms.is_empty()) {
+            return Err(format!(
+                "coverage status {:?} contradicts its record",
+                self.status
+            ));
+        }
+        Ok(())
+    }
+
+    /// Whether the status agrees with the rest of the record: a held or
+    /// absent glossary has no provisions or imports, and only a detected one
+    /// names an auto-detection pass.
+    fn status_is_consistent(&self, has_terms: bool) -> bool {
+        let detected_method = |glossary: &GlossaryProvisionCoverage| {
+            matches!(glossary.method.as_str(), "established_pass" | "wider_pass")
+        };
+        match self.status {
+            GlossaryCoverageStatus::Configured => {
+                !self.glossaries.is_empty()
+                    && self.hold.is_none()
+                    && !self.glossaries.iter().any(detected_method)
+            }
+            GlossaryCoverageStatus::Detected => {
+                self.glossaries.len() == 1
+                    && detected_method(&self.glossaries[0])
+                    && self.hold.is_none()
+                    && self.imports.is_empty()
+                    && has_terms
+            }
+            GlossaryCoverageStatus::Held => {
+                self.glossaries.is_empty() && self.hold.is_some() && self.imports.is_empty()
+            }
+            GlossaryCoverageStatus::NoneDetected => {
+                self.glossaries.is_empty() && self.hold.is_none() && self.imports.is_empty()
+            }
+        }
+    }
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
@@ -1921,5 +2128,175 @@ mod publication_metadata_tests {
             .unwrap()
             .provision_text_sha256 = "zz".to_owned();
         assert!(bad_hash.validate().is_err());
+    }
+}
+
+#[cfg(test)]
+mod glossary_coverage_tests {
+    use super::*;
+
+    struct Lritf {
+        instrument: Instrument,
+        provisions: Vec<Provision>,
+        terms: Vec<DefinedTerm>,
+        usages: Vec<TermUsage>,
+    }
+
+    fn lritf() -> Lritf {
+        Lritf {
+            instrument: serde_json::from_str(include_str!(
+                "../../../corpus/mx/lritf/instrument.json"
+            ))
+            .unwrap(),
+            provisions: serde_json::from_str(include_str!(
+                "../../../corpus/mx/lritf/provisions.json"
+            ))
+            .unwrap(),
+            terms: serde_json::from_str(include_str!("../../../corpus/mx/lritf/terms.json"))
+                .unwrap(),
+            usages: serde_json::from_str(include_str!("../../../corpus/mx/lritf/term-usages.json"))
+                .unwrap(),
+        }
+    }
+
+    fn configured(record: &Lritf) -> GlossaryCoverage {
+        let provision_id = record.terms[0].defining_provision_id.clone();
+        let text = &record
+            .provisions
+            .iter()
+            .find(|provision| provision.id == provision_id)
+            .unwrap()
+            .text;
+        GlossaryCoverage {
+            schema_version: SCHEMA_VERSION.to_owned(),
+            strategy_version: GLOSSARY_STRATEGY_VERSION.to_owned(),
+            instrument_id: record.instrument.id.clone(),
+            source_sha256: record.instrument.source_sha256.clone(),
+            extracted_text_sha256: record.instrument.extracted_text_sha256.clone(),
+            status: GlossaryCoverageStatus::Configured,
+            glossaries: vec![GlossaryProvisionCoverage {
+                provision_id,
+                provision_text_sha256: evidence_sha256(text),
+                method: "fractions".to_owned(),
+                fractions: record
+                    .terms
+                    .iter()
+                    .filter_map(|term| term.fraction.clone())
+                    .collect(),
+                repeal_placeholders: None,
+                term_count: record.terms.len(),
+            }],
+            hold: None,
+            imports: Vec::new(),
+            term_count: record.terms.len(),
+            usage_count: record.usages.len(),
+        }
+    }
+
+    fn check(record: &Lritf, coverage: &GlossaryCoverage) -> Result<(), String> {
+        coverage.validate(
+            &record.instrument,
+            &record.provisions,
+            &record.terms,
+            &record.usages,
+        )
+    }
+
+    #[test]
+    fn a_coverage_record_must_describe_the_persisted_terms_and_text() {
+        let record = lritf();
+        let coverage = configured(&record);
+        check(&record, &coverage).unwrap();
+
+        let mut edited = lritf();
+        let glossary_id = &coverage.glossaries[0].provision_id;
+        edited
+            .provisions
+            .iter_mut()
+            .find(|provision| &provision.id == glossary_id)
+            .unwrap()
+            .text
+            .push(' ');
+        assert!(
+            check(&edited, &coverage)
+                .unwrap_err()
+                .contains("text changed")
+        );
+
+        let mut recounted = coverage.clone();
+        recounted.usage_count += 1;
+        assert!(
+            check(&record, &recounted)
+                .unwrap_err()
+                .contains("coverage counts")
+        );
+
+        let mut renumbered = coverage.clone();
+        renumbered.glossaries[0].fractions.reverse();
+        assert!(
+            check(&record, &renumbered)
+                .unwrap_err()
+                .contains("does not match")
+        );
+
+        let mut other_source = coverage.clone();
+        other_source.source_sha256 = "0".repeat(64);
+        assert!(check(&record, &other_source).is_err());
+    }
+
+    #[test]
+    fn a_held_or_empty_status_cannot_carry_terms_or_glossaries() {
+        let record = lritf();
+        let mut held = configured(&record);
+        held.status = GlossaryCoverageStatus::Held;
+        assert!(check(&record, &held).unwrap_err().contains("contradicts"));
+
+        let mut detected = configured(&record);
+        detected.status = GlossaryCoverageStatus::Detected;
+        assert!(
+            check(&record, &detected)
+                .unwrap_err()
+                .contains("contradicts")
+        );
+
+        let empty = Lritf {
+            terms: Vec::new(),
+            usages: Vec::new(),
+            ..lritf()
+        };
+        let mut none = configured(&record);
+        none.status = GlossaryCoverageStatus::NoneDetected;
+        none.glossaries.clear();
+        none.term_count = 0;
+        none.usage_count = 0;
+        check(&empty, &none).unwrap();
+
+        let mut held_empty = none.clone();
+        held_empty.status = GlossaryCoverageStatus::Held;
+        assert!(
+            check(&empty, &held_empty)
+                .unwrap_err()
+                .contains("contradicts")
+        );
+        let provision = &record.provisions[3];
+        held_empty.hold = Some(GlossaryHoldRecord {
+            provision_id: provision.id.clone(),
+            provision_text_sha256: evidence_sha256(&provision.text),
+            code: GlossaryHoldCode::SequenceBreak,
+            message: "fraction V breaks the I, II, III… sequence after 3".to_owned(),
+        });
+        check(&empty, &held_empty).unwrap();
+    }
+
+    #[test]
+    fn the_schema_rejects_unknown_methods_and_fraction_labels() {
+        let record = lritf();
+        let mut method = configured(&record);
+        method.glossaries[0].method = "guessed".to_owned();
+        assert!(check(&record, &method).is_err());
+
+        let mut label = configured(&record);
+        label.glossaries[0].fractions[0] = "I Quáter".to_owned();
+        assert!(check(&record, &label).is_err());
     }
 }

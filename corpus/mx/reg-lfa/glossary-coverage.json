@@ -1,0 +1,29 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lfa",
+  "source_sha256": "8577b72dfc67461533ecea0bdaef39ebf0b29e6d4f3b6117a4235e98d7309e34",
+  "extracted_text_sha256": "a3d8370f28f1ff3a9338ce99e1ae90a811e4743545fa8c9fa125f51251adb9de",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lfa:article:2",
+      "provision_text_sha256": "752cb781c6a978238e7422c55787e23928a178773d1122b2bc388491706e78dc",
+      "method": "established_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII"
+      ],
+      "term_count": 8
+    }
+  ],
+  "imports": [],
+  "term_count": 8,
+  "usage_count": 12
+}

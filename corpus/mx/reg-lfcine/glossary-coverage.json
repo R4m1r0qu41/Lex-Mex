@@ -1,0 +1,30 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lfcine",
+  "source_sha256": "f3f010bc7f5a510b084b5d43ef56a567e9b02b2083c36e50a9d0e8955af28cd6",
+  "extracted_text_sha256": "3a064d9b29a193528e81e7877535319830e83e4a6099e8f3679d08635b05879b",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:3",
+      "provision_text_sha256": "c1148ff0559c3a33369097047650b88e8a953919ab9ab14cb19b8100304c54c6",
+      "method": "established_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX"
+      ],
+      "term_count": 9
+    }
+  ],
+  "imports": [],
+  "term_count": 9,
+  "usage_count": 169
+}

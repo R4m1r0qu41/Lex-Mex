@@ -1,0 +1,25 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lisr",
+  "source_sha256": "0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3",
+  "extracted_text_sha256": "9b27084da42ca8093fe4f97d71031725a557816d9dcf3aacb5078c42ce246322",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:1",
+      "provision_text_sha256": "8c3171a5a1f8c49c22bb2f89574e6c2068433f16863d80f1256faade7319e2fc",
+      "method": "established_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV"
+      ],
+      "term_count": 4
+    }
+  ],
+  "imports": [],
+  "term_count": 4,
+  "usage_count": 874
+}

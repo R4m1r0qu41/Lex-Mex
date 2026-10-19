@@ -1,0 +1,39 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:statute:lgeo",
+  "source_sha256": "67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35",
+  "extracted_text_sha256": "9937bb809bc2daa20df9b26511f9405ff831be627b7ced4c2b3897a5f836f1a4",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lgeo:article:2",
+      "provision_text_sha256": "8dc10ae749c0659d2842af2245e3cd394011ddf4b326ad6f82206fa7ca7c4107",
+      "method": "wider_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII",
+        "XIII",
+        "XIV",
+        "XV",
+        "XVI",
+        "XVII"
+      ],
+      "repeal_placeholders": [],
+      "term_count": 17
+    }
+  ],
+  "imports": [],
+  "term_count": 17,
+  "usage_count": 618
+}

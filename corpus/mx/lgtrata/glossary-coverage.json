@@ -1,0 +1,38 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:statute:lgtrata",
+  "source_sha256": "390299a89715d602b3ef07af9ef85aa09d456a2e1b6c7229da52e68434a1ed32",
+  "extracted_text_sha256": "dd189b5c2aeba0d8ba439ed764834dda97a3327756934a9c56279080e928b8a2",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lgtrata:article:4",
+      "provision_text_sha256": "53608023dae2357e41c59b3be0a6294eec4f838c9c3a14c5a6675cf79e50f3b9",
+      "method": "established_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII",
+        "XIII",
+        "XIV",
+        "XV",
+        "XVI",
+        "XVII"
+      ],
+      "term_count": 17
+    }
+  ],
+  "imports": [],
+  "term_count": 17,
+  "usage_count": 40
+}

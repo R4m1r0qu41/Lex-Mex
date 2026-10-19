@@ -146,6 +146,11 @@ send a Codex review packet.
 
 ## Current checkpoint
 
+2026-10-19 (persisted coverage): every instrument has `glossary-coverage.json`
+(status, method, fractions, placeholders, hold code, imports, text hashes), and
+`validate` checks it. Statuses: 12 configured, 299 detected, 12 held and 145
+none detected. This closes Codex review P2 (held coverage only on stderr).
+
 2026-10-19 (G3 import): `reg-lgcc-rne` adopts LGCC Article 3 (82 → 207 usages).
 The meia and mpcca imports of LGEEPA Article 3 were probed and are not configured.
 Their imported usages are almost all title-prefix false matches, so they wait for
@@ -219,7 +224,8 @@ auto-detection gains a wider fallback pass").
 
 ## Next action
 
-Repair the reproduced completeness guards and define persisted extraction
-coverage, then add the smallest source-bound exception batch from the review.
+The completeness guards and persisted coverage are done. Next, add the smallest
+source-bound exception batch from the review (12 holds), then the title-span usage
+filter, which also unblocks the meia and mpcca imports.
 Operator rulings on glossary scope remain pending except `lss` (both 5 A and
 159, ruled 2026-10-18); G3 imports follow accepted originals and scope decisions.

@@ -1,0 +1,32 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:statute:lsprem",
+  "source_sha256": "bcc21844355854fe331c842c21436d721d6c2856b5c5986715fe39f4a845b317",
+  "extracted_text_sha256": "2a347edbd66de1e209f7e3943f6aa196ed9a441c2c0ab26d83d6bd593b149984",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lsprem:article:2",
+      "provision_text_sha256": "ef9e37049cfbd0ac290629964223fb33eb3e312de9c0cc086af5ced28042238d",
+      "method": "wider_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X"
+      ],
+      "repeal_placeholders": [],
+      "term_count": 10
+    }
+  ],
+  "imports": [],
+  "term_count": 10,
+  "usage_count": 270
+}

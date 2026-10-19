@@ -27,7 +27,9 @@
 use std::sync::LazyLock;
 
 use anyhow::{Context, Result, bail};
-use lex_core::{Basis, DefinedTerm, Provision, ProvisionType, SCHEMA_VERSION, TermUsage};
+use lex_core::{
+    Basis, DefinedTerm, GlossaryHoldCode, Provision, ProvisionType, SCHEMA_VERSION, TermUsage,
+};
 use regex::Regex;
 
 #[derive(Debug, Clone, Copy, PartialEq, Eq)]
@@ -90,12 +92,24 @@ pub fn extract_terms(provision: &Provision, style: GlossaryStyle) -> Result<Vec<
             return Ok(terms);
         }
         GlossaryStyle::AutoWhole => match wider_glossary_entries(provision) {
-            Some(Ok(entries)) => entries,
-            Some(Err(reason)) => bail!("glossary at {} is incomplete: {reason}", provision.id),
+            Some(Ok(glossary)) => glossary.entries,
+            Some(Err((_, reason))) => {
+                bail!("glossary at {} is incomplete: {reason}", provision.id)
+            }
             None => bail!("no glossary detected at {}", provision.id),
         },
     };
     terms_from_entries(provision, entries)
+}
+
+/// The repealed fractions a configured style skipped as whole placeholders,
+/// when the style reports them (`auto_whole`); `None` for the other styles.
+#[must_use]
+pub fn repeal_placeholders(provision: &Provision, style: GlossaryStyle) -> Option<Vec<String>> {
+    match (style, wider_glossary_entries(provision)) {
+        (GlossaryStyle::AutoWhole, Some(Ok(glossary))) => Some(glossary.repeal_placeholders),
+        _ => None,
+    }
 }
 
 /// Extract an instrument's configured glossary provisions, in order. Each
@@ -163,10 +177,31 @@ pub fn detect_glossary_terms(provisions: &[Provision]) -> Result<Vec<DefinedTerm
 #[derive(Debug, Default)]
 pub struct GlossaryDetection {
     pub terms: Vec<DefinedTerm>,
-    /// The provision and reason when the wider pass found a glossary it
-    /// could not extract completely. Such a glossary yields no terms rather
-    /// than a partial set.
-    pub held: Option<(String, String)>,
+    /// The pass that produced `terms`: `established_pass` or `wider_pass`.
+    pub method: Option<&'static str>,
+    /// Repealed fractions the wider pass skipped as whole placeholders; the
+    /// established pass does not report them.
+    pub repeal_placeholders: Option<Vec<String>>,
+    /// Set when the wider pass found a glossary it could not extract
+    /// completely. Such a glossary yields no terms rather than a partial set.
+    pub held: Option<GlossaryHold>,
+}
+
+/// A detected glossary held as incomplete: where, and why.
+#[derive(Debug, Clone, PartialEq, Eq)]
+pub struct GlossaryHold {
+    pub provision_id: String,
+    pub code: GlossaryHoldCode,
+    pub message: String,
+}
+
+/// Why the wider grammar could not extract a glossary whole.
+type Incomplete = (GlossaryHoldCode, String);
+
+/// A wider-pass glossary read whole.
+struct WiderGlossary {
+    entries: Vec<GlossaryEntry>,
+    repeal_placeholders: Vec<String>,
 }
 
 /// Auto-detect a glossary: first the established `se entenderá por:` pass,
@@ -179,7 +214,11 @@ pub struct GlossaryDetection {
 pub fn detect_glossary(provisions: &[Provision]) -> Result<GlossaryDetection> {
     let terms = detect_established_glossary(provisions)?;
     if !terms.is_empty() {
-        return Ok(GlossaryDetection { terms, held: None });
+        return Ok(GlossaryDetection {
+            terms,
+            method: Some("established_pass"),
+            ..GlossaryDetection::default()
+        });
     }
     detect_wider_glossary(provisions)
 }
@@ -295,13 +334,19 @@ fn detect_wider_glossary(provisions: &[Provision]) -> Result<GlossaryDetection> 
             continue;
         };
         return Ok(match outcome {
-            Ok(entries) => GlossaryDetection {
-                terms: terms_from_entries(provision, entries)?,
+            Ok(glossary) => GlossaryDetection {
+                terms: terms_from_entries(provision, glossary.entries)?,
+                method: Some("wider_pass"),
+                repeal_placeholders: Some(glossary.repeal_placeholders),
                 held: None,
             },
-            Err(reason) => GlossaryDetection {
-                terms: Vec::new(),
-                held: Some((provision.id.clone(), reason)),
+            Err((code, message)) => GlossaryDetection {
+                held: Some(GlossaryHold {
+                    provision_id: provision.id.clone(),
+                    code,
+                    message,
+                }),
+                ..GlossaryDetection::default()
             },
         });
     }
@@ -353,7 +398,7 @@ static WIDER_FRACTION: LazyLock<Regex> = LazyLock::new(|| {
 /// glossary is incomplete.
 fn wider_glossary_entries(
     provision: &Provision,
-) -> Option<std::result::Result<Vec<GlossaryEntry>, String>> {
+) -> Option<std::result::Result<WiderGlossary, Incomplete>> {
     let text = &provision.text;
     let head_end = text
         .char_indices()
@@ -390,18 +435,30 @@ fn wider_glossary_entries(
 /// unqualified fraction follows the previous base; a qualified one repeats
 /// the base with the next qualifier, so `I, I Bis, I Bis` and `I, I Ter`
 /// both break the sequence.
-fn check_fraction_sequence(starts: &[(usize, usize, String)]) -> std::result::Result<(), String> {
+fn check_fraction_sequence(
+    starts: &[(usize, usize, String)],
+) -> std::result::Result<(), Incomplete> {
     let mut previous: Option<(u32, u32)> = None;
     for (_, _, numeral) in starts {
         let (base, rank) = match numeral.split_once(char::is_whitespace) {
             Some((base, "Bis")) => (base, 1),
             Some((base, "Ter")) => (base, 2),
-            Some(_) => return Err(format!("fraction {numeral} has an unknown qualifier")),
+            Some(_) => {
+                return Err((
+                    GlossaryHoldCode::UnknownQualifier,
+                    format!("fraction {numeral} has an unknown qualifier"),
+                ));
+            }
             None => (numeral.as_str(), 0),
         };
         let value = roman_value(base)
             .filter(|value| canonical_roman(*value) == base)
-            .ok_or_else(|| format!("fraction {numeral} is not a canonical Roman numeral"))?;
+            .ok_or_else(|| {
+                (
+                    GlossaryHoldCode::NoncanonicalNumeral,
+                    format!("fraction {numeral} is not a canonical Roman numeral"),
+                )
+            })?;
         let expected = if rank == 0 {
             previous.map_or(1, |(value, _)| value + 1)
         } else {
@@ -413,16 +470,19 @@ fn check_fraction_sequence(starts: &[(usize, usize, String)]) -> std::result::Re
             previous.map_or(0, |(_, rank)| rank + 1)
         };
         if value != expected || rank != expected_rank {
-            return Err(format!(
-                "fraction {numeral} breaks the I, II, III… sequence after {}",
-                previous.map_or_else(
-                    || "the introduction".to_owned(),
-                    |(value, rank)| match rank {
-                        0 => value.to_string(),
-                        1 => format!("{value} Bis"),
-                        _ => format!("{value} Ter"),
-                    }
-                )
+            return Err((
+                GlossaryHoldCode::SequenceBreak,
+                format!(
+                    "fraction {numeral} breaks the I, II, III… sequence after {}",
+                    previous.map_or_else(
+                        || "the introduction".to_owned(),
+                        |(value, rank)| match rank {
+                            0 => value.to_string(),
+                            1 => format!("{value} Bis"),
+                            _ => format!("{value} Ter"),
+                        }
+                    )
+                ),
             ));
         }
         previous = Some((value, rank));
@@ -434,7 +494,7 @@ fn check_fraction_sequence(starts: &[(usize, usize, String)]) -> std::result::Re
 fn complete_entries(
     text: &str,
     starts: &[(usize, usize, String)],
-) -> std::result::Result<Vec<GlossaryEntry>, String> {
+) -> std::result::Result<WiderGlossary, Incomplete> {
     let swallowed = Regex::new(r"(?:^|\s)[IVXLCDM]{1,7}(?:\s+(?:Bis|Ter))?\.-?\s+[A-ZÁÉÍÓÚÑ]")
         .expect("static regex");
     check_fraction_sequence(starts)?;
@@ -475,43 +535,48 @@ fn complete_entries(
                 .take(COLON_TERM_MAX_CHARS + 5)
                 .find(|character| matches!(character, ':' | '.' | ','))
         })
-        .ok_or("no fraction has a term delimiter")?;
+        .ok_or_else(|| {
+            (
+                GlossaryHoldCode::NoTermDelimiter,
+                "no fraction has a term delimiter".to_owned(),
+            )
+        })?;
     let mut entries = Vec::with_capacity(bodies.len());
+    let mut repeal_placeholders = Vec::new();
     let mut slugs = std::collections::HashSet::new();
     for (index, (numeral, body, start, end)) in bodies.into_iter().enumerate() {
         // A fraction heading inside any entry, a placeholder included, means
         // furniture hid a fraction (`II. Derogada. ENCABEZADO III. …`).
         if let Some(found) = swallowed.find(body) {
-            return Err(format!(
-                "fraction {numeral} contains another fraction heading {:?}",
-                found.as_str().trim()
+            return Err((
+                GlossaryHoldCode::SwallowedFraction,
+                format!(
+                    "fraction {numeral} contains another fraction heading {:?}",
+                    found.as_str().trim()
+                ),
             ));
         }
         if placeholder(index, body) {
+            repeal_placeholders.push(numeral.to_owned());
             continue;
         }
         // Only a whole placeholder is a repealed fraction. An entry that
         // opens with the repeal wording and goes on (`Derogados: Los
         // permisos retirados`) is not read as either.
         if starts_with_repeal_wording(body) {
-            return Err(format!(
-                "fraction {numeral} opens with repeal wording but is not a repeal placeholder"
+            return Err((
+                GlossaryHoldCode::RepealWording,
+                format!(
+                    "fraction {numeral} opens with repeal wording but is not a repeal placeholder"
+                ),
             ));
         }
-        let term = body
-            .find(delimiter)
-            .map(|offset| body[..offset].trim())
-            .filter(|term| !term.is_empty() && term.chars().count() <= COLON_TERM_MAX_CHARS)
-            .ok_or_else(|| format!("fraction {numeral} has no term before `{delimiter}`"))?;
-        // A term is a short name on one line. Punctuation inside it means
-        // the fraction is not `Term<delimiter> definition`: a nested list
-        // (`Tabacos labrados y otros: … a) Cigarros, …`) or a quoted name
-        // that needs the quoted style.
-        if term.contains([':', ';', '.', '\n', '"', '“', '”']) {
-            return Err(format!("fraction {numeral} has no plain term: {term:?}"));
-        }
+        let term = entry_term(numeral, body, delimiter)?;
         if !slugs.insert(slug(term)) {
-            return Err(format!("fraction {numeral} repeats the term {term:?}"));
+            return Err((
+                GlossaryHoldCode::RepeatedTerm,
+                format!("fraction {numeral} repeats the term {term:?}"),
+            ));
         }
         entries.push(GlossaryEntry {
             term: term.to_owned(),
@@ -520,7 +585,39 @@ fn complete_entries(
             end_char: text[..end].chars().count(),
         });
     }
-    Ok(entries)
+    Ok(WiderGlossary {
+        entries,
+        repeal_placeholders,
+    })
+}
+
+/// The plain term before an entry's delimiter, or why the entry has none.
+fn entry_term<'a>(
+    numeral: &str,
+    body: &'a str,
+    delimiter: char,
+) -> std::result::Result<&'a str, Incomplete> {
+    let term = body
+        .find(delimiter)
+        .map(|offset| body[..offset].trim())
+        .filter(|term| !term.is_empty() && term.chars().count() <= COLON_TERM_MAX_CHARS)
+        .ok_or_else(|| {
+            (
+                GlossaryHoldCode::MissingTerm,
+                format!("fraction {numeral} has no term before `{delimiter}`"),
+            )
+        })?;
+    // A term is a short name on one line. Punctuation inside it means
+    // the fraction is not `Term<delimiter> definition`: a nested list
+    // (`Tabacos labrados y otros: … a) Cigarros, …`) or a quoted name
+    // that needs the quoted style.
+    if term.contains([':', ';', '.', '\n', '"', '“', '”']) {
+        return Err((
+            GlossaryHoldCode::UnplainTerm,
+            format!("fraction {numeral} has no plain term: {term:?}"),
+        ));
+    }
+    Ok(term)
 }
 
 /// A repealed fraction's whole entry: `Derogada.`, `(Se deroga);` or `Se
@@ -1143,7 +1240,8 @@ pub fn find_glossary_provision<'a>(
 #[cfg(test)]
 mod tests {
     use lex_core::{
-        HeadingContext, Provision, ProvisionType, ReviewStatus, SCHEMA_VERSION, TemporalStatus,
+        GlossaryHoldCode, HeadingContext, Provision, ProvisionType, ReviewStatus, SCHEMA_VERSION,
+        TemporalStatus,
     };
     use pretty_assertions::assert_eq;
 
@@ -1634,11 +1732,13 @@ mod tests {
              conjunto de Fuentes;",
         );
         assert!(leaked.terms.is_empty());
-        let (provision_id, reason) = leaked.held.unwrap();
-        assert!(provision_id.ends_with("article:3"));
+        let hold = leaked.held.unwrap();
+        assert!(hold.provision_id.ends_with("article:3"));
+        assert_eq!(hold.code, GlossaryHoldCode::SwallowedFraction);
         assert!(
-            reason.contains("contains another fraction heading"),
-            "{reason}"
+            hold.message.contains("contains another fraction heading"),
+            "{}",
+            hold.message
         );
 
         // reg-lss-maeba 2 shape: III is followed by V.
@@ -1650,7 +1750,7 @@ mod tests {
              07-11-2025\n\na) Cigarros, los cigarros con o sin filtro.",
         );
         assert!(nested.terms.is_empty());
-        assert!(nested.held.unwrap().1.contains("no plain term"));
+        assert!(nested.held.unwrap().message.contains("no plain term"));
 
         // lsct 2 shape: quoted names.
         let quoted = wider(
@@ -1659,14 +1759,14 @@ mod tests {
              declaración formulada al firmar.",
         );
         assert!(quoted.terms.is_empty());
-        assert!(quoted.held.unwrap().1.contains("no plain term"));
+        assert!(quoted.held.unwrap().message.contains("no plain term"));
 
         let gap = wider(
             "Para los efectos de esta Ley, se entiende por:\n\nI. Adquirente: Persona;\n\nII. \
              Avalúo: Dictamen;\n\nIII. Bien: Mueble;\n\nV. Comité Técnico: Órgano;",
         );
         assert!(gap.terms.is_empty());
-        assert!(gap.held.unwrap().1.contains("breaks the I, II, III"));
+        assert!(gap.held.unwrap().message.contains("breaks the I, II, III"));
     }
 
     #[test]
@@ -1678,7 +1778,7 @@ mod tests {
              Derogada. ENCABEZADO DE PAGINA III. Secretaría: La secretaría.",
         );
         assert!(hidden.terms.is_empty());
-        let reason = hidden.held.unwrap().1;
+        let reason = hidden.held.unwrap().message;
         assert!(reason.contains("another fraction heading"), "{reason}");
 
         // A genuine entry that opens with the repeal wording is not dropped.
@@ -1687,7 +1787,7 @@ mod tests {
              retirados;\nII. Vigentes: Los permisos activos.",
         );
         assert!(genuine.terms.is_empty());
-        let reason = genuine.held.unwrap().1;
+        let reason = genuine.held.unwrap().message;
         assert!(reason.contains("repeal wording"), "{reason}");
 
         // Whole placeholders, with their amendment notes, are still skipped.
@@ -1701,6 +1801,61 @@ mod tests {
             ),
             ["Agencia", "Banco"]
         );
+    }
+
+    #[test]
+    fn detection_reports_its_pass_skipped_placeholders_and_hold_code() {
+        let detected = wider(
+            "Para los efectos de esta Ley, se entiende por:\n\nI. Agencia: La agencia;\n\nII. \
+             Derogada. Fracción derogada DOF 01-02-2003\n\nIII. Banco: El banco.",
+        );
+        assert_eq!(detected.method, Some("wider_pass"));
+        assert_eq!(detected.repeal_placeholders, Some(vec!["II".to_owned()]));
+        assert_eq!(
+            super::repeal_placeholders(
+                &provision(
+                    STATUTE_ID,
+                    "article:3",
+                    "Para los efectos de esta Ley, se entiende \
+                 por:\n\nI. Agencia: La agencia;\n\nII. Derogada.\n\nIII. Banco: El banco."
+                ),
+                GlossaryStyle::AutoWhole
+            ),
+            Some(vec!["II".to_owned()])
+        );
+
+        let established = wider(
+            "Para los efectos de esta Ley se entenderá por:\n\nI. Agencia: La agencia;\n\nII. \
+             Banco: El banco.",
+        );
+        assert_eq!(established.method, Some("established_pass"));
+        assert_eq!(established.repeal_placeholders, None);
+
+        for (fractions, code) in [
+            (
+                "I. Agencia: La agencia;\n\nIII. Banco: El banco.",
+                GlossaryHoldCode::SequenceBreak,
+            ),
+            (
+                "I. Agencia: La agencia;\n\nII. Banco: El banco;\n\nIIII. Caja: La caja.",
+                GlossaryHoldCode::NoncanonicalNumeral,
+            ),
+            (
+                "I. Agencia: La agencia;\n\nII. Agencia: Otra agencia.",
+                GlossaryHoldCode::RepeatedTerm,
+            ),
+            (
+                "I. Derogados: Los permisos;\n\nII. Vigentes: Los activos.",
+                GlossaryHoldCode::RepealWording,
+            ),
+        ] {
+            let held = wider(&format!(
+                "Para los efectos de esta Ley, se entiende por:\n\n{fractions}"
+            ));
+            assert!(held.terms.is_empty(), "{fractions}");
+            assert_eq!(held.method, None, "{fractions}");
+            assert_eq!(held.held.map(|hold| hold.code), Some(code), "{fractions}");
+        }
     }
 
     #[test]
@@ -1746,10 +1901,10 @@ mod tests {
              caja;\n\nII. Deuda: La deuda.",
         );
         assert!(repeated.terms.is_empty());
-        assert!(repeated.held.unwrap().1.contains("I Bis breaks"));
+        assert!(repeated.held.unwrap().message.contains("I Bis breaks"));
 
         let ter_first = glossary("I. Agencia: La agencia;\n\nI Ter. Banco: El banco;");
-        assert!(ter_first.held.unwrap().1.contains("I Ter breaks"));
+        assert!(ter_first.held.unwrap().message.contains("I Ter breaks"));
 
         let spelled = glossary(
             "I. Agencia: La agencia;\n\nII. Banco: El banco;\n\nIII. Caja: La \
@@ -1759,7 +1914,7 @@ mod tests {
             spelled
                 .held
                 .unwrap()
-                .1
+                .message
                 .contains("not a canonical Roman numeral")
         );
 

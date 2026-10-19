@@ -1,0 +1,12 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:statute:lopdc",
+  "source_sha256": "7dc8f2201fdeb8039371254e3b2606c158f4cd480e29ce074a65eb375a19475c",
+  "extracted_text_sha256": "a270768492420a4468d035e39950ecb852db733c80adff113fcd7c8fae16fa77",
+  "status": "none_detected",
+  "glossaries": [],
+  "imports": [],
+  "term_count": 0,
+  "usage_count": 0
+}

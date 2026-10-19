@@ -1,0 +1,12 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:statute:louam",
+  "source_sha256": "8ed0956913d72410d20164fbb17b641a0b3bde532788035b8f0898d18481ac40",
+  "extracted_text_sha256": "73c41991395b6be97ab192a995afebd2ab56857007dc091045f663013671e96b",
+  "status": "none_detected",
+  "glossaries": [],
+  "imports": [],
+  "term_count": 0,
+  "usage_count": 0
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:statute:lieps",
+  "source_sha256": "32639ede8448f91e6ddde556d4b8bceaf349b904bc21631f06e1c8a7a3d416f4",
+  "extracted_text_sha256": "c4b6dac008c1dfa3cf9fd92a232ac948ad31e158d1a1304e4e81ca33832c8736",
+  "status": "held",
+  "glossaries": [],
+  "hold": {
+    "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
+    "provision_text_sha256": "9c80c1dc34488ddc56b82465adc6bf0941894b64ac09962e2a633c53f0f6e232",
+    "code": "unplain_term",
+    "message": "fraction VIII has no plain term: \"Tabacos labrados y otros: Párrafo reformado DOF 07-11-2025\\n\\na) Cigarros\""
+  },
+  "imports": [],
+  "term_count": 0,
+  "usage_count": 0
+}

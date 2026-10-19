@@ -1,0 +1,41 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:statute:lpo",
+  "source_sha256": "2c0605e891e16c74283ed14d0adf749dba4cab1ad67909a2a5934f8e38b641a6",
+  "extracted_text_sha256": "4e011957acb523b3df61d7656fe7d2178e10eec32c1745c56df402aa02007706",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lpo:article:3",
+      "provision_text_sha256": "8e0533a936a83230b693f73f37f1d0e5f2821124112f0948ef83238871c6be44",
+      "method": "established_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII",
+        "XIII",
+        "XIV",
+        "XV",
+        "XVI",
+        "XVII",
+        "XVIII",
+        "XIX",
+        "XX"
+      ],
+      "term_count": 20
+    }
+  ],
+  "imports": [],
+  "term_count": 20,
+  "usage_count": 106
+}

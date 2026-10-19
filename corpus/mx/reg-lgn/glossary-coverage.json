@@ -1,0 +1,42 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lgn",
+  "source_sha256": "ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0",
+  "extracted_text_sha256": "8fd573957ffea45054f19cc85d388d9d6e1b1cab2f1f97a8e77112b3beb58a6a",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:2",
+      "provision_text_sha256": "036b40ad33f6f704af0867152f4b28ebc2d5c7a535e52dfc6a7026f346d0c5a9",
+      "method": "established_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII",
+        "XIII",
+        "XIV",
+        "XV",
+        "XVI",
+        "XVII",
+        "XVIII",
+        "XIX",
+        "XX",
+        "XXI",
+        "XXII"
+      ],
+      "term_count": 21
+    }
+  ],
+  "imports": [],
+  "term_count": 21,
+  "usage_count": 1000
+}

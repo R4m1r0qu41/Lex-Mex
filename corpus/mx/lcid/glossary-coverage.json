@@ -1,0 +1,35 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:statute:lcid",
+  "source_sha256": "1a64991c466c40c7ed0f3d7bffa1b5d5b87dc9df8aa59a97b525a99f98b381a6",
+  "extracted_text_sha256": "0110f182c33a8a2777470ca167fb6fecad8b57722b4069a35cef03d23601700e",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lcid:article:4",
+      "provision_text_sha256": "a9bfc3b240295e389d42e3b80cb1f17653b7d4a384c93466cc3525f508681cb9",
+      "method": "established_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XII",
+        "XIII",
+        "XIV",
+        "XV"
+      ],
+      "term_count": 14
+    }
+  ],
+  "imports": [],
+  "term_count": 14,
+  "usage_count": 150
+}

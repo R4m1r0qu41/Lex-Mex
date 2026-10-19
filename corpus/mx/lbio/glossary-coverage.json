@@ -1,0 +1,40 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:statute:lbio",
+  "source_sha256": "c1870db657a6564bbeb692a1778472db811a920626822de553ff5ca5194f95b4",
+  "extracted_text_sha256": "a26653bd9c71a408e661fc458fcbabf7fdadbd0f15e6b192012af8ab19b1b356",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lbio:article:2",
+      "provision_text_sha256": "7b2b01711af5852c558cd595d4aea98e7ecdf5bcdfb0da581a1ae6d389b7a932",
+      "method": "wider_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII",
+        "XIII",
+        "XIV",
+        "XV",
+        "XVI",
+        "XVII",
+        "XVIII"
+      ],
+      "repeal_placeholders": [],
+      "term_count": 18
+    }
+  ],
+  "imports": [],
+  "term_count": 18,
+  "usage_count": 749
+}

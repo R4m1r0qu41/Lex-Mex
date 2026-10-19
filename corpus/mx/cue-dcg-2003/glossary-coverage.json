@@ -1,0 +1,44 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:regulation:cue-dcg-2003",
+  "source_sha256": "b040dd53cd38f57ceaacd736fd04475ba82c840d063c62229302627d09f3f363",
+  "extracted_text_sha256": "e420bbe956e5a60d926981e0c4de9f9a365d72fc21544eab220a0f763573719a",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:1",
+      "provision_text_sha256": "c0924147cdef12a65bb385aea1f5262fd961dcb05f323131b273179062f2d6a0",
+      "method": "established_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII",
+        "XIV",
+        "XV",
+        "XVI",
+        "XVII",
+        "XVIII",
+        "XIX",
+        "XX",
+        "XXI",
+        "XXII",
+        "XXV",
+        "XXVI"
+      ],
+      "term_count": 23
+    }
+  ],
+  "imports": [],
+  "term_count": 23,
+  "usage_count": 240
+}

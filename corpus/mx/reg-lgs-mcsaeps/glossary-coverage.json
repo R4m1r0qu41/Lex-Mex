@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mcsaeps",
+  "source_sha256": "a952c5756e74797046decc1c7a80487ff423d2966fcffc2bf9dcd91c92b5539f",
+  "extracted_text_sha256": "2f940b7c097a2f089b176e842a0b579fe1495a51f04ceef6c16da9c83e9e25d6",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcsaeps:article:1268",
+      "provision_text_sha256": "67e34da2d59df2badceaa59d37ee2a77fbce967a47421263e4f295ce18956e94",
+      "method": "wider_pass",
+      "fractions": [
+        "I",
+        "II"
+      ],
+      "repeal_placeholders": [],
+      "term_count": 2
+    }
+  ],
+  "imports": [],
+  "term_count": 2,
+  "usage_count": 0
+}

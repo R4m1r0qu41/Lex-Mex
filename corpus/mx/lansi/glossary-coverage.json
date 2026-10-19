@@ -1,0 +1,38 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:statute:lansi",
+  "source_sha256": "0e34f329befed4474eb7bc1bc195ba13bbe188edfbbabc914a44723e62eb9e44",
+  "extracted_text_sha256": "cc07ea99884e086fbbf2959d413baba91300b20f64c99399e1ef30b8e44d83dc",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lansi:article:3",
+      "provision_text_sha256": "989b693c55c5111ca919b5d03f5b83c0bd138cc13a4e0721341a6ea7a36686a3",
+      "method": "wider_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII",
+        "XIII",
+        "XIV",
+        "XV",
+        "XVI"
+      ],
+      "repeal_placeholders": [],
+      "term_count": 16
+    }
+  ],
+  "imports": [],
+  "term_count": 16,
+  "usage_count": 200
+}

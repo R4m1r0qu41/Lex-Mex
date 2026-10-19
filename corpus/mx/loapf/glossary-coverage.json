@@ -1,0 +1,12 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:statute:loapf",
+  "source_sha256": "3edf486e601217f5f595f94f56832d8845cbd9193b6494af52473237252bcc5f",
+  "extracted_text_sha256": "cd367fe5dbcf9e572847f0ce0e94db031bf7ca4bf46687fe9b6397abfe96100f",
+  "status": "none_detected",
+  "glossaries": [],
+  "imports": [],
+  "term_count": 0,
+  "usage_count": 0
+}

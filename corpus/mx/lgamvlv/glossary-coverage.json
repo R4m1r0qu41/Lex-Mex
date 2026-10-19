@@ -1,0 +1,42 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:statute:lgamvlv",
+  "source_sha256": "9a35a6a9017840b7d052dfc0726ff668a76257fd3f76f741c615630125fbf535",
+  "extracted_text_sha256": "2a52abac7a4474a9e2eca9654aa74736cab5dbe0af85affc24a9d6a5279b9b8d",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:5",
+      "provision_text_sha256": "a8df768225942304dfdb723d6fe8a9b23ff0f9502e1f4125e7e5321bc7e0ea91",
+      "method": "established_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII",
+        "XIII",
+        "XIV",
+        "XV",
+        "XVI",
+        "XVII",
+        "XVIII",
+        "XIX",
+        "XX",
+        "XXI"
+      ],
+      "term_count": 21
+    }
+  ],
+  "imports": [],
+  "term_count": 21,
+  "usage_count": 133
+}

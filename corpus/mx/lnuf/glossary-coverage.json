@@ -1,0 +1,35 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:statute:lnuf",
+  "source_sha256": "0c11f4464286e7411713a80361a2e1ab15c4cc55bff80b4e6ee4a4333592d50c",
+  "extracted_text_sha256": "a21e58c26765b51961763ff26dfcaeae9f71196bc5398e6b5064a24b3604a9b2",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lnuf:article:3",
+      "provision_text_sha256": "6414a2aec73c0c8b4d8824bc1232e12534cfcf3b8f74baed642570f3a57f1e23",
+      "method": "established_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII",
+        "XIII",
+        "XIV"
+      ],
+      "term_count": 14
+    }
+  ],
+  "imports": [],
+  "term_count": 14,
+  "usage_count": 27
+}

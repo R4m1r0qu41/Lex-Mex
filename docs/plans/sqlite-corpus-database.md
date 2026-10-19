@@ -222,6 +222,7 @@ Unknown schema versions/enum values fail with a useful diagnostic until mapped.
 | `outdated_reference_approvals` / `legal_operator_reviews` | Independent optional one-to-one rows keyed by edge ID; complete canonical payload and queryable reviewer/time fields. One can exist without the other. |
 | `defined_terms` | Canonical ID PK; owning instrument, defining provision, fraction, offsets, basis and payload. |
 | `term_usages` | Canonical ID PK; provision and term FKs, exact span/offsets and payload. Cross-instrument usages are valid and remain separate from reference edges. |
+| `glossary_coverage` | One row per instrument from `glossary-coverage.json` (2026-10-19): status (`configured`, `detected`, `held`, `none_detected`), glossary provisions, hold code and message, imports, and the full payload. The database never infers "held" or "none" from an empty `terms.json`. |
 | `enactment_evidence` | Canonical ID PK; owner, kind, containing-act title, source heading, text, publication date/period and full payload; not law provisions. |
 | `evidence_artifacts` | Path/kind/owner; preserved reform evidence, amendment legends, temporal proposals/results and review queues with schema/version/hash. Define query views only over real existing fields. |
 | `coverage` / `coverage_accepted_gaps` | Explicit included/excluded/unavailable/not-assessed states, eight gap entries with exact error multiplicity/reason and source provenance. Keep instrument validation and closure completeness distinct. |

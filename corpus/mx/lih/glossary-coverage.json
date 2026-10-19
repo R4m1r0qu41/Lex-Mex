@@ -1,0 +1,48 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:statute:lih",
+  "source_sha256": "8262a75eac7bfb608d4f48657ffb2714fe115d0b9694c42ac81624fd275bf5f6",
+  "extracted_text_sha256": "7ca9dadc877086ab1f8b479ac85964b61ddb5b618f5ea21d1d6bcb2000be9afe",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
+      "provision_text_sha256": "a0b175b83b52ffb05baf9290c3e0a2bd517fdbc729a149b44ddd613f3201ddf1",
+      "method": "wider_pass",
+      "fractions": [
+        "I",
+        "I Bis",
+        "II",
+        "III",
+        "IV",
+        "IV Bis",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII",
+        "XIII",
+        "XIV",
+        "XV",
+        "XVI",
+        "XVII",
+        "XVIII",
+        "XIX",
+        "XX",
+        "XXI",
+        "XXII",
+        "XXIII",
+        "XXIV"
+      ],
+      "repeal_placeholders": [],
+      "term_count": 26
+    }
+  ],
+  "imports": [],
+  "term_count": 26,
+  "usage_count": 483
+}

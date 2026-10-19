@@ -20,6 +20,7 @@ const CANONICAL_FILES: &[&str] = &[
     "references.json",
     "terms.json",
     "term-usages.json",
+    "glossary-coverage.json",
     "amendment-references.json",
     "source-manifest.json",
     "formal-source-manifest.json",

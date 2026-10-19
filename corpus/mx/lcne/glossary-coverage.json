@@ -1,0 +1,26 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:statute:lcne",
+  "source_sha256": "7c13fd20564f1e7230268a0943cc226368b24c44886d6738c479f4c42cbe77de",
+  "extracted_text_sha256": "c8d9f0143544f8d4180aa2a3c52f015ee57951099b5d808ca3cfc7f59fdf113e",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lcne:article:6",
+      "provision_text_sha256": "fae024f87c935de064ab961655c0d121c3a86d8523c817c8d1c51607e13517c4",
+      "method": "wider_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV"
+      ],
+      "repeal_placeholders": [],
+      "term_count": 4
+    }
+  ],
+  "imports": [],
+  "term_count": 4,
+  "usage_count": 151
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr",
+  "source_sha256": "dd0765466adfcca29aa02472b74211f58322f9c1ba9f72f2fb92431c58c0b162",
+  "extracted_text_sha256": "55386cab2d060ba1ad0a6f92f1826ee1489a82d3d3159dcc0b2db161cb6a43a6",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:2",
+      "provision_text_sha256": "4344f9c4bbc72fe82e99788c9ec84118cea8b63ef27e576b574f069f3c349123",
+      "method": "established_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI"
+      ],
+      "term_count": 11
+    }
+  ],
+  "imports": [],
+  "term_count": 11,
+  "usage_count": 83
+}

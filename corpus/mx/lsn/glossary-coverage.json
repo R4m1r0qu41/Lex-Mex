@@ -1,0 +1,28 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:statute:lsn",
+  "source_sha256": "7b3cf7a0ff59f76503a97a535457c4a7dd3b1305e7a36f4fca82bd661eab1168",
+  "extracted_text_sha256": "e52f1551ed6be24bf872416b13bac58ef935481d2b3c041ce2412eb0614c2a76",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lsn:article:6",
+      "provision_text_sha256": "5793618876545c8a29b91f57d203395e75b7a376d20a7b6bd0c6f47252b54108",
+      "method": "wider_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI"
+      ],
+      "repeal_placeholders": [],
+      "term_count": 6
+    }
+  ],
+  "imports": [],
+  "term_count": 6,
+  "usage_count": 88
+}

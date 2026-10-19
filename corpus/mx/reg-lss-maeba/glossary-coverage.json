@@ -1,0 +1,37 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lss-maeba",
+  "source_sha256": "9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd",
+  "extracted_text_sha256": "d8e21cb98131b569cf9e08526d7f3d86b1eb3f7175059eef8aecf1cc88ff662e",
+  "status": "configured",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:2",
+      "provision_text_sha256": "d5ef1c753f557d8249b870f125f5dca8ceccb0b087f252573c38485928726eb1",
+      "method": "auto_whole",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X"
+      ],
+      "repeal_placeholders": [],
+      "term_count": 10
+    }
+  ],
+  "imports": [
+    {
+      "additive_to": "urn:lex-mx:federal:statute:lss:article:5-a",
+      "term_count": 24
+    }
+  ],
+  "term_count": 10,
+  "usage_count": 197
+}

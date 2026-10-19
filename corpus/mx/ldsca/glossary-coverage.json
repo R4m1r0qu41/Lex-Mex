@@ -1,0 +1,43 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:statute:ldsca",
+  "source_sha256": "3ae8175ed89c2729e71551aac6ef879dfdd3da40cc03bae6784d61951c2c284d",
+  "extracted_text_sha256": "96d10075784cf0576c081ec17e8e56dd45cc95a1a03410e4476ec0ea326e904e",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:ldsca:article:3",
+      "provision_text_sha256": "25177e1dd88278db374fcdf364af4fe835461b65c1d652bdd6bf3c5e059118b3",
+      "method": "established_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII",
+        "XIII",
+        "XIV",
+        "XV",
+        "XVI",
+        "XVII",
+        "XVIII",
+        "XIX",
+        "XX",
+        "XXI",
+        "XXII"
+      ],
+      "term_count": 22
+    }
+  ],
+  "imports": [],
+  "term_count": 22,
+  "usage_count": 612
+}

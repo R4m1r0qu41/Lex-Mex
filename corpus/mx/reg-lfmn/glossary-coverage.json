@@ -1,0 +1,12 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lfmn",
+  "source_sha256": "3acf06eaf8b838cdfa68553efe0f007fcc3e9eee10b0ed42d693c99b0ae59bf3",
+  "extracted_text_sha256": "812c6082148de0c75ae8a7d55a472f4ce9d765a02f186637ee43a5b113ac700e",
+  "status": "none_detected",
+  "glossaries": [],
+  "imports": [],
+  "term_count": 0,
+  "usage_count": 0
+}

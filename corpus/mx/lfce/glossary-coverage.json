@@ -1,0 +1,41 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:statute:lfce",
+  "source_sha256": "d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba",
+  "extracted_text_sha256": "286e615356f63e3a3632d142faca1c53fc781fcab8c3cd5c344048ae82a5f022",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lfce:article:3",
+      "provision_text_sha256": "32de7614c71a64c270e340c21f59110902dfa547ecc887d8e5dcfce486bce1e4",
+      "method": "wider_pass",
+      "fractions": [
+        "I",
+        "I Bis",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XI Bis",
+        "XII",
+        "XIII",
+        "XIV",
+        "XIV Bis",
+        "XV"
+      ],
+      "repeal_placeholders": [
+        "VII"
+      ],
+      "term_count": 17
+    }
+  ],
+  "imports": [],
+  "term_count": 17,
+  "usage_count": 775
+}

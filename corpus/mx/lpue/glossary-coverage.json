@@ -1,0 +1,32 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:statute:lpue",
+  "source_sha256": "36f74d61a6190ff8005805ad80aa6cf90f7d5bf2209d24bdaf32f51d21214daf",
+  "extracted_text_sha256": "0aefb1dff9980d162a1a89822cbf3df494455c165df448e81a8282066d0d7bed",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lpue:article:2",
+      "provision_text_sha256": "ea393371c7bbfdb4d0781d967b5e9bc7fd62efb291af829e87639b4365438e63",
+      "method": "established_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI"
+      ],
+      "term_count": 11
+    }
+  ],
+  "imports": [],
+  "term_count": 11,
+  "usage_count": 86
+}

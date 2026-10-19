@@ -1,0 +1,12 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:statute:lobnefaa",
+  "source_sha256": "163f7d66aa47a07798c155bd7f39f065c7fd0103c098a31b6db3401ac5f01caf",
+  "extracted_text_sha256": "fc5e62e5d5f40ae570e02ecdbc1b4219abf5a3deb0345a80892362fdd2a52373",
+  "status": "none_detected",
+  "glossaries": [],
+  "imports": [],
+  "term_count": 0,
+  "usage_count": 0
+}

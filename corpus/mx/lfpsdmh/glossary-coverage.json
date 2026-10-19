@@ -1,0 +1,30 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:statute:lfpsdmh",
+  "source_sha256": "ace34ed71b587262c6c3a59657b3706960600744b170a830c4996e419e5abd1a",
+  "extracted_text_sha256": "ff84c916e01015de7578add2d820bb93cf8ec5c8aae4ff1009b310dd6a600d52",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lfpsdmh:article:3",
+      "provision_text_sha256": "effadccacf4a6331df2ea1d7f374c732aca2d9d6899c55120f71a793d19618ce",
+      "method": "established_pass",
+      "fractions": [
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X"
+      ],
+      "term_count": 9
+    }
+  ],
+  "imports": [],
+  "term_count": 9,
+  "usage_count": 0
+}

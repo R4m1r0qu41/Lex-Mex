@@ -1,0 +1,107 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/R4m1r0qu41/Lex-Mex/schemas/glossary-coverage.schema.json",
+  "title": "Lex-Mex glossary extraction coverage",
+  "description": "Deterministic record of how an instrument's terms.json was produced: which glossary provisions were read and how, or why a detected glossary was held. A technical extraction record, never a legal approval.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "strategy_version",
+    "instrument_id",
+    "source_sha256",
+    "extracted_text_sha256",
+    "status",
+    "glossaries",
+    "imports",
+    "term_count",
+    "usage_count"
+  ],
+  "properties": {
+    "schema_version": { "type": "string", "const": "0.1.0" },
+    "strategy_version": { "type": "string", "const": "glossary-extraction-1" },
+    "instrument_id": { "type": "string", "pattern": "^urn:lex-mx:" },
+    "source_sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
+    "extracted_text_sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
+    "status": {
+      "type": "string",
+      "enum": ["configured", "detected", "held", "none_detected"]
+    },
+    "glossaries": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/glossary" }
+    },
+    "hold": { "$ref": "#/$defs/hold" },
+    "imports": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/import" }
+    },
+    "term_count": { "type": "integer", "minimum": 0 },
+    "usage_count": { "type": "integer", "minimum": 0 }
+  },
+  "$defs": {
+    "fraction": {
+      "type": "string",
+      "pattern": "^[IVXLCDM]+(?: (?:Bis|Ter))?$"
+    },
+    "glossary": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["provision_id", "provision_text_sha256", "method", "fractions", "term_count"],
+      "properties": {
+        "provision_id": { "type": "string", "pattern": "^urn:lex-mx:" },
+        "provision_text_sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
+        "method": {
+          "type": "string",
+          "enum": [
+            "established_pass",
+            "wider_pass",
+            "fractions",
+            "colon_entries",
+            "roman_colon",
+            "mixed_fractions",
+            "quoted_respectively",
+            "auto_established",
+            "auto_whole"
+          ]
+        },
+        "fractions": { "type": "array", "items": { "$ref": "#/$defs/fraction" } },
+        "repeal_placeholders": { "type": "array", "items": { "$ref": "#/$defs/fraction" } },
+        "term_count": { "type": "integer", "minimum": 0 }
+      }
+    },
+    "hold": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["provision_id", "provision_text_sha256", "code", "message"],
+      "properties": {
+        "provision_id": { "type": "string", "pattern": "^urn:lex-mx:" },
+        "provision_text_sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
+        "code": {
+          "type": "string",
+          "enum": [
+            "sequence_break",
+            "unknown_qualifier",
+            "noncanonical_numeral",
+            "no_term_delimiter",
+            "swallowed_fraction",
+            "repeal_wording",
+            "missing_term",
+            "unplain_term",
+            "repeated_term"
+          ]
+        },
+        "message": { "type": "string", "minLength": 1 }
+      }
+    },
+    "import": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["additive_to", "term_count"],
+      "properties": {
+        "additive_to": { "type": "string", "pattern": "^urn:lex-mx:" },
+        "term_count": { "type": "integer", "minimum": 1 }
+      }
+    }
+  }
+}

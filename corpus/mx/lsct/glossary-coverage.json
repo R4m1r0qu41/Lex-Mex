@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:statute:lsct",
+  "source_sha256": "a48cb9fbc325567be8d5e1b131a59b45e0ef9b57dd350e81eadd48cba75ac201",
+  "extracted_text_sha256": "88c43373be482a7ef9a5649641479241ea8e83ad26c2c010608f3ad48610659c",
+  "status": "held",
+  "glossaries": [],
+  "hold": {
+    "provision_id": "urn:lex-mx:federal:statute:lsct:article:2",
+    "provision_text_sha256": "2a963793ba376665d572ef6af335038df9a447dfa268c1867c0adcbcb1701c69",
+    "code": "unplain_term",
+    "message": "fraction I has no plain term: \"“Tratado”\""
+  },
+  "imports": [],
+  "term_count": 0,
+  "usage_count": 0
+}

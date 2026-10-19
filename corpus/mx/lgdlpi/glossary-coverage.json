@@ -1,0 +1,12 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:statute:lgdlpi",
+  "source_sha256": "c089e774b400c1922811859a6b867c7593120cbe61b4ba4f745321cf26e8b41d",
+  "extracted_text_sha256": "ff23aa8143b082deaff0e0e1a89af7a8e63e9c4e3bb64a5afca2d724d7fbaee6",
+  "status": "none_detected",
+  "glossaries": [],
+  "imports": [],
+  "term_count": 0,
+  "usage_count": 0
+}

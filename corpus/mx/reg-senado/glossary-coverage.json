@@ -1,0 +1,12 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-senado",
+  "source_sha256": "97c7f328d93e915310ceb64d00da908a56188e78088e49e997c1dd60b33a57c2",
+  "extracted_text_sha256": "b2e4fa64f9d14f69b978496ab08c5b8d73e36b0f7abdcecbd622c15f7d120707",
+  "status": "none_detected",
+  "glossaries": [],
+  "imports": [],
+  "term_count": 0,
+  "usage_count": 0
+}

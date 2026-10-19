@@ -1,0 +1,37 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca",
+  "source_sha256": "cf47ab93fdea40d2b3e41b58784df62f89dd90b4482dd3b7f25adc7f6957036b",
+  "extracted_text_sha256": "2d07c05dbdabce7baa05d40a9ad4e314a5ecf3ee669ef4d115bd01a2e14d5593",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:6",
+      "provision_text_sha256": "aa75d56eb4c43b8ded738a86f4fff19fd09188f260ac0eecc1497a1d7bbb995e",
+      "method": "wider_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII",
+        "XIII",
+        "XIV",
+        "XV"
+      ],
+      "repeal_placeholders": [],
+      "term_count": 15
+    }
+  ],
+  "imports": [],
+  "term_count": 15,
+  "usage_count": 124
+}

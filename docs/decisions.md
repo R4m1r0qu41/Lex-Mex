@@ -1,5 +1,53 @@
 # Architecture decisions
 
+## 2026-10-19 — Persisted glossary extraction coverage (`glossary-coverage.json`)
+
+**Why.** Codex review 2026-10-18, P2: a held glossary was reported only on stderr. The persisted empty `terms.json` could not distinguish a held glossary from an instrument with none, and the database must not infer either from `[]`.
+
+**Record.** Every instrument now has a deterministic `corpus/mx/<slug>/glossary-coverage.json`, written wherever `terms.json` is written: `pipeline`, `link <slug>` and `link --all`.
+- **Schema.** `schemas/glossary-coverage.schema.json`, Rust type `lex_core::GlossaryCoverage`, strategy version `glossary-extraction-1`.
+- **No timestamps:** a second `link --all` is byte-identical.
+- **Bound to its inputs.** It records the instrument's source and extracted-text hashes, and the SHA-256 of each glossary or held provision's text (`evidence_sha256`).
+- **Status:**
+  - `configured`: the adapter names the provisions and styles.
+  - `detected`: auto-detection found a complete glossary.
+  - `held`: auto-detection found an incomplete glossary, so there are no terms.
+  - `none_detected`: auto-detection found no glossary.
+- **Per glossary provision:**
+  - its method: `established_pass`, `wider_pass`, or the configured style;
+  - the printed fraction label of each extracted term;
+  - its term count;
+  - for the wider-pass grammar (`wider_pass`, `auto_whole`) only, the repealed fractions skipped as whole placeholders.
+- **Per hold:** a typed `code` from the completeness check plus its message. The codes are `sequence_break`, `unknown_qualifier`, `noncanonical_numeral`, `no_term_delimiter`, `swallowed_fraction`, `repeal_wording`, `missing_term`, `unplain_term` and `repeated_term`.
+- **Per import:** each `additive_to` entry and how many terms it adopted.
+- **Totals:** the term and usage counts.
+- **Not legal approval.** The record is a technical extraction report. It is never a legal approval and never a finding that a definition is repealed.
+
+**Validation.** `validate <slug>` checks the record against its schema and against the persisted instrument record, provisions, `terms.json` and `term-usages.json`.
+- **Error** (`glossary_coverage_inconsistent`): a stale text hash, different counts or fractions, or a status that contradicts the record. For example, `held` with glossaries or terms is an error.
+- **Warning** (`glossary_coverage_missing`): no record.
+- **Rejected instruments.** In `link --all`, a rejected instrument keeps its persisted terms. Its record is written only when the refresh reproduced those terms exactly. All 8 do today.
+- `bundle` copies the file.
+
+**Also aligned.**
+- `schemas/defined-term.schema.json` accepted only bare Roman fractions, but 13 instruments' terms already carried `Bis` or `Ter` labels (34 terms). The pattern now allows an optional ` Bis` or ` Ter`. Nothing enforced that schema before, so no data changed.
+- `GlossaryDetection.held` is now a typed `GlossaryHold` with provision, code and message.
+
+**Result** (`link --all` in a disposable clone and then in the repository):
+- **Files.** 468 new files, and no other file changed: no terms, usages, references, provisions, validation reports or Markdown.
+- **Status counts:**
+  - `configured`: 12.
+  - `detected`: 299 (202 established pass, 97 wider pass).
+  - `held`: 12, exactly the known holds (`sequence_break` 6, `missing_term` 4, `unplain_term` 2).
+  - `none_detected`: 145.
+- **Validation.** Spot `validate` runs found 0 issues on lritf, ifpe-dcg-2021, lss, reg-lgcc-rne, reg-lan, lfca (held), reg-lgeepa-mretc, reg-pmimss and ccom (none). An edited hash fails as `glossary_coverage_inconsistent`.
+- **Pipeline.** `pipeline reg-lss-rfar` wrote the same record as `link --all`.
+
+**Not done here.**
+- **Source-bound exception profiles.** Boundary, label and delimiter hints for the 12 holds are still open.
+- **Title-span usage filter.** Still open. Each is a separate reviewed change.
+- **Configured-style placeholders.** The established pass and the configured styles other than `auto_whole` do not report repealed placeholders, so `repeal_placeholders` is absent for them rather than empty.
+
 ## 2026-10-19 — `reg-lgcc-rne` adopts LGCC Article 3; meia and mpcca imports wait for the title-span filter
 
 **rne.** Its Article 2 opens "se considerarán las definiciones contenidas en el artículo 3 de la Ley, así como las siguientes:". It now uses `auto_whole` with `additive_to: ["urn:lex-mx:federal:statute:lgcc:article:3"]`. LGCC's 38 terms all come from Article 3.

@@ -1,0 +1,12 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:statute:lfm",
+  "source_sha256": "8d9eac4d6509cf79f1755895a3e93d6268d423ab101ab08c6fd734f55a5a7818",
+  "extracted_text_sha256": "1cd9d174e7d83e3214fc9a4620ee0c4ebd41556dd494f38c25a97528397cd81a",
+  "status": "none_detected",
+  "glossaries": [],
+  "imports": [],
+  "term_count": 0,
+  "usage_count": 0
+}

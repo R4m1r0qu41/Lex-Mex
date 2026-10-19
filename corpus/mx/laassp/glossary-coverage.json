@@ -1,0 +1,42 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:statute:laassp",
+  "source_sha256": "883f6e9c3139d0961de302de7bddcf3262c69884008bb3b2324d57e5d67009fc",
+  "extracted_text_sha256": "59997ed82a2312da00ce29087c207d142e64e1480ad3b327eac457a93784aa3d",
+  "status": "configured",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:laassp:article:5",
+      "provision_text_sha256": "7c6570bfad458098796ae8404d36324e04bbc6d4379760c38717a16c2eafe3fc",
+      "method": "roman_colon",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII",
+        "XIII",
+        "XIV",
+        "XV",
+        "XVI",
+        "XVII",
+        "XVIII",
+        "XIX",
+        "XX",
+        "XXI"
+      ],
+      "term_count": 21
+    }
+  ],
+  "imports": [],
+  "term_count": 21,
+  "usage_count": 276
+}

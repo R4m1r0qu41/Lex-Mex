@@ -1,0 +1,12 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:statute:ldparm",
+  "source_sha256": "e3cb7668dc68cdc73e7597def326cf185c392a77c7c9674772134831f4659179",
+  "extracted_text_sha256": "839a87c88703768f0ce71aa5ec9fa2fe4afa227e624f0cc1ed2dfedcfa7717da",
+  "status": "none_detected",
+  "glossaries": [],
+  "imports": [],
+  "term_count": 0,
+  "usage_count": 0
+}

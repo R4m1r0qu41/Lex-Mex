@@ -1,0 +1,26 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lfep",
+  "source_sha256": "fa76340e597a2214f73b039f2a89465f9c1037f7d1630a852689124478621873",
+  "extracted_text_sha256": "940ea691556d6473aa4901b1263d1669083981787cba2ad92e7e5f771e13a097",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:2",
+      "provision_text_sha256": "8b7377b2df9a7e47fa993c74f8e9c41e0793b862c43774a78e5788c43a617281",
+      "method": "established_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "term_count": 5
+    }
+  ],
+  "imports": [],
+  "term_count": 5,
+  "usage_count": 39
+}

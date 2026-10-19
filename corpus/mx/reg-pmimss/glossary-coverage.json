@@ -1,0 +1,47 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-pmimss",
+  "source_sha256": "2031b8a0cffc7dd2c9a3012644baea0ccd914029b6bf46ae3ca73f46f78dd735",
+  "extracted_text_sha256": "1a52c10f8a41951c359762ee1f21f9800d716922f76fef63c1914086668134cf",
+  "status": "configured",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:reg-pmimss:article:2",
+      "provision_text_sha256": "13bfc4868c4255f1a0c8e255486c6e848ff4b77fedf7abef0ee35e7da92cbad6",
+      "method": "auto_whole",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII",
+        "XIII",
+        "XIV",
+        "XV",
+        "XVI",
+        "XVII",
+        "XVIII",
+        "XIX",
+        "XX"
+      ],
+      "repeal_placeholders": [],
+      "term_count": 20
+    }
+  ],
+  "imports": [
+    {
+      "additive_to": "urn:lex-mx:federal:statute:lss:article:5-a",
+      "term_count": 24
+    }
+  ],
+  "term_count": 20,
+  "usage_count": 247
+}

@@ -1,0 +1,51 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:statute:lissste",
+  "source_sha256": "aa6e0e437331debd80d0086155e2d99885ea5e22cb13353c44eb0b1090f0b4d5",
+  "extracted_text_sha256": "91c9fbb68b5080d473116f0db4c182523acdfa2e60ffa897de6f37d13fc3911a",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lissste:article:6",
+      "provision_text_sha256": "a07ccf1b681c75009a80211786df8bfed75412b62960f1f7e5c0f0add3ea04e2",
+      "method": "established_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XIII",
+        "XIV",
+        "XV",
+        "XVI",
+        "XVII",
+        "XVIII",
+        "XIX",
+        "XX",
+        "XXI",
+        "XXII",
+        "XXIII",
+        "XXIV",
+        "XXV",
+        "XXVI",
+        "XXVII",
+        "XXVIII",
+        "XXIX",
+        "XXX",
+        "XXXI"
+      ],
+      "term_count": 30
+    }
+  ],
+  "imports": [],
+  "term_count": 30,
+  "usage_count": 1816
+}

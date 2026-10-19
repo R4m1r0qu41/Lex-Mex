@@ -1,0 +1,12 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:statute:lexp",
+  "source_sha256": "40f5c7459f53df7a14ee5aaf70cbb819f8808b14691a63dfd773e36a9f5dd1cb",
+  "extracted_text_sha256": "a6db1a994331b616004218962d63a7ac23909536ae17ab4647ee5d2b069de3fd",
+  "status": "none_detected",
+  "glossaries": [],
+  "imports": [],
+  "term_count": 0,
+  "usage_count": 0
+}

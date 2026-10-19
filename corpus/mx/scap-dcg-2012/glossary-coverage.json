@@ -1,0 +1,50 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+  "source_sha256": "6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1",
+  "extracted_text_sha256": "2239966d83aa4a007d6d539280a2758c6ec0091022563d2a9338bbdd8a19a328",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
+      "provision_text_sha256": "5c4e10f109d99cfc2a70e588fa7d3bc01a12d598ebdc0ca1552128c11afb1278",
+      "method": "established_pass",
+      "fractions": [
+        "I",
+        "II",
+        "IV",
+        "V",
+        "VI",
+        "IX",
+        "XX",
+        "XXIV",
+        "XXV",
+        "XXVI",
+        "XXX",
+        "XXXII",
+        "XXXIII",
+        "XXXIV",
+        "XXXV",
+        "XXXIX",
+        "XL",
+        "XLIX",
+        "L",
+        "LVI",
+        "LIX",
+        "LX",
+        "LXI",
+        "LXII",
+        "LXV",
+        "LXVI",
+        "LXIX",
+        "LXXV",
+        "LXXX"
+      ],
+      "term_count": 29
+    }
+  ],
+  "imports": [],
+  "term_count": 29,
+  "usage_count": 606
+}

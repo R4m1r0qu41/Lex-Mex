@@ -1,0 +1,28 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lepepm",
+  "source_sha256": "9080231242a59cbd78d30fb747864bc45cd63d3c4978f37086b01e45343f4244",
+  "extracted_text_sha256": "99fa1dc53435ddbe6404d93036b6f237f45b901c88c1b19cf4c4f59d8c14895e",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:2",
+      "provision_text_sha256": "8eaa9f3b1b55320a80592f5544d472cdfa5698e2f3698a784c5c2dcae4672e35",
+      "method": "wider_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI"
+      ],
+      "repeal_placeholders": [],
+      "term_count": 6
+    }
+  ],
+  "imports": [],
+  "term_count": 6,
+  "usage_count": 164
+}

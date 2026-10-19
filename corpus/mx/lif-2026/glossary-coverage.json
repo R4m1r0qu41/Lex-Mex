@@ -1,0 +1,12 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:statute:lif-2026",
+  "source_sha256": "a305ca23bba43cddf2275067af29bb0ba35def7aedbbb0d3fc4557da9067a82c",
+  "extracted_text_sha256": "c48b5fb55fe3c119f2a0b7aa403d9c2f3ff10ac29a88ec2a11665cdb9d37311c",
+  "status": "none_detected",
+  "glossaries": [],
+  "imports": [],
+  "term_count": 0,
+  "usage_count": 0
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:statute:less",
+  "source_sha256": "74f2c47c7a9282194b2972ec1366352d94f03042c6d0c7f10efde018cb9e3bfb",
+  "extracted_text_sha256": "a47d966c72df54dc7975ee65e11ed8f6d5bf0cd763f0b8b562f43ef1acd76a72",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:less:article:5",
+      "provision_text_sha256": "1ca8ae43ef84bedc408b9529171b22fd01add3da04e53651e649fecdd954c161",
+      "method": "wider_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "VII",
+        "IX",
+        "XI",
+        "XV",
+        "XVI",
+        "XVII"
+      ],
+      "repeal_placeholders": [
+        "V",
+        "VI",
+        "VIII",
+        "X",
+        "XII",
+        "XIII",
+        "XIV"
+      ],
+      "term_count": 10
+    }
+  ],
+  "imports": [],
+  "term_count": 10,
+  "usage_count": 186
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:statute:linfonavit",
+  "source_sha256": "9ee6e5ef336dee5700726bd3c570d24f91fc458136e298ae2e3806bd12217912",
+  "extracted_text_sha256": "7114f1b26ad50a15ab5b53a7b02a49f60d6bd013fcc37569bd162890b4555f4b",
+  "status": "none_detected",
+  "glossaries": [],
+  "imports": [],
+  "term_count": 0,
+  "usage_count": 0
+}

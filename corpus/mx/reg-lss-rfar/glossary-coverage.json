@@ -1,0 +1,31 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lss-rfar",
+  "source_sha256": "4b4529ce2b1275ea9363ab78b6e2d504cd1106bc3d10fd70f09246c38b0cd31e",
+  "extracted_text_sha256": "061dd4c019dabcd84cda4144e515b8ddb523f80d86380ebcbe4c39d43d797a69",
+  "status": "configured",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:2",
+      "provision_text_sha256": "aabfb747a8cbea9af86bf9b23884aa09898072ca4655fe76252e1604607d982b",
+      "method": "auto_whole",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV"
+      ],
+      "repeal_placeholders": [],
+      "term_count": 4
+    }
+  ],
+  "imports": [
+    {
+      "additive_to": "urn:lex-mx:federal:statute:lss:article:5-a",
+      "term_count": 24
+    }
+  ],
+  "term_count": 4,
+  "usage_count": 123
+}

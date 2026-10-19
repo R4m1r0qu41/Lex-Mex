@@ -1,0 +1,30 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lopgr",
+  "source_sha256": "05173ee7243159eadc0ab705431d038e1381731df1799208978dfdc945663afc",
+  "extracted_text_sha256": "30365579d987726e0042adba6c2d0d2f046097b708e3c50613b0cd29d67d98da",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:2",
+      "provision_text_sha256": "ff452bed37750439102fa8818ab3928bb187779b2ad016b489842a9d1d46dcef",
+      "method": "established_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX"
+      ],
+      "term_count": 9
+    }
+  ],
+  "imports": [],
+  "term_count": 9,
+  "usage_count": 545
+}

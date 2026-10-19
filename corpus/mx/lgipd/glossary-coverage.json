@@ -1,0 +1,53 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:statute:lgipd",
+  "source_sha256": "952f9d7ef0ed8b0efaf968bf3a002030b1705463d4c8c3d0ca7f392953caa71f",
+  "extracted_text_sha256": "9c355eb3fba48ce339d0024c21bdb64618a805d96e2d0ad0695a29ffb0efd42c",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lgipd:article:2",
+      "provision_text_sha256": "ccc1fdad506421fafdb74651bbd0711ec2dcdbbaee2dc99af23ad0afc5129060",
+      "method": "established_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII",
+        "XIII",
+        "XIV",
+        "XV",
+        "XVI",
+        "XVII",
+        "XVIII",
+        "XIX",
+        "XX",
+        "XXI",
+        "XXII",
+        "XXIII",
+        "XXIV",
+        "XXVI",
+        "XXVII",
+        "XXVIII",
+        "XXIX",
+        "XXX",
+        "XXXI",
+        "XXXIII",
+        "XXXIV"
+      ],
+      "term_count": 32
+    }
+  ],
+  "imports": [],
+  "term_count": 32,
+  "usage_count": 137
+}

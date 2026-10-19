@@ -1,0 +1,12 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:statute:lfisan",
+  "source_sha256": "ef658aa6a3b15e99a4d19edaa6713598a37523f4179ae69a4462bcb8ca870eb1",
+  "extracted_text_sha256": "c98a61fa9c72f3206d86ad1194300b131b5489fff2d482de4a5cb25f6a0e1723",
+  "status": "none_detected",
+  "glossaries": [],
+  "imports": [],
+  "term_count": 0,
+  "usage_count": 0
+}

@@ -44,8 +44,9 @@ pub use temporal_derive::{
     repair_article_dates, repair_partial_repeals,
 };
 pub use terms::{
-    GlossaryDetection, GlossaryStyle, detect_glossary, detect_glossary_terms, extract_glossaries,
-    extract_quoted_term_usages, extract_term_usages, extract_terms, find_glossary_provision,
+    GlossaryDetection, GlossaryHold, GlossaryStyle, detect_glossary, detect_glossary_terms,
+    extract_glossaries, extract_quoted_term_usages, extract_term_usages, extract_terms,
+    find_glossary_provision, repeal_placeholders,
 };
 
 #[derive(Debug)]

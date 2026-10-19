@@ -1,0 +1,30 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:statute:lspcapf",
+  "source_sha256": "d0e88848d94fbf70ee742e9e57a5ee9c34e060b21215f2c7f98a02e1f307e424",
+  "extracted_text_sha256": "684c71feeab0e31d938d4467e97b57283fbc01aef66ae4788b4de08430831f68",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:3",
+      "provision_text_sha256": "c11770ec2c904154277dbbbb351f8862437779273862ca5ff7d4497b7b7cf40d",
+      "method": "established_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX"
+      ],
+      "term_count": 9
+    }
+  ],
+  "imports": [],
+  "term_count": 9,
+  "usage_count": 214
+}

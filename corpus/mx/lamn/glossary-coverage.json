@@ -1,0 +1,12 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:statute:lamn",
+  "source_sha256": "33dc1ac9ff7050121f9d659123179b38894d345fdd7de0844322f1caa329b6fe",
+  "extracted_text_sha256": "58415e7dd7dca394ee26d6d55815dfa8d084934e8d2c74588f8b24e44b6e06ce",
+  "status": "none_detected",
+  "glossaries": [],
+  "imports": [],
+  "term_count": 0,
+  "usage_count": 0
+}

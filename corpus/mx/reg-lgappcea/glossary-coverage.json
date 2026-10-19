@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lgappcea",
+  "source_sha256": "066103556290f57dca17504bd178aeb645dff97b3a5e05bf4925e9353204e064",
+  "extracted_text_sha256": "068cd0212c12758c4249a07a066302bb46a83dccd8ec332ed6f515fd7bb39997",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lgappcea:article:2",
+      "provision_text_sha256": "3bc6cf6e8da81d08841720e0f9682836408efeb55dbb59684082baf6efdea75f",
+      "method": "wider_pass",
+      "fractions": [
+        "I",
+        "II"
+      ],
+      "repeal_placeholders": [],
+      "term_count": 2
+    }
+  ],
+  "imports": [],
+  "term_count": 2,
+  "usage_count": 39
+}

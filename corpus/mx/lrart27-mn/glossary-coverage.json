@@ -1,0 +1,32 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:statute:lrart27-mn",
+  "source_sha256": "547158ef75d8c668bfe91b1f6673f265d17dd89d807b9cbba3b37a1313835ce8",
+  "extracted_text_sha256": "08146e5bd8d675bafa827f274591824b730d46d91431af9aaaa414f71fe210d4",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lrart27-mn:article:3",
+      "provision_text_sha256": "7235529da2bef1415e9c3e767d92c40419b7c8d3b51bfcce786843e8750e8337",
+      "method": "wider_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X"
+      ],
+      "repeal_placeholders": [],
+      "term_count": 10
+    }
+  ],
+  "imports": [],
+  "term_count": 10,
+  "usage_count": 0
+}

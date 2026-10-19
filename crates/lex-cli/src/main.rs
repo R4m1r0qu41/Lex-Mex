@@ -28,7 +28,8 @@ use lex_parse::{
     detect_glossary, extract_doc, extract_glossaries, extract_html_text,
     extract_internal_references, extract_pdf, extract_quoted_term_usages, extract_references,
     extract_term_usages, find_admitted_furniture, find_glossary_provision, parse_dcg,
-    parse_itf_dcg, repair_article_dates, repair_partial_repeals, validate_corpus,
+    parse_itf_dcg, repair_article_dates, repair_partial_repeals, repeal_placeholders,
+    validate_corpus,
 };
 use lex_source::{
     SourceConfig, SourceFormat, discover, fetch, fetch_annex, fetch_formal, load_batch_manifest,
@@ -2153,7 +2154,7 @@ fn run_parse(root: &Path, context: &InstrumentContext) -> Result<()> {
             .as_ref()
             .and_then(|manifest| manifest.extracted_text_sha256.clone()),
     };
-    let (references, terms, term_usages) =
+    let (references, extraction) =
         links_for_parsed_instrument(root, context, &instrument, &provisions)?;
     // Reform evidence must be computed before reapplication: an
     // amendment-event determination's provision ID lives only in reform
@@ -2167,8 +2168,8 @@ fn run_parse(root: &Path, context: &InstrumentContext) -> Result<()> {
         instrument,
         provisions,
         references,
-        terms,
-        term_usages,
+        terms: extraction.terms,
+        term_usages: extraction.usages,
         amendment_references: parsed.amendment_references,
     };
     for item in &mut corpus.enactment_evidence {
@@ -2179,6 +2180,7 @@ fn run_parse(root: &Path, context: &InstrumentContext) -> Result<()> {
     reapply_persisted_temporal_state(paths, config, &mut corpus, &reform_evidence)?;
     run_furniture_audit(context, &corpus.provisions)?;
     write_canonical(&corpus, &paths.corpus)?;
+    write_glossary_coverage(&extraction.coverage, &paths.corpus)?;
     println!("parsed {} canonical provisions", corpus.provisions.len());
     println!("extracted {} canonical references", corpus.references.len());
     println!(
@@ -2263,17 +2265,17 @@ fn links_for_parsed_instrument(
     context: &InstrumentContext,
     instrument: &Instrument,
     provisions: &[lex_core::Provision],
-) -> Result<(
-    Vec<lex_core::ReferenceEdge>,
-    Vec<lex_core::DefinedTerm>,
-    Vec<lex_core::TermUsage>,
-)> {
+) -> Result<(Vec<lex_core::ReferenceEdge>, TermExtraction)> {
     let loaded_siblings = read_sibling_corpora(root, &instrument.id)?;
     let siblings = corpus_views(&loaded_siblings);
     let references =
         extract_instrument_references(root, context, instrument, provisions, &siblings)?;
-    let (terms, usages) = extract_instrument_terms(context, provisions, &siblings)?;
-    Ok((references, terms, usages))
+    let extraction = extract_instrument_terms(context, instrument, provisions, &siblings)?;
+    Ok((references, extraction))
+}
+
+fn write_glossary_coverage(coverage: &lex_core::GlossaryCoverage, directory: &Path) -> Result<()> {
+    write_pretty_json(coverage, &directory.join(GLOSSARY_COVERAGE_FILE))
 }
 
 /// A sidecar can be missing or incomplete. The existing applied human decision
@@ -2308,6 +2310,17 @@ fn preserve_verified_provisions(paths: &Paths, corpus: &Corpus) -> Result<()> {
     Ok(())
 }
 
+/// The file beside `terms.json` recording how that file was produced.
+const GLOSSARY_COVERAGE_FILE: &str = "glossary-coverage.json";
+
+/// An instrument's defined terms, their usages and how the terms were
+/// extracted ([`lex_core::GlossaryCoverage`]).
+struct TermExtraction {
+    terms: Vec<lex_core::DefinedTerm>,
+    usages: Vec<lex_core::TermUsage>,
+    coverage: lex_core::GlossaryCoverage,
+}
+
 /// Extract the instrument's glossary terms and every exact term usage.
 /// A glossary that is expressly additive to another instrument's glossary
 /// (the DCG's Article 1 opens "además de los términos utilizados en la
@@ -2317,39 +2330,36 @@ fn preserve_verified_provisions(paths: &Paths, corpus: &Corpus) -> Result<()> {
 /// defining a different set of terms; their terms add to the first's.
 fn extract_instrument_terms(
     context: &InstrumentContext,
+    instrument: &Instrument,
     provisions: &[lex_core::Provision],
     siblings: &[(&str, &Corpus)],
-) -> Result<(Vec<lex_core::DefinedTerm>, Vec<lex_core::TermUsage>)> {
-    // An adapter may configure its glossary explicitly (the audited
-    // committed instruments do); otherwise a fraction glossary is
-    // auto-detected (`detect_glossary`), so bulk instruments get their
-    // defined terms linked without hand-config. A detected glossary that is
-    // incomplete is held with no terms and reported here.
-    let (terms, additive_to): (Vec<lex_core::DefinedTerm>, &[String]) =
-        if let Some(glossary) = &context.config.glossary {
-            let mut configured = vec![(
-                find_glossary_provision(provisions, &glossary.provision_suffix)?,
-                GlossaryStyle::from_config(&glossary.style)?,
-            )];
-            for additional in &glossary.additional_provisions {
-                configured.push((
-                    find_glossary_provision(provisions, &additional.provision_suffix)?,
-                    GlossaryStyle::from_config(&additional.style)?,
-                ));
-            }
-            (extract_glossaries(&configured)?, &glossary.additive_to)
-        } else {
-            let detection = detect_glossary(provisions)?;
-            if let Some((provision_id, reason)) = &detection.held {
-                eprintln!(
-                    "{}: glossary held with no terms at {provision_id}: {reason}",
-                    context.config.slug
-                );
-            }
-            (detection.terms, &[][..])
-        };
+) -> Result<TermExtraction> {
+    let SelectedGlossary {
+        terms,
+        additive_to,
+        status,
+        glossaries,
+        hold,
+    } = select_glossary(context, provisions)?;
+    let coverage = |imports, usage_count| lex_core::GlossaryCoverage {
+        schema_version: lex_core::SCHEMA_VERSION.to_owned(),
+        strategy_version: lex_core::GLOSSARY_STRATEGY_VERSION.to_owned(),
+        instrument_id: instrument.id.clone(),
+        source_sha256: instrument.source_sha256.clone(),
+        extracted_text_sha256: instrument.extracted_text_sha256.clone(),
+        status,
+        glossaries: glossaries.clone(),
+        hold: hold.clone(),
+        imports,
+        term_count: terms.len(),
+        usage_count,
+    };
     if terms.is_empty() {
-        return Ok((Vec::new(), Vec::new()));
+        return Ok(TermExtraction {
+            coverage: coverage(Vec::new(), 0),
+            terms: Vec::new(),
+            usages: Vec::new(),
+        });
     }
 
     let adopted = additive_to
@@ -2368,7 +2378,151 @@ fn extract_instrument_terms(
         Some("quoted") => extract_quoted_term_usages(provisions, &term_sets)?,
         Some(other) => bail!("unsupported glossary usage_form {other:?}"),
     };
-    Ok((terms, usages))
+    let imports = additive_to
+        .iter()
+        .zip(&adopted)
+        .map(|(additive, terms)| lex_core::GlossaryImportCoverage {
+            additive_to: additive.clone(),
+            term_count: terms.len(),
+        })
+        .collect();
+    Ok(TermExtraction {
+        coverage: coverage(imports, usages.len()),
+        terms,
+        usages,
+    })
+}
+
+/// The instrument's own glossary terms and how they were found.
+struct SelectedGlossary {
+    terms: Vec<lex_core::DefinedTerm>,
+    additive_to: Vec<String>,
+    status: lex_core::GlossaryCoverageStatus,
+    glossaries: Vec<lex_core::GlossaryProvisionCoverage>,
+    hold: Option<lex_core::GlossaryHoldRecord>,
+}
+
+fn provision_coverage(
+    provision: &lex_core::Provision,
+    method: &str,
+    terms: &[lex_core::DefinedTerm],
+    repeal_placeholders: Option<Vec<String>>,
+) -> lex_core::GlossaryProvisionCoverage {
+    let own: Vec<_> = terms
+        .iter()
+        .filter(|term| term.defining_provision_id == provision.id)
+        .collect();
+    lex_core::GlossaryProvisionCoverage {
+        provision_id: provision.id.clone(),
+        provision_text_sha256: lex_core::evidence_sha256(&provision.text),
+        method: method.to_owned(),
+        fractions: own
+            .iter()
+            .filter_map(|term| term.fraction.clone())
+            .collect(),
+        repeal_placeholders,
+        term_count: own.len(),
+    }
+}
+
+/// An adapter may configure its glossary explicitly (the audited committed
+/// instruments do); otherwise a fraction glossary is auto-detected
+/// (`detect_glossary`), so bulk instruments get their defined terms linked
+/// without hand-config. A detected glossary that is incomplete is held with
+/// no terms and reported here.
+fn select_glossary(
+    context: &InstrumentContext,
+    provisions: &[lex_core::Provision],
+) -> Result<SelectedGlossary> {
+    use lex_core::{GlossaryCoverageStatus, GlossaryHoldRecord};
+    if let Some(glossary) = &context.config.glossary {
+        let mut named = vec![(glossary.provision_suffix.as_str(), glossary.style.as_str())];
+        named.extend(glossary.additional_provisions.iter().map(|additional| {
+            (
+                additional.provision_suffix.as_str(),
+                additional.style.as_str(),
+            )
+        }));
+        let configured = named
+            .iter()
+            .map(|(suffix, style)| {
+                Ok((
+                    find_glossary_provision(provisions, suffix)?,
+                    GlossaryStyle::from_config(style)?,
+                ))
+            })
+            .collect::<Result<Vec<_>>>()?;
+        let terms = extract_glossaries(&configured)?;
+        let glossaries = configured
+            .iter()
+            .zip(&named)
+            .map(|((provision, style), (_, name))| {
+                provision_coverage(
+                    provision,
+                    name,
+                    &terms,
+                    repeal_placeholders(provision, *style),
+                )
+            })
+            .collect();
+        return Ok(SelectedGlossary {
+            terms,
+            additive_to: glossary.additive_to.clone(),
+            status: GlossaryCoverageStatus::Configured,
+            glossaries,
+            hold: None,
+        });
+    }
+    let detection = detect_glossary(provisions)?;
+    if let Some(hold) = &detection.held {
+        eprintln!(
+            "{}: glossary held with no terms at {}: {}",
+            context.config.slug, hold.provision_id, hold.message
+        );
+    }
+    let detected = detection
+        .method
+        .zip(detection.terms.first())
+        .and_then(|(method, term)| {
+            provisions
+                .iter()
+                .find(|provision| provision.id == term.defining_provision_id)
+                .map(|provision| {
+                    provision_coverage(
+                        provision,
+                        method,
+                        &detection.terms,
+                        detection.repeal_placeholders.clone(),
+                    )
+                })
+        });
+    let hold = detection
+        .held
+        .map(|hold| -> Result<GlossaryHoldRecord> {
+            let provision = provisions
+                .iter()
+                .find(|provision| provision.id == hold.provision_id)
+                .with_context(|| format!("held glossary {} not found", hold.provision_id))?;
+            Ok(GlossaryHoldRecord {
+                provision_id: hold.provision_id,
+                provision_text_sha256: lex_core::evidence_sha256(&provision.text),
+                code: hold.code,
+                message: hold.message,
+            })
+        })
+        .transpose()?;
+    let status = match (&detected, &hold) {
+        (Some(_), _) => GlossaryCoverageStatus::Detected,
+        (None, Some(_)) => GlossaryCoverageStatus::Held,
+        (None, None) => GlossaryCoverageStatus::NoneDetected,
+    };
+    Ok(SelectedGlossary {
+        terms: detection.terms,
+        additive_to: Vec::new(),
+        status,
+        glossaries: detected.into_iter().collect(),
+        hold,
+    })
 }
 
 /// The terms a glossary adopts through one `additive_to` entry: every term
@@ -2788,6 +2942,9 @@ fn run_link_with(root: &Path, context: &InstrumentContext, migrate_protected: bo
     corpus.terms = graph.terms;
     corpus.term_usages = graph.usages;
     write_canonical(&corpus, &context.paths.corpus)?;
+    if let Some(coverage) = &graph.coverage {
+        write_glossary_coverage(coverage, &context.paths.corpus)?;
+    }
     println!("extracted {} canonical references", corpus.references.len());
     println!(
         "extracted {} defined terms with {} usages",
@@ -2801,6 +2958,8 @@ struct LinkedGraph {
     references: Vec<lex_core::ReferenceEdge>,
     terms: Vec<lex_core::DefinedTerm>,
     usages: Vec<lex_core::TermUsage>,
+    /// Set when this graph extracted the terms itself.
+    coverage: Option<lex_core::GlossaryCoverage>,
 }
 
 fn relink_instrument(
@@ -2817,11 +2976,13 @@ fn relink_instrument(
         &corpus.provisions,
         &siblings,
     )?;
-    let (terms, usages) = extract_instrument_terms(context, &corpus.provisions, &siblings)?;
+    let extraction =
+        extract_instrument_terms(context, &corpus.instrument, &corpus.provisions, &siblings)?;
     Ok(LinkedGraph {
         references,
-        terms,
-        usages,
+        terms: extraction.terms,
+        usages: extraction.usages,
+        coverage: Some(extraction.coverage),
     })
 }
 
@@ -2939,7 +3100,10 @@ fn run_corpus_closure(root: &Path) -> Result<CorpusClosureReport> {
     // Terms come only from each instrument's own provisions. The second pass
     // recomputes usages so an additive glossary sees those refreshed terms.
     refresh_linked_terms(&contexts, &mut corpora)?;
-    refresh_linked_terms(&contexts, &mut corpora)?;
+    let coverage = refresh_linked_terms(&contexts, &mut corpora)?;
+    // A rejected instrument keeps its persisted terms, so its refreshed
+    // coverage describes them only when the refresh reproduced them.
+    let refreshed_as_persisted = terms_reproduced(&corpora, &original_terms, &original_usages)?;
     let proposals = propose_references(root, &contexts, &corpora)?;
     let provision_ids = all_provision_ids(&corpora);
     let decisions = classify_closure(
@@ -2965,6 +3129,11 @@ fn run_corpus_closure(root: &Path) -> Result<CorpusClosureReport> {
         let context = contexts
             .get(slug)
             .with_context(|| format!("no adapter configuration found for instrument {slug:?}"))?;
+        if !matches!(decisions[index], ClosureDecision::Rejected(_))
+            || refreshed_as_persisted[index]
+        {
+            write_glossary_coverage(&coverage[index], &context.paths.corpus)?;
+        }
         match &decisions[index] {
             ClosureDecision::Unchanged => unchanged += 1,
             ClosureDecision::Rejected(errors) => {
@@ -3008,6 +3177,24 @@ fn run_corpus_closure(root: &Path) -> Result<CorpusClosureReport> {
     Ok(report)
 }
 
+/// Per instrument, whether the refreshed terms and usages equal the persisted ones.
+fn terms_reproduced(
+    corpora: &[(String, Corpus)],
+    original_terms: &[Vec<lex_core::DefinedTerm>],
+    original_usages: &[Vec<lex_core::TermUsage>],
+) -> Result<Vec<bool>> {
+    corpora
+        .iter()
+        .zip(original_terms.iter().zip(original_usages))
+        .map(|((_, corpus), (terms, usages))| {
+            Ok(
+                serde_json::to_value(&corpus.terms)? == serde_json::to_value(terms)?
+                    && serde_json::to_value(&corpus.term_usages)? == serde_json::to_value(usages)?,
+            )
+        })
+        .collect()
+}
+
 fn load_instrument_contexts(
     root: &Path,
     corpora: &[(String, Corpus)],
@@ -3033,7 +3220,7 @@ fn load_instrument_contexts(
 fn refresh_linked_terms(
     contexts: &HashMap<String, InstrumentContext>,
     corpora: &mut [(String, Corpus)],
-) -> Result<()> {
+) -> Result<Vec<lex_core::GlossaryCoverage>> {
     let mut extracted = Vec::with_capacity(corpora.len());
     for (index, (slug, corpus)) in corpora.iter().enumerate() {
         if index.is_multiple_of(50) {
@@ -3045,15 +3232,18 @@ fn refresh_linked_terms(
         let siblings = sibling_views(corpora, &corpus.instrument.id);
         extracted.push(extract_instrument_terms(
             context,
+            &corpus.instrument,
             &corpus.provisions,
             &siblings,
         )?);
     }
-    for ((_, corpus), (terms, usages)) in corpora.iter_mut().zip(extracted) {
-        corpus.terms = terms;
-        corpus.term_usages = usages;
+    let mut coverage = Vec::with_capacity(extracted.len());
+    for ((_, corpus), extraction) in corpora.iter_mut().zip(extracted) {
+        corpus.terms = extraction.terms;
+        corpus.term_usages = extraction.usages;
+        coverage.push(extraction.coverage);
     }
-    Ok(())
+    Ok(coverage)
 }
 
 fn propose_references(
@@ -3079,6 +3269,7 @@ fn propose_references(
             references,
             terms: corpus.terms.clone(),
             usages: corpus.term_usages.clone(),
+            coverage: None,
         });
     }
     Ok(proposals)
@@ -3288,6 +3479,49 @@ fn append_parent_rule_issues(
             report.valid = false;
         }
     }
+}
+
+/// `glossary-coverage.json` must describe the persisted terms and the current
+/// glossary provision text; a stale record is an error. A missing record is a
+/// warning, for instruments not yet relinked since the record was introduced.
+fn append_glossary_coverage_issues(
+    report: &mut lex_core::ValidationReport,
+    corpus: &Corpus,
+    directory: &Path,
+) -> Result<()> {
+    let path = directory.join(GLOSSARY_COVERAGE_FILE);
+    let (severity, code, message) = if path.is_file() {
+        let coverage: lex_core::GlossaryCoverage = read_json(&path)?;
+        match coverage.validate(
+            &corpus.instrument,
+            &corpus.provisions,
+            &corpus.terms,
+            &corpus.term_usages,
+        ) {
+            Ok(()) => return Ok(()),
+            Err(error) => (
+                lex_core::Severity::Error,
+                "glossary_coverage_inconsistent",
+                error,
+            ),
+        }
+    } else {
+        (
+            lex_core::Severity::Warning,
+            "glossary_coverage_missing",
+            format!("{GLOSSARY_COVERAGE_FILE} is missing; relink to record it"),
+        )
+    };
+    if severity == lex_core::Severity::Error {
+        report.valid = false;
+    }
+    report.issues.push(lex_core::ValidationIssue {
+        severity,
+        code: code.to_owned(),
+        message,
+        provision_id: None,
+    });
+    Ok(())
 }
 
 fn validation_errors(report: &lex_core::ValidationReport) -> Vec<String> {
@@ -4036,6 +4270,7 @@ fn run_validate(root: &Path, context: &InstrumentContext) -> Result<lex_core::Va
         &external_terms,
     );
     append_parent_rule_issues(&mut report, config, &corpus.references);
+    append_glossary_coverage_issues(&mut report, &corpus, &paths.corpus)?;
     write_validation(&report, &paths.corpus)?;
     println!(
         "validation: {}; {} articles, {} transitories, {} references, {} issues",
@@ -4297,8 +4532,9 @@ impl Paths {
 mod tests {
     use super::{
         InstrumentContext, OGA_SERIAL_NOTE, SourceConfig, SourceFormat, SourceManifest,
-        additive_terms, instrument_context, load_config, preserve_intake_decisions,
-        resolve_publication, run_temporal_request, self_reference_markers,
+        additive_terms, extract_instrument_terms, instrument_context, load_config,
+        preserve_intake_decisions, resolve_publication, run_temporal_request,
+        self_reference_markers,
     };
     use std::{
         collections::{BTreeMap, HashMap, HashSet},
@@ -4952,11 +5188,74 @@ mod tests {
     }
 
     #[test]
+    fn glossary_coverage_separates_held_detected_and_absent_glossaries() {
+        let temporary = tempfile::tempdir().unwrap();
+        let root = temporary.path();
+        let id = "urn:lex-mx:test:glosario";
+        write_fixture_adapter(
+            root,
+            "glosario",
+            id,
+            "Ley Glosario",
+            "GLOSARIO",
+            &serde_json::json!([]),
+        );
+        let context = instrument_context(root, "glosario").unwrap();
+        let extract = |text: &str| {
+            let corpus = fixture_corpus(id, "Ley Glosario", "GLOSARIO", text);
+            let extraction =
+                extract_instrument_terms(&context, &corpus.instrument, &corpus.provisions, &[])
+                    .unwrap();
+            extraction
+                .coverage
+                .validate(
+                    &corpus.instrument,
+                    &corpus.provisions,
+                    &extraction.terms,
+                    &extraction.usages,
+                )
+                .unwrap();
+            extraction.coverage
+        };
+
+        let held = extract(
+            "Para los efectos de esta Ley, se entiende por:\n\nI. Agencia: La Agencia;\n\nIII. \
+             Banco: El Banco.",
+        );
+        assert_eq!(held.status, lex_core::GlossaryCoverageStatus::Held);
+        assert_eq!(held.term_count, 0);
+        assert_eq!(
+            held.hold.map(|hold| hold.code),
+            Some(lex_core::GlossaryHoldCode::SequenceBreak)
+        );
+
+        let detected = extract(
+            "Para los efectos de esta Ley, se entiende por:\n\nI. Agencia: La Agencia;\n\nII. \
+             Derogada.\n\nIII. Banco: El Banco que la Agencia supervisa.",
+        );
+        assert_eq!(detected.status, lex_core::GlossaryCoverageStatus::Detected);
+        assert_eq!(detected.glossaries[0].method, "wider_pass");
+        assert_eq!(detected.glossaries[0].fractions, ["I", "III"]);
+        assert_eq!(
+            detected.glossaries[0].repeal_placeholders,
+            Some(vec!["II".to_owned()])
+        );
+        assert_eq!(detected.term_count, 2);
+
+        let absent = extract("Esta Ley regula la materia.");
+        assert_eq!(
+            absent.status,
+            lex_core::GlossaryCoverageStatus::NoneDetected
+        );
+        assert!(absent.hold.is_none() && absent.glossaries.is_empty());
+    }
+
+    #[test]
     fn batch_closure_reverse_links_validates_and_exports_selected_instruments() {
         let temporary = tempfile::tempdir().unwrap();
         let root = temporary.path();
-        let source_id = "urn:test:source";
-        let target_id = "urn:test:target";
+        let source_id = "urn:lex-mx:test:source";
+        let target_id = "urn:lex-mx:test:target";
         write_fixture_adapter(
             root,
             "source",
@@ -5311,6 +5610,7 @@ mod tests {
             references,
             terms: vec![],
             usages: vec![],
+            coverage: None,
         };
         let corpus = corpus_with(vec![historical.clone()]);
         let found = protected_edge_drift(&corpus, &graph(vec![historical.clone()]));

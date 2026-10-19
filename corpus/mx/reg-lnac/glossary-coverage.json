@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lnac",
+  "source_sha256": "bd9ba59ab5016fd7d8737d382113a20e450b188e586925c31a1ef7c2af3f0065",
+  "extracted_text_sha256": "9ade9ab2013f4797e3f0c8aea23c2dae1985bdbd5db3bfb9b8b1fc4105580f36",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lnac:article:2",
+      "provision_text_sha256": "b5561637a78ced3c2ac3f8cd03aeef8d5ab520b88236702ada33571830a44562",
+      "method": "wider_pass",
+      "fractions": [
+        "I",
+        "II"
+      ],
+      "repeal_placeholders": [],
+      "term_count": 2
+    }
+  ],
+  "imports": [],
+  "term_count": 2,
+  "usage_count": 28
+}

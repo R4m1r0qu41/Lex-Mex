@@ -1,0 +1,33 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:statute:ldpam",
+  "source_sha256": "e9c60d3644c8edcb600667e79ef7e3d218c21369879b0495b441f09d25aa78db",
+  "extracted_text_sha256": "d9aa34df45e696d04f684db84c4d318b6b82db40430ea0ca66405e286908f282",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:ldpam:article:3",
+      "provision_text_sha256": "0f9624410127021872f8f1a23f3dc1a6accc124ef8fe15e9b930fc489305ae19",
+      "method": "established_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "term_count": 12
+    }
+  ],
+  "imports": [],
+  "term_count": 12,
+  "usage_count": 73
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:statute:larefam",
+  "source_sha256": "9361fe806edd4f3ba0cea975e050eddbc77ff769e9bd8aa70876cb58a31e2975",
+  "extracted_text_sha256": "12717174d13cc0174c6fa8ad3b6e8a6d7f9a31f71f4e2a4342d7eae961156a0b",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:larefam:article:2",
+      "provision_text_sha256": "cbbc496d0c79dffd384a9b11dc3653808e333c679a24c6fdac354f60169f076e",
+      "method": "established_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "term_count": 12
+    }
+  ],
+  "imports": [],
+  "term_count": 12,
+  "usage_count": 164
+}

@@ -37,7 +37,7 @@
     },
     "fraction": {
       "type": "string",
-      "pattern": "^[IVXLCDM]+$"
+      "pattern": "^[IVXLCDM]+(?: (?:Bis|Ter))?$"
     },
     "start_char": {
       "type": "integer",

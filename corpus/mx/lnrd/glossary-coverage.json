@@ -1,0 +1,30 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:statute:lnrd",
+  "source_sha256": "0a9852297132d8972d0c2f77e1b67d614bd296632109065e703bd09254187aea",
+  "extracted_text_sha256": "0b7d924163ab128293d84b098dc483a0931e0842b0221624a8542afa696f67f9",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lnrd:article:2",
+      "provision_text_sha256": "4aef0983e89ffc504e083c5bbce8c83f771d9544f1f8a9dd83ff038c7236e6a2",
+      "method": "wider_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII"
+      ],
+      "repeal_placeholders": [],
+      "term_count": 8
+    }
+  ],
+  "imports": [],
+  "term_count": 8,
+  "usage_count": 113
+}

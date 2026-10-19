@@ -1,0 +1,28 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:statute:lfcc",
+  "source_sha256": "0305c9a7ba90c8d0bbe973be2a134a650976ce5d25c304458cb0fd5401b8ddde",
+  "extracted_text_sha256": "e553d46b5eb0d610e36bb06b17c7842953254bcd5c3ec7b1053b53a9661e9439",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lfcc:article:3",
+      "provision_text_sha256": "214bb17aaa037b3dc8c15d49e3d07bffb6da7e7caabbdfffc89d873553187ecf",
+      "method": "wider_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI"
+      ],
+      "repeal_placeholders": [],
+      "term_count": 6
+    }
+  ],
+  "imports": [],
+  "term_count": 6,
+  "usage_count": 91
+}

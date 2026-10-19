@@ -1,0 +1,35 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:statute:lfpiorpi",
+  "source_sha256": "2e35228bd3100a3a137f313359833c4836f2b4b6d4e52e1ce4fe58a970cd768f",
+  "extracted_text_sha256": "655a5698508eb6069c76d86a859d9295ba2cbc6681555c06eb18155f92a8f13b",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:3",
+      "provision_text_sha256": "ab6368ec8a5d324d219f8b4c441875e861a281d0925b134617843d0513891e83",
+      "method": "established_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII",
+        "XIII",
+        "XIV"
+      ],
+      "term_count": 14
+    }
+  ],
+  "imports": [],
+  "term_count": 14,
+  "usage_count": 521
+}

@@ -29,7 +29,7 @@ source counts. Existing instruments have not been reverse-relinked. No
 temporal model ran. The final native gate passed (265 tests, LRITF and
 IFPE validation).
 
-## Current corpus totals (2026-10-18, after `reg-pmimss` and the `reg-lss-rfar` reparse)
+## Current corpus totals (2026-10-19, after the glossary reparses and coverage records)
 
 | Measure | Count |
 |---|---:|
@@ -45,6 +45,7 @@ IFPE validation).
 | Provisions `not_analyzed` / `machine_accepted` / `lawyer_verified` / `review_required` | 48,039 / 20,240 / 2 / 1 |
 | Provisions with temporal status `unknown` | 46,720 |
 | Generated Markdown files under `corpus/mx` (incl. NOMs) | 68,757 |
+| Glossaries (`glossary-coverage.json`) configured / detected / held / none detected | 12 / 299 / 12 / 145 |
 | NOM standards (separate boundary, not counted as instruments) | 32 |
 | Current Cámara laws and regulations covered | 452 of 453 (`egdf` excluded) |
 

@@ -1,0 +1,46 @@
+{
+  "schema_version": "0.1.0",
+  "strategy_version": "glossary-extraction-1",
+  "instrument_id": "urn:lex-mx:federal:statute:lnsijpa",
+  "source_sha256": "8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f",
+  "extracted_text_sha256": "8c6858294f96ea3f0d2d788d9b8185439a71d7ddc2ae5c434536482ef4b4b9e9",
+  "status": "detected",
+  "glossaries": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
+      "provision_text_sha256": "c62b88fd2540b1caf619a589b4c1d7196519be025fb95367fbcec79fecf4e1e1",
+      "method": "wider_pass",
+      "fractions": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII",
+        "XIII",
+        "XIV",
+        "XV",
+        "XVI",
+        "XVII",
+        "XVIII",
+        "XIX",
+        "XX",
+        "XXI",
+        "XXII",
+        "XXIII",
+        "XXIV"
+      ],
+      "repeal_placeholders": [],
+      "term_count": 24
+    }
+  ],
+  "imports": [],
+  "term_count": 24,
+  "usage_count": 439
+}
