@@ -2,8 +2,8 @@
 
 - **Status date:** 2026-10-16
 - **Repository:** <https://github.com/R4m1r0qu41/Lex-Mex>
-- **Committed and pushed instruments:** 467 (`corpus/mx/*/instrument.json`); local `main` is ahead of `origin/main` (`83e03a4e5`), unpushed. The 32 further `corpus/mx` directories are NOM standards, a separate boundary
-- **Federal structural first pass:** structurally complete. 452 of 453 current Cámara laws and regulations are in the corpus; the one gap is `egdf`, excluded by operator decision ([coverage audit](federal-coverage-audit-2026-10-16.md))
+- **Committed instruments:** 468 (`corpus/mx/*/instrument.json`): 467 pushed, plus `reg-pmimss`, admitted locally on 2026-10-18 by operator request as a test case; local `main` is ahead of `origin/main` (`83e03a4e5`), unpushed. The 32 further `corpus/mx` directories are NOM standards, a separate boundary
+- **Federal structural first pass:** structurally complete. 452 of 453 current Cámara laws and regulations are in the corpus; the one gap is `egdf`, excluded by operator decision ([coverage audit](federal-coverage-audit-2026-10-16.md)). `reg-pmimss` (Reglamento de Prestaciones Médicas del IMSS) comes from the Cámara other-regulations index and is outside that count
 - **Deferred:** three DCGs (`consar-cuf-dcg-2018`, `cusf-dcg-2014`, `pld-lic115-dcg-2009`), outside the Cámara universe
 - **Closure gate:** `lex-mex link --all` exits 0 only when its rejections equal the recorded accepted gaps (`adapters/diputados/_closure-accepted-gaps.json`: `cpf`, `lgs`, `lmv`, `lftr` and four held DCGs); anything new, changed or resolved exits 1. `link <slug>` refuses to change protected historical or approved edges unless `--migrate-protected` is passed for a recorded operator migration.
 - **Next checkpoint:** corpus-wide relink and the parser/linker repair are landed locally (unpushed). Federal laws and regulations are in maintenance mode. Open: Codex technical review; JRH on `lgdnna` Article 157 and `lrsic`; EGDF recording (operator reviewing); 8 held instruments (`cpf`, `lgs`, `lmv` target-side suffix parser gaps; `lftr` embedded invalidated articles; four DCGs for a DCG pass); DCGs. The derived SQLite database plan is adopted ([plan](plans/sqlite-corpus-database.md)); its prerequisite, the per-edge `resolution_rule`, has landed. Database work starts in a dedicated worktree on the operator's go; no dependency, code or database file exists yet. `lfiiedb` modeling remains open
@@ -29,22 +29,22 @@ source counts. Existing instruments have not been reverse-relinked. No
 temporal model ran. The final native gate passed (265 tests, LRITF and
 IFPE validation).
 
-## Current corpus totals (2026-10-18)
+## Current corpus totals (2026-10-18, after `reg-pmimss`)
 
 | Measure | Count |
 |---|---:|
-| Instruments (laws, regulations, codes, DCGs) | 467 |
-| — `in_force` / `repealed` (historical: `lftr`, `reg-lfmn`) | 465 / 2 |
-| — Cámara de Diputados / CNBV DCGs / Secretaría de Salud / DOF sources | 455 / 10 / 1 / 1 |
-| Articles | 64,609 |
-| Original transitory provisions | 3,470 |
+| Instruments (laws, regulations, codes, DCGs) | 468 |
+| — `in_force` / `repealed` (historical: `lftr`, `reg-lfmn`) | 466 / 2 |
+| — Cámara de Diputados / CNBV DCGs / Secretaría de Salud / DOF sources | 456 / 10 / 1 / 1 |
+| Articles | 64,780 |
+| Original transitory provisions | 3,472 |
 | Annexes | 30 |
-| Reference edges | 35,880 |
-| — resolved / historical-target-unavailable / approved outdated | 35,859 / 4 / 17 |
-| — resolved cross-instrument edges | 9,766 |
-| Provisions `not_analyzed` / `machine_accepted` / `lawyer_verified` / `review_required` | 47,866 / 20,240 / 2 / 1 |
-| Provisions with temporal status `unknown` | 46,547 |
-| Generated Markdown files under `corpus/mx` (incl. NOMs) | 68,560 |
+| Reference edges | 35,951 |
+| — resolved / historical-target-unavailable / approved outdated | 35,930 / 4 / 17 |
+| — resolved cross-instrument edges | 9,810 |
+| Provisions `not_analyzed` / `machine_accepted` / `lawyer_verified` / `review_required` | 48,039 / 20,240 / 2 / 1 |
+| Provisions with temporal status `unknown` | 46,720 |
+| Generated Markdown files under `corpus/mx` (incl. NOMs) | 68,757 |
 | NOM standards (separate boundary, not counted as instruments) | 32 |
 | Current Cámara laws and regulations covered | 452 of 453 (`egdf` excluded) |
 

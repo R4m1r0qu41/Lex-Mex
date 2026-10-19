@@ -1,5 +1,41 @@
 # Architecture decisions
 
+## 2026-10-18 — `reg-pmimss` admitted (Reglamento de Prestaciones Médicas del IMSS) as a test case
+
+**Operator decision.** Admit `regla/n29.pdf` as a test of ingestion into a more populated and linked corpus. The admission is structural only: provisions are `not_analyzed`, and no legal review is implied.
+
+**Source and batch:**
+- **Batch.** `batches/labor_L2_imss_gap_1.json` (one instrument, following `maximasa_federal_gap_1`).
+- **Source.** The Cámara other-regulations index (`norma/reglamento.htm`) lists the Reglamento with its DOF publication of 2006-11-30 and no reforms. `regla/n29.pdf` is that publication (sha256 `2031b8a0…`).
+- **Slug.** `reg-pmimss`, from the title's initials, as `reg-csps`.
+- **Adapter.**
+  - parent law LSS (`parent_instrument_id`);
+  - `publication_date` 2006-11-30, set by hand;
+  - glossary: Article 2, `auto_whole`, `additive_to` LSS Article 5 A, as macerf and maeba.
+
+**Why the publication date is set by hand.** Count freezing would derive 1997-06-30. That date comes from transitory *segundo*, which cites the abrogated regulation's DOF publication. The derived value would have been wrong.
+
+**Two narrow parser additions, each with a fixture:**
+- **DOF edition page headers.** The source is a DOF edition, so its running headers carry a page number and change on every page (`Jueves 30 de noviembre de 2006 DIARIO OFICIAL (Séptima Sección) 107`). They leaked into 21 provisions.
+  - The Diputados parser now treats a line with both `DIARIO OFICIAL` and a `Sección)` marker as furniture, as `standard.rs` already did.
+  - No committed provision contains such a line, inline or alone, so existing text cannot change on reparse.
+- **`separatorless_article_headings`.** This adapter field lists exact article labels whose heading the source prints without a separator: `Artículo 71 El médico…`.
+  - Only a listed label, in the main article sequence and followed by a capitalized body, opens an article.
+  - A listed label that does not open exactly one block fails the parse.
+  - There is no global rule, because `artículo 27 Constitucional` would split.
+
+**Result** (`batch run --freeze-counts`, then `link --all`; identical to a disposable probe except for timestamps):
+- **Structure.** 171 articles and 2 transitories; validation is clean and the furniture audit reports 0 findings.
+- **References.** All 71 resolve: 43 to LSS, 27 internal, 1 to LFT.
+- **Corpus.** 468 instruments; references 35,880 → 35,951; cross-instrument edges 9,766 → 9,810. No existing instrument changed, and the rejected set is still the 8 accepted gaps.
+- **Glossary.** 20 own terms, I–XX, complete, with no 5 A or 159 name repeated.
+- **Usages.** 247 in all: `Instituto` 159 and `Ley` 73 from 5 A, and 15 of its own terms. Its own terms are mostly written in lower case in running text, and matching is case-sensitive.
+- **Title-prefix debt.** About 15 `Ley` usages sit inside another title (`Ley General de Salud`, `Ley Federal del Trabajo`, `Ley Federal de Transparencia…`).
+
+**Open:**
+- **Temporal analysis.** None was run, because the batch path skips it.
+- **Static or dynamic reference.** This 2006 regulation adopts a 5 A amended since. Whether it follows those amendments is a legal reading for JRH or the operator, as for macerf.
+
 ## 2026-10-18 — `reg-lss-maeba`: wrapped running header removed by reparse; adopts LSS Article 5 A
 
 The operator asked for the `reg-lss-macerf` treatment to be applied to `reg-lss-maeba`. Its glossary was held because its running header sat inside fraction III.
