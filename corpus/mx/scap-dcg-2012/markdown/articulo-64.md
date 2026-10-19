@@ -17,7 +17,7 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 64
 
-En materia del sistema de control interno, será responsabilidad del Consejo de Administración de cada Sociedad, definir y diseñar los lineamientos para el manejo prudente de la Sociedad. Asimismo, el Consejo de Administración deberá supervisar el establecimiento y vigilar el adecuado funcionamiento del sistema de control interno, para lo cual deberá aplicar entre otras, las medidas siguientes:
+En materia del sistema de control interno, será responsabilidad del [Consejo de Administración](articulo-1.md) de cada Sociedad, definir y diseñar los lineamientos para el manejo prudente de la Sociedad. Asimismo, el Consejo de Administración deberá supervisar el establecimiento y vigilar el adecuado funcionamiento del sistema de control interno, para lo cual deberá aplicar entre otras, las medidas siguientes:
 
 I. Aprobar los manuales de políticas y procedimientos que sean necesarios para el adecuado funcionamiento del sistema de control interno, así como los manuales de administración de riesgos y de crédito, y un código de ética.
 
@@ -33,6 +33,6 @@ VI. Establecer mecanismos para asegurarse que el área o personas que desempeñe
 
 Los manuales de políticas y procedimientos de la Sociedad, así como el código de ética, deberán ser revisados anualmente.
 
-Tratándose de la aprobación del código de ética, el Consejo de Administración podrá delegar esta función en un comité de apoyo integrado por especialistas nombrados por el Consejo de Administración, siempre y cuando participe en dicho comité el Director o Gerente General.
+Tratándose de la aprobación del código de ética, el Consejo de Administración podrá delegar esta función en un comité de apoyo integrado por especialistas nombrados por el Consejo de Administración, siempre y cuando participe en dicho comité el [Director o Gerente General](articulo-1.md).
 
 El Consejo de Administración podrá escuchar la opinión del comité de apoyo referido en este artículo para efectos de la aprobación de los manuales de administración de riesgos y de crédito, así como de sus modificaciones.

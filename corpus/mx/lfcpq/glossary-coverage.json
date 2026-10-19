@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:statute:lfcpq",
   "source_sha256": "39d132d9b54587ce0636972dfe474936d152717e7d656864e160a637347628c6",
   "extracted_text_sha256": "c9343469045ca05011ffad87f3cdfc0330c779c1839ac5aa5eba47ce13d1c2db",
@@ -14,15 +14,19 @@
         "I",
         "III",
         "IV",
+        "IV Bis",
         "V",
+        "V Bis",
         "VI",
         "VII",
+        "VII Bis",
         "IX"
       ],
-      "term_count": 7
+      "unread_fractions": [],
+      "term_count": 10
     }
   ],
   "imports": [],
-  "term_count": 7,
-  "usage_count": 0
+  "term_count": 10,
+  "usage_count": 9
 }

@@ -17,7 +17,7 @@ source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 
 # Artículo 270 Bis
 
-Los miembros del consejo de administración, así como los empleados relevantes del [Comerciante](articulo-4o.md), serán susceptibles de la responsabilidad consistente en indemnizar los daños y perjuicios ocasionados al Comerciante, cuando le hayan causado un daño patrimonial y el Comerciante se encuentre en incumplimiento generalizado en el pago de sus obligaciones a que se refieren los artículos [10](articulo-10.md), [11](articulo-11.md) y [20 Bis](articulo-20-Bis.md) de esta Ley, en virtud de actualizarse alguno de los supuestos siguientes:
+Los miembros del consejo de administración, así como los empleados relevantes del [Comerciante](articulo-4o.md), serán susceptibles de la responsabilidad consistente en indemnizar los daños y perjuicios ocasionados al Comerciante, cuando le hayan causado un daño patrimonial y el Comerciante se encuentre en incumplimiento generalizado en el pago de sus obligaciones a que se refieren los artículos [10](articulo-10.md), [11](articulo-11.md) y [20 Bis](articulo-20-Bis.md) de esta [Ley](articulo-4o.md), en virtud de actualizarse alguno de los supuestos siguientes:
 
 I. Voten en las sesiones del consejo de administración o tomen determinaciones relacionadas con el patrimonio del Comerciante, con conflicto de interés;
 

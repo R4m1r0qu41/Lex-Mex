@@ -51,6 +51,17 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgvs:article:2",
     "fraction": "V",
     "start_char": 780,
+    "end_char": 973,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgvs:term:coleccion-privada",
+    "term": "Colección privada",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgvs",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgvs:article:2",
+    "fraction": "V Bis",
+    "start_char": 973,
     "end_char": 1480,
     "basis": "express_definition"
   },
@@ -139,6 +150,17 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgvs:article:2",
     "fraction": "XIII",
     "start_char": 3035,
+    "end_char": 3219,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgvs:term:mascota-o-animal-de-compania",
+    "term": "Mascota o animal de compañía",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgvs",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgvs:article:2",
+    "fraction": "XIII Bis",
+    "start_char": 3219,
     "end_char": 3693,
     "basis": "express_definition"
   },
@@ -161,7 +183,7 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgvs:article:2",
     "fraction": "XV",
     "start_char": 3827,
-    "end_char": 4527,
+    "end_char": 4144,
     "basis": "express_definition"
   },
   {

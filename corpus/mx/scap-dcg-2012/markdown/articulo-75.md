@@ -17,4 +17,4 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 75
 
-El manual de crédito deberá ser revisado y actualizado por lo menos una vez al año por el Comité de Crédito o su equivalente, en conjunto con el Director o Gerente General y, en su caso, las modificaciones deberán ser sometidas a la autorización del Consejo de Administración, quien podrá escuchar las propuestas de modificación que realice el comité de apoyo a que se refiere el Artículo [64](articulo-64.md) de estas disposiciones.
+El manual de crédito deberá ser revisado y actualizado por lo menos una vez al año por el [Comité de Crédito](articulo-1.md) o su equivalente, en conjunto con el [Director o Gerente General](articulo-1.md) y, en su caso, las modificaciones deberán ser sometidas a la autorización del [Consejo de Administración](articulo-1.md), quien podrá escuchar las propuestas de modificación que realice el comité de apoyo a que se refiere el Artículo [64](articulo-64.md) de estas disposiciones.

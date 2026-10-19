@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 278
 
-Los Supervisores Auxiliares llevarán a cabo las funciones de Supervisión Extra-situ utilizando la información enviada por las Sociedades Financieras Populares a solicitud de la Comisión y del Comité de Supervisión de la Federación correspondiente.
+Los [Supervisores Auxiliares](articulo-1.md) llevarán a cabo las funciones de [Supervisión Extra-situ](articulo-1.md) utilizando la información enviada por las [Sociedades](articulo-1.md) Financieras Populares a solicitud de la Comisión y del Comité de Supervisión de la [Federación](articulo-1.md) correspondiente.
 
 Las labores de seguimiento consistirán en mantener una vigilancia continua de los aspectos más relevantes del desempeño de las Sociedades Financieras Populares, con la finalidad de que los Supervisores Auxiliares puedan determinar con oportunidad la existencia de incumplimientos a la regulación aplicable, el uso de prácticas financieras poco sanas, o bien, la presencia de inconsistencias o dificultades financieras.
 

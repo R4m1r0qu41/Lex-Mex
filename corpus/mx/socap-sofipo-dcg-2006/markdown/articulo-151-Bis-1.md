@@ -18,17 +18,17 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 151 Bis 1
 
-Las Sociedades Financieras Populares, para la determinación de los requerimientos de capitalización por riesgo de crédito, deberán ajustarse a los grupos de riesgo siguientes:
+Las [Sociedades](articulo-1.md) Financieras Populares, para la determinación de los requerimientos de capitalización por riesgo de crédito, deberán ajustarse a los grupos de riesgo siguientes:
 
 Grupo 1. Estará integrado por:
 
 I. Caja.
 
-II. Operaciones Sujetas a Riesgo de Crédito con o a cargo de las dependencias que conforman la administración pública federal centralizada a la que se refiere el artículo [1](../../loapf/markdown/articulo-1o.md) de la Ley Orgánica de la Administración Pública Federal
+II. [Operaciones Sujetas a Riesgo de Crédito](articulo-1.md) con o a cargo de las dependencias que conforman la administración pública federal centralizada a la que se refiere el artículo [1](../../loapf/markdown/articulo-1o.md) de la [Ley](articulo-1.md) Orgánica de la Administración Pública Federal
 
 III. Operaciones Sujetas a Riesgo de Crédito con o a cargo del Instituto para la Protección al Ahorro Bancario.
 
-IV. Operaciones Sujetas a Riesgo de Crédito con o a cargo de gobiernos centrales de países extranjeros y/o sus bancos centrales, que cuenten con Alto Grado de Inversión.
+IV. Operaciones Sujetas a Riesgo de Crédito con o a cargo de gobiernos centrales de países extranjeros y/o sus bancos centrales, que cuenten con Alto [Grado de Inversión](articulo-1.md).
 
 Las operaciones con o a cargo de las personas comprendidas en este grupo tendrán una ponderación por riesgo de crédito de 0 por ciento.
 
@@ -40,7 +40,7 @@ II. Operaciones Sujetas a Riesgo de Crédito con o a cargo de instituciones de s
 
 III. Operaciones Sujetas a Riesgo de Crédito con o a cargo de otras entidades integrantes del sistema financiero mexicano.
 
-Las operaciones con o a cargo de las personas comprendidas en los numerales de este grupo deberán ser ponderadas conforme al Grado de Riesgo a que corresponda la Calificación crediticia asignada por alguna de las Instituciones Calificadoras al emisor o contraparte de conformidad con el Anexo K de las presentes disposiciones y considerando lo siguiente:
+Las operaciones con o a cargo de las personas comprendidas en los numerales de este grupo deberán ser ponderadas conforme al [Grado de Riesgo](articulo-1.md) a que corresponda la [Calificación](articulo-1.md) crediticia asignada por alguna de las Instituciones Calificadoras al emisor o contraparte de conformidad con el Anexo K de las presentes disposiciones y considerando lo siguiente:
 
 Calificación a largo plazo:
 
@@ -116,11 +116,11 @@ Los créditos comprendidos en este grupo no serán sujetos de reconocimiento de 
 
 La cartera crediticia de vivienda tendrá una ponderación por riesgo de crédito del 100 por ciento. No obstante, la cartera crediticia de vivienda que cumpla con los requisitos previstos por las fracciones I a IV siguientes, según corresponda, tendrán una ponderación por riesgo de crédito de 50 o 75 por ciento, según sea el caso:
 
-I. Tratándose de cartera crediticia de vivienda otorgada a tasa fija, o bien a tasa variable que se encuentre sujeta a una tasa máxima, que cuenten con un [Enganche](articulo-1.md) expresado como porcentaje del Valor de la Vivienda igual o mayor al 30 por ciento, tendrán una ponderación por riesgo de crédito de 50 por ciento, mientras que la cartera crediticia de vivienda que cuente con un Enganche expresado como porcentaje del Valor de la Vivienda mayor al 20 por ciento y menor al 30 por ciento del Valor de la Vivienda, tendrán una ponderación por riesgo de crédito de 75 por ciento.
+I. Tratándose de cartera crediticia de vivienda otorgada a tasa fija, o bien a tasa variable que se encuentre sujeta a una tasa máxima, que cuenten con un [Enganche](articulo-1.md) expresado como porcentaje del [Valor de la Vivienda](articulo-1.md) igual o mayor al 30 por ciento, tendrán una ponderación por riesgo de crédito de 50 por ciento, mientras que la cartera crediticia de vivienda que cuente con un Enganche expresado como porcentaje del Valor de la Vivienda mayor al 20 por ciento y menor al 30 por ciento del Valor de la Vivienda, tendrán una ponderación por riesgo de crédito de 75 por ciento.
 
 Los créditos citados en el párrafo anterior deberán amortizar el principal a partir de la originación del crédito y no deberán prever capitalización de intereses.
 
-II. La cartera crediticia de vivienda que cuente con una garantía otorgada por alguna institución de banca de desarrollo o por un fideicomiso público constituido por el Gobierno Federal para el fomento económico, o bien que cuente con un Seguro de Crédito, siempre y cuando la institución de seguros cuente, a la fecha del cómputo de capitalización con Calificación de Grado de Inversión o superior emitida por al menos una Institución Calificadora, tendrán una ponderación por riesgo de 50 por ciento cuando:
+II. La cartera crediticia de vivienda que cuente con una garantía otorgada por alguna institución de banca de desarrollo o por un fideicomiso público constituido por el Gobierno Federal para el fomento económico, o bien que cuente con un [Seguro de Crédito](articulo-1.md), siempre y cuando la institución de seguros cuente, a la fecha del cómputo de capitalización con Calificación de Grado de Inversión o superior emitida por al menos una Institución Calificadora, tendrán una ponderación por riesgo de 50 por ciento cuando:
 
 a) Tratándose de cartera crediticia de vivienda que cuenten con un Seguro de Crédito o garantía otorgada por alguna institución de banca de desarrollo o fideicomisos públicos constituidos por el Gobierno Federal para el fomento económico:
 
@@ -230,4 +230,4 @@ Estas operaciones tendrán una ponderación por riesgo de crédito de 100 por ci
 
 Las Sociedades Financieras Populares deberán considerar las precisiones sobre las operaciones que integran los grupos por riesgo de crédito establecidas en el Anexo O Bis de las presentes disposiciones.
 
-Respecto de las operaciones análogas, conexas o complementarias a las establecidas en los grupos anteriores, las Sociedades Financieras Populares directamente o por conducto de la Federación que las agrupe, deberán formular la solicitud ante la Comisión dentro de los treinta días naturales siguientes en que le fuese notificada la autorización para la realización de dichas operaciones, a efecto de que la propia Comisión determine la ponderación por riesgo de crédito y, en su caso, el valor de conversión a riesgo de crédito que les corresponda.
+Respecto de las operaciones análogas, conexas o complementarias a las establecidas en los grupos anteriores, las Sociedades Financieras Populares directamente o por conducto de la [Federación](articulo-1.md) que las agrupe, deberán formular la solicitud ante la Comisión dentro de los treinta días naturales siguientes en que le fuese notificada la autorización para la realización de dichas operaciones, a efecto de que la propia Comisión determine la ponderación por riesgo de crédito y, en su caso, el valor de conversión a riesgo de crédito que les corresponda.

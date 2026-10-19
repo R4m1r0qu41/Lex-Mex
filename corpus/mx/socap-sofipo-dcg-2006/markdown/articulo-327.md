@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 327
 
-Las Sociedades Financieras Populares deberán proporcionar a la Comisión y al Comité de Supervisión de la Federación que las supervise, su información financiera, utilizando los formularios que se adjuntan como Anexo N a las presentes disposiciones, los cuales se encuentran divididos en las series y reportes que se indican a continuación:
+Las [Sociedades](articulo-1.md) Financieras Populares deberán proporcionar a la Comisión y al Comité de Supervisión de la [Federación](articulo-1.md) que las supervise, su información financiera, utilizando los formularios que se adjuntan como Anexo N a las presentes disposiciones, los cuales se encuentran divididos en las series y reportes que se indican a continuación:
 
 Serie R01 Catálogo mínimo
 
@@ -34,7 +34,7 @@ Situación financiera
 
 A-0411 Cartera por tipo de crédito
 
-A-0417 Calificación de la cartera de crédito y estimación preventiva para riesgos crediticios
+A-0417 [Calificación](articulo-1.md) de la cartera de crédito y estimación preventiva para riesgos crediticios
 
 A-0419 Movimientos en la estimación preventiva para riesgos crediticios
 
@@ -88,7 +88,7 @@ B-1413 (Derogado)
 
 Serie R15 Operaciones por servicio
 
-B-1522 Usuarios no clientes de servicios proporcionados a través de Medios Electrónicos de la Sociedad Financiera Popular
+B-1522 [Usuarios](articulo-1.md) no clientes de servicios proporcionados a través de [Medios Electrónicos](articulo-1.md) de la Sociedad Financiera Popular
 
 B-1523 Operaciones de clientes realizadas a través de Medios Electrónicos
 

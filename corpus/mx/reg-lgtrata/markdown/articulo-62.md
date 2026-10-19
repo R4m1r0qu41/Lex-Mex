@@ -23,7 +23,7 @@ I. Conocer los asuntos que le sean turnados por acuerdo de la Comisión, y con b
 
 II. Proponer a la Comisión asuntos que puedan incluirse en el orden del día de sus sesiones, así como proyectos y documentos de análisis sobre asuntos relacionados con los delitos previstos en la Ley;
 
-III. Rendir un informe a la Comisión sobre el avance del Programa Nacional y los Programas Permanentes;
+III. Rendir un informe a la Comisión sobre el avance del Programa Nacional y los [Programas Permanentes](articulo-2.md);
 
 IV. Presentar a la Comisión los estudios e informes que le requiera, y
 

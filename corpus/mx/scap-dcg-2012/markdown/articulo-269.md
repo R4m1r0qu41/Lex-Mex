@@ -18,11 +18,11 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 269
 
-Los recursos que integran el Fondo de Protección, deberán invertirse en Valores Gubernamentales de amplia liquidez o en títulos representativos del capital social de sociedades de inversión en Instrumentos de Deuda, de conformidad con lo siguiente:
+Los recursos que integran el [Fondo de Protección](articulo-1.md), deberán invertirse en [Valores Gubernamentales](articulo-1.md) de amplia liquidez o en títulos representativos del capital social de sociedades de inversión en [Instrumentos de Deuda](articulo-1.md), de conformidad con lo siguiente:
 
 I. Deberá invertirse por lo menos el 30 por ciento y hasta el 100 por ciento, directamente en Valores Gubernamentales, o bien, indirectamente en dichos valores a través de sociedades de inversión que inviertan exclusivamente en instrumentos emitidos por el Gobierno Federal.
 
-II. Podrá invertirse hasta el 70 por ciento, en títulos representativos del capital social de sociedades de inversión en Instrumentos de Deuda, distintas a las que se señalan en la fracción I de este artículo, que cuenten con calificación de Grado de Inversión AAA conforme al Anexo J de las presentes disposiciones y, cuya duración promedio de su portafolio de inversiones o cartera de valores no sea mayor a 3 años.143
+II. Podrá invertirse hasta el 70 por ciento, en títulos representativos del capital social de sociedades de inversión en Instrumentos de Deuda, distintas a las que se señalan en la fracción I de este artículo, que cuenten con calificación de [Grado de Inversión](articulo-1.md) AAA conforme al Anexo J de las presentes disposiciones y, cuya duración promedio de su portafolio de inversiones o cartera de valores no sea mayor a 3 años.143
 
 III. Podrá invertirse hasta un 30 por ciento, en títulos representativos del capital social de sociedades de inversión en Instrumentos de Deuda, distintas a las que se señalan en la fracción I de este artículo, que cuenten con calificación de Grado de Inversión AA conforme al Anexo J de las presentes disposiciones y, cuya duración promedio de su portafolio de inversiones o cartera de valores no sea mayor a 3 años.144
 

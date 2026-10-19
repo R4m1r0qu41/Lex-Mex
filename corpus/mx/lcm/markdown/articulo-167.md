@@ -23,6 +23,6 @@ I. El propio Comerciante así lo solicite;
 
 II. Transcurra el término para la conciliación y su prórroga si se hubiere concedido; Fracción reformada DOF 10-01-2014
 
-III. El conciliador solicite la declaración de quiebra y el juez la conceda en los términos previstos en el artículo [150](articulo-150.md) de esta Ley, o Fracción reformada DOF 10-01-2014
+III. El conciliador solicite la declaración de quiebra y el juez la conceda en los términos previstos en el artículo [150](articulo-150.md) de esta [Ley](articulo-4o.md), o Fracción reformada DOF 10-01-2014
 
 IV. En el caso previsto en el artículo [21](articulo-21.md) de esta Ley. Fracción adicionada DOF 10-01-2014

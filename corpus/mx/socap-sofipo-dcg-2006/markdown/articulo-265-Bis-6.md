@@ -18,12 +18,12 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 265 Bis 6
 
-Las Sociedades Financieras Populares podrán solicitar a los Usuarios solo un Factor de Autenticación Categoría 1, de acuerdo con lo establecido en el artículo [265 Bis 4](articulo-265-Bis-4.md) de estas disposiciones, en los casos siguientes:
+Las [Sociedades](articulo-1.md) Financieras Populares podrán solicitar a los [Usuarios](articulo-1.md) solo un [Factor de Autenticación](articulo-1.md) Categoría 1, de acuerdo con lo establecido en el artículo [265 Bis 4](articulo-265-Bis-4.md) de estas disposiciones, en los casos siguientes:
 
-I. Para la Autenticación de los Usuarios que pretendan utilizar Servicio Telefónico Voz a Voz para realizar transacciones;
+I. Para la [Autenticación](articulo-1.md) de los Usuarios que pretendan utilizar [Servicio Telefónico Voz a Voz](articulo-1.md) para realizar transacciones;
 
 II. Para la contratación de Pago Móvil, y
 
-III. Para el Desbloqueo de Factores de Autenticación, así como la reactivación o desactivación temporal del uso de Servicios Electrónicos, mediante operadores telefónicos donde la Sociedad Financiera Popular designará a personal especializado.
+III. Para el [Desbloqueo de Factores de Autenticación](articulo-1.md), así como la reactivación o desactivación temporal del uso de [Servicios Electrónicos](articulo-1.md), mediante operadores telefónicos donde la Sociedad Financiera Popular designará a personal especializado.
 
 Sin perjuicio de lo anterior, las Sociedades Financieras Populares podrán prever que el procedimiento de Autenticación a través de operadores telefónicos, se realice mediante enlaces a dispositivos de audio respuesta automática.

@@ -29,6 +29,6 @@ IV. El monto mensual bruto que se pacte por concepto de honorarios no podrá reb
 
 Tratándose de las entidades, además se apegarán a los acuerdos de sus respectivos órganos de gobierno, los que deberán observar y cumplir las disposiciones generales aplicables.
 
-La Función Pública emitirá las disposiciones generales y el modelo de contrato correspondiente para las contrataciones por honorarios de las dependencias y entidades.
+La [Función Pública](articulo-2.md) emitirá las disposiciones generales y el modelo de contrato correspondiente para las contrataciones por honorarios de las dependencias y entidades.
 
 Los ejecutores de gasto deberán reportar en los informes trimestrales y la [Cuenta Pública](articulo-2.md) las contrataciones por honorarios que realicen durante el ejercicio fiscal.

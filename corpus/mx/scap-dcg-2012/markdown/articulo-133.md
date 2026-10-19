@@ -23,6 +23,6 @@ Las Sociedades deberán contar con un capital mínimo, el cual se integrará con
 
 de las presentes disposiciones. El capital social deberá estar íntegramente suscrito y pagado. El capital mínimo para las Sociedades sujetas a la presente regulación, será de 22’500,000 de UDIS.
 
-Cuando la situación financiera de alguna Sociedad lo requiera, la Comisión podrá otorgar por única ocasión un plazo de 6 meses a dicha Sociedad para cumplir con el capital mínimo a que se refiere el párrafo anterior.
+Cuando la situación financiera de alguna Sociedad lo requiera, la [Comisión](articulo-1.md) podrá otorgar por única ocasión un plazo de 6 meses a dicha Sociedad para cumplir con el capital mínimo a que se refiere el párrafo anterior.
 
-Los Socios de las Sociedades podrán solicitar el retiro de sus aportaciones, siempre y cuando dicho retiro no resulte en un incumplimiento al capital mínimo o a los requerimientos de capitalización que deben observar las Sociedades conforme a la presente sección.
+Los [Socios](articulo-1.md) de las Sociedades podrán solicitar el retiro de sus aportaciones, siempre y cuando dicho retiro no resulte en un incumplimiento al capital mínimo o a los requerimientos de capitalización que deben observar las Sociedades conforme a la presente sección.

@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 211 Bis 2
 
-Las Sociedades Financieras Populares que inviertan únicamente en los Valores o instrumentos financieros que se detallan en las fracciones siguientes, podrán utilizar para su valuación el Precio Actualizado para la Valuación proporcionado por un Proveedor de Precios, o bien el obtenido a partir de los Estados de Cuenta:
+Las [Sociedades](articulo-1.md) Financieras Populares que inviertan únicamente en los Valores o instrumentos financieros que se detallan en las fracciones siguientes, podrán utilizar para su valuación el Precio Actualizado para la Valuación proporcionado por un Proveedor de Precios, o bien el obtenido a partir de los Estados de Cuenta:
 
 I. Valores gubernamentales.
 

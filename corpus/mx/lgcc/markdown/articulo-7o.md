@@ -25,7 +25,7 @@ II. Elaborar, coordinar y aplicar los instrumentos de política previstos por es
 
 III. Formular, conducir y publicar, con la participación de la sociedad, la [Estrategia Nacional](articulo-3o.md), el [Programa](articulo-3o.md), y las contribuciones determinadas a nivel nacional, así como llevar a cabo su instrumentación, seguimiento y evaluación; Fracción reformada DOF 13-07-2018
 
-IV. Elaborar, actualizar, publicar y aplicar el Atlas Nacional de [Riesgo](articulo-3o.md) y la [Política Nacional de Adaptación](articulo-3o.md), y emitir los criterios para la elaboración de los atlas de riesgo de las entidades federativas, considerando la información del Atlas Nacional de [Vulnerabilidad](articulo-3o.md) al Cambio Climático; Fracción reformada DOF 13-07-2018, 15-11-2023
+IV. Elaborar, actualizar, publicar y aplicar el Atlas Nacional de [Riesgo](articulo-3o.md) y la [Política Nacional de Adaptación](articulo-3o.md), y emitir los criterios para la elaboración de los atlas de riesgo de las entidades federativas, considerando la información del [Atlas Nacional de Vulnerabilidad al Cambio Climático](articulo-3o.md); Fracción reformada DOF 13-07-2018, 15-11-2023
 
 V. Establecer procedimientos para realizar consultas públicas a la sociedad en general, los sectores público y privado, con el fin de formular la Estrategia Nacional y el Programa;
 

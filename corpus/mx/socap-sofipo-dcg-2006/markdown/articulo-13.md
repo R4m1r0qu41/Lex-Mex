@@ -18,4 +18,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 13
 
-En todo caso, la Comisión podrá solicitar a las Sociedades Financieras Populares, Federaciones o Confederaciones, la información que juzgue conveniente relativa a los expedientes a que hace referencia el artículo [9](articulo-9.md) de las presentes disposiciones.
+En todo caso, la Comisión podrá solicitar a las [Sociedades](articulo-1.md) Financieras Populares, [Federaciones](articulo-1.md) o [Confederaciones](articulo-1.md), la información que juzgue conveniente relativa a los expedientes a que hace referencia el artículo [9](articulo-9.md) de las presentes disposiciones.

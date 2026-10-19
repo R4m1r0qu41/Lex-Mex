@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 54
 
-Los manuales de operación de las Sociedades Financieras Populares deberán apegarse como mínimo a los lineamientos, políticas y objetivos establecidos por el Consejo y, en específico, a lo siguiente:
+Los manuales de operación de las [Sociedades](articulo-1.md) Financieras Populares deberán apegarse como mínimo a los lineamientos, políticas y objetivos establecidos por el Consejo y, en específico, a lo siguiente:
 
 I. Manual de control interno.
 
@@ -28,7 +28,7 @@ a) Los objetivos, políticas y procedimientos de control interno.
 
 b) La estructura organizacional, especificando a los responsables de llevar a cabo las diversas funciones en la Sociedad Financiera Popular.
 
-c) Los sistemas de información dentro de la Sociedad Financiera Popular, los cuales deberán permitir que la información sobre el estado en que se encuentren los créditos y los depósitos sea completa y oportuna; dicha información deberá estar disponible para la Federación respectiva y la Comisión, así como para el personal que se considere autorizado para accesar a dicha información.
+c) Los sistemas de información dentro de la Sociedad Financiera Popular, los cuales deberán permitir que la información sobre el estado en que se encuentren los créditos y los depósitos sea completa y oportuna; dicha información deberá estar disponible para la [Federación](articulo-1.md) respectiva y la Comisión, así como para el personal que se considere autorizado para accesar a dicha información.
 
 d) La descripción de la normatividad interna de la Sociedad Financiera Popular, es decir, la descripción de los manuales que existan y que se encuentren vigentes, así como su propósito.
 
@@ -42,11 +42,11 @@ b) Integración de expedientes de crédito: Las políticas y procedimientos para
 
 1. Identificación del solicitante.
 
-i) Tratándose de personas morales, escrituras constitutivas del acreditado y avalista y/u obligado solidario y modificaciones a las mismas, debidamente inscritas en el Registro Público de la Propiedad y/o de Comercio correspondiente; y escrituras de otorgamiento de poderes en favor de la(s) persona(s) que suscriba(n) el o los contratos y/o títulos de crédito, y
+i) Tratándose de personas morales, escrituras constitutivas del acreditado y avalista y/u obligado solidario y modificaciones a las mismas, debidamente inscritas en el [Registro](articulo-1.md) Público de la Propiedad y/o de Comercio correspondiente; y escrituras de otorgamiento de poderes en favor de la(s) persona(s) que suscriba(n) el o los contratos y/o títulos de crédito, y
 
 ii) En el caso de personas físicas, copia del acta de nacimiento o comprobantes que permitan conocer la identidad de la persona de que se trate, o bien, identificación oficial vigente con fotografía y firma del acreditado y del avalista y, de ser el caso, del obligado solidario, así como su huella digital y, de ser el caso, copia del acta de matrimonio;
 
-2. La solicitud de crédito debidamente requisitada y, en su caso, copia del acta del Consejo de Administración o del Comité de Crédito en la que conste su aprobación, según corresponda;
+2. La solicitud de crédito debidamente requisitada y, en su caso, copia del acta del [Consejo de Administración](articulo-1.md) o del [Comité de Crédito](articulo-1.md) en la que conste su aprobación, según corresponda;
 
 3. Tratándose de personas morales, estados financieros internos del acreditado y, de ser el caso, del avalista u obligado solidario, con firma autógrafa del representante legal y con una antigüedad no mayor a 180 días;
 
@@ -54,7 +54,7 @@ ii) En el caso de personas físicas, copia del acta de nacimiento o comprobantes
 
 5. Copia de los contratos y títulos de crédito con los que se haya documentado el crédito;
 
-6. La documentación que acredite haber formulado ante una Sociedad de Información Crediticia una consulta previa, en términos de lo previsto por el Capítulo IV del Título Cuarto de las presentes disposiciones, así como la información sobre el historial del acreditado respecto del cumplimiento de sus obligaciones con la Sociedad Financiera Popular;
+6. La documentación que acredite haber formulado ante una [Sociedad de Información Crediticia](articulo-1.md) una consulta previa, en términos de lo previsto por el Capítulo IV del Título Cuarto de las presentes disposiciones, así como la información sobre el historial del acreditado respecto del cumplimiento de sus obligaciones con la Sociedad Financiera Popular;
 
 7. En su caso, correspondencia con el acreditado, como cartas, telegramas y otros relacionados con modificaciones a los términos y condiciones del crédito otorgado.
 
@@ -62,7 +62,7 @@ ii) En el caso de personas físicas, copia del acta de nacimiento o comprobantes
 
 9. Tratándose de los organismos autónomos de las entidades federativas y de los municipios, organismos descentralizados, empresas de participación estatal mayoritaria y fideicomisos de las entidades federativas y municipios, así como de cualquier otro ente público sobre las que dichas entidades federativas y municipios tengan control sobre sus decisiones o acciones, el expediente deberá contener, además de lo previsto en los numerales anteriores, lo siguiente:
 
-i) Solicitud de crédito debidamente llenada y firmada ya sea autógrafa o electrónicamente por servidor público facultado, o bien, la invitación a participar en el Financiamiento de conformidad con la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios o la que la sustituya. En ambos casos, las Sociedades Financieras Populares deberán hacer constar la evidencia y criterios que originaron dicho ofrecimiento.
+i) Solicitud de crédito debidamente llenada y firmada ya sea autógrafa o electrónicamente por servidor público facultado, o bien, la invitación a participar en el [Financiamiento](articulo-1.md) de conformidad con la [Ley](articulo-1.md) de Disciplina Financiera de las Entidades Federativas y los Municipios o la que la sustituya. En ambos casos, las Sociedades Financieras Populares deberán hacer constar la evidencia y criterios que originaron dicho ofrecimiento.
 
 ii) Estudios de crédito donde se analice al acreditado y avalista, cuando este último sea considerado en el proceso de calificación del crédito.
 

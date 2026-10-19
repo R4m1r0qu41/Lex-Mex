@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:statute:lfep",
   "source_sha256": "c0f203a9c6ebb990db8a2a43559ecf19e904f7c0757d0f334f7f4fb044aa6a12",
   "extracted_text_sha256": "02b7cdba897422dcb5274a1bb71ef5e1a9ba0e1a7dd3fc21ca3ddb92ba91edee",

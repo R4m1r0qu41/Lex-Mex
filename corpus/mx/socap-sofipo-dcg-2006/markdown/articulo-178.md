@@ -18,6 +18,6 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 178
 
-Las Sociedades Financieras Populares deberán documentar adecuadamente las políticas y procedimientos de todas sus actividades, en manuales de operación. Dichos manuales serán la base de la operación, así como la referencia para evaluar la efectividad y desempeño de los controles internos.
+Las [Sociedades](articulo-1.md) Financieras Populares deberán documentar adecuadamente las políticas y procedimientos de todas sus actividades, en manuales de operación. Dichos manuales serán la base de la operación, así como la referencia para evaluar la efectividad y desempeño de los controles internos.
 
-Los manuales de operación deberán ser revisados y, en su caso, actualizados por lo menos una vez al año y deberán hacerse del conocimiento de los Consejeros, Miembros del Consejo de Vigilancia o Comisario, y a los funcionarios y empleados de la Sociedad Financiera Popular que por sus funciones requieran conocerlos.
+Los manuales de operación deberán ser revisados y, en su caso, actualizados por lo menos una vez al año y deberán hacerse del conocimiento de los [Consejeros](articulo-1.md), [Miembros del Consejo de Vigilancia o Comisario](articulo-1.md), y a los funcionarios y empleados de la Sociedad Financiera Popular que por sus funciones requieran conocerlos.

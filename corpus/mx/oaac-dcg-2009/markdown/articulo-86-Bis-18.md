@@ -30,7 +30,7 @@ IV. Corroborar que las áreas correspondientes, den seguimiento individual y per
 
 Ningún crédito, línea de crédito o disposición parcial de esta, podrá ser ejercida sin la previa aprobación de un funcionario responsable del área de control referida en este artículo, salvo tratándose de créditos comerciales por montos menores al equivalente en moneda nacional a dos mil [UDIs](articulo-1.md).
 
-El director general de la unión de crédito informará, cuando menos trimestralmente, al [Consejo](articulo-1.md) y al Comité de Auditoría, acerca de las desviaciones que detecte con respecto de los objetivos, lineamientos, políticas, procedimientos, estrategias y normatividad vigente en materia de crédito. Dichos informes deberán estar a disposición del auditor interno y del auditor externo, y la [Comisión](articulo-1.md) podrá requerirlos a la unión de crédito en cualquier momento.
+El director general de la unión de crédito informará, cuando menos trimestralmente, al [Consejo](articulo-1.md) y al [Comité de Auditoría](articulo-1.md), acerca de las desviaciones que detecte con respecto de los objetivos, lineamientos, políticas, procedimientos, estrategias y normatividad vigente en materia de crédito. Dichos informes deberán estar a disposición del auditor interno y del auditor externo, y la [Comisión](articulo-1.md) podrá requerirlos a la unión de crédito en cualquier momento.
 
 Las uniones de crédito deberán dar seguimiento a las muestras de créditos a que se refiere el tercer párrafo del presente artículo con la finalidad de, en su caso, ajustar las técnicas de muestreo estadístico e implementar las acciones correctivas necesarias en el proceso de originación de crédito.
 

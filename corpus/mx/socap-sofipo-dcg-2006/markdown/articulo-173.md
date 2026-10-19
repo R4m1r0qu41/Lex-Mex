@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 173
 
-Las Sociedades Financieras Populares deberán contar con un área de contraloría interna independiente, que establezca y dé seguimiento permanente a medidas de control que rijan al proceso de operación diaria, relativas a:
+Las [Sociedades](articulo-1.md) Financieras Populares deberán contar con un área de contraloría interna independiente, que establezca y dé seguimiento permanente a medidas de control que rijan al proceso de operación diaria, relativas a:
 
 I. El registro, documentación y liquidación de las operaciones que impliquen algún tipo de riesgo;
 

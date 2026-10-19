@@ -18,6 +18,6 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 191
 
-Para efectos de la presente Sección, se entenderá por actividad crediticia la colocación por parte de las Sociedades Financieras Populares de los recursos, tanto propios como los captados de terceros, mediante aval, las operaciones de préstamo, o cualquier operación que de manera directa o indirecta le puedan generar derechos de crédito a su favor.
+Para efectos de la presente Sección, se entenderá por actividad crediticia la colocación por parte de las [Sociedades](articulo-1.md) Financieras Populares de los recursos, tanto propios como los captados de terceros, mediante aval, las operaciones de préstamo, o cualquier operación que de manera directa o indirecta le puedan generar derechos de crédito a su favor.
 
 Sub Apartado A Lineamientos mínimos del manual de crédito

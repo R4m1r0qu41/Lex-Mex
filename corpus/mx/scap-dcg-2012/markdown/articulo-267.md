@@ -17,7 +17,7 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 267
 
-El Comité de Protección al Ahorro Cooperativo deberá informar a las Sociedades el importe de las cuotas que les correspondan cubrir al Fondo de Protección, a más tardar el décimo día hábil del mes inmediato siguiente a aquel respecto del cual deba efectuarse el pago.
+El [Comité de Protección al Ahorro Cooperativo](articulo-1.md) deberá informar a las Sociedades el importe de las cuotas que les correspondan cubrir al [Fondo de Protección](articulo-1.md), a más tardar el décimo día hábil del mes inmediato siguiente a aquel respecto del cual deba efectuarse el pago.
 
 La Sociedad deberá cubrir al Fondo de Protección el importe mensual de la cuota correspondiente, el primer día hábil del segundo mes siguiente a aquel respecto del cual deba efectuarse el pago, en los términos previstos por el Fondo de Protección.
 

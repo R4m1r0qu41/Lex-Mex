@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lemefagn",
   "source_sha256": "703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5",
   "extracted_text_sha256": "67027f39b824dc4562be2a49b97080cde42d1cfd687a646f4147e3351ce08aa1",

@@ -18,4 +18,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 67 Bis 3
 
-Las Sociedades Financieras Populares podrán, mediante la aplicación de las técnicas de cobertura de riesgo de crédito, reducir el requerimiento de capitalización por riesgo de crédito que resulte de la aplicación del método previsto en los artículos [67 Bis 1](articulo-67-Bis-1.md) y [67 Bis 2](articulo-67-Bis-2.md) del presente Sub Apartado, conforme a lo establecido en el Anexo O Bis 2 de las presentes disposiciones.
+Las [Sociedades](articulo-1.md) Financieras Populares podrán, mediante la aplicación de las técnicas de cobertura de riesgo de crédito, reducir el requerimiento de capitalización por riesgo de crédito que resulte de la aplicación del método previsto en los artículos [67 Bis 1](articulo-67-Bis-1.md) y [67 Bis 2](articulo-67-Bis-2.md) del presente Sub Apartado, conforme a lo establecido en el Anexo O Bis 2 de las presentes disposiciones.

@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lieps",
   "source_sha256": "cb15a70b51a87cff0f6d329d5e8a97617d71c955e46da65921037a77a83ca5f4",
   "extracted_text_sha256": "46e60fd5f3f1da1279c106ee069359c1bd15d0d92e30993443795067a8df0e8b",

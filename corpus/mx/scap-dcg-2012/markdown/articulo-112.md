@@ -18,7 +18,7 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 112
 
-El Consejo de Administración deberá constituir un Comité de Auditoría, cuyo objeto sea apoyar al citado Consejo en la definición de los lineamientos generales del sistema de control interno, así como en la verificación y evaluación de dicho sistema. Lo anterior, mediante la supervisión de las funciones de auditoría interna, fungiendo como un canal de comunicación entre el Consejo de Administración, los auditores internos y las autoridades supervisoras.
+El [Consejo de Administración](articulo-1.md) deberá constituir un [Comité de Auditoría](articulo-1.md), cuyo objeto sea apoyar al citado Consejo en la definición de los lineamientos generales del sistema de control interno, así como en la verificación y evaluación de dicho sistema. Lo anterior, mediante la supervisión de las funciones de auditoría interna, fungiendo como un canal de comunicación entre el Consejo de Administración, los auditores internos y las autoridades supervisoras.
 
 El Comité de Auditoría se integrará en su mayoría por miembros del Consejo de Administración designados por el propio Consejo a propuesta de su presidente. Dicho Comité deberá contar con un mínimo de tres miembros y cuando menos uno de ellos, quien podrá ser o no consejero, deberá tener conocimientos técnicos o experiencia en materia de contaduría, auditoría y control interno, así como poseer conocimientos sobre la operación y la normatividad aplicable a las sociedades. El comité deberá realizar sus funciones de manera transparente, libre de conflictos de interés y sus miembros deberán conducirse sin estar supeditados a intereses personales, patrimoniales o económicos. Los miembros del comité podrán nombrar a su suplente.
 
@@ -28,7 +28,7 @@ I. Proponer para aprobación del Consejo de Administración:
 
 a) Los manuales de políticas y procedimientos necesarios para el adecuado funcionamiento del sistema de control interno de la Sociedad.
 
-b) La designación del Auditor Interno de la Sociedad.
+b) La designación del [Auditor Interno](articulo-1.md) de la Sociedad.
 
 c) Derogado.
 
@@ -46,6 +46,6 @@ V. Informar al Consejo de Administración, por lo menos una vez al año, sobre l
 
 VI. Derogada.
 
-VII. Revisar en coordinación con el Director o Gerente General al menos una vez al año o cuando existan cambios significativos en la operación de la Sociedad, los manuales a que se refiere el artículo [118](articulo-118.md) de las presentes disposiciones. En todo caso, tratándose del manual de crédito, en su revisión también deberá participar el Comité de Crédito.
+VII. Revisar en coordinación con el [Director o Gerente General](articulo-1.md) al menos una vez al año o cuando existan cambios significativos en la operación de la Sociedad, los manuales a que se refiere el artículo [118](articulo-118.md) de las presentes disposiciones. En todo caso, tratándose del manual de crédito, en su revisión también deberá participar el [Comité de Crédito](articulo-1.md).
 
 El Comité de Auditoría deberá sesionar, cuando menos trimestralmente, haciendo constar los acuerdos tomados en actas debidamente suscritas por todos y cada uno de los participantes. Asimismo, dicho comité contará con la presencia del Auditor Interno, quien asistirá a las sesiones en calidad de invitado, sin derecho a voto. A las sesiones del Comité de Auditoría podrán asistir otros invitados con voz y sin voto, previa invitación de los integrantes del citado comité cuando estos así si lo considera necesario.

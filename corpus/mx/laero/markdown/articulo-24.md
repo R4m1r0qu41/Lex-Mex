@@ -17,6 +17,6 @@ source_sha256: c78882a0177403ee04cd38dd09fa1657dc221b7f6827ddacf251c699ede867e4
 
 # Artículo 24
 
-El cambio de la persona titular de la dirección general, de cualquier miembro del consejo de administración de la concesionaria o permisionaria o del administrador aeroportuario, debe ser notificado a la Agencia Federal de Aviación Civil.
+El cambio de la persona titular de la dirección general, de cualquier miembro del consejo de administración de la concesionaria o permisionaria o del administrador aeroportuario, debe ser notificado a la [Agencia Federal de Aviación Civil](articulo-2.md).
 
 Artículo reformado DOF 03-05-2023

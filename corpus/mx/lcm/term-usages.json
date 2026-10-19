@@ -1,6 +1,24 @@
 [
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:1:term-usage:12-15",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 12,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:1:term-usage:500-503",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 500,
+    "end_char": 503
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:3:term-usage:76-87",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:3",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
@@ -37,6 +55,24 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:4:term-usage:25-28",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 25,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:4:term-usage:532-535",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 532,
+    "end_char": 535
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:4:term-usage:714-723",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:4",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:instituto",
@@ -55,12 +91,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:4:term-usage:1340-1343",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 1340,
+    "end_char": 1343
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:4:term-usage:1658-1669",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:4",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
     "span": "Comerciante",
     "start_char": 1658,
     "end_char": 1669
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:4:term-usage:2194-2197",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 2194,
+    "end_char": 2197
   },
   {
     "schema_version": "0.1.0",
@@ -73,12 +127,39 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:4:term-usage:2594-2597",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 2594,
+    "end_char": 2597
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:4:term-usage:2617-2639",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:4",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:acreedores-reconocidos",
     "span": "Acreedores Reconocidos",
     "start_char": 2617,
     "end_char": 2639
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:5:term-usage:162-165",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 162,
+    "end_char": 165
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:5:term-usage:188-191",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 188,
+    "end_char": 191
   },
   {
     "schema_version": "0.1.0",
@@ -100,12 +181,39 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:6:term-usage:15-18",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 15,
+    "end_char": 18
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:7:term-usage:132-135",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 132,
+    "end_char": 135
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:7:term-usage:321-330",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:7",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:instituto",
     "span": "Instituto",
     "start_char": 321,
     "end_char": 330
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:7:term-usage:420-423",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 420,
+    "end_char": 423
   },
   {
     "schema_version": "0.1.0",
@@ -145,6 +253,24 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:9:term-usage:793-796",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 793,
+    "end_char": 796
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:10:term-usage:25-28",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 25,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:10:term-usage:98-109",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:10",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
@@ -178,6 +304,15 @@
     "span": "Comerciante",
     "start_char": 20,
     "end_char": 31
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:11:term-usage:910-913",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 910,
+    "end_char": 913
   },
   {
     "schema_version": "0.1.0",
@@ -217,12 +352,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:13:term-usage:187-190",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 187,
+    "end_char": 190
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:15:term-usage:71-83",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:15",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
     "span": "Comerciantes",
     "start_char": 71,
     "end_char": 83
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:15:term-usage:320-323",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 320,
+    "end_char": 323
   },
   {
     "schema_version": "0.1.0",
@@ -244,6 +397,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:15-bis:term-usage:969-972",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:15-bis",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 969,
+    "end_char": 972
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:17:term-usage:56-67",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:17",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
@@ -259,6 +421,24 @@
     "span": "Comerciante",
     "start_char": 130,
     "end_char": 141
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:17:term-usage:662-665",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 662,
+    "end_char": 665
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:17:term-usage:933-936",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 933,
+    "end_char": 936
   },
   {
     "schema_version": "0.1.0",
@@ -286,6 +466,15 @@
     "span": "Comerciante",
     "start_char": 3,
     "end_char": 14
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:20:term-usage:182-185",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 182,
+    "end_char": 185
   },
   {
     "schema_version": "0.1.0",
@@ -352,12 +541,39 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:20:term-usage:3022-3025",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 3022,
+    "end_char": 3025
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:20:term-usage:3342-3345",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 3342,
+    "end_char": 3345
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:20-bis:term-usage:3-14",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:20-bis",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
     "span": "Comerciante",
     "start_char": 3,
     "end_char": 14
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:20-bis:term-usage:237-240",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:20-bis",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 237,
+    "end_char": 240
   },
   {
     "schema_version": "0.1.0",
@@ -451,6 +667,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:21:term-usage:1327-1330",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 1327,
+    "end_char": 1330
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:22:term-usage:101-110",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:22",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:instituto",
@@ -487,12 +712,39 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:22:term-usage:824-827",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 824,
+    "end_char": 827
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:23:term-usage:560-571",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:23",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
     "span": "Comerciante",
     "start_char": 560,
     "end_char": 571
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:23-bis:term-usage:311-328",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:23-bis",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:firma-electronica",
+    "span": "Firma Electrónica",
+    "start_char": 311,
+    "end_char": 328
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:23-bis:term-usage:837-840",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:23-bis",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 837,
+    "end_char": 840
   },
   {
     "schema_version": "0.1.0",
@@ -523,6 +775,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:26:term-usage:436-439",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 436,
+    "end_char": 439
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:26:term-usage:444-455",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:26",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
@@ -532,12 +793,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:26:term-usage:524-527",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 524,
+    "end_char": 527
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:26:term-usage:612-623",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:26",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
     "span": "Comerciante",
     "start_char": 612,
     "end_char": 623
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:26:term-usage:961-964",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 961,
+    "end_char": 964
   },
   {
     "schema_version": "0.1.0",
@@ -574,6 +853,15 @@
     "span": "Comerciante",
     "start_char": 413,
     "end_char": 424
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:27:term-usage:582-585",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 582,
+    "end_char": 585
   },
   {
     "schema_version": "0.1.0",
@@ -637,6 +925,15 @@
     "span": "Comerciante",
     "start_char": 388,
     "end_char": 399
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:30:term-usage:462-465",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 462,
+    "end_char": 465
   },
   {
     "schema_version": "0.1.0",
@@ -883,6 +1180,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:37:term-usage:2514-2517",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 2514,
+    "end_char": 2517
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:38:term-usage:89-100",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:38",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
@@ -919,6 +1225,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:41:term-usage:361-364",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 361,
+    "end_char": 364
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:43:term-usage:104-113",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:43",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:domicilio",
@@ -937,12 +1252,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:43:term-usage:347-350",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 347,
+    "end_char": 350
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:43:term-usage:463-474",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:43",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
     "span": "Comerciante",
     "start_char": 463,
     "end_char": 474
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:43:term-usage:608-611",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 608,
+    "end_char": 611
   },
   {
     "schema_version": "0.1.0",
@@ -982,6 +1315,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:43:term-usage:1340-1343",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 1340,
+    "end_char": 1343
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:43:term-usage:1403-1414",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:43",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
@@ -1006,6 +1348,15 @@
     "span": "Comerciante",
     "start_char": 2221,
     "end_char": 2232
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:43:term-usage:2428-2431",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 2428,
+    "end_char": 2431
   },
   {
     "schema_version": "0.1.0",
@@ -1108,6 +1459,33 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:50:term-usage:930-933",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 930,
+    "end_char": 933
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:53:term-usage:196-199",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:53",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 196,
+    "end_char": 199
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:54:term-usage:115-118",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:54",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 115,
+    "end_char": 118
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:54:term-usage:273-282",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:54",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:instituto",
@@ -1126,6 +1504,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:56:term-usage:424-427",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:56",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 424,
+    "end_char": 427
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:56:term-usage:530-539",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:56",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:instituto",
@@ -1135,12 +1522,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:56:term-usage:602-605",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:56",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 602,
+    "end_char": 605
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:56:term-usage:631-640",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:56",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:instituto",
     "span": "Instituto",
     "start_char": 631,
     "end_char": 640
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:58:term-usage:19-22",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 19,
+    "end_char": 22
   },
   {
     "schema_version": "0.1.0",
@@ -1189,6 +1594,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:60:term-usage:255-258",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:60",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 255,
+    "end_char": 258
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:60:term-usage:357-366",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:60",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:instituto",
@@ -1222,6 +1636,15 @@
     "span": "Comerciante",
     "start_char": 69,
     "end_char": 80
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:61:term-usage:570-573",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:61",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 570,
+    "end_char": 573
   },
   {
     "schema_version": "0.1.0",
@@ -1288,6 +1711,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:64:term-usage:920-923",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:64",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 920,
+    "end_char": 923
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:64:term-usage:1222-1233",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:64",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
@@ -1297,12 +1729,48 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:64:term-usage:1335-1338",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:64",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 1335,
+    "end_char": 1338
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:65:term-usage:195-206",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:65",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
     "span": "Comerciante",
     "start_char": 195,
     "end_char": 206
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:66:term-usage:132-135",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:66",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 132,
+    "end_char": 135
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:66:term-usage:220-223",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:66",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 220,
+    "end_char": 223
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:66:term-usage:385-388",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:66",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 385,
+    "end_char": 388
   },
   {
     "schema_version": "0.1.0",
@@ -1324,6 +1792,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:67:term-usage:259-262",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:67",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 259,
+    "end_char": 262
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:67:term-usage:315-326",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:67",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
@@ -1342,6 +1819,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:68:term-usage:254-257",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 254,
+    "end_char": 257
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:68:term-usage:339-343",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:68",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:masa",
@@ -1357,6 +1843,15 @@
     "span": "Masa",
     "start_char": 712,
     "end_char": 716
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:69:term-usage:263-266",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:69",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 263,
+    "end_char": 266
   },
   {
     "schema_version": "0.1.0",
@@ -1531,6 +2026,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:74:term-usage:141-144",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 141,
+    "end_char": 144
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:75:term-usage:10-21",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:75",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
@@ -1558,6 +2062,24 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:75:term-usage:1120-1123",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 1120,
+    "end_char": 1123
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:75:term-usage:1747-1750",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 1747,
+    "end_char": 1750
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:75:term-usage:1847-1858",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:75",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
@@ -1573,6 +2095,15 @@
     "span": "Comerciante",
     "start_char": 2141,
     "end_char": 2152
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:75:term-usage:2375-2378",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 2375,
+    "end_char": 2378
   },
   {
     "schema_version": "0.1.0",
@@ -1693,6 +2224,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:82:term-usage:182-185",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:82",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 182,
+    "end_char": 185
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:84:term-usage:54-65",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:84",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
@@ -1729,6 +2269,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:84:term-usage:645-648",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 645,
+    "end_char": 648
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:84:term-usage:796-807",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:84",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
@@ -1747,12 +2296,39 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:85:term-usage:227-230",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:85",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 227,
+    "end_char": 230
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:85:term-usage:296-307",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:85",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
     "span": "Comerciante",
     "start_char": 296,
     "end_char": 307
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:86:term-usage:36-39",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:86",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 36,
+    "end_char": 39
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:87:term-usage:81-84",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 81,
+    "end_char": 84
   },
   {
     "schema_version": "0.1.0",
@@ -1798,6 +2374,15 @@
     "span": "UDIs",
     "start_char": 868,
     "end_char": 872
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:89:term-usage:1426-1429",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:89",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 1426,
+    "end_char": 1429
   },
   {
     "schema_version": "0.1.0",
@@ -1855,6 +2440,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:90:term-usage:574-577",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:90",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 574,
+    "end_char": 577
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:90:term-usage:632-643",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:90",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
@@ -1870,6 +2464,15 @@
     "span": "Comerciante",
     "start_char": 225,
     "end_char": 236
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:91:term-usage:278-281",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:91",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 278,
+    "end_char": 281
   },
   {
     "schema_version": "0.1.0",
@@ -1972,6 +2575,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:98:term-usage:260-263",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:98",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 260,
+    "end_char": 263
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:101:term-usage:202-213",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:101",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
@@ -2026,6 +2638,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:102:term-usage:1273-1276",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:102",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 1273,
+    "end_char": 1276
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:102:term-usage:1791-1802",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:102",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
@@ -2071,6 +2692,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:104:term-usage:315-318",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:104",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 315,
+    "end_char": 318
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:104:term-usage:877-888",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:104",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
@@ -2095,6 +2725,42 @@
     "span": "Masa",
     "start_char": 1119,
     "end_char": 1123
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:104:term-usage:1257-1260",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:104",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 1257,
+    "end_char": 1260
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:105:term-usage:129-132",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:105",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 129,
+    "end_char": 132
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:105:term-usage:886-889",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:105",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 886,
+    "end_char": 889
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:105:term-usage:1064-1067",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:105",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 1064,
+    "end_char": 1067
   },
   {
     "schema_version": "0.1.0",
@@ -2161,6 +2827,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:112:term-usage:1309-1312",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 1309,
+    "end_char": 1312
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:113:term-usage:29-33",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:113",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:masa",
@@ -2176,6 +2851,15 @@
     "span": "Comerciante",
     "start_char": 121,
     "end_char": 132
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:113-bis:term-usage:170-173",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:113-bis",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 170,
+    "end_char": 173
   },
   {
     "schema_version": "0.1.0",
@@ -2422,6 +3106,33 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:122:term-usage:369-372",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:122",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 369,
+    "end_char": 372
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:123:term-usage:243-246",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:123",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 243,
+    "end_char": 246
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:123:term-usage:481-484",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:123",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 481,
+    "end_char": 484
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:124:term-usage:262-273",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:124",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
@@ -2437,6 +3148,15 @@
     "span": "Comerciante",
     "start_char": 237,
     "end_char": 248
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:125:term-usage:486-489",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:125",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 486,
+    "end_char": 489
   },
   {
     "schema_version": "0.1.0",
@@ -2485,6 +3205,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:128:term-usage:484-487",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:128",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 484,
+    "end_char": 487
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:128:term-usage:812-823",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:128",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
@@ -2530,6 +3259,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:132:term-usage:60-63",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:132",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 60,
+    "end_char": 63
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:133:term-usage:120-131",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:133",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
@@ -2554,6 +3292,15 @@
     "span": "Comerciante",
     "start_char": 131,
     "end_char": 142
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:143:term-usage:202-205",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:143",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 202,
+    "end_char": 205
   },
   {
     "schema_version": "0.1.0",
@@ -2626,6 +3373,15 @@
     "span": "Instituto",
     "start_char": 107,
     "end_char": 116
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:146:term-usage:263-266",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:146",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 263,
+    "end_char": 266
   },
   {
     "schema_version": "0.1.0",
@@ -2737,6 +3493,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:147:term-usage:1442-1445",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:147",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 1442,
+    "end_char": 1445
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:147:term-usage:1479-1488",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:147",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:instituto",
@@ -2752,6 +3517,15 @@
     "span": "Comerciante",
     "start_char": 1560,
     "end_char": 1571
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:147:term-usage:1641-1644",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:147",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 1641,
+    "end_char": 1644
   },
   {
     "schema_version": "0.1.0",
@@ -2791,6 +3565,24 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:148:term-usage:119-122",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:148",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 119,
+    "end_char": 122
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:149:term-usage:286-289",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:149",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 286,
+    "end_char": 289
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:149:term-usage:329-340",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:149",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
@@ -2815,6 +3607,15 @@
     "span": "Comerciante",
     "start_char": 300,
     "end_char": 311
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:150:term-usage:379-382",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:150",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 379,
+    "end_char": 382
   },
   {
     "schema_version": "0.1.0",
@@ -2854,6 +3655,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:153:term-usage:91-94",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:153",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 91,
+    "end_char": 94
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:153:term-usage:766-785",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:153",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:acreedores-reconocidos",
@@ -2878,6 +3688,15 @@
     "span": "Acreedores Reconocidos",
     "start_char": 39,
     "end_char": 61
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:156:term-usage:239-242",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:156",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 239,
+    "end_char": 242
   },
   {
     "schema_version": "0.1.0",
@@ -3043,6 +3862,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:160:term-usage:268-271",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:160",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 268,
+    "end_char": 271
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:161:term-usage:3-14",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:161",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
@@ -3187,6 +4015,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:164:term-usage:74-77",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:164",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 74,
+    "end_char": 77
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:165:term-usage:50-61",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:165",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
@@ -3232,12 +4069,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:165:term-usage:486-489",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:165",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 486,
+    "end_char": 489
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:165:term-usage:536-558",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:165",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:acreedores-reconocidos",
     "span": "Acreedores Reconocidos",
     "start_char": 536,
     "end_char": 558
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:165:term-usage:1227-1230",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:165",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 1227,
+    "end_char": 1230
   },
   {
     "schema_version": "0.1.0",
@@ -3268,6 +4123,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:166-bis:term-usage:179-182",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:166-bis",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 179,
+    "end_char": 182
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:166-bis:term-usage:477-488",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:166-bis",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
@@ -3286,6 +4150,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:166-bis:term-usage:595-598",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:166-bis",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 595,
+    "end_char": 598
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:166-bis:term-usage:792-814",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:166-bis",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:acreedores-reconocidos",
@@ -3301,6 +4174,24 @@
     "span": "Instituto",
     "start_char": 1512,
     "end_char": 1521
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:166-bis:term-usage:1676-1679",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:166-bis",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 1676,
+    "end_char": 1679
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:166-bis:term-usage:1811-1814",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:166-bis",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 1811,
+    "end_char": 1814
   },
   {
     "schema_version": "0.1.0",
@@ -3328,6 +4219,24 @@
     "span": "Comerciante",
     "start_char": 95,
     "end_char": 106
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:167:term-usage:375-378",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:167",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 375,
+    "end_char": 378
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:167:term-usage:467-470",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:167",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 467,
+    "end_char": 470
   },
   {
     "schema_version": "0.1.0",
@@ -3412,6 +4321,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:169:term-usage:1402-1405",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:169",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 1402,
+    "end_char": 1405
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:170:term-usage:56-65",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:170",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:instituto",
@@ -3427,6 +4345,15 @@
     "span": "Instituto",
     "start_char": 370,
     "end_char": 379
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:172:term-usage:220-223",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:172",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 220,
+    "end_char": 223
   },
   {
     "schema_version": "0.1.0",
@@ -3454,6 +4381,15 @@
     "span": "Comerciante",
     "start_char": 413,
     "end_char": 424
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:173:term-usage:512-515",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:173",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 512,
+    "end_char": 515
   },
   {
     "schema_version": "0.1.0",
@@ -3538,6 +4474,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:174:term-usage:1179-1182",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:174",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 1179,
+    "end_char": 1182
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:175:term-usage:45-56",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:175",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
@@ -3574,6 +4519,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:177:term-usage:102-105",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:177",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 102,
+    "end_char": 105
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:177:term-usage:353-364",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:177",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
@@ -3583,12 +4537,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:177:term-usage:740-743",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:177",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 740,
+    "end_char": 743
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:178:term-usage:121-132",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:178",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
     "span": "Comerciante",
     "start_char": 121,
     "end_char": 132
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:178:term-usage:278-281",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:178",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 278,
+    "end_char": 281
   },
   {
     "schema_version": "0.1.0",
@@ -3691,6 +4663,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:184:term-usage:870-873",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:184",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 870,
+    "end_char": 873
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:186:term-usage:71-75",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:186",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:masa",
@@ -3754,6 +4735,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:189:term-usage:420-423",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:189",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 420,
+    "end_char": 423
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:190:term-usage:115-126",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:190",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
@@ -3787,6 +4777,15 @@
     "span": "Comerciante",
     "start_char": 494,
     "end_char": 505
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:190:term-usage:543-546",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:190",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 543,
+    "end_char": 546
   },
   {
     "schema_version": "0.1.0",
@@ -3880,6 +4879,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:194:term-usage:21-24",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:194",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 21,
+    "end_char": 24
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:194:term-usage:108-119",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:194",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
@@ -3952,6 +4960,24 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:197:term-usage:1678-1681",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:197",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 1678,
+    "end_char": 1681
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:198:term-usage:185-188",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:198",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 185,
+    "end_char": 188
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:199:term-usage:115-124",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:199",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:instituto",
@@ -3985,6 +5011,15 @@
     "span": "Instituto",
     "start_char": 736,
     "end_char": 745
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:202:term-usage:105-108",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:202",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 105,
+    "end_char": 108
   },
   {
     "schema_version": "0.1.0",
@@ -4042,12 +5077,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:202:term-usage:2724-2727",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:202",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 2724,
+    "end_char": 2727
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:203:term-usage:823-834",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:203",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
     "span": "Comerciante",
     "start_char": 823,
     "end_char": 834
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:203:term-usage:855-858",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:203",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 855,
+    "end_char": 858
   },
   {
     "schema_version": "0.1.0",
@@ -4066,6 +5119,15 @@
     "span": "Masa",
     "start_char": 104,
     "end_char": 108
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:205:term-usage:707-710",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:205",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 707,
+    "end_char": 710
   },
   {
     "schema_version": "0.1.0",
@@ -4165,6 +5227,15 @@
     "span": "Acreedores Reconocidos",
     "start_char": 634,
     "end_char": 656
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:207:term-usage:873-876",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:207",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 873,
+    "end_char": 876
   },
   {
     "schema_version": "0.1.0",
@@ -4312,6 +5383,33 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:214:term-usage:580-583",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:214",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 580,
+    "end_char": 583
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:214:term-usage:865-868",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:214",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 865,
+    "end_char": 868
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:214:term-usage:1276-1279",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:214",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 1276,
+    "end_char": 1279
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:214:term-usage:2104-2108",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:214",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:udis",
@@ -4339,6 +5437,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:214:term-usage:2844-2847",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:214",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 2844,
+    "end_char": 2847
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:214:term-usage:3034-3053",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:214",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:acreedores-reconocidos",
@@ -4354,6 +5461,15 @@
     "span": "Masa",
     "start_char": 3147,
     "end_char": 3151
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:215:term-usage:94-97",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:215",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 94,
+    "end_char": 97
   },
   {
     "schema_version": "0.1.0",
@@ -4375,6 +5491,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:216:term-usage:341-344",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:216",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 341,
+    "end_char": 344
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:218:term-usage:150-161",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:218",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
@@ -4393,12 +5518,57 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:219:term-usage:25-28",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:219",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 25,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:219:term-usage:492-495",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:219",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 492,
+    "end_char": 495
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:221:term-usage:429-432",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:221",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 429,
+    "end_char": 432
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:222-bis:term-usage:299-302",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:222-bis",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 299,
+    "end_char": 302
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:224:term-usage:23-27",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:224",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:masa",
     "span": "Masa",
     "start_char": 23,
     "end_char": 27
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:224:term-usage:143-146",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:224",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 143,
+    "end_char": 146
   },
   {
     "schema_version": "0.1.0",
@@ -4510,6 +5680,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:229:term-usage:523-526",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:229",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 523,
+    "end_char": 526
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:229:term-usage:601-620",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:229",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:acreedores-reconocidos",
@@ -4555,12 +5734,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:234:term-usage:403-406",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:234",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 403,
+    "end_char": 406
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:235:term-usage:161-172",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:235",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
     "span": "Comerciante",
     "start_char": 161,
     "end_char": 172
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:236:term-usage:113-116",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:236",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 113,
+    "end_char": 116
   },
   {
     "schema_version": "0.1.0",
@@ -4582,12 +5779,39 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:236:term-usage:317-320",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:236",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 317,
+    "end_char": 320
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:237:term-usage:3-14",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:237",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
     "span": "Comerciante",
     "start_char": 3,
     "end_char": 14
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:238:term-usage:249-252",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:238",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 249,
+    "end_char": 252
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:240:term-usage:446-449",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:240",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 446,
+    "end_char": 449
   },
   {
     "schema_version": "0.1.0",
@@ -4618,6 +5842,24 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:242:term-usage:67-70",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:242",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 67,
+    "end_char": 70
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:242:term-usage:188-191",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:242",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 188,
+    "end_char": 191
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:243:term-usage:212-234",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:243",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:acreedores-reconocidos",
@@ -4642,6 +5884,105 @@
     "span": "Comerciante",
     "start_char": 53,
     "end_char": 64
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:245:term-usage:89-92",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:245",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 89,
+    "end_char": 92
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:245:term-usage:320-323",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:245",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 320,
+    "end_char": 323
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:245:term-usage:693-696",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:245",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 693,
+    "end_char": 696
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:247:term-usage:298-301",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:247",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 298,
+    "end_char": 301
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:254:term-usage:137-140",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:254",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 137,
+    "end_char": 140
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:254:term-usage:171-174",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:254",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 171,
+    "end_char": 174
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:254:term-usage:371-374",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:254",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 371,
+    "end_char": 374
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:255:term-usage:56-59",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:255",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 56,
+    "end_char": 59
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:256:term-usage:302-305",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:256",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 302,
+    "end_char": 305
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:257:term-usage:640-643",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:257",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 640,
+    "end_char": 643
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:262:term-usage:147-150",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:262",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 147,
+    "end_char": 150
   },
   {
     "schema_version": "0.1.0",
@@ -4681,6 +6022,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:262:term-usage:514-517",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:262",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 514,
+    "end_char": 517
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:262:term-usage:618-629",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:262",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
@@ -4696,6 +6046,15 @@
     "span": "Acreedores Reconocidos",
     "start_char": 636,
     "end_char": 658
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:262:term-usage:722-725",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:262",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 722,
+    "end_char": 725
   },
   {
     "schema_version": "0.1.0",
@@ -4735,12 +6094,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:264:term-usage:125-128",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:264",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 125,
+    "end_char": 128
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:264:term-usage:140-159",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:264",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:acreedores-reconocidos",
     "span": "Acreedor Reconocido",
     "start_char": 140,
     "end_char": 159
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:264:term-usage:338-341",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:264",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 338,
+    "end_char": 341
   },
   {
     "schema_version": "0.1.0",
@@ -4759,6 +6136,24 @@
     "span": "Acreedor Reconocido",
     "start_char": 95,
     "end_char": 114
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:267:term-usage:2301-2304",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:267",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 2301,
+    "end_char": 2304
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:268:term-usage:12-15",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:268",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 12,
+    "end_char": 15
   },
   {
     "schema_version": "0.1.0",
@@ -4786,6 +6181,15 @@
     "span": "Comerciante",
     "start_char": 262,
     "end_char": 273
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:270-bis:term-usage:405-408",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:270-bis",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 405,
+    "end_char": 408
   },
   {
     "schema_version": "0.1.0",
@@ -4852,6 +6256,24 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:270-bis:term-usage:2687-2690",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:270-bis",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 2687,
+    "end_char": 2690
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:270-bis:term-usage:2781-2784",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:270-bis",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 2781,
+    "end_char": 2784
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:270-bis:term-usage:3213-3224",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:270-bis",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
@@ -4870,12 +6292,39 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:270-bis:term-usage:3791-3794",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:270-bis",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 3791,
+    "end_char": 3794
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:270-bis:term-usage:3954-3957",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:270-bis",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 3954,
+    "end_char": 3957
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:270-bis-1:term-usage:197-208",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:270-bis-1",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
     "span": "Comerciante",
     "start_char": 197,
     "end_char": 208
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:270-bis-1:term-usage:276-279",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:270-bis-1",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 276,
+    "end_char": 279
   },
   {
     "schema_version": "0.1.0",
@@ -4894,6 +6343,15 @@
     "span": "Comerciante",
     "start_char": 473,
     "end_char": 484
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:270-bis-1:term-usage:1243-1246",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:270-bis-1",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 1243,
+    "end_char": 1246
   },
   {
     "schema_version": "0.1.0",
@@ -4969,12 +6427,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:271-bis:term-usage:944-947",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:271-bis",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 944,
+    "end_char": 947
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:271-bis:term-usage:1105-1116",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:271-bis",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
     "span": "Comerciante",
     "start_char": 1105,
     "end_char": 1116
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:271-bis:term-usage:1278-1281",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:271-bis",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 1278,
+    "end_char": 1281
   },
   {
     "schema_version": "0.1.0",
@@ -5023,12 +6499,39 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:278:term-usage:344-347",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:278",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 344,
+    "end_char": 347
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:278:term-usage:414-425",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:278",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
     "span": "Comerciante",
     "start_char": 414,
     "end_char": 425
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:278:term-usage:517-520",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:278",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 517,
+    "end_char": 520
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:278:term-usage:747-750",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:278",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 747,
+    "end_char": 750
   },
   {
     "schema_version": "0.1.0",
@@ -5086,12 +6589,39 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:281:term-usage:217-220",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:281",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 217,
+    "end_char": 220
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:281:term-usage:238-247",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:281",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:instituto",
     "span": "Instituto",
     "start_char": 238,
     "end_char": 247
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:282:term-usage:267-270",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:282",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 267,
+    "end_char": 270
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:283:term-usage:140-143",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:283",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 140,
+    "end_char": 143
   },
   {
     "schema_version": "0.1.0",
@@ -5113,12 +6643,75 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:286:term-usage:35-38",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:286",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 35,
+    "end_char": 38
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:286:term-usage:168-171",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:286",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 168,
+    "end_char": 171
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:287:term-usage:237-248",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:287",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
     "span": "Comerciante",
     "start_char": 237,
     "end_char": 248
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:288:term-usage:118-121",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:288",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 118,
+    "end_char": 121
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:289:term-usage:192-195",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:289",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 192,
+    "end_char": 195
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:290:term-usage:236-239",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:290",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 236,
+    "end_char": 239
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:290:term-usage:396-399",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:290",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 396,
+    "end_char": 399
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:291:term-usage:31-34",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:291",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 31,
+    "end_char": 34
   },
   {
     "schema_version": "0.1.0",
@@ -5167,6 +6760,24 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:293:term-usage:216-219",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:293",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 216,
+    "end_char": 219
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:293:term-usage:541-544",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:293",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 541,
+    "end_char": 544
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:294:term-usage:6-17",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:294",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
@@ -5185,12 +6796,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:294:term-usage:263-266",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:294",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 263,
+    "end_char": 266
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:294:term-usage:338-349",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:294",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
     "span": "Comerciante",
     "start_char": 338,
     "end_char": 349
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:295:term-usage:101-104",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:295",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 101,
+    "end_char": 104
   },
   {
     "schema_version": "0.1.0",
@@ -5209,6 +6838,24 @@
     "span": "Comerciante",
     "start_char": 653,
     "end_char": 664
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:296:term-usage:46-49",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:296",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 46,
+    "end_char": 49
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:296:term-usage:456-459",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:296",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 456,
+    "end_char": 459
   },
   {
     "schema_version": "0.1.0",
@@ -5275,6 +6922,24 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:298:term-usage:1055-1058",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:298",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 1055,
+    "end_char": 1058
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:298:term-usage:1378-1381",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:298",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 1378,
+    "end_char": 1381
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:298:term-usage:1687-1698",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:298",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
@@ -5317,6 +6982,15 @@
     "span": "Comerciante",
     "start_char": 370,
     "end_char": 381
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:300:term-usage:487-490",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:300",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 487,
+    "end_char": 490
   },
   {
     "schema_version": "0.1.0",
@@ -5365,6 +7039,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:301:term-usage:84-87",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:301",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 84,
+    "end_char": 87
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:301:term-usage:321-332",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:301",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
@@ -5374,12 +7057,39 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:301:term-usage:427-430",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:301",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 427,
+    "end_char": 430
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:302:term-usage:227-231",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:302",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:masa",
     "span": "Masa",
     "start_char": 227,
     "end_char": 231
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:302:term-usage:382-385",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:302",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 382,
+    "end_char": 385
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:304:term-usage:52-55",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:304",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 52,
+    "end_char": 55
   },
   {
     "schema_version": "0.1.0",
@@ -5428,6 +7138,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:306:term-usage:598-601",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:306",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 598,
+    "end_char": 601
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:306:term-usage:622-633",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:306",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
@@ -5446,6 +7165,24 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:307:term-usage:144-147",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:307",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 144,
+    "end_char": 147
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:307:term-usage:738-741",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:307",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 738,
+    "end_char": 741
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:308:term-usage:126-137",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:308",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
@@ -5455,12 +7192,39 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:308:term-usage:255-258",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:308",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 255,
+    "end_char": 258
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:309:term-usage:108-119",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:309",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
     "span": "Comerciante",
     "start_char": 108,
     "end_char": 119
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:309:term-usage:252-255",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:309",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 252,
+    "end_char": 255
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:310:term-usage:426-429",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:310",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 426,
+    "end_char": 429
   },
   {
     "schema_version": "0.1.0",
@@ -5482,12 +7246,48 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:311:term-usage:577-580",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:311",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 577,
+    "end_char": 580
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:311:term-usage:1842-1845",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:311",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 1842,
+    "end_char": 1845
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:311:term-usage:2100-2109",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:311",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:instituto",
     "span": "Instituto",
     "start_char": 2100,
     "end_char": 2109
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:311:term-usage:2644-2647",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:311",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 2644,
+    "end_char": 2647
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:311:term-usage:3206-3209",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:311",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 3206,
+    "end_char": 3209
   },
   {
     "schema_version": "0.1.0",
@@ -5581,6 +7381,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:316:term-usage:307-310",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:316",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 307,
+    "end_char": 310
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:316:term-usage:921-930",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:316",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:instituto",
@@ -5590,12 +7399,48 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:317:term-usage:142-145",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:317",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 142,
+    "end_char": 145
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:318:term-usage:426-429",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:318",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 426,
+    "end_char": 429
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:318:term-usage:558-561",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:318",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 558,
+    "end_char": 561
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:319:term-usage:237-246",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:319",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:instituto",
     "span": "Instituto",
     "start_char": 237,
     "end_char": 246
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:321:term-usage:135-138",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:321",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 135,
+    "end_char": 138
   },
   {
     "schema_version": "0.1.0",
@@ -5725,6 +7570,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:324:term-usage:639-642",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:324",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 639,
+    "end_char": 642
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:325:term-usage:155-164",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:325",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:instituto",
@@ -5815,6 +7669,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:329:term-usage:261-264",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:329",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 261,
+    "end_char": 264
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:329:term-usage:306-315",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:329",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:instituto",
@@ -5869,12 +7732,48 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:332:term-usage:139-142",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:332",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 139,
+    "end_char": 142
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:332:term-usage:376-379",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:332",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 376,
+    "end_char": 379
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:332:term-usage:470-481",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:332",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
     "span": "Comerciante",
     "start_char": 470,
     "end_char": 481
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:332:term-usage:697-700",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:332",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 697,
+    "end_char": 700
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:332:term-usage:1025-1028",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:332",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 1025,
+    "end_char": 1028
   },
   {
     "schema_version": "0.1.0",
@@ -5893,6 +7792,15 @@
     "span": "Instituto",
     "start_char": 1386,
     "end_char": 1395
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:333:term-usage:149-152",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:333",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 149,
+    "end_char": 152
   },
   {
     "schema_version": "0.1.0",
@@ -5932,6 +7840,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:334:term-usage:388-391",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:334",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 388,
+    "end_char": 391
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:335:term-usage:167-176",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:335",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:instituto",
@@ -5947,6 +7864,15 @@
     "span": "Instituto",
     "start_char": 3,
     "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:336:term-usage:167-170",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:336",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 167,
+    "end_char": 170
   },
   {
     "schema_version": "0.1.0",
@@ -5968,6 +7894,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:337:term-usage:730-733",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:337",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 730,
+    "end_char": 733
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:337:term-usage:834-843",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:337",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:instituto",
@@ -5983,6 +7918,15 @@
     "span": "Instituto",
     "start_char": 24,
     "end_char": 33
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:339:term-usage:170-173",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:339",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 170,
+    "end_char": 173
   },
   {
     "schema_version": "0.1.0",
@@ -6013,6 +7957,24 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:339:term-usage:735-738",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:339",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 735,
+    "end_char": 738
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:339:term-usage:899-902",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:339",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 899,
+    "end_char": 902
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:339:term-usage:1124-1135",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:339",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
@@ -6031,12 +7993,84 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:340:term-usage:194-197",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:340",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 194,
+    "end_char": 197
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:article:342:term-usage:73-76",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:article:342",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 73,
+    "end_char": 76
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:article:342:term-usage:242-253",
     "provision_id": "urn:lex-mx:federal:statute:lcm:article:342",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
     "span": "Comerciante",
     "start_char": 242,
     "end_char": 253
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:transitory:primero:term-usage:5-8",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:transitory:primero",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 5,
+    "end_char": 8
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:transitory:segundo:term-usage:13-16",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 13,
+    "end_char": 16
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:transitory:segundo:term-usage:231-234",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 231,
+    "end_char": 234
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:transitory:quinto:term-usage:130-133",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 130,
+    "end_char": 133
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:transitory:quinto:term-usage:165-168",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 165,
+    "end_char": 168
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:transitory:sexto:term-usage:85-88",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 85,
+    "end_char": 88
   },
   {
     "schema_version": "0.1.0",
@@ -6076,12 +8110,39 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:transitory:septimo:term-usage:160-163",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 160,
+    "end_char": 163
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:transitory:septimo:term-usage:335-344",
     "provision_id": "urn:lex-mx:federal:statute:lcm:transitory:septimo",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:instituto",
     "span": "Instituto",
     "start_char": 335,
     "end_char": 344
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:transitory:octavo:term-usage:156-159",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 156,
+    "end_char": 159
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:transitory:noveno:term-usage:67-70",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 67,
+    "end_char": 70
   },
   {
     "schema_version": "0.1.0",
@@ -6094,11 +8155,29 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:transitory:noveno:term-usage:149-152",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 149,
+    "end_char": 152
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcm:transitory:noveno:term-usage:309-313",
     "provision_id": "urn:lex-mx:federal:statute:lcm:transitory:noveno",
     "term_id": "urn:lex-mx:federal:statute:lcm:term:udis",
     "span": "UDIs",
     "start_char": 309,
     "end_char": 313
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:transitory:noveno:term-usage:380-383",
+    "provision_id": "urn:lex-mx:federal:statute:lcm:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "span": "Ley",
+    "start_char": 380,
+    "end_char": 383
   }
 ]

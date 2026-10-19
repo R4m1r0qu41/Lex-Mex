@@ -95,6 +95,17 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:2",
     "fraction": "IX",
     "start_char": 2550,
+    "end_char": 2797,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:term:rendimiento-en-materia-de-seguridad-operacional",
+    "term": "Rendimiento en materia de seguridad operacional",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:2",
+    "fraction": "IX Bis",
+    "start_char": 2797,
     "end_char": 3139,
     "basis": "express_definition"
   },

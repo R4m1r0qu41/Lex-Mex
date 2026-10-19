@@ -18,27 +18,27 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 3
 
-Las solicitudes de autorización para operar como Organismos de Integración deberán presentarse ante la Comisión, por escrito y en duplicado, acompañadas además de la documentación e información que señala el artículo 53 de la Ley, de lo siguiente:
+Las solicitudes de autorización para operar como Organismos de Integración deberán presentarse ante la Comisión, por escrito y en duplicado, acompañadas además de la documentación e información que señala el artículo 53 de la [Ley](articulo-1.md), de lo siguiente:
 
-I. Tratándose de Federaciones:
+I. Tratándose de [Federaciones](articulo-1.md):
 
-a) La documentación que acredite la personalidad y facultades de quien promueve la solicitud, otorgadas por las Sociedades Financieras Populares correspondientes, señalando un domicilio para oír y recibir todo tipo de notificaciones, así como el nombre de la o de las personas autorizadas para tales efectos;
+a) La documentación que acredite la personalidad y facultades de quien promueve la solicitud, otorgadas por las [Sociedades](articulo-1.md) Financieras Populares correspondientes, señalando un domicilio para oír y recibir todo tipo de notificaciones, así como el nombre de la o de las personas autorizadas para tales efectos;
 
 b) La denominación propuesta para la Federación;
 
-c) Curriculum vitae de las personas propuestas como Miembros del Consejo de Administración, Miembros del Consejo de Vigilancia o su equivalente o del Contralor Normativo, incluyendo a los suplentes, e integrantes del Comité de Supervisión;
+c) Curriculum vitae de las personas propuestas como Miembros del [Consejo de Administración](articulo-1.md), Miembros del Consejo de Vigilancia o su equivalente o del [Contralor Normativo](articulo-1.md), incluyendo a los suplentes, e integrantes del Comité de Supervisión;
 
 d) Relación de las personas propuestas como funcionarios, hasta los dos primeros niveles jerárquicos de la estructura organizacional, acompañando el curriculum vitae;
 
-e) Reporte emitido por una Sociedad de Información Crediticia autorizada conforme a la Ley para Regular las Sociedades de Información Crediticia, que contenga antecedentes de por lo menos cinco años anteriores a la fecha en que se pretenda inicie el ejercicio del cargo, o del periodo que comprenda la información con la que, en su caso, cuente la Sociedad de Información Crediticia de que se trate, de las personas señaladas en el inciso c) anterior y del Gerente General, cuya fecha de emisión no exceda de 180 días naturales con relación a la fecha de presentación de los mismos ante la Comisión;
+e) Reporte emitido por una [Sociedad de Información Crediticia](articulo-1.md) autorizada conforme a la Ley para Regular las Sociedades de Información Crediticia, que contenga antecedentes de por lo menos cinco años anteriores a la fecha en que se pretenda inicie el ejercicio del cargo, o del periodo que comprenda la información con la que, en su caso, cuente la Sociedad de Información Crediticia de que se trate, de las personas señaladas en el inciso c) anterior y del Gerente General, cuya fecha de emisión no exceda de 180 días naturales con relación a la fecha de presentación de los mismos ante la Comisión;
 
 f) Certificación expedida a los integrantes del Comité de Supervisión, por una institución especializada reconocida por la Comisión;
 
-g) Nombre del Auditor Legal;
+g) Nombre del [Auditor Legal](articulo-1.md);
 
 h) Descripción de las características del sistema que les permita integrar sus bases de datos para dar seguimiento al comportamiento crediticio de los acreditados de las Sociedades Financieras Populares, la calificación de los riesgos y, en general, su funcionamiento;
 
-i) El nombre de la Confederación a la que pretenda afiliarse, o la indicación de pretender constituirse como no afiliada;
+i) El nombre de la [Confederación](articulo-1.md) a la que pretenda afiliarse, o la indicación de pretender constituirse como no afiliada;
 
 j) Descripción de los servicios de asesoría técnica, legal, financiera y de capacitación y, en general, sobre otros servicios que ofrecerán a sus afiliadas, y
 
@@ -56,7 +56,7 @@ d) Relación de las personas propuestas como funcionarios, hasta los dos primero
 
 e) Reporte emitido por una Sociedad de Información Crediticia autorizada conforme a la Ley para Regular las Sociedades de Información Crediticia, que contenga antecedentes de por lo menos cinco años anteriores a la fecha en que se pretenda inicie el ejercicio del cargo, o del periodo que comprenda la información con la que, en su caso, cuente la Sociedad de Información Crediticia de que se trate, de las personas señaladas en el inciso c) anterior y del Gerente General cuya fecha de emisión no exceda de 180 días naturales con relación a la fecha de presentación de los mismos ante la Comisión;
 
-f) Nombre del Auditor Interno;
+f) Nombre del [Auditor Interno](articulo-1.md);
 
 g) Proyecto del contrato de fideicomiso de administración y garantía, mediante el cual se administrará el Fondo de Protección, y
 

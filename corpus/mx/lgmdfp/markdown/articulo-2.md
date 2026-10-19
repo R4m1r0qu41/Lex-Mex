@@ -23,7 +23,7 @@ I. Establecer la distribución de competencias y la forma de coordinación entre
 
 La [Comisión Nacional de Búsqueda](articulo-4.md) deberá emitir el Protocolo para la activación de la Alerta, el cual deberá establecer como elementos mínimos, el mecanismo para su activación y operación que asegure la coordinación de las autoridades federales y locales, así como las obligaciones específicas de las instituciones competentes; Fracción adicionada DOF 16-07-2025
 
-I Ter. Crear la Base Nacional de Carpetas de Investigación de Personas Desaparecidas y No Localizadas; Fracción adicionada DOF 16-07-2025
+I Ter. Crear la [Base Nacional de Carpetas de Investigación](articulo-4.md) de Personas Desaparecidas y No Localizadas; Fracción adicionada DOF 16-07-2025
 
 II. Establecer los tipos penales en materia de desaparición forzada de personas y desaparición cometida por particulares, y de otros delitos vinculados, sus sanciones, así como las responsabilidades y sanciones en que incurran las autoridades y particulares que incumplan con las obligaciones previstas en esta Ley; Fracción reformada DOF 16-07-2025
 
@@ -33,7 +33,7 @@ IV. Crear la Comisión Nacional de Búsqueda y ordenar la creación de [Comision
 
 V. Garantizar la protección integral de los derechos de las Personas Desaparecidas hasta que se conozca su suerte o paradero; así como la atención, la asistencia, la protección y, en su caso, la reparación integral y las garantías de no repetición, en términos de esta Ley y la legislación aplicable;
 
-V Bis. Crear el Centro Nacional de Identificación Humana como una unidad administrativa, con independencia técnico-científica, adscrita a la Comisión Nacional de Búsqueda; Fracción adicionada DOF 13-05-2022
+V Bis. Crear el [Centro Nacional](articulo-4.md) de Identificación Humana como una unidad administrativa, con independencia técnico-científica, adscrita a la Comisión Nacional de Búsqueda; Fracción adicionada DOF 13-05-2022
 
 VI. Crear el [Registro Nacional](articulo-4.md) de Personas Desaparecidas y No Localizadas, y
 

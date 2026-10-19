@@ -18,6 +18,6 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 211 Bis 6
 
-Las Sociedades Financieras Populares deberán notificar por escrito a la Comisión, a través de formato libre y dentro de los diez días hábiles siguientes a la celebración del contrato respectivo, la denominación del Proveedor de Precios que contraten, anexando copia del contrato de servicios.
+Las [Sociedades](articulo-1.md) Financieras Populares deberán notificar por escrito a la Comisión, a través de formato libre y dentro de los diez días hábiles siguientes a la celebración del contrato respectivo, la denominación del Proveedor de Precios que contraten, anexando copia del contrato de servicios.
 
 En caso de sustitución del Proveedor de Precios, esta deberá notificarse a la Comisión con treinta días naturales de anticipación, utilizando un formato libre y anexando copia del contrato de servicios.

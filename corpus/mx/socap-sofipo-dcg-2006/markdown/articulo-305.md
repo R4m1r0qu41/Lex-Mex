@@ -18,14 +18,14 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 305
 
-El Comité de Protección al Ahorro determinará el monto que corresponde a cada uno de los Cotitulares de una Cuenta Mancomunada, conforme al procedimiento siguiente:
+El Comité de Protección al Ahorro determinará el monto que corresponde a cada uno de los [Cotitulares](articulo-1.md) de una [Cuenta Mancomunada](articulo-1.md), conforme al procedimiento siguiente:
 
 I. Se dividirá el monto total de la Cuenta Mancomunada, en proporción al porcentaje establecido expresamente y por escrito por los Cotitulares en la documentación que ampare la operación de que se trate, y
 
 II. En el supuesto de que no se haya establecido un porcentaje según se señala en la fracción inmediata anterior, se dividirá el monto total de la Cuenta Mancomunada en tantas partes iguales como Cotitulares existan.
 
-En ambos supuestos deberá descontarse del monto que corresponda a cada uno de los Cotitulares, los saldos insolutos de los préstamos o créditos que, en su caso, se tengan con la Sociedad Financiera Popular de conformidad con lo previsto por el artículo [303](articulo-303.md) de las presentes disposiciones.
+En ambos supuestos deberá descontarse del monto que corresponda a cada uno de los Cotitulares, los saldos insolutos de los préstamos o créditos que, en su caso, se tengan con la [Sociedad](articulo-1.md) Financiera Popular de conformidad con lo previsto por el artículo [303](articulo-303.md) de las presentes disposiciones.
 
 La Sociedad Financiera Popular tomará como referencia los documentos que, en su caso, se presenten en términos del artículo [309](articulo-309.md) de estas disposiciones, para efectos de comprobar que se trata de una Cuenta Mancomunada y determinar el monto correspondiente a cada uno de los Cotitulares de esta.
 
-Con independencia del número de Cuentas Mancomunadas en las que un Interesado tenga la calidad de Cotitular, en ningún caso el monto a pagar a cada persona podrá exceder el límite señalado en el artículo 105 de la Ley.
+Con independencia del número de Cuentas Mancomunadas en las que un [Interesado](articulo-1.md) tenga la calidad de Cotitular, en ningún caso el monto a pagar a cada persona podrá exceder el límite señalado en el artículo 105 de la [Ley](articulo-1.md).

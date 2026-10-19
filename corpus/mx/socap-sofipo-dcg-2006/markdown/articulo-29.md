@@ -18,4 +18,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 29
 
-Las Sociedades Financieras Populares, a fin de realizar cualquiera de las operaciones previstas en la Ley y en el presente Título, en términos distintos a los aquí señalados, deberán contar con la previa autorización de la Comisión, para lo cual deberán presentar su respectiva solicitud de autorización con opinión favorable de la Federación que las supervise auxiliarmente.
+Las [Sociedades](articulo-1.md) Financieras Populares, a fin de realizar cualquiera de las operaciones previstas en la [Ley](articulo-1.md) y en el presente Título, en términos distintos a los aquí señalados, deberán contar con la previa autorización de la Comisión, para lo cual deberán presentar su respectiva solicitud de autorización con opinión favorable de la [Federación](articulo-1.md) que las supervise auxiliarmente.

@@ -17,7 +17,7 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 32
 
-El Consejo de Administración tendrá las atribuciones y obligaciones siguientes:
+El [Consejo de Administración](articulo-1.md) tendrá las atribuciones y obligaciones siguientes:
 
 I. Definir los lineamientos de control interno para el manejo prudente de la Sociedad, para lo cual deberá aprobar y revisar al menos cada 2 años el manual de control interno y el manual de crédito de la Sociedad. Adicionalmente, será el responsable de definir y aprobar los lineamientos, políticas y objetivos de la Sociedad.
 
@@ -25,11 +25,11 @@ Al respecto, en el manual de control interno deberá señalarse lo dispuesto por
 
 Asimismo, en el manual de crédito deberán establecerse los límites respecto al otorgamiento de préstamos o créditos, incluyendo el crédito neto que pueda otorgar la Sociedad y la proporción de la cartera otorgada a un solo pago de capital; así como el tipo de acreditados y de productos crediticios que ofrecerá la Sociedad.
 
-II. Aprobar el código de ética. Para tales efectos, podrá delegar esta función en un comité de apoyo integrado por el Director o Gerente General y por personas especializadas internas o externas, que designe el Consejo.
+II. Aprobar el código de ética. Para tales efectos, podrá delegar esta función en un comité de apoyo integrado por el [Director o Gerente General](articulo-1.md) y por personas especializadas internas o externas, que designe el Consejo.
 
-III. Aprobar la estructura orgánica de la Sociedad y vigilar el cumplimiento de las medidas correctivas que se deriven de los informes que emita el Consejo de Vigilancia.
+III. Aprobar la estructura orgánica de la Sociedad y vigilar el cumplimiento de las medidas correctivas que se deriven de los informes que emita el [Consejo de Vigilancia](articulo-1.md).
 
-IV. Nombrar al Auditor Interno de la Sociedad, así como al responsable para que documente en manuales, las políticas y procedimientos relativos a las operaciones propias de su objeto, las cuales deberán guardar congruencia con los lineamientos, políticas y objetivos establecidos por el mismo Consejo y concluidos los manuales correspondientes se envíen para autorización del mismo.
+IV. Nombrar al [Auditor Interno](articulo-1.md) de la Sociedad, así como al responsable para que documente en manuales, las políticas y procedimientos relativos a las operaciones propias de su objeto, las cuales deberán guardar congruencia con los lineamientos, políticas y objetivos establecidos por el mismo Consejo y concluidos los manuales correspondientes se envíen para autorización del mismo.
 
 V. Aprobar las políticas y procedimientos para la contratación de servicios con personas morales con las que la Sociedad mantenga vínculos patrimoniales, así como asegurarse de que tales operaciones se pacten en condiciones de mercado.
 

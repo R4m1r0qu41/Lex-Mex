@@ -17,4 +17,4 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 150
 
-El Comité de Riesgos podrá ajustar o, en su caso, autorizar se excedan los límites de exposición a riesgo, cuando las condiciones y el entorno de la Sociedad así lo requiera, informando al Consejo de Administración oportunamente sobre el ejercicio de las facultades a que se hace mención.
+El [Comité de Riesgos](articulo-1.md) podrá ajustar o, en su caso, autorizar se excedan los límites de exposición a riesgo, cuando las condiciones y el entorno de la Sociedad así lo requiera, informando al [Consejo de Administración](articulo-1.md) oportunamente sobre el ejercicio de las facultades a que se hace mención.

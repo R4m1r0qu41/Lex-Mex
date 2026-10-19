@@ -20,7 +20,7 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 El personal responsable de la administración de riesgos, realizará cuando menos las funciones que se indican a continuación:
 
-I. Elaborar, en conjunto con el Director o Gerente General, el manual de administración de riesgos para someterlo a la aprobación del Consejo de Administración.
+I. Elaborar, en conjunto con el [Director o Gerente General](articulo-1.md), el manual de administración de riesgos para someterlo a la aprobación del [Consejo de Administración](articulo-1.md).
 
 II. Vigilar, limitar, controlar, informar y revelar los riesgos a que se encuentre expuesta la Sociedad.
 
@@ -34,6 +34,6 @@ V. Informar al Director o Gerente General, así como al Consejo de Administraci�
 
 VI. Recomendar al Director o Gerente General y a los responsables de las unidades de negocios, disminuir la exposición al riesgo a los límites previamente aprobados por el Consejo de Administración.
 
-VII. Dar opinión al Consejo de Administración sobre la realización de nuevas operaciones, productos o servicios, o bien para modificar los ya existentes, previo cumplimiento a lo establecido en el Artículo 67 de la Ley.
+VII. Dar opinión al Consejo de Administración sobre la realización de nuevas operaciones, productos o servicios, o bien para modificar los ya existentes, previo cumplimiento a lo establecido en el Artículo 67 de la [Ley](articulo-1.md).
 
-Las Sociedades estarán exceptuadas de contar con un Comité de Riesgos.
+Las Sociedades estarán exceptuadas de contar con un [Comité de Riesgos](articulo-1.md).

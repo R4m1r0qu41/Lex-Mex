@@ -17,6 +17,6 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 246
 
-La supervisión auxiliar de las Sociedades será ejercida por el Comité de Supervisión Auxiliar.
+La supervisión auxiliar de las Sociedades será ejercida por el [Comité de Supervisión Auxiliar](articulo-1.md).
 
-El Comité de Supervisión Auxiliar deberá elaborar y someter a la aprobación de la Comisión, el manual de supervisión auxiliar que contendrá las políticas, lineamientos e indicadores mínimos de supervisión para llevar a cabo el proceso de dicha supervisión, observando lo dispuesto en el presente capítulo.
+El Comité de Supervisión Auxiliar deberá elaborar y someter a la aprobación de la [Comisión](articulo-1.md), el manual de supervisión auxiliar que contendrá las políticas, lineamientos e indicadores mínimos de supervisión para llevar a cabo el proceso de dicha supervisión, observando lo dispuesto en el presente capítulo.

@@ -19,4 +19,4 @@ source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 
 Se considerará que se han realizado todos los bienes del activo, aun cuando quede parte de éste, si el síndico demuestra al juez que carecen de valor económico, o si el valor que tienen resultare inferior a las cargas que pesan sobre ellos o a los gastos necesarios para su enajenación.
 
-En estos casos el juez, oyendo a los interventores conforme al procedimiento establecido en el artículo [76](articulo-76.md) de esta Ley, decidirá sobre el destino que se dará a estos bienes.
+En estos casos el juez, oyendo a los interventores conforme al procedimiento establecido en el artículo [76](articulo-76.md) de esta [Ley](articulo-4o.md), decidirá sobre el destino que se dará a estos bienes.

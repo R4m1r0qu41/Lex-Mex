@@ -17,7 +17,7 @@ source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 
 # Artículo 219
 
-Para los efectos de esta Ley, son acreedores con garantía real, siempre que sus garantías estén debidamente constituidas conforme a las disposiciones que resulten aplicables, los siguientes:
+Para los efectos de esta [Ley](articulo-4o.md), son acreedores con garantía real, siempre que sus garantías estén debidamente constituidas conforme a las disposiciones que resulten aplicables, los siguientes:
 
 I. Los hipotecarios, y
 

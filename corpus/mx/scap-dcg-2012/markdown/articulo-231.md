@@ -19,7 +19,7 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 La clasificación de las Sociedades en categorías se llevará a cabo de conformidad con lo siguiente:
 
-I. Serán clasificadas en la categoría 1, las Sociedades que presenten un Nivel de Capitalización igual o superior al 150 por ciento.
+I. Serán clasificadas en la categoría 1, las Sociedades que presenten un [Nivel de Capitalización](articulo-1.md) igual o superior al 150 por ciento.
 
 II. Serán clasificadas en la categoría 2, las Sociedades que presenten un Nivel de Capitalización igual o mayor al 100 por ciento y menor al 150 por ciento.
 

@@ -17,7 +17,7 @@ source_sha256: 62420210c5aaffe687daf130a64ff506009625340c554bfb36d2f1b5dcac0192
 
 # Artículo 25
 
-Para efectos de la integración del Registro, así como para posibilitar la transferencia de información de su base de datos hacia otras Dependencias, la [Secretaría](../../lgcc/markdown/articulo-3o.md) podrá suscribir convenios de colaboración o de coordinación con otras dependencias o entidades de la Administración Pública Federal o con las autoridades competentes de las entidades federativas.
+Para efectos de la integración del [Registro](../../lgcc/markdown/articulo-3o.md), así como para posibilitar la transferencia de información de su base de datos hacia otras Dependencias, la [Secretaría](../../lgcc/markdown/articulo-3o.md) podrá suscribir convenios de colaboración o de coordinación con otras dependencias o entidades de la Administración Pública Federal o con las autoridades competentes de las entidades federativas.
 
 Los convenios tendrán por objeto, entre otros:
 

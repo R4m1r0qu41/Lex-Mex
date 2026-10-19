@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 265 Bis 40
 
-Las Sociedades Financieras Populares, en la realización de las operaciones a que se refiere esta sección a través de comisionistas, deberán sujetarse a los límites siguientes:
+Las [Sociedades](articulo-1.md) Financieras Populares, en la realización de las operaciones a que se refiere esta sección a través de comisionistas, deberán sujetarse a los límites siguientes:
 
 I. Tratándose de las operaciones a que se refiere la fracción III del artículo [265 Bis 36](articulo-265-Bis-36.md) de las presentes disposiciones, por comisionista, no podrán exceder de un monto diario equivalente en moneda nacional a 1,500 UDIs, por cada tipo de inversión y cuenta.
 
@@ -28,9 +28,9 @@ a) De un monto diario equivalente en moneda nacional a 4,000 UDIs, por cuenta.
 
 b) De un monto mensual equivalente al 50 por ciento del importe total de las operaciones realizadas en el período por la Sociedad Financiera Popular de que se trate. El límite a que se refiere el presente inciso, será de 65 por ciento, durante los primeros dieciocho meses de operación con el comisionista.
 
-Para calcular dicho límite, deberá obtenerse la captación tradicional mensual promedio registrada en los últimos 12 meses en la propia Sociedad Financiera Popular, considerando al efecto el importe total de las operaciones realizadas en el período, para lo cual, deberán sumarse mensualmente los abonos correspondientes a las cuentas de depósitos de exigibilidad inmediata y a plazo efectuados en cada mes, dividiéndose el resultado de dicha suma entre 12. La captación mensual promedio se calculará con base en la información contenida en el formulario de reporte regulatorio R26, C-2613 “Desagregado de seguimiento de operaciones de comisionistas” contenido en el Anexo N de las presentes disposiciones. El citado límite será aplicable una vez transcurridos 12 meses contados a partir de que la Comisión hubiese autorizado a la Sociedad Financiera Popular de que se trate, el inicio de operaciones en términos de la Ley.
+Para calcular dicho límite, deberá obtenerse la captación tradicional mensual promedio registrada en los últimos 12 meses en la propia Sociedad Financiera Popular, considerando al efecto el importe total de las operaciones realizadas en el período, para lo cual, deberán sumarse mensualmente los abonos correspondientes a las cuentas de depósitos de exigibilidad inmediata y a plazo efectuados en cada mes, dividiéndose el resultado de dicha suma entre 12. La captación mensual promedio se calculará con base en la información contenida en el formulario de reporte regulatorio R26, C-2613 “Desagregado de seguimiento de operaciones de comisionistas” contenido en el Anexo N de las presentes disposiciones. El citado límite será aplicable una vez transcurridos 12 meses contados a partir de que la Comisión hubiese autorizado a la Sociedad Financiera Popular de que se trate, el inicio de operaciones en términos de la [Ley](articulo-1.md).
 
-Para efectos de la determinación del monto a que se refiere el presente inciso, se considerará como un mismo comisionista a aquellas personas que integren un Grupo empresarial.
+Para efectos de la determinación del monto a que se refiere el presente inciso, se considerará como un mismo comisionista a aquellas personas que integren un [Grupo empresarial](articulo-1.md).
 
 Para efectos de lo previsto en el presente artículo se entenderá por Grupo empresarial, al conjunto de personas morales organizadas bajo esquemas de participación directa o indirecta del capital social, en las que una misma sociedad mantiene el control de dichas personas morales. Asimismo, se considerarán como Grupo empresarial a los grupos financieros constituidos conforme a la Ley para Regular las Agrupaciones Financieras.
 

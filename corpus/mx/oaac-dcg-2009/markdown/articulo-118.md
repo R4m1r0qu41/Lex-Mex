@@ -18,7 +18,7 @@ source_sha256: 8ac502b97188bd6e795781e9821be6e62ccdd8050cdd3be74aab52a888e67939
 
 # Artículo 118
 
-El Comité de Auditoría, en adición a lo señalado en el [artículo anterior](articulo-117.md), deberá proponer para aprobación del [Consejo](articulo-1.md), lo siguiente:
+El [Comité de Auditoría](articulo-1.md), en adición a lo señalado en el [artículo anterior](articulo-117.md), deberá proponer para aprobación del [Consejo](articulo-1.md), lo siguiente:
 
 I. La designación del auditor interno de la unión de crédito.
 

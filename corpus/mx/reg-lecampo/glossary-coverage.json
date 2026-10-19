@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lecampo",
   "source_sha256": "8804184956ffcb703bb0a96aa95542e971c0b1e257c9c689db82f566d4bded4c",
   "extracted_text_sha256": "86ccf3cc3cb651295d794eabfbe8e424aafef28880c4e9240ce35e0a1b5bce60",
@@ -18,6 +18,7 @@
         "V",
         "VI"
       ],
+      "unread_fractions": [],
       "term_count": 6
     }
   ],

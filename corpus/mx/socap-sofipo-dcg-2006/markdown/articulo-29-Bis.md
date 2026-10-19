@@ -18,4 +18,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 29 Bis
 
-Las Sociedades Financieras Populares podrán ceder cartera de crédito, a través de un fideicomiso cuya finalidad sea la emisión de valores con cargo al patrimonio fideicomitido constituido por los activos de la cartera crediticia cedida.
+Las [Sociedades](articulo-1.md) Financieras Populares podrán ceder cartera de crédito, a través de un fideicomiso cuya finalidad sea la emisión de valores con cargo al patrimonio fideicomitido constituido por los activos de la cartera crediticia cedida.

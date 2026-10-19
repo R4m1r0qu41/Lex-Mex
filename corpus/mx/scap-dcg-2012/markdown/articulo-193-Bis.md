@@ -26,7 +26,7 @@ a) Límite máximo de financiamiento
 
 El límite máximo de financiamiento que se podrá otorgar a una persona será el siguiente:
 
-1. Tratándose de Socios personas físicas, la suma de los financiamientos otorgados a un Socio, o grupo de Socios que sean parte de un mismo grupo de “Riesgo Común”, no podrá exceder del 10 por ciento del capital neto de la Sociedad.
+1. Tratándose de [Socios](articulo-1.md) personas físicas, la suma de los financiamientos otorgados a un Socio, o grupo de Socios que sean parte de un mismo grupo de “Riesgo Común”, no podrá exceder del 10 por ciento del capital neto de la Sociedad.
 
 2. Tratándose de Socios personas morales, la suma de los financiamientos otorgados a un Socio, o grupo de Socios que sean parte de un mismo grupo de “Riesgo Común”, no podrá exceder del 15 por ciento del capital neto de la Sociedad.
 
@@ -34,13 +34,13 @@ El límite máximo de financiamiento que se podrá otorgar a una persona será e
 
 95 Inciso reformado mediante Resolución publicada en el Diario Oficial de la Federación el 09 de abril de 2024, cuya entrada en vigor fue diferida al 1 de enero de 2027, en términos de la Resolución modificatoria publicada en el Diario Oficial de la Federación el 27 de diciembre de 2025, por lo que dicha reforma no se encuentra reflejada en el texto vigente.
 
-su capital neto, en términos de lo dispuesto por el inciso h) de la fracción I del artículo 19 de la Ley y el Capítulo I del Título tercero de las presentes disposiciones.
+su capital neto, en términos de lo dispuesto por el inciso h) de la fracción I del artículo 19 de la [Ley](articulo-1.md) y el Capítulo I del Título tercero de las presentes disposiciones.
 
 4. Tratándose de sociedades cooperativas a las que se refiere la fracción I y II del artículo [21](../../lgsc/markdown/articulo-21.md) de la Ley General de Sociedades Cooperativas, la suma de los financiamientos otorgados a un Socio, o grupo de Socios que sean parte de un mismo grupo de “Riesgo Común”, no podrá exceder del 20 por ciento del capital neto de la Sociedad Cooperativa de Ahorro y Préstamo acreditante.
 
-5. Tratándose de Microcréditos Productivos el importe máximo que las Sociedades podrán entregar a un Socio de manera directa, no podrá exceder de 12,000 UDIS, mientras que para el caso de grupos de Socios que contraten mancomunadamente un Microcrédito Productivo, el monto máximo que las Sociedades podrán otorgar será de 20,000 UDIS al grupo de Socios, siendo el máximo por cada Socio el equivalente a 2,500 UDIS por cada uno de los Socios que integren el grupo. Se deberá considerar el valor de la UDI a la fecha de la concertación del Microcrédito Productivo.
+5. Tratándose de [Microcréditos Productivos](articulo-1.md) el importe máximo que las Sociedades podrán entregar a un Socio de manera directa, no podrá exceder de 12,000 UDIS, mientras que para el caso de grupos de Socios que contraten mancomunadamente un Microcrédito Productivo, el monto máximo que las Sociedades podrán otorgar será de 20,000 UDIS al grupo de Socios, siendo el máximo por cada Socio el equivalente a 2,500 UDIS por cada uno de los Socios que integren el grupo. Se deberá considerar el valor de la [UDI](articulo-1.md) a la fecha de la concertación del Microcrédito Productivo.
 
-Sin perjuicio de lo anterior, la Comisión podrá autorizar límites hasta dos veces mayores a los establecidos en el párrafo anterior, siempre que las Sociedades acrediten la eficiencia de la gestión del Microcrédito Productivo, así como la adecuación de su proceso crediticio y sus políticas de administración de riesgos.
+Sin perjuicio de lo anterior, la [Comisión](articulo-1.md) podrá autorizar límites hasta dos veces mayores a los establecidos en el párrafo anterior, siempre que las Sociedades acrediten la eficiencia de la gestión del Microcrédito Productivo, así como la adecuación de su proceso crediticio y sus políticas de administración de riesgos.
 
 b) Financiamiento
 
@@ -48,9 +48,9 @@ Para efectos de lo dispuesto por el presente Capítulo, se entenderá por financ
 
 No se considerarán como financiamiento, los créditos hipotecarios relacionados con viviendas cuyo monto no exceda el equivalente en moneda nacional a 50,000 UDIS a la fecha de su concertación, así como los que se utilicen para la adquisición de bienes de consumo duradero y los personales que se destinen al consumo, que otorguen las Sociedades, cuyo monto no exceda el equivalente en moneda nacional a 10,000 UDIS a la fecha de su concertación.
 
-Asimismo, las inversiones en títulos bancarios realizadas por las Sociedades Cooperativas de Ahorro y Préstamo en instituciones de crédito, así como las inversiones en valores de sociedades de inversión en instrumentos de deuda, no se computarán para el límite máximo de financiamiento cuando el emisor del instrumento financiero o el propio instrumento, cuente con una calificación igual o superior a 'AA-' en escala local o su equivalente en escala global, otorgada por una Institución Calificadora de Valores. Las Sociedades Cooperativas de Ahorro y Préstamo deberán establecer en sus manuales, la forma en que elegirán la calificación de las inversiones realizadas a que se refiere este párrafo, cuando se cuente con calificación del emisor y del instrumento.
+Asimismo, las inversiones en títulos bancarios realizadas por las Sociedades Cooperativas de Ahorro y Préstamo en instituciones de crédito, así como las inversiones en valores de sociedades de inversión en instrumentos de deuda, no se computarán para el límite máximo de financiamiento cuando el emisor del instrumento financiero o el propio instrumento, cuente con una calificación igual o superior a 'AA-' en escala local o su equivalente en escala global, otorgada por una [Institución Calificadora de Valores](articulo-1.md). Las Sociedades Cooperativas de Ahorro y Préstamo deberán establecer en sus manuales, la forma en que elegirán la calificación de las inversiones realizadas a que se refiere este párrafo, cuando se cuente con calificación del emisor y del instrumento.
 
-En adición a lo establecido en el párrafo anterior, las inversiones en Valores Gubernamentales realizadas por las Sociedades Cooperativas de Ahorro y Préstamo no serán consideradas dentro del mencionado límite, con independencia de la contraparte con la que se efectúe la operación.
+En adición a lo establecido en el párrafo anterior, las inversiones en [Valores Gubernamentales](articulo-1.md) realizadas por las Sociedades Cooperativas de Ahorro y Préstamo no serán consideradas dentro del mencionado límite, con independencia de la contraparte con la que se efectúe la operación.
 
 c) Riesgo Común
 
@@ -66,7 +66,7 @@ i. Las personas físicas o morales que, individualmente o en su conjunto, sean p
 
 ii. Las personas morales que pertenezcan al mismo grupo empresarial;
 
-iii. Los consejeros y el Director o Gerente General de la persona moral acreditada.
+iii. Los consejeros y el [Director o Gerente General](articulo-1.md) de la persona moral acreditada.
 
 iv. Las personas físicas que actualicen los supuestos del numeral 1 del presente inciso con alguna de las personas físicas que formen parte del grupo de “Riesgo Común” de la persona moral acreditada.
 
@@ -102,4 +102,4 @@ No les será aplicable este criterio a los pasivos contraídos con los fideicomi
 
 III. Excepciones.
 
-La Comisión, a solicitud de la Sociedad interesada, acompañada de la opinión del Comité de Supervisión Auxiliar, podrá autorizar en casos excepcionales, operaciones específicas por montos superiores a los límites señalados en la fracción I inciso a) numeral 4 de este artículo.
+La Comisión, a solicitud de la Sociedad interesada, acompañada de la opinión del [Comité de Supervisión Auxiliar](articulo-1.md), podrá autorizar en casos excepcionales, operaciones específicas por montos superiores a los límites señalados en la fracción I inciso a) numeral 4 de este artículo.

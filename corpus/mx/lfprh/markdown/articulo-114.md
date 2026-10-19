@@ -29,7 +29,7 @@ IV. Cuando por razón de la naturaleza de sus funciones tengan conocimiento de q
 
 V. Distraigan de su objeto dinero o valores, para usos propios o ajenos, si por razón de sus funciones los hubieren recibido en administración, depósito o por otra causa;
 
-VI. Incumplan con la obligación de proporcionar en tiempo y forma la información requerida por la [Secretaría](articulo-2.md) y la Función Pública, en el ámbito de sus respectivas competencias;
+VI. Incumplan con la obligación de proporcionar en tiempo y forma la información requerida por la [Secretaría](articulo-2.md) y la [Función Pública](articulo-2.md), en el ámbito de sus respectivas competencias;
 
 VII. Incumplan con la obligación de proporcionar información al Congreso de la Unión en los términos de esta Ley y otras disposiciones aplicables;
 

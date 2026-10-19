@@ -17,4 +17,4 @@ source_sha256: 1d398a90955ef45ccb7baf4d56534c676cde8325e8b109c4d32120909e783694
 
 # Artículo 69
 
-Los recursos del Fondo serán administrados a través de un fideicomiso público. La administración del Fondo deberá permitir la identificación de los distintos conceptos que lo integran, los cuales serán materia del contrato que para tal efecto se lleven a cabo y de las Reglas de Operación que se emitan respecto del mismo.
+Los recursos del Fondo serán administrados a través de un fideicomiso público. La administración del Fondo deberá permitir la identificación de los distintos conceptos que lo integran, los cuales serán materia del contrato que para tal efecto se lleven a cabo y de las [Reglas de Operación](articulo-2.md) que se emitan respecto del mismo.

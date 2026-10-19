@@ -25,7 +25,7 @@ II. Archivo Electrónico: Información contenida en texto, imagen, audio o video
 
 III. Boletín Jurisdiccional: Medio de comunicación oficial electrónico, a través del cual el Tribunal da a conocer las actuaciones o resoluciones en los juicios contenciosos administrativos federales que se tramitan ante el mismo. Fracción reformada DOF 10-12-2010, 13-06-2016
 
-III Bis. Aviso electrónico: Mensaje enviado a la dirección de correo electrónico de las partes de que se realizará una notificación por Boletín Jurisdiccional. Fracción adicionada DOF 13-06-2016
+III Bis. Aviso electrónico: Mensaje enviado a la dirección de correo electrónico de las partes de que se realizará una notificación por [Boletín Jurisdiccional](articulo-1-A.md). Fracción adicionada DOF 13-06-2016
 
 IV. Clave de acceso: Conjunto único de caracteres alfanuméricos asignados por el [Sistema de Justicia en Línea](articulo-1-A.md) del Tribunal a las partes, como medio de identificación de las personas facultadas en el juicio en que promuevan para utilizar el Sistema, y asignarles los privilegios de consulta del expediente respectivo o envío vía electrónica de promociones relativas a las actuaciones procesales con el uso de la firma electrónica avanzada en un procedimiento contencioso administrativo.
 

@@ -18,7 +18,7 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 17 Bis 34
 
-Las Sociedades podrán contratar con terceros, incluyendo a otras entidades financieras, la prestación de servicios necesarios para su operación, así como comisiones para realizar las operaciones previstas en el Artículo 19 de la Ley de acuerdo a su Nivel de Operaciones de conformidad con dicho artículo, con sujeción a lo señalado en el presente capítulo.
+Las Sociedades podrán contratar con terceros, incluyendo a otras entidades financieras, la prestación de servicios necesarios para su operación, así como comisiones para realizar las operaciones previstas en el Artículo 19 de la [Ley](articulo-1.md) de acuerdo a su Nivel de Operaciones de conformidad con dicho artículo, con sujeción a lo señalado en el presente capítulo.
 
 Las disposiciones del presente capítulo, no serán aplicables cuando las Sociedades contraten los servicios que se indican a continuación:
 
@@ -40,6 +40,6 @@ VIII. El procesamiento de operaciones crediticias en su fase de promoción y eva
 
 IX. Recepción de pagos de contribuciones federales, estatales, municipales y las correspondientes al Distrito Federal, en efectivo o con cargo a tarjetas de crédito o débito.
 
-No obstante lo anterior, tanto en los servicios referidos en las fracciones anteriores como en aquellos que se regulan en el presente capítulo, las Sociedades deberán cuidar en todo momento que las personas que les proporcionen los servicios, guarden la debida confidencialidad de la información relativa a las operaciones activas, pasivas y de servicios celebradas con sus Socios, así como la relativa a estos últimos, en caso de tener acceso a ella.
+No obstante lo anterior, tanto en los servicios referidos en las fracciones anteriores como en aquellos que se regulan en el presente capítulo, las Sociedades deberán cuidar en todo momento que las personas que les proporcionen los servicios, guarden la debida confidencialidad de la información relativa a las operaciones activas, pasivas y de servicios celebradas con sus [Socios](articulo-1.md), así como la relativa a estos últimos, en caso de tener acceso a ella.
 
 Asimismo, las citadas Sociedades deberán mantener los datos de las personas que les proporcionen los servicios mencionados en el primero y segundo párrafos de este artículo, en el padrón a que se refiere el Artículo [17 Bis 50](articulo-17-Bis-50.md) de las presentes disposiciones.

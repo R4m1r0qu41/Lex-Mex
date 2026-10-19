@@ -21,7 +21,7 @@ Podrán solicitar simultáneamente la declaración judicial conjunta de concurso
 
 Tratándose de Comerciantes integrantes de un grupo que se encuentren en el mismo supuesto del párrafo inmediato anterior, su acreedor o acreedores podrán demandar la declaración judicial conjunta de concurso mercantil de uno o varios de éstos.
 
-En los casos previstos en este artículo, la solicitud o demanda de declaración conjunta de concurso mercantil se sustanciará bajo un mismo procedimiento, pudiendo designar el juez a un solo visitador, conciliador o síndico para los efectos de esta Ley, si así resulta conveniente para los fines del procedimiento.
+En los casos previstos en este artículo, la solicitud o demanda de declaración conjunta de concurso mercantil se sustanciará bajo un mismo procedimiento, pudiendo designar el juez a un solo visitador, conciliador o síndico para los efectos de esta [Ley](articulo-4o.md), si así resulta conveniente para los fines del procedimiento.
 
 Los procedimientos de declaración conjunta de concurso mercantil podrán acumularse con otros procesos de concurso mercantil conforme a lo dispuesto en el artículo [15](articulo-15.md).
 

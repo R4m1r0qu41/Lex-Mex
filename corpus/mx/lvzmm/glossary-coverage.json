@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:statute:lvzmm",
   "source_sha256": "d9ffbbf8f19b54a93ff577abb1266e4be1316d935e79fad655242955fd80ff70",
   "extracted_text_sha256": "4e04881ca17d61269a33c55691aa0694588ae2f1fdd19be635ec7cda864edd65",

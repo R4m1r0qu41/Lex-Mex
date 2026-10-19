@@ -17,4 +17,4 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 18
 
-Las Sociedades, en términos de lo previsto por el Artículo 19, fracción I, inciso h) de la Ley, podrán solicitar al Comité Técnico del Fondo de Protección les autorice el otorgamiento de préstamos de liquidez con cargo al patrimonio de una o más Sociedades, proponiendo al efecto el monto, destino, plazo, intereses, garantías y demás características de la operación de que se trate y, siempre que se ajusten a lo previsto en los lineamientos a que se refiere el Artículo [19](articulo-19.md) siguiente.
+Las Sociedades, en términos de lo previsto por el Artículo 19, fracción I, inciso h) de la [Ley](articulo-1.md), podrán solicitar al [Comité Técnico](articulo-1.md) del [Fondo de Protección](articulo-1.md) les autorice el otorgamiento de préstamos de liquidez con cargo al patrimonio de una o más Sociedades, proponiendo al efecto el monto, destino, plazo, intereses, garantías y demás características de la operación de que se trate y, siempre que se ajusten a lo previsto en los lineamientos a que se refiere el Artículo [19](articulo-19.md) siguiente.

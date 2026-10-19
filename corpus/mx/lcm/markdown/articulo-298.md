@@ -23,7 +23,7 @@ I. Suspender toda medida de ejecución contra los bienes del Comerciante;
 
 II. Que la persona nombrada por el [Instituto](articulo-4o.md) pueda designar al administrador o ejecutor de todos o de parte de los bienes del Comerciante que se encuentren en el territorio nacional, para proteger y preservar el valor de aquellos que, por su naturaleza o por circunstancias concurrentes, sean perecederos, susceptibles de depreciación, o estén amenazados por cualquier otra causa, pudiendo dicha designación recaer en el Representante Extranjero, y
 
-III. Aplicar cualquiera de las medidas previstas en las fracciones III, IV y VI del párrafo primero del artículo [300](articulo-300.md) de esta Ley.
+III. Aplicar cualquiera de las medidas previstas en las fracciones III, IV y VI del párrafo primero del artículo [300](articulo-300.md) de esta [Ley](articulo-4o.md).
 
 Para la adopción de las medidas precautorias a que se refiere este artículo, se deberán observar, en lo que sea procedente, las disposiciones del presente ordenamiento relativas a las medidas precautorias.
 

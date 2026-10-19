@@ -18,9 +18,9 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 265 Bis 46
 
-La contratación de los servicios o las comisiones a que se refiere el presente capítulo es sin perjuicio de que las operaciones activas, pasivas y de servicios que celebren las Sociedades Financieras Populares al amparo de dichos contratos se ajusten a las disposiciones aplicables.
+La contratación de los servicios o las comisiones a que se refiere el presente capítulo es sin perjuicio de que las operaciones activas, pasivas y de servicios que celebren las [Sociedades](articulo-1.md) Financieras Populares al amparo de dichos contratos se ajusten a las disposiciones aplicables.
 
-El Director o Gerente General de la Sociedad Financiera Popular de que se trate, será responsable de dar seguimiento a la aplicación de las políticas a que se refiere el artículo [265 Bis 35](articulo-265-Bis-35.md), fracción VII, de rendir ante la Comisión el informe anual previsto en el artículo [265 Bis 37](articulo-265-Bis-37.md), así como de presentar el aviso señalado en el artículo [265 Bis 43](articulo-265-Bis-43.md), todos de estas disposiciones.
+El [Director o Gerente General](articulo-1.md) de la Sociedad Financiera Popular de que se trate, será responsable de dar seguimiento a la aplicación de las políticas a que se refiere el artículo [265 Bis 35](articulo-265-Bis-35.md), fracción VII, de rendir ante la Comisión el informe anual previsto en el artículo [265 Bis 37](articulo-265-Bis-37.md), así como de presentar el aviso señalado en el artículo [265 Bis 43](articulo-265-Bis-43.md), todos de estas disposiciones.
 
 Asimismo, dicha contratación no exime a las Sociedades Financieras Populares, ni a sus directivos, delegados fiduciarios, demás empleados o representantes, así como a las personas que ostenten cualquier empleo, cargo o comisión otorgado por la propia sociedad, de la obligación de observar estrictamente lo establecido en las leyes y disposiciones de carácter general o prudencial que de ellas deriven.
 

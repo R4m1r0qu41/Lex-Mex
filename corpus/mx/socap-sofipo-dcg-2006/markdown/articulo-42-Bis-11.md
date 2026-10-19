@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 42 Bis 11
 
-Las Sociedades Financieras Populares, para calcular las estimaciones preventivas para riesgo de crédito, podrán ajustar el valor de la Severidad de la Pérdida considerando las garantías financieras que cumplan con lo establecido en el Anexo D Bis, fracción I de las presentes disposiciones, de conformidad con lo siguiente:
+Las [Sociedades](articulo-1.md) Financieras Populares, para calcular las estimaciones preventivas para riesgo de crédito, podrán ajustar el valor de la Severidad de la Pérdida considerando las garantías financieras que cumplan con lo establecido en el Anexo D Bis, fracción I de las presentes disposiciones, de conformidad con lo siguiente:
 
 I. La Severidad de la Pérdida ajustada por garantías financieras (SP*) corresponderá a:
 

@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 265 Bis 39
 
-Las Sociedades Financieras Populares en la realización de cualquiera de las operaciones a que se refiere el artículo [265 Bis 36](articulo-265-Bis-36.md) de las presentes disposiciones, deberán ajustarse a lo siguiente:
+Las [Sociedades](articulo-1.md) Financieras Populares en la realización de cualquiera de las operaciones a que se refiere el artículo [265 Bis 36](articulo-265-Bis-36.md) de las presentes disposiciones, deberán ajustarse a lo siguiente:
 
 I. Celebrarán un contrato de depósito con el comisionista. Al efecto, la Sociedad Financiera Popular podrá otorgar al propio comisionista, una línea de crédito que permita proveer de fondos a la citada cuenta de depósito, cuando resulte necesario y de acuerdo a las políticas de la propia Sociedad Financiera Popular.
 
@@ -42,7 +42,7 @@ Adicionalmente, las Sociedades Financieras Populares deberán proporcionar a sus
 
 III. Entregarán de manera continua y permanente a los comisionistas, la información que las Sociedades Financieras Populares deban proporcionar a sus Clientes por las transacciones realizadas, a efecto de que tales comisionistas, a su vez, la proporcionen a los Clientes.
 
-Asimismo, las Sociedades Financieras Populares a través de los comisionistas, deberán proporcionar la información suficiente para que sus Clientes conozcan el procedimiento para presentar aclaraciones o quejas derivadas de operaciones realizadas por medio de los citados comisionistas. Al efecto, pondrán a disposición de sus Clientes en el establecimiento del comisionista, entre otra información, la relativa al número telefónico y correo electrónico de la unidad especializada de atención a usuarios con que la Sociedad Financiera Popular debe contar en términos de la Ley de Protección y Defensa al Usuario de Servicios Financieros, así como del centro de atención de la Sociedad Financiera Popular. Adicionalmente, deberán indicar los números correspondientes al “Centro de Atención Telefónica” de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros.
+Asimismo, las Sociedades Financieras Populares a través de los comisionistas, deberán proporcionar la información suficiente para que sus Clientes conozcan el procedimiento para presentar aclaraciones o quejas derivadas de operaciones realizadas por medio de los citados comisionistas. Al efecto, pondrán a disposición de sus Clientes en el establecimiento del comisionista, entre otra información, la relativa al número telefónico y correo electrónico de la unidad especializada de atención a usuarios con que la Sociedad Financiera Popular debe contar en términos de la [Ley](articulo-1.md) de Protección y Defensa al [Usuario](articulo-1.md) de Servicios Financieros, así como del centro de atención de la Sociedad Financiera Popular. Adicionalmente, deberán indicar los números correspondientes al “Centro de Atención Telefónica” de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros.
 
 IV. Implementarán sistemas y procedimientos operativos que permitan una gestión adecuada del servicio que presten a través de comisionistas.
 

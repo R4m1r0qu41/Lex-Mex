@@ -18,4 +18,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 20
 
-La Comisión, al resolver sobre la autorización correspondiente y asignar a la Sociedad Financiera Popular los Niveles de Operaciones previstos en el artículo 32 de la Ley, considerará tanto el dictamen favorable de la Federación como el monto de capital mínimo suscrito y pagado con que cuente la entidad solicitante, de conformidad con lo establecido en el artículo [209 Bis 10](articulo-209-Bis-10.md) de las presentes disposiciones.
+La Comisión, al resolver sobre la autorización correspondiente y asignar a la [Sociedad](articulo-1.md) Financiera Popular los Niveles de Operaciones previstos en el artículo 32 de la [Ley](articulo-1.md), considerará tanto el dictamen favorable de la [Federación](articulo-1.md) como el monto de capital mínimo suscrito y pagado con que cuente la entidad solicitante, de conformidad con lo establecido en el artículo [209 Bis 10](articulo-209-Bis-10.md) de las presentes disposiciones.

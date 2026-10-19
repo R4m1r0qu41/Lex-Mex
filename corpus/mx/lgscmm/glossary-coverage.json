@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:statute:lgscmm",
   "source_sha256": "40a949085c5ebbc522c1145f4a48fd04c4d1dc0c18592fd3a665b8d0dabeef87",
   "extracted_text_sha256": "695d70a868cd5eebf02d949ba20ab11f8af48b4b3b8ab47bb18815257fc748f1",
@@ -32,6 +32,7 @@
         "XIX",
         "XX"
       ],
+      "unread_fractions": [],
       "term_count": 20
     }
   ],

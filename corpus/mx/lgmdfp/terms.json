@@ -29,6 +29,50 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:4",
     "fraction": "I Ter",
     "start_char": 759,
+    "end_char": 982,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:term:registros-administrativos",
+    "term": "Registros Administrativos",
+    "instrument_id": "urn:lex-mx:federal:statute:lgmdfp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:4",
+    "fraction": "I Quater",
+    "start_char": 982,
+    "end_char": 1217,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:term:clave-unica-de-registro-de-poblacion",
+    "term": "Clave Única de Registro de Población",
+    "instrument_id": "urn:lex-mx:federal:statute:lgmdfp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:4",
+    "fraction": "I Quinquies",
+    "start_char": 1217,
+    "end_char": 1634,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:term:centro-nacional",
+    "term": "Centro Nacional",
+    "instrument_id": "urn:lex-mx:federal:statute:lgmdfp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:4",
+    "fraction": "I Sexies",
+    "start_char": 1634,
+    "end_char": 1800,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:term:base-nacional-de-carpetas-de-investigacion",
+    "term": "Base Nacional de Carpetas de Investigación",
+    "instrument_id": "urn:lex-mx:federal:statute:lgmdfp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:4",
+    "fraction": "I Septies",
+    "start_char": 1800,
     "end_char": 2247,
     "basis": "express_definition"
   },
@@ -117,6 +161,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:4",
     "fraction": "VII Ter",
     "start_char": 3168,
+    "end_char": 3374,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:term:enfoque-masivo-o-a-gran-escala",
+    "term": "Enfoque masivo o a gran escala",
+    "instrument_id": "urn:lex-mx:federal:statute:lgmdfp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:4",
+    "fraction": "VII Quater",
+    "start_char": 3374,
     "end_char": 3832,
     "basis": "express_definition"
   },

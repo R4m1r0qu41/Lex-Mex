@@ -21,6 +21,6 @@ Son acreedores subordinados los siguientes:
 
 I. Los acreedores que hubiesen convenido la subordinación de sus derechos respecto de los créditos comunes; y
 
-II. Los acreedores por créditos sin garantía real de que fuera titular alguna de las personas a que aluden los artículos [15](articulo-15.md), [116](articulo-116.md) y [117](articulo-117.md) de esta Ley, con excepción de las personas señaladas en los artículos [15](articulo-15.md), fracción I, y [117](articulo-117.md), fracción II.
+II. Los acreedores por créditos sin garantía real de que fuera titular alguna de las personas a que aluden los artículos [15](articulo-15.md), [116](articulo-116.md) y [117](articulo-117.md) de esta [Ley](articulo-4o.md), con excepción de las personas señaladas en los artículos [15](articulo-15.md), fracción I, y [117](articulo-117.md), fracción II.
 
 Artículo adicionado DOF 10-01-2014

@@ -17,6 +17,6 @@ source_sha256: 1d398a90955ef45ccb7baf4d56534c676cde8325e8b109c4d32120909e783694
 
 # Artículo 9
 
-La Procuraduría, en coordinación con las Fiscalías y Procuradurías de las Entidades Federativas, y de acuerdo al ámbito de su competencia, promoverá y establecerá, de conformidad con el Programa Nacional, las medidas que considere pertinentes dirigidas a toda la población, así como de manera especial en zonas o regiones donde exista concentración de Personas en Situación de Vulnerabilidad, a efecto de que las víctimas u ofendidos de estos delitos puedan presentar las denuncias correspondientes.
+La Procuraduría, en coordinación con las [Fiscalías y Procuradurías de las Entidades Federativas](articulo-2.md), y de acuerdo al ámbito de su competencia, promoverá y establecerá, de conformidad con el Programa Nacional, las medidas que considere pertinentes dirigidas a toda la población, así como de manera especial en zonas o regiones donde exista concentración de [Personas en Situación de Vulnerabilidad](articulo-2.md), a efecto de que las víctimas u ofendidos de estos delitos puedan presentar las denuncias correspondientes.
 
 Las organizaciones de la sociedad civil podrán coadyuvar con la Procuraduría en la elaboración e implementación de dichas medidas.

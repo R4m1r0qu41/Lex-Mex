@@ -17,10 +17,10 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 261
 
-Una vez que se cuente con la opinión favorable de la Comisión, el Comité Técnico deberá informar a la Vicepresidencia Jurídica y a la vicepresidencia encargada de su supervisión de la Comisión, los nombramientos de los Miembros del Comité de Supervisión Auxiliar, dentro de los 15 días hábiles posteriores a su designación.
+Una vez que se cuente con la opinión favorable de la [Comisión](articulo-1.md), el [Comité Técnico](articulo-1.md) deberá informar a la Vicepresidencia Jurídica y a la vicepresidencia encargada de su supervisión de la Comisión, los nombramientos de los [Miembros del Comité de Supervisión Auxiliar](articulo-1.md), dentro de los 15 días hábiles posteriores a su designación.
 
 El Comité Técnico dará a conocer anualmente a la Comisión, durante el mes de mayo, los resultados de las gestiones que lleven a cabo en cumplimiento de lo previsto por el Artículo [259](articulo-259.md) de estas disposiciones.
 
-Asimismo, el Comité Técnico deberá obtener la previa opinión de la Comisión, a fin de estar en posibilidad de remover a los miembros del Comité de Supervisión Auxiliar, así como a los miembros de las oficinas regionales.
+Asimismo, el Comité Técnico deberá obtener la previa opinión de la Comisión, a fin de estar en posibilidad de remover a los miembros del [Comité de Supervisión Auxiliar](articulo-1.md), así como a los miembros de las oficinas regionales.
 
 En caso de renuncia de los Miembros del Comité de Supervisión Auxiliar, el Comité Técnico deberá notificarlo a la Comisión dentro de los 15 días hábiles posteriores a que estos ocurran.

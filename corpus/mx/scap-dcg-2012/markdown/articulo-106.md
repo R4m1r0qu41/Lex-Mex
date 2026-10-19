@@ -17,7 +17,7 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 106
 
-En materia del sistema de control interno, será responsabilidad del Consejo de Administración de cada Sociedad, definir y diseñar los lineamientos para el manejo prudente de la Sociedad. Asimismo, el Consejo de Administración deberá supervisar el establecimiento y vigilar el adecuado funcionamiento del sistema de control interno, para lo cual deberá aplicar entre otras, las medidas siguientes:
+En materia del sistema de control interno, será responsabilidad del [Consejo de Administración](articulo-1.md) de cada Sociedad, definir y diseñar los lineamientos para el manejo prudente de la Sociedad. Asimismo, el Consejo de Administración deberá supervisar el establecimiento y vigilar el adecuado funcionamiento del sistema de control interno, para lo cual deberá aplicar entre otras, las medidas siguientes:
 
 I. Aprobar los manuales de políticas y procedimientos que sean necesarios para el adecuado funcionamiento del sistema de control interno, así como los manuales de administración de riesgos y de crédito, y un código de ética.
 
@@ -25,7 +25,7 @@ II. Aprobar la estructura orgánica de la Sociedad en la que se asegure la adecu
 
 III. Verificar al menos de forma anual, que la Dirección o Gerencia General de la Sociedad cumpla con su objetivo de vigilar continuamente la efectividad y funcionalidad de los sistemas de control interno.
 
-IV. Revisar los objetivos, políticas y procedimientos de control interno, por lo menos una vez al año, para lo cual podrá escuchar la opinión del Consejo de Vigilancia.
+IV. Revisar los objetivos, políticas y procedimientos de control interno, por lo menos una vez al año, para lo cual podrá escuchar la opinión del [Consejo de Vigilancia](articulo-1.md).
 
 V. Aprobar las políticas y procedimientos para la contratación de servicios con personas morales con las que la Sociedad mantenga vínculos patrimoniales, así como asegurarse de que tales operaciones se pacten en condiciones de mercado
 
@@ -33,6 +33,6 @@ VI. Establecer mecanismos para asegurarse que el área o, en su caso, las distin
 
 Los manuales de políticas y procedimientos de la Sociedad, así como el código de ética, deberán ser revisados anualmente.
 
-Tratándose de la aprobación del código de ética, el Consejo de Administración podrá delegar esta función en un comité de apoyo integrado por especialistas nombrados por el Consejo de Administración, siempre y cuando participe en dicho comité el Director o Gerente General.
+Tratándose de la aprobación del código de ética, el Consejo de Administración podrá delegar esta función en un comité de apoyo integrado por especialistas nombrados por el Consejo de Administración, siempre y cuando participe en dicho comité el [Director o Gerente General](articulo-1.md).
 
 El Consejo de Administración podrá escuchar la opinión del comité de apoyo referido en este artículo para efectos de la aprobación de los manuales de administración de riesgos y de crédito, así como de sus modificaciones.

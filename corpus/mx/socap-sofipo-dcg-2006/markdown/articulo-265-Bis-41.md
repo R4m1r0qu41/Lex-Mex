@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 265 Bis 41
 
-Las Sociedades Financieras Populares, en el contrato de comisión mercantil que celebren para la realización de las operaciones a que se refiere la presente sección, en adición a lo dispuesto por la fracción III del Artículo [265 Bis 35](articulo-265-Bis-35.md), deberán prever lo siguiente:
+Las [Sociedades](articulo-1.md) Financieras Populares, en el contrato de comisión mercantil que celebren para la realización de las operaciones a que se refiere la presente sección, en adición a lo dispuesto por la fracción III del Artículo [265 Bis 35](articulo-265-Bis-35.md), deberán prever lo siguiente:
 
 I. Las operaciones que el comisionista realizará.
 
@@ -38,7 +38,7 @@ VI. Los requisitos y características que deberán cumplir las partes en la real
 
 Tratándose de operaciones que se celebren a través de Administradores de Comisionistas, las Sociedades Financieras Populares deberán prever en los contratos de comisión mercantil, la obligación a cargo del citado administrador de acreditar el cumplimiento de los requisitos señalados en las fracciones II, IV, V y VI del artículo [265 Bis 35](articulo-265-Bis-35.md) respecto de las operaciones que efectúen con sus comisionistas administrados.
 
-VII. La obligación por parte de la Sociedad Financiera Popular de proveer los medios necesarios a fin de dar cumplimiento a lo dispuesto por la Ley para la Transparencia y Ordenamiento de los Servicios Financieros y por las demás disposiciones legales que les resulten aplicables en la realización de las operaciones objeto de la comisión, así como de asegurarse de que el comisionista efectivamente cumple lo anterior.
+VII. La obligación por parte de la Sociedad Financiera Popular de proveer los medios necesarios a fin de dar cumplimiento a lo dispuesto por la [Ley](articulo-1.md) para la Transparencia y Ordenamiento de los Servicios Financieros y por las demás disposiciones legales que les resulten aplicables en la realización de las operaciones objeto de la comisión, así como de asegurarse de que el comisionista efectivamente cumple lo anterior.
 
 VIII. Que el comisionista respectivo tendrá prohibido:
 

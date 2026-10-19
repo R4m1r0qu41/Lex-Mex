@@ -26,7 +26,7 @@ Adicionalmente, para efectos de lo señalado en el presente artículo, las union
 
 Asimismo, las uniones de crédito podrán reconocer la cobertura proporcionada por Esquemas de Cobertura de Primeras Pérdidas o por Esquemas de Cobertura en Paso y Medida. A fin de determinar las ponderaciones correspondientes a las operaciones cubiertas por dichos esquemas, las uniones de crédito deberán cumplir con lo siguiente:
 
-I. A la porción cubierta se le asignará la ponderación por riesgo correspondiente al Proveedor de Protección, mientras que al resto de la posición se le aplicará el tratamiento previsto en el segundo párrafo del presente artículo, para determinar el requerimiento de capitalización correspondiente. Únicamente serán elegibles los siguientes Proveedores de Protección de riesgo de crédito, tanto en el caso de Esquemas de Cobertura de Primeras Pérdidas como en Esquemas de Cobertura en Paso y Medida o proporcionales:
+I. A la porción cubierta se le asignará la ponderación por riesgo correspondiente al [Proveedor de Protección](articulo-1.md), mientras que al resto de la posición se le aplicará el tratamiento previsto en el segundo párrafo del presente artículo, para determinar el requerimiento de capitalización correspondiente. Únicamente serán elegibles los siguientes Proveedores de Protección de riesgo de crédito, tanto en el caso de Esquemas de Cobertura de Primeras Pérdidas como en Esquemas de Cobertura en Paso y Medida o proporcionales:
 
 a) Grupo 1 (Ponderación del 0 %):
 
@@ -46,7 +46,7 @@ a) Grupo 1 (Ponderación del 0 %):
 
 b) Grupo 2 (Ponderación del 20 %):
 
-1. Instituciones de banca múltiple nacionales que cuenten con calificación de, al menos, Grado de Inversión en la escala nacional y sociedades controladoras de la acreditada.
+1. Instituciones de banca múltiple nacionales que cuenten con calificación de, al menos, [Grado de Inversión](articulo-1.md) en la escala nacional y sociedades controladoras de la acreditada.
 
 2. Otras entidades integrantes del sistema financiero mexicano, incluyendo aseguradoras que cuenten, al menos, con Grado de Inversión en la escala nacional.
 
@@ -56,7 +56,7 @@ c) Grupo 3 (Ponderación del 100 %):
 
 1. Otros socios de la misma unión de crédito.
 
-II. En el caso de Esquemas de Coberturas de Primeras Pérdidas para portafolios de créditos, deberán sujetarse a lo siguiente:
+II. En el caso de [Esquemas de Coberturas de Primeras Pérdidas](articulo-1.md) para portafolios de créditos, deberán sujetarse a lo siguiente:
 
 a) Si el importe de la referida cobertura es igual o superior a la suma de los requerimientos de capital de los créditos que conforman el portafolios, no se requerirá capital para la totalidad de los créditos individuales al no existir parte descubierta. Para la parte cubierta por el Esquema de Cobertura de Primeras Pérdidas, se asignará una ponderación acorde con el riesgo de crédito ante el garante. En este caso, la parte cubierta es igual a la suma de los requerimientos de capital de los créditos individuales.
 

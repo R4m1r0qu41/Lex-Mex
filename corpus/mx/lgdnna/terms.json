@@ -73,6 +73,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lgdnna:article:4",
     "fraction": "VII",
     "start_char": 1624,
+    "end_char": 1707,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:term:crianza-positiva",
+    "term": "Crianza positiva",
+    "instrument_id": "urn:lex-mx:federal:statute:lgdnna",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgdnna:article:4",
+    "fraction": "VII Bis",
+    "start_char": 1707,
     "end_char": 2210,
     "basis": "express_definition"
   },

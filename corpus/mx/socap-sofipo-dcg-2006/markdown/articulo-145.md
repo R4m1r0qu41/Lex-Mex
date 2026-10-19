@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 145
 
-Las Sociedades Financieras Populares deberán mantener niveles de liquidez (59) (95) 18
+Las [Sociedades](articulo-1.md) Financieras Populares deberán mantener niveles de liquidez (59) (95) 18
 
 mínimos en relación con sus operaciones pasivas de corto plazo.
 
@@ -26,7 +26,7 @@ Para efectos de la presente regulación, se entenderá por “pasivos de corto p
 
 Las Sociedades Financieras Populares deberán mantener una posición de, por lo menos, el equivalente al 10 % de sus pasivos a corto plazo, invertidos en depósitos bancarios de dinero a la vista, así como en títulos bancarios, valores gubernamentales, otras inversiones en instrumentos financieros de deuda y en efectivo y equivalentes de efectivo, cuyo plazo de vencimiento sea igual o menor a 30 días.
 
-17 El Apartado G fue derogado mediante Resolución publicada en el Diario Oficial de la Federación el 3 de julio de 2026, misma que entrarán en vigor el 1 de enero de 2028. 18 El articulo 145 fue derogado mediante Resolución publicada en el Diario Oficial de la Federación el 3 de julio de 2026, misma que entrarán en vigor el 1 de enero de 2028.
+17 El Apartado G fue derogado mediante Resolución publicada en el Diario Oficial de la [Federación](articulo-1.md) el 3 de julio de 2026, misma que entrarán en vigor el 1 de enero de 2028. 18 El articulo 145 fue derogado mediante Resolución publicada en el Diario Oficial de la Federación el 3 de julio de 2026, misma que entrarán en vigor el 1 de enero de 2028.
 
 La Comisión o la Federación correspondiente, siempre y cuando ésta lo informe a la propia Comisión, podrán incrementar el coeficiente de liquidez cuando a su juicio y tomando en cuenta los riesgos asumidos por la Sociedad Financiera Popular de que se trate, dicha medida se justifique.
 

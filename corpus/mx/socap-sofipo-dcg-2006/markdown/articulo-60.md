@@ -18,8 +18,8 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 60
 
-La Comisión, así como la Federación correspondiente, previa opinión de la primera, podrá ordenar lo siguiente:
+La Comisión, así como la [Federación](articulo-1.md) correspondiente, previa opinión de la primera, podrá ordenar lo siguiente:
 
-I. La constitución de estimaciones preventivas adicionales, si a su juicio así procediere, tomando en cuenta el riesgo de crédito asumido por la Sociedad Financiera Popular en sus operaciones, en caso de que dicha Sociedad Financiera Popular se aparte de la normatividad aplicable o de las políticas y procedimientos establecidos en materia de crédito, y/o
+I. La constitución de estimaciones preventivas adicionales, si a su juicio así procediere, tomando en cuenta el riesgo de crédito asumido por la [Sociedad](articulo-1.md) Financiera Popular en sus operaciones, en caso de que dicha Sociedad Financiera Popular se aparte de la normatividad aplicable o de las políticas y procedimientos establecidos en materia de crédito, y/o
 
 II. La suspensión en el otorgamiento de nuevos créditos por parte de aquellas Sociedades Financieras Populares cuya actividad crediticia, en lo general, presente graves deficiencias conforme a las disposiciones aplicables.

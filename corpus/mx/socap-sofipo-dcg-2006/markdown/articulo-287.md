@@ -17,7 +17,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 287
 
-Sin perjuicio de lo dispuesto por el Artículo [286](articulo-286.md) anterior, las Confederaciones establecerán políticas que les permitan evaluar la Solvencia Económica de las personas a que se refiere dicho artículo, basados en la información que obtengan de las Sociedades de Información Crediticia. Al efecto, dichas políticas tomarán en cuenta, cuando menos:
+Sin perjuicio de lo dispuesto por el Artículo [286](articulo-286.md) anterior, las [Confederaciones](articulo-1.md) establecerán políticas que les permitan evaluar la [Solvencia Económica](articulo-1.md) de las personas a que se refiere dicho artículo, basados en la información que obtengan de las [Sociedades](articulo-1.md) de Información Crediticia. Al efecto, dichas políticas tomarán en cuenta, cuando menos:
 
 I. Criterios para valorar el contenido de los informes proporcionados por las Sociedades de Información Crediticia respectiva, que permitan calificar el perfil crediticio del candidato, en el evento de que cuenten con adeudos vencidos u otro tipo de antecedentes crediticios que reflejen la generación de quebrantos a terceros o exista evidencia de conductas abusivas en la reestructuración de créditos;
 

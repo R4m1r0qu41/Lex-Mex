@@ -18,15 +18,15 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 267
 
-En adición a lo dispuesto por los estatutos sociales de la Federación o Confederación, el Gerente General tendrá, según corresponda, las atribuciones siguientes:
+En adición a lo dispuesto por los estatutos sociales de la [Federación](articulo-1.md) o [Confederación](articulo-1.md), el Gerente General tendrá, según corresponda, las atribuciones siguientes:
 
-I. Ejecutar las resoluciones de la asamblea general y del Consejo de Administración;
+I. Ejecutar las resoluciones de la asamblea general y del [Consejo de Administración](articulo-1.md);
 
 II. Elaborar los presupuestos de ingresos y egresos, así como el programa de trabajo del Organismo de Integración respectivo, los cuales someterá al Consejo de Administración para su aprobación y posterior conocimiento de la asamblea.
 
 III. Entregar mensualmente al Consejo de Administración, informes por escrito acerca de su gestión y de la situación financiera del Organismo de Integración;
 
-IV. Celebrar contratos para el cumplimiento del objeto social del Organismo de Integración, siempre y cuando sea autorizado previamente por el Consejo de Administración y por los demás órganos sociales competentes conforme a la Ley y a los estatutos sociales;
+IV. Celebrar contratos para el cumplimiento del objeto social del Organismo de Integración, siempre y cuando sea autorizado previamente por el Consejo de Administración y por los demás órganos sociales competentes conforme a la [Ley](articulo-1.md) y a los estatutos sociales;
 
 V. Representar al Organismo de Integración en los términos autorizados por el Consejo de Administración respectivo;
 
@@ -40,4 +40,4 @@ IX. Llevar la contabilidad del Organismo de Integración;
 
 X. Asistir a las juntas ordinarias y extraordinarias del Consejo de Administración, con voz pero sin voto, y
 
-XI. Tratándose de gerentes generales de Federaciones, emitir y dar a conocer a las Sociedades Financieras Populares afiliadas y a aquéllas sobre las que la Federación correspondiente ejerza facultades de supervisión auxiliar, los estados financieros de esta última; tratándose de gerentes generales de Confederaciones, emitir y dar a conocer a las Federaciones afiliadas y a aquéllas en cuyo Fondo de Protección participen las Sociedades Financieras Populares afiliadas o aquéllas sobre las que la Federación ejerza facultades de supervisión auxiliar, los estados financieros de la Confederación correspondiente, en los términos que determine el Consejo de Administración, en ambos casos.
+XI. Tratándose de gerentes generales de Federaciones, emitir y dar a conocer a las [Sociedades](articulo-1.md) Financieras Populares afiliadas y a aquéllas sobre las que la Federación correspondiente ejerza facultades de supervisión auxiliar, los estados financieros de esta última; tratándose de gerentes generales de Confederaciones, emitir y dar a conocer a las Federaciones afiliadas y a aquéllas en cuyo Fondo de Protección participen las Sociedades Financieras Populares afiliadas o aquéllas sobre las que la Federación ejerza facultades de supervisión auxiliar, los estados financieros de la Confederación correspondiente, en los términos que determine el Consejo de Administración, en ambos casos.

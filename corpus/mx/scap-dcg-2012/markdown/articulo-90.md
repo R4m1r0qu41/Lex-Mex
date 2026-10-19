@@ -54,13 +54,13 @@ En el caso de préstamos para la adquisición o construcción de vivienda person
 
 Adicionalmente, los requerimientos de capital a que se refiere el párrafo inmediato anterior gozarán de una reducción del 25 por ciento.
 
-Tratándose de operaciones de reporto, las Sociedades deberán determinar en forma previa a la ponderación por riesgo de crédito, el resultado de restar al saldo del deudor por reporto, el correspondiente valor razonable del colateral recibido en cada operación, a que se refieren los Criterios de Contabilidad contenidos en el Anexo E de las presentes disposiciones. En caso de que el resultado obtenido sea positivo, dicha diferencia se multiplicará por la ponderación correspondiente al grupo de riesgo de la contraparte.
+Tratándose de operaciones de reporto, las Sociedades deberán determinar en forma previa a la ponderación por riesgo de crédito, el resultado de restar al saldo del deudor por reporto, el correspondiente valor razonable del colateral recibido en cada operación, a que se refieren los [Criterios de Contabilidad](articulo-1.md) contenidos en el Anexo E de las presentes disposiciones. En caso de que el resultado obtenido sea positivo, dicha diferencia se multiplicará por la ponderación correspondiente al grupo de riesgo de la contraparte.
 
 Para efectos de lo señalado en el presente artículo, las Sociedades podrán deducir del monto total de cada crédito, hasta un 100 % de los depósitos de dinero constituidos por el propio acreditado o por terceros que sean socios en la Sociedad, que cumplan con las condiciones para ser considerados una garantía en términos de lo dispuesto por el Anexo C, Apartado V de las presentes disposiciones. El importe por deducir no podrá ser superior al saldo insoluto del crédito.
 
 Asimismo, las Sociedades podrán reconocer la cobertura proporcionada por el [Esquema de Cobertura de Primeras Pérdidas](articulo-1.md) o por el Esquema de Cobertura en Paso y Medida. A fin de determinar las ponderaciones correspondientes a las operaciones cubiertas por dichos esquemas, las Sociedades deberán cumplir con lo siguiente:
 
-I. A la porción cubierta, la cual podrá ser hasta del 100 %, se le asignará la ponderación por riesgo correspondiente a la del Proveedor de Protección, mientras que para el resto de la operación se procederá en apego a lo establecido en el segundo párrafo del presente artículo, acorde con lo que a continuación se indica y, posteriormente, deberá multiplicarse por 8 % para determinar el requerimiento de capitalización correspondiente. Únicamente serán elegibles los siguientes Proveedores de Protección, tanto en el caso del Esquema de cobertura de Primeras Pérdidas como en el Esquema de Cobertura en Paso y Medida o proporcionales:
+I. A la porción cubierta, la cual podrá ser hasta del 100 %, se le asignará la ponderación por riesgo correspondiente a la del [Proveedor de Protección](articulo-1.md), mientras que para el resto de la operación se procederá en apego a lo establecido en el segundo párrafo del presente artículo, acorde con lo que a continuación se indica y, posteriormente, deberá multiplicarse por 8 % para determinar el requerimiento de capitalización correspondiente. Únicamente serán elegibles los siguientes Proveedores de Protección, tanto en el caso del Esquema de cobertura de Primeras Pérdidas como en el Esquema de Cobertura en Paso y Medida o proporcionales:
 
 a) Grupo 1 (Ponderación del 0 %):
 
@@ -68,7 +68,7 @@ a) Grupo 1 (Ponderación del 0 %):
 
 2. Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, o la que la sustituya.
 
-3. Fideicomisos públicos que formen parte del sistema financiero mexicano acorde con el Artículo [3](../../lic/markdown/articulo-3o.md)o. de la Ley de Instituciones de Crédito.
+3. Fideicomisos públicos que formen parte del sistema financiero mexicano acorde con el Artículo [3](../../lic/markdown/articulo-3o.md)o. de la [Ley](articulo-1.md) de Instituciones de Crédito.
 
 4. Fideicomisos celebrados específicamente con la finalidad de compartir el riesgo de crédito, en los cuales actúen como fideicomitentes y fiduciarias las instituciones de banca de desarrollo que cuenten con garantía expresa del Gobierno Federal.
 

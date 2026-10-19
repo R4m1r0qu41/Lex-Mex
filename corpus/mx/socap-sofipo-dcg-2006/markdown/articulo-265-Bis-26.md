@@ -18,17 +18,17 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 265 Bis 26
 
-Las Sociedades Financieras Populares deberán generar registros, bitácoras, huellas de auditoría de las operaciones y servicios realizados a través de Medios Electrónicos y, en el caso del Servicio Telefónico Voz a Voz, adicionalmente grabaciones de los procesos de contratación, activación, desactivación, modificación de condiciones y suspensión del uso de Servicios Electrónicos, debiendo observar lo siguiente:
+Las [Sociedades](articulo-1.md) Financieras Populares deberán generar registros, bitácoras, huellas de auditoría de las operaciones y servicios realizados a través de [Medios Electrónicos](articulo-1.md) y, en el caso del [Servicio Telefónico Voz a Voz](articulo-1.md), adicionalmente grabaciones de los procesos de contratación, activación, desactivación, modificación de condiciones y suspensión del uso de [Servicios Electrónicos](articulo-1.md), debiendo observar lo siguiente:
 
 I. Las bitácoras deberán registrar cuando menos la información siguiente:
 
-a) Los accesos a los Medios Electrónicos y las operaciones o servicios realizados por los Usuarios, así como el acceso a dicha información por las personas expresamente autorizadas por la Sociedad Financiera Popular, incluyendo las consultas efectuadas.
+a) Los accesos a los Medios Electrónicos y las operaciones o servicios realizados por los [Usuarios](articulo-1.md), así como el acceso a dicha información por las personas expresamente autorizadas por la Sociedad Financiera Popular, incluyendo las consultas efectuadas.
 
-b) La fecha y hora, número de cuenta origen y Cuenta Destino y demás información que permita identificar el mayor número de elementos involucrados en el acceso y operación en los Medios Electrónicos.
+b) La fecha y hora, número de cuenta origen y [Cuenta Destino](articulo-1.md) y demás información que permita identificar el mayor número de elementos involucrados en el acceso y operación en los Medios Electrónicos.
 
-c) Los datos de identificación del Dispositivo de Acceso utilizado por el Usuario para realizar la operación de que se trate.
+c) Los datos de identificación del [Dispositivo de Acceso](articulo-1.md) utilizado por el Usuario para realizar la operación de que se trate.
 
-d) En el caso de Servicio por Internet, deberán registrarse las direcciones de los protocolos de Internet o similares, y para los Servicios Electrónicos en los que se utilicen Teléfonos Móviles o fijos, deberá registrarse el número de la línea del teléfono en el caso de que esté disponible.
+d) En el caso de [Servicio por Internet](articulo-1.md), deberán registrarse las direcciones de los protocolos de Internet o similares, y para los Servicios Electrónicos en los que se utilicen [Teléfonos Móviles](articulo-1.md) o fijos, deberá registrarse el número de la línea del teléfono en el caso de que esté disponible.
 
 Las bitácoras, incluyendo las grabaciones de llamadas de Servicio Telefónico Voz a Voz, deberán ser almacenadas de forma segura por un periodo mínimo de ciento ochenta días naturales y contemplar mecanismos para evitar su alteración, así como mantener procedimientos de control interno para su acceso y disponibilidad.
 

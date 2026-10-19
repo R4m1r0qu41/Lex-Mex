@@ -17,7 +17,7 @@ source_sha256: ce45c7c0c4e9099691e6e24bd2456d0b6f71f91ab27eedd5c4f2190b66d47741
 
 # Artículo 96
 
-Los rendimientos financieros de la Reserva del Fondo serán parte del patrimonio del Fondo Mexicano del Petróleo y serán destinados a la Reserva del Fondo, excepto cuando la Reserva del Fondo sea igual o mayor a 10% del Producto Interno Bruto del año previo al que se trate.
+Los rendimientos financieros de la [Reserva del Fondo](articulo-2.md) serán parte del patrimonio del [Fondo Mexicano del Petróleo](articulo-2.md) y serán destinados a la Reserva del Fondo, excepto cuando la Reserva del Fondo sea igual o mayor a 10% del Producto Interno Bruto del año previo al que se trate.
 
 En caso que la Reserva del Fondo supere el 10% del Producto Interno Bruto, el Comité Técnico ordenará la transferencia de los rendimientos financieros reales anuales a la Tesorería de la Federación de acuerdo con lo establecido en el [Reglamento](articulo-2.md). Estas transferencias del Fondo Mexicano del Petróleo serán adicionales a aquéllas que se realicen de acuerdo a lo establecido en el artículo [16](../../lfmped/markdown/articulo-16.md), fracción II, de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo.
 

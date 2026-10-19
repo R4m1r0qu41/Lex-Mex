@@ -18,4 +18,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 265 Bis 12
 
-Las Sociedades Financieras Populares, deberán establecer mecanismos y procedimientos para que los Servicios Electrónicos generen los comprobantes correspondientes respecto de las operaciones y servicios realizados por los Usuarios a través de dichos Servicios Electrónicos.
+Las [Sociedades](articulo-1.md) Financieras Populares, deberán establecer mecanismos y procedimientos para que los [Servicios Electrónicos](articulo-1.md) generen los comprobantes correspondientes respecto de las operaciones y servicios realizados por los [Usuarios](articulo-1.md) a través de dichos Servicios Electrónicos.

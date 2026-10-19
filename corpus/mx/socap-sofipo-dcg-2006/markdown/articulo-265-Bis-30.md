@@ -18,4 +18,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 265 Bis 30
 
-Las Sociedades Financieras Populares deberán procurar la operación continua de la infraestructura de cómputo y de telecomunicaciones, así como dar pronta solución, para restaurar los Servicios Electrónicos, en caso de presentarse algún incidente.
+Las [Sociedades](articulo-1.md) Financieras Populares deberán procurar la operación continua de la infraestructura de cómputo y de telecomunicaciones, así como dar pronta solución, para restaurar los [Servicios Electrónicos](articulo-1.md), en caso de presentarse algún incidente.

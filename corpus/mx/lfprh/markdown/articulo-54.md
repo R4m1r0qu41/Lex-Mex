@@ -25,4 +25,4 @@ Los Poderes Legislativo y Judicial, los entes autónomos, las dependencias, así
 
 Queda prohibido realizar erogaciones al final del ejercicio con cargo a ahorros y economías del Presupuesto de Egresos que tengan por objeto evitar el reintegro de recursos a que se refiere este artículo.
 
-Los adeudos de ejercicios fiscales anteriores, previstos en el Proyecto de Presupuesto de Egresos podrán ser hasta por el monto de los diferimientos de pagos previstos en la Ley de Ingresos de la Federación aprobada en el ejercicio fiscal inmediato anterior a aquél en el que se deba realizar su pago. Párrafo adicionado DOF 09-04-2026 Reforma DOF 24-01-2014: Derogó del artículo el entonces párrafo cuarto
+Los adeudos de ejercicios fiscales anteriores, previstos en el Proyecto de Presupuesto de Egresos podrán ser hasta por el monto de los diferimientos de pagos previstos en la [Ley de Ingresos](articulo-2.md) de la Federación aprobada en el ejercicio fiscal inmediato anterior a aquél en el que se deba realizar su pago. Párrafo adicionado DOF 09-04-2026 Reforma DOF 24-01-2014: Derogó del artículo el entonces párrafo cuarto

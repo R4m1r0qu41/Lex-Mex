@@ -73,7 +73,7 @@ XXVI Bis. Diseñar, ejecutar y dar seguimiento a las acciones de búsqueda foren
 
 XXVI Ter. Recuperar, recolectar, resguardar, trasladar, transportar y analizar con fines de identificación humana los cuerpos, restos humanos y muestras óseas con fines de procesamiento genético; Fracción adicionada DOF 13-05-2022
 
-XXVI Quater. Resguardar, a través del Centro Nacional, la información tendiente a la identificación humana la cual, una vez procesada, será remitida a la autoridad competente y dada a conocer a las familias interesadas en términos de las disposiciones jurídicas aplicables; Fracción adicionada DOF 13-05-2022
+XXVI Quater. Resguardar, a través del [Centro Nacional](articulo-4.md), la información tendiente a la identificación humana la cual, una vez procesada, será remitida a la autoridad competente y dada a conocer a las familias interesadas en términos de las disposiciones jurídicas aplicables; Fracción adicionada DOF 13-05-2022
 
 XXVI Quinquies. Solicitar a las instituciones de los tres órdenes de gobierno, servicios forenses o periciales, Fiscalía, Fiscalías Especializadas y demás autoridades competentes la información concerniente a la búsqueda de personas desaparecidas, incluida la de identificación de cuerpos y restos humanos que tengan bajo su resguardo, sin perjuicio del cumplimiento de las obligaciones en materia de protección de datos personales y reserva de información pública; Fracción adicionada DOF 13-05-2022
 

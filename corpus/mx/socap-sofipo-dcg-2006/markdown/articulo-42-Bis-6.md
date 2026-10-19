@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 42 Bis 6
 
-Las Sociedades Financieras Populares, salvo por lo dispuesto en el artículo [42 Bis 5](articulo-42-Bis-5.md) de las presentes disposiciones, estimarán la Probabilidad de Incumplimiento de cada crédito (PIi) conforme a lo siguiente:
+Las [Sociedades](articulo-1.md) Financieras Populares, salvo por lo dispuesto en el artículo [42 Bis 5](articulo-42-Bis-5.md) de las presentes disposiciones, estimarán la Probabilidad de Incumplimiento de cada crédito (PIi) conforme a lo siguiente:
 
 I. Para los créditos clasificados en la fracción II del artículo [42 Bis 2](articulo-42-Bis-2.md) de las presentes disposiciones, con actividad económica primaria, conforme a lo establecido en el Anexo D Bis 2:
 

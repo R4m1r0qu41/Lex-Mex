@@ -26,4 +26,4 @@ En dicho plazo deberán adecuar sus procesos y manuales a los requerimientos cor
 
 Asimismo, para dar debido cumplimiento a la presente disposición deberán programar con anticipación, las fechas en las que estimen rebasarán el tamaño de activos máximos establecido para su nivel.
 
-En el evento de que la Sociedad llegara a tener un monto de activos totales inferiores al rango mínimo a que se refiere esta sección, deberá seguir cumpliendo con lo dispuesto en esta y en caso de que dicha Sociedad quisiera optar por aplicar la regulación prudencial correspondiente a un nivel inferior, requerirá de la autorización de la Comisión, previa opinión favorable del Comité de Supervisión Auxiliar.
+En el evento de que la Sociedad llegara a tener un monto de activos totales inferiores al rango mínimo a que se refiere esta sección, deberá seguir cumpliendo con lo dispuesto en esta y en caso de que dicha Sociedad quisiera optar por aplicar la regulación prudencial correspondiente a un nivel inferior, requerirá de la autorización de la [Comisión](articulo-1.md), previa opinión favorable del [Comité de Supervisión Auxiliar](articulo-1.md).

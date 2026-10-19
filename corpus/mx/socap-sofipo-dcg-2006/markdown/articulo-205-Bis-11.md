@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 205 Bis 11
 
-La Comisión, mediante una o varias notificaciones por escrito, podrá ordenar en cualquier momento la aplicación de Medidas Correctivas Especiales Adicionales, atendiendo a la situación particular de la Sociedad Financiera Popular de que se trate.
+La Comisión, mediante una o varias notificaciones por escrito, podrá ordenar en cualquier momento la aplicación de [Medidas Correctivas Especiales Adicionales](articulo-1.md), atendiendo a la situación particular de la [Sociedad](articulo-1.md) Financiera Popular de que se trate.
 
 La Comisión, para la aplicación de las Medidas Correctivas Especiales Adicionales, tomará en cuenta la categoría en que se hubiere clasificado a la Sociedad Financiera Popular de que se trate y podrá además, considerar los elementos siguientes:
 

@@ -1,6 +1,15 @@
 [
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgeepa:article:3:term-usage:2369-2382",
+    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:contaminacion",
+    "span": "Contaminación",
+    "start_char": 2369,
+    "end_char": 2382
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgeepa:article:3:term-usage:4460-4471",
     "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:3",
     "term_id": "urn:lex-mx:federal:statute:lgeepa:term:ecosistema",

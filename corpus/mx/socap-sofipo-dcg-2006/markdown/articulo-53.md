@@ -18,17 +18,17 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 53
 
-El Consejo de Administración tendrá las atribuciones y obligaciones siguientes:
+El [Consejo de Administración](articulo-1.md) tendrá las atribuciones y obligaciones siguientes:
 
-I. Será el responsable de definir los lineamientos de control interno para el manejo prudente de la Sociedad Financiera Popular, para lo cual deberá aprobar y revisar al menos cada dos años el manual de control interno y el manual de crédito de la Sociedad Financiera Popular.
+I. Será el responsable de definir los lineamientos de control interno para el manejo prudente de la [Sociedad](articulo-1.md) Financiera Popular, para lo cual deberá aprobar y revisar al menos cada dos años el manual de control interno y el manual de crédito de la Sociedad Financiera Popular.
 
 Adicionalmente, será el responsable de definir y aprobar los lineamientos, políticas y objetivos de la Sociedad Financiera Popular;
 
-II. Tratándose de la aprobación del código de ética, podrá delegar esta función en un Comité Técnico integrado por el Director o Gerente General y por personas especializadas internas o externas, que designe el Consejo.
+II. Tratándose de la aprobación del código de ética, podrá delegar esta función en un Comité Técnico integrado por el [Director o Gerente General](articulo-1.md) y por personas especializadas internas o externas, que designe el Consejo.
 
-El Consejo de Administración podrá auxiliarse de dicho Comité Técnico o, en su caso, del área de Asistencia Técnica de la Federación que la supervise auxiliarmente, para la elaboración de los manuales de crédito y de control interno, correspondiendo al propio Consejo de Administración su aprobación y, en su caso, modificaciones;
+El Consejo de Administración podrá auxiliarse de dicho Comité Técnico o, en su caso, del área de Asistencia Técnica de la [Federación](articulo-1.md) que la supervise auxiliarmente, para la elaboración de los manuales de crédito y de control interno, correspondiendo al propio Consejo de Administración su aprobación y, en su caso, modificaciones;
 
-III. Respecto al manual de control interno, será el responsable de aprobar la estructura orgánica de la Sociedad Financiera Popular y vigilar el cumplimiento de las medidas correctivas, que se deriven de los informes que emita el Consejo de Vigilancia o Comisario;
+III. Respecto al manual de control interno, será el responsable de aprobar la estructura orgánica de la Sociedad Financiera Popular y vigilar el cumplimiento de las medidas correctivas, que se deriven de los informes que emita el [Consejo de Vigilancia o Comisario](articulo-1.md);
 
 IV. En el manual de crédito deberá establecer los límites respecto al otorgamiento de crédito, así como el tipo de acreditados y de productos crediticios que ofrecerá la Sociedad Financiera Popular;
 

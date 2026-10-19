@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 116
 
-El Comisario de las Sociedades Financieras Populares deberá establecer y dar seguimiento permanente a las medidas de control que rijan al proceso de operación diaria en la administración de riesgos, relativas a:
+El Comisario de las [Sociedades](articulo-1.md) Financieras Populares deberá establecer y dar seguimiento permanente a las medidas de control que rijan al proceso de operación diaria en la administración de riesgos, relativas a:
 
 I. El registro, documentación y liquidación de las operaciones, que impliquen riesgos conforme a las políticas y procedimientos establecidos en los manuales de administración de riesgos de la Sociedad Financiera Popular;
 

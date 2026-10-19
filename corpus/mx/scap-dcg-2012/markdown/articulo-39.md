@@ -17,6 +17,6 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 39
 
-El Comité de Crédito o su equivalente será la instancia responsable de la aprobación de los créditos solicitados a la Sociedad, debiendo observar los lineamientos que al efecto se establezcan en el manual de crédito. El Comité de Crédito podrá delegar dicha función en subcomités y, en su caso, en los funcionarios de la Sociedad que al efecto determine.
+El [Comité de Crédito](articulo-1.md) o su equivalente será la instancia responsable de la aprobación de los créditos solicitados a la Sociedad, debiendo observar los lineamientos que al efecto se establezcan en el manual de crédito. El Comité de Crédito podrá delegar dicha función en subcomités y, en su caso, en los funcionarios de la Sociedad que al efecto determine.
 
-Tratándose de créditos respecto de los cuales las Sociedades cuenten con garantías al 100 por ciento constituidas con dinero en efectivo en términos de lo dispuesto por el Apartado V del Anexo C de las presentes disposiciones, las Sociedades quedarán relevadas de la obligación de contar con la aprobación del Comité de Crédito o su equivalente. Lo anterior, con base en los límites que al respecto establezca su Consejo de Administración en el manual de crédito.
+Tratándose de créditos respecto de los cuales las Sociedades cuenten con garantías al 100 por ciento constituidas con dinero en efectivo en términos de lo dispuesto por el Apartado V del Anexo C de las presentes disposiciones, las Sociedades quedarán relevadas de la obligación de contar con la aprobación del Comité de Crédito o su equivalente. Lo anterior, con base en los límites que al respecto establezca su [Consejo de Administración](articulo-1.md) en el manual de crédito.

@@ -25,7 +25,7 @@ Para el cumplimiento de la presente Ley, la Comisión Federal para la Protecció
 
 a) Requerir a las personas físicas o morales la información, documentación y datos que requieran de las actividades reguladas que lleven a cabo;
 
-b) Confirmar la veracidad y concordancia de las actividades reportadas en el Sistema Integral de Sustancias con las autoridades competentes, y
+b) Confirmar la veracidad y concordancia de las actividades reportadas en el [Sistema Integral de Sustancias](articulo-2.md) con las autoridades competentes, y
 
 c) Coordinarse con las autoridades administrativas de verificación y de seguridad pública en el ámbito de sus respectivas competencias.
 

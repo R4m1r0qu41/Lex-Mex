@@ -30,7 +30,7 @@ III. En su caso, las cláusulas aplicables a la línea de crédito que la Socied
 
 Tratándose de operaciones que se celebren a través de Administradores de Comisionistas, las Sociedades deberán prever en los contratos de comisión mercantil, la obligación solidaria del Administrador de Comisionistas respecto del cumplimiento por parte de los comisionistas sujetos a su administración de lo dispuesto en la fracción I del Artículo [17 Bis 39](articulo-17-Bis-39.md) de las presentes disposiciones.
 
-IV. Los procedimientos que la Sociedad utilizará para la identificación del comisionista y de los Socios, en términos de lo dispuesto por el Anexo P, así como los requisitos operativos y técnicos que deberán cumplirse, tanto por la Sociedad como por el comisionista.
+IV. Los procedimientos que la Sociedad utilizará para la identificación del comisionista y de los [Socios](articulo-1.md), en términos de lo dispuesto por el Anexo P, así como los requisitos operativos y técnicos que deberán cumplirse, tanto por la Sociedad como por el comisionista.
 
 V. Las sanciones y, en su caso, penas convencionales por los incumplimientos al contrato, incluyendo lo dispuesto por los Artículos [17 Bis 47](articulo-17-Bis-47.md) y [17 Bis 48](articulo-17-Bis-48.md) de las presentes disposiciones.
 
@@ -38,7 +38,7 @@ VI. Los requisitos y características que deberán cumplir las partes en la real
 
 Tratándose de operaciones que se celebren a través de Administradores de Comisionistas, las Sociedades deberán prever en los contratos de comisión mercantil, la obligación a cargo del citado administrador de acreditar el cumplimiento de los requisitos señalados en las fracciones II, IV, V y VI del Artículo [17 Bis 35](articulo-17-Bis-35.md) respecto de las operaciones que efectúen con sus comisionistas administrados.
 
-VII. La obligación por parte de la Sociedad de proveer los medios necesarios a fin de dar cumplimiento a lo dispuesto por la Ley para la Transparencia y Ordenamiento de los Servicios Financieros y por las demás disposiciones legales que les resulten aplicables en la realización de las operaciones objeto de la comisión, así como de asegurarse de que el comisionista efectivamente cumple lo anterior.
+VII. La obligación por parte de la Sociedad de proveer los medios necesarios a fin de dar cumplimiento a lo dispuesto por la [Ley](articulo-1.md) para la Transparencia y Ordenamiento de los Servicios Financieros y por las demás disposiciones legales que les resulten aplicables en la realización de las operaciones objeto de la comisión, así como de asegurarse de que el comisionista efectivamente cumple lo anterior.
 
 VIII. Que el comisionista respectivo tendrá prohibido:
 

@@ -33,7 +33,7 @@ VI.- Contaminación: La presencia en el ambiente de uno o más contaminantes o d
 
 VI BIS. Contaminación lumínica: El resplandor luminoso en ambientes nocturnos o brillo producido por la difusión y reflexión de la luz en los gases, aerosoles y partículas en suspensión en la atmósfera, que altera las condiciones naturales de luminosidad en horas nocturnas y dificultan las observaciones astronómicas de los objetos celestes, debido a la luz intrusa, debiendo distinguirse el brillo natural, atribuible a la radiación de fuentes u objetos celestes y a la luminiscencia de las capas altas de la atmósfera; Fracción adicionada DOF 18-01-2021
 
-VI TER.- Contaminación por ruido: Todo sonido generado por actividades humanas que, por su intensidad, duración o frecuencia, implique riesgo, molestia, perjuicio o daño para las personas, para otros seres vivos o para el ambiente; o los que superen los niveles fijados por las normas oficiales mexicanas; Fracción adicionada DOF 29-03-2022
+VI TER.- [Contaminación](articulo-3o.md) por ruido: Todo sonido generado por actividades humanas que, por su intensidad, duración o frecuencia, implique riesgo, molestia, perjuicio o daño para las personas, para otros seres vivos o para el ambiente; o los que superen los niveles fijados por las normas oficiales mexicanas; Fracción adicionada DOF 29-03-2022
 
 VII.- Contaminante: Toda materia o energía en cualesquiera de sus estados físicos y formas, que al incorporarse o actuar en la atmósfera, agua, suelo, flora, fauna o cualquier elemento natural, altere o modifique su composición y condición natural;
 

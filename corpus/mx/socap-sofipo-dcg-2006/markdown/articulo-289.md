@@ -17,7 +17,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 289
 
-Las personas designadas como miembros del Comité Técnico deberán manifestar por escrito y bajo protesta de decir verdad a la Confederación de que se trate:
+Las personas designadas como miembros del Comité Técnico deberán manifestar por escrito y bajo protesta de decir verdad a la [Confederación](articulo-1.md) de que se trate:
 
 I. Que no se encuentran en alguno de los supuestos a que se refiere el Artículo [288](articulo-288.md) anterior;
 

@@ -7,6 +7,39 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lrsf:article:2",
     "fraction": "I",
     "start_char": 49,
+    "end_char": 308,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:term:asignacion",
+    "term": "Asignación",
+    "instrument_id": "urn:lex-mx:federal:statute:lrsf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrsf:article:2",
+    "fraction": "I Bis",
+    "start_char": 308,
+    "end_char": 830,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:term:autorizacion",
+    "term": "Autorización",
+    "instrument_id": "urn:lex-mx:federal:statute:lrsf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrsf:article:2",
+    "fraction": "I Ter",
+    "start_char": 830,
+    "end_char": 1250,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:term:concesion",
+    "term": "Concesión",
+    "instrument_id": "urn:lex-mx:federal:statute:lrsf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrsf:article:2",
+    "fraction": "I Quáter",
+    "start_char": 1250,
     "end_char": 1629,
     "basis": "express_definition"
   },
@@ -62,6 +95,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lrsf:article:2",
     "fraction": "VII",
     "start_char": 2875,
+    "end_char": 3333,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:term:permiso",
+    "term": "Permiso",
+    "instrument_id": "urn:lex-mx:federal:statute:lrsf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrsf:article:2",
+    "fraction": "VII Bis",
+    "start_char": 3333,
     "end_char": 3474,
     "basis": "express_definition"
   },
@@ -73,6 +117,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lrsf:article:2",
     "fraction": "VIII",
     "start_char": 3474,
+    "end_char": 3617,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:term:servicios-auxiliares",
+    "term": "Servicios Auxiliares",
+    "instrument_id": "urn:lex-mx:federal:statute:lrsf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrsf:article:2",
+    "fraction": "VIII Bis",
+    "start_char": 3617,
     "end_char": 3958,
     "basis": "express_definition"
   },
@@ -106,6 +161,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lrsf:article:2",
     "fraction": "XI",
     "start_char": 4355,
+    "end_char": 4519,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:term:supervisor-de-proyecto",
+    "term": "Supervisor de Proyecto",
+    "instrument_id": "urn:lex-mx:federal:statute:lrsf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrsf:article:2",
+    "fraction": "XI Bis",
+    "start_char": 4519,
     "end_char": 5139,
     "basis": "express_definition"
   },

@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:regulation:servinv-dcg-2013",
   "source_sha256": "0b62b320e197b8b0d4b37f9baff931ff579975397c771c861c73db49d7f12450",
   "extracted_text_sha256": "467d94f92b6bba527f5f86338487274a7e6a7d284c4dce0625568a82dda50682",
@@ -10,7 +10,7 @@
     "provision_id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:article:1",
     "provision_text_sha256": "da1acc875ebf800771195beea9b23fc692919a1d5ca7c6fc1dbe4da962d02e68",
     "code": "sequence_break",
-    "message": "fraction IV breaks the I, II, III… sequence after 2"
+    "message": "fraction IV breaks the I, II, III… sequence after II"
   },
   "imports": [],
   "term_count": 0,

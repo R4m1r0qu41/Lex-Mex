@@ -24,7 +24,7 @@ Donde:
 
 Es el componente del indicador de negocio que se obtenga conforme al artículo [48 Bis 1](articulo-48-Bis-1.md) anterior.
 
-15 veces el promedio de pérdidas anuales por riesgo operacional incurridas durante los ciento veinte meses previos al cálculo de los requerimientos de capitalización correspondiente. Las Sociedades Financieras Populares para la determinación de tales pérdidas deberán cumplir lo establecido en los Anexos O Bis 4 y O Bis 5 de las presentes disposiciones.
+15 veces el promedio de pérdidas anuales por riesgo operacional incurridas durante los ciento veinte meses previos al cálculo de los requerimientos de capitalización correspondiente. Las [Sociedades](articulo-1.md) Financieras Populares para la determinación de tales pérdidas deberán cumplir lo establecido en los Anexos O Bis 4 y O Bis 5 de las presentes disposiciones.
 
 Para efectos de calcular el promedio de las pérdidas anuales, se deberán considerar como cero tanto las pérdidas nulas o aquellas pérdidas que hayan resultado negativas después de haber considerado recuperaciones.
 

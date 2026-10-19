@@ -21,11 +21,11 @@ Para efectos de esta Ley, la [Plataforma Única de Identidad](articulo-4.md), se
 
 I. El [Registro Nacional](articulo-4.md) de [Personas Desaparecidas](articulo-4.md) y No Localizadas;
 
-II. La Base Nacional de Carpetas de Investigación;
+II. La [Base Nacional de Carpetas de Investigación](articulo-4.md);
 
 III. El [Banco Nacional de Datos Forenses](articulo-4.md);
 
-IV. Registros Administrativos, y
+IV. [Registros Administrativos](articulo-4.md), y
 
 V. Cualquier registro, base o sistema de información de particulares que presten servicios financieros, de transporte, salud física y mental, telecomunicaciones, educación, asistencia privada, paquetería y servicios de entrega, registros patronales y de seguridad social, religiosos, los establecimientos residenciales de atención a las adicciones así como toda institución privada que administre registros o bases de datos de personas, cuya consulta sea necesaria para la investigación, búsqueda, localización e identificación de Personas Desaparecidas o No Localizadas.
 

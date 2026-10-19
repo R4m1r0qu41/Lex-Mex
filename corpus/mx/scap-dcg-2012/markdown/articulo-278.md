@@ -17,4 +17,4 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 278
 
-Los funcionarios de las sucursales de la Sociedad de que se trate, recibirán y validarán en primera instancia la solicitud de pago, le asignarán un número de folio y expedirán al Interesado un acuse de recibo el cual deberá incluir la fecha y hora de presentación de la solicitud respectiva.
+Los funcionarios de las sucursales de la Sociedad de que se trate, recibirán y validarán en primera instancia la solicitud de pago, le asignarán un número de folio y expedirán al [Interesado](articulo-1.md) un acuse de recibo el cual deberá incluir la fecha y hora de presentación de la solicitud respectiva.

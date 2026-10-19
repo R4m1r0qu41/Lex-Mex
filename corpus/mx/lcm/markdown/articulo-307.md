@@ -17,7 +17,7 @@ source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 
 # Artículo 307
 
-Cuando se estén tramitando simultáneamente y respecto de un mismo [Comerciante](articulo-4o.md) un Procedimiento Extranjero y un procedimiento con arreglo a esta Ley, el juez procurará colaborar y coordinar sus actuaciones con las del otro procedimiento, conforme a lo dispuesto en los artículos [304](articulo-304.md) y [305](articulo-305.md) de la misma, en los términos siguientes:
+Cuando se estén tramitando simultáneamente y respecto de un mismo [Comerciante](articulo-4o.md) un Procedimiento Extranjero y un procedimiento con arreglo a esta [Ley](articulo-4o.md), el juez procurará colaborar y coordinar sus actuaciones con las del otro procedimiento, conforme a lo dispuesto en los artículos [304](articulo-304.md) y [305](articulo-305.md) de la misma, en los términos siguientes:
 
 I. Cuando el procedimiento seguido en México esté en curso en el momento de presentarse la solicitud de reconocimiento del Procedimiento Extranjero:
 

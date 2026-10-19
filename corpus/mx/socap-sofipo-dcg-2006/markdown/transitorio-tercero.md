@@ -17,7 +17,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 A la entrada en vigor de las presentes disposiciones, quedarán abrogadas las Reglas siguientes:
 
-I. Reglas de carácter general para normar en lo conducente lo dispuesto por los artículos [63](../../lacp/markdown/articulo-63.md), segundo y tercer párrafos y [99](../../lacp/markdown/articulo-99.md) de la Ley de Ahorro y Crédito Popular, publicadas en el Diario Oficial de la Federación el 25 de marzo de 2002;
+I. Reglas de carácter general para normar en lo conducente lo dispuesto por los artículos [63](../../lacp/markdown/articulo-63.md), segundo y tercer párrafos y [99](../../lacp/markdown/articulo-99.md) de la [Ley](articulo-1.md) de Ahorro y Crédito Popular, publicadas en el Diario Oficial de la [Federación](articulo-1.md) el 25 de marzo de 2002;
 
 II. Reglas de carácter general para normar en lo conducente lo dispuesto por el artículo [36](../../lacp/markdown/articulo-36.md) fracción III de la Ley de Ahorro y Crédito Popular, publicadas en el Diario Oficial de la Federación el 27 de marzo de 2002, y sus modificaciones;
 
@@ -45,7 +45,7 @@ XIII. Reglas de carácter general para normar en lo conducente lo dispuesto por 
 
 XIV. Reglas de carácter general para normar en lo conducente lo dispuesto por los artículos [10](../../lacp/markdown/articulo-10.md), fracción VII, [31](../../lacp/markdown/articulo-31.md), [71](../../lacp/markdown/articulo-71.md) y [104](../../lacp/markdown/articulo-104.md) de la Ley de Ahorro y Crédito Popular, publicadas en el Diario Oficial de la Federación el 21 de julio de 2004 y sus modificaciones;
 
-XV. Disposiciones por las que se da a conocer la Guía de Supervisión Auxiliar a que se refieren las reglas de carácter general para normar en lo conducente lo dispuesto por los artículos [47](../../lacp/markdown/articulo-47.md) y [55](../../lacp/markdown/articulo-55.md), apartado I, inciso b) de la Ley de Ahorro y Crédito Popular, publicadas en el Diario Oficial de la Federación el 16 de mayo de 2005;
+XV. Disposiciones por las que se da a conocer la [Guía de Supervisión Auxiliar](articulo-1.md) a que se refieren las reglas de carácter general para normar en lo conducente lo dispuesto por los artículos [47](../../lacp/markdown/articulo-47.md) y [55](../../lacp/markdown/articulo-55.md), apartado I, inciso b) de la Ley de Ahorro y Crédito Popular, publicadas en el Diario Oficial de la Federación el 16 de mayo de 2005;
 
 XVI. Reglas de carácter general para normar en lo conducente lo dispuesto por los artículos [19](../../lacp/markdown/articulo-19.md), [65 Bis](../../lacp/markdown/articulo-65-Bis.md) y [101 Bis](../../lacp/markdown/articulo-101-Bis.md) de la Ley de Ahorro y Crédito Popular, publicadas en el Diario Oficial de la Federación el 15 de julio de 2005;
 

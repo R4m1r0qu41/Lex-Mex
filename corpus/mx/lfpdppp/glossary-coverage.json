@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:statute:lfpdppp",
   "source_sha256": "04d67464e1efc0472040e2ff8012ced52c73ff4fc3573c8e2d3477fd976359c6",
   "extracted_text_sha256": "3f1307727f04658ec4812cd5d9cbf24b4c94cc2e809777a0b742ab303001109d",
@@ -32,6 +32,7 @@
         "XIX",
         "XX"
       ],
+      "unread_fractions": [],
       "term_count": 20
     }
   ],

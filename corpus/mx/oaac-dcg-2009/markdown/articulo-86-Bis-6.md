@@ -20,7 +20,7 @@ source_sha256: 8ac502b97188bd6e795781e9821be6e62ccdd8050cdd3be74aab52a888e67939
 
 Las uniones de crédito deberán contar con un manual de crédito en el que se contengan los procesos, metodologías, procedimientos y demás información necesaria para la originación y administración de los créditos. Dicho manual deberá ser congruente, compatible y complementario con la Administración Integral de Riesgos.
 
-El Comité de Auditoría será el responsable de revisar que el manual de crédito sea acorde con los objetivos, lineamientos y políticas en materia de originación y administración del crédito, aprobados por el [Consejo](articulo-1.md).
+El [Comité de Auditoría](articulo-1.md) será el responsable de revisar que el manual de crédito sea acorde con los objetivos, lineamientos y políticas en materia de originación y administración del crédito, aprobados por el [Consejo](articulo-1.md).
 
 El director general de la unión de crédito será el responsable de que se elabore, implemente y aplique adecuadamente el manual de crédito.
 

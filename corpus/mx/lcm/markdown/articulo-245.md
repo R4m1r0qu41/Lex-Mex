@@ -17,7 +17,7 @@ source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 
 # Artículo 245
 
-El concurso mercantil de las Instituciones Financieras se regirá por lo previsto en esta Ley, salvo por lo dispuesto en las leyes financieras que regulan su organización y funcionamiento.
+El concurso mercantil de las Instituciones Financieras se regirá por lo previsto en esta [Ley](articulo-4o.md), salvo por lo dispuesto en las leyes financieras que regulan su organización y funcionamiento.
 
 La determinación de incumplimiento generalizado de obligaciones de pago a que se refiere el Capítulo II del Título Primero de esta Ley, a cargo de Instituciones Financieras, deberá realizarse conforme a las normas de registro contable que la autoridad financiera competente emita al amparo de las leyes financieras que regulan su organización y funcionamiento.
 

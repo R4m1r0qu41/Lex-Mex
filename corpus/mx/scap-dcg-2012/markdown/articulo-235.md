@@ -17,4 +17,4 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 235
 
-A las Sociedades que hayan sido clasificadas en la categoría 1, no les será aplicable Medida Correctiva alguna.
+A las Sociedades que hayan sido clasificadas en la categoría 1, no les será aplicable [Medida Correctiva](articulo-1.md) alguna.

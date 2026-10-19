@@ -17,4 +17,4 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 298
 
-El Fondo de Protección, a través del Comité de Supervisión Auxiliar, deberá notificar a la Comisión de la incorporación de alguna Sociedad en el Registro dentro del mes siguiente a aquel en que se haya llevado a cabo la incorporación. Esta notificación deberá realizarse conforme a la información prevista en la Sección I del Anexo L y podrá realizarse agrupando la información de más de una Sociedad y con el apoyo de archivos electrónicos.
+El [Fondo de Protección](articulo-1.md), a través del [Comité de Supervisión Auxiliar](articulo-1.md), deberá notificar a la [Comisión](articulo-1.md) de la incorporación de alguna Sociedad en el [Registro](articulo-1.md) dentro del mes siguiente a aquel en que se haya llevado a cabo la incorporación. Esta notificación deberá realizarse conforme a la información prevista en la Sección I del Anexo L y podrá realizarse agrupando la información de más de una Sociedad y con el apoyo de archivos electrónicos.

@@ -964,6 +964,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:43:term-usage:512-540",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:43",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:evaluacion-costo-y-beneficio",
+    "span": "Evaluación costo y beneficio",
+    "start_char": 512,
+    "end_char": 540
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:43-a:term-usage:58-65",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:43-a",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:cartera",
@@ -1000,12 +1009,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:45:term-usage:62-90",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:45",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:evaluacion-costo-y-beneficio",
+    "span": "Evaluación costo y beneficio",
+    "start_char": 62,
+    "end_char": 90
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:46:term-usage:3-10",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:46",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:cartera",
     "span": "Cartera",
     "start_char": 3,
     "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:46:term-usage:106-134",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:46",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:evaluacion-costo-y-beneficio",
+    "span": "Evaluación costo y beneficio",
+    "start_char": 106,
+    "end_char": 134
   },
   {
     "schema_version": "0.1.0",
@@ -1195,6 +1222,15 @@
     "span": "Comisión",
     "start_char": 1497,
     "end_char": 1505
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:53-d:term-usage:67-95",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:53-d",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:evaluacion-costo-y-beneficio",
+    "span": "Evaluación costo y beneficio",
+    "start_char": 67,
+    "end_char": 95
   },
   {
     "schema_version": "0.1.0",
@@ -2413,6 +2449,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:191:term-usage:51-79",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:191",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:evaluacion-costo-y-beneficio",
+    "span": "Evaluación costo y beneficio",
+    "start_char": 51,
+    "end_char": 79
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:191:term-usage:517-524",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:191",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:cartera",
@@ -2422,12 +2467,39 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:192:term-usage:865-893",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:192",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:evaluacion-costo-y-beneficio",
+    "span": "Evaluación costo y beneficio",
+    "start_char": 865,
+    "end_char": 893
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:193:term-usage:567-595",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:193",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:evaluacion-costo-y-beneficio",
+    "span": "Evaluación costo y beneficio",
+    "start_char": 567,
+    "end_char": 595
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:193:term-usage:1995-2002",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:193",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:cartera",
     "span": "Cartera",
     "start_char": 1995,
     "end_char": 2002
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:193:term-usage:2021-2049",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:193",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:evaluacion-costo-y-beneficio",
+    "span": "Evaluación costo y beneficio",
+    "start_char": 2021,
+    "end_char": 2049
   },
   {
     "schema_version": "0.1.0",
@@ -2653,6 +2725,15 @@
     "span": "Ley",
     "start_char": 713,
     "end_char": 716
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfprh:article:214:term-usage:1391-1419",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:214",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfprh:term:evaluacion-costo-y-beneficio",
+    "span": "Evaluación costo y beneficio",
+    "start_char": 1391,
+    "end_char": 1419
   },
   {
     "schema_version": "0.1.0",

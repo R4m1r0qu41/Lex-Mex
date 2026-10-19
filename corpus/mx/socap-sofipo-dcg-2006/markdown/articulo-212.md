@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 212
 
-Las Sociedades Financieras Populares se ajustarán a las bases establecidas en la presente Sección para la formulación, publicación y textos que se anotarán al calce de los estados financieros básicos, considerando lo siguiente:
+Las [Sociedades](articulo-1.md) Financieras Populares se ajustarán a las bases establecidas en la presente Sección para la formulación, publicación y textos que se anotarán al calce de los estados financieros básicos, considerando lo siguiente:
 
 I. Formulación de estados financieros.
 
@@ -38,9 +38,9 @@ Las Sociedades Financieras Populares deberán anotar al calce de los estados fin
 
 a) Estado de situación financiera:
 
-“El presente estado de situación financiera, se formuló de conformidad con los criterios de contabilidad para Sociedades Financieras Populares, Sociedades Financieras Comunitarias y Organismos de Integración Financiera Rural, emitidos por la Comisión Nacional Bancaria y de Valores, con fundamento en lo dispuesto por los artículos [117](../../lacp/markdown/articulo-117.md), [118](../../lacp/markdown/articulo-118.md) y [119 Bis 4](../../lacp/markdown/articulo-119-Bis-4.md) de la Ley de Ahorro y Crédito Popular, de observancia general y obligatoria, aplicados de manera consistente, encontrándose reflejadas las operaciones efectuadas por la Sociedad Financiera Popular hasta la fecha arriba mencionada, las cuales se realizaron y valuaron con apego a sanas prácticas financieras y a las disposiciones legales y administrativas aplicables.
+“El presente estado de situación financiera, se formuló de conformidad con los criterios de contabilidad para Sociedades Financieras Populares, Sociedades Financieras Comunitarias y Organismos de Integración Financiera Rural, emitidos por la Comisión Nacional Bancaria y de Valores, con fundamento en lo dispuesto por los artículos [117](../../lacp/markdown/articulo-117.md), [118](../../lacp/markdown/articulo-118.md) y [119 Bis 4](../../lacp/markdown/articulo-119-Bis-4.md) de la [Ley](articulo-1.md) de Ahorro y Crédito Popular, de observancia general y obligatoria, aplicados de manera consistente, encontrándose reflejadas las operaciones efectuadas por la Sociedad Financiera Popular hasta la fecha arriba mencionada, las cuales se realizaron y valuaron con apego a sanas prácticas financieras y a las disposiciones legales y administrativas aplicables.
 
-El presente estado de situación financiera fue aprobado por el Consejo de Administración bajo la responsabilidad de los directivos que lo suscriben.”
+El presente estado de situación financiera fue aprobado por el [Consejo de Administración](articulo-1.md) bajo la responsabilidad de los directivos que lo suscriben.”
 
 b) Estado de resultado integral:
 
@@ -74,7 +74,7 @@ Tratándose de los estados financieros básicos consolidados anuales, deberán p
 
 V. Suscripción.
 
-Los estados financieros básicos consolidados, trimestrales y anuales de las Sociedades Financieras Populares deberán estar suscritos, al menos, por el Director o Gerente General.
+Los estados financieros básicos consolidados, trimestrales y anuales de las Sociedades Financieras Populares deberán estar suscritos, al menos, por el [Director o Gerente General](articulo-1.md).
 
 VI. Fechas de publicación.
 

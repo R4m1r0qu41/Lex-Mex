@@ -29,6 +29,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "III",
     "start_char": 592,
+    "end_char": 770,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lan:term:“aguas-de-laboreo”",
+    "term": "“Aguas de Laboreo”",
+    "instrument_id": "urn:lex-mx:federal:statute:lan",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
+    "fraction": "III Bis",
+    "start_char": 770,
     "end_char": 978,
     "basis": "express_definition"
   },
@@ -62,6 +73,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "VI",
     "start_char": 1139,
+    "end_char": 1410,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lan:term:“aguas-residuales-tratadas”",
+    "term": "“Aguas residuales tratadas”",
+    "instrument_id": "urn:lex-mx:federal:statute:lan",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
+    "fraction": "VI Bis",
+    "start_char": 1410,
     "end_char": 1613,
     "basis": "express_definition"
   },
@@ -73,6 +95,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "VII",
     "start_char": 1613,
+    "end_char": 1711,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lan:term:“aprovechamiento-de-paso”",
+    "term": "“Aprovechamiento de Paso”",
+    "instrument_id": "urn:lex-mx:federal:statute:lan",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
+    "fraction": "VII Bis",
+    "start_char": 1711,
     "end_char": 1961,
     "basis": "express_definition"
   },
@@ -469,6 +502,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "XLIII",
     "start_char": 16800,
+    "end_char": 17132,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lan:term:“reasignacion”",
+    "term": "“Reasignación”",
+    "instrument_id": "urn:lex-mx:federal:statute:lan",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
+    "fraction": "XLIII Bis",
+    "start_char": 17132,
     "end_char": 17478,
     "basis": "express_definition"
   },
@@ -491,6 +535,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "XLV",
     "start_char": 17860,
+    "end_char": 18328,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lan:term:“responsabilidad-hidrica”",
+    "term": "“Responsabilidad Hídrica”",
+    "instrument_id": "urn:lex-mx:federal:statute:lan",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
+    "fraction": "XLV Bis",
+    "start_char": 18328,
     "end_char": 18853,
     "basis": "express_definition"
   },
@@ -524,6 +579,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "XLVIII",
     "start_char": 20403,
+    "end_char": 20550,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lan:term:“seguridad-hidrica”",
+    "term": "“Seguridad Hídrica”",
+    "instrument_id": "urn:lex-mx:federal:statute:lan",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
+    "fraction": "XLVIII Bis",
+    "start_char": 20550,
     "end_char": 21236,
     "basis": "express_definition"
   },
@@ -546,6 +612,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "L",
     "start_char": 21837,
+    "end_char": 22121,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lan:term:“sobreexplotacion”",
+    "term": "“Sobreexplotación”",
+    "instrument_id": "urn:lex-mx:federal:statute:lan",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
+    "fraction": "L Bis",
+    "start_char": 22121,
     "end_char": 22399,
     "basis": "express_definition"
   },
@@ -579,6 +656,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "LIII",
     "start_char": 23045,
+    "end_char": 23279,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lan:term:“uso-agropecuario-familiar”",
+    "term": "“Uso agropecuario familiar”",
+    "instrument_id": "urn:lex-mx:federal:statute:lan",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
+    "fraction": "LIII Bis",
+    "start_char": 23279,
     "end_char": 23467,
     "basis": "express_definition"
   },
@@ -623,6 +711,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "LVII",
     "start_char": 24460,
+    "end_char": 24857,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lan:term:“uso-industrial-en-la-mineria”",
+    "term": "“Uso industrial en la minería”",
+    "instrument_id": "urn:lex-mx:federal:statute:lan",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
+    "fraction": "LVII Bis",
+    "start_char": 24857,
     "end_char": 25201,
     "basis": "express_definition"
   },
@@ -667,6 +766,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "LXI",
     "start_char": 26216,
+    "end_char": 26352,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lan:term:“yacimiento-geotermico-hidrotermal”",
+    "term": "“Yacimiento geotérmico hidrotermal”",
+    "instrument_id": "urn:lex-mx:federal:statute:lan",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
+    "fraction": "LXI Bis",
+    "start_char": 26352,
     "end_char": 26494,
     "basis": "express_definition"
   },

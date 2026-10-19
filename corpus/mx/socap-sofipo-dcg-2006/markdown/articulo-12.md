@@ -18,4 +18,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 12
 
-Las Sociedades Financieras Populares, Federaciones y Confederaciones, deberán designar al Director o Gerente General, como el responsable de la integración de los expedientes a que se refiere la presente Sección, así como de implementar los mecanismos de comunicación permanente y de proporcionar la información a que esta Sección alude.
+Las [Sociedades](articulo-1.md) Financieras Populares, [Federaciones](articulo-1.md) y [Confederaciones](articulo-1.md), deberán designar al [Director o Gerente General](articulo-1.md), como el responsable de la integración de los expedientes a que se refiere la presente Sección, así como de implementar los mecanismos de comunicación permanente y de proporcionar la información a que esta Sección alude.

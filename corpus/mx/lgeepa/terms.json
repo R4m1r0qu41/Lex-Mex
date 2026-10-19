@@ -73,6 +73,28 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lgeepa:article:3",
     "fraction": "VI",
     "start_char": 1655,
+    "end_char": 1802,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgeepa:term:contaminacion-luminica",
+    "term": "Contaminación lumínica",
+    "instrument_id": "urn:lex-mx:federal:statute:lgeepa",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgeepa:article:3",
+    "fraction": "VI Bis",
+    "start_char": 1802,
+    "end_char": 2360,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgeepa:term:contaminacion-por-ruido",
+    "term": "Contaminación por ruido",
+    "instrument_id": "urn:lex-mx:federal:statute:lgeepa",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgeepa:article:3",
+    "fraction": "VI Ter",
+    "start_char": 2360,
     "end_char": 2702,
     "basis": "express_definition"
   },
@@ -238,6 +260,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lgeepa:article:3",
     "fraction": "XX",
     "start_char": 6911,
+    "end_char": 7052,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgeepa:term:luz-intrusa",
+    "term": "Luz intrusa",
+    "instrument_id": "urn:lex-mx:federal:statute:lgeepa",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgeepa:article:3",
+    "fraction": "XX Bis",
+    "start_char": 7052,
     "end_char": 7885,
     "basis": "express_definition"
   },

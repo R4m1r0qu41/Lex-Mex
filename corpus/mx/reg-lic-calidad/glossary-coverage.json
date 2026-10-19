@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lic-calidad",
   "source_sha256": "d23aedc9ffdb09b9202311f03023241da20445cb45aea855b37bfd9685768861",
   "extracted_text_sha256": "20837c2bd82424be7236d26e8004f6b2b946df0e5f45ddc21f5e242936fd5a94",

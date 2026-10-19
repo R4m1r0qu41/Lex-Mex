@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 309
 
-Los Interesados deberán acompañar a su solicitud de pago lo siguiente:
+Los [Interesados](articulo-1.md) deberán acompañar a su solicitud de pago lo siguiente:
 
 I. Original y copia de los contratos, estados de cuenta u otros documentos justificantes de las operaciones a que se refiere el artículo [302](articulo-302.md), primer y segundo párrafos de estas disposiciones.
 

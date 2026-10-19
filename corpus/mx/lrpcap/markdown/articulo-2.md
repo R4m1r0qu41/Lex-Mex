@@ -45,7 +45,7 @@ XIII. Interculturalidad. El principio de política que asegura la inclusión igu
 
 XIV. Movilidad Humana. La movilización de personas de un lugar a otro en función de su interés por residir en un lugar distinto al de su origen de manera temporal, permanente o circular, o bien que se encuentren en tránsito en algún lugar previo a su destino, motivado por razones multifactoriales de manera voluntaria, obligatoria o forzada, ya sea interna o internacional, regular o irregular. Fracción adicionada DOF 18-02-2022
 
-XV. Perspectiva Intercultural. La consideración y análisis de la Interculturalidad mediante la aplicación de políticas, programas y acciones públicas con criterios de igualdad, ventaja de la diversidad e interacción basada en la salvaguarda, respeto y ejercicio de las libertades y derechos humanos para construir una identidad colectiva en la búsqueda de la inclusión y la seguridad humana. Fracción adicionada DOF 18-02-2022
+XV. Perspectiva Intercultural. La consideración y análisis de la [Interculturalidad](articulo-2.md) mediante la aplicación de políticas, programas y acciones públicas con criterios de igualdad, ventaja de la diversidad e interacción basada en la salvaguarda, respeto y ejercicio de las libertades y derechos humanos para construir una identidad colectiva en la búsqueda de la inclusión y la seguridad humana. Fracción adicionada DOF 18-02-2022
 
 XVI. Interseccionalidad. Los procesos a través de los cuales las identidades sociales múltiples convergen y en definitiva conforman las experiencias individuales y sociales, que permite establecer relaciones entre múltiples posiciones y categorías en la construcción de la identidad, escapando de la atención a una única categoría identitaria. Fracción adicionada DOF 18-02-2022
 

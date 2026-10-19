@@ -39,7 +39,7 @@ X. Evaluar el cumplimiento de los lineamientos que regulen el funcionamiento del
 
 XI. Evaluar el cumplimiento de los lineamientos que regulen el funcionamiento del [Registro Nacional de Fosas](articulo-4.md);
 
-XI Bis. Evaluar el cumplimiento de la implementación del Centro Nacional y generar mecanismos y acuerdos para coadyuvar con el logro de su objetivo; Fracción adicionada DOF 13-05-2022
+XI Bis. Evaluar el cumplimiento de la implementación del [Centro Nacional](articulo-4.md) y generar mecanismos y acuerdos para coadyuvar con el logro de su objetivo; Fracción adicionada DOF 13-05-2022
 
 XII. Recomendar a las Procuradurías Locales el empleo de técnicas y tecnologías para mejorar las acciones de búsqueda, así como la evaluación de las mismas;
 

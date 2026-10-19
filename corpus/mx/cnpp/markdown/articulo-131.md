@@ -19,7 +19,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 Obligaciones del [Ministerio Público](articulo-3o.md) Para los efectos del presente [Código](articulo-3o.md), el Ministerio Público tendrá las siguientes obligaciones:
 
-I. Vigilar que en toda investigación de los delitos se cumpla estrictamente con los derechos humanos reconocidos en la [Constitución](articulo-3o.md) y en los Tratados;
+I. Vigilar que en toda investigación de los delitos se cumpla estrictamente con los derechos humanos reconocidos en la [Constitución](articulo-3o.md) y en los [Tratados](articulo-3o.md);
 
 II. Recibir las denuncias o querellas que le presenten en forma oral, por escrito, o a través de medios digitales, incluso mediante denuncias anónimas en términos de las disposiciones legales aplicables, sobre hechos que puedan constituir algún delito;
 

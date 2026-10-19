@@ -25,7 +25,7 @@ II. Mantener coordinación con la [Comisión Nacional de Búsqueda](articulo-4.m
 
 III. Dar aviso de manera inmediata, a través del [Registro Nacional](articulo-4.md), a la Comisión Nacional de Búsqueda sobre el inicio de una investigación de los delitos materia de esta Ley, a fin de que se inicien las acciones correspondientes a la búsqueda; así como compartir la información relevante, de conformidad con el Protocolo Homologado de Investigación y demás disposiciones aplicables;
 
-III Bis. Proporcionar a la Comisión Nacional de Búsqueda la información ministerial y pericial que ésta le solicite, tendiente a la búsqueda de personas con fines de identificación humana y entregar al Centro Nacional la información correspondiente bajo los criterios de homologación definidos por la Comisión;
+III Bis. Proporcionar a la Comisión Nacional de Búsqueda la información ministerial y pericial que ésta le solicite, tendiente a la búsqueda de personas con fines de identificación humana y entregar al [Centro Nacional](articulo-4.md) la información correspondiente bajo los criterios de homologación definidos por la Comisión;
 
 Asimismo, la información que proporcione la Comisión Nacional de Búsqueda a la [Fiscalía](articulo-4.md) con fines de la búsqueda, localización e identificación humana, deberá cumplir con la formalidad que establece la normativa relativa a la cadena de custodia, previa habilitación que realice la Agencia del Ministerio Público que corresponda; Párrafo adicionado DOF 16-07-2025 Fracción adicionada DOF 13-05-2022
 

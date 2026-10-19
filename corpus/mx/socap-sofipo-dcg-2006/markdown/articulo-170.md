@@ -20,7 +20,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 Los sistemas a que se refiere la fracción I del artículo [169](articulo-169.md) anterior, deberán:
 
-I. Permitir la medición, vigilancia y control de los riesgos a que se encuentra expuesta la Sociedad Financiera Popular, así como la generación de informes al respecto;
+I. Permitir la medición, vigilancia y control de los riesgos a que se encuentra expuesta la [Sociedad](articulo-1.md) Financiera Popular, así como la generación de informes al respecto;
 
 II. Considerar para efectos de análisis:
 

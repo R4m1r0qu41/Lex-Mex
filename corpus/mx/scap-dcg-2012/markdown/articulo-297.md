@@ -17,4 +17,4 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 297
 
-En todo caso, la Comisión podrá solicitar al Comité Técnico la información que juzgue conveniente relativa a los expedientes a que hace referencia el Artículo [293](articulo-293.md) de estas disposiciones.
+En todo caso, la [Comisión](articulo-1.md) podrá solicitar al [Comité Técnico](articulo-1.md) la información que juzgue conveniente relativa a los expedientes a que hace referencia el Artículo [293](articulo-293.md) de estas disposiciones.

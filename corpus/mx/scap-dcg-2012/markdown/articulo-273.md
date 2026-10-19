@@ -17,4 +17,4 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 273
 
-Para efectos de lo dispuesto en el Artículo [271](articulo-271.md) de las presentes disposiciones, en el supuesto de que una persona tenga más de una Cuenta Colectiva o una Cuenta Individual en una misma Sociedad, el Comité de Protección al Ahorro Cooperativo sumará todos los saldos a favor de dicha persona derivados de cada una de las Cuentas Colectivas y Cuentas Individuales en las que sea Cotitular o titular, para efectos de lo dispuesto en el Artículo 61 de la Ley.
+Para efectos de lo dispuesto en el Artículo [271](articulo-271.md) de las presentes disposiciones, en el supuesto de que una persona tenga más de una [Cuenta Colectiva](articulo-1.md) o una [Cuenta Individual](articulo-1.md) en una misma Sociedad, el [Comité de Protección al Ahorro Cooperativo](articulo-1.md) sumará todos los saldos a favor de dicha persona derivados de cada una de las Cuentas Colectivas y Cuentas Individuales en las que sea [Cotitular](articulo-1.md) o titular, para efectos de lo dispuesto en el Artículo 61 de la [Ley](articulo-1.md).

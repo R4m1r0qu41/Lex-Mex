@@ -18,13 +18,13 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 1
 
-Para efectos de las presentes disposiciones serán aplicables, en singular o plural, las definiciones señaladas en el artículo [3](../../lacp/markdown/articulo-3o.md) de la Ley de Ahorro y Crédito Popular y, adicionalmente, se entenderá por:
+Para efectos de las presentes disposiciones serán aplicables, en singular o plural, las definiciones señaladas en el artículo [3](../../lacp/markdown/articulo-3o.md) de la [Ley](articulo-1.md) de Ahorro y Crédito Popular y, adicionalmente, se entenderá por:
 
 (65) (93) 6 I. Administrador de Comisionistas, a los comisionistas que operan al amparo de lo dispuesto por el artículo [265 Bis 52](articulo-265-Bis-52.md) de las presentes disposiciones
 
-(70) (93)7 I Bis. Alto Grado de Inversión, a la Calificación otorgada por alguna Institución Calificadora, que se ubique dentro del Grado de Riesgo 1 en escala global tratándose de largo plazo, y Grados de Riesgo
+(70) (93)7 I Bis. Alto [Grado de Inversión](articulo-1.md), a la [Calificación](articulo-1.md) otorgada por alguna Institución Calificadora, que se ubique dentro del [Grado de Riesgo](articulo-1.md) 1 en escala global tratándose de largo plazo, y Grados de Riesgo
 
-5 Los Anexo Z, Z Bis, Z Bis 1, Z Bis 2 y AA fueron adicionados mediante Resolución publicada en el Diario Oficial de la Federación el 3 de julio de 2026, mismos que entrarán en vigor el 1 de enero de 2028. 6 La fracción I. fue reformada mediante Resolución publicada en el Diario Oficial de la Federación el 3 de julio de 2026, misma que entrarán en vigor el 1 de enero de 2028. 7 La fracción I Bis fue reformada mediante Resolución publicada en el Diario Oficial de la Federación el 3 de julio de 2026, misma que entrarán en vigor el 1 de enero de 2028.
+5 Los Anexo Z, Z Bis, Z Bis 1, Z Bis 2 y AA fueron adicionados mediante Resolución publicada en el Diario Oficial de la [Federación](articulo-1.md) el 3 de julio de 2026, mismos que entrarán en vigor el 1 de enero de 2028. 6 La fracción I. fue reformada mediante Resolución publicada en el Diario Oficial de la Federación el 3 de julio de 2026, misma que entrarán en vigor el 1 de enero de 2028. 7 La fracción I Bis fue reformada mediante Resolución publicada en el Diario Oficial de la Federación el 3 de julio de 2026, misma que entrarán en vigor el 1 de enero de 2028.
 
 1 y 2 en escala global tratándose de corto plazo, conforme a lo establecido en las tablas correspondientes para corto y largo plazo del Anexo K.
 
@@ -38,13 +38,13 @@ IV. Auditor Legal, a las personas que desempeñan dicha función en las Federaci
 
 V. Autenticación, al conjunto de técnicas y procedimientos utilizados para verificar la identidad de:
 
-a) Un Usuario y su facultad para realizar operaciones a través de Servicios Electrónicos.
+a) Un [Usuario](articulo-1.md) y su facultad para realizar operaciones a través de [Servicios Electrónicos](articulo-1.md).
 
-b) Una Sociedad Financiera Popular y su facultad para recibir instrucciones a través de Servicios Electrónicos.
+b) Una [Sociedad](articulo-1.md) Financiera Popular y su facultad para recibir instrucciones a través de Servicios Electrónicos.
 
-VI. Bloqueo de Factores de Autenticación, al proceso mediante el cual la Sociedad Financiera Popular inhabilita el uso de un Factor de Autenticación de forma temporal.
+VI. Bloqueo de Factores de [Autenticación](articulo-1.md), al proceso mediante el cual la Sociedad Financiera Popular inhabilita el uso de un [Factor de Autenticación](articulo-1.md) de forma temporal.
 
-VII. Cajero Automático, al Dispositivo de Acceso de autoservicio que permite realizar consultas y operaciones diversas, tales como la disposición de dinero en efectivo y al cual el Usuario accede mediante una tarjeta o cuenta para utilizar los Servicios Electrónicos.
+VII. Cajero Automático, al [Dispositivo de Acceso](articulo-1.md) de autoservicio que permite realizar consultas y operaciones diversas, tales como la disposición de dinero en efectivo y al cual el Usuario accede mediante una tarjeta o cuenta para utilizar los Servicios Electrónicos.
 
 VII Bis. Calificaciones, en singular o plural, a las evaluaciones de riesgo de crédito emitidas por las Instituciones Calificadoras.
 
@@ -66,7 +66,7 @@ del Título Cuarto de las presentes disposiciones, expresado en porcentaje redon
 
 XI. Comité de Crédito, al Comité de Crédito o su equivalente a que se refiere el artículo [26](../../lacp/markdown/articulo-26.md) de la Ley de Ahorro y Crédito Popular.
 
-XII. Comité de Remuneración, al comité constituido por el Consejo de Administración de las Sociedades Financieras Populares conforme al artículo [209 Bis 5](articulo-209-Bis-5.md) de las presentes disposiciones, a fin de apoyar al mencionado órgano de gobierno en sus funciones relativas al [Sistema de Remuneración](articulo-1.md), y cuyo objeto será la implementación, mantenimiento y evaluación del Sistema de Remuneración, con las atribuciones descritas en el artículo [209 Bis 6](articulo-209-Bis-6.md) de las presentes disposiciones. XII Bis. Conductas observables para la gestión del fraude: En singular o plural, las conductas Internas o Externas que, para efectos del cumplimiento de estas disposiciones, son aquellos comportamientos o conjunto de acciones realizadas por una persona o conjunto de personas en contra del Usuario con la finalidad de obtener un lucro indebido para sí o para tercera persona; así como aquellas acciones tendientes a:
+XII. Comité de Remuneración, al comité constituido por el [Consejo de Administración](articulo-1.md) de las Sociedades Financieras Populares conforme al artículo [209 Bis 5](articulo-209-Bis-5.md) de las presentes disposiciones, a fin de apoyar al mencionado órgano de gobierno en sus funciones relativas al [Sistema de Remuneración](articulo-1.md), y cuyo objeto será la implementación, mantenimiento y evaluación del Sistema de Remuneración, con las atribuciones descritas en el artículo [209 Bis 6](articulo-209-Bis-6.md) de las presentes disposiciones. XII Bis. Conductas observables para la gestión del fraude: En singular o plural, las conductas Internas o Externas que, para efectos del cumplimiento de estas disposiciones, son aquellos comportamientos o conjunto de acciones realizadas por una persona o conjunto de personas en contra del Usuario con la finalidad de obtener un lucro indebido para sí o para tercera persona; así como aquellas acciones tendientes a:
 
 i. Suplantar o usurpar la identidad del Usuario.
 
@@ -76,7 +76,7 @@ iii. Suplantar la identidad de la propia Sociedad Financiera Popular.
 
 iv. Usar información privilegiada de los Usuarios por empleados de las Sociedades Financieras Populares.
 
-v. Comprometer los Medios Electrónicos empleados por el Usuario con el objetivo de instalar un código malicioso capaz de alterar la realización de Operaciones Monetarias.
+v. Comprometer los [Medios Electrónicos](articulo-1.md) empleados por el Usuario con el objetivo de instalar un código malicioso capaz de alterar la realización de [Operaciones Monetarias](articulo-1.md).
 
 Para efecto de estas disposiciones y de las gestiones que las Sociedades Financieras Populares deben realizar ante la probable presencia de dichas conductas, dichas entidades financieras considerarán que son:
 
@@ -104,7 +104,7 @@ XX. Contraseña, a la cadena de caracteres que autentica a un Usuario en un medi
 
 XXI. Control, a lo previsto por el artículo 44, último párrafo de la Ley.
 
-XXII. Cotitular, en singular o plural, a la persona o personas físicas o morales titulares de una misma Cuenta Colectiva.
+XXII. Cotitular, en singular o plural, a la persona o personas físicas o morales titulares de una misma [Cuenta Colectiva](articulo-1.md).
 
 XXIII. Criterios Contables, a los criterios de contabilidad para Sociedades Financieras Populares, Sociedades Financieras Comunitarias y Organismos de Integración Financiera Rural a que se refiere el Título Cuarto, Capítulo V, Sección Primera y que se contienen en el Anexo E, todos de las presentes disposiciones.
 
@@ -114,7 +114,7 @@ XXV. Cuenta de Depósito, a la cuenta a que se refiere el inciso a) de la fracci
 
 XXVI. Cuenta Destino, a la cuenta receptora de recursos dinerarios en Operaciones Monetarias.
 
-XXVII. Cuenta Destino Recurrente, a la Cuenta Destino que cumpla con los requisitos previstos por el artículo [265 Bis 9](articulo-265-Bis-9.md) de las presentes disposiciones.
+XXVII. [Cuenta Destino](articulo-1.md) Recurrente, a la Cuenta Destino que cumpla con los requisitos previstos por el artículo [265 Bis 9](articulo-265-Bis-9.md) de las presentes disposiciones.
 
 XXVIII. Cuenta Individual, a las cuentas con un solo titular.
 
@@ -130,13 +130,13 @@ XXXII. Director o Gerente General, al Director o Gerente General de las Sociedad
 
 XXXIII. Dispositivo de Acceso, al equipo que permite a un Usuario acceder a los Servicios Electrónicos.
 
-XXXIV. Enganche: al importe positivo que resulte de la diferencia entre el Valor de la Vivienda y el importe del crédito o, en su caso, los créditos de vivienda en la fecha de otorgamiento del crédito.
+XXXIV. Enganche: al importe positivo que resulte de la diferencia entre el [Valor de la Vivienda](articulo-1.md) y el importe del crédito o, en su caso, los créditos de vivienda en la fecha de otorgamiento del crédito.
 
 10 La fracción XXXI Bis fue adicionada mediante Resolución publicada en el Diario Oficial de la Federación el 3 de julio de 2026, misma que entrarán en vigor el 1 de enero de 2028.
 
 XXXIV Bis. Esquema de Bursatilización, en singular o plural, al proceso estructurado mediante el cual, activos y derechos por flujos de efectivo futuros, se agrupan y se suscriben para crear títulos o valores negociables (posiciones de bursatilización), mismos que pueden colocarse entre el público inversionista en un mercado de valores organizado, o bien, ser utilizados como referencia para la transferencia de riesgo.
 
-XXXIV Bis 1. Esquema de Cobertura de Primeras Pérdidas, al esquema contractual, bajo la figura de garantía o de Seguro de Crédito, a través del cual, el beneficiario o acreditante mitiga la pérdida derivada del incumplimiento por la falta de pago de su acreditado, al recibir, por parte del Proveedor de Protección, un porcentaje del saldo del crédito de que se trate, a fin de cubrir con un monto limitado las primeras pérdidas derivadas del crédito o de un portafolio de créditos, una vez que se actualicen los términos y condiciones pactados para el reclamo de la garantía o del seguro.
+XXXIV Bis 1. Esquema de Cobertura de Primeras Pérdidas, al esquema contractual, bajo la figura de garantía o de [Seguro de Crédito](articulo-1.md), a través del cual, el beneficiario o acreditante mitiga la pérdida derivada del incumplimiento por la falta de pago de su acreditado, al recibir, por parte del Proveedor de Protección, un porcentaje del saldo del crédito de que se trate, a fin de cubrir con un monto limitado las primeras pérdidas derivadas del crédito o de un portafolio de créditos, una vez que se actualicen los términos y condiciones pactados para el reclamo de la garantía o del seguro.
 
 XXXIV Bis 2. Esquema de Cobertura en Paso y Medida (Pari-Passu), al esquema contractual, bajo la figura de garantía o de Seguro de Crédito, a través del cual el beneficiario o acreditante mitiga la pérdida derivada del incumplimiento por la falta de pago de su acreditado, al recibir, por parte del proveedor de la cobertura, un porcentaje del saldo del crédito o de un portafolio de créditos, con el fin de cubrir en la proporción convenida, las pérdidas derivadas del crédito.
 
@@ -146,7 +146,7 @@ XXXV. Factor de Ajuste Operacional (FAO), al que resulta de dividir la suma de l
 
 XXXV Bis. Factor de Autenticación, al mecanismo de Autenticación, tangible o intangible, basado en las características físicas del Usuario, en dispositivos o información que sólo el Usuario posea o conozca. Estos mecanismos podrán ser: a) Información que el Usuario conozca y que la Sociedad Financiera Popular valide a través de cuestionarios practicados por operadores de atención telefónica.
 
-b) Información que solamente el Usuario conozca, tales como Contraseñas y Números de Identificación Personal (NIP).
+b) Información que solamente el Usuario conozca, tales como [Contraseñas](articulo-1.md) y Números de Identificación Personal (NIP).
 
 c) Información contenida, recibida o generada en medios o dispositivos respecto de los cuales el Usuario tenga posesión, tales como dispositivos o mecanismos generadores de Contraseñas dinámicas de un sólo uso y Tarjetas de crédito o débito con Circuito Integrado, que tengan propiedades que impidan la duplicación de dichos medios, dispositivos o de la información que estos contengan o generen.
 
@@ -158,7 +158,7 @@ XXXVII. Financiamiento, en singular o plural, a todo acto o contrato que impliqu
 
 No se considerarán como financiamiento, los créditos hipotecarios relacionados con viviendas cuyo monto no exceda el equivalente en moneda nacional a 50,000 UDIS a la fecha de su concertación, así como los de consumo a cargo de personas físicas que se dispongan mediante el uso de tarjeta de crédito, los que se utilicen para la adquisición de bienes de consumo duradero y los personales que se destinen al consumo, que otorguen las Sociedades Financieras Populares, cuyo monto no exceda el equivalente en moneda nacional a10,000 UDIS a la fecha de su concertación.
 
-Asimismo, las inversiones en títulos bancarios realizadas por las Sociedades Financieras Populares en instituciones de crédito, y las inversiones en valores de sociedades de inversión en instrumentos de deuda, no se computarán para el límite máximo de Financiamiento cuando el emisor del instrumento financiero, o el propio instrumento, cuente con una calificación igual o superior a 'AA-' en escala local o su equivalente en escala global, otorgada por una institución calificadora de valores. Las Sociedades Financieras Populares deberán establecer en sus manuales, la forma en que elegirán la calificación de las inversiones realizadas a que se refiere este párrafo, cuando se cuente con calificación del emisor y del instrumento. En adición a lo establecido en el párrafo anterior, las inversiones en Valores Gubernamentales realizadas por las Sociedades Financieras Populares no serán consideradas dentro del mencionado límite, con independencia de la contraparte con la que se efectúe la operación.
+Asimismo, las inversiones en títulos bancarios realizadas por las Sociedades Financieras Populares en instituciones de crédito, y las inversiones en valores de sociedades de inversión en instrumentos de deuda, no se computarán para el límite máximo de Financiamiento cuando el emisor del instrumento financiero, o el propio instrumento, cuente con una calificación igual o superior a 'AA-' en escala local o su equivalente en escala global, otorgada por una institución calificadora de valores. Las Sociedades Financieras Populares deberán establecer en sus manuales, la forma en que elegirán la calificación de las inversiones realizadas a que se refiere este párrafo, cuando se cuente con calificación del emisor y del instrumento. En adición a lo establecido en el párrafo anterior, las inversiones en [Valores Gubernamentales](articulo-1.md) realizadas por las Sociedades Financieras Populares no serán consideradas dentro del mencionado límite, con independencia de la contraparte con la que se efectúe la operación.
 
 XXXVIII. Firma Electrónica Avanzada o Fiable, A la Firma Electrónica Avanzada o Fiable a que se refiere el Código de Comercio.
 
@@ -184,7 +184,7 @@ XLIII. Identificador de Usuario, a la cadena de caracteres, información de un d
 
 XLIV. Derogada.
 
-XLV. Información Sensible o Información Sensible del Usuario: a la información de los Clientes y público usuario que contenga nombres, domicilios, teléfonos o direcciones de correo electrónico, o cualquier otro dato que identifique a dichas personas en conjunto con números de tarjetas de crédito o débito, números de cuenta, límites de crédito, saldos, montos y demás datos de naturaleza financiera, así como Identificadores de Usuarios o información de Autenticación.
+XLV. Información Sensible o Información Sensible del Usuario: a la información de los Clientes y público usuario que contenga nombres, domicilios, teléfonos o direcciones de correo electrónico, o cualquier otro dato que identifique a dichas personas en conjunto con números de tarjetas de crédito o débito, números de cuenta, límites de crédito, saldos, montos y demás datos de naturaleza financiera, así como [Identificadores de Usuarios](articulo-1.md) o información de Autenticación.
 
 XLVI. Interesado, en singular o plural, al titular o cotitular de la o las operaciones objeto de protección, o su representante, o en caso de fallecimiento del titular que haya celebrado la operación, el albacea que represente la sucesión de que se trate en términos de la legislación común.
 
@@ -196,9 +196,9 @@ XLVIII. Ley, a la Ley de Ahorro y Crédito Popular publicada en el Diario Oficia
 
 (27)12
 
-XLIX. Medidas Correctivas, a las Medidas Correctivas Mínimas y a las Medidas Correctivas Especiales Adicionales, conjuntamente.
+XLIX. Medidas Correctivas, a las [Medidas Correctivas Mínimas](articulo-1.md) y a las [Medidas Correctivas Especiales Adicionales](articulo-1.md), conjuntamente.
 
-L. Medidas Correctivas Especiales Adicionales, a las medidas que la Comisión está facultada a ordenar a las Sociedades Financieras Populares en términos de lo dispuesto por los artículos 73 y 74 de la Ley, así como por las presentes disposiciones.
+L. [Medidas Correctivas](articulo-1.md) Especiales Adicionales, a las medidas que la Comisión está facultada a ordenar a las Sociedades Financieras Populares en términos de lo dispuesto por los artículos 73 y 74 de la Ley, así como por las presentes disposiciones.
 
 LI. Medidas Correctivas Mínimas, a las medidas que deba aplicar la Comisión conforme a lo dispuesto por los artículos 73 y 74 de la Ley, así como por las presentes disposiciones.
 
@@ -212,7 +212,7 @@ LIV. Microcrédito, en singular o plural, a los créditos cuya fuente de pago la
 
 LV. Miembros del Comité de Supervisión, a las personas que integran el Comité de Supervisión de las Federaciones a que se refiere la Ley.
 
-LVI. Miembros del Consejo de Vigilancia o Comisario, a las personas que integran el Consejo de Vigilancia, o que ocupan dicho cargo en las Sociedades Financieras Populares, Federaciones o Confederaciones.
+LVI. Miembros del [Consejo de Vigilancia o Comisario](articulo-1.md), a las personas que integran el Consejo de Vigilancia, o que ocupan dicho cargo en las Sociedades Financieras Populares, Federaciones o [Confederaciones](articulo-1.md).
 
 LVI Bis. Nivel de Regulación Prudencial, a los lineamientos que deberán cumplir las Sociedades Financieras Populares de conformidad con el nivel correspondiente al que se refiere el artículo [209 Bis 12](articulo-209-Bis-12.md) de las presentes disposiciones.
 
@@ -230,7 +230,7 @@ d) Por montos superiores al equivalente en moneda nacional a 1,500 UDIs diarias.
 
 LVII Bis. Operaciones Sujetas a Riesgo de Crédito, a los depósitos, instrumentos financieros, créditos, operaciones de reporto y operaciones contingentes, así como a las demás operaciones expuestas a riesgo de crédito conforme al Anexo O Bis de las presentes disposiciones.
 
-LVII Bis 1. Personas en Situación de Vulnerabilidad, al grupo de personas que declaran de forma libre y voluntaria a las Sociedades Financieras Populares, conforme a las presentes disposiciones, pertenecer de manera enunciativa, mas no limitativa, a las personas adultas mayores, personas con discapacidad, personas pertenecientes a alguna etnia, pueblo o comunidad indígena. LVII Bis 2. Plan de gestión para la prevención del fraude, al documento que contiene el conjunto de lineamientos, metodologías de análisis y acciones mínimas que establecen la estrategia, procesos operativos y los proyectos de las Sociedades Financieras Populares para llevar a cabo la identificación, medición, monitoreo, y atención a las Conductas observables para la gestión del fraude, así como a la prevención, detección, respuesta oportuna y resarcimiento monetario del daño al Usuario derivados de estas.
+LVII Bis 1. [Personas en Situación de Vulnerabilidad](articulo-1.md), al grupo de personas que declaran de forma libre y voluntaria a las Sociedades Financieras Populares, conforme a las presentes disposiciones, pertenecer de manera enunciativa, mas no limitativa, a las personas adultas mayores, personas con discapacidad, personas pertenecientes a alguna etnia, pueblo o comunidad indígena. LVII Bis 2. Plan de gestión para la prevención del fraude, al documento que contiene el conjunto de lineamientos, metodologías de análisis y acciones mínimas que establecen la estrategia, procesos operativos y los proyectos de las Sociedades Financieras Populares para llevar a cabo la identificación, medición, monitoreo, y atención a las Conductas observables para la gestión del fraude, así como a la prevención, detección, respuesta oportuna y resarcimiento monetario del daño al Usuario derivados de estas.
 
 LVII Bis. Personas en Situación de Vulnerabilidad: Al grupo de personas que declaran de forma libre y voluntaria a las Sociedades Financieras Populares, conforme a las presentes disposiciones, pertenecer de manera enunciativa, mas no limitativa, a las personas adultas mayores, personas con discapacidad, personas pertenecientes a alguna etnia, pueblo o comunidad indígena.
 
@@ -246,7 +246,7 @@ b) Los individuos que tengan vínculos con la Sociedad Financiera Popular o las 
 
 c) Las personas que hayan transmitido el control de la Sociedad Financiera Popular bajo cualquier título y de manera gratuita o a un valor inferior al de mercado o contable, en favor de individuos con los que tengan parentesco por consanguinidad, afinidad o civil hasta el cuarto grado, el cónyuge, la concubina o el concubinario.
 
-d) Quienes instruyan a Consejeros o funcionarios de la Sociedad Financiera Popular, en la toma de decisiones o la ejecución de operaciones en la propia sociedad.
+d) Quienes instruyan a [Consejeros](articulo-1.md) o funcionarios de la Sociedad Financiera Popular, en la toma de decisiones o la ejecución de operaciones en la propia sociedad.
 
 LVIII Bis. Probabilidad de Incumplimiento (PI), a la probabilidad de que un acreditado no cumpla con sus obligaciones de pago en tiempo y forma.
 
@@ -292,11 +292,11 @@ LXXII. Sociedad, en singular o plural, a las Sociedades Anónimas y demás socie
 
 LXXIII. Sociedad de Información Crediticia, en singular o plural, a las Sociedades a las que se refiere la Ley para Regular las Sociedades de Información Crediticia.
 
-LXXIV. Solvencia Económica, al historial crediticio satisfactorio o elegibilidad crediticia de los consejeros, Miembros del Consejo de Vigilancia o Comisarios, Director o Gerente General, miembros del Comité de Supervisión, Contralor Normativo, Auditor Interno y miembros del Comité Técnico.
+LXXIV. Solvencia Económica, al historial crediticio satisfactorio o elegibilidad crediticia de los consejeros, Miembros del Consejo de Vigilancia o Comisarios, [Director o Gerente General](articulo-1.md), miembros del Comité de Supervisión, [Contralor Normativo](articulo-1.md), [Auditor Interno](articulo-1.md) y miembros del Comité Técnico.
 
-LXXV. Solvencia Moral, a la honorabilidad de los Consejeros, miembros del Consejo de Vigilancia o comisarios, Director o Gerente General, miembros del Comité de Supervisión, Contralor Normativo, Auditor Legal o Interno y miembros del Comité Técnico, entendiendo como tal el no haber sido condenado por sentencia irrevocable por delito doloso que le imponga pena por más de un año de prisión; y tratándose de delitos patrimoniales cometidos intencionalmente cualquiera que haya sido la pena.
+LXXV. Solvencia Moral, a la honorabilidad de los Consejeros, miembros del Consejo de Vigilancia o comisarios, Director o Gerente General, miembros del Comité de Supervisión, Contralor Normativo, [Auditor Legal](articulo-1.md) o Interno y miembros del Comité Técnico, entendiendo como tal el no haber sido condenado por sentencia irrevocable por delito doloso que le imponga pena por más de un año de prisión; y tratándose de delitos patrimoniales cometidos intencionalmente cualquiera que haya sido la pena.
 
-LXXVI. Supervisión Extra-situ, a la fase permanente del proceso de supervisión auxiliar que será realizada por los Supervisores Auxiliares en las instalaciones de la Federación correspondiente y que estará compuesta por actividades de análisis y seguimiento.
+LXXVI. Supervisión Extra-situ, a la fase permanente del proceso de supervisión auxiliar que será realizada por los [Supervisores Auxiliares](articulo-1.md) en las instalaciones de la Federación correspondiente y que estará compuesta por actividades de análisis y seguimiento.
 
 LXXVII. Supervisión In-situ, a la fase de inspección del proceso de supervisión auxiliar que será realizada con la presencia física de los Supervisores Auxiliares directamente en las instalaciones de la Sociedad Financiera Popular, mediante la realización de visitas de inspección en las oficinas, sucursales y demás establecimientos de la misma.
 
@@ -306,7 +306,7 @@ LXXIX. Tarjeta de crédito o débito con Circuito Integrado, a las Tarjetas de d
 
 LXXX. Teléfono Móvil, a los Dispositivos de Acceso a servicios de telefonía, que tienen asignado un número único de identificación y utilizan comunicación celular.
 
-LXXXI. Terminal Punto de Venta, a los Dispositivos de Acceso a los Servicios Electrónicos, tales como terminales de cómputo, Teléfonos Móviles y programas de cómputo, entre otros, operados por comercios o Usuarios, como parte de los servicios que presten los adquirentes o agregadores, según dichos términos se definen en las Disposiciones de carácter general aplicables a las redes de medios de disposición, emitidas conjuntamente por el Banco de México y la Comisión Nacional Bancaria y de Valores, o las que las sustituyan, para instruir el pago de bienes o servicios con cargo a una tarjeta o cuenta, o bien, para la realización de las operaciones a que se refiere el artículo [265 Bis 36](articulo-265-Bis-36.md) de las presentes disposiciones.
+LXXXI. Terminal Punto de Venta, a los Dispositivos de Acceso a los Servicios Electrónicos, tales como terminales de cómputo, [Teléfonos Móviles](articulo-1.md) y programas de cómputo, entre otros, operados por comercios o Usuarios, como parte de los servicios que presten los adquirentes o agregadores, según dichos términos se definen en las Disposiciones de carácter general aplicables a las redes de medios de disposición, emitidas conjuntamente por el Banco de México y la Comisión Nacional Bancaria y de Valores, o las que las sustituyan, para instruir el pago de bienes o servicios con cargo a una tarjeta o cuenta, o bien, para la realización de las operaciones a que se refiere el artículo [265 Bis 36](articulo-265-Bis-36.md) de las presentes disposiciones.
 
 LXXXII. TIIE, a la Tasa de Interés Interbancaria de Equilibrio que da a conocer el Banco de México a través del Diario Oficial de la Federación.
 
@@ -316,7 +316,7 @@ LXXXIV. Usuario, al Cliente que haya suscrito un contrato de Servicios Electrón
 
 LXXXV. Valor de la Vivienda, al valor de avalúo de la vivienda conocido al momento de originación del crédito. Este valor deberá actualizarse mediante la realización de un avalúo que cumpla con lo establecido en el Anexo D Bis, fracción VI de las presentes disposiciones.
 
-LXXXV Bis. Valores Gubernamentales, a los Certificados de la Tesorería de la Federación denominados en moneda nacional (CETES); Bonos de Desarrollo del Gobierno Federal denominados en moneda nacional (BONDES) o en unidades de inversión (UDIBONOS); títulos emitidos por el Instituto para la Protección al Ahorro Bancario, respecto de los cuales el Banco de México actúe como agente financiero para la emisión, colocación, compra y venta, en el mercado nacional (Bonos de Protección al Ahorro (BPAs)). Esta definición comprende, de igual forma a los valores emitidos por el Banco de México (Bonos de Regulación Monetaria (BREMS)), en términos de las disposiciones que para tal efecto emita el Banco de México, así como a cualesquier otro que dicho Instituto Central determine como tales, y
+LXXXV Bis. Valores Gubernamentales, a los Certificados de la Tesorería de la Federación denominados en moneda nacional ([CETES](articulo-1.md)); Bonos de Desarrollo del Gobierno Federal denominados en moneda nacional (BONDES) o en unidades de inversión (UDIBONOS); títulos emitidos por el Instituto para la Protección al Ahorro Bancario, respecto de los cuales el Banco de México actúe como agente financiero para la emisión, colocación, compra y venta, en el mercado nacional (Bonos de Protección al Ahorro (BPAs)). Esta definición comprende, de igual forma a los valores emitidos por el Banco de México (Bonos de Regulación Monetaria (BREMS)), en términos de las disposiciones que para tal efecto emita el Banco de México, así como a cualesquier otro que dicho Instituto Central determine como tales, y
 
 LXXXVI. Zona Marginada, en singular o plural, las zonas con una población inferior a 15,000 habitantes de acuerdo a la última información que haga pública el Instituto Nacional de Estadística, Geografía e Informática y con índices de marginación medio, alto y muy alto de acuerdo a la última información que haga pública el Consejo Nacional de Población.
 

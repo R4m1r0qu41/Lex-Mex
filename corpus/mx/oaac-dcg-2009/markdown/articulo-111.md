@@ -18,7 +18,7 @@ source_sha256: 8ac502b97188bd6e795781e9821be6e62ccdd8050cdd3be74aab52a888e67939
 
 # Artículo 111
 
-El Comité de Auditoría se integrará en su totalidad por miembros del [Consejo](articulo-1.md) que (105)
+El [Comité de Auditoría](articulo-1.md) se integrará en su totalidad por miembros del [Consejo](articulo-1.md) que (105)
 
 podrán ser propietarios o suplentes de la unión de crédito debiendo ser en su mayoría independientes, designados por el Consejo a propuesta de su presidente, dicho Comité será presidido por un consejero independiente y deberá contar con al menos tres miembros.
 

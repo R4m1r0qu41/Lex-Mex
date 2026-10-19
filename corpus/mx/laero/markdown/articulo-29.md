@@ -23,4 +23,4 @@ En ningún caso, un grupo de concesionarios o permisionarios del servicio de tra
 
 Las restricciones previstas en el párrafo anterior no serán aplicables a las entidades asignatarias en términos del artículo [14 BIS](articulo-14-BIS.md) de la presente Ley. Párrafo adicionado DOF 03-05-2023
 
-La Agencia Federal de Aviación Civil se reserva la facultad de aprobación que se derive de la notificación relacionada con el capital social de una sociedad mercantil concesionaria o permisionaria en sus modalidades de transporte aéreo o de aeropuertos, así como lo relativo al control de la misma. Párrafo adicionado DOF 03-05-2023
+La [Agencia Federal de Aviación Civil](articulo-2.md) se reserva la facultad de aprobación que se derive de la notificación relacionada con el capital social de una sociedad mercantil concesionaria o permisionaria en sus modalidades de transporte aéreo o de aeropuertos, así como lo relativo al control de la misma. Párrafo adicionado DOF 03-05-2023

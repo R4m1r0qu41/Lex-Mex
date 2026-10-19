@@ -31,6 +31,6 @@ V. Someter a la aprobación de la Junta Directiva, la propuesta de estructura ad
 
 VI. Someter a consideración de la Junta Directiva, los programas, así como las normas de organización y funcionamiento del Instituto, y
 
-VII. Las demás que le confieran esta Ley y otros ordenamientos.
+VII. Las demás que le confieran esta [Ley](articulo-4o.md) y otros ordenamientos.
 
 Capítulo III De los visitadores, conciliadores y síndicos

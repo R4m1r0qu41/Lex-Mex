@@ -91,6 +91,6 @@ XXVII. Participar en la difusión de la información científica ambiental entre
 
 XXVIII. Funcionar como laboratorios de referencia en materia de análisis y calibración de equipos de medición de contaminantes atmosféricos, residuos peligrosos, así como en la detección e identificación de organismos genéticamente modificados; Fracción reformada DOF 15-11-2023
 
-XXIX. Elaborar, actualizar, publicar y difundir el Atlas Nacional de [Vulnerabilidad](articulo-3o.md) al Cambio Climático, y Fracción adicionada DOF 15-11-2023
+XXIX. Elaborar, actualizar, publicar y difundir el [Atlas Nacional de Vulnerabilidad al Cambio Climático](articulo-3o.md), y Fracción adicionada DOF 15-11-2023
 
 XXX. Ejercer las atribuciones que expresamente le confieran otras leyes como organismo público descentralizado y las que se determinen en su Estatuto Orgánico. Fracción recorrida DOF 15-11-2023

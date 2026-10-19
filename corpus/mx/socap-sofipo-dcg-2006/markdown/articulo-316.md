@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 316
 
-El Comité de Protección al Ahorro efectuará el pago de las obligaciones objeto de protección mediante orden de pago, cheque nominativo no negociable que le podrá ser entregado al Interesado en las sucursales de la Sociedad Financiera Popular o de las entidades financieras que para tal efecto se señalen o enviado al domicilio que se haya especificado en la solicitud, o bien mediante transferencia electrónica a una cuenta que mantenga el Interesado en una entidad financiera, según lo haya estipulado en su solicitud.
+El Comité de Protección al Ahorro efectuará el pago de las obligaciones objeto de protección mediante orden de pago, cheque nominativo no negociable que le podrá ser entregado al [Interesado](articulo-1.md) en las sucursales de la [Sociedad](articulo-1.md) Financiera Popular o de las entidades financieras que para tal efecto se señalen o enviado al domicilio que se haya especificado en la solicitud, o bien mediante transferencia electrónica a una cuenta que mantenga el Interesado en una entidad financiera, según lo haya estipulado en su solicitud.
 
 El Interesado que haya optado por orden de pago o cheque y así lo haya indicado en su solicitud, previa acreditación de identidad, podrá recibir el pago que le corresponda conforme al presente capítulo, en la sucursal de la Sociedad Financiera Popular o de la entidad financiera habilitada en donde se hubiere presentado la solicitud.
 

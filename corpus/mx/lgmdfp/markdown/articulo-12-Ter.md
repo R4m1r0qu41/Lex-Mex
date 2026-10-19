@@ -19,7 +19,7 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 La [Plataforma Única de Identidad](articulo-4.md) permitirá:
 
-I. Realizar el monitoreo continuo para el seguimiento de la Clave Única de Registro de Población de una [Persona Desaparecida](articulo-4.md) o No Localizada, con el fin de identificar cualquier movimiento, registro o actualización que pudiera aportar información para la investigación, búsqueda, localización o identificación; II. Generar avisos en tiempo real a las autoridades competentes, cuando exista un uso de la Clave Única de Registro de Población de una Persona Desaparecida o No Localizada en los registros de los Sujetos Obligados, y
+I. Realizar el monitoreo continuo para el seguimiento de la [Clave Única de Registro de Población](articulo-4.md) de una [Persona Desaparecida](articulo-4.md) o No Localizada, con el fin de identificar cualquier movimiento, registro o actualización que pudiera aportar información para la investigación, búsqueda, localización o identificación; II. Generar avisos en tiempo real a las autoridades competentes, cuando exista un uso de la Clave Única de Registro de Población de una Persona Desaparecida o No Localizada en los registros de los Sujetos Obligados, y
 
 III. Realizar búsquedas continuas entre registros, y generar avisos cuando existan posibles coincidencias e indicios que lleven a la investigación, búsqueda, localización o identificación de una Persona Desaparecida o No Localizada.
 

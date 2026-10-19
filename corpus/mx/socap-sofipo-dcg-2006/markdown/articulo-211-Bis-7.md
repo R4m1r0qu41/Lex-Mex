@@ -18,4 +18,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 211 Bis 7
 
-Las Sociedades Financieras Populares deberán solicitar a su Proveedor de Precios la información necesaria para dar cumplimiento a los requerimientos de revelación de información sobre la determinación del Precio Actualizado para Valuación, contenidos en los criterios de contabilidad.
+Las [Sociedades](articulo-1.md) Financieras Populares deberán solicitar a su Proveedor de Precios la información necesaria para dar cumplimiento a los requerimientos de revelación de información sobre la determinación del Precio Actualizado para Valuación, contenidos en los criterios de contabilidad.

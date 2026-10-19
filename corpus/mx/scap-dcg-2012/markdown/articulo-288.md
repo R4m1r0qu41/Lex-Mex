@@ -17,4 +17,4 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 288
 
-El monto excedente de las obligaciones objeto de protección que no hubiese sido cubierto por el Fondo de Protección, podrá ser reclamado por las personas a las que se efectuó el pago de dichas obligaciones, directamente a la Sociedad de que se trate conforme a las disposiciones legales, reglamentarias y administrativas aplicables.
+El monto excedente de las obligaciones objeto de protección que no hubiese sido cubierto por el [Fondo de Protección](articulo-1.md), podrá ser reclamado por las personas a las que se efectuó el pago de dichas obligaciones, directamente a la Sociedad de que se trate conforme a las disposiciones legales, reglamentarias y administrativas aplicables.

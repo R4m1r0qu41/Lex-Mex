@@ -18,9 +18,9 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 124
 
-Para cumplir con las responsabilidades antes mencionadas, el Director o Gerente General deberá asegurarse de que se lleven a cabo entre otras, las acciones siguientes:
+Para cumplir con las responsabilidades antes mencionadas, el [Director o Gerente General](articulo-1.md) deberá asegurarse de que se lleven a cabo entre otras, las acciones siguientes:
 
-I. Identificar y evaluar los factores internos y externos que pueden afectar la consecución de las estrategias y objetivos de la Sociedad Financiera Popular;
+I. Identificar y evaluar los factores internos y externos que pueden afectar la consecución de las estrategias y objetivos de la [Sociedad](articulo-1.md) Financiera Popular;
 
 II. Implementar las estrategias y políticas de la Sociedad Financiera Popular, asegurando que las actividades a todos los niveles se desarrollen en línea con los citados objetivos y estrategias, y
 

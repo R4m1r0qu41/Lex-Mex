@@ -17,6 +17,6 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 62
 
-Las Sociedades deberán contar con un Auditor Interno independiente que lleve a cabo, cuando menos una vez al año, una auditoría de administración de riesgos que contemple, entre otros, el desarrollo de la administración del riesgo de crédito de conformidad con lo establecido en la presente sección y en el propio manual de políticas y procedimientos para la administración de riesgos de la Sociedad, así como de los riesgos de mercado y operacional.
+Las Sociedades deberán contar con un [Auditor Interno](articulo-1.md) independiente que lleve a cabo, cuando menos una vez al año, una auditoría de administración de riesgos que contemple, entre otros, el desarrollo de la administración del riesgo de crédito de conformidad con lo establecido en la presente sección y en el propio manual de políticas y procedimientos para la administración de riesgos de la Sociedad, así como de los riesgos de mercado y operacional.
 
-Los resultados de la auditoría a que se refiere el presente artículo, se asentarán en un informe de observaciones que contendrá, en su caso, recomendaciones para solucionar las irregularidades observadas. Dicho informe se presentará al Consejo de Vigilancia, al Comité de Auditoría y al Director o Gerente General.
+Los resultados de la auditoría a que se refiere el presente artículo, se asentarán en un informe de observaciones que contendrá, en su caso, recomendaciones para solucionar las irregularidades observadas. Dicho informe se presentará al [Consejo de Vigilancia](articulo-1.md), al [Comité de Auditoría](articulo-1.md) y al [Director o Gerente General](articulo-1.md).

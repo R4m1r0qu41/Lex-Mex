@@ -18,11 +18,11 @@ source_sha256: 8ac502b97188bd6e795781e9821be6e62ccdd8050cdd3be74aab52a888e67939
 
 # Artículo 119
 
-El Comité de Auditoría, en el desarrollo de sus funciones, deberá, por lo menos, desempeñar las actividades siguientes:
+El [Comité de Auditoría](articulo-1.md), en el desarrollo de sus funciones, deberá, por lo menos, desempeñar las actividades siguientes:
 
-I. Contar con un registro permanentemente actualizado de los objetivos del Sistema de [Control](articulo-1.md) Interno, de los lineamientos para su implementación, así como de los manuales que se consideren relevantes para su operación acorde con el nivel de operaciones autorizado por la [Comisión](articulo-1.md) a la unión de crédito. Este registro deberá ser elaborado por el o los responsables de las funciones de Contraloría Interna de la unión de crédito.
+I. Contar con un registro permanentemente actualizado de los objetivos del [Sistema de Control Interno](articulo-1.md), de los lineamientos para su implementación, así como de los manuales que se consideren relevantes para su operación acorde con el nivel de operaciones autorizado por la [Comisión](articulo-1.md) a la unión de crédito. Este registro deberá ser elaborado por el o los responsables de las funciones de [Contraloría Interna](articulo-1.md) de la unión de crédito.
 
-II. Revisar y vigilar, con apoyo de los responsables de las funciones de Auditoría Interna, que los referidos manuales de operación, conforme al nivel de operaciones autorizado a la unión de crédito, se apeguen al Sistema de Control Interno.
+II. Revisar y vigilar, con apoyo de los responsables de las funciones de [Auditoría Interna](articulo-1.md), que los referidos manuales de operación, conforme al nivel de operaciones autorizado a la unión de crédito, se apeguen al Sistema de Control Interno.
 
 III. Revisar, con base en los informes del área de Auditoría Interna y del [Auditor Externo Independiente](articulo-1.md), cuando menos una vez al año o cuando lo requiera la Comisión, que el programa de Auditoría Interna se lleve a cabo de conformidad con estándares de calidad adecuados en materia contable y de controles internos y que las actividades del área de Auditoría Interna se realicen con efectividad.
 

@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:statute:lrfiyii-art105",
   "source_sha256": "b99f96ee0d44bd781d14cfdc7f94358bd6d3f6ed17c3bd3aadcf5d149873edeb",
   "extracted_text_sha256": "34e6b8f137e02054a2ca1567de109faa54801c7a28b40f02ca046ecd928eca43",

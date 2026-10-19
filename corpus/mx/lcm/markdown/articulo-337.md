@@ -25,6 +25,6 @@ II. No cumplan con alguno de los procedimientos de actualización que aplique el
 
 III. Sean condenados mediante sentencia ejecutoriada, por delito intencional que merezca pena corporal, o sean inhabilitados para empleo, cargo o comisión en el servicio público, el sistema financiero, o para ejercer el comercio;
 
-IV. Desempeñen empleo, cargo o comisión en la Administración Pública, o sean parte de los Poderes Legislativo o Judicial en cualquiera de los tres ámbitos de gobierno; V. Rehúsen el desempeño de las funciones que le sean asignadas en términos de esta Ley en algún concurso mercantil al que hayan sido asignados sin que medie causa suficiente a juicio del Instituto, o
+IV. Desempeñen empleo, cargo o comisión en la Administración Pública, o sean parte de los Poderes Legislativo o Judicial en cualquiera de los tres ámbitos de gobierno; V. Rehúsen el desempeño de las funciones que le sean asignadas en términos de esta [Ley](articulo-4o.md) en algún concurso mercantil al que hayan sido asignados sin que medie causa suficiente a juicio del Instituto, o
 
 VI. Hayan sido condenados por sentencia ejecutoriada al pago de daños y perjuicios derivados de algún concurso mercantil al que hayan sido asignados.

@@ -17,7 +17,7 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 103
 
-El Director o Gerente General deberá proponer al Consejo de Administración para su aprobación, lo siguiente:
+El [Director o Gerente General](articulo-1.md) deberá proponer al [Consejo de Administración](articulo-1.md) para su aprobación, lo siguiente:
 
 I. La designación de la persona que será responsable de la administración de riesgos de la Sociedad, garantizando la independencia de dicha persona respecto de las áreas de negocios.
 

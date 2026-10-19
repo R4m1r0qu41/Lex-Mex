@@ -205,6 +205,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:ldrs:article:3",
     "fraction": "XIX",
     "start_char": 3132,
+    "end_char": 3301,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:term:figuras-asociativas",
+    "term": "Figuras Asociativas",
+    "instrument_id": "urn:lex-mx:federal:statute:ldrs",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ldrs:article:3",
+    "fraction": "XIX Bis",
+    "start_char": 3301,
     "end_char": 3724,
     "basis": "express_definition"
   },

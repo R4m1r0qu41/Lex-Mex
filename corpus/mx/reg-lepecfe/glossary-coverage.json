@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lepecfe",
   "source_sha256": "9478163ef6ab468edc2be8def3bf84efedd03da5b6c166fba0430bfcb6d8467c",
   "extracted_text_sha256": "c484371f2969a8f734e08b924b88c720c4ae672d6c669917ba9d50e4788042e2",

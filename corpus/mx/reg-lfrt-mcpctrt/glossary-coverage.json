@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lfrt-mcpctrt",
   "source_sha256": "73855d6591afa63747195c80772404550f8fd6d9a1d9fa82ef7a14ec9583fe6e",
   "extracted_text_sha256": "ac621089414f1f373b5b9b8e0c8bd50d4230636efc1fde032d2bf618460d8531",

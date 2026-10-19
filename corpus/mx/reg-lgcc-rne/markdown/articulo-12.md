@@ -17,7 +17,7 @@ source_sha256: 62420210c5aaffe687daf130a64ff506009625340c554bfb36d2f1b5dcac0192
 
 # Artículo 12
 
-La presentación del reporte de Gases o Compuestos de Efecto Invernadero ante el Registro se realizará a través de la [Cédula de Operación Anual](articulo-2.md) y se sujetará al siguiente procedimiento:
+La presentación del reporte de Gases o Compuestos de Efecto Invernadero ante el [Registro](../../lgcc/markdown/articulo-3o.md) se realizará a través de la [Cédula de Operación Anual](articulo-2.md) y se sujetará al siguiente procedimiento:
 
 I. En el periodo comprendido entre el 1 de marzo y el 30 de junio de cada año, los Establecimientos Sujetos a Reporte deberán integrar al Registro la información de sus [Emisiones Directas](articulo-2.md) e Indirectas generadas entre el 1 de enero y el 31 de diciembre del año inmediato anterior;
 

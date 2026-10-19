@@ -17,7 +17,7 @@ source_sha256: 1289ec6964e48c84990572ca6080ca05c9d6210e5b0ff5af6d8c9d935fc5fcc8
 
 # Artículo 49
 
-Incurrirá en [Falta administrativa no grave](articulo-3.md) la Persona Servidora Pública cuyos actos u omisiones incumplan o transgredan lo contenido en las obligaciones siguientes: Párrafo reformado DOF 02-01-2025
+Incurrirá en [Falta administrativa no grave](articulo-3.md) la [Persona Servidora Pública](articulo-3.md) cuyos actos u omisiones incumplan o transgredan lo contenido en las obligaciones siguientes: Párrafo reformado DOF 02-01-2025
 
 I. Cumplir con las funciones, atribuciones y comisiones encomendadas, observando en su desempeño disciplina y respeto, tanto a las demás Personas Servidoras Públicas como a los particulares con los que llegare a tratar, en los términos que se establezcan en el código de ética a que se refiere el artículo [16](articulo-16.md) de esta Ley, y los de conducta, según corresponda; Fracción reformada DOF 02-01-2025
 

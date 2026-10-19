@@ -29,7 +29,7 @@ use lex_parse::{
     extract_internal_references, extract_pdf, extract_quoted_term_usages, extract_references,
     extract_term_usages, find_admitted_furniture, find_glossary_provision, parse_dcg,
     parse_itf_dcg, repair_article_dates, repair_partial_repeals, repeal_placeholders,
-    validate_corpus,
+    unread_fractions, validate_corpus,
 };
 use lex_source::{
     SourceConfig, SourceFormat, discover, fetch, fetch_annex, fetch_formal, load_batch_manifest,
@@ -2407,6 +2407,7 @@ fn provision_coverage(
     method: &str,
     terms: &[lex_core::DefinedTerm],
     repeal_placeholders: Option<Vec<String>>,
+    unread_fractions: Option<Vec<String>>,
 ) -> lex_core::GlossaryProvisionCoverage {
     let own: Vec<_> = terms
         .iter()
@@ -2421,6 +2422,7 @@ fn provision_coverage(
             .filter_map(|term| term.fraction.clone())
             .collect(),
         repeal_placeholders,
+        unread_fractions,
         profile: None,
         term_count: own.len(),
     }
@@ -2464,17 +2466,18 @@ fn select_glossary(
             .iter()
             .zip(&named)
             .map(|((provision, style, profile), (_, name, _))| {
-                lex_core::GlossaryProvisionCoverage {
+                Ok(lex_core::GlossaryProvisionCoverage {
                     profile: profile.cloned(),
                     ..provision_coverage(
                         provision,
                         name,
                         &terms,
                         repeal_placeholders(provision, *style, *profile),
+                        unread_fractions(provision, *style)?,
                     )
-                }
+                })
             })
-            .collect();
+            .collect::<Result<_>>()?;
         return Ok(SelectedGlossary {
             terms,
             additive_to: glossary.additive_to.clone(),
@@ -2503,6 +2506,7 @@ fn select_glossary(
                         method,
                         &detection.terms,
                         detection.repeal_placeholders.clone(),
+                        detection.unread_fractions.clone(),
                     )
                 })
         });
@@ -3023,6 +3027,16 @@ enum ClosureDecision {
 
 const CLOSURE_ACCEPTED_GAPS: &str = "adapters/diputados/_closure-accepted-gaps.json";
 
+/// The recorded accepted gaps; no list on disk means none is accepted.
+fn read_accepted_closure_gaps(root: &Path) -> Result<AcceptedClosureGaps> {
+    let path = root.join(CLOSURE_ACCEPTED_GAPS);
+    if !path.exists() {
+        return Ok(AcceptedClosureGaps { accepted: vec![] });
+    }
+    serde_json::from_str(&fs::read_to_string(&path)?)
+        .with_context(|| format!("invalid {}", path.display()))
+}
+
 #[derive(serde::Deserialize)]
 struct AcceptedClosureGaps {
     accepted: Vec<AcceptedClosureGap>,
@@ -3040,13 +3054,7 @@ struct AcceptedClosureGap {
 /// "nothing beyond the accepted gaps". No list on disk means no gap is accepted,
 /// and a clean closure with a non-empty list is also a mismatch (stale entries).
 fn closure_matches_accepted_gaps(root: &Path, report: &CorpusClosureReport) -> Result<bool> {
-    let path = root.join(CLOSURE_ACCEPTED_GAPS);
-    let accepted: AcceptedClosureGaps = if path.exists() {
-        serde_json::from_str(&fs::read_to_string(&path)?)
-            .with_context(|| format!("invalid {}", path.display()))?
-    } else {
-        AcceptedClosureGaps { accepted: vec![] }
-    };
+    let accepted = read_accepted_closure_gaps(root)?;
     // Errors are compared as recorded, with multiplicity: a new citation to
     // an already-accepted missing target must not pass.
     let normalize = |errors: &[String]| {
@@ -3124,10 +3132,18 @@ fn run_corpus_closure(root: &Path) -> Result<CorpusClosureReport> {
         &original_usages,
         &provision_ids,
     )?;
+    let glossary_refreshed = glossary_refreshable(
+        root,
+        &contexts,
+        &corpora,
+        &decisions,
+        &refreshed_as_persisted,
+    )?;
     apply_closure_decisions(
         &mut corpora,
         &proposals,
         &decisions,
+        &glossary_refreshed,
         &original_terms,
         &original_usages,
     );
@@ -3137,36 +3153,16 @@ fn run_corpus_closure(root: &Path) -> Result<CorpusClosureReport> {
         &coverage,
         &decisions,
         &refreshed_as_persisted,
+        &glossary_refreshed,
     )?;
-    let (targets, term_targets) = closure_link_targets(&corpora);
-    let mut relinked = 0;
-    let mut unchanged = 0;
-    let mut rejected = Vec::new();
-    for (index, (slug, corpus)) in corpora.iter().enumerate() {
-        let context = contexts
-            .get(slug)
-            .with_context(|| format!("no adapter configuration found for instrument {slug:?}"))?;
-        if !matches!(decisions[index], ClosureDecision::Rejected(_))
-            || refreshed_as_persisted[index]
-        {
-            write_glossary_coverage(&coverage[index], &context.paths.corpus)?;
-        }
-        match &decisions[index] {
-            ClosureDecision::Unchanged => unchanged += 1,
-            ClosureDecision::Rejected(errors) => {
-                println!("{slug}: rejected, left unchanged");
-                rejected.push(CorpusClosureRejection {
-                    slug: slug.clone(),
-                    errors: errors.clone(),
-                });
-            }
-            ClosureDecision::Accepted(report) => {
-                write_relinked_instrument(context, corpus, report, &targets, &term_targets)?;
-                println!("{slug}: relinked {} references", corpus.references.len());
-                relinked += 1;
-            }
-        }
-    }
+    let (relinked, unchanged, rejected) = write_closure_outputs(
+        &corpora,
+        &contexts,
+        &coverage,
+        &decisions,
+        &refreshed_as_persisted,
+        &glossary_refreshed,
+    )?;
     let report = CorpusClosureReport {
         status: if rejected.is_empty() { "ok" } else { "failed" }.to_owned(),
         instruments: corpora.len(),
@@ -3241,12 +3237,24 @@ fn preflight_closure_coverage(
     coverage: &[lex_core::GlossaryCoverage],
     decisions: &[ClosureDecision],
     refreshed_as_persisted: &[bool],
+    glossary_refreshed: &[bool],
 ) -> Result<()> {
     // Bind coverage to the final corpus, including originals restored after a
     // rejection. Preflight every record before writing any closure output.
     for (index, (slug, corpus)) in corpora.iter().enumerate() {
+        if matches!(decisions[index], ClosureDecision::Rejected(_))
+            && !refreshed_as_persisted[index]
+            && !glossary_refreshed[index]
+        {
+            bail!(
+                "{slug} is rejected, and the current glossary extraction no longer \
+                 reproduces its persisted terms, so its coverage would go stale; \
+                 resolve the rejection or record it as an accepted gap"
+            );
+        }
         if !matches!(decisions[index], ClosureDecision::Rejected(_))
             || refreshed_as_persisted[index]
+            || glossary_refreshed[index]
         {
             validate_glossary_coverage_inputs(
                 &coverage[index],
@@ -3256,6 +3264,119 @@ fn preflight_closure_coverage(
             )?;
         }
     }
+    Ok(())
+}
+
+/// Write each instrument's closure outcome and count it: relinked,
+/// unchanged, or rejected (with or without a glossary-only refresh).
+fn write_closure_outputs(
+    corpora: &[(String, Corpus)],
+    contexts: &HashMap<String, InstrumentContext>,
+    coverage: &[lex_core::GlossaryCoverage],
+    decisions: &[ClosureDecision],
+    refreshed_as_persisted: &[bool],
+    glossary_refreshed: &[bool],
+) -> Result<(usize, usize, Vec<CorpusClosureRejection>)> {
+    let (targets, term_targets) = closure_link_targets(corpora);
+    let mut relinked = 0;
+    let mut unchanged = 0;
+    let mut rejected = Vec::new();
+    for (index, (slug, corpus)) in corpora.iter().enumerate() {
+        let context = contexts
+            .get(slug)
+            .with_context(|| format!("no adapter configuration found for instrument {slug:?}"))?;
+        if !matches!(decisions[index], ClosureDecision::Rejected(_))
+            || refreshed_as_persisted[index]
+            || glossary_refreshed[index]
+        {
+            write_glossary_coverage(&coverage[index], &context.paths.corpus)?;
+        }
+        match &decisions[index] {
+            ClosureDecision::Unchanged => unchanged += 1,
+            ClosureDecision::Rejected(errors) => {
+                if glossary_refreshed[index] {
+                    write_refreshed_glossary(context, corpus, &targets, &term_targets)?;
+                    println!(
+                        "{slug}: rejected as its accepted gap; glossary refreshed, references left unchanged"
+                    );
+                } else {
+                    println!("{slug}: rejected, left unchanged");
+                }
+                rejected.push(CorpusClosureRejection {
+                    slug: slug.clone(),
+                    errors: errors.clone(),
+                });
+            }
+            ClosureDecision::Accepted(report) => {
+                write_relinked_instrument(context, corpus, report, &targets, &term_targets)?;
+                println!("{slug}: relinked {} references", corpus.references.len());
+                relinked += 1;
+            }
+        }
+    }
+    Ok((relinked, unchanged, rejected))
+}
+
+/// Which rejected instruments take a glossary-only refresh: an instrument
+/// whose rejection is exactly its recorded accepted gap, whose refreshed
+/// terms or usages differ from the persisted ones, and whose terms no other
+/// instrument imports (`additive_to`). Its references stay as persisted
+/// (operator decision 2026-10-19), so a grammar fix still reaches its
+/// glossary while the gap stays recorded.
+fn glossary_refreshable(
+    root: &Path,
+    contexts: &HashMap<String, InstrumentContext>,
+    corpora: &[(String, Corpus)],
+    decisions: &[ClosureDecision],
+    refreshed_as_persisted: &[bool],
+) -> Result<Vec<bool>> {
+    let gaps = read_accepted_closure_gaps(root)?;
+    let sorted = |errors: &[String]| {
+        let mut errors = errors.to_vec();
+        errors.sort();
+        errors
+    };
+    let imported = |instrument_id: &str| {
+        contexts.values().any(|context| {
+            context.config.glossary.as_ref().is_some_and(|glossary| {
+                glossary.additive_to.iter().any(|additive| {
+                    additive == instrument_id
+                        || additive
+                            .strip_prefix(instrument_id)
+                            .is_some_and(|rest| rest.starts_with(':'))
+                })
+            })
+        })
+    };
+    Ok(corpora
+        .iter()
+        .enumerate()
+        .map(|(index, (slug, corpus))| {
+            let ClosureDecision::Rejected(errors) = &decisions[index] else {
+                return false;
+            };
+            !refreshed_as_persisted[index]
+                && gaps
+                    .accepted
+                    .iter()
+                    .any(|gap| gap.slug == *slug && sorted(&gap.errors) == sorted(errors))
+                && !imported(&corpus.instrument.id)
+        })
+        .collect())
+}
+
+/// Write a glossary-only refresh: terms, usages and Markdown, never the
+/// persisted references or validation record.
+fn write_refreshed_glossary(
+    context: &InstrumentContext,
+    corpus: &Corpus,
+    targets: &LinkTargets,
+    term_targets: &TermTargets,
+) -> Result<()> {
+    let directory = &context.paths.corpus;
+    write_pretty_json(&corpus.terms, &directory.join("terms.json"))?;
+    write_pretty_json(&corpus.term_usages, &directory.join("term-usages.json"))?;
+    write_markdown(corpus, targets, term_targets, &context.paths.markdown)?;
     Ok(())
 }
 
@@ -3609,11 +3730,15 @@ fn apply_closure_decisions(
     corpora: &mut [(String, Corpus)],
     proposals: &[LinkedGraph],
     decisions: &[ClosureDecision],
+    glossary_refreshed: &[bool],
     original_terms: &[Vec<lex_core::DefinedTerm>],
     original_usages: &[Vec<lex_core::TermUsage>],
 ) {
     for (index, (_, corpus)) in corpora.iter_mut().enumerate() {
         match &decisions[index] {
+            // An accepted-gap instrument keeps its refreshed terms and usages
+            // with its persisted references.
+            ClosureDecision::Rejected(_) if glossary_refreshed[index] => {}
             ClosureDecision::Rejected(_) => {
                 corpus.terms.clone_from(&original_terms[index]);
                 corpus.term_usages.clone_from(&original_usages[index]);

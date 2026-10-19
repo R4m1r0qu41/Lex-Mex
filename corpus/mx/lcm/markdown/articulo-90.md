@@ -23,6 +23,6 @@ I. Los derechos a favor y las obligaciones a cargo del [Comerciante](articulo-4o
 
 II. Los derechos a favor y las obligaciones a cargo del Comerciante que hubieren vencido antes de la sentencia de concurso mercantil y cuya compensación esté prevista en las leyes;
 
-III. Los derechos y obligaciones que deriven de las operaciones previstas en los artículos [102](articulo-102.md) al [105](articulo-105.md) de esta Ley, y
+III. Los derechos y obligaciones que deriven de las operaciones previstas en los artículos [102](articulo-102.md) al [105](articulo-105.md) de esta [Ley](articulo-4o.md), y
 
 IV. Los créditos fiscales a favor y en contra del Comerciante. Sección II De los contratos pendientes

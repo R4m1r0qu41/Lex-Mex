@@ -18,11 +18,11 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 265 Bis 20
 
-Las Sociedades Financieras Populares que ofrezcan Servicios Electrónicos a través de Cajeros Automáticos y Terminales Punto de Venta, ya sean propios o de terceros que contraten dichas sociedades, deberán asegurarse de que estos cuenten con lectores que permitan obtener la información de las Tarjetas de crédito o débito con Circuito Integrado, en el entendido de que la información deberá ser leída directamente del propio circuito o chip.
+Las [Sociedades](articulo-1.md) Financieras Populares que ofrezcan [Servicios Electrónicos](articulo-1.md) a través de [Cajeros Automáticos](articulo-1.md) y Terminales Punto de Venta, ya sean propios o de terceros que contraten dichas sociedades, deberán asegurarse de que estos cuenten con lectores que permitan obtener la información de las Tarjetas de crédito o débito con Circuito Integrado, en el entendido de que la información deberá ser leída directamente del propio circuito o chip.
 
 Se exceptúa de lo dispuesto por el párrafo anterior, a:
 
-I. Los dispositivos que se encuentren conectados a Teléfonos Móviles y funcionen de manera similar a las Terminales Punto de Venta.
+I. Los dispositivos que se encuentren conectados a [Teléfonos Móviles](articulo-1.md) y funcionen de manera similar a las Terminales Punto de Venta.
 
 II. Las Terminales Punto de Venta en las que únicamente se acepten tarjetas emitidas por la Sociedad Financiera Popular adquirente.
 

@@ -29,7 +29,7 @@ V. Estudios y evaluaciones en materia de cambio climático que requiera el Siste
 
 VI. Proyectos de investigación, de innovación, desarrollo tecnológico y transferencia de tecnología en la materia, conforme lo establecido en la Estrategia Nacional, el Programa y los programas;
 
-VII. Compra de reducciones certificadas de emisiones de proyectos inscritos en el Registro o bien, cualquier otro aprobado por acuerdos internacionales suscritos por los Estados Unidos Mexicanos, y
+VII. Compra de reducciones certificadas de emisiones de proyectos inscritos en el [Registro](articulo-3o.md) o bien, cualquier otro aprobado por acuerdos internacionales suscritos por los Estados Unidos Mexicanos, y
 
 VIII. Otros proyectos y acciones en materia de cambio climático que la comisión considere estratégicos.
 

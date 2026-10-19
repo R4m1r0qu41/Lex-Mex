@@ -17,7 +17,7 @@ source_sha256: c78882a0177403ee04cd38dd09fa1657dc221b7f6827ddacf251c699ede867e4
 
 # Artículo 81
 
-La Agencia Federal de Aviación Civil impondrá las sanciones que correspondan cuando se cometan las infracciones siguientes: Párrafo reformado DOF 03-05-2023
+La [Agencia Federal de Aviación Civil](articulo-2.md) impondrá las sanciones que correspondan cuando se cometan las infracciones siguientes: Párrafo reformado DOF 03-05-2023
 
 I. Incumplir con las condiciones de construcción, operación, certificación y explotación de aeródromos civiles, con multa de cinco mil a ciento veinte mil Unidades de Medida y Actualización; Fracción reformada DOF 18-06-2018, 03-05-2023
 

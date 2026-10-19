@@ -17,4 +17,4 @@ source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 
 # Artículo 238
 
-Los concursos mercantiles a que se refiere el [artículo anterior](articulo-237.md), se sujetarán a las leyes, reglamentos, títulos de concesión y demás disposiciones que regulen la concesión y el servicio público de que se trate, aplicándose las disposiciones de esta Ley sólo en lo que no se les oponga.
+Los concursos mercantiles a que se refiere el [artículo anterior](articulo-237.md), se sujetarán a las leyes, reglamentos, títulos de concesión y demás disposiciones que regulen la concesión y el servicio público de que se trate, aplicándose las disposiciones de esta [Ley](articulo-4o.md) sólo en lo que no se les oponga.

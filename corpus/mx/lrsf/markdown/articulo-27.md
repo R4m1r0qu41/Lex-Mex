@@ -19,7 +19,7 @@ source_sha256: 02fe2afc021cdf42249b2003da14bf738f24157375ffc0b420e1e7d7a5c20fd5
 
 Para realizar trabajos de construcción o reconstrucción en las vías generales de comunicación ferroviarias, la persona interesada deberá:
 
-I. Validar el proyecto y los documentos relacionados con las obras que pretendan ejecutarse, debidamente dictaminados y verificados por el Supervisor de Proyecto, que contrate bajo su costa y estricta responsabilidad, quien deberá cumplir con los requisitos establecidos en el Reglamento del Servicio Ferroviario.
+I. Validar el proyecto y los documentos relacionados con las obras que pretendan ejecutarse, debidamente dictaminados y verificados por el [Supervisor de Proyecto](articulo-2.md), que contrate bajo su costa y estricta responsabilidad, quien deberá cumplir con los requisitos establecidos en el Reglamento del Servicio Ferroviario.
 
 El Supervisor de Proyecto deberá aprobar y garantizar que el proyecto ferroviario cumpla con la normatividad vigente, así como las consideraciones técnicas específicas de los subsistemas que lo integran, conforme a los criterios establecidos en el Reglamento del Servicio Ferroviario;
 

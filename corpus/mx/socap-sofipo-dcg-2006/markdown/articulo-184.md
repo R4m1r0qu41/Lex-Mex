@@ -20,9 +20,9 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 Para lograr los objetivos, anteriormente señalados, el comité de auditoría tendrá, cuando menos las funciones y responsabilidades siguientes:
 
-I. Proponer para aprobación del Consejo de Administración:
+I. Proponer para aprobación del [Consejo de Administración](articulo-1.md):
 
-a) Los manuales de políticas y procedimientos necesarios para el adecuado funcionamiento del sistema de control interno de la Sociedad Financiera Popular;
+a) Los manuales de políticas y procedimientos necesarios para el adecuado funcionamiento del sistema de control interno de la [Sociedad](articulo-1.md) Financiera Popular;
 
 b) Derogado.
 
@@ -46,7 +46,7 @@ b) Los ajustes que se hayan efectuado al Sistema de Remuneración como resultado
 
 c) Los aspectos significativos del Sistema de Remuneración que pudieran afectar la liquidez, solvencia y estabilidad de la Sociedad Financiera Popular.
 
-En adición a lo anterior, en el supuesto de que las Sociedades Financieras Populares asignen al comité de riesgos las funciones que le corresponden al Comité de Remuneración, en términos del artículo [209 Bis 7](articulo-209-Bis-7.md) de las presentes disposiciones, el comité de auditoría deberá elaborar y presentar al Consejo de Administración el reporte anual sobre el desempeño del Sistema de Remuneración a que se refiere el artículo [165](articulo-165.md), fracción VI de estas disposiciones.
+En adición a lo anterior, en el supuesto de que las Sociedades Financieras Populares asignen al comité de riesgos las funciones que le corresponden al [Comité de Remuneración](articulo-1.md), en términos del artículo [209 Bis 7](articulo-209-Bis-7.md) de las presentes disposiciones, el comité de auditoría deberá elaborar y presentar al Consejo de Administración el reporte anual sobre el desempeño del Sistema de Remuneración a que se refiere el artículo [165](articulo-165.md), fracción VI de estas disposiciones.
 
 El comité de auditoría se deberá reunir cuando menos trimestralmente.
 

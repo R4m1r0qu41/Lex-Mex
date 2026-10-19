@@ -18,4 +18,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 295
 
-Las Sociedades Financieras Populares, con independencia del Nivel de Operaciones que les sea asignado, deberán cubrir mensualmente a la Confederación que administre el Fondo de Protección en que participen, las cuotas por un monto equivalente a la duodécima parte de 3 al millar sobre los saldos al último día del mes de sus depósitos de dinero del mes de que se trate.
+Las [Sociedades](articulo-1.md) Financieras Populares, con independencia del Nivel de Operaciones que les sea asignado, deberán cubrir mensualmente a la [Confederación](articulo-1.md) que administre el Fondo de Protección en que participen, las cuotas por un monto equivalente a la duodécima parte de 3 al millar sobre los saldos al último día del mes de sus depósitos de dinero del mes de que se trate.

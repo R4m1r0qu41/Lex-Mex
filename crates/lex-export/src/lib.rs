@@ -16,8 +16,8 @@ pub struct LinkTarget {
     /// Corpus directory slug used for standard-Markdown relative paths.
     pub instrument_slug: String,
     pub filename: String,
-    /// Lowercase roman numerals of the fraction paragraphs the target
-    /// provision has, each carrying a `^f-<numeral>` block anchor in its
+    /// Anchor keys of the fraction paragraphs the target provision has
+    /// (`ii`, `v-bis`), each carrying a `^f-<key>` block anchor in its
     /// generated note.
     pub fractions: std::collections::HashSet<String>,
     /// Every block anchor actually emitted in the target's generated note
@@ -109,7 +109,11 @@ struct QualifierNumeral<'a> {
 }
 
 fn roman_numerals(text: &str) -> Vec<QualifierNumeral<'_>> {
-    let roman_re = regex::Regex::new(r"\b[IVXLCDM]+\b").expect("static regex");
+    let roman_re = regex::Regex::new(&format!(
+        r"\b[IVXLCDM]+(?:\s+{})?\b",
+        lex_core::FRACTION_QUALIFIER_PATTERN
+    ))
+    .expect("static regex");
     roman_re
         .find_iter(text)
         .map(|item| QualifierNumeral {
@@ -119,9 +123,17 @@ fn roman_numerals(text: &str) -> Vec<QualifierNumeral<'_>> {
         .collect()
 }
 
+/// The block-anchor key of a fraction label: `V` gives `v`, and `V Bis` or
+/// `V BIS` gives `v-bis`.
+fn fraction_key(label: &str) -> String {
+    lex_core::normalize_fraction_label(label)
+        .to_lowercase()
+        .replace(' ', "-")
+}
+
 fn term_anchor(term: &lex_core::DefinedTerm) -> String {
     if let Some(fraction) = &term.fraction {
-        format!("f-{}", fraction.to_lowercase())
+        format!("f-{}", fraction_key(fraction))
     } else {
         let slug = term.id.rsplit(":term:").next().unwrap_or("term");
         format!("t-{slug}")
@@ -547,7 +559,11 @@ fn with_block_anchors(corpus: &Corpus, provision: &Provision, body: &str) -> Str
 /// apartados) is not emitted at all, because a link to it could not identify
 /// one target. Links consult this registry and fall back to the whole note.
 fn paragraph_anchors(corpus: &Corpus, provision: &Provision) -> Vec<Option<String>> {
-    let fraction_re = regex::Regex::new(r"^([IVXLCDM]+)\.\s").expect("static regex");
+    let fraction_re = regex::Regex::new(&format!(
+        r"^([IVXLCDM]+(?:\.?\s+{})?)\.\s",
+        lex_core::FRACTION_QUALIFIER_PATTERN
+    ))
+    .expect("static regex");
     let mut anchors_by_offset: HashMap<usize, String> = HashMap::new();
     for term in &corpus.terms {
         if term.defining_provision_id == provision.id && term.fraction.is_none() {
@@ -561,7 +577,7 @@ fn paragraph_anchors(corpus: &Corpus, provision: &Provision) -> Vec<Option<Strin
         let anchor = anchors_by_offset.get(&offset).cloned().or_else(|| {
             fraction_re
                 .captures(paragraph)
-                .map(|captures| format!("f-{}", captures[1].to_lowercase()))
+                .map(|captures| format!("f-{}", fraction_key(&captures[1])))
         });
         anchors.push(anchor);
         offset += paragraph.chars().count() + 2;
@@ -604,7 +620,7 @@ fn reference_injections<'a>(
             // A `fracción N del presente artículo` edge: the numeral links
             // to the provision's own fraction block. Meaningless without
             // block anchors, so Obsidian only.
-            let numeral = edge.source_span.to_lowercase();
+            let numeral = fraction_key(&edge.source_span);
             if obsidian && target.fractions.contains(&numeral) {
                 injections.push(Injection {
                     start_char: edge.start_char,
@@ -637,7 +653,7 @@ fn reference_injections<'a>(
                 continue;
             };
             for numeral in roman_numerals(&qualifier.text) {
-                let lower = numeral.text.to_lowercase();
+                let lower = fraction_key(numeral.text);
                 if !target.fractions.contains(&lower) {
                     continue;
                 }
@@ -1509,6 +1525,36 @@ mod tests {
         assert_eq!(
             terms[&corpus.terms[1].id].anchor, None,
             "an inline fraction has no emitted anchor, so the link targets the note"
+        );
+    }
+
+    #[test]
+    fn a_qualified_fraction_definition_links_to_its_own_anchor() {
+        // lgeepa 3o prints `XX BIS.`; its term's label is `XX Bis`. The anchor
+        // had a space (`f-xx bis`) that no paragraph carried.
+        let mut glossary = sample_article("3");
+        glossary.text =
+            "Para efectos de esta Ley:\n\nXX. Impacto: el efecto.\n\nXX BIS. Luz intrusa: la luz."
+                .to_owned();
+        let term = lex_core::DefinedTerm {
+            schema_version: SCHEMA_VERSION.to_owned(),
+            id: format!("{LRITF_INSTRUMENT_ID}:term:luz-intrusa"),
+            term: "Luz intrusa".to_owned(),
+            instrument_id: LRITF_INSTRUMENT_ID.to_owned(),
+            defining_provision_id: glossary.id.clone(),
+            fraction: Some("XX Bis".to_owned()),
+            start_char: 46,
+            end_char: 75,
+            basis: Basis::ExpressDefinition,
+        };
+        let mut corpus = corpus_of(sample_instrument(), vec![glossary.clone()], Vec::new());
+        corpus.terms = vec![term];
+        let targets = link_targets(&[(&corpus, "lritf")]);
+        assert!(targets[&glossary.id].fractions.contains("xx-bis"));
+        let terms = term_targets(&[(&corpus, "lritf")], &targets);
+        assert_eq!(
+            terms[&corpus.terms[0].id].anchor.as_deref(),
+            Some("f-xx-bis")
         );
     }
 

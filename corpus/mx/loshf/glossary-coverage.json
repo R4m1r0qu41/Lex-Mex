@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:statute:loshf",
   "source_sha256": "00a876c2b691175df0253958b3f337e05d3610e11b79336ad1570539013d2865",
   "extracted_text_sha256": "d84485cc8cb93a181caeb13726aea73a217fe8df63a8d74edc0888f425525600",

@@ -46,7 +46,7 @@ el requerimiento de estimaciones totales para el crédito o para el portafolios 
 
 112 Artículo reformado mediante Resolución publicada en el Diario Oficial de la Federación el 25 de abril de 2024, que entrará en vigor el 1 de enero de 2027. 113 Artículo reformado mediante Resolución publicada en el Diario Oficial de la Federación el 25 de abril de 2024, que entrará en vigor el 1 de enero de 2027. 114 Artículo reformado mediante Resolución publicada en el Diario Oficial de la Federación el 25 de abril de 2024, que entrará en vigor el 1 de enero de 2027. 115 Artículo reformado mediante Resolución publicada en el Diario Oficial de la Federación el 25 de abril de 2024, que entrará en vigor el 1 de enero de 2027. 116 Artículo reformado mediante Resolución publicada en el Diario Oficial de la Federación el 25 de abril de 2024, que entrará en vigor el 1 de enero de 2027. 117 Artículo reformado mediante Resolución publicada en el Diario Oficial de la Federación el 25 de abril de 2024, que entrará en vigor el 1 de enero de 2027. 118 Artículo reformado mediante Resolución publicada en el Diario Oficial de la Federación el 25 de abril de 2024, que entrará en vigor el 1 de enero de 2027. 119 Artículo reformado mediante Resolución publicada en el Diario Oficial de la Federación el 25 de abril de 2024, que entrará en vigor el 1 de enero de 2027.
 
-estimaciones que corresponda al Proveedor de Protección, de conformidad con el presente artículo, por el monto de las estimaciones requeridas para el crédito o portafolios de créditos.
+estimaciones que corresponda al [Proveedor de Protección](articulo-1.md), de conformidad con el presente artículo, por el monto de las estimaciones requeridas para el crédito o portafolios de créditos.
 
 2. Si el valor de los Esquemas de Cobertura de Primeras Pérdidas es menor que el (93) 120
 
@@ -84,7 +84,7 @@ en Paso y Medida o proporcionales, únicamente serán reconocidos, para efectos 
 
 (93) 132 Grupo 2
 
-(93) 133 I. Instituciones de banca múltiple nacionales que cuenten con calificación de, al menos, Grado de Inversión en la escala nacional y sociedades controladoras de la acreditada.
+(93) 133 I. Instituciones de banca múltiple nacionales que cuenten con calificación de, al menos, [Grado de Inversión](articulo-1.md) en la escala nacional y sociedades controladoras de la acreditada.
 
 (93) 134 II. Otras entidades integrantes del sistema financiero mexicano y aseguradoras que cuenten, al menos, con Grado de Inversión en la escala nacional.
 

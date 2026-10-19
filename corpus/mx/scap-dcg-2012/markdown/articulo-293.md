@@ -17,4 +17,4 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 293
 
-El Comité Técnico deberá integrar por cada miembro del Comité de Protección al Ahorro Cooperativo, un expediente que contendrá la documentación e información a que se refiere el Artículo [291](articulo-291.md) de las presentes disposiciones.
+El [Comité Técnico](articulo-1.md) deberá integrar por cada miembro del [Comité de Protección al Ahorro Cooperativo](articulo-1.md), un expediente que contendrá la documentación e información a que se refiere el Artículo [291](articulo-291.md) de las presentes disposiciones.

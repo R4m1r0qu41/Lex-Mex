@@ -18,9 +18,9 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 302
 
-El Fondo de Protección, a través del Comité de Protección al Ahorro, cubrirá los depósitos de dinero de los ahorradores considerando el monto del principal y accesorios, hasta por una cantidad equivalente a veinticinco mil UDIS por persona física o moral, cualquiera que sea el número y clase de depósitos a su favor y a cargo de una misma Sociedad Financiera Popular, cuando esta entre en estado de disolución y liquidación, o bien, sea declarada en concurso mercantil.
+El Fondo de Protección, a través del Comité de Protección al Ahorro, cubrirá los depósitos de dinero de los ahorradores considerando el monto del principal y accesorios, hasta por una cantidad equivalente a veinticinco mil UDIS por persona física o moral, cualquiera que sea el número y clase de depósitos a su favor y a cargo de una misma [Sociedad](articulo-1.md) Financiera Popular, cuando esta entre en estado de disolución y liquidación, o bien, sea declarada en concurso mercantil.
 
-Los depósitos de dinero de los ahorradores comprenden los depósitos a que se refiere el inciso a) de la fracción I del artículo 36 de la Ley.
+Los depósitos de dinero de los ahorradores comprenden los depósitos a que se refiere el inciso a) de la fracción I del artículo 36 de la [Ley](articulo-1.md).
 
 En protección del público ahorrador, las Sociedades Financieras Populares deberán integrar una base de datos con la información de los depósitos en dinero de los ahorradores y ponerla a disposición del Comité de Supervisión para que este verifique al menos cada seis meses su contenido, identifique aquellas cuentas de depósito en las que se detecte que hay datos incompletos o clientes no localizables y comunique a las propias Sociedades Financieras Populares tales irregularidades, para que estas tomen las acciones que permitan subsanarlas a más tardar dentro de los sesenta días siguientes a la comunicación respectiva. Dicha base de datos deberá integrarse conforme a lo establecido en el Anexo Y de las presentes disposiciones.
 

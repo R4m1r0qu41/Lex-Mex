@@ -18,4 +18,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 265 Bis 32
 
-Las Sociedades Financieras Populares deberán implementar las acciones correctivas que la Comisión les requiera, como resultado de la identificación de riesgos asociados con el uso de Servicios Electrónicos.
+Las [Sociedades](articulo-1.md) Financieras Populares deberán implementar las acciones correctivas que la Comisión les requiera, como resultado de la identificación de riesgos asociados con el uso de [Servicios Electrónicos](articulo-1.md).

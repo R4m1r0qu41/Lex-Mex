@@ -17,7 +17,7 @@ source_sha256: 62420210c5aaffe687daf130a64ff506009625340c554bfb36d2f1b5dcac0192
 
 # Artículo 27
 
-Los promoventes para inscribir en el Registro los proyectos o acciones de [Mitigación](../../lgcc/markdown/articulo-3o.md), reducción o absorción de [Emisiones](../../lgcc/markdown/articulo-3o.md) de Gases o Compuestos de Efecto Invernadero y comprobar que no incurre en una doble contabilidad, deberán presentar a la [Secretaría](../../lgcc/markdown/articulo-3o.md) lo siguiente:
+Los promoventes para inscribir en el [Registro](../../lgcc/markdown/articulo-3o.md) los proyectos o acciones de [Mitigación](../../lgcc/markdown/articulo-3o.md), reducción o absorción de [Emisiones](../../lgcc/markdown/articulo-3o.md) de Gases o Compuestos de Efecto Invernadero y comprobar que no incurre en una doble contabilidad, deberán presentar a la [Secretaría](../../lgcc/markdown/articulo-3o.md) lo siguiente:
 
 I. Datos generales de las partes involucradas en el desarrollo del proyecto:
 

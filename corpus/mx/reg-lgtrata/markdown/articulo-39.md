@@ -17,7 +17,7 @@ source_sha256: 1d398a90955ef45ccb7baf4d56534c676cde8325e8b109c4d32120909e783694
 
 # Artículo 39
 
-El Presidente tendrá las siguientes atribuciones:
+El [Presidente](articulo-2.md) tendrá las siguientes atribuciones:
 
 I. Presidir las sesiones;
 

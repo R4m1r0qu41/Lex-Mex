@@ -25,7 +25,7 @@ II. La cuantía del crédito que estime debe reconocerse, en los términos estab
 
 III. Las garantías, condiciones, términos y otras características del crédito, entre ellas el tipo de documento que evidencie el crédito, y
 
-IV. El grado y prelación que de conformidad con lo dispuesto en esta Ley, estime le correspondan al crédito.
+IV. El grado y prelación que de conformidad con lo dispuesto en esta [Ley](articulo-4o.md), estime le correspondan al crédito.
 
 El conciliador deberá integrar a la lista provisional de créditos, una relación en la que exprese, respecto de cada crédito, las razones y las causas en las que apoya su propuesta, justificando las diferencias que, en su caso, existan con respecto a lo registrado en la contabilidad del [Comerciante](articulo-4o.md) o a lo solicitado por el acreedor. Asimismo, deberá incluir una lista razonada de aquellos créditos que propone no reconocer. Párrafo reformado DOF 27-12-2007
 

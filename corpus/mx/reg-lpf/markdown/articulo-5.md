@@ -209,7 +209,7 @@ VII. DIRECCIONES GENERALES:
 
 65) Operaciones Estratégicas y Unidades Especiales de la Gendarmería, y Inciso adicionado DOF 22-08-2014
 
-66) Proximidad Social de la Gendarmería. Inciso adicionado DOF 22-08-2014
+66) [Proximidad Social](articulo-2.md) de la Gendarmería. Inciso adicionado DOF 22-08-2014
 
 Las áreas de investigación y servicios técnicos especializados a que se refiere el artículo [54](../../lpf/markdown/articulo-54.md) de la [Ley](articulo-2.md), serán: a) Inteligencia;
 

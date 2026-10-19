@@ -18,13 +18,13 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 16
 
-En ningún caso podrán ser Consejeros independientes de las Federaciones:
+En ningún caso podrán ser [Consejeros](articulo-1.md) independientes de las [Federaciones](articulo-1.md):
 
-I. Las personas que tengan alguno de los impedimentos señalados en las fracciones I a VIII del artículo 21 de la Ley;
+I. Las personas que tengan alguno de los impedimentos señalados en las fracciones I a VIII del artículo 21 de la [Ley](articulo-1.md);
 
-II. Los empleados o funcionarios de la propia Federación, así como los Consejeros, Miembros del Consejo de Vigilancia o Comisario, empleados o funcionarios de las Sociedades Financieras Populares que ésta supervise de manera auxiliar o de la Confederación que administre el Fondo de Protección respectivo;
+II. Los empleados o funcionarios de la propia Federación, así como los Consejeros, [Miembros del Consejo de Vigilancia o Comisario](articulo-1.md), empleados o funcionarios de las [Sociedades](articulo-1.md) Financieras Populares que ésta supervise de manera auxiliar o de la [Confederación](articulo-1.md) que administre el Fondo de Protección respectivo;
 
-III. Representantes ante la asamblea general de afiliados, representantes ante la asamblea general de la Confederación respectiva así como socios o accionistas de las Sociedades Financieras Populares que tengan Poder de Mando;
+III. Representantes ante la asamblea general de afiliados, representantes ante la asamblea general de la Confederación respectiva así como socios o accionistas de las Sociedades Financieras Populares que tengan [Poder de Mando](articulo-1.md);
 
 IV. Socios o empleados de sociedades o asociaciones que presten servicios de auditoría, asesoría o consultoría a la propia Federación, así como a alguna de las Sociedades Financieras Populares que ésta supervise de manera auxiliar o la Confederación que administre el Fondo de Protección respectivo, y que sus ingresos dependan significativamente de esta relación.
 
@@ -38,7 +38,7 @@ VI. Empleados, funcionarios o directivos de una fundación, asociación civil o 
 
 Se consideran donativos importantes aquellos que representen más de 15 por ciento del total de donativos recibidos u otorgados por la fundación, asociación civil o sociedad civil de que se trate;
 
-VII. Directores generales o funcionarios de primer y segundo nivel de una sociedad en cuyo consejo de administración participe el Gerente General o un directivo de alto nivel de la Federación, el Director o Gerente General o un funcionario de alto nivel de alguna Sociedad Financiera Popular que ésta supervise de manera auxiliar, o bien el Gerente General o un funcionario de alto nivel de la Confederación que administre el Fondo de Protección respectivo;
+VII. Directores generales o funcionarios de primer y segundo nivel de una sociedad en cuyo consejo de administración participe el Gerente General o un directivo de alto nivel de la Federación, el [Director o Gerente General](articulo-1.md) o un funcionario de alto nivel de alguna Sociedad Financiera Popular que ésta supervise de manera auxiliar, o bien el Gerente General o un funcionario de alto nivel de la Confederación que administre el Fondo de Protección respectivo;
 
 VIII. Cónyuges, concubinas o concubinarios, así como los parientes por consanguinidad y afinidad hasta el primer grado o civil, respecto de alguna de las personas mencionadas en las fracciones IV a VII anteriores, o bien, hasta el tercer grado, en relación con las señaladas en las fracciones II, III y IX del presente artículo;
 

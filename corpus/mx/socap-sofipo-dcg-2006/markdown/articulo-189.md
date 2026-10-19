@@ -20,7 +20,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 Las funciones de contraloría deberán contemplar, por lo menos, los aspectos siguientes:
 
-I. El establecimiento de medidas encaminadas a verificar el correcto apego de los distintos procesos, operaciones y transacciones a la regulación aplicable a la Sociedad Financiera Popular;
+I. El establecimiento de medidas encaminadas a verificar el correcto apego de los distintos procesos, operaciones y transacciones a la regulación aplicable a la [Sociedad](articulo-1.md) Financiera Popular;
 
 II. Establecer normas, procedimientos y medidas para vigilar que los procesos de documentación y liquidación diaria de operaciones y transacciones se efectúan de manera adecuada y conforme a los objetivos y lineamientos de la Sociedad Financiera Popular, y
 

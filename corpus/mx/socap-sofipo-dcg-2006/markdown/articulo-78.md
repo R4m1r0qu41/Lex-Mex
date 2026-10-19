@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 78
 
-El Comisario de las Sociedades Financieras Populares deberá establecer y dar seguimiento permanente a las medidas de control que rijan al proceso de operación diaria en la administración de riesgos, relativas a:
+El Comisario de las [Sociedades](articulo-1.md) Financieras Populares deberá establecer y dar seguimiento permanente a las medidas de control que rijan al proceso de operación diaria en la administración de riesgos, relativas a:
 
 I. El registro, documentación y liquidación de las operaciones, que impliquen riesgos conforme a las políticas y procedimientos establecidos en los manuales de administración de riesgos de la Sociedad Financiera Popular;
 
@@ -26,7 +26,7 @@ II. La observancia de los límites de exposición al riesgo de crédito y otros;
 
 III. Llevar a cabo, cuando menos en forma anual, una auditoría de administración de riesgo de crédito que contemple, entre otros, el desarrollo de la administración del riesgo de crédito de conformidad con lo establecido en la presente sección y en el propio manual de políticas y procedimientos para la administración de riesgos de la Sociedad Financiera Popular, e
 
-IV. Informar al Consejo de Administración, cuando menos una vez al año, sobre la consistencia en la aplicación del [Sistema de Remuneración](articulo-1.md) de la Sociedad Financiera Popular de que se trate. El informe deberá contener como mínimo, lo siguiente:
+IV. Informar al [Consejo de Administración](articulo-1.md), cuando menos una vez al año, sobre la consistencia en la aplicación del [Sistema de Remuneración](articulo-1.md) de la Sociedad Financiera Popular de que se trate. El informe deberá contener como mínimo, lo siguiente:
 
 a) Una evaluación del apego a las políticas y procedimientos de remuneración y en su caso, las excepciones, fundamentando las razones que les dieron origen.
 

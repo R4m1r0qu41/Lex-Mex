@@ -54,4 +54,4 @@ a) Cerciorarse de que se haya cumplido con los mecanismos de control establecido
 
 b) Verificar que las plataformas cumplan con lo señalado en el artículo [86 Bis 12](articulo-86-Bis-12.md) de las presentes disposiciones, en caso de que las uniones de crédito utilicen plataformas automatizadas.
 
-El área encargada de la función de auditoría interna de crédito, deberá proporcionar un reporte de lo observado en sus revisiones, cuando menos una vez al año, al [Consejo](articulo-1.md) y al Comité de Auditoría, así como mantener dicho reporte a disposición del auditor externo. En todo caso, la [Comisión](articulo-1.md) podrá requerir el reporte referido a la unión de crédito.
+El área encargada de la función de auditoría interna de crédito, deberá proporcionar un reporte de lo observado en sus revisiones, cuando menos una vez al año, al [Consejo](articulo-1.md) y al [Comité de Auditoría](articulo-1.md), así como mantener dicho reporte a disposición del auditor externo. En todo caso, la [Comisión](articulo-1.md) podrá requerir el reporte referido a la unión de crédito.

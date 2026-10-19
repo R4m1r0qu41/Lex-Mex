@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:statute:lges",
   "source_sha256": "eaf7300918a6f5dc58fbd5f36373f914841ad3b728a6ac60d6c9ff2f28ec8e12",
   "extracted_text_sha256": "1351eebb19e06664ba495f5806b3dc27f568e7705452fe5496362ea227b5f2da",
@@ -27,6 +27,7 @@
         "XIV",
         "XV"
       ],
+      "unread_fractions": [],
       "term_count": 15
     }
   ],

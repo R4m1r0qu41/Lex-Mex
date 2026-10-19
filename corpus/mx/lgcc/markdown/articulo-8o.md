@@ -61,7 +61,7 @@ XI. Promover la participación corresponsable de la sociedad en la adaptación y
 
 XII. Elaborar e integrar, en colaboración con el [INECC](articulo-3o.md), la información de las categorías de fuentes emisoras de su jurisdicción, para su incorporación al [Inventario](articulo-3o.md) Nacional de [Emisiones](articulo-3o.md) y en su caso, integrar el inventario estatal de emisiones, conforme a los criterios e indicadores elaborados por la federación en la materia;
 
-XIII. Elaborar, publicar y actualizar los atlas de riesgo de su competencia, con información proporcionada por el Atlas Nacional de [Riesgo](articulo-3o.md) y el Atlas Nacional de [Vulnerabilidad](articulo-3o.md) al Cambio Climático, en coordinación con sus municipios o demarcaciones territoriales, conforme a los criterios emitidos por la federación; Fracción reformada DOF 15-11-2023
+XIII. Elaborar, publicar y actualizar los atlas de riesgo de su competencia, con información proporcionada por el Atlas Nacional de [Riesgo](articulo-3o.md) y el [Atlas Nacional de Vulnerabilidad al Cambio Climático](articulo-3o.md), en coordinación con sus municipios o demarcaciones territoriales, conforme a los criterios emitidos por la federación; Fracción reformada DOF 15-11-2023
 
 XIV. Establecer las bases e instrumentos para promover el fortalecimiento de capacidades institucionales y sectoriales para enfrentar al cambio climático;
 

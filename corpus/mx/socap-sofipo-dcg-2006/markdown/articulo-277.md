@@ -18,10 +18,10 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 277
 
-Para el cumplimiento de los objetivos establecidos en el artículo [276](articulo-276.md) anterior, el proceso de supervisión auxiliar se realizará de conformidad con las políticas y lineamientos establecidos por el Comité de Supervisión, cumpliendo como mínimo con lo establecido en la Guía de Supervisión Auxiliar, y se dividirá en las dos fases siguientes:
+Para el cumplimiento de los objetivos establecidos en el artículo [276](articulo-276.md) anterior, el proceso de supervisión auxiliar se realizará de conformidad con las políticas y lineamientos establecidos por el Comité de Supervisión, cumpliendo como mínimo con lo establecido en la [Guía de Supervisión Auxiliar](articulo-1.md), y se dividirá en las dos fases siguientes:
 
-I. Supervisión Extra-situ, y
+I. [Supervisión Extra-situ](articulo-1.md), y
 
-II. Supervisión In-situ.
+II. [Supervisión In-situ](articulo-1.md).
 
-En su desarrollo, estas fases deberán encontrarse estrechamente vinculadas para coadyuvar a que el proceso de supervisión auxiliar se lleve a cabo con continuidad y eficiencia. Los documentos elaborados como parte de la Supervisión Extra-situ deberán hacerse del conocimiento de los Supervisores Auxiliares encargados de la Supervisión In-situ y viceversa.
+En su desarrollo, estas fases deberán encontrarse estrechamente vinculadas para coadyuvar a que el proceso de supervisión auxiliar se lleve a cabo con continuidad y eficiencia. Los documentos elaborados como parte de la Supervisión Extra-situ deberán hacerse del conocimiento de los [Supervisores Auxiliares](articulo-1.md) encargados de la Supervisión In-situ y viceversa.

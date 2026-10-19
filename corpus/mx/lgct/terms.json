@@ -128,6 +128,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lgct:article:6",
     "fraction": "X Ter",
     "start_char": 3167,
+    "end_char": 3537,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgct:term:transporte-publico",
+    "term": "Transporte público",
+    "instrument_id": "urn:lex-mx:federal:statute:lgct",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgct:article:6",
+    "fraction": "X Quáter",
+    "start_char": 3537,
     "end_char": 3917,
     "basis": "express_definition"
   },

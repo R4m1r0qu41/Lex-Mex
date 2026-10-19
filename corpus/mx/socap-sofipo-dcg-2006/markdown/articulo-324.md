@@ -18,4 +18,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 324
 
-Las Federaciones entregarán trimestralmente a la Comisión la información a que se refieren las Series R03 y R04, el reporte D-0841 de la Serie R08, la Serie R13 y el reporte B-2221 de la Serie R22, con cifras a los meses de marzo, junio, septiembre y diciembre, a más tardar el último día del mes inmediato siguiente al de su fecha.
+Las [Federaciones](articulo-1.md) entregarán trimestralmente a la Comisión la información a que se refieren las Series R03 y R04, el reporte D-0841 de la Serie R08, la Serie R13 y el reporte B-2221 de la Serie R22, con cifras a los meses de marzo, junio, septiembre y diciembre, a más tardar el último día del mes inmediato siguiente al de su fecha.

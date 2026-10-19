@@ -17,6 +17,6 @@ source_sha256: c78882a0177403ee04cd38dd09fa1657dc221b7f6827ddacf251c699ede867e4
 
 # Artículo 17 TER
 
-La Agencia Federal de Aviación Civil emitirá las reglas de carácter técnico para el uso de áreas de despegue y aterrizaje de aerostatos de conformidad con las disposiciones técnico- administrativas.
+La [Agencia Federal de Aviación Civil](articulo-2.md) emitirá las reglas de carácter técnico para el uso de áreas de despegue y aterrizaje de aerostatos de conformidad con las disposiciones técnico- administrativas.
 
 Artículo adicionado DOF 03-05-2023

@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 88
 
-Las Sociedades Financieras Populares deberán contar con un manual de crédito aprobado por el Consejo de Administración, al cual deberá sujetarse el Comité de Crédito o su equivalente. El Consejo de Administración podrá escuchar la opinión del comité técnico a que se refiere el artículo [80](articulo-80.md) de estas disposiciones, para efectos de la aprobación de dicho manual, así como de sus modificaciones. El manual deberá contener las políticas y procedimientos de crédito, con los lineamientos mínimos en las etapas del proceso crediticio siguientes:
+Las [Sociedades](articulo-1.md) Financieras Populares deberán contar con un manual de crédito aprobado por el [Consejo de Administración](articulo-1.md), al cual deberá sujetarse el [Comité de Crédito](articulo-1.md) o su equivalente. El Consejo de Administración podrá escuchar la opinión del comité técnico a que se refiere el artículo [80](articulo-80.md) de estas disposiciones, para efectos de la aprobación de dicho manual, así como de sus modificaciones. El manual deberá contener las políticas y procedimientos de crédito, con los lineamientos mínimos en las etapas del proceso crediticio siguientes:
 
 I. Promoción y otorgamiento de crédito.
 
@@ -66,7 +66,7 @@ Asimismo, deberán establecer procedimientos de evaluación y seguimiento. Tales
 
 IV. Recuperación de cartera crediticia.
 
-Tratándose de los procedimientos de cobranza judicial, el Director o Gerente General designará el o las áreas de negocio que realizarán las funciones correspondientes, las cuales deberán ser independientes de las áreas de crédito.
+Tratándose de los procedimientos de cobranza judicial, el [Director o Gerente General](articulo-1.md) designará el o las áreas de negocio que realizarán las funciones correspondientes, las cuales deberán ser independientes de las áreas de crédito.
 
 V. Sistemas automatizados.
 
@@ -80,13 +80,13 @@ Las Sociedad Financiera Popular deberán instrumentar un mecanismo de control y 
 
 En el caso de acreditados que representen un “Riesgo Común”, de conformidad con lo establecido en el artículo [209 Bis 8](articulo-209-Bis-8.md) de las presentes disposiciones, el expediente que se conforme deberá conjuntarse con los de aquellas personas que representen el “Riesgo Común”.
 
-Asimismo, dichas Sociedades Financieras Populares, al celebrar operaciones crediticias con las personas a que se refieren los artículos 35, 35 Bis y 35 Bis 1 de la Ley, deberán señalar en los expedientes de crédito respectivos que se trata de una operación celebrada con personas relacionadas en los términos de los citados artículos, debiendo identificar claramente dicha condición en el expediente, acompañando la declaración e información correspondiente proporcionada y firmada por los solicitantes.
+Asimismo, dichas Sociedades Financieras Populares, al celebrar operaciones crediticias con las personas a que se refieren los artículos 35, 35 Bis y 35 Bis 1 de la [Ley](articulo-1.md), deberán señalar en los expedientes de crédito respectivos que se trata de una operación celebrada con personas relacionadas en los términos de los citados artículos, debiendo identificar claramente dicha condición en el expediente, acompañando la declaración e información correspondiente proporcionada y firmada por los solicitantes.
 
 La documentación e información que deberá establecerse en los manuales, para la integración de los expedientes de crédito, es la siguiente:
 
 a) Identificación del solicitante:
 
-1. Tratándose de personas morales, escrituras constitutivas del acreditado y avalista y/u obligado solidario y modificaciones a las mismas, debidamente inscritas en el Registro Público de la Propiedad y/o de Comercio correspondiente, y poderes en favor de la(s) persona(s) que suscriba(n) el o los contratos y/o títulos de crédito, y
+1. Tratándose de personas morales, escrituras constitutivas del acreditado y avalista y/u obligado solidario y modificaciones a las mismas, debidamente inscritas en el [Registro](articulo-1.md) Público de la Propiedad y/o de Comercio correspondiente, y poderes en favor de la(s) persona(s) que suscriba(n) el o los contratos y/o títulos de crédito, y
 
 2. En el caso de personas físicas, copia del acta de nacimiento o comprobantes que permitan conocer la identidad de la persona de que se trate, o bien identificación oficial vigente con fotografía y firma del acreditado y del avalista y, de ser el caso del obligado solidario, así como su huella digital y, de ser el caso, copia del acta de matrimonio.
 
@@ -100,7 +100,7 @@ b) Otorgamiento y seguimiento:
 
 4. Copia de los contratos y títulos de crédito con los que se haya documentado el crédito;
 
-5. La documentación que acredite haber formulado ante una Sociedad de Información Crediticia una consulta previa, en términos de lo previsto por el Capítulo IV del Título Cuarto de las presentes disposiciones, así como la información sobre el historial del acreditado respecto del cumplimiento de sus obligaciones con la Sociedad Financiera Popular, y
+5. La documentación que acredite haber formulado ante una [Sociedad de Información Crediticia](articulo-1.md) una consulta previa, en términos de lo previsto por el Capítulo IV del Título Cuarto de las presentes disposiciones, así como la información sobre el historial del acreditado respecto del cumplimiento de sus obligaciones con la Sociedad Financiera Popular, y
 
 6. En su caso, correspondencia con el acreditado, como cartas, telegramas y otros relacionados con modificaciones a los términos y condiciones del crédito otorgado.
 
@@ -108,7 +108,7 @@ c) Comprobante de domicilio.
 
 d) Tratándose de los organismos autónomos de las entidades federativas y de los municipios, organismos descentralizados, empresas de participación estatal mayoritaria y fideicomisos de las entidades federativas y municipios, así como de cualquier otro ente público sobre las que dichas entidades federativas y municipios tengan control sobre sus decisiones o acciones, el expediente deberá contener, además de lo previsto en los incisos anteriores, lo siguiente:
 
-1. Solicitud de crédito debidamente llenada y firmada, ya sea autógrafa o electrónicamente por servidor público facultado, o bien, la invitación a participar en el Financiamiento de conformidad con la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios o la que la sustituya. En ambos casos, las Sociedades Financieras Populares deberán hacerse constar la evidencia y criterios que originaron dicho ofrecimiento.
+1. Solicitud de crédito debidamente llenada y firmada, ya sea autógrafa o electrónicamente por servidor público facultado, o bien, la invitación a participar en el [Financiamiento](articulo-1.md) de conformidad con la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios o la que la sustituya. En ambos casos, las Sociedades Financieras Populares deberán hacerse constar la evidencia y criterios que originaron dicho ofrecimiento.
 
 2. Estudios de crédito donde se analice al acreditado y avalista, cuando este último sea considerado en el proceso de calificación del crédito.
 

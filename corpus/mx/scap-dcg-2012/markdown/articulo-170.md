@@ -17,7 +17,7 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 170
 
-El Auditor Interno deberá contar con programas anuales para el desarrollo de sus funciones, que contemplen, al menos, los aspectos siguientes:
+El [Auditor Interno](articulo-1.md) deberá contar con programas anuales para el desarrollo de sus funciones, que contemplen, al menos, los aspectos siguientes:
 
 I. La periodicidad con la que se realizarán las auditorías en cada área, tomando en cuenta el tipo de revisión que se efectúe. II. El plazo máximo de realización de la auditoría según su tipo.
 

@@ -27,7 +27,7 @@ III. El monto total de inversión financiada y el calendario de ejecución para 
 
 IV. En el caso de los proyectos que presenten cambio de alcance, la justificación correspondiente;
 
-V. Los principales parámetros y supuestos empleados para la elaboración de la Evaluación costo y beneficio de los proyectos nuevos y cambios de alcance, así como para otras actualizaciones de los proyectos ya autorizados; Fracción reformada DOF 08-08-2025
+V. Los principales parámetros y supuestos empleados para la elaboración de la [Evaluación costo y beneficio](articulo-2.md) de los proyectos nuevos y cambios de alcance, así como para otras actualizaciones de los proyectos ya autorizados; Fracción reformada DOF 08-08-2025
 
 VI. Una manifestación del impacto esperado de los proyectos en el desarrollo del sector correspondiente y, en su caso, una evaluación del impacto observado de los proyectos en operación aprobados en ejercicios anteriores, y
 

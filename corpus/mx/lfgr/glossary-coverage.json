@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:statute:lfgr",
   "source_sha256": "cbd3307808b89748077396e108c02651da8099a5bc491657c17fa676618d85f1",
   "extracted_text_sha256": "a8fca7cf2d04f2ac0104a32624e8f0ef758a20dfba3a0c67c5df01b7ba6617af",
@@ -20,6 +20,7 @@
         "VII",
         "VIII"
       ],
+      "unread_fractions": [],
       "term_count": 8
     }
   ],

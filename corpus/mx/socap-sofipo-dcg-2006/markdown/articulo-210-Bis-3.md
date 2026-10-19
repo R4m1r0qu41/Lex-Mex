@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 210 Bis 3
 
-Las Sociedades Financieras Populares que hayan obtenido autorización de la Comisión para aplicar criterios contables especiales o registros contables especiales, en términos de los artículos [210 Bis 1](articulo-210-Bis-1.md) y [210 Bis 2](articulo-210-Bis-2.md) respectivamente, deberán revelar en las notas aclaratorias a los estados financieros básicos consolidados anuales dictaminados y trimestrales correspondientes a los periodos en donde estos se apliquen y en los comunicados públicos de información financiera, lo siguiente:
+Las [Sociedades](articulo-1.md) Financieras Populares que hayan obtenido autorización de la Comisión para aplicar criterios contables especiales o registros contables especiales, en términos de los artículos [210 Bis 1](articulo-210-Bis-1.md) y [210 Bis 2](articulo-210-Bis-2.md) respectivamente, deberán revelar en las notas aclaratorias a los estados financieros básicos consolidados anuales dictaminados y trimestrales correspondientes a los periodos en donde estos se apliquen y en los comunicados públicos de información financiera, lo siguiente:
 
 I. Que cuentan con autorización de la Comisión para aplicar criterios contables especiales o registros contables especiales, especificando en su caso, el periodo por el cual se cuenta con la autorización para su aplicación.
 

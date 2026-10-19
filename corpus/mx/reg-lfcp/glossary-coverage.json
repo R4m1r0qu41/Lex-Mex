@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lfcp",
   "source_sha256": "43723ba379e128c1a1c1be4b085ecc870946cdec43d56f83e7314c077361368f",
   "extracted_text_sha256": "95353207db72ed124335d7e20ca2621a5530000a2ec9686229f96daaada2f8ee",

@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lfda",
   "source_sha256": "2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3",
   "extracted_text_sha256": "698ba557a673e5a5c35ab201deaa353959ffb6f1fb94e64c542bd53aaa6538a4",
@@ -23,6 +23,7 @@
         "X",
         "XI"
       ],
+      "unread_fractions": [],
       "term_count": 11
     }
   ],

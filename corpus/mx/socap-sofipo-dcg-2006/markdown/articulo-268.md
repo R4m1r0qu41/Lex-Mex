@@ -18,12 +18,12 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 268
 
-En adición a lo dispuesto por los estatutos sociales de la Federación o Confederación, el Auditor Legal o Interno tendrá, según corresponda, las atribuciones siguientes:
+En adición a lo dispuesto por los estatutos sociales de la [Federación](articulo-1.md) o [Confederación](articulo-1.md), el [Auditor Legal](articulo-1.md) o Interno tendrá, según corresponda, las atribuciones siguientes:
 
-I. Revisar los contratos de afiliación o, en su caso, de supervisión auxiliar de las Sociedades Financieras Populares;
+I. Revisar los contratos de afiliación o, en su caso, de supervisión auxiliar de las [Sociedades](articulo-1.md) Financieras Populares;
 
 II. Verificar que las operaciones de la Federación y Confederación correspondientes se sujeten a la normatividad aplicable;
 
-III. Revisar que las actas de la asamblea general de afiliadas, Consejo de Administración, y en su caso, Consejo de Vigilancia de las sesiones de que se trate, cumplan con los requisitos establecidos en los estatutos y reglamento interno del Organismo de Integración correspondiente y se lleven conforme a la normatividad aplicable;
+III. Revisar que las actas de la asamblea general de afiliadas, [Consejo de Administración](articulo-1.md), y en su caso, Consejo de Vigilancia de las sesiones de que se trate, cumplan con los requisitos establecidos en los estatutos y reglamento interno del Organismo de Integración correspondiente y se lleven conforme a la normatividad aplicable;
 
-IV. Dar opinión respecto de aquellos asuntos que sean de su competencia, y V. Informar al Contralor Normativo, al Consejo de Administración y a la asamblea general del cumplimiento de sus obligaciones y responsabilidades, así como en cualquier momento de los hallazgos e irregularidades de los que tenga conocimiento en el ejercicio de sus atribuciones.
+IV. Dar opinión respecto de aquellos asuntos que sean de su competencia, y V. Informar al [Contralor Normativo](articulo-1.md), al Consejo de Administración y a la asamblea general del cumplimiento de sus obligaciones y responsabilidades, así como en cualquier momento de los hallazgos e irregularidades de los que tenga conocimiento en el ejercicio de sus atribuciones.

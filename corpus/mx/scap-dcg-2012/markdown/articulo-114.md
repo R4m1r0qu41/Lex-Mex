@@ -18,7 +18,7 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 114
 
-El Auditor Interno deberá verificar, entre otros aspectos, el funcionamiento adecuado del sistema de control interno, para lo cual, deberá evaluar la adecuada implementación y cumplimiento de las políticas y procedimientos en materia de control interno establecidos por el Consejo de Administración.
+El [Auditor Interno](articulo-1.md) deberá verificar, entre otros aspectos, el funcionamiento adecuado del sistema de control interno, para lo cual, deberá evaluar la adecuada implementación y cumplimiento de las políticas y procedimientos en materia de control interno establecidos por el [Consejo de Administración](articulo-1.md).
 
 Asimismo, para cumplir con los objetivos señalados en el párrafo anterior, el Auditor Interno tendrá las funciones y responsabilidades siguientes:
 
@@ -30,4 +30,4 @@ III. Vigilar el cumplimiento de las leyes y regulaciones aplicables.
 
 IV. Derogada.
 
-Los resultados de sus revisiones y evaluaciones deberán reportarse al Director o Gerente General, al Consejo de Vigilancia y al Comité de Auditoría cuando menos trimestralmente, y deberán dar seguimiento a las deficiencias detectadas para que sean corregidas oportunamente.
+Los resultados de sus revisiones y evaluaciones deberán reportarse al [Director o Gerente General](articulo-1.md), al [Consejo de Vigilancia](articulo-1.md) y al [Comité de Auditoría](articulo-1.md) cuando menos trimestralmente, y deberán dar seguimiento a las deficiencias detectadas para que sean corregidas oportunamente.

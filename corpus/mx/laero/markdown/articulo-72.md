@@ -17,6 +17,6 @@ source_sha256: c78882a0177403ee04cd38dd09fa1657dc221b7f6827ddacf251c699ede867e4
 
 # Artículo 72
 
-Las personas concesionarias, asignatarias, operadoras aeroportuarias y permisionarias deben elaborar, implementar y mantener actualizado un programa local de seguridad aeroportuaria para cada aeródromo, así como colaborar en los dispositivos de seguridad en las operaciones aeroportuarias, y mantener los equipos de rescate y extinción de incendios en óptimas condiciones de operación. Asimismo, deben hacer del conocimiento de la Agencia Federal de Aviación Civil cualquier situación técnica y operativa, relevante o emergente, en materia de seguridad.
+Las personas concesionarias, asignatarias, operadoras aeroportuarias y permisionarias deben elaborar, implementar y mantener actualizado un programa local de seguridad aeroportuaria para cada aeródromo, así como colaborar en los dispositivos de seguridad en las operaciones aeroportuarias, y mantener los equipos de rescate y extinción de incendios en óptimas condiciones de operación. Asimismo, deben hacer del conocimiento de la [Agencia Federal de Aviación Civil](articulo-2.md) cualquier situación técnica y operativa, relevante o emergente, en materia de seguridad.
 
 Artículo reformado DOF 03-05-2023

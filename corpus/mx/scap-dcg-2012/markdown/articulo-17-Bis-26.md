@@ -28,7 +28,7 @@ b) La fecha y hora, número de cuenta origen y [Cuenta Destino](articulo-1.md) y
 
 c) Los datos de identificación del [Dispositivo de Acceso](articulo-1.md) utilizado por el Usuario para realizar la operación de que se trate.
 
-d) En el caso de [Servicio por Internet](articulo-1.md), deberán registrarse las direcciones de los protocolos de Internet o similares, y para los Servicios Electrónicos en los que se utilicen Teléfonos Móviles o fijos, deberá registrarse el número de la línea del teléfono en el caso de que esté disponible.
+d) En el caso de [Servicio por Internet](articulo-1.md), deberán registrarse las direcciones de los protocolos de Internet o similares, y para los Servicios Electrónicos en los que se utilicen [Teléfonos Móviles](articulo-1.md) o fijos, deberá registrarse el número de la línea del teléfono en el caso de que esté disponible.
 
 Las bitácoras, incluyendo las grabaciones de llamadas de Servicio Telefónico Voz a Voz, deberán ser almacenadas de forma segura por un periodo mínimo de ciento ochenta días naturales y contemplar mecanismos para evitar su alteración, así como mantener procedimientos de control interno para su acceso y disponibilidad.
 
@@ -36,4 +36,4 @@ Las bitácoras a que se refiere el presente inciso, deberán ser revisadas por l
 
 II. Deberán contar con mecanismos para que la información de los registros de las bitácoras en los diferentes equipos críticos de cómputo y telecomunicaciones utilizados en las operaciones de Servicios Electrónicos sea consistente.
 
-La información a que se refiere el presente artículo deberá ser proporcionada a los Usuarios que así lo requieran expresamente a la Sociedad mediante sus canales de atención al Socio, en un plazo que no exceda de diez días hábiles, siempre que se trate de operaciones realizadas en las propias cuentas de los Usuarios durante los ciento ochenta días naturales previos al requerimiento de la información de que se trate. En caso de grabaciones de voz no se entregará copia de la grabación, solo se permitirá su audición, debiendo proporcionar una transcripción de la misma si es requerida por el Usuario.
+La información a que se refiere el presente artículo deberá ser proporcionada a los Usuarios que así lo requieran expresamente a la Sociedad mediante sus canales de atención al [Socio](articulo-1.md), en un plazo que no exceda de diez días hábiles, siempre que se trate de operaciones realizadas en las propias cuentas de los Usuarios durante los ciento ochenta días naturales previos al requerimiento de la información de que se trate. En caso de grabaciones de voz no se entregará copia de la grabación, solo se permitirá su audición, debiendo proporcionar una transcripción de la misma si es requerida por el Usuario.

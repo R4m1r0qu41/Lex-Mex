@@ -18,6 +18,17 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:2",
     "fraction": "II",
     "start_char": 208,
+    "end_char": 385,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:term:certificado-analitico",
+    "term": "Certificado Analítico",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:2",
+    "fraction": "II Bis",
+    "start_char": 385,
     "end_char": 719,
     "basis": "express_definition"
   },
@@ -29,6 +40,17 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:2",
     "fraction": "III",
     "start_char": 719,
+    "end_char": 936,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:term:denominacion-comun-internacional",
+    "term": "Denominación Común Internacional",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:2",
+    "fraction": "III Bis",
+    "start_char": 936,
     "end_char": 1183,
     "basis": "express_definition"
   },
@@ -106,6 +128,17 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:2",
     "fraction": "X",
     "start_char": 3148,
+    "end_char": 3430,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:term:informacion-tecnica",
+    "term": "Información técnica",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:2",
+    "fraction": "X Bis",
+    "start_char": 3430,
     "end_char": 3694,
     "basis": "express_definition"
   },
@@ -150,6 +183,17 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:2",
     "fraction": "XIV",
     "start_char": 5043,
+    "end_char": 5523,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:term:medicamento-de-referencia",
+    "term": "Medicamento de referencia",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:2",
+    "fraction": "XIV Bis",
+    "start_char": 5523,
     "end_char": 5809,
     "basis": "express_definition"
   },

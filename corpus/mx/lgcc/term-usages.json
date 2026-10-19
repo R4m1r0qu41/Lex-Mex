@@ -190,12 +190,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:7:term-usage:739-753",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:7:term-usage:721-773",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:7",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:vulnerabilidad",
-    "span": "Vulnerabilidad",
-    "start_char": 739,
-    "end_char": 753
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:atlas-nacional-de-vulnerabilidad-al-cambio-climatico",
+    "span": "Atlas Nacional de Vulnerabilidad al Cambio Climático",
+    "start_char": 721,
+    "end_char": 773
   },
   {
     "schema_version": "0.1.0",
@@ -316,12 +316,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:8:term-usage:3104-3118",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:8:term-usage:3086-3138",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:8",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:vulnerabilidad",
-    "span": "Vulnerabilidad",
-    "start_char": 3104,
-    "end_char": 3118
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:atlas-nacional-de-vulnerabilidad-al-cambio-climatico",
+    "span": "Atlas Nacional de Vulnerabilidad al Cambio Climático",
+    "start_char": 3086,
+    "end_char": 3138
   },
   {
     "schema_version": "0.1.0",
@@ -676,12 +676,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:22:term-usage:6736-6750",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:22:term-usage:6718-6770",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:22",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:vulnerabilidad",
-    "span": "Vulnerabilidad",
-    "start_char": 6736,
-    "end_char": 6750
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:atlas-nacional-de-vulnerabilidad-al-cambio-climatico",
+    "span": "Atlas Nacional de Vulnerabilidad al Cambio Climático",
+    "start_char": 6718,
+    "end_char": 6770
   },
   {
     "schema_version": "0.1.0",
@@ -775,39 +775,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:29:term-usage:1121-1135",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:29:term-usage:1103-1155",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:29",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:vulnerabilidad",
-    "span": "Vulnerabilidad",
-    "start_char": 1121,
-    "end_char": 1135
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:atlas-nacional-de-vulnerabilidad-al-cambio-climatico",
+    "span": "Atlas Nacional de Vulnerabilidad al Cambio Climático",
+    "start_char": 1103,
+    "end_char": 1155
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:29:term-usage:1313-1327",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:29:term-usage:1295-1347",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:29",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:vulnerabilidad",
-    "span": "Vulnerabilidad",
-    "start_char": 1313,
-    "end_char": 1327
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:atlas-nacional-de-vulnerabilidad-al-cambio-climatico",
+    "span": "Atlas Nacional de Vulnerabilidad al Cambio Climático",
+    "start_char": 1295,
+    "end_char": 1347
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:30:term-usage:451-465",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:30:term-usage:433-485",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:30",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:vulnerabilidad",
-    "span": "Vulnerabilidad",
-    "start_char": 451,
-    "end_char": 465
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:atlas-nacional-de-vulnerabilidad-al-cambio-climatico",
+    "span": "Atlas Nacional de Vulnerabilidad al Cambio Climático",
+    "start_char": 433,
+    "end_char": 485
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:30:term-usage:768-782",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:30:term-usage:750-802",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:30",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:vulnerabilidad",
-    "span": "Vulnerabilidad",
-    "start_char": 768,
-    "end_char": 782
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:atlas-nacional-de-vulnerabilidad-al-cambio-climatico",
+    "span": "Atlas Nacional de Vulnerabilidad al Cambio Climático",
+    "start_char": 750,
+    "end_char": 802
   },
   {
     "schema_version": "0.1.0",
@@ -2053,6 +2053,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:77:term-usage:336-344",
+    "provision_id": "urn:lex-mx:federal:statute:lgcc:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:registro",
+    "span": "Registro",
+    "start_char": 336,
+    "end_char": 344
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgcc:article:78:term-usage:68-78",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:78",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
@@ -2116,6 +2125,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:82:term-usage:2151-2159",
+    "provision_id": "urn:lex-mx:federal:statute:lgcc:article:82",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:registro",
+    "span": "Registro",
+    "start_char": 2151,
+    "end_char": 2159
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgcc:article:82:term-usage:2468-2478",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:82",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:adaptacion",
@@ -2170,12 +2188,66 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:87:term-usage:68-76",
+    "provision_id": "urn:lex-mx:federal:statute:lgcc:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:registro",
+    "span": "Registro",
+    "start_char": 68,
+    "end_char": 76
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgcc:article:87:term-usage:271-274",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:87",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:ley",
     "span": "Ley",
     "start_char": 271,
     "end_char": 274
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:87:term-usage:328-336",
+    "provision_id": "urn:lex-mx:federal:statute:lgcc:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:registro",
+    "span": "Registro",
+    "start_char": 328,
+    "end_char": 336
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:87:term-usage:443-451",
+    "provision_id": "urn:lex-mx:federal:statute:lgcc:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:registro",
+    "span": "Registro",
+    "start_char": 443,
+    "end_char": 451
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:87:term-usage:549-557",
+    "provision_id": "urn:lex-mx:federal:statute:lgcc:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:registro",
+    "span": "Registro",
+    "start_char": 549,
+    "end_char": 557
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:88:term-usage:220-228",
+    "provision_id": "urn:lex-mx:federal:statute:lgcc:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:registro",
+    "span": "Registro",
+    "start_char": 220,
+    "end_char": 228
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:89:term-usage:180-188",
+    "provision_id": "urn:lex-mx:federal:statute:lgcc:article:89",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:registro",
+    "span": "Registro",
+    "start_char": 180,
+    "end_char": 188
   },
   {
     "schema_version": "0.1.0",
@@ -2194,6 +2266,15 @@
     "span": "Ley",
     "start_char": 48,
     "end_char": 51
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:90:term-usage:252-260",
+    "provision_id": "urn:lex-mx:federal:statute:lgcc:article:90",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:registro",
+    "span": "Registro",
+    "start_char": 252,
+    "end_char": 260
   },
   {
     "schema_version": "0.1.0",
@@ -2221,6 +2302,15 @@
     "span": "Ley",
     "start_char": 529,
     "end_char": 532
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:90:term-usage:582-590",
+    "provision_id": "urn:lex-mx:federal:statute:lgcc:article:90",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:registro",
+    "span": "Registro",
+    "start_char": 582,
+    "end_char": 590
   },
   {
     "schema_version": "0.1.0",
@@ -2698,6 +2788,15 @@
     "span": "Comisión",
     "start_char": 3347,
     "end_char": 3355
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcc:transitory:cuarto:term-usage:89-97",
+    "provision_id": "urn:lex-mx:federal:statute:lgcc:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:registro",
+    "span": "Registro",
+    "start_char": 89,
+    "end_char": 97
   },
   {
     "schema_version": "0.1.0",

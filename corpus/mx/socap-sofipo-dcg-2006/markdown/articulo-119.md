@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 119
 
-En materia del sistema de control interno, será responsabilidad del Consejo de Administración de cada Sociedad Financiera Popular, definir y diseñar los lineamientos para el manejo prudente de la Sociedad. Asimismo, el Consejo deberá supervisar el establecimiento y vigilar el adecuado funcionamiento del sistema de control interno, para lo cual deberá aplicar entre otras, las medidas siguientes:
+En materia del sistema de control interno, será responsabilidad del [Consejo de Administración](articulo-1.md) de cada [Sociedad](articulo-1.md) Financiera Popular, definir y diseñar los lineamientos para el manejo prudente de la Sociedad. Asimismo, el Consejo deberá supervisar el establecimiento y vigilar el adecuado funcionamiento del sistema de control interno, para lo cual deberá aplicar entre otras, las medidas siguientes:
 
 I. Aprobar los manuales de políticas y procedimientos que sean necesarios para el adecuado funcionamiento del sistema de control interno, así como los manuales de administración de riesgos y de crédito, y un código de ética;
 
@@ -32,7 +32,7 @@ V. Establecer mecanismos para asegurarse que el área o, en su caso, las distint
 
 Los citados manuales de políticas y procedimientos, los de administración de riesgos y de crédito, así como el código de ética, deberán ser revisados anualmente.
 
-Tratándose de la aprobación del código de ética, el Consejo de Administración podrá delegar esta función en un comité técnico integrado por especialistas nombrados por el Consejo de Administración, siempre y cuando participe en dicho comité el Director o Gerente General.
+Tratándose de la aprobación del código de ética, el Consejo de Administración podrá delegar esta función en un comité técnico integrado por especialistas nombrados por el Consejo de Administración, siempre y cuando participe en dicho comité el [Director o Gerente General](articulo-1.md).
 
 El Consejo de Administración podrá escuchar la opinión del comité técnico para efectos de la aprobación de los manuales de administración de riesgos y de crédito, así como de sus modificaciones.
 

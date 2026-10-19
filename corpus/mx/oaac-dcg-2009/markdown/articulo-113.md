@@ -18,4 +18,4 @@ source_sha256: 8ac502b97188bd6e795781e9821be6e62ccdd8050cdd3be74aab52a888e67939
 
 # Artículo 113
 
-Los miembros del Comité de Auditoría podrán ser removidos por el [Consejo](articulo-1.md), a propuesta fundada de su presidente o del titular de la [Comisión](articulo-1.md); en este último caso, con acuerdo de su Junta de Gobierno.
+Los miembros del [Comité de Auditoría](articulo-1.md) podrán ser removidos por el [Consejo](articulo-1.md), a propuesta fundada de su presidente o del titular de la [Comisión](articulo-1.md); en este último caso, con acuerdo de su Junta de Gobierno.

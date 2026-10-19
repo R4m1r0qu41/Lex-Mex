@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:statute:lgoaac",
   "source_sha256": "54747e6ec98327430ccf77b2acc5ba3033ef64f42d8d7f1fdee957755070f683",
   "extracted_text_sha256": "807e15f1bdea26f895c15abdf8bcee25395293703adfd0fd27cbaba1cb1f7a68",
@@ -15,6 +15,7 @@
         "II",
         "III"
       ],
+      "unread_fractions": [],
       "term_count": 3
     }
   ],

@@ -18,7 +18,7 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 307
 
-Las Sociedades deberán proporcionar a la Comisión y al Comité de Supervisión Auxiliar su información, utilizando los formularios que se adjuntan como Anexo Ñ a las presentes disposiciones, los cuales se encuentran divididos en las series y tipos de reportes que se indican a continuación:
+Las Sociedades deberán proporcionar a la [Comisión](articulo-1.md) y al [Comité de Supervisión Auxiliar](articulo-1.md) su información, utilizando los formularios que se adjuntan como Anexo Ñ a las presentes disposiciones, los cuales se encuentran divididos en las series y tipos de reportes que se indican a continuación:
 
 Serie R01 Catálogo mínimo
 

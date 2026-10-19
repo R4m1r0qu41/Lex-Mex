@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:statute:lgipd",
   "source_sha256": "952f9d7ef0ed8b0efaf968bf3a002030b1705463d4c8c3d0ca7f392953caa71f",
   "extracted_text_sha256": "9c355eb3fba48ce339d0024c21bdb64618a805d96e2d0ad0695a29ffb0efd42c",
@@ -30,6 +30,7 @@
         "XVII",
         "XVIII",
         "XIX",
+        "XIX Bis",
         "XX",
         "XXI",
         "XXII",
@@ -44,10 +45,11 @@
         "XXXIII",
         "XXXIV"
       ],
-      "term_count": 32
+      "unread_fractions": [],
+      "term_count": 33
     }
   ],
   "imports": [],
-  "term_count": 32,
+  "term_count": 33,
   "usage_count": 137
 }

@@ -23,6 +23,17 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:auditoria-interna",
+    "term": "Auditoría Interna",
+    "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
+    "fraction": "IV",
+    "start_char": 1126,
+    "end_char": 1508,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:cartera-crediticia-comercial-o-cartera-de-credito-comercial",
     "term": "Cartera Crediticia Comercial o Cartera de Crédito Comercial",
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
@@ -78,6 +89,17 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:comite-de-auditoria",
+    "term": "Comité de Auditoría",
+    "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
+    "fraction": "X",
+    "start_char": 3422,
+    "end_char": 3801,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:consejo",
     "term": "Consejo",
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
@@ -96,6 +118,17 @@
     "fraction": "XII",
     "start_char": 3890,
     "end_char": 4062,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:contraloria-interna",
+    "term": "Contraloría Interna",
+    "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
+    "fraction": "XIII",
+    "start_char": 4062,
+    "end_char": 4660,
     "basis": "express_definition"
   },
   {
@@ -188,6 +221,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:esquema-de-cobertura-de-primeras-perdidas",
+    "term": "Esquema de Cobertura de Primeras Pérdidas",
+    "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
+    "fraction": "XXIII",
+    "start_char": 7477,
+    "end_char": 8073,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:esquema-de-cobertura-en-paso-y-medida-(pari-passu)",
+    "term": "Esquema de Cobertura en Paso y Medida (Pari-Passu)",
+    "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
+    "fraction": "XXIII Bis",
+    "start_char": 8073,
+    "end_char": 8577,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:fideicomiso-de-contragarantia",
     "term": "Fideicomiso de Contragarantía",
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
@@ -205,6 +260,17 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "XXV",
     "start_char": 10320,
+    "end_char": 11865,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:grado-de-inversion",
+    "term": "Grado de Inversión",
+    "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
+    "fraction": "XXV Bis",
+    "start_char": 11865,
     "end_char": 12527,
     "basis": "express_definition"
   },
@@ -232,6 +298,17 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:influencia-significativa",
+    "term": "Influencia significativa",
+    "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
+    "fraction": "XXVIII",
+    "start_char": 12988,
+    "end_char": 13193,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:informacion-sensible",
     "term": "Información Sensible",
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
@@ -249,6 +326,17 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "XXX",
     "start_char": 13424,
+    "end_char": 13632,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:instituciones-calificadoras",
+    "term": "Instituciones Calificadoras",
+    "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
+    "fraction": "XXX Bis",
+    "start_char": 13632,
     "end_char": 14140,
     "basis": "express_definition"
   },
@@ -370,6 +458,17 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
     "fraction": "XLI",
     "start_char": 17642,
+    "end_char": 17805,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:proveedor-de-proteccion",
+    "term": "Proveedor de Protección",
+    "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
+    "fraction": "XLI Bis",
+    "start_char": 17805,
     "end_char": 17967,
     "basis": "express_definition"
   },
@@ -448,6 +547,17 @@
     "fraction": "XLVIII",
     "start_char": 21358,
     "end_char": 21643,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:sistema-de-control-interno",
+    "term": "Sistema de Control Interno",
+    "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",
+    "fraction": "XLIX",
+    "start_char": 21643,
+    "end_char": 22673,
     "basis": "express_definition"
   },
   {

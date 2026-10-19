@@ -17,4 +17,4 @@ source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 
 # Artículo 143
 
-Los acreedores que no hayan sido reconocidos en la sentencia de reconocimiento, graduación y prelación de créditos e interpongan el recurso de apelación, únicamente podrán ejercer los derechos que esta Ley confiere a los [Acreedores Reconocidos](articulo-4o.md), hasta la existencia de resolución ejecutoriada que les atribuya esa calidad.
+Los acreedores que no hayan sido reconocidos en la sentencia de reconocimiento, graduación y prelación de créditos e interpongan el recurso de apelación, únicamente podrán ejercer los derechos que esta [Ley](articulo-4o.md) confiere a los [Acreedores Reconocidos](articulo-4o.md), hasta la existencia de resolución ejecutoriada que les atribuya esa calidad.

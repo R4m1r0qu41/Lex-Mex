@@ -25,7 +25,7 @@ II. No mantener vigentes los seguros a que se refiere esta Ley;
 
 III. Ceder, gravar, transferir o enajenar las concesiones, los derechos conferidos o los bienes afectos al aeropuerto, en contravención a esta Ley; Fracción reformada DOF 03-05-2023
 
-IV. Alterar la naturaleza o condiciones del aeropuerto establecidas en el título de concesión, sin previa autorización de la Agencia Federal de Aviación Civil; Fracción reformada DOF 03-05-2023
+IV. Alterar la naturaleza o condiciones del aeropuerto establecidas en el título de concesión, sin previa autorización de la [Agencia Federal de Aviación Civil](articulo-2.md); Fracción reformada DOF 03-05-2023
 
 V. Consentir el uso del aeropuerto a cualquier aeronave que no cumpla con los requisitos de la Ley de Aviación Civil, que no haya sido permitida por quien presta el servicio de navegación aérea, o que su acción u omisión dolosa contribuya a la comisión de algún delito; Fracción reformada DOF 03-05-2023 VI. Incumplir con la obligación prevista en el párrafo segundo del artículo [22](articulo-22.md) de esta Ley, referente a la remoción de cargos a personas o a la de transmisión de títulos accionarios, en los supuestos que se indican en dicho artículo; Fracción reformada DOF 03-05-2023
 

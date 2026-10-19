@@ -18,4 +18,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 332 Bis
 
-Tratándose de Sociedades Financieras Populares de nueva constitución, deberán comenzar a presentar ante la Comisión la información a que se refiere este Capítulo, dentro de los 30 días naturales posteriores al inicio de operaciones a que se refiere el artículo 32 Bis de la Ley, en los plazos y términos que se señalan en los artículos anteriores.
+Tratándose de [Sociedades](articulo-1.md) Financieras Populares de nueva constitución, deberán comenzar a presentar ante la Comisión la información a que se refiere este Capítulo, dentro de los 30 días naturales posteriores al inicio de operaciones a que se refiere el artículo 32 Bis de la [Ley](articulo-1.md), en los plazos y términos que se señalan en los artículos anteriores.

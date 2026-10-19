@@ -27,6 +27,6 @@ IV. En iguales circunstancias que en el caso anterior, el cierre de los locales 
 
 V. Acudir a prácticas ruinosas, fraudulentas o ficticias para atender o dejar de cumplir sus obligaciones;
 
-VI. Incumplimiento de obligaciones pecuniarias contenidas en un convenio celebrado en términos del Título Quinto de esta Ley, y
+VI. Incumplimiento de obligaciones pecuniarias contenidas en un convenio celebrado en términos del Título Quinto de esta [Ley](articulo-4o.md), y
 
 VII. En cualesquiera otros casos de naturaleza análoga.

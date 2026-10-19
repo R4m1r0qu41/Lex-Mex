@@ -21,7 +21,7 @@ La autoridad distinta a la [Comisión Nacional de Búsqueda](articulo-4.md) que 
 
 I. El nombre, la edad y demás datos generales de la persona que lo presenta, salvo que se trate de [Noticia](articulo-4.md) o Reporte anónimo;
 
-I Bis. La Clave Única de Registro de Población de la [Persona Desaparecida](articulo-4.md) o No Localizada.
+I Bis. La [Clave Única de Registro de Población](articulo-4.md) de la [Persona Desaparecida](articulo-4.md) o No Localizada.
 
 No podrá condicionarse el procedimiento de búsqueda a la presentación de este requisito; Fracción adicionada DOF 16-07-2025
 

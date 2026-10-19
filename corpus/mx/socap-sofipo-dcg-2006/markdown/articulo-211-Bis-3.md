@@ -18,6 +18,6 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 211 Bis 3
 
-Las Sociedades Financieras Populares deberán aplicar la Valuación Directa a Vector sobre los Valores y demás instrumentos financieros que, de conformidad con su régimen de inversión y las disposiciones aplicables, puedan formar parte de su estado de situación financiera.
+Las [Sociedades](articulo-1.md) Financieras Populares deberán aplicar la Valuación Directa a Vector sobre los Valores y demás instrumentos financieros que, de conformidad con su régimen de inversión y las disposiciones aplicables, puedan formar parte de su estado de situación financiera.
 
 Tratándose de cartera de crédito, las Sociedades Financieras Populares deberán ajustarse a las disposiciones aplicables en materia de calificación de cartera crediticia, así como a las reglas de valuación establecidas en los criterios de contabilidad a que se refiere la Sección Primera del presente Capítulo.

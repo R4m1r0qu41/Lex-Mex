@@ -25,7 +25,7 @@ II. La cuantía del crédito que estime tener en contra y, en su caso, a favor d
 
 III. Las garantías, condiciones, términos y otras características del crédito, entre ellas el tipo de documento que evidencie el crédito;
 
-IV. El grado y prelación que a juicio del solicitante y de conformidad con lo dispuesto en esta Ley, corresponda al crédito cuyo reconocimiento solicita, y
+IV. El grado y prelación que a juicio del solicitante y de conformidad con lo dispuesto en esta [Ley](articulo-4o.md), corresponda al crédito cuyo reconocimiento solicita, y
 
 V. Los datos que identifiquen, en su caso, cualquier procedimiento administrativo, laboral, judicial o arbitral, que se haya iniciado y que tenga relación con el crédito de que se trate.
 

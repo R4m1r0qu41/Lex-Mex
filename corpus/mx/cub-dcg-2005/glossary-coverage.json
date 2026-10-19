@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:regulation:cub-dcg-2005",
   "source_sha256": "f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b",
   "extracted_text_sha256": "6a5d6cce7612912400ba82f64b8c1909eaf88f1b89186688593c7a07ae8b416f",

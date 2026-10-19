@@ -17,4 +17,4 @@ source_sha256: 1d398a90955ef45ccb7baf4d56534c676cde8325e8b109c4d32120909e783694
 
 # Artículo 85
 
-Los Programas Permanentes se realizarán y desarrollarán en congruencia con el Programa Nacional.
+Los [Programas Permanentes](articulo-2.md) se realizarán y desarrollarán en congruencia con el Programa Nacional.

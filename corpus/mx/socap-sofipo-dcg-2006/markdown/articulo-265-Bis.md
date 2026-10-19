@@ -18,13 +18,13 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 265 Bis
 
-La Sociedad Financiera Popular podrá pactar la celebración de sus operaciones y la prestación de servicios con el público, a través de Servicios Electrónicos, debiendo sujetarse a lo establecido por las presentes disposiciones y siempre que:
+La [Sociedad](articulo-1.md) Financiera Popular podrá pactar la celebración de sus operaciones y la prestación de servicios con el público, a través de [Servicios Electrónicos](articulo-1.md), debiendo sujetarse a lo establecido por las presentes disposiciones y siempre que:
 
 I. En la contratación respectiva se establezca de manera clara y precisa, lo siguiente:
 
-a) Las operaciones y servicios que podrán proporcionarse a través de Medios Electrónicos.
+a) Las operaciones y servicios que podrán proporcionarse a través de [Medios Electrónicos](articulo-1.md).
 
-b) Los mecanismos y procedimientos de identificación del Usuario y Autenticación, así como las responsabilidades del Usuario y de la Sociedad Financiera Popular respecto del uso de Servicios Electrónicos.
+b) Los mecanismos y procedimientos de identificación del [Usuario](articulo-1.md) y [Autenticación](articulo-1.md), así como las responsabilidades del Usuario y de la Sociedad Financiera Popular respecto del uso de Servicios Electrónicos.
 
 c) Los mecanismos y procedimientos para la notificación de las operaciones realizadas y servicios prestados por la Sociedad Financiera Popular, a través de Servicios Electrónicos.
 

@@ -73,6 +73,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:ldfefm:article:2",
     "fraction": "VIII",
     "start_char": 1951,
+    "end_char": 2397,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldfefm:term:disponibilidades",
+    "term": "Disponibilidades",
+    "instrument_id": "urn:lex-mx:federal:statute:ldfefm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ldfefm:article:2",
+    "fraction": "VIII Bis",
+    "start_char": 2397,
     "end_char": 2679,
     "basis": "express_definition"
   },
@@ -128,6 +139,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:ldfefm:article:2",
     "fraction": "XIII",
     "start_char": 3802,
+    "end_char": 3927,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldfefm:term:gastos-y-costos-relacionados-con-la-contratacion",
+    "term": "Gastos y costos relacionados con la contratación",
+    "instrument_id": "urn:lex-mx:federal:statute:ldfefm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ldfefm:article:2",
+    "fraction": "XIII Bis",
+    "start_char": 3927,
     "end_char": 4398,
     "basis": "express_definition"
   },

@@ -19,6 +19,6 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 Las Sociedades deberán contar con un capital mínimo, el cual se integrará con la suma del capital social más las reservas de capital y, en su caso, el rubro denominado “Efecto por incorporación al régimen de Sociedades Cooperativas de Ahorro y Préstamo” a que se refiere la fracción VII del Artículo [2](articulo-2.md) de las presentes disposiciones. El capital social deberá estar íntegramente suscrito y pagado. El capital mínimo para las Sociedades sujetas a la presente regulación será de 100,000 UDIS.
 
-Cuando la situación financiera de alguna Sociedad lo requiera, la Comisión podrá otorgar por única ocasión un plazo de 6 meses a dicha Sociedad para cumplir con el capital mínimo a que se refiere el párrafo anterior.
+Cuando la situación financiera de alguna Sociedad lo requiera, la [Comisión](articulo-1.md) podrá otorgar por única ocasión un plazo de 6 meses a dicha Sociedad para cumplir con el capital mínimo a que se refiere el párrafo anterior.
 
-Los Socios de las Sociedades podrán solicitar el retiro de sus aportaciones, siempre y cuando dicho retiro no resulte en un incumplimiento al capital mínimo o a los requerimientos de capitalización que deben observar las Sociedades conforme a la presente sección.
+Los [Socios](articulo-1.md) de las Sociedades podrán solicitar el retiro de sus aportaciones, siempre y cuando dicho retiro no resulte en un incumplimiento al capital mínimo o a los requerimientos de capitalización que deben observar las Sociedades conforme a la presente sección.

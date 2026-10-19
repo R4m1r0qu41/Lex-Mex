@@ -21,7 +21,7 @@ Los Establecimientos Sujetos a Reporte que deban presentar ante la [Secretaría]
 
 I. Nombre, denominación o razón social;
 
-II. Número de Registro Federal de Contribuyentes;
+II. Número de [Registro](../../lgcc/markdown/articulo-3o.md) Federal de Contribuyentes;
 
 III. Clave de la actividad preponderante conforme al Sistema de Clasificación Industrial de América del Norte, vigente al momento de la presentación de la información;
 

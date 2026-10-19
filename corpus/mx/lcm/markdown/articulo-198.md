@@ -17,6 +17,6 @@ source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 
 # Artículo 198
 
-La enajenación de los bienes deberá realizarse a través del procedimiento de subasta pública previsto en este capítulo, salvo por lo dispuesto en los artículos [205](articulo-205.md) y [208](articulo-208.md) de la presente Ley.
+La enajenación de los bienes deberá realizarse a través del procedimiento de subasta pública previsto en este capítulo, salvo por lo dispuesto en los artículos [205](articulo-205.md) y [208](articulo-208.md) de la presente [Ley](articulo-4o.md).
 
 La subasta deberá realizarse dentro de un plazo no menor a diez días naturales ni mayor de noventa días naturales a partir de la fecha en que se publique por primera vez la convocatoria.

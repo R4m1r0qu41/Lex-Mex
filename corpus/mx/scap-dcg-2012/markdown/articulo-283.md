@@ -17,7 +17,7 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 283
 
-El Comité de Protección al Ahorro Cooperativo supervisará y validará los cálculos de los montos que la Sociedad haya efectuado, respecto del importe neto de las obligaciones objeto de protección a pagar por cuenta del Fondo de Protección descontando los créditos que se hayan otorgado, así como la procedencia del pago de conformidad con lo establecido en la Ley y en el presente capítulo.
+El [Comité de Protección al Ahorro Cooperativo](articulo-1.md) supervisará y validará los cálculos de los montos que la Sociedad haya efectuado, respecto del importe neto de las obligaciones objeto de protección a pagar por cuenta del [Fondo de Protección](articulo-1.md) descontando los créditos que se hayan otorgado, así como la procedencia del pago de conformidad con lo establecido en la [Ley](articulo-1.md) y en el presente capítulo.
 
 Para efectos de lo anterior, la oficina matriz de la Sociedad deberá remitir al Comité de Protección al Ahorro Cooperativo los cálculos respectivos, dentro de los 15 días hábiles siguientes a la recepción de la solicitud correspondiente.
 
@@ -29,6 +29,6 @@ II. Relación de las solicitudes que se hayan considerado improcedentes.
 
 III. Las fechas en que procederá a efectuar el pago de aquellas solicitudes a que se refiere la fracción I anterior.
 
-De conformidad con lo dispuesto por el Artículo 69 de la Ley en dichas relaciones únicamente se hará referencia al Interesado por el número de folio correspondiente a su solicitud. Tales relaciones deberán ubicarse en un lugar visible en las sucursales de la Sociedad de que se trate, para su consulta por los Interesados.
+De conformidad con lo dispuesto por el Artículo 69 de la Ley en dichas relaciones únicamente se hará referencia al [Interesado](articulo-1.md) por el número de folio correspondiente a su solicitud. Tales relaciones deberán ubicarse en un lugar visible en las sucursales de la Sociedad de que se trate, para su consulta por los Interesados.
 
 El Comité de Protección al Ahorro Cooperativo resolverá, de conformidad con lo anterior, dentro de los 15 días hábiles siguientes a la recepción de la información correspondiente por parte de la Sociedad, la procedencia de toda solicitud que se presente, por lo que únicamente aquellas solicitudes que se encuentren en revisión no se relacionarán en los reportes antes señalados.

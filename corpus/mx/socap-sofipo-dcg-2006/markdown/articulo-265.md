@@ -18,4 +18,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 265
 
-Las Sociedades Financieras Populares que utilicen procedimientos de grabación deberán establecer un sistema de control a través del cual puedan localizarse e identificarse con facilidad, en cualquier tiempo, los documentos grabados.
+Las [Sociedades](articulo-1.md) Financieras Populares que utilicen procedimientos de grabación deberán establecer un sistema de control a través del cual puedan localizarse e identificarse con facilidad, en cualquier tiempo, los documentos grabados.

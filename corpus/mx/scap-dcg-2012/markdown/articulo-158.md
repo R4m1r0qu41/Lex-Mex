@@ -17,4 +17,4 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 158
 
-Los resultados de la auditoría a que se refiere el Artículo [157](articulo-157.md) anterior, se asentarán en un informe que contendrá, en su caso, recomendaciones para solucionar las irregularidades observadas. Dicho informe se presentará al Consejo de Administración, al Consejo de Vigilancia, al Comité de Auditoría, al Comité de Riesgos y al Director o Gerente General.
+Los resultados de la auditoría a que se refiere el Artículo [157](articulo-157.md) anterior, se asentarán en un informe que contendrá, en su caso, recomendaciones para solucionar las irregularidades observadas. Dicho informe se presentará al [Consejo de Administración](articulo-1.md), al [Consejo de Vigilancia](articulo-1.md), al [Comité de Auditoría](articulo-1.md), al [Comité de Riesgos](articulo-1.md) y al [Director o Gerente General](articulo-1.md).

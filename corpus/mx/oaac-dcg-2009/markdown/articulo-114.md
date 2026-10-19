@@ -18,8 +18,8 @@ source_sha256: 8ac502b97188bd6e795781e9821be6e62ccdd8050cdd3be74aab52a888e67939
 
 # Artículo 114
 
-Las sesiones del Comité de Auditoría serán válidas con la participación de la mayoría de sus miembros, siempre y cuando intervenga su presidente o el suplente de este. Los acuerdos que se emitan se tomarán por mayoría de votos de los miembros presentes, teniendo el presidente voto de calidad en caso de empate.
+Las sesiones del [Comité de Auditoría](articulo-1.md) serán válidas con la participación de la mayoría de sus miembros, siempre y cuando intervenga su presidente o el suplente de este. Los acuerdos que se emitan se tomarán por mayoría de votos de los miembros presentes, teniendo el presidente voto de calidad en caso de empate.
 
-El responsable de las funciones de Auditoría Interna y el director general de la unión de crédito, podrán someter a consideración del Comité, asuntos para su inclusión dentro del orden del día.
+El responsable de las funciones de [Auditoría Interna](articulo-1.md) y el director general de la unión de crédito, podrán someter a consideración del Comité, asuntos para su inclusión dentro del orden del día.
 
 El Comité de Auditoría deberá sesionar, cuando menos, trimestralmente, haciendo constar los acuerdos tomados en actas debidamente suscritas por todos y cada uno de los miembros participantes, en el entendido de que dichas sesiones podrán celebrarse por medios electrónicos, videoconferencia o teléfono.

@@ -18,9 +18,9 @@ source_sha256: 8ac502b97188bd6e795781e9821be6e62ccdd8050cdd3be74aab52a888e67939
 
 # Artículo 122
 
-El área de Auditoría Interna tendrá, entre otras, las funciones siguientes:
+El área de [Auditoría Interna](articulo-1.md) tendrá, entre otras, las funciones siguientes:
 
-(105) I. Evaluar, con base en el programa anual de trabajo a que se refiere la fracción X del presente artículo, mediante pruebas sustantivas, procedimentales y de cumplimiento, el funcionamiento operativo de las distintas unidades de la unión de crédito, así como su apego al Sistema de [Control](articulo-1.md) Interno, incluyendo la observancia del código de conducta.
+(105) I. Evaluar, con base en el programa anual de trabajo a que se refiere la fracción X del presente artículo, mediante pruebas sustantivas, procedimentales y de cumplimiento, el funcionamiento operativo de las distintas unidades de la unión de crédito, así como su apego al [Sistema de Control Interno](articulo-1.md), incluyendo la observancia del código de conducta.
 
 II. Revisar que los mecanismos de control implementados, conlleven la adecuada protección de los activos de la unión de crédito.
 
@@ -36,12 +36,12 @@ VI. Facilitar a las autoridades financieras competentes, la información necesar
 
 VII. Verificar la estructura organizacional autorizada por el [Consejo](articulo-1.md), en relación con la [Independencia](articulo-1.md) de las distintas funciones que lo requieran, así como la efectiva segregación de funciones y ejercicio de facultades atribuidas a cada unidad de la unión de crédito.
 
-VIII. Proporcionar al Comité de Auditoría los elementos que le permitan cumplir con lo establecido en la fracción VI del Artículo [119](articulo-119.md) de las presentes disposiciones.
+VIII. Proporcionar al [Comité de Auditoría](articulo-1.md) los elementos que le permitan cumplir con lo establecido en la fracción VI del Artículo [119](articulo-119.md) de las presentes disposiciones.
 
 IX. Dar seguimiento a las deficiencias o desviaciones relevantes detectadas en relación con la operación de la unión de crédito, con el fin de que sean subsanadas oportunamente, informando al respecto al Comité de Auditoría, para lo cual deberán elaborar el informe correspondiente.
 
 X. Presentar para aprobación del Comité de Auditoría, el programa anual de trabajo correspondiente a lo establecido por las presentes disposiciones.
 
-XI. Proporcionar, en su caso, al Comité de Auditoría los informes de gestión elaborados por el o los responsables de las funciones de Contraloría Interna a que hace referencia el último párrafo del Artículo [128](articulo-128.md) de las presentes disposiciones.
+XI. Proporcionar, en su caso, al Comité de Auditoría los informes de gestión elaborados por el o los responsables de las funciones de [Contraloría Interna](articulo-1.md) a que hace referencia el último párrafo del Artículo [128](articulo-128.md) de las presentes disposiciones.
 
 Las uniones de crédito, en la elaboración del programa anual a que se refiere la fracción X anterior, deberán incorporar las observaciones que la [Comisión](articulo-1.md) hubiere formulado en ejercicio de sus facultades de inspección y vigilancia. Dicho programa, una vez aprobado, deberá entregarse al director general y presentarse a la Comisión a más tardar durante el primer trimestre del año de su aplicación.

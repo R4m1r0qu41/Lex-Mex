@@ -29,6 +29,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lfcpq:article:2",
     "fraction": "IV",
     "start_char": 669,
+    "end_char": 857,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcpq:term:droga-sintetica",
+    "term": "Droga sintética",
+    "instrument_id": "urn:lex-mx:federal:statute:lfcpq",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfcpq:article:2",
+    "fraction": "IV Bis",
+    "start_char": 857,
     "end_char": 1061,
     "basis": "express_definition"
   },
@@ -40,6 +51,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lfcpq:article:2",
     "fraction": "V",
     "start_char": 1061,
+    "end_char": 1309,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcpq:term:personas-fisicas-o-morales",
+    "term": "Personas físicas o morales",
+    "instrument_id": "urn:lex-mx:federal:statute:lfcpq",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfcpq:article:2",
+    "fraction": "V Bis",
+    "start_char": 1309,
     "end_char": 1444,
     "basis": "express_definition"
   },
@@ -62,6 +84,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lfcpq:article:2",
     "fraction": "VII",
     "start_char": 1629,
+    "end_char": 1846,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcpq:term:sistema-integral-de-sustancias",
+    "term": "Sistema Integral de Sustancias",
+    "instrument_id": "urn:lex-mx:federal:statute:lfcpq",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfcpq:article:2",
+    "fraction": "VII Bis",
+    "start_char": 1846,
     "end_char": 2054,
     "basis": "express_definition"
   },

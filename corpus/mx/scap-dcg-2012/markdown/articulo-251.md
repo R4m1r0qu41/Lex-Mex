@@ -17,7 +17,7 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 251
 
-La Supervisión In-situ será realizada con la presencia física de los Supervisores Auxiliares directamente en las instalaciones de la Sociedad, mediante la realización de visitas de inspección en las oficinas, sucursales y demás establecimientos de la misma. Los Supervisores Auxiliares llevarán a cabo las funciones de Supervisión In-situ utilizando la información enviada por las Sociedades a solicitud de la Comisión y del Comité de Supervisión Auxiliar y toda aquella información adicional que se considere necesario requerir específicamente para realizar la visita de inspección.
+La [Supervisión In-situ](articulo-1.md) será realizada con la presencia física de los [Supervisores Auxiliares](articulo-1.md) directamente en las instalaciones de la Sociedad, mediante la realización de visitas de inspección en las oficinas, sucursales y demás establecimientos de la misma. Los Supervisores Auxiliares llevarán a cabo las funciones de Supervisión In-situ utilizando la información enviada por las Sociedades a solicitud de la [Comisión](articulo-1.md) y del [Comité de Supervisión Auxiliar](articulo-1.md) y toda aquella información adicional que se considere necesario requerir específicamente para realizar la visita de inspección.
 
 La Supervisión In-situ estará compuesta por dos etapas sucesivas, la planeación de la visita y la visita de inspección.
 

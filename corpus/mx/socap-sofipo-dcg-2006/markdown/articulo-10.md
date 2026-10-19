@@ -18,6 +18,6 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 10
 
-Las Sociedades Financieras Populares, Federaciones y Confederaciones, deberán establecer mecanismos de comunicación permanente que les permitan verificar en forma continua, el cumplimiento de los requisitos, así como la inexistencia de impedimentos legales para que sus Consejeros, Miembros del Consejo de Vigilancia o Comisario, Director o Gerente General, Miembros del Comité de Supervisión, Contralor Normativo y Auditor Legal o Interno, puedan continuar en el desempeño de las funciones para las cuales hayan sido nombrados.
+Las [Sociedades](articulo-1.md) Financieras Populares, [Federaciones](articulo-1.md) y [Confederaciones](articulo-1.md), deberán establecer mecanismos de comunicación permanente que les permitan verificar en forma continua, el cumplimiento de los requisitos, así como la inexistencia de impedimentos legales para que sus [Consejeros](articulo-1.md), [Miembros del Consejo de Vigilancia o Comisario](articulo-1.md), [Director o Gerente General](articulo-1.md), [Miembros del Comité de Supervisión](articulo-1.md), [Contralor Normativo](articulo-1.md) y [Auditor Legal](articulo-1.md) o Interno, puedan continuar en el desempeño de las funciones para las cuales hayan sido nombrados.
 
 Las Sociedades Financieras Populares darán a conocer anualmente a la Comisión, durante el mes de mayo los resultados de las gestiones que lleven a cabo para el cumplimiento del presente artículo.

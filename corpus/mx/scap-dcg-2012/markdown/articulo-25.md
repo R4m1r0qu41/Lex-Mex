@@ -24,7 +24,7 @@ Adicionalmente, para efectos de lo señalado en el presente artículo, las Socie
 
 Asimismo, las Sociedades podrán reconocer la cobertura proporcionada por el Esquema de Cobertura en Primeras Pérdidas o por el Esquema de Cobertura en Paso y Medida. A fin de determinar las ponderaciones correspondientes a las operaciones cubiertas por dichos esquemas, las Sociedades deberán cumplir con lo siguiente:
 
-I. A la porción cubierta, la cual podrá ser hasta del 100 %, se le asignará la ponderación por riesgo correspondiente a la del Proveedor de Protección, mientras que para el resto de la operación se procederá en apego a lo establecido en el segundo párrafo del presente artículo, acorde con lo que a continuación se indica y, posteriormente, deberá multiplicarse por 8 % para determinar el requerimiento de capitalización correspondiente. Únicamente serán elegibles los siguientes Proveedores de Protección, tanto en el caso del [Esquema de Cobertura de Primeras Pérdidas](articulo-1.md) como en el Esquema de Cobertura en Paso y Medida o proporcionales:
+I. A la porción cubierta, la cual podrá ser hasta del 100 %, se le asignará la ponderación por riesgo correspondiente a la del [Proveedor de Protección](articulo-1.md), mientras que para el resto de la operación se procederá en apego a lo establecido en el segundo párrafo del presente artículo, acorde con lo que a continuación se indica y, posteriormente, deberá multiplicarse por 8 % para determinar el requerimiento de capitalización correspondiente. Únicamente serán elegibles los siguientes Proveedores de Protección, tanto en el caso del [Esquema de Cobertura de Primeras Pérdidas](articulo-1.md) como en el Esquema de Cobertura en Paso y Medida o proporcionales:
 
 a) Grupo 1 (Ponderación del 0 %):
 
@@ -32,7 +32,7 @@ a) Grupo 1 (Ponderación del 0 %):
 
 2. Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, o la que la sustituya.
 
-3. Fideicomisos públicos que formen parte del sistema financiero mexicano acorde con el Artículo [3](../../lic/markdown/articulo-3o.md)o. de la Ley de Instituciones de Crédito.
+3. Fideicomisos públicos que formen parte del sistema financiero mexicano acorde con el Artículo [3](../../lic/markdown/articulo-3o.md)o. de la [Ley](articulo-1.md) de Instituciones de Crédito.
 
 4. Fideicomisos celebrados específicamente con la finalidad de compartir el riesgo de crédito, en los cuales actúen como fideicomitentes y fiduciarias las instituciones de banca de desarrollo que cuenten con garantía expresa del Gobierno Federal.
 

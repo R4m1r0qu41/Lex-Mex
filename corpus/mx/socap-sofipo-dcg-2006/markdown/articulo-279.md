@@ -18,19 +18,19 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 279
 
-De manera enunciativa y no limitativa, las principales tareas que llevarán a cabo los Supervisores Auxiliares dentro de la fase Extra-situ del proceso de supervisión auxiliar, son las siguientes:
+De manera enunciativa y no limitativa, las principales tareas que llevarán a cabo los [Supervisores Auxiliares](articulo-1.md) dentro de la fase Extra-situ del proceso de supervisión auxiliar, son las siguientes:
 
-I. Verificar que las Sociedades Financieras Populares entreguen en tiempo y forma, de acuerdo con la normatividad aplicable, la información requerida por las autoridades, así como por la Federación y/o Confederación respectiva, realizando todas las acciones necesarias para coadyuvar a dicho cumplimiento;
+I. Verificar que las [Sociedades](articulo-1.md) Financieras Populares entreguen en tiempo y forma, de acuerdo con la normatividad aplicable, la información requerida por las autoridades, así como por la [Federación](articulo-1.md) y/o [Confederación](articulo-1.md) respectiva, realizando todas las acciones necesarias para coadyuvar a dicho cumplimiento;
 
 II. Verificar la exactitud, integridad y consistencia de la información entregada por las Sociedades Financieras Populares, instruyendo las correcciones necesarias y asegurando su cumplimiento;
 
 III. Verificar que la administración cumpla cabalmente con las obligaciones legales tales como avisos, actas, publicaciones, otorgamiento y cancelación de poderes, instruyendo las correcciones necesarias y asegurando su cumplimiento;
 
-IV. Revisar mensualmente el cumplimiento de los límites legales contenidos en la Ley, la regulación prudencial y las demás disposiciones aplicables. En caso de incumplimiento de algún límite legal, las Federaciones deberán aplicar las medidas correctivas que garanticen el apego a dichos límites;
+IV. Revisar mensualmente el cumplimiento de los límites legales contenidos en la [Ley](articulo-1.md), la regulación prudencial y las demás disposiciones aplicables. En caso de incumplimiento de algún límite legal, las Federaciones deberán aplicar las medidas correctivas que garanticen el apego a dichos límites;
 
 V. Examinar en forma permanente el desempeño y evolución de la Sociedad Financiera Popular, a fin de conocer la situación de esta y detectar con oportunidad posibles anomalías, incumplimientos tanto legales como administrativos o situaciones problemáticas o riesgosas;
 
-VI. Dar seguimiento a todas las observaciones derivadas tanto de las actividades de Supervisión In- situ como de las actividades de la Supervisión Extra-situ;
+VI. Dar seguimiento a todas las observaciones derivadas tanto de las actividades de Supervisión In- situ como de las actividades de la [Supervisión Extra-situ](articulo-1.md);
 
 VII. Mantener un contacto habitual con las Sociedades Financieras Populares en materia de consultas y aclaraciones;
 
@@ -46,7 +46,7 @@ Dichos resultados deberán estar debidamente fundamentados a través de papeles 
 
 En particular y de manera no limitativa, los Supervisores Auxiliares deberán elaborar los documentos siguientes:
 
-a) Un informe que contenga el análisis financiero mensual de cada Sociedad Financiera Popular sujeta a supervisión auxiliar, observando como mínimo los estándares fijados por la Comisión en la Guía de Supervisión Auxiliar, y
+a) Un informe que contenga el análisis financiero mensual de cada Sociedad Financiera Popular sujeta a supervisión auxiliar, observando como mínimo los estándares fijados por la Comisión en la [Guía de Supervisión Auxiliar](articulo-1.md), y
 
 b) Un informe trimestral de Supervisión Extra-situ de cada Sociedad Financiera Popular sujeta a supervisión auxiliar, el cual deberá incluir el análisis financiero del trimestre respectivo y un reporte del seguimiento de las observaciones derivadas de todo el proceso de supervisión auxiliar, tanto Extra-situ como In-situ.
 

@@ -17,7 +17,7 @@ source_sha256: ce45c7c0c4e9099691e6e24bd2456d0b6f71f91ab27eedd5c4f2190b66d47741
 
 # Artículo 43
 
-En el año en que termina su encargo, el Ejecutivo Federal deberá elaborar anteproyectos de iniciativa de Ley de Ingresos y del proyecto de [Presupuesto de Egresos](articulo-2.md) en apoyo al Presidente Electo, incluyendo sus recomendaciones, a efecto de que éste último los presente a la Cámara de Diputados, a más tardar en la fecha y en los términos a que se refiere el artículo [74](../../cpeum/markdown/articulo-74.md) fracción IV de la Constitución Política de los Estados Unidos Mexicanos.
+En el año en que termina su encargo, el Ejecutivo Federal deberá elaborar anteproyectos de iniciativa de [Ley de Ingresos](articulo-2.md) y del proyecto de [Presupuesto de Egresos](articulo-2.md) en apoyo al Presidente Electo, incluyendo sus recomendaciones, a efecto de que éste último los presente a la Cámara de Diputados, a más tardar en la fecha y en los términos a que se refiere el artículo [74](../../cpeum/markdown/articulo-74.md) fracción IV de la Constitución Política de los Estados Unidos Mexicanos.
 
 Para realizar las actividades a que se refiere este artículo y la elaboración del Plan Nacional de Desarrollo, se podrán aprobar recursos en el correspondiente Presupuesto de Egresos para cubrir los gastos de un equipo de asesores que apoye los trabajos del Presidente Electo, estableciendo para tal efecto un Fondo específico que estará sujeto a las normas de ejercicio y fiscalización de los recursos federales que correspondan. Asimismo, se deberá informar al respecto en la [Cuenta Pública](articulo-2.md).
 

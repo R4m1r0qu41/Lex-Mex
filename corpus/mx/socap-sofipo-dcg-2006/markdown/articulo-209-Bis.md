@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 209 Bis
 
-Las Sociedades Financieras Populares deberán implementar, mantener y revisar permanentemente un [Sistema de Remuneración](articulo-1.md) que promueva y sea consistente con una efectiva administración de riesgos.
+Las [Sociedades](articulo-1.md) Financieras Populares deberán implementar, mantener y revisar permanentemente un [Sistema de Remuneración](articulo-1.md) que promueva y sea consistente con una efectiva administración de riesgos.
 
 El Sistema de Remuneración deberá considerar todas las remuneraciones, ya sea que estas se otorguen en efectivo o a través de otros mecanismos de compensación, y deberá al menos cumplir con lo siguiente:
 

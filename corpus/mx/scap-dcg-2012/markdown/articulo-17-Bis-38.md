@@ -18,6 +18,6 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 17 Bis 38
 
-Las Sociedades deberán presentar a la Comisión, un aviso suscrito por el Director o Gerente General, cuando pretendan contratar comisiones mercantiles que tengan por objeto efectuar las operaciones referidas en la fracción III del Artículo [17 Bis 36](articulo-17-Bis-36.md) de estas disposiciones, con una anticipación de por lo menos veinte días hábiles a la citada contratación.
+Las Sociedades deberán presentar a la [Comisión](articulo-1.md), un aviso suscrito por el [Director o Gerente General](articulo-1.md), cuando pretendan contratar comisiones mercantiles que tengan por objeto efectuar las operaciones referidas en la fracción III del Artículo [17 Bis 36](articulo-17-Bis-36.md) de estas disposiciones, con una anticipación de por lo menos veinte días hábiles a la citada contratación.
 
 En todo caso, para la contratación de las citadas operaciones, las Sociedades deberán contar con el plan estratégico de negocios a que se refiere el Artículo [17 Bis 37](articulo-17-Bis-37.md) anterior, el cual deberá mantenerse a disposición de la Comisión.

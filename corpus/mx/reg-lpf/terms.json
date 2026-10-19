@@ -128,6 +128,17 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpf:article:2",
     "fraction": "XII",
     "start_char": 954,
+    "end_char": 1020,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpf:term:proximidad-social",
+    "term": "Proximidad Social",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lpf",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpf:article:2",
+    "fraction": "XII Bis",
+    "start_char": 1020,
     "end_char": 1322,
     "basis": "express_definition"
   },

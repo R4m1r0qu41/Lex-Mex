@@ -18,4 +18,4 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 230
 
-La Comisión clasificará a las Sociedades en cualquiera de las categorías a que se refiere el Artículo [231](articulo-231.md) de las presentes disposiciones, con base en el Nivel de Capitalización que las Sociedades mantengan, de conformidad con la información que mensualmente envíen en términos del Capítulo III del Título Octavo de estas disposiciones.
+La [Comisión](articulo-1.md) clasificará a las Sociedades en cualquiera de las categorías a que se refiere el Artículo [231](articulo-231.md) de las presentes disposiciones, con base en el [Nivel de Capitalización](articulo-1.md) que las Sociedades mantengan, de conformidad con la información que mensualmente envíen en términos del Capítulo III del Título Octavo de estas disposiciones.

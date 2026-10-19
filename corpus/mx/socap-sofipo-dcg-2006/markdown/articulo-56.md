@@ -18,15 +18,15 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 56
 
-El Director o Gerente General en relación con el control interno tendrá las responsabilidades siguientes:
+El [Director o Gerente General](articulo-1.md) en relación con el control interno tendrá las responsabilidades siguientes:
 
-I. La ejecución diaria del sistema de control interno conforme lo establezca el Consejo de Administración, dentro de la cual estará implementar medidas de acción en caso de contingencias que puedan afectar la operación o los sistemas de información de la Sociedad Financiera Popular;
+I. La ejecución diaria del sistema de control interno conforme lo establezca el [Consejo de Administración](articulo-1.md), dentro de la cual estará implementar medidas de acción en caso de contingencias que puedan afectar la operación o los sistemas de información de la [Sociedad](articulo-1.md) Financiera Popular;
 
 II. Diseñar los manuales que estarán sujetos a aprobación del Consejo de Administración, así como difundirlos al personal;
 
-III. Vigilar conjuntamente con el Consejo de Vigilancia o Comisario, que el sistema de control interno sea efectivo y funcional;
+III. Vigilar conjuntamente con el [Consejo de Vigilancia o Comisario](articulo-1.md), que el sistema de control interno sea efectivo y funcional;
 
-IV. A solicitud del Consejo de Administración de la Federación respectiva o de la Comisión, el Director o Gerente General deberá ordenar que se lleve a cabo una evaluación del estado que guarde el sistema de control interno en todos sus distintos aspectos. Lo anterior, sin perjuicio de las facultades que corresponden al Comité de Supervisión de la Federación respectiva, y
+IV. A solicitud del Consejo de Administración de la [Federación](articulo-1.md) respectiva o de la Comisión, el Director o Gerente General deberá ordenar que se lleve a cabo una evaluación del estado que guarde el sistema de control interno en todos sus distintos aspectos. Lo anterior, sin perjuicio de las facultades que corresponden al Comité de Supervisión de la Federación respectiva, y
 
 V. Elaborar reportes trimestrales para el Consejo de Administración y el Consejo de Vigilancia, los cuales deberán mencionar:
 

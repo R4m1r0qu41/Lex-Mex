@@ -22,10 +22,10 @@ El plan de restauración de capital deberá comprender, al menos, los elementos 
 
 I. Identificar claramente las fuentes de recursos para incrementar su capital o reducir sus activos sujetos a riesgo.
 
-II. Señalar el plazo en el cual la Sociedad Financiera Popular pretende alcanzar un Nivel de Capitalización igual o superior a 100 por ciento, así como igual o superior al 131 por ciento.
+II. Señalar el plazo en el cual la [Sociedad](articulo-1.md) Financiera Popular pretende alcanzar un Nivel de Capitalización igual o superior a 100 por ciento, así como igual o superior al 131 por ciento.
 
 III. Presentar un calendario con los objetivos que la Sociedad Financiera Popular alcanzaría en cada periodo. El calendario deberá contener las fechas o etapas en las que la Sociedad Financiera Popular pretenda llevar a cabo cada una de las acciones necesarias para restaurar el capital.
 
 IV. Presentar una relación detallada de la información que la Sociedad Financiera Popular deberá remitir periódicamente al Comité de Supervisión Auxiliar que le permita dar seguimiento al cumplimiento del plan de restauración.
 
-Artículo 205 Bis 10 a.- A las Sociedades Financieras Populares que hayan sido clasificadas en la categoría 4, les será aplicable lo dispuesto en el artículo 75 de la Ley. Cuando una Sociedad Financiera Popular haya presentado un Nivel de Capitalización inferior al 56 por ciento en el periodo comprendido entre un cómputo y el inmediato siguiente, la Comisión considerará este hecho como una causal de revocación de conformidad con el artículo 37, párrafo primero, fracción V de la Ley y comenzará el proceso correspondiente.
+Artículo 205 Bis 10 a.- A las Sociedades Financieras Populares que hayan sido clasificadas en la categoría 4, les será aplicable lo dispuesto en el artículo 75 de la [Ley](articulo-1.md). Cuando una Sociedad Financiera Popular haya presentado un Nivel de Capitalización inferior al 56 por ciento en el periodo comprendido entre un cómputo y el inmediato siguiente, la Comisión considerará este hecho como una causal de revocación de conformidad con el artículo 37, párrafo primero, fracción V de la Ley y comenzará el proceso correspondiente.

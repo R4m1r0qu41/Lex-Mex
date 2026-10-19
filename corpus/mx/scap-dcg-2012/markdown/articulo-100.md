@@ -18,16 +18,16 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 100
 
-En materia de administración de riesgos, el Consejo de Administración de cada Sociedad tendrá las responsabilidades siguientes:
+En materia de administración de riesgos, el [Consejo de Administración](articulo-1.md) de cada Sociedad tendrá las responsabilidades siguientes:
 
 I. Aprobar los objetivos, políticas y procedimientos para la administración de riesgos, así como los límites de exposición al riesgo.
 
-II. Designar a la persona que será responsable de la administración de riesgos de la Sociedad, a propuesta del Director o Gerente General, así como vigilar que la realización de las operaciones se ajuste a los objetivos, políticas y procedimientos para la administración de riesgos aprobados por el citado Consejo.
+II. Designar a la persona que será responsable de la administración de riesgos de la Sociedad, a propuesta del [Director o Gerente General](articulo-1.md), así como vigilar que la realización de las operaciones se ajuste a los objetivos, políticas y procedimientos para la administración de riesgos aprobados por el citado Consejo.
 
 III. Aprobar la realización de nuevas operaciones, productos o servicios, o bien la modificación de los ya existentes, a propuesta del Director o Gerente General, con opinión del personal
 
 59 Inciso reformado mediante Resolución publicada en el Diario Oficial de la Federación el 09 de abril de 2024, cuya entrada en vigor fue diferida al 1 de enero de 2027, en términos de la Resolución modificatoria publicada en el Diario Oficial de la Federación el 27 de diciembre de 2025, por lo que dicha reforma no se encuentra reflejada en el texto vigente.
 
-responsable de la administración de riesgos y previo cumplimiento a lo establecido en el Artículo 67 de la Ley.
+responsable de la administración de riesgos y previo cumplimiento a lo establecido en el Artículo 67 de la [Ley](articulo-1.md).
 
 Los objetivos, políticas y procedimientos mencionados en la fracción I anterior, deberán incluirse en un manual de administración de riesgos y ser revisados cuando menos una vez al año. El Consejo de Administración podrá escuchar la opinión del comité de apoyo a que se refiere el artículo [106](articulo-106.md) de estas disposiciones, para efectos de la aprobación de dicho manual, así como de sus modificaciones.

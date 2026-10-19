@@ -17,4 +17,4 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 29
 
-La Comisión podrá exigir a cualquier Sociedad requerimientos de capitalización adicionales a los señalados en la presente regulación, cuando a su juicio así se justifique, tomando en cuenta, entre otros aspectos, la integración de su capital, la composición de sus activos, la eficiencia de sus sistemas de control interno y, en general, la exposición y administración de riesgos.
+La [Comisión](articulo-1.md) podrá exigir a cualquier Sociedad requerimientos de capitalización adicionales a los señalados en la presente regulación, cuando a su juicio así se justifique, tomando en cuenta, entre otros aspectos, la integración de su capital, la composición de sus activos, la eficiencia de sus sistemas de control interno y, en general, la exposición y administración de riesgos.

@@ -17,7 +17,7 @@ source_sha256: 1d398a90955ef45ccb7baf4d56534c676cde8325e8b109c4d32120909e783694
 
 # Artículo 73
 
-Los criterios conforme a los cuales se asignarán los recursos del Fondo a víctimas u ofendidos serán como mínimo los siguientes, sin perjuicio de que en las Reglas de Operación se determinen otros:
+Los criterios conforme a los cuales se asignarán los recursos del Fondo a víctimas u ofendidos serán como mínimo los siguientes, sin perjuicio de que en las [Reglas de Operación](articulo-2.md) se determinen otros:
 
 I. La necesidad de la víctima u ofendido;
 

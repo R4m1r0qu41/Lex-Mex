@@ -18,12 +18,12 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 265 Bis 16
 
-Para el manejo de Contraseñas y otros Factores de Autenticación, las Sociedades Financieras Populares se sujetarán a lo siguiente:
+Para el manejo de [Contraseñas](articulo-1.md) y otros Factores de [Autenticación](articulo-1.md), las [Sociedades](articulo-1.md) Financieras Populares se sujetarán a lo siguiente:
 
-I. Deberán mantener procedimientos que proporcionen seguridad en la información contenida en los dispositivos de Autenticación en su custodia, distribución, así como en la asignación y reposición a los Usuarios de dichas Contraseñas y Factores de Autenticación.
+I. Deberán mantener procedimientos que proporcionen seguridad en la información contenida en los dispositivos de Autenticación en su custodia, distribución, así como en la asignación y reposición a los [Usuarios](articulo-1.md) de dichas Contraseñas y Factores de Autenticación.
 
 II. Tendrán prohibido contar con mecanismos, algoritmos o procedimientos que les permitan conocer, recuperar o descifrar los valores de cualquier información relativa a la Autenticación de los Usuarios.
 
 III. Tendrán prohibido solicitar a los Usuarios, a través de sus funcionarios, empleados, representantes o comisionistas, la información parcial o completa, de los Factores de Autenticación de las Categorías 2 o 3 a que se refiere el artículo [265 bis 4](articulo-265-Bis-4.md) de estas disposiciones.
 
-Se exceptúa de lo previsto en esta sección, a las operaciones realizadas por Servicio Telefónico Voz a Voz, siempre y cuando el Usuario haya iniciado la llamada, se requiera información parcial del Factor de Autenticación de las Categorías 2 o 3 a que se refiere el artículo [265 bis 4](articulo-265-Bis-4.md) de las presentes disposiciones, y este sea utilizado exclusivamente para Servicios Electrónicos.
+Se exceptúa de lo previsto en esta sección, a las operaciones realizadas por [Servicio Telefónico Voz a Voz](articulo-1.md), siempre y cuando el Usuario haya iniciado la llamada, se requiera información parcial del [Factor de Autenticación](articulo-1.md) de las Categorías 2 o 3 a que se refiere el artículo [265 bis 4](articulo-265-Bis-4.md) de las presentes disposiciones, y este sea utilizado exclusivamente para [Servicios Electrónicos](articulo-1.md).

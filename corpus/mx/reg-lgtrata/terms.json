@@ -23,6 +23,50 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:enfoque-diferencial-y-especializado",
+    "term": "Enfoque Diferencial y Especializado",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgtrata",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:2",
+    "fraction": "IV",
+    "start_char": 1201,
+    "end_char": 1332,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:fiscalia",
+    "term": "Fiscalía",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgtrata",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:2",
+    "fraction": "V",
+    "start_char": 1332,
+    "end_char": 1456,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:fiscalias-y-procuradurias-de-las-entidades-federativas",
+    "term": "Fiscalías y Procuradurías de las Entidades Federativas",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgtrata",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:2",
+    "fraction": "VI",
+    "start_char": 1456,
+    "end_char": 1610,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:invitados-expertos",
+    "term": "Invitados Expertos",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgtrata",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:2",
+    "fraction": "VII",
+    "start_char": 1610,
+    "end_char": 1870,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:lengua-de-senas-mexicana:-la-lengua-prevista-en-el-articulo-2",
     "term": "Lengua de Señas Mexicana: La lengua prevista en el artículo 2",
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgtrata",
@@ -30,6 +74,17 @@
     "fraction": "VIII",
     "start_char": 1870,
     "end_char": 2025,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:lineamientos",
+    "term": "Lineamientos",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgtrata",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:2",
+    "fraction": "IX",
+    "start_char": 2025,
+    "end_char": 2122,
     "basis": "express_definition"
   },
   {
@@ -56,6 +111,39 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:personas-en-situacion-de-vulnerabilidad",
+    "term": "Personas en Situación de Vulnerabilidad",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgtrata",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:2",
+    "fraction": "XII",
+    "start_char": 2589,
+    "end_char": 2817,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:presidente",
+    "term": "Presidente",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgtrata",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:2",
+    "fraction": "XIII",
+    "start_char": 2817,
+    "end_char": 2866,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:programas-permanentes",
+    "term": "Programas Permanentes",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgtrata",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:2",
+    "fraction": "XIV",
+    "start_char": 2866,
+    "end_char": 3278,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:reglamento-interno:-el-reglamento-interno-de-la-comision-previsto-en-el-articulo-88",
     "term": "Reglamento Interno: El Reglamento Interno de la Comisión previsto en el artículo 88",
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgtrata",
@@ -63,6 +151,28 @@
     "fraction": "XV",
     "start_char": 3278,
     "end_char": 3391,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:reglas-de-operacion",
+    "term": "Reglas de Operación",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgtrata",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:2",
+    "fraction": "XVI",
+    "start_char": 3391,
+    "end_char": 3453,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:representaciones-de-mexico-en-el-exterior",
+    "term": "Representaciones de México en el Exterior",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgtrata",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:2",
+    "fraction": "XVII",
+    "start_char": 3453,
+    "end_char": 4002,
     "basis": "express_definition"
   }
 ]

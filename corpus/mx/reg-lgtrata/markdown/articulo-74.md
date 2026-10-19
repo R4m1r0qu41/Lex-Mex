@@ -17,4 +17,4 @@ source_sha256: 1d398a90955ef45ccb7baf4d56534c676cde8325e8b109c4d32120909e783694
 
 # Artículo 74
 
-Para los distintos rubros a que se refiere el artículo [72](articulo-72.md) de este Reglamento, las Reglas de Operación deberán contener tablas que fijen para cada rubro establecido en dicho artículo, las cantidades o porcentajes, mínimos y máximos, dentro de los cuales deberá ubicarse la cantidad que fije el Comité Técnico del Fondo para cada entrega específica de recursos.
+Para los distintos rubros a que se refiere el artículo [72](articulo-72.md) de este Reglamento, las [Reglas de Operación](articulo-2.md) deberán contener tablas que fijen para cada rubro establecido en dicho artículo, las cantidades o porcentajes, mínimos y máximos, dentro de los cuales deberá ubicarse la cantidad que fije el Comité Técnico del Fondo para cada entrega específica de recursos.

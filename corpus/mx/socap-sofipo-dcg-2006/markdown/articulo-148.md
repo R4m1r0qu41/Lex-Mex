@@ -18,4 +18,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 148
 
-Lo dispuesto en la presente Sección se aplicará a las Sociedades Financieras Populares clasificadas en el Nivel de Regulación Prudencial IV conforme al artículo [209 Bis 12](articulo-209-Bis-12.md) de las presentes disposiciones
+Lo dispuesto en la presente Sección se aplicará a las [Sociedades](articulo-1.md) Financieras Populares clasificadas en el [Nivel de Regulación Prudencial](articulo-1.md) IV conforme al artículo [209 Bis 12](articulo-209-Bis-12.md) de las presentes disposiciones

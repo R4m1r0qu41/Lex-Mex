@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lopsrm",
   "source_sha256": "2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9",
   "extracted_text_sha256": "bd869d6ddfa6b5b37f4355eb93042d43dbd189d51dad107e65d8302a82906c28",
@@ -42,6 +42,7 @@
         "XXIX",
         "XXX"
       ],
+      "unread_fractions": [],
       "term_count": 30
     }
   ],

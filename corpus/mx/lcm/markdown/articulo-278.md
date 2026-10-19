@@ -21,7 +21,7 @@ Las disposiciones de este Título serán aplicables a los casos en que:
 
 I. Un Tribunal Extranjero o un Representante Extranjero solicite asistencia en la República Mexicana en relación con un Procedimiento Extranjero;
 
-II. Se solicite asistencia en un Estado extranjero en relación con un procedimiento que se esté tramitando con arreglo a esta Ley;
+II. Se solicite asistencia en un Estado extranjero en relación con un procedimiento que se esté tramitando con arreglo a esta [Ley](articulo-4o.md);
 
 III. Se estén tramitando simultáneamente y respecto de un mismo [Comerciante](articulo-4o.md) un Procedimiento Extranjero y un procedimiento en la República Mexicana con arreglo a esta Ley, o
 

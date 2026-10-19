@@ -146,6 +146,14 @@ send a Codex review packet.
 
 ## Current checkpoint
 
+2026-10-19 (`glossary-extraction-2`): every glossary grammar reads every fraction
+qualifier (`Bis`… `Decies`, any case, `N. Bis.`), and the established pass starts
+a fraction after a DOF note, reads an off-delimiter entry by its own delimiter, and
+records unread fractions in coverage instead of dropping them. 44 instruments gain
+285 terms (2 bogus terms removed); 12 fractions in 11 instruments are recorded as
+unread. Accepted-gap instruments take a glossary-only refresh in `link --all`. See
+`docs/decisions.md`.
+
 2026-10-19 (exception profiles, batch 1): adapter `glossary.profile`, bound to
 text hash and literal spans, with three operations (term spans, non-definition
 fractions, ignored candidates). It releases lfvv, lfpccs, lfca, lsct and lfra
@@ -239,7 +247,7 @@ auto-detection gains a wider fallback pass").
 
 ## Next action
 
-Exception profiles batch 1 is done (7 holds remain). Next is LIEPS under the
+`glossary-extraction-2` is done (it unblocks LIEPS's `XX BIS`). Next is LIEPS under the
 2026-10-19 operator rulings (see `docs/decisions.md`). It needs four things:
 - an optional inciso locator on `DefinedTerm` and in its schema;
 - inciso-level term spans and cross-reference non-definitions in the profile;
@@ -251,6 +259,8 @@ Then:
 - ltfccg's chapter-heading leak, a parser fix;
 - the label and boundary holds (log, servinv-dcg-2013, reg-lftr-mcsre, ladua after
   its reparse; fi-dcg-2014 by re-ingesting the new CNBV edition);
-- the title-span usage filter, which also unblocks the meia and mpcca imports.
+- the title-span usage filter, which also unblocks the meia and mpcca imports;
+- the 12 unread fractions (profiles or rulings) and lan's quoted terms, which keep
+  their quote characters and so never match a usage.
 Operator rulings on glossary scope remain pending except `lss` (both 5 A and
 159, ruled 2026-10-18); G3 imports follow accepted originals and scope decisions.

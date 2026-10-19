@@ -23,7 +23,7 @@ En caso de que existan acreedores subordinados a los que hace referencia la frac
 
 El juez, a solicitud del conciliador, del síndico, de los interventores o de cualquier acreedor, podrá establecer como fecha de retroacción una anterior a la señalada en los dos párrafos anteriores, sin que ésta pueda exceder de 3 años, siempre que dichas solicitudes se presenten con anterioridad a la sentencia de reconocimiento, graduación y prelación de créditos. Lo anterior se substanciará por la vía incidental.
 
-Para que proceda el cambio de la fecha de retroacción prevista en el párrafo anterior, se requerirá que el solicitante relate una serie de hechos que pudieran encuadrar en alguna de las hipótesis que se establecen en los artículos [114](articulo-114.md) a [117](articulo-117.md) de esta Ley, aportando la documentación con la que cuente; en el entendido de que no es necesario demostrar en el incidente respectivo, para que proceda la modificación de la fecha de retroacción, la existencia de los actos en fraude de acreedores.
+Para que proceda el cambio de la fecha de retroacción prevista en el párrafo anterior, se requerirá que el solicitante relate una serie de hechos que pudieran encuadrar en alguna de las hipótesis que se establecen en los artículos [114](articulo-114.md) a [117](articulo-117.md) de esta [Ley](articulo-4o.md), aportando la documentación con la que cuente; en el entendido de que no es necesario demostrar en el incidente respectivo, para que proceda la modificación de la fecha de retroacción, la existencia de los actos en fraude de acreedores.
 
 La sentencia que modifique la fecha de retroacción se publicará por Boletín Judicial o, en su caso, por los estrados del juzgado.
 

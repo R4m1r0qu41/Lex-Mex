@@ -17,4 +17,4 @@ source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 
 # Artículo 132
 
-Transcurrido el plazo mencionado en el artículo [130](articulo-130.md) de esta Ley, el juez, dentro de los cinco días siguientes, dictará la sentencia de reconocimiento, graduación y prelación de créditos tomando en consideración la lista definitiva presentada por el conciliador, así como todos los documentos que se le hayan anexado.
+Transcurrido el plazo mencionado en el artículo [130](articulo-130.md) de esta [Ley](articulo-4o.md), el juez, dentro de los cinco días siguientes, dictará la sentencia de reconocimiento, graduación y prelación de créditos tomando en consideración la lista definitiva presentada por el conciliador, así como todos los documentos que se le hayan anexado.

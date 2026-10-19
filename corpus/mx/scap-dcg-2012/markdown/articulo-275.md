@@ -17,14 +17,14 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 275
 
-Tratándose de Cuentas Solidarias, cada uno de los Cotitulares podrá solicitar en lo individual el pago de la totalidad del saldo que resulte en la cuenta en la que participe como Cotitular solidario, con base en el saldo del principal y accesorios a la fecha en que se hubiere declarado la disolución y liquidación de la Sociedad, o decretado su concurso mercantil, descontando de dicha cantidad, el monto total de los créditos insolutos que, en su caso, el solicitante tenga con la Sociedad de que se trate.
+Tratándose de [Cuentas Solidarias](articulo-1.md), cada uno de los [Cotitulares](articulo-1.md) podrá solicitar en lo individual el pago de la totalidad del saldo que resulte en la cuenta en la que participe como Cotitular solidario, con base en el saldo del principal y accesorios a la fecha en que se hubiere declarado la disolución y liquidación de la Sociedad, o decretado su concurso mercantil, descontando de dicha cantidad, el monto total de los créditos insolutos que, en su caso, el solicitante tenga con la Sociedad de que se trate.
 
 El pago de las Cuentas Solidarias se sujetará a lo siguiente:
 
 I. El pago hecho a uno de los Cotitulares solidarios, extingue totalmente la deuda.
 
-II. Salvo convenio en contrario entre los Cotitulares, el Fondo de Protección se libera de su obligación, pagando al Cotitular que haya presentado en primer lugar su solicitud, en términos de lo previsto en el presente capítulo.
+II. Salvo convenio en contrario entre los Cotitulares, el [Fondo de Protección](articulo-1.md) se libera de su obligación, pagando al Cotitular que haya presentado en primer lugar su solicitud, en términos de lo previsto en el presente capítulo.
 
-III. De conformidad con lo previsto en el Artículo 61 de la Ley, se descontará al saldo de la Cuenta Solidaria, el saldo de los créditos insolutos con respecto de los cuales sea titular el solicitante.
+III. De conformidad con lo previsto en el Artículo 61 de la [Ley](articulo-1.md), se descontará al saldo de la Cuenta Solidaria, el saldo de los créditos insolutos con respecto de los cuales sea titular el solicitante.
 
-Tratándose de Cuentas Mancomunadas, lo señalado en la fracción III anterior, será igualmente aplicable respecto de cada Cotitular.
+Tratándose de [Cuentas Mancomunadas](articulo-1.md), lo señalado en la fracción III anterior, será igualmente aplicable respecto de cada Cotitular.

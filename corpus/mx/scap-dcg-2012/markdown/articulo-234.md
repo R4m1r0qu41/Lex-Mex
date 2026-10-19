@@ -18,8 +18,8 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 234
 
-La Comisión deberá notificar por escrito a las Sociedades clasificadas en las categorías 2 a 4, la categoría en que hayan sido clasificadas, así como las Medidas Correctivas Mínimas y, en su caso, las Medidas Correctivas Especiales Adicionales que deberán observar y los términos y plazos para su cumplimiento previstos en el presente capítulo, así como aquellas Medidas Correctivas Mínimas que por virtud de la modificación en su clasificación dejen de serles aplicables.
+La [Comisión](articulo-1.md) deberá notificar por escrito a las Sociedades clasificadas en las categorías 2 a 4, la categoría en que hayan sido clasificadas, así como las [Medidas Correctivas Mínimas](articulo-1.md) y, en su caso, las [Medidas Correctivas Especiales Adicionales](articulo-1.md) que deberán observar y los términos y plazos para su cumplimiento previstos en el presente capítulo, así como aquellas Medidas Correctivas Mínimas que por virtud de la modificación en su clasificación dejen de serles aplicables.
 
-El escrito de notificación a que se refiere el párrafo anterior, deberá ser enviado por la Comisión a las Sociedades, dentro de los 10 días hábiles siguientes a la fecha en que le hayan dado a conocer el Nivel de Capitalización de que se trate, debiendo hacerlo del conocimiento también del Comité de Supervisión Auxiliar.
+El escrito de notificación a que se refiere el párrafo anterior, deberá ser enviado por la Comisión a las Sociedades, dentro de los 10 días hábiles siguientes a la fecha en que le hayan dado a conocer el [Nivel de Capitalización](articulo-1.md) de que se trate, debiendo hacerlo del conocimiento también del [Comité de Supervisión Auxiliar](articulo-1.md).
 
 La Comisión no estará obligada a notificar mensualmente a una Sociedad su clasificación, cuando esta no presente variaciones respecto del período inmediato anterior.

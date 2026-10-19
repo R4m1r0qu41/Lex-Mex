@@ -1,5 +1,55 @@
 # Architecture decisions
 
+## 2026-10-19 — Glossary grammar reads every fraction qualifier and accounts for every entry (`glossary-extraction-2`)
+
+**Why.** While preparing LIEPS (`XX BIS. Edulcorante`), a census found that the
+committed glossaries silently lost entries. All of these were reported as
+complete `detected` extractions:
+- **Qualifiers.** The established grammar read no qualifier, and the wider
+  grammar read only `Bis`/`Ter` in title case. So 125 qualified fractions
+  (`III Bis`, `VI BIS`, `V bis`, `X Quáter`, `I Quinquies`… `I Septies`) in
+  38 instruments were folded into the previous term's span.
+- **`N. Bis.`** reg-lfjs prints `I. BIS. Azar:` and `XII. Bis. Derogada.`.
+  The first was committed as the term `BIS. Azar`.
+- **Amendment notes.** The established grammar missed 16 fractions that follow
+  an amendment note (`…Reformada DOF 10-01-2014 XI Bis.`).
+- **Delimiters.** The established pass picks one delimiter from the first entry
+  and silently drops every entry that does not use it. That dropped 90 of 98
+  entries in socap-sofipo-dcg-2006 and 51 of 82 in scap-dcg-2012.
+- **Repealed fraction.** One repealed fraction was committed as a term:
+  reg-lfprh `Se deroga. Fracción derogada… XIV Bis. Evaluación costo y beneficio`.
+
+The operator asked for all parser defects to be fixed (2026-10-19).
+
+**What.**
+- **Qualifier grammar.**
+  - One qualifier grammar, `lex_core::FRACTION_QUALIFIER_PATTERN` (`Bis` … `Decies`, any case, `Quater` with or without the accent, optionally after `N.`), is used by every glossary grammar: established, wider, the swallowed-fraction guard, `fractions`, `roman_colon` and `mixed_fractions`.
+  - Labels keep the printed spelling with the qualifier in title case (`XX BIS` → `XX Bis`; `normalize_fraction_label`).
+  - The wider sequence check ranks every qualifier.
+  - The `fraction` pattern in `defined-term` and `glossary-coverage` admits them.
+- **Established pass.**
+  - It also starts a fraction after a `DOF dd-mm-yyyy` note.
+  - An entry that the glossary's delimiter does not fit is read by its own delimiter: `:`; `,` followed by a definition opener (`al`, `a la`, `en singular`…); or `.` followed by a capital. The term must be plain and must not end in a connector.
+  - An entry neither delimiter fits is recorded in the coverage record's new `unread_fractions`, never dropped.
+- **Strategy version.** It is now `glossary-extraction-2`, and the five batch-1 profiles are rebound to it. Their text has no qualified fraction, so their extraction is unchanged.
+- **Closure, glossary-only refresh (operator, 2026-10-19).**
+  - An instrument rejected by `link --all` with exactly its recorded accepted gap, and whose terms no other instrument imports, takes a glossary-only refresh: terms, usages, coverage and Markdown are rewritten, and its references and validation record are left as persisted.
+  - This applies to lmv, oaac-dcg-2009 and socap-sofipo-dcg-2006. oaac and socap have no retained source to reparse.
+  - A rejected instrument whose persisted terms the current extraction no longer reproduces now fails the closure before any write. Before this, it exited 0 and left stale coverage.
+- **Export.** A qualified fraction's Obsidian anchor is `f-v-bis`, not `f-v bis`, which no paragraph carried. A citation of `fracción V Bis` links V Bis, not V.
+
+**Measured.**
+- **Terms.** `link --all` exits 0, and the 8 rejections are exactly the accepted gaps. 44 instruments change: +285 terms, 2 bogus terms removed (above), 104 definition spans corrected and +6,706 usages.
+- **Unchanged.** References are unchanged at 35,949, and so are the coverage statuses (17 configured / 299 detected / 7 held / 145 none detected).
+- **Markdown.** All 1,233 changed Markdown files differ only in link markup, checked by stripping links.
+- **Unread.** 12 fractions in 11 instruments are recorded as unread: lfped III Bis, lgdnna XVII–XVIII, lgmasc III, lgpsacdii VIII, lissste XII, lss VII, reg-laassp IX, reg-ldcmpme II, reg-lgn VI, reg-lgvs XV Bis and socap XXXVIII. Most have a term longer than the 90-character limit, a semicolon delimiter, or incisos (lissste XII).
+- **lcm.** Its newly read `IV Bis` defines `Ley`, giving 230 usages; 7 of them are matches on the start of another law's title. This is the known title-prefix imprecision (2026-10-18), not new policy.
+
+**Open.**
+- lan's quoted terms (`"Aguas Residuales"`) keep their quote characters, so they never match a usage. This is a separate defect. Its XXV also nests `a.`/`b.` items, so `b. "Distrito de Temporal Tecnificado"` is folded into XXV. It follows LIEPS, which adds inciso reading.
+- The unread fractions need profiles or operator rulings.
+- These are deterministic extractions, not legal review.
+
 ## 2026-10-19 — An omnibus decree's section title for this instrument is not a new act
 
 **Why.** LIEPS could not be reparsed from its own unchanged source: the SHA-256 of

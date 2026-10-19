@@ -17,7 +17,7 @@ source_sha256: c78882a0177403ee04cd38dd09fa1657dc221b7f6827ddacf251c699ede867e4
 
 # Artículo 73 BIS
 
-La Agencia Federal de Aviación Civil tiene como un objetivo primordial la seguridad de las personas usuarias, de las tripulaciones, de las personas que prestan servicios en tierra y de todas las personas dentro de los aeródromos civiles contra los actos siguientes:
+La [Agencia Federal de Aviación Civil](articulo-2.md) tiene como un objetivo primordial la seguridad de las personas usuarias, de las tripulaciones, de las personas que prestan servicios en tierra y de todas las personas dentro de los aeródromos civiles contra los actos siguientes:
 
 I. Apoderamiento ilícito de aeronaves;
 

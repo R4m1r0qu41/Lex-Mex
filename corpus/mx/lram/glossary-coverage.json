@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:statute:lram",
   "source_sha256": "d0b2beb3d2e66847880d4c4270b4af4df1db63b22d6e5ac93883eca832652d6c",
   "extracted_text_sha256": "d20f6b3d321ac8e29df9f1a396ce2574a7227adc9fef5275bb60407ca0134c19",

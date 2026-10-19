@@ -29,6 +29,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lcm:article:4",
     "fraction": "III",
     "start_char": 1380,
+    "end_char": 1777,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:term:firma-electronica",
+    "term": "Firma Electrónica",
+    "instrument_id": "urn:lex-mx:federal:statute:lcm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcm:article:4",
+    "fraction": "III Bis",
+    "start_char": 1777,
     "end_char": 2235,
     "basis": "express_definition"
   },
@@ -40,6 +51,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lcm:article:4",
     "fraction": "IV",
     "start_char": 2235,
+    "end_char": 2315,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:statute:lcm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcm:article:4",
+    "fraction": "IV Bis",
+    "start_char": 2315,
     "end_char": 2408,
     "basis": "express_definition"
   },

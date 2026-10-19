@@ -18,9 +18,9 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 192
 
-Las Sociedades deberán contar con políticas y procedimientos aprobados por el Consejo de Administración que permitan implementar medidas de control para identificar, evaluar y limitar de manera oportuna la toma de riesgos en el otorgamiento de créditos, basados en la información que obtengan de Sociedades de Información Crediticia, en las que se prevea, cuando menos, lo siguiente:
+Las Sociedades deberán contar con políticas y procedimientos aprobados por el [Consejo de Administración](articulo-1.md) que permitan implementar medidas de control para identificar, evaluar y limitar de manera oportuna la toma de riesgos en el otorgamiento de créditos, basados en la información que obtengan de Sociedades de Información Crediticia, en las que se prevea, cuando menos, lo siguiente:
 
-I. Criterios para valorar el contenido de los informes proporcionados por la Sociedad de Información Crediticia respectiva, que permitan calificar los grados de riesgo de un determinado solicitante de crédito y, en su caso, de sus avalistas, fiadores y obligados solidarios, cuando cuenten con adeudos vencidos u otro tipo de antecedentes crediticios.
+I. Criterios para valorar el contenido de los informes proporcionados por la [Sociedad de Información Crediticia](articulo-1.md) respectiva, que permitan calificar los grados de riesgo de un determinado solicitante de crédito y, en su caso, de sus avalistas, fiadores y obligados solidarios, cuando cuenten con adeudos vencidos u otro tipo de antecedentes crediticios.
 
 II. La información adicional que se requeriría a las personas que se ubiquen en los supuestos previstos en la fracción anterior.
 

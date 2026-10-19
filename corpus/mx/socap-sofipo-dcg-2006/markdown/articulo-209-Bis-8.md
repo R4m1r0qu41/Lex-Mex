@@ -18,15 +18,15 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 209 Bis 8
 
-Las Sociedades Financieras Populares, para efectos de la diversificación de riesgos en sus operaciones, deberán ajustarse a lo siguiente, en los rubros que a continuación se indican:
+Las [Sociedades](articulo-1.md) Financieras Populares, para efectos de la diversificación de riesgos en sus operaciones, deberán ajustarse a lo siguiente, en los rubros que a continuación se indican:
 
 I. Diversificación de activos:
 
-a) Límite máximo de Financiamiento
+a) Límite máximo de [Financiamiento](articulo-1.md)
 
 El límite de máximo Financiamiento que se podrá otorgar será el siguiente:
 
-1 Tratándose de Financiamientos a personas físicas, la suma de los Financiamientos otorgados a un Cliente, grupo de Clientes o Grupo de personas que sean parte de un mismo grupo de “Riesgo Común”, no podrá exceder del 10 por ciento del capital neto de la Sociedad Financiera Popular.
+1 Tratándose de Financiamientos a personas físicas, la suma de los Financiamientos otorgados a un Cliente, grupo de Clientes o [Grupo de personas](articulo-1.md) que sean parte de un mismo grupo de “Riesgo Común”, no podrá exceder del 10 por ciento del capital neto de la Sociedad Financiera Popular.
 
 2 Tratándose de Financiamientos a personas morales, la suma de los Financiamientos otorgados a un Cliente, grupo de Clientes o Grupo de personas que sean parte de un mismo grupo de “Riesgo Común”, no podrá exceder del 15 por ciento del capital neto de la Sociedad Financiera Popular.
 
@@ -46,7 +46,7 @@ i. Las personas físicas o morales que, individualmente o en su conjunto, sean p
 
 ii. Las personas morales que pertenezcan al mismo Grupo Empresarial;
 
-iii. Los consejeros y el Director o Gerente General de la persona moral acreditada.
+iii. Los consejeros y el [Director o Gerente General](articulo-1.md) de la persona moral acreditada.
 
 iv. Las personas físicas que actualicen los supuestos del numeral 1 del presente inciso con alguna de las personas físicas que formen parte del grupo de “Riesgo Común” de la persona moral acreditada.
 

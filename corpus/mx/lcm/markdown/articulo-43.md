@@ -23,7 +23,7 @@ I. Nombre, denominación o razón social y [Domicilio](articulo-4o.md) del [Come
 
 II. La fecha en que se dicte;
 
-III. La fundamentación de la sentencia en términos de lo establecido en el artículo [10](articulo-10.md) de esta Ley, así como, en su caso, una lista de los acreedores que el visitador hubiese identificado en la contabilidad del Comerciante, sin que ello agote el procedimiento de reconocimiento, graduación y prelación de créditos a que se refiere el Título Cuarto de esta Ley; Fracción reformada DOF 27-12-2007
+III. La fundamentación de la sentencia en términos de lo establecido en el artículo [10](articulo-10.md) de esta [Ley](articulo-4o.md), así como, en su caso, una lista de los acreedores que el visitador hubiese identificado en la contabilidad del Comerciante, sin que ello agote el procedimiento de reconocimiento, graduación y prelación de créditos a que se refiere el Título Cuarto de esta Ley; Fracción reformada DOF 27-12-2007
 
 IV. La orden al [Instituto](articulo-4o.md) para que designe al conciliador a través del mecanismo aleatorio previamente establecido, junto con la determinación de que, entretanto, el Comerciante, sus administradores, gerentes y dependientes tendrán las obligaciones que la ley atribuye a los depositarios;
 

@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lfsp",
   "source_sha256": "98a4cff5f080b348fb8a7ffd463e1391a4be04ef3485649f3b571f20bec81232",
   "extracted_text_sha256": "1fc7660b057fcbaad10e52a40fe7f784d6be89ebee3668400f9c42ef6785e9c0",
@@ -17,6 +17,7 @@
         "IV",
         "V"
       ],
+      "unread_fractions": [],
       "term_count": 5
     }
   ],

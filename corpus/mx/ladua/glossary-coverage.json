@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:statute:ladua",
   "source_sha256": "43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d",
   "extracted_text_sha256": "a060dd1a5b9fcd3e311c5fc54418c0d3263b88156473880b23e8af12dc00bf5c",
@@ -10,7 +10,7 @@
     "provision_id": "urn:lex-mx:federal:statute:ladua:article:2",
     "provision_text_sha256": "3bd0f34b749af55d6b0a84ad0e1f7ff5321c895e668ceb1d64ee34b707fa4ad0",
     "code": "sequence_break",
-    "message": "fraction IV breaks the I, II, III… sequence after 1"
+    "message": "fraction IV breaks the I, II, III… sequence after I"
   },
   "imports": [],
   "term_count": 0,

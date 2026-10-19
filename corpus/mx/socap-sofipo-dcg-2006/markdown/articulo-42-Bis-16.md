@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 42 Bis 16
 
-Las Sociedades Financieras Populares, al calificar créditos que cuenten con 2 o más garantías, una vez asignada la calificación inicial a cada crédito, podrán segmentar el saldo insoluto del crédito en las partes que resulten de aplicar los criterios siguientes:
+Las [Sociedades](articulo-1.md) Financieras Populares, al calificar créditos que cuenten con 2 o más garantías, una vez asignada la calificación inicial a cada crédito, podrán segmentar el saldo insoluto del crédito en las partes que resulten de aplicar los criterios siguientes:
 
 I. Determinarán la parte del saldo que se encuentre cubierta por 2 o más garantías, ya sea que se trate de garantías financieras, garantías no financieras, Esquemas de Cobertura en Paso y Medida o Esquemas de Cobertura de Primeras Pérdidas, así como la parte del saldo no cubierta por las garantías admisibles.
 

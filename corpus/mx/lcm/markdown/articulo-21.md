@@ -23,4 +23,4 @@ Si un juez, durante la tramitación de un juicio mercantil, advierte que un Come
 
 Asimismo, uno o más acreedores del Comerciante podrán demandar el concurso mercantil iniciando directamente en etapa de quiebra. El juez, en caso de que el Comerciante se allane a la pretensión contenida en la demanda interpuesta y previo dictamen del incumplimiento generalizado en el pago de las obligaciones del Comerciante, dictará, en su caso, la sentencia de concurso mercantil en etapa de quiebra. Párrafo adicionado DOF 10-01-2014
 
-En el supuesto de que el Comerciante no se allane a la demanda a que se refiere el párrafo anterior, el procedimiento de concurso mercantil iniciará en etapa de conciliación, la cual se tramitará en los términos de esta Ley. Párrafo adicionado DOF 10-01-2014
+En el supuesto de que el Comerciante no se allane a la demanda a que se refiere el párrafo anterior, el procedimiento de concurso mercantil iniciará en etapa de conciliación, la cual se tramitará en los términos de esta [Ley](articulo-4o.md). Párrafo adicionado DOF 10-01-2014

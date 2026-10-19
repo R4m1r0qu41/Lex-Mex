@@ -21,8 +21,8 @@ El plan de restauración de capital deberá comprender, al menos, los elementos 
 
 I. Identificar claramente las fuentes de recursos para incrementar su capital y/o reducir sus activos sujetos a riesgo.
 
-II. Señalar el plazo en el cual la Sociedad pretende alcanzar un Nivel de Capitalización igual o superior a 100 por ciento, así como igual o superior al 150 por ciento.
+II. Señalar el plazo en el cual la Sociedad pretende alcanzar un [Nivel de Capitalización](articulo-1.md) igual o superior a 100 por ciento, así como igual o superior al 150 por ciento.
 
 III. Presentar un calendario con los objetivos que la Sociedad alcanzaría en cada periodo. El calendario deberá contener las fechas o etapas en las que la Sociedad pretenda llevar a cabo cada una de las acciones necesarias para restaurar el capital.
 
-IV. Presentar una relación detallada de la información que la Sociedad deberá remitir periódicamente al Comité de Supervisión Auxiliar que le permita a esta dar seguimiento al cumplimiento del plan de restauración.
+IV. Presentar una relación detallada de la información que la Sociedad deberá remitir periódicamente al [Comité de Supervisión Auxiliar](articulo-1.md) que le permita a esta dar seguimiento al cumplimiento del plan de restauración.

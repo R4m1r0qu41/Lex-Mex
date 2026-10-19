@@ -17,7 +17,7 @@ source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 
 # Artículo 104
 
-Los contratos diferenciales o de futuros y las operaciones financieras derivadas, que venzan con posterioridad a la declaración de concurso mercantil, se darán por terminadas anticipadamente en la fecha de declaración de concurso mercantil. Estos contratos y operaciones deberán compensarse en los términos de esta Ley.
+Los contratos diferenciales o de futuros y las operaciones financieras derivadas, que venzan con posterioridad a la declaración de concurso mercantil, se darán por terminadas anticipadamente en la fecha de declaración de concurso mercantil. Estos contratos y operaciones deberán compensarse en los términos de esta [Ley](articulo-4o.md).
 
 En caso de que no exista previsión alguna en los convenios correspondientes para la compensación y liquidación de las prestaciones adeudadas, con el propósito de efectuar la compensación, el valor de los bienes u obligaciones subyacentes se determinará conforme a su valor de mercado el día de la declaración del concurso mercantil. A falta de valor de mercado disponible y demostrable, el conciliador podrá encargar a un tercero, experimentado en la materia, la valuación de los bienes u obligaciones.
 

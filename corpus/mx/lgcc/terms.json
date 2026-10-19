@@ -29,6 +29,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lgcc:article:3",
     "fraction": "III",
     "start_char": 535,
+    "end_char": 791,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcc:term:atlas-nacional-de-vulnerabilidad-al-cambio-climatico",
+    "term": "Atlas Nacional de Vulnerabilidad al Cambio Climático",
+    "instrument_id": "urn:lex-mx:federal:statute:lgcc",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgcc:article:3",
+    "fraction": "III Bis",
+    "start_char": 791,
     "end_char": 1079,
     "basis": "express_definition"
   },
@@ -62,6 +73,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lgcc:article:3",
     "fraction": "VI",
     "start_char": 1444,
+    "end_char": 1634,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcc:term:comunicacion-nacional",
+    "term": "Comunicación Nacional",
+    "instrument_id": "urn:lex-mx:federal:statute:lgcc",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgcc:article:3",
+    "fraction": "VII",
+    "start_char": 1634,
     "end_char": 1861,
     "basis": "express_definition"
   },
@@ -194,6 +216,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lgcc:article:3",
     "fraction": "XIX",
     "start_char": 4555,
+    "end_char": 4656,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcc:term:fomento-de-capacidad",
+    "term": "Fomento de capacidad",
+    "instrument_id": "urn:lex-mx:federal:statute:lgcc",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgcc:article:3",
+    "fraction": "XX",
+    "start_char": 4656,
     "end_char": 4903,
     "basis": "express_definition"
   },
@@ -326,6 +359,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lgcc:article:3",
     "fraction": "XXXIII",
     "start_char": 6751,
+    "end_char": 7031,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcc:term:registro",
+    "term": "Registro",
+    "instrument_id": "urn:lex-mx:federal:statute:lgcc",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgcc:article:3",
+    "fraction": "XXXIV",
+    "start_char": 7031,
     "end_char": 7115,
     "basis": "express_definition"
   },

@@ -17,4 +17,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 291
 
-Las Confederaciones deberán establecer mecanismos de comunicación permanente que les permitan verificar en forma continua, el cumplimiento de los requisitos, así como la inexistencia de impedimentos para que los miembros del Comité Técnico puedan continuar en el desempeño de sus funciones.
+Las [Confederaciones](articulo-1.md) deberán establecer mecanismos de comunicación permanente que les permitan verificar en forma continua, el cumplimiento de los requisitos, así como la inexistencia de impedimentos para que los miembros del Comité Técnico puedan continuar en el desempeño de sus funciones.

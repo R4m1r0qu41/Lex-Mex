@@ -24,7 +24,7 @@ I. Pagos de servicios en efectivo, con cargo a tarjetas de crédito o débito.
 
 II. Recepción de pagos de contribuciones federales, estatales, municipales y las correspondientes al Distrito Federal, en efectivo o con cargo a tarjetas de crédito o débito.
 
-III. Retiros de efectivo efectuados por el propio Socio titular de la cuenta respectiva, o por las personas autorizadas en términos del primer párrafo del Artículo 20 de la Ley. IV. Depósitos en efectivo, en cuentas propias o de terceros.
+III. Retiros de efectivo efectuados por el propio [Socio](articulo-1.md) titular de la cuenta respectiva, o por las personas autorizadas en términos del primer párrafo del Artículo 20 de la [Ley](articulo-1.md). IV. Depósitos en efectivo, en cuentas propias o de terceros.
 
 V. Pagos de créditos a favor de la propia Sociedad o de otra en efectivo, con cargo a tarjetas de crédito o débito.
 

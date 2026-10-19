@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 6
 
-Sin perjuicio de lo dispuesto por el artículo [4](articulo-4.md) anterior, las Sociedades Financieras Populares, Federaciones y Confederaciones establecerán políticas que les permitan evaluar la Solvencia Económica de las personas a que refiere dicho artículo, basados en la información que obtengan de las Sociedades de Información Crediticia. Al efecto, dichas políticas tomarán en cuenta, cuando menos:
+Sin perjuicio de lo dispuesto por el artículo [4](articulo-4.md) anterior, las [Sociedades](articulo-1.md) Financieras Populares, [Federaciones](articulo-1.md) y [Confederaciones](articulo-1.md) establecerán políticas que les permitan evaluar la [Solvencia Económica](articulo-1.md) de las personas a que refiere dicho artículo, basados en la información que obtengan de las Sociedades de Información Crediticia. Al efecto, dichas políticas tomarán en cuenta, cuando menos:
 
 I. Criterios para valorar el contenido de los informes proporcionados por las Sociedades de Información Crediticia respectivas, que permitan calificar el perfil crediticio del candidato, en el evento de que cuente con adeudos vencidos u otro tipo de antecedentes crediticios que reflejen la generación de quebrantos a terceros o exista evidencia de conductas abusivas en la reestructuración de créditos;
 

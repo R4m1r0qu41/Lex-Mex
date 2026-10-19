@@ -18,13 +18,13 @@ source_sha256: 8ac502b97188bd6e795781e9821be6e62ccdd8050cdd3be74aab52a888e67939
 
 # Artículo 125
 
-La [Dirección General](articulo-1.md) será la responsable de la debida implementación del Sistema de [Control](articulo-1.md) Interno; lo anterior, en el ámbito de las funciones que correspondan a dicha dirección.
+La [Dirección General](articulo-1.md) será la responsable de la debida implementación del [Sistema de Control Interno](articulo-1.md); lo anterior, en el ámbito de las funciones que correspondan a dicha dirección.
 
 En la implementación deberá procurarse que su funcionamiento sea acorde con las estrategias y fines de la unión de crédito, aplicando las medidas preventivas y correctivas necesarias para subsanar cualquier deficiencia detectada.
 
 Al efecto, a la Dirección General, en adición a lo señalado en estas disposiciones, le corresponderá llevar a cabo las actividades siguientes:
 
-I. Elaborar, revisar y, en su caso, actualizar o proponer la actualización, para someter a la consideración del Comité de Auditoría y posterior presentación al [Consejo](articulo-1.md), por lo menos una vez al año o con frecuencia mayor de acuerdo a lo determinado al efecto por el propio Consejo, los objetivos y lineamientos del Sistema de Control Interno y el código de conducta de la unión de crédito.
+I. Elaborar, revisar y, en su caso, actualizar o proponer la actualización, para someter a la consideración del [Comité de Auditoría](articulo-1.md) y posterior presentación al [Consejo](articulo-1.md), por lo menos una vez al año o con frecuencia mayor de acuerdo a lo determinado al efecto por el propio Consejo, los objetivos y lineamientos del Sistema de Control Interno y el código de conducta de la unión de crédito.
 
 II. Elaborar, revisar y, en su caso, actualizar o proponer la actualización de los manuales de la unión de crédito, definiendo las áreas o personal responsable de las actividades respectivas.
 
@@ -40,7 +40,7 @@ a) Diseñar, para aprobación del Consejo, la estructura organizacional de la un
 
 3. La delimitación de facultades entre el personal que autorice, ejecute, vigile, evalúe, registre y contabilice las transacciones, evitando su concentración en una misma persona y un posible conflicto de interés.
 
-4. La descripción general de las funciones de Contraloría Interna a que se refiere el Artículo [127](articulo-127.md) de estas disposiciones, indicando la estructura y las características generales para el desarrollo de las mismas, así como las medidas establecidas para evitar se presenten conflictos de interés en su desempeño.
+4. La descripción general de las funciones de [Contraloría Interna](articulo-1.md) a que se refiere el Artículo [127](articulo-127.md) de estas disposiciones, indicando la estructura y las características generales para el desarrollo de las mismas, así como las medidas establecidas para evitar se presenten conflictos de interés en su desempeño.
 
 b) Diseñar los canales de comunicación y de flujo de información entre las distintas unidades y áreas de la unión de crédito, que tengan por objeto, al menos, lo siguiente:
 

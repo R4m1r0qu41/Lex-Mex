@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lieg",
   "source_sha256": "6bc8cda0b37a72c2315dd3f5c48abd50b4a96c14b0e718a3374f04a4abffcb7d",
   "extracted_text_sha256": "d286b82f6692ebb79f50074a4025b38e4ab77744f66177932496f00f89c02f98",

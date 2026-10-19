@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 265 Bis 25
 
-Las Sociedades Financieras Populares deberán mantener en bases de datos las incidencias, fallas o vulnerabilidades detectadas en los Servicios Electrónicos, así como todas las operaciones efectuadas a través de Servicios Electrónicos que no sean reconocidas por los Usuarios y que al menos incluya la información siguiente:
+Las [Sociedades](articulo-1.md) Financieras Populares deberán mantener en bases de datos las incidencias, fallas o vulnerabilidades detectadas en los [Servicios Electrónicos](articulo-1.md), así como todas las operaciones efectuadas a través de Servicios Electrónicos que no sean reconocidas por los [Usuarios](articulo-1.md) y que al menos incluya la información siguiente:
 
 I. La relacionada con la detección de eventos de fallas, errores operativos, intentos o eventos efectuados de ataques informáticos, robo o pérdida de información y uso indebido de información de los Usuarios, que incluya al menos lo siguiente: fecha del suceso, duración, Servicios Electrónicos afectado y los Usuarios afectados.
 

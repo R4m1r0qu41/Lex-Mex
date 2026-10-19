@@ -18,4 +18,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 102 Bis 3
 
-Las Sociedades Financieras Populares, al calcular sus requerimientos de capitalización por riesgo de crédito, deberán utilizar toda la información disponible sobre las Calificaciones dadas a conocer por las Instituciones Calificadoras, así como lo dispuesto en los Anexos K y O Bis 1 de las presentes disposiciones.
+Las [Sociedades](articulo-1.md) Financieras Populares, al calcular sus requerimientos de capitalización por riesgo de crédito, deberán utilizar toda la información disponible sobre las [Calificaciones](articulo-1.md) dadas a conocer por las Instituciones Calificadoras, así como lo dispuesto en los Anexos K y O Bis 1 de las presentes disposiciones.

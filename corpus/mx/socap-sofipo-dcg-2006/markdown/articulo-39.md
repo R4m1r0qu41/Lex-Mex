@@ -18,4 +18,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 39
 
-Las Sociedades Financieras Populares podrán solicitar a la Federación a la que se encuentren afiliadas o con la que tengan celebrado un contrato de supervisión auxiliar, les autorice el otorgamiento de préstamos de liquidez a cargo de una o más Sociedades Financieras Populares que supervise de manera auxiliar la misma Federación, proponiendo al efecto el monto, destino, plazo, intereses, garantías y demás características de la operación de que se trate.
+Las [Sociedades](articulo-1.md) Financieras Populares podrán solicitar a la [Federación](articulo-1.md) a la que se encuentren afiliadas o con la que tengan celebrado un contrato de supervisión auxiliar, les autorice el otorgamiento de préstamos de liquidez a cargo de una o más Sociedades Financieras Populares que supervise de manera auxiliar la misma Federación, proponiendo al efecto el monto, destino, plazo, intereses, garantías y demás características de la operación de que se trate.

@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 207
 
-Las Sociedades Financieras Populares quedarán exceptuadas de lo previsto en el Artículo [206](articulo-206.md) anterior, tratándose de:
+Las [Sociedades](articulo-1.md) Financieras Populares quedarán exceptuadas de lo previsto en el Artículo [206](articulo-206.md) anterior, tratándose de:
 
 I. Créditos cuyos solicitantes tengan relación laboral con la Sociedad Financiera Popular acreditante y otorguen su consentimiento irrevocable para que el pago se realice mediante deducciones que se efectúen a su salario;
 
@@ -26,4 +26,4 @@ II. Créditos cuyo importe en moneda nacional sea equivalente o menor a 4,000 UD
 
 III. Créditos respecto de los cuales las Sociedades Financieras Populares cuenten con garantías constituidas al 100 por ciento con dinero en efectivo en términos de lo dispuesto por el Apartado IV del Anexo D de las presentes disposiciones, que puedan asegurar la aplicación de dichos recursos a la totalidad del monto del crédito de que se trate, y
 
-IV. Microcréditos otorgados a personas físicas o morales residentes en Zonas Marginadas por debajo de 4,000 UDIS.
+IV. Microcréditos otorgados a personas físicas o morales residentes en [Zonas Marginadas](articulo-1.md) por debajo de 4,000 UDIS.

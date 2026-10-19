@@ -18,6 +18,6 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 17
 
-Las Sociedades, a fin de realizar cualquiera de las operaciones previstas en la Ley y en el presente Título, en términos distintos a los aquí señalados, deberán contar con la previa autorización de la Comisión.
+Las Sociedades, a fin de realizar cualquiera de las operaciones previstas en la [Ley](articulo-1.md) y en el presente Título, en términos distintos a los aquí señalados, deberán contar con la previa autorización de la [Comisión](articulo-1.md).
 
 Tratándose de la aceptación de documentos de cobro inmediato en firme, las Sociedades deberán acreditar previamente ante la vicepresidencia de la Comisión encargada de su supervisión, que cuentan con la capacidad técnica y operativa para la administración de los riesgos asociados y la prudente realización de dicha operación.

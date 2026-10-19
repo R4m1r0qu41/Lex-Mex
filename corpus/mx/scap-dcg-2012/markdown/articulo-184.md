@@ -18,4 +18,4 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 184
 
-Las Sociedades cada 3 meses, deberán calificar individualmente los créditos de su cartera crediticia comercial cuyo saldo sea igual o mayor a un importe equivalente en moneda nacional a novecientas mil UDIS a la fecha de la calificación, incluyendo aquellos créditos a cargo de un mismo deudor cuya suma en su conjunto sea igual o mayor a dicho importe, aplicando la metodología general que para las instituciones de crédito emita la Comisión, sin la posibilidad de certificar modelos internos.76
+Las Sociedades cada 3 meses, deberán calificar individualmente los créditos de su cartera crediticia comercial cuyo saldo sea igual o mayor a un importe equivalente en moneda nacional a novecientas mil UDIS a la fecha de la calificación, incluyendo aquellos créditos a cargo de un mismo deudor cuya suma en su conjunto sea igual o mayor a dicho importe, aplicando la metodología general que para las instituciones de crédito emita la [Comisión](articulo-1.md), sin la posibilidad de certificar modelos internos.76

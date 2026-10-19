@@ -10,6 +10,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:1:term-usage:144-152",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:registro",
+    "span": "Registro",
+    "start_char": 144,
+    "end_char": 152
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:1:term-usage:165-174",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:1",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
@@ -46,6 +55,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2:term-usage:390-398",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:registro",
+    "span": "Registro",
+    "start_char": 390,
+    "end_char": 398
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2:term-usage:402-411",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
@@ -73,12 +91,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2:term-usage:709-717",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:registro",
+    "span": "Registro",
+    "start_char": 709,
+    "end_char": 717
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2:term-usage:774-783",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:organismos",
     "span": "Organismo",
     "start_char": 774,
     "end_char": 783
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2:term-usage:887-895",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:registro",
+    "span": "Registro",
+    "start_char": 887,
+    "end_char": 895
   },
   {
     "schema_version": "0.1.0",
@@ -160,6 +196,15 @@
     "span": "Emisiones",
     "start_char": 3140,
     "end_char": 3149
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2:term-usage:3209-3217",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:registro",
+    "span": "Registro",
+    "start_char": 3209,
+    "end_char": 3217
   },
   {
     "schema_version": "0.1.0",
@@ -559,12 +604,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:10:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:registro",
+    "span": "Registro",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:10:term-usage:59-68",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:10",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
     "span": "Emisiones",
     "start_char": 59,
     "end_char": 68
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:10:term-usage:150-158",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:registro",
+    "span": "Registro",
+    "start_char": 150,
+    "end_char": 158
   },
   {
     "schema_version": "0.1.0",
@@ -604,6 +667,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:10:term-usage:546-554",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:registro",
+    "span": "Registro",
+    "start_char": 546,
+    "end_char": 554
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:11:term-usage:3-35",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:11",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:establecimiento-sujeto-a-reporte",
@@ -619,6 +691,15 @@
     "span": "Emisiones",
     "start_char": 136,
     "end_char": 145
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:11:term-usage:185-193",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:registro",
+    "span": "Registro",
+    "start_char": 185,
+    "end_char": 193
   },
   {
     "schema_version": "0.1.0",
@@ -676,6 +757,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:11:term-usage:808-816",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:registro",
+    "span": "Registro",
+    "start_char": 808,
+    "end_char": 816
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:11:term-usage:922-954",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:11",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:establecimiento-sujeto-a-reporte",
@@ -685,12 +775,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:12:term-usage:80-88",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:registro",
+    "span": "Registro",
+    "start_char": 80,
+    "end_char": 88
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:12:term-usage:117-142",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:12",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:cedula-de-operacion-anual",
     "span": "Cédula de Operación Anual",
     "start_char": 117,
     "end_char": 142
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:12:term-usage:324-332",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:registro",
+    "span": "Registro",
+    "start_char": 324,
+    "end_char": 332
   },
   {
     "schema_version": "0.1.0",
@@ -847,6 +955,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:13:term-usage:298-306",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:registro",
+    "span": "Registro",
+    "start_char": 298,
+    "end_char": 306
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:13:term-usage:917-935",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:13",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:emisiones-directas",
@@ -910,6 +1027,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:15:term-usage:137-145",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:registro",
+    "span": "Registro",
+    "start_char": 137,
+    "end_char": 145
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:15:term-usage:173-198",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:15",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:cedula-de-operacion-anual",
@@ -925,6 +1051,15 @@
     "span": "Establecimiento Sujeto a Reporte",
     "start_char": 268,
     "end_char": 300
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:16:term-usage:124-132",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:registro",
+    "span": "Registro",
+    "start_char": 124,
+    "end_char": 132
   },
   {
     "schema_version": "0.1.0",
@@ -1252,6 +1387,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:23:term-usage:310-318",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:registro",
+    "span": "Registro",
+    "start_char": 310,
+    "end_char": 318
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:23:term-usage:341-350",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:23",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
@@ -1306,6 +1450,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:23:term-usage:979-987",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:registro",
+    "span": "Registro",
+    "start_char": 979,
+    "end_char": 987
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:23:term-usage:1041-1051",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:23",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:mitigacion",
@@ -1339,6 +1492,15 @@
     "span": "Emisiones",
     "start_char": 254,
     "end_char": 263
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:25:term-usage:35-43",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:registro",
+    "span": "Registro",
+    "start_char": 35,
+    "end_char": 43
   },
   {
     "schema_version": "0.1.0",
@@ -1396,6 +1558,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:26:term-usage:311-319",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:registro",
+    "span": "Registro",
+    "start_char": 311,
+    "end_char": 319
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:26:term-usage:328-350",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:26",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:dictamen-de-validacion",
@@ -1429,6 +1600,15 @@
     "span": "Emisiones",
     "start_char": 629,
     "end_char": 638
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:27:term-usage:37-45",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:registro",
+    "span": "Registro",
+    "start_char": 37,
+    "end_char": 45
   },
   {
     "schema_version": "0.1.0",
@@ -1537,6 +1717,15 @@
     "span": "Organismo",
     "start_char": 2074,
     "end_char": 2083
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:28:term-usage:26-34",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:registro",
+    "span": "Registro",
+    "start_char": 26,
+    "end_char": 34
   },
   {
     "schema_version": "0.1.0",
@@ -1717,6 +1906,15 @@
     "span": "Establecimiento Sujeto a Reporte",
     "start_char": 131,
     "end_char": 163
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:sexto:term-usage:262-270",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:registro",
+    "span": "Registro",
+    "start_char": 262,
+    "end_char": 270
   },
   {
     "schema_version": "0.1.0",

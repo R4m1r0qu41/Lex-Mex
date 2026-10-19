@@ -19,7 +19,7 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 Las Sociedades podrán recibir el pago de servicios por cuenta de terceros, siempre que lo anterior no implique para la Sociedad la aceptación de obligaciones directas o contingentes.
 
-Las Sociedades podrán recibir pagos respecto de servicios que proporcionen terceros a sus Socios y al público en general, para lo cual deberán celebrar con dichos terceros, contratos de prestación de servicios para la situación de fondos.
+Las Sociedades podrán recibir pagos respecto de servicios que proporcionen terceros a sus [Socios](articulo-1.md) y al público en general, para lo cual deberán celebrar con dichos terceros, contratos de prestación de servicios para la situación de fondos.
 
 Asimismo, las Sociedades al recibir los recursos de sus Socios deberán informarles el carácter con el que se reciben los recursos, lo que deberá constar en el recibo que para tales efectos extiendan.
 

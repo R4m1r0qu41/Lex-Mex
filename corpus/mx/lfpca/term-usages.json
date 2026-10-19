@@ -46,6 +46,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:1-a:term-usage:1293-1315",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:1-a",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:boletin-jurisdiccional",
+    "span": "Boletín Jurisdiccional",
+    "start_char": 1293,
+    "end_char": 1315
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpca:article:1-a:term-usage:1434-1462",
     "provision_id": "urn:lex-mx:federal:statute:lfpca:article:1-a",
     "term_id": "urn:lex-mx:federal:statute:lfpca:term:sistema-de-justicia-en-linea",

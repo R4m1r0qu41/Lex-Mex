@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:statute:lgtaip",
   "source_sha256": "e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b",
   "extracted_text_sha256": "a46e78718f76786ab580ee5679e8de776eba217f0e3c8341d9005ea3ac6049e6",

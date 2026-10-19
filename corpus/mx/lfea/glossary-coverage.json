@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:statute:lfea",
   "source_sha256": "102031c59185ac31397dbd722281bc02046fd4f5db4af7fb9348ffeddcbb2842",
   "extracted_text_sha256": "89d63142b7e42d6b3464733bfbc20993c1effa05d9812bef27b9232ef95bbe9f",
@@ -36,6 +36,7 @@
         "XXIII",
         "XXIV"
       ],
+      "unread_fractions": [],
       "term_count": 24
     }
   ],

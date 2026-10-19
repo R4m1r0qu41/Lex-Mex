@@ -17,7 +17,7 @@ source_sha256: c78882a0177403ee04cd38dd09fa1657dc221b7f6827ddacf251c699ede867e4
 
 # Artículo 17
 
-La Agencia Federal de Aviación Civil otorgará permisos a personas físicas o a las morales constituidas conforme a las leyes mexicanas, para la administración, operación, explotación y, en su caso, construcción de aeródromos civiles distintos de los aeropuertos, previo cumplimiento de los requisitos exigidos en esta Ley y su reglamento. Párrafo reformado DOF 03-05-2023 Para aeródromos de servicio general, el permiso se otorgará exclusivamente a sociedades mercantiles mexicanas, e incluirán las actividades de administración, operación, explotación y, en su caso, construcción.
+La [Agencia Federal de Aviación Civil](articulo-2.md) otorgará permisos a personas físicas o a las morales constituidas conforme a las leyes mexicanas, para la administración, operación, explotación y, en su caso, construcción de aeródromos civiles distintos de los aeropuertos, previo cumplimiento de los requisitos exigidos en esta Ley y su reglamento. Párrafo reformado DOF 03-05-2023 Para aeródromos de servicio general, el permiso se otorgará exclusivamente a sociedades mercantiles mexicanas, e incluirán las actividades de administración, operación, explotación y, en su caso, construcción.
 
 Los permisos que se otorguen deben indicar su vigencia, que no debe exceder treinta años, así como las condiciones y obligaciones correspondientes. Los permisos podrán ser prorrogados por tiempo determinado, sin exceder el plazo original, siempre que se hubiese cumplido con las condiciones y obligaciones establecidas y se acepten las nuevas que establezca la Agencia Federal de Aviación Civil para su prórroga. Párrafo reformado DOF 03-05-2023
 

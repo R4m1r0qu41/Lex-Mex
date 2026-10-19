@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:statute:lmccbdc",
   "source_sha256": "2f11746efbe37cbc7bf8f9448f5d9050c4deee13184bbe78c4e958d017bebece",
   "extracted_text_sha256": "62bdce820b3c183b964fc5e3934513738d50f26cb38922e8360465f911ba51d6",

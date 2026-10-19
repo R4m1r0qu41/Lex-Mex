@@ -19,4 +19,4 @@ source_sha256: 2c75fd0eab3245aed43a4e1230dcd142b48959a1df09bdd4e70684935a505dd4
 
 Toda persona tendrá derecho a que las autoridades en materia forestal pongan a su disposición la información forestal que les soliciten, en los términos previstos por la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
 
-Sección Segunda Bis Del Sistema Nacional de Gestión Forestal Sección adicionada DOF 11-04-2022
+Sección Segunda Bis Del [Sistema Nacional de Gestión Forestal](articulo-7.md) Sección adicionada DOF 11-04-2022

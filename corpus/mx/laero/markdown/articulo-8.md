@@ -21,4 +21,4 @@ Las autoridades competentes realizarán las acciones necesarias para el adecuado
 
 En el ejercicio de sus funciones, las autoridades deberán programar, coordinar y realizar sus actividades en forma tal que no impidan la eficiencia general en la operación de los aeródromos civiles y en la prestación de los servicios. Asimismo, deberán contar con el personal capacitado, suficiente y adecuado, de acuerdo a los horarios, número de pasajeros y operaciones.
 
-La Agencia Federal de Aviación Civil debe llevar a cabo todos aquellos actos en el interior de los aeródromos civiles que sean necesarios para la debida coordinación entre las autoridades que actúen en los mismos. Párrafo reformado DOF 03-05-2023
+La [Agencia Federal de Aviación Civil](articulo-2.md) debe llevar a cabo todos aquellos actos en el interior de los aeródromos civiles que sean necesarios para la debida coordinación entre las autoridades que actúen en los mismos. Párrafo reformado DOF 03-05-2023

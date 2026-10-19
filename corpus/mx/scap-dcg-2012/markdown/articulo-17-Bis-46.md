@@ -20,7 +20,7 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 La contratación de los servicios o las comisiones a que se refiere el presente capítulo es sin perjuicio de que las operaciones activas, pasivas y de servicios que celebren las Sociedades al amparo de dichos contratos se ajusten a las disposiciones aplicables.
 
-El Director o Gerente General de la Sociedad de que se trate, será responsable de dar seguimiento a la aplicación de las políticas a que se refiere el Artículo [17 Bis 35](articulo-17-Bis-35.md), fracción VII, de rendir ante la Comisión el informe anual previsto en el Artículo [17 Bis 37](articulo-17-Bis-37.md), así como de presentar el aviso señalado en el Artículo [17 Bis 43](articulo-17-Bis-43.md), todos de estas disposiciones.
+El [Director o Gerente General](articulo-1.md) de la Sociedad de que se trate, será responsable de dar seguimiento a la aplicación de las políticas a que se refiere el Artículo [17 Bis 35](articulo-17-Bis-35.md), fracción VII, de rendir ante la [Comisión](articulo-1.md) el informe anual previsto en el Artículo [17 Bis 37](articulo-17-Bis-37.md), así como de presentar el aviso señalado en el Artículo [17 Bis 43](articulo-17-Bis-43.md), todos de estas disposiciones.
 
 Asimismo, dicha contratación no exime a las Sociedades, ni a sus directivos, delegados fiduciarios, demás empleados o representantes, así como a las personas que ostenten cualquier empleo, cargo o comisión otorgado por la propia Sociedad, de la obligación de observar estrictamente lo establecido en las leyes y disposiciones de carácter general o prudencial que de ellas deriven.
 

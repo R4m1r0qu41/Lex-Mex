@@ -17,7 +17,7 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 19
 
-El Comité Técnico deberá establecer lineamientos y políticas generales, así como el contrato marco relativo a los préstamos de liquidez que se otorguen entre sí las Sociedades. Dichos lineamientos deberán contener como mínimo lo siguiente:
+El [Comité Técnico](articulo-1.md) deberá establecer lineamientos y políticas generales, así como el contrato marco relativo a los préstamos de liquidez que se otorguen entre sí las Sociedades. Dichos lineamientos deberán contener como mínimo lo siguiente:
 
 I. Destino: Los préstamos únicamente podrán otorgarse con el objeto de atender problemas de liquidez que presenten las Sociedades acreditadas. Para ello, el Comité Técnico deberá evaluar en cada caso la situación financiera de las Sociedades y verificar que el destino de dichos préstamos, conste de forma expresa en los contratos respectivos.
 

@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 322
 
-Las Federaciones deberán proporcionar a la Comisión la información a que se refiere el presente Capítulo, utilizando los formularios del Anexo L que se adjuntan a las presentes disposiciones, los cuales se encuentran divididos en las series y reportes que se indican a continuación:
+Las [Federaciones](articulo-1.md) deberán proporcionar a la Comisión la información a que se refiere el presente Capítulo, utilizando los formularios del Anexo L que se adjuntan a las presentes disposiciones, los cuales se encuentran divididos en las series y reportes que se indican a continuación:
 
 Serie R03 Inversiones en valores (Resultados de inversiones en valores)
 

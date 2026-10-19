@@ -18,13 +18,13 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 37
 
-El Consejo de Administración deberá constituir un Comité de Auditoría, cuyo objeto sea apoyar al citado Consejo en la definición de los lineamientos generales del sistema de control interno, así como en la verificación y evaluación de dicho sistema. Lo anterior, mediante la supervisión de las funciones de auditoría interna, fungiendo como un canal de comunicación entre el Consejo de Administración, los auditores internos y las autoridades supervisoras.
+El [Consejo de Administración](articulo-1.md) deberá constituir un [Comité de Auditoría](articulo-1.md), cuyo objeto sea apoyar al citado Consejo en la definición de los lineamientos generales del sistema de control interno, así como en la verificación y evaluación de dicho sistema. Lo anterior, mediante la supervisión de las funciones de auditoría interna, fungiendo como un canal de comunicación entre el Consejo de Administración, los auditores internos y las autoridades supervisoras.
 
 El Comité de Auditoría se integrará en su mayoría por miembros del Consejo de Administración designados por el propio Consejo a propuesta de su presidente. Dicho Comité deberá contar con un mínimo de tres miembros y cuando menos uno de ellos, quien podrá ser o no consejero, deberá tener conocimientos técnicos o experiencia en materia de contaduría, auditoría y control interno, así como poseer conocimientos sobre la operación y la normatividad aplicable a las sociedades. El comité deberá realizar sus funciones de manera transparente, libre de conflictos de interés y sus miembros deberán conducirse sin estar supeditados a intereses personales, patrimoniales o económicos. Los miembros del comité podrán nombrar a su suplente.
 
 Para efectos de lo anterior, el Comité de Auditoría tendrá las atribuciones y obligaciones siguientes:
 
-I. Presentar informes al Consejo de Administración, cuando menos una vez al año, sobre la situación que guarda el sistema de control interno en general. Para lo anterior, habrá de efectuar las pruebas que considere necesarias, pudiendo al efecto apoyarse en el Auditor Interno. En los citados informes deberán especificarse, en su caso, las irregularidades que se detecten y las medidas preventivas recomendadas, así como aquellas que se hubieren adoptado para tales efectos.
+I. Presentar informes al Consejo de Administración, cuando menos una vez al año, sobre la situación que guarda el sistema de control interno en general. Para lo anterior, habrá de efectuar las pruebas que considere necesarias, pudiendo al efecto apoyarse en el [Auditor Interno](articulo-1.md). En los citados informes deberán especificarse, en su caso, las irregularidades que se detecten y las medidas preventivas recomendadas, así como aquellas que se hubieren adoptado para tales efectos.
 
 II. Asegurarse de que se lleve a cabo la vigilancia de las operaciones crediticias y de su apego a las medidas de control establecidas en el manual de crédito.
 

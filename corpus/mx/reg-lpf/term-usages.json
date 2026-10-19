@@ -199,6 +199,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpf:article:5:term-usage:3788-3805",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lpf:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lpf:term:proximidad-social",
+    "span": "Proximidad Social",
+    "start_char": 3788,
+    "end_char": 3805
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lpf:article:5:term-usage:3960-3963",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpf:article:5",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpf:term:ley",
@@ -7702,6 +7711,15 @@
     "span": "Reglamento",
     "start_char": 1522,
     "end_char": 1532
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpf:article:106-quater:term-usage:38-55",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lpf:article:106-quater",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lpf:term:proximidad-social",
+    "span": "Proximidad Social",
+    "start_char": 38,
+    "end_char": 55
   },
   {
     "schema_version": "0.1.0",

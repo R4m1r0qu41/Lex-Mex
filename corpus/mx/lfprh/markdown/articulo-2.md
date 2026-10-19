@@ -31,7 +31,7 @@ V. Clasificador por objeto del gasto: el instrumento que permite registrar de ma
 
 VI. Cuenta Pública: la Cuenta de la Hacienda Pública Federal;
 
-VII. Déficit presupuestario: el financiamiento que cubre la diferencia entre los montos previstos en la Ley de Ingresos y el Presupuesto de Egresos y aquélla entre los ingresos y los gastos en los presupuestos de las entidades;
+VII. Déficit presupuestario: el financiamiento que cubre la diferencia entre los montos previstos en la [Ley de Ingresos](articulo-2.md) y el Presupuesto de Egresos y aquélla entre los ingresos y los gastos en los presupuestos de las entidades;
 
 VIII. Dependencias: las [Secretarías](articulo-2.md) de Estado, incluyendo a sus respectivos órganos administrativos desconcentrados; órganos reguladores coordinados en materia energética y la Consejería Jurídica del Ejecutivo Federal conforme a lo dispuesto en la Ley Orgánica de la Administración Pública Federal. Asimismo, aquellos ejecutores de gasto a quienes se les otorga un tratamiento equivalente en los términos del artículo [4](articulo-4.md) de esta Ley; Fracción reformada DOF 09-04-2012, 11-08-2014
 
@@ -79,7 +79,7 @@ XXIX. Informes trimestrales: los Informes sobre la Situación Económica, las Fi
 
 XXX. Ingresos excedentes: los recursos que durante el ejercicio fiscal se obtienen en exceso de los aprobados en la Ley de Ingresos o en su caso respecto de los ingresos propios de las entidades de control indirecto;
 
-XXX Bis. Ingresos Petroleros: los recursos que reciba el Gobierno Federal por la suma de las transferencias desde el Fondo Mexicano del Petróleo que se incluyan en la Ley de Ingresos y el Presupuesto de Egresos para cubrir los conceptos señalados en el artículo [16](../../lfmped/markdown/articulo-16.md), fracción II, incisos a) a g) de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y la recaudación por el impuesto sobre la renta que se genere por los contratos y asignaciones a que se refiere el párrafo séptimo del artículo [27](../../cpeum/markdown/articulo-27.md) de la Constitución Política de los Estados Unidos Mexicanos; Fracción adicionada DOF 11-08-2014
+XXX Bis. Ingresos Petroleros: los recursos que reciba el Gobierno Federal por la suma de las transferencias desde el [Fondo Mexicano del Petróleo](articulo-2.md) que se incluyan en la Ley de Ingresos y el Presupuesto de Egresos para cubrir los conceptos señalados en el artículo [16](../../lfmped/markdown/articulo-16.md), fracción II, incisos a) a g) de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y la recaudación por el impuesto sobre la renta que se genere por los contratos y asignaciones a que se refiere el párrafo séptimo del artículo [27](../../cpeum/markdown/articulo-27.md) de la Constitución Política de los Estados Unidos Mexicanos; Fracción adicionada DOF 11-08-2014
 
 XXXI. Ingresos propios: los recursos que por cualquier concepto obtengan las entidades, distintos a los recursos por concepto de subsidios y transferencias, conforme a lo dispuesto en el artículo [52](../../lfep/markdown/articulo-52.md) de la Ley Federal de las [Entidades](articulo-2.md) Paraestatales;
 

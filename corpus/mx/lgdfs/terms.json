@@ -7,6 +7,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lgdfs:article:7",
     "fraction": "I",
     "start_char": 48,
+    "end_char": 337,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdfs:term:acahual",
+    "term": "Acahual",
+    "instrument_id": "urn:lex-mx:federal:statute:lgdfs",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgdfs:article:7",
+    "fraction": "I Bis",
+    "start_char": 337,
     "end_char": 976,
     "basis": "express_definition"
   },
@@ -29,6 +40,28 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lgdfs:article:7",
     "fraction": "III",
     "start_char": 1166,
+    "end_char": 1529,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdfs:term:arbol",
+    "term": "Árbol",
+    "instrument_id": "urn:lex-mx:federal:statute:lgdfs",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgdfs:article:7",
+    "fraction": "III Bis",
+    "start_char": 1529,
+    "end_char": 1953,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdfs:term:areas-de-proteccion-forestal",
+    "term": "Áreas de Protección Forestal",
+    "instrument_id": "urn:lex-mx:federal:statute:lgdfs",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgdfs:article:7",
+    "fraction": "IV",
+    "start_char": 1953,
     "end_char": 2297,
     "basis": "express_definition"
   },
@@ -40,6 +73,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lgdfs:article:7",
     "fraction": "V",
     "start_char": 2297,
+    "end_char": 2611,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdfs:term:bosque",
+    "term": "Bosque",
+    "instrument_id": "urn:lex-mx:federal:statute:lgdfs",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgdfs:article:7",
+    "fraction": "V Bis",
+    "start_char": 2611,
     "end_char": 2933,
     "basis": "express_definition"
   },
@@ -194,6 +238,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lgdfs:article:7",
     "fraction": "XIX",
     "start_char": 5644,
+    "end_char": 5903,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdfs:term:degradacion-de-terrenos-forestales-arbolados",
+    "term": "Degradación de terrenos forestales arbolados",
+    "instrument_id": "urn:lex-mx:federal:statute:lgdfs",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgdfs:article:7",
+    "fraction": "XIX Bis",
+    "start_char": 5903,
     "end_char": 6170,
     "basis": "express_definition"
   },
@@ -227,6 +282,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lgdfs:article:7",
     "fraction": "XXII",
     "start_char": 6923,
+    "end_char": 7026,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdfs:term:perdida-de-vegetacion-forestal",
+    "term": "Pérdida de vegetación forestal",
+    "instrument_id": "urn:lex-mx:federal:statute:lgdfs",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgdfs:article:7",
+    "fraction": "XXII Bis",
+    "start_char": 7026,
     "end_char": 7262,
     "basis": "express_definition"
   },
@@ -403,6 +469,28 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lgdfs:article:7",
     "fraction": "XXXVIII",
     "start_char": 10692,
+    "end_char": 10903,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdfs:term:otros-terrenos-forestales",
+    "term": "Otros terrenos forestales",
+    "instrument_id": "urn:lex-mx:federal:statute:lgdfs",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgdfs:article:7",
+    "fraction": "XXXVIII Bis",
+    "start_char": 10903,
+    "end_char": 11107,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdfs:term:plaga-forestal",
+    "term": "Plaga Forestal",
+    "instrument_id": "urn:lex-mx:federal:statute:lgdfs",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgdfs:article:7",
+    "fraction": "XXXIX",
+    "start_char": 11107,
     "end_char": 11244,
     "basis": "express_definition"
   },
@@ -623,6 +711,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lgdfs:article:7",
     "fraction": "LX",
     "start_char": 15207,
+    "end_char": 15278,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdfs:term:selva",
+    "term": "Selva",
+    "instrument_id": "urn:lex-mx:federal:statute:lgdfs",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgdfs:article:7",
+    "fraction": "LX Bis",
+    "start_char": 15278,
     "end_char": 15752,
     "basis": "express_definition"
   },
@@ -689,6 +788,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lgdfs:article:7",
     "fraction": "LXVI",
     "start_char": 17636,
+    "end_char": 17974,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdfs:term:sistema-nacional-de-gestion-forestal",
+    "term": "Sistema Nacional de Gestión Forestal",
+    "instrument_id": "urn:lex-mx:federal:statute:lgdfs",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgdfs:article:7",
+    "fraction": "LXVI Bis",
+    "start_char": 17974,
     "end_char": 18214,
     "basis": "express_definition"
   },
@@ -744,6 +854,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lgdfs:article:7",
     "fraction": "LXXI",
     "start_char": 19507,
+    "end_char": 19687,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdfs:term:terreno-forestal-arbolado",
+    "term": "Terreno forestal arbolado",
+    "instrument_id": "urn:lex-mx:federal:statute:lgdfs",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgdfs:article:7",
+    "fraction": "LXXI Bis",
+    "start_char": 19687,
     "end_char": 20135,
     "basis": "express_definition"
   },
@@ -843,6 +964,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lgdfs:article:7",
     "fraction": "LXXX",
     "start_char": 22514,
+    "end_char": 22789,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdfs:term:vegetacion-forestal-de-zonas-aridas",
+    "term": "Vegetación Forestal de Zonas Áridas",
+    "instrument_id": "urn:lex-mx:federal:statute:lgdfs",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgdfs:article:7",
+    "fraction": "LXXX Bis",
+    "start_char": 22789,
     "end_char": 23248,
     "basis": "express_definition"
   },
@@ -854,6 +986,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lgdfs:article:7",
     "fraction": "LXXXI",
     "start_char": 23248,
+    "end_char": 23482,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdfs:term:visita-de-inspeccion",
+    "term": "Visita de Inspección",
+    "instrument_id": "urn:lex-mx:federal:statute:lgdfs",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgdfs:article:7",
+    "fraction": "LXXXII",
+    "start_char": 23482,
     "end_char": 23741,
     "basis": "express_definition"
   },

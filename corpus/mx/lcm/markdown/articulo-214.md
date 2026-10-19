@@ -21,7 +21,7 @@ Durante los primeros treinta días naturales de la etapa de quiebra, el síndico
 
 En estos casos, previamente a la enajenación del conjunto de bienes de que se trate, el síndico realizará una valuación de los bienes que garantizan el crédito:
 
-I. Si el acreedor no ejerció el derecho a que se refiere el segundo párrafo del artículo [89](articulo-89.md) de esta Ley, se aplicará lo siguiente: a) Si la valuación del síndico resulta mayor al monto del crédito de que se trate, incluyendo los intereses devengados hasta el día de la enajenación, el síndico realizará el pago íntegro del crédito, con las deducciones que correspondan conforme a esta Ley, o
+I. Si el acreedor no ejerció el derecho a que se refiere el segundo párrafo del artículo [89](articulo-89.md) de esta [Ley](articulo-4o.md), se aplicará lo siguiente: a) Si la valuación del síndico resulta mayor al monto del crédito de que se trate, incluyendo los intereses devengados hasta el día de la enajenación, el síndico realizará el pago íntegro del crédito, con las deducciones que correspondan conforme a esta Ley, o
 
 b) Si de la valuación resulta un monto menor al del crédito, incluyendo los intereses correspondientes, el síndico pagará al acreedor el monto de la valuación. Si la valuación es menor al monto del crédito reconocido a la fecha de declaración de concurso, se registrará su diferencia como crédito común.
 

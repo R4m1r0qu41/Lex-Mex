@@ -17,8 +17,8 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 233
 
-La Comisión deberá ordenar la aplicación de las Medidas Correctivas Mínimas correspondientes a la categoría en que hubiese sido clasificada cada Sociedad de conformidad con lo dispuesto por el artículo [232](articulo-232.md) de las presentes disposiciones.
+La [Comisión](articulo-1.md) deberá ordenar la aplicación de las [Medidas Correctivas Mínimas](articulo-1.md) correspondientes a la categoría en que hubiese sido clasificada cada Sociedad de conformidad con lo dispuesto por el artículo [232](articulo-232.md) de las presentes disposiciones.
 
-La Comisión también podrá ordenar la aplicación de Medidas Correctivas Especiales Adicionales.
+La Comisión también podrá ordenar la aplicación de [Medidas Correctivas Especiales Adicionales](articulo-1.md).
 
-El Comité de Supervisión Auxiliar y la Comisión deberán verificar que las Sociedades cumplan con las Medidas Correctivas que les correspondan.
+El [Comité de Supervisión Auxiliar](articulo-1.md) y la Comisión deberán verificar que las Sociedades cumplan con las [Medidas Correctivas](articulo-1.md) que les correspondan.

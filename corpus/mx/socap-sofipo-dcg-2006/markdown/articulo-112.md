@@ -18,13 +18,13 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 112
 
-En materia de administración de riesgos, el Consejo de Administración de cada Sociedad Financiera Popular tendrá las responsabilidades siguientes:
+En materia de administración de riesgos, el [Consejo de Administración](articulo-1.md) de cada [Sociedad](articulo-1.md) Financiera Popular tendrá las responsabilidades siguientes:
 
 I. Aprobar las políticas y procedimientos para la administración de riesgos, así como los límites de exposición al riesgo, y
 
-II. Designar a la persona que será responsable de la administración de riesgos de la Sociedad Financiera Popular, a propuesta del Director o Gerente General, así como vigilar que la realización de las operaciones se ajuste a los objetivos, políticas y procedimientos para la administración de riesgos aprobados por el citado Consejo.
+II. Designar a la persona que será responsable de la administración de riesgos de la Sociedad Financiera Popular, a propuesta del [Director o Gerente General](articulo-1.md), así como vigilar que la realización de las operaciones se ajuste a los objetivos, políticas y procedimientos para la administración de riesgos aprobados por el citado Consejo.
 
-Las políticas y procedimientos mencionados en la fracción I anterior, deberán incluirse en un manual de administración de riesgos y ser revisados cuando menos una vez al año. El Consejo de Administración podrá escuchar la opinión del comité técnico a que se refiere el artículo [119](articulo-119.md) de estas disposiciones o, en su caso, del área de Asistencia Técnica de la Federación que la supervise auxiliarmente, para efectos de la aprobación de dicho manual, así como de sus modificaciones.
+Las políticas y procedimientos mencionados en la fracción I anterior, deberán incluirse en un manual de administración de riesgos y ser revisados cuando menos una vez al año. El Consejo de Administración podrá escuchar la opinión del comité técnico a que se refiere el artículo [119](articulo-119.md) de estas disposiciones o, en su caso, del área de Asistencia Técnica de la [Federación](articulo-1.md) que la supervise auxiliarmente, para efectos de la aprobación de dicho manual, así como de sus modificaciones.
 
 El Consejo de Administración podrá constituir un comité de riesgos cuyo objeto sea la administración de los riesgos a que se encuentra expuesta la Sociedad Financiera Popular, así como vigilar que la realización de las operaciones se ajuste a las políticas y procedimientos para la administración de riesgos aprobados por el citado consejo. El comité de riesgos deberá observar lo dispuesto por el artículo [164](articulo-164.md) de las presentes disposiciones y podrá realizar las funciones señaladas en el artículo [165](articulo-165.md) de este instrumento, así como las demás actividades que se encuentren relacionadas con la función de que se trate y que en términos de las presentes disposiciones estén a cargo de dicho comité.
 

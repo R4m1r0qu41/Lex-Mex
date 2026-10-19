@@ -23,7 +23,7 @@
     "provision_suffix": ":article:2",
     "style": "auto_whole",
     "profile": {
-      "strategy_version": "glossary-extraction-1",
+      "strategy_version": "glossary-extraction-2",
       "provision_text_sha256": "64ed68c4f4f6c3d9f8b61f09bc48abc3b651cbf1a12e82bb1b6a506ed43bbfce",
       "rationale": "The `C.` of `Centro de Capacitación Cinematográfica A. C. y` inside fraction XX is an abbreviation, not a fraction.",
       "evidence": "docs/decisions.md (2026-10-19, glossary exception profiles, batch 1)",

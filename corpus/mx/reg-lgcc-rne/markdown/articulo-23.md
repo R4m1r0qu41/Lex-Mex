@@ -21,7 +21,7 @@ Los [Organismos](articulo-2.md) tendrán las siguientes obligaciones:
 
 I. Verificar el uso correcto de los métodos para la medición, cálculo o estimación de [Emisiones](../../lgcc/markdown/articulo-3o.md);
 
-II. Verificar la correcta aplicación de factores de Emisión y demás variables técnicas que el [Establecimiento Sujeto a Reporte](articulo-2.md) señale tanto al incorporarse al Registro como en su reporte de Emisiones y verificar que las mismas son las adecuadas;
+II. Verificar la correcta aplicación de factores de Emisión y demás variables técnicas que el [Establecimiento Sujeto a Reporte](articulo-2.md) señale tanto al incorporarse al [Registro](../../lgcc/markdown/articulo-3o.md) como en su reporte de Emisiones y verificar que las mismas son las adecuadas;
 
 III. Verificar que la información que fue utilizada para la medición, cálculo o estimación de las Emisiones, según sea el caso, sea verídica;
 

@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lpf",
   "source_sha256": "e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01",
   "extracted_text_sha256": "e028066a486bf6d038221eea5f04e2c3d34e7377a69335947f9ac99d8ce0a8a4",
@@ -23,16 +23,18 @@
         "X",
         "XI",
         "XII",
+        "XII Bis",
         "XIII",
         "XIV",
         "XV",
         "XVI",
         "XVII"
       ],
-      "term_count": 17
+      "unread_fractions": [],
+      "term_count": 18
     }
   ],
   "imports": [],
-  "term_count": 17,
-  "usage_count": 1221
+  "term_count": 18,
+  "usage_count": 1223
 }

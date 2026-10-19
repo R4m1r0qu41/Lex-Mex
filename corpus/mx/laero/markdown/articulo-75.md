@@ -25,7 +25,7 @@ II. Las concesiones y permisos, sus modificaciones y revocaciones;
 
 III. Las ayudas a la navegación aérea;
 
-IV. Los contratos que autorice la Agencia Federal de Aviación Civil de conformidad con el artículo [56](articulo-56.md) de esta Ley, y Fracción reformada DOF 03-05-2023
+IV. Los contratos que autorice la [Agencia Federal de Aviación Civil](articulo-2.md) de conformidad con el artículo [56](articulo-56.md) de esta Ley, y Fracción reformada DOF 03-05-2023
 
 V. Las pólizas de seguro.
 

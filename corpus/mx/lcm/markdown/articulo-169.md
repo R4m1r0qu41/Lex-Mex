@@ -29,4 +29,4 @@ IV. La prohibición a los deudores del Comerciante de pagarle o entregarle biene
 
 V. La orden al [Instituto](articulo-4o.md) para que designe al conciliador como síndico, en un plazo de cinco días, o en caso contrario designe síndico; entre tanto, quien se encuentre a cargo de la administración de la empresa del Comerciante tendrá las obligaciones de los depositarios respecto de los bienes y derechos que integran la Masa.
 
-La sentencia de quiebra deberá contener, además de las menciones a que se refiere este artículo, las señaladas en las fracciones I, II y XV del artículo [43](articulo-43.md) de esta Ley.
+La sentencia de quiebra deberá contener, además de las menciones a que se refiere este artículo, las señaladas en las fracciones I, II y XV del artículo [43](articulo-43.md) de esta [Ley](articulo-4o.md).

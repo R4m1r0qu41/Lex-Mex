@@ -17,4 +17,4 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 287
 
-Por el solo pago de las obligaciones objeto de protección, la institución de banca de desarrollo fiduciaria del Fondo de Protección se subrogará en los derechos de cobro, en la liquidación o concurso mercantil de la Sociedad, con los privilegios correspondientes a las personas a las que se hubiere efectuado dicho pago, hasta por el monto cubierto, siendo suficiente comprobante el documento en que conste el pago referido.
+Por el solo pago de las obligaciones objeto de protección, la institución de banca de desarrollo fiduciaria del [Fondo de Protección](articulo-1.md) se subrogará en los derechos de cobro, en la liquidación o concurso mercantil de la Sociedad, con los privilegios correspondientes a las personas a las que se hubiere efectuado dicho pago, hasta por el monto cubierto, siendo suficiente comprobante el documento en que conste el pago referido.

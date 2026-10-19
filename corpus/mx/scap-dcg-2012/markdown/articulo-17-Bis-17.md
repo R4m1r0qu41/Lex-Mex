@@ -18,7 +18,7 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 17 Bis 17
 
-Las Sociedades deberán establecer procedimientos para que los [Usuarios](articulo-1.md) de Pago Móvil y Servicios Avanzados Móviles puedan, en todo momento, desactivar su uso de forma temporal en caso de requerirlo, así como establecer procedimientos para reactivar el uso cuando el Usuario lo disponga.
+Las Sociedades deberán establecer procedimientos para que los [Usuarios](articulo-1.md) de Pago Móvil y [Servicios Avanzados Móviles](articulo-1.md) puedan, en todo momento, desactivar su uso de forma temporal en caso de requerirlo, así como establecer procedimientos para reactivar el uso cuando el Usuario lo disponga.
 
 La desactivación del uso de manera temporal de los [Servicios Electrónicos](articulo-1.md) mencionados en el párrafo anterior, deberá realizarse en todo momento dentro de una [Sesión](articulo-1.md) en el mismo servicio, o bien, a través de algún otro servicio que el Usuario tenga contratado, debiendo requerir en ambos casos, un [Factor de Autenticación](articulo-1.md) de cualquiera de las categorías previstas en el Artículo [17 Bis 4](articulo-17-Bis-4.md) de estas disposiciones.
 

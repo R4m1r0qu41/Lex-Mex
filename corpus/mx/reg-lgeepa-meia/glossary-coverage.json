@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia",
   "source_sha256": "c7790df38b773b04e4769459d5fd49cca5b7a5b4955f7618632117275259071f",
   "extracted_text_sha256": "8f8c5d2512b9e390ace741f015d455a4e2a814d95d2ff19cb16bf79e74b5afc8",

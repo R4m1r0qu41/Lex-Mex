@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:statute:ltosf",
   "source_sha256": "bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667",
   "extracted_text_sha256": "77177409594e4845df8d6a0d48ded17cc76433c3b5e0fdfc01e4b36e48e0eae7",
@@ -15,20 +15,28 @@
         "II",
         "III",
         "IV",
+        "IV Bis",
         "V",
+        "V Bis",
+        "V Ter",
         "VI",
         "VII",
         "VIII",
         "IX",
         "X",
         "XI",
+        "XI Bis",
+        "XI Ter",
         "XII",
+        "XII Bis",
+        "XIII",
         "XIV"
       ],
-      "term_count": 13
+      "unread_fractions": [],
+      "term_count": 20
     }
   ],
   "imports": [],
-  "term_count": 13,
-  "usage_count": 448
+  "term_count": 20,
+  "usage_count": 480
 }

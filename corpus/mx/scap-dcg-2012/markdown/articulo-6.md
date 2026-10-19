@@ -17,4 +17,4 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 6
 
-El Comité de Supervisión Auxiliar, en su dictamen respecto de la procedencia de la solicitud de autorización de alguna sociedad de nueva creación para operar como Sociedad, solo podrá proponer a la Comisión asignarle el nivel de operaciones I.
+El [Comité de Supervisión Auxiliar](articulo-1.md), en su dictamen respecto de la procedencia de la solicitud de autorización de alguna sociedad de nueva creación para operar como Sociedad, solo podrá proponer a la [Comisión](articulo-1.md) asignarle el nivel de operaciones I.

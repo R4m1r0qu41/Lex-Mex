@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 26
 
-Las Sociedades Financieras Populares, podrán recibir el pago de servicios por cuenta de terceros, siempre que lo anterior no implique para la sociedad la aceptación de obligaciones directas o contingentes.
+Las [Sociedades](articulo-1.md) Financieras Populares, podrán recibir el pago de servicios por cuenta de terceros, siempre que lo anterior no implique para la sociedad la aceptación de obligaciones directas o contingentes.
 
 Las Sociedades Financieras Populares podrán recibir pagos respecto de servicios que proporcionen terceros a sus Clientes, para lo cual deberán celebrar con dichos terceros, contratos de prestación de servicios para la situación de fondos.
 

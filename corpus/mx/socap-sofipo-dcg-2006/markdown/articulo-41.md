@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 41
 
-Corresponderá al Consejo de Administración de las Federaciones, en su caso, aprobar las solicitudes que para el otorgamiento de préstamos de liquidez les presenten las Sociedades Financieras Populares que supervisen de manera auxiliar; los lineamientos y políticas generales, así como los contratos marco, a que se refiere el artículo [40](articulo-40.md) de las presentes disposiciones.
+Corresponderá al [Consejo de Administración](articulo-1.md) de las [Federaciones](articulo-1.md), en su caso, aprobar las solicitudes que para el otorgamiento de préstamos de liquidez les presenten las [Sociedades](articulo-1.md) Financieras Populares que supervisen de manera auxiliar; los lineamientos y políticas generales, así como los contratos marco, a que se refiere el artículo [40](articulo-40.md) de las presentes disposiciones.
 
 Sin perjuicio de lo dispuesto en el artículo [40](articulo-40.md) antes citado, el monto de cada uno de los préstamos de liquidez que se otorgue al amparo del contrato respectivo deberá ser autorizado de forma previa por el Consejo de Administración de la Federación correspondiente.
 

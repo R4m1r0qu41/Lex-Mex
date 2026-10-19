@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 205 Bis 13
 
-A las Sociedades Financieras Populares que hayan sido clasificadas en la categoría 3, además de las Medidas Correctivas Mínimas establecidas en el artículo [205 Bis 9](articulo-205-Bis-9.md) de las presentes disposiciones, la Comisión podrá ordenarles la adopción de una o varias de las Medidas Correctivas Especiales Adicionales siguientes:
+A las [Sociedades](articulo-1.md) Financieras Populares que hayan sido clasificadas en la categoría 3, además de las [Medidas Correctivas Mínimas](articulo-1.md) establecidas en el artículo [205 Bis 9](articulo-205-Bis-9.md) de las presentes disposiciones, la Comisión podrá ordenarles la adopción de una o varias de las [Medidas Correctivas Especiales Adicionales](articulo-1.md) siguientes:
 
 I. Abstenerse de convenir incrementos en los salarios y prestaciones de los funcionarios y empleados en general, exceptuando las revisiones salariales convenidas y respetando en todo momento los derechos laborales adquiridos.
 
@@ -36,7 +36,7 @@ VI. Reducir los gastos de administración y promoción, así como otros gastos.
 
 VII. Invertir por lo menos el 50% de la captación de nuevos pasivos en valores gubernamentales.
 
-VIII. Sustituir funcionarios, consejeros, comisarios o auditores externos, para lo cual podrá nombrar la propia Sociedad Financiera Popular a las personas que ocuparán los cargos respectivos. Lo anterior es sin perjuicio de las facultades de la Comisión previstas en el artículo 122 de la Ley para determinar la remoción o suspensión de los miembros del consejo, directores generales, comisarios, directores y gerentes y demás funcionarios que puedan obligar con su firma a la Sociedad Financiera Popular.
+VIII. Sustituir funcionarios, consejeros, comisarios o auditores externos, para lo cual podrá nombrar la propia Sociedad Financiera Popular a las personas que ocuparán los cargos respectivos. Lo anterior es sin perjuicio de las facultades de la Comisión previstas en el artículo 122 de la [Ley](articulo-1.md) para determinar la remoción o suspensión de los miembros del consejo, directores generales, comisarios, directores y gerentes y demás funcionarios que puedan obligar con su firma a la Sociedad Financiera Popular.
 
 La Comisión notificará por escrito a la Sociedad Financiera Popular la adopción de la Medida Correctiva Especial Adicional, señalando el plazo en el que deberá informar por escrito los nombres de los funcionarios, consejeros, comisarios o auditores externos, que habrán de sustituir a los funcionarios, consejeros, comisarios o auditores externos removidos.
 

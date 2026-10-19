@@ -18,6 +18,6 @@ source_sha256: 8ac502b97188bd6e795781e9821be6e62ccdd8050cdd3be74aab52a888e67939
 
 # Artículo 130
 
-Las uniones de crédito deberán documentar en manuales, las políticas y procedimientos relativos a las operaciones de acuerdo con el nivel de operaciones autorizado por la [Comisión](articulo-1.md), las cuales deberán guardar congruencia con los objetivos y lineamientos del Sistema de [Control](articulo-1.md) Interno, así como describir las funciones de Contraloría Interna de la unión de crédito.
+Las uniones de crédito deberán documentar en manuales, las políticas y procedimientos relativos a las operaciones de acuerdo con el nivel de operaciones autorizado por la [Comisión](articulo-1.md), las cuales deberán guardar congruencia con los objetivos y lineamientos del [Sistema de Control Interno](articulo-1.md), así como describir las funciones de [Contraloría Interna](articulo-1.md) de la unión de crédito.
 
 Los objetivos del Sistema de Control Interno y los lineamientos para su implementación, así como sus modificaciones, al igual que los manuales referidos en el párrafo anterior, deberán hacerse del conocimiento de los consejeros, directivos, empleados y personal de la unión de crédito, de acuerdo a su ámbito de competencia y serán la base para la operación de esta.

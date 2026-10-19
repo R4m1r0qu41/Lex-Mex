@@ -18,6 +18,6 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 265 Bis 11
 
-Las Sociedades Financieras Populares deberán solicitar a los Usuarios que confirmen la celebración de una Operación Monetaria, previo a que se ejecute, haciendo explícita la información suficiente para darle certeza al Usuario de la operación que se realiza.
+Las [Sociedades](articulo-1.md) Financieras Populares deberán solicitar a los [Usuarios](articulo-1.md) que confirmen la celebración de una [Operación Monetaria](articulo-1.md), previo a que se ejecute, haciendo explícita la información suficiente para darle certeza al Usuario de la operación que se realiza.
 
-Se exceptúa de lo anterior a los Servicios Electrónicos ofrecidos a través de Terminales Punto de Venta.
+Se exceptúa de lo anterior a los [Servicios Electrónicos](articulo-1.md) ofrecidos a través de Terminales Punto de Venta.

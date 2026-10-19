@@ -17,4 +17,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 293
 
-Las Confederaciones deberán designar al Gerente General como el responsable de la integración de los expedientes a que se refiere el presente Capítulo, así como de implementar los mecanismos de comunicación permanente y de proporcionar la información a que el mismo Capítulo alude.
+Las [Confederaciones](articulo-1.md) deberán designar al Gerente General como el responsable de la integración de los expedientes a que se refiere el presente Capítulo, así como de implementar los mecanismos de comunicación permanente y de proporcionar la información a que el mismo Capítulo alude.

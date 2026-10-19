@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:code:cjm",
   "source_sha256": "b9c653ecd9d85d07f156f774129bf3662d1f033dadf5de86437120da00fa9531",
   "extracted_text_sha256": "0ae73688ae9b8f081521453c976a0fb6eccf28cdb8e553f587a968033cc86269",

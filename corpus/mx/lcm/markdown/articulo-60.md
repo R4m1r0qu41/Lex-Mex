@@ -17,6 +17,6 @@ source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 
 # Artículo 60
 
-El [Comerciante](articulo-4o.md), el Ministerio Público demandante, los interventores y los propios acreedores, de manera individual, podrán denunciar ante el juez los actos u omisiones del visitador, del conciliador y del síndico que no se apeguen a lo dispuesto por esta Ley. El juez dictará las medidas de apremio que estime convenientes y, en su caso, podrá solicitar al [Instituto](articulo-4o.md) la sustitución del visitador, conciliador o síndico a fin de evitar daños a la [Masa](articulo-4o.md). Párrafo reformado DOF 27-12-2007
+El [Comerciante](articulo-4o.md), el Ministerio Público demandante, los interventores y los propios acreedores, de manera individual, podrán denunciar ante el juez los actos u omisiones del visitador, del conciliador y del síndico que no se apeguen a lo dispuesto por esta [Ley](articulo-4o.md). El juez dictará las medidas de apremio que estime convenientes y, en su caso, podrá solicitar al [Instituto](articulo-4o.md) la sustitución del visitador, conciliador o síndico a fin de evitar daños a la [Masa](articulo-4o.md). Párrafo reformado DOF 27-12-2007
 
 Cuando por sentencia firme se condene a algún visitador, conciliador o síndico al pago de daños y perjuicios, el juez deberá enviar copia de la misma al Instituto para efectos de lo previsto en la fracción VI del artículo [337](articulo-337.md) de este ordenamiento.

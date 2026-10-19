@@ -18,9 +18,9 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 205 Bis 8
 
-A la Sociedad Financiera Popular que haya sido clasificada en la categoría 2, le serán aplicables las Medidas Correctivas Mínimas siguientes:
+A la [Sociedad](articulo-1.md) Financiera Popular que haya sido clasificada en la categoría 2, le serán aplicables las [Medidas Correctivas Mínimas](articulo-1.md) siguientes:
 
-I. Informar a su Consejo de Administración la categoría en que fue clasificada en un plazo que no deberá exceder de 20 días hábiles, contados a partir de la fecha en que reciba la notificación correspondiente.
+I. Informar a su [Consejo de Administración](articulo-1.md) la categoría en que fue clasificada en un plazo que no deberá exceder de 20 días hábiles, contados a partir de la fecha en que reciba la notificación correspondiente.
 
 Asimismo, deberá informar a su Consejo de Administración en sesión previamente convocada, las causas que motivaron el deterioro en su Nivel de Capitalización que llevó a la Sociedad Financiera Popular a ser clasificada en esa categoría, para lo cual deberá presentar un informe detallado de evaluación integral de las causas de su situación financiera, el cual deberá presentar también a la Comisión, una vez presentado al consejo.
 

@@ -32,7 +32,7 @@ II. Las Sociedades deberán Cifrar o truncar la información de las cuentas u op
 
 III. En ningún caso, las Sociedades podrán transmitir las Contraseñas y Números de Identificación Personal (NIP), a través de correo electrónico, servicios de mensajería instantánea, [Mensajes de Texto SMS](articulo-1.md) o cualquier otra tecnología, que no cuente con mecanismos de Cifrado.
 
-Se exceptúa de lo previsto en este inciso a las Contraseñas y Números de Identificación Personal (NIP) utilizados para acceder a Pago Móvil, siempre y cuando la Sociedad mantenga controles para que no se pongan en riesgo los recursos y la información de los Usuarios. La Sociedad que pretenda utilizar los controles a que se refiere el presente párrafo deberá obtener la previa autorización de la Comisión, para tales efectos.
+Se exceptúa de lo previsto en este inciso a las Contraseñas y Números de Identificación Personal (NIP) utilizados para acceder a Pago Móvil, siempre y cuando la Sociedad mantenga controles para que no se pongan en riesgo los recursos y la información de los Usuarios. La Sociedad que pretenda utilizar los controles a que se refiere el presente párrafo deberá obtener la previa autorización de la [Comisión](articulo-1.md), para tales efectos.
 
 Asimismo, la información de los Factores de Autenticación Categoría 2 a que se refiere el Artículo [17 Bis 4](articulo-17-Bis-4.md) de estas disposiciones, utilizados para acceder a la información de los estados de cuenta, podrá ser comunicada al Usuario mediante dispositivos de audio respuesta automática, así como por correo, siempre y cuando esta sea enviada utilizando mecanismos de seguridad, previa solicitud del Usuario y se hayan llevado a cabo los procesos de Autenticación correspondientes.
 

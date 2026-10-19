@@ -18,8 +18,8 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 284
 
-En la realización de las visitas de inspección a que se refieren los artículos [280](articulo-280.md) y [281](articulo-281.md) de las presentes disposiciones, los Supervisores Auxiliares que el Comité de Supervisión designe al efecto, deberán cumplir, como mínimo, con las reglas de protocolo de conducta establecidas en la Guía de Supervisión Auxiliar, a fin de garantizar que su actuación se ajuste a las atribuciones propias de su función y que las Sociedades Financieras Populares colaborarán con los Supervisores Auxiliares conforme lo señala la Ley.
+En la realización de las visitas de inspección a que se refieren los artículos [280](articulo-280.md) y [281](articulo-281.md) de las presentes disposiciones, los [Supervisores Auxiliares](articulo-1.md) que el Comité de Supervisión designe al efecto, deberán cumplir, como mínimo, con las reglas de protocolo de conducta establecidas en la [Guía de Supervisión Auxiliar](articulo-1.md), a fin de garantizar que su actuación se ajuste a las atribuciones propias de su función y que las [Sociedades](articulo-1.md) Financieras Populares colaborarán con los Supervisores Auxiliares conforme lo señala la [Ley](articulo-1.md).
 
-La Comisión, en ejercicio de sus facultades de supervisión, podrá participar cuando lo considere oportuno o conveniente en la realización de las visitas de inspección a que se refieren los artículos [280](articulo-280.md) y [281](articulo-281.md) de las presentes disposiciones, informando tal determinación a la Federación correspondiente, y designando a los funcionarios que se integrarán con los Supervisores Auxiliares de dicha Federación.
+La Comisión, en ejercicio de sus facultades de supervisión, podrá participar cuando lo considere oportuno o conveniente en la realización de las visitas de inspección a que se refieren los artículos [280](articulo-280.md) y [281](articulo-281.md) de las presentes disposiciones, informando tal determinación a la [Federación](articulo-1.md) correspondiente, y designando a los funcionarios que se integrarán con los Supervisores Auxiliares de dicha Federación.
 
-TITULO SEPTIMO De las Confederaciones
+TITULO SEPTIMO De las [Confederaciones](articulo-1.md)

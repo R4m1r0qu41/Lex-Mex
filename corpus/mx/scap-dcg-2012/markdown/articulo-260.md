@@ -17,4 +17,4 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 260
 
-El Comité Técnico deberá obtener la opinión de la Comisión, respecto de los candidatos propuestos como Miembros del Comité de Supervisión Auxiliar, previo a su designación, manifestando expresamente que los mismos cumplen con los requisitos establecidos en el presente capítulo, acompañando en sobre cerrado el formato que conforma el Anexo I de las presentes disposiciones.
+El [Comité Técnico](articulo-1.md) deberá obtener la opinión de la [Comisión](articulo-1.md), respecto de los candidatos propuestos como [Miembros del Comité de Supervisión Auxiliar](articulo-1.md), previo a su designación, manifestando expresamente que los mismos cumplen con los requisitos establecidos en el presente capítulo, acompañando en sobre cerrado el formato que conforma el Anexo I de las presentes disposiciones.

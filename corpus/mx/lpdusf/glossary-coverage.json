@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:statute:lpdusf",
   "source_sha256": "cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7",
   "extracted_text_sha256": "d7cf9d1003ef003f8e70a3de4e7bf16364a13f24a0d9f8b135e62b53735ba5e4",

@@ -227,6 +227,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lgra:article:3",
     "fraction": "XXI",
     "start_char": 5716,
+    "end_char": 6100,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:term:personas-servidoras-publicas",
+    "term": "Personas Servidoras Públicas",
+    "instrument_id": "urn:lex-mx:federal:statute:lgra",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgra:article:3",
+    "fraction": "XXI Bis",
+    "start_char": 6100,
     "end_char": 6499,
     "basis": "express_definition"
   },

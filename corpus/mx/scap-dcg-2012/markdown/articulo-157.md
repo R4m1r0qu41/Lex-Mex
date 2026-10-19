@@ -17,7 +17,7 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 157
 
-Las Sociedades deberán contar con un Auditor Interno que deberá llevar a cabo cuando menos una vez al año o con una mayor frecuencia de acuerdo con las condiciones de los mercados en que participen, una auditoría de administración de riesgos que contemple, entre otros, los aspectos siguientes:
+Las Sociedades deberán contar con un [Auditor Interno](articulo-1.md) que deberá llevar a cabo cuando menos una vez al año o con una mayor frecuencia de acuerdo con las condiciones de los mercados en que participen, una auditoría de administración de riesgos que contemple, entre otros, los aspectos siguientes:
 
 I. La implementación de mecanismos de administración de riesgos de conformidad con lo establecido en el presente apartado y en el propio manual de políticas y procedimientos para la administración integral de riesgos de la Sociedad.
 
@@ -27,7 +27,7 @@ III. La suficiencia, integridad, consistencia y grado de integración de los sis
 
 IV. La consistencia, precisión, integridad, oportunidad y validez de las fuentes de información utilizadas en los modelos de medición.
 
-V. Revisar las modificaciones en los modelos de medición de riesgos y su correspondiente aprobación por el Comité de Riesgos.
+V. Revisar las modificaciones en los modelos de medición de riesgos y su correspondiente aprobación por el [Comité de Riesgos](articulo-1.md).
 
 VI. El proceso de aprobación de los modelos de medición de riesgos utilizados por el personal de las unidades de negocios y de control de operaciones.
 

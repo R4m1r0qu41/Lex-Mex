@@ -18,4 +18,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 318
 
-El monto excedente de las obligaciones objeto de protección que no hubiese sido cubierto por el Fondo de Protección, podrá ser reclamado por las personas a las que se efectuó el pago de dichas obligaciones, directamente en la liquidación o concurso mercantil de la Sociedad Financiera Popular de que se trate conforme a las disposiciones legales, reglamentarias y administrativas aplicables.
+El monto excedente de las obligaciones objeto de protección que no hubiese sido cubierto por el Fondo de Protección, podrá ser reclamado por las personas a las que se efectuó el pago de dichas obligaciones, directamente en la liquidación o concurso mercantil de la [Sociedad](articulo-1.md) Financiera Popular de que se trate conforme a las disposiciones legales, reglamentarias y administrativas aplicables.

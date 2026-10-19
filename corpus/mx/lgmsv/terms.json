@@ -7,6 +7,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lgmsv:article:3",
     "fraction": "I",
     "start_char": 55,
+    "end_char": 510,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmsv:term:acciones-afirmativas",
+    "term": "Acciones afirmativas",
+    "instrument_id": "urn:lex-mx:federal:statute:lgmsv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgmsv:article:3",
+    "fraction": "II",
+    "start_char": 510,
     "end_char": 770,
     "basis": "express_definition"
   },

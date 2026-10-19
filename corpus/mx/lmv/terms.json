@@ -51,6 +51,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lmv:article:2",
     "fraction": "V",
     "start_char": 1550,
+    "end_char": 1841,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmv:term:emisora-simplificada",
+    "term": "Emisora simplificada",
+    "instrument_id": "urn:lex-mx:federal:statute:lmv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lmv:article:2",
+    "fraction": "V Bis",
+    "start_char": 1841,
     "end_char": 2498,
     "basis": "express_definition"
   },
@@ -128,6 +139,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lmv:article:2",
     "fraction": "XII",
     "start_char": 4878,
+    "end_char": 5463,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmv:term:inscripcion-simplificada",
+    "term": "Inscripción simplificada",
+    "instrument_id": "urn:lex-mx:federal:statute:lmv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lmv:article:2",
+    "fraction": "XII Bis",
+    "start_char": 5463,
     "end_char": 5753,
     "basis": "express_definition"
   },

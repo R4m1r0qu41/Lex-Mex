@@ -18,9 +18,9 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 31
 
-Las Sociedades Financieras Populares, en sus manuales de políticas y procedimientos para el otorgamiento de créditos, deberán establecer mecanismos para detectar, en forma previa a la celebración de cualquier operación de financiamiento, si la persona solicitante tiene alguna relación con la Sociedad Financiera Popular de que se trate, en términos de los artículos 35, 35 Bis y 35 Bis 1 de la Ley.
+Las [Sociedades](articulo-1.md) Financieras Populares, en sus manuales de políticas y procedimientos para el otorgamiento de créditos, deberán establecer mecanismos para detectar, en forma previa a la celebración de cualquier operación de financiamiento, si la persona solicitante tiene alguna relación con la Sociedad Financiera Popular de que se trate, en términos de los artículos 35, 35 Bis y 35 Bis 1 de la [Ley](articulo-1.md).
 
-El Comité de Crédito o quien realice sus funciones en la Sociedad Financiera Popular de que se trate, tendrá la obligación de verificar la información contenida en las solicitudes de crédito, debiendo clasificar para su identificación las operaciones con personas relacionadas.
+El [Comité de Crédito](articulo-1.md) o quien realice sus funciones en la Sociedad Financiera Popular de que se trate, tendrá la obligación de verificar la información contenida en las solicitudes de crédito, debiendo clasificar para su identificación las operaciones con personas relacionadas.
 
 Para tal efecto, las Sociedades Financieras Populares deberán identificar si los solicitantes de créditos son accionistas, consejeros, auditores externos, comisarios, funcionarios o empleados de la Sociedad Financiera Popular de que se trate; o si siendo personas distintas de las anteriores, con su firma pueden obligar a la Sociedad Financiera Popular de que se trate; o bien, si son cónyuges o tienen relación de parentesco con alguna de las personas antes señaladas.
 

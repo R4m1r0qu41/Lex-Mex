@@ -18,4 +18,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 329 Bis 2
 
-Las Sociedades Financieras Populares, proporcionarán anualmente a la Comisión y al Comité de Supervisión de la Federación que las supervise, la información de la Serie R28 exclusivamente por lo que se refiere al reporte A-2812, con cifras a diciembre de cada año, dentro del mes inmediato siguiente al de su fecha.
+Las [Sociedades](articulo-1.md) Financieras Populares, proporcionarán anualmente a la Comisión y al Comité de Supervisión de la [Federación](articulo-1.md) que las supervise, la información de la Serie R28 exclusivamente por lo que se refiere al reporte A-2812, con cifras a diciembre de cada año, dentro del mes inmediato siguiente al de su fecha.

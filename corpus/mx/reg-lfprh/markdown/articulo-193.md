@@ -19,7 +19,7 @@ source_sha256: 030ed4c6e3950adecfd4c6376b31d216dc4d876d90b21190c982bccac0b03d7a
 
 Adicionalmente a lo señalado en el [artículo anterior](articulo-192.md), para cada nuevo proyecto de infraestructura productiva de largo plazo o cambio de alcance de proyectos ya autorizados en ejercicios fiscales anteriores, las entidades deberán entregar a la coordinadora de sector, a más tardar el último día hábil de mayo, lo siguiente: Párrafo reformado DOF 05-09-2007, 04-09-2009
 
-I. Un resumen ejecutivo del proyecto que contenga la descripción de sus principales componentes; los fines y metas que se pretendan alcanzar con su desarrollo; los indicadores de rentabilidad de la Evaluación costo y beneficio correspondiente; el monto total de inversión y los demás gastos asociados; el calendario de ejecución; las fuentes de financiamiento que se prevea utilizar, y los principales riesgos asociados; Fracción reformada DOF 08-08-2025
+I. Un resumen ejecutivo del proyecto que contenga la descripción de sus principales componentes; los fines y metas que se pretendan alcanzar con su desarrollo; los indicadores de rentabilidad de la [Evaluación costo y beneficio](articulo-2.md) correspondiente; el monto total de inversión y los demás gastos asociados; el calendario de ejecución; las fuentes de financiamiento que se prevea utilizar, y los principales riesgos asociados; Fracción reformada DOF 08-08-2025
 
 II. La descripción general del esquema e instrumentos financieros que especifique las fuentes de financiamiento, términos y condiciones financieras, así como los costos directos e indirectos que se hayan considerado para el diseño, ejecución y pago del proyecto;
 

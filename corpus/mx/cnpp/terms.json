@@ -139,6 +139,17 @@
     "defining_provision_id": "urn:lex-mx:federal:code:cnpp:article:3",
     "fraction": "XIV",
     "start_char": 2608,
+    "end_char": 2794,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:term:tratados",
+    "term": "Tratados",
+    "instrument_id": "urn:lex-mx:federal:code:cnpp",
+    "defining_provision_id": "urn:lex-mx:federal:code:cnpp:article:3",
+    "fraction": "XV",
+    "start_char": 2794,
     "end_char": 2913,
     "basis": "express_definition"
   },

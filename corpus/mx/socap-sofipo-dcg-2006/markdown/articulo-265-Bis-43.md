@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 265 Bis 43
 
-Las Sociedades Financieras Populares en la contratación de terceros para la realización de un proceso operativo o para la administración de bases de datos y sistemas informáticos, relacionados con operaciones diferentes a las referidas en la Sección Segunda anterior, deberán dar aviso a la Comisión, previamente a la contratación con terceros, con otras Sociedades Financieras Populares o entidades financieras, para la correspondiente prestación de servicios o comisión.
+Las [Sociedades](articulo-1.md) Financieras Populares en la contratación de terceros para la realización de un proceso operativo o para la administración de bases de datos y sistemas informáticos, relacionados con operaciones diferentes a las referidas en la Sección Segunda anterior, deberán dar aviso a la Comisión, previamente a la contratación con terceros, con otras Sociedades Financieras Populares o entidades financieras, para la correspondiente prestación de servicios o comisión.
 
 El aviso a que se refiere este artículo, deberá precisar el proceso operativo o de administración de bases de datos y sistemas informáticos objeto de los servicios o comisiones de que se trata y entregarse a la Comisión con una anticipación de por lo menos veinte días hábiles a la fecha en que pretendan contratar dichos servicios o comisiones.
 

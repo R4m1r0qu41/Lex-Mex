@@ -1088,6 +1088,55 @@ pub struct DefinedTerm {
     pub basis: Basis,
 }
 
+/// Regex alternation for the ordinal qualifier a fraction label may carry
+/// after its Roman numeral (`V Bis`, `X Quáter`, `I Septies`). Sources print
+/// it in any case (`XX BIS`, `III bis`) and `Quáter` also without its accent.
+pub const FRACTION_QUALIFIER_PATTERN: &str =
+    r"(?i:bis|ter|qu[áa]ter|quinquies|sexies|septies|octies|nonies|decies)";
+
+/// The rank of a fraction qualifier after its base fraction (`Bis` 1, `Ter`
+/// 2, `Quáter` 3 … `Decies` 9), in any case; `None` for any other word.
+#[must_use]
+pub fn fraction_qualifier_rank(qualifier: &str) -> Option<u32> {
+    let qualifier = qualifier.to_lowercase().replace('á', "a");
+    [
+        "bis",
+        "ter",
+        "quater",
+        "quinquies",
+        "sexies",
+        "septies",
+        "octies",
+        "nonies",
+        "decies",
+    ]
+    .iter()
+    .position(|known| *known == qualifier)
+    .and_then(|index| u32::try_from(index + 1).ok())
+}
+
+/// A printed fraction label with its qualifier in title case and one space
+/// before it: `XX BIS`, `XX  bis` and `XX. Bis` all read `XX Bis`. The
+/// spelling is otherwise kept (`Quater` stays unaccented).
+#[must_use]
+pub fn normalize_fraction_label(printed: &str) -> String {
+    let mut words = printed.split_whitespace();
+    let mut label = words
+        .next()
+        .unwrap_or_default()
+        .trim_end_matches('.')
+        .to_owned();
+    for word in words {
+        let mut characters = word.chars();
+        label.push(' ');
+        if let Some(first) = characters.next() {
+            label.extend(first.to_uppercase());
+            label.push_str(&characters.as_str().to_lowercase());
+        }
+    }
+    label
+}
+
 /// One exact occurrence of a defined term inside a provision's canonical
 /// text, resolved to its defining term (possibly in another instrument).
 #[derive(Debug, Clone, Serialize, Deserialize)]
@@ -1107,7 +1156,9 @@ pub struct TermUsage {
 
 /// Version of the glossary extraction strategies a [`GlossaryCoverage`]
 /// describes. Bump it when detection or completeness rules change meaning.
-pub const GLOSSARY_STRATEGY_VERSION: &str = "glossary-extraction-1";
+/// Version 2 reads every fraction qualifier (`Quáter` … `Decies`, any case),
+/// where version 1 read only `Bis` and `Ter`, and the established pass none.
+pub const GLOSSARY_STRATEGY_VERSION: &str = "glossary-extraction-2";
 
 /// How `terms.json` was produced for one instrument
 /// (`glossary-coverage.json`). It separates a glossary held as incomplete
@@ -1160,6 +1211,12 @@ pub struct GlossaryProvisionCoverage {
     /// grammar (`wider_pass`, `auto_whole`) reports them; absent otherwise.
     #[serde(default, skip_serializing_if = "Option::is_none")]
     pub repeal_placeholders: Option<Vec<String>>,
+    /// Fractions found but not read as a term, which therefore define
+    /// nothing in `terms.json`. Only the established grammar
+    /// (`established_pass`, `auto_established`) reports them, because the
+    /// wider grammar holds such a glossary instead; absent otherwise.
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub unread_fractions: Option<Vec<String>>,
     /// The reviewed exception profile applied to an `auto_whole` glossary.
     #[serde(default, skip_serializing_if = "Option::is_none")]
     pub profile: Option<GlossaryProfile>,
@@ -2266,6 +2323,7 @@ mod glossary_coverage_tests {
                     .filter_map(|term| term.fraction.clone())
                     .collect(),
                 repeal_placeholders: None,
+                unread_fractions: None,
                 profile: None,
                 term_count: record.terms.len(),
             }],

@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:statute:lnrd",
   "source_sha256": "0a9852297132d8972d0c2f77e1b67d614bd296632109065e703bd09254187aea",
   "extracted_text_sha256": "0b7d924163ab128293d84b098dc483a0931e0842b0221624a8542afa696f67f9",

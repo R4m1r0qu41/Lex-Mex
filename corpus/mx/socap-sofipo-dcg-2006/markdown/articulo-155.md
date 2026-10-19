@@ -18,13 +18,13 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 155
 
-La Comisión y la Federación correspondiente verificarán el cálculo de los requerimientos de capitalización por riesgo de crédito, mercado y operacional, y cuando lo consideren conveniente podrán requerir que dicho cálculo sea entregado con mayor frecuencia o en la fecha que así determinen cuando a su juicio, de manera individual o en conjunto, estimen que la Sociedad Financiera Popular está asumiendo riesgos notoriamente mayores a los que muestren las cifras de cierre de cada mes.
+La Comisión y la [Federación](articulo-1.md) correspondiente verificarán el cálculo de los requerimientos de capitalización por riesgo de crédito, mercado y operacional, y cuando lo consideren conveniente podrán requerir que dicho cálculo sea entregado con mayor frecuencia o en la fecha que así determinen cuando a su juicio, de manera individual o en conjunto, estimen que la [Sociedad](articulo-1.md) Financiera Popular está asumiendo riesgos notoriamente mayores a los que muestren las cifras de cierre de cada mes.
 
 El cálculo a que se refiere el párrafo anterior se efectuará en moneda nacional de conformidad con lo siguiente:
 
-I. Para la equivalencia en moneda nacional de dólares de los Estados Unidos de América se realizará tomando en cuenta el tipo de cambio del día último del mes inmediato anterior. Tratándose de cualquier otra moneda extranjera, se convertirá a dólares de los Estados Unidos de América y, posteriormente, a moneda nacional. En todo caso, los tipos de cambio serán los aplicables conforme a lo dispuesto en los Criterios Contables.
+I. Para la equivalencia en moneda nacional de dólares de los Estados Unidos de América se realizará tomando en cuenta el tipo de cambio del día último del mes inmediato anterior. Tratándose de cualquier otra moneda extranjera, se convertirá a dólares de los Estados Unidos de América y, posteriormente, a moneda nacional. En todo caso, los tipos de cambio serán los aplicables conforme a lo dispuesto en los [Criterios Contables](articulo-1.md).
 
-II. Para la equivalencia en moneda nacional de las UDIs se realizará tomando en cuenta el valor en pesos de la UDI, al día último del mes inmediato anterior, considerando para ello el valor en pesos de la UDI que el Banco de México publica en el Diario Oficial de la Federación.
+II. Para la equivalencia en moneda nacional de las UDIs se realizará tomando en cuenta el valor en pesos de la [UDI](articulo-1.md), al día último del mes inmediato anterior, considerando para ello el valor en pesos de la UDI que el Banco de México publica en el Diario Oficial de la Federación.
 
 III. Tratándose de montos denominados en Unidades de Medida y Actualización, se utilizará el valor diario en pesos vigente a la fecha de cálculo, determinado por el Instituto Nacional de Estadística y Geografía y publicado en el Diario Oficial de la Federación.
 

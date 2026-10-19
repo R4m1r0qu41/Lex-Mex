@@ -17,7 +17,7 @@ source_sha256: 2c75fd0eab3245aed43a4e1230dcd142b48959a1df09bdd4e70684935a505dd4
 
 # Artículo 41 Bis
 
-El Sistema Nacional de Gestión Forestal será establecido, integrado y operado por la [Secretaría](articulo-7.md).
+El [Sistema Nacional de Gestión Forestal](articulo-7.md) será establecido, integrado y operado por la [Secretaría](articulo-7.md).
 
 En caso de que se suscriban los convenios a los que hace referencia el artículo [21](articulo-21.md) de esta Ley, las dependencias y entidades que coadyuven con la Secretaría en la gestión de los actos previstos en esta Ley deberán integrar la información correspondiente al Sistema Nacional de Gestión Forestal en los términos y bajo las directrices técnicas que señale la Secretaría.
 

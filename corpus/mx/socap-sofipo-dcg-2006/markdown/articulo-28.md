@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 28
 
-Las Sociedades Financieras Populares determinarán libremente, en función de sus costos y políticas, el importe de las cuotas y honorarios correspondientes a los servicios siguientes:
+Las [Sociedades](articulo-1.md) Financieras Populares determinarán libremente, en función de sus costos y políticas, el importe de las cuotas y honorarios correspondientes a los servicios siguientes:
 
 I. Pagos por cuenta de sus Clientes;
 

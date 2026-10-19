@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lfep",
   "source_sha256": "fa76340e597a2214f73b039f2a89465f9c1037f7d1630a852689124478621873",
   "extracted_text_sha256": "940ea691556d6473aa4901b1263d1669083981787cba2ad92e7e5f771e13a097",
@@ -17,6 +17,7 @@
         "IV",
         "V"
       ],
+      "unread_fractions": [],
       "term_count": 5
     }
   ],

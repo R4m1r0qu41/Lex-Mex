@@ -73,12 +73,39 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:3:term-usage:596-613",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:cliente-o-usuaria",
+    "span": "Cliente o Usuaria",
+    "start_char": 596,
+    "end_char": 613
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:3:term-usage:958-975",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:cliente-o-usuaria",
+    "span": "Cliente o Usuaria",
+    "start_char": 958,
+    "end_char": 975
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpiorpi:article:3:term-usage:2026-2029",
     "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:3",
     "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:ley",
     "span": "Ley",
     "start_char": 2026,
     "end_char": 2029
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:3:term-usage:2190-2207",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:cliente-o-usuaria",
+    "span": "Cliente o Usuaria",
+    "start_char": 2190,
+    "end_char": 2207
   },
   {
     "schema_version": "0.1.0",
@@ -232,6 +259,15 @@
     "span": "Secretaría",
     "start_char": 4752,
     "end_char": 4762
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:3:term-usage:5193-5212",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:cliente-o-usuaria",
+    "span": "Clientes o Usuarias",
+    "start_char": 5193,
+    "end_char": 5212
   },
   {
     "schema_version": "0.1.0",
@@ -1189,6 +1225,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:17:term-usage:1265-1268",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:uma",
+    "span": "UMA",
+    "start_char": 1265,
+    "end_char": 1268
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpiorpi:article:17:term-usage:1287-1292",
     "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:17",
     "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:avisos",
@@ -1207,12 +1252,48 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:17:term-usage:1472-1475",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:uma",
+    "span": "UMA",
+    "start_char": 1472,
+    "end_char": 1475
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpiorpi:article:17:term-usage:1603-1624",
     "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:17",
     "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:entidades-financieras",
     "span": "Entidades Financieras",
     "start_char": 1603,
     "end_char": 1624
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:17:term-usage:1813-1816",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:uma",
+    "span": "UMA",
+    "start_char": 1813,
+    "end_char": 1816
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:17:term-usage:2008-2011",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:uma",
+    "span": "UMA",
+    "start_char": 2008,
+    "end_char": 2011
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:17:term-usage:2252-2255",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:uma",
+    "span": "UMA",
+    "start_char": 2252,
+    "end_char": 2255
   },
   {
     "schema_version": "0.1.0",
@@ -1231,6 +1312,24 @@
     "span": "Secretaría",
     "start_char": 2303,
     "end_char": 2313
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:17:term-usage:2523-2526",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:uma",
+    "span": "UMA",
+    "start_char": 2523,
+    "end_char": 2526
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:17:term-usage:2768-2771",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:uma",
+    "span": "UMA",
+    "start_char": 2768,
+    "end_char": 2771
   },
   {
     "schema_version": "0.1.0",
@@ -1261,6 +1360,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:17:term-usage:3144-3147",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:uma",
+    "span": "UMA",
+    "start_char": 3144,
+    "end_char": 3147
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpiorpi:article:17:term-usage:3364-3385",
     "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:17",
     "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:entidades-financieras",
@@ -1288,6 +1396,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:17:term-usage:3561-3564",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:uma",
+    "span": "UMA",
+    "start_char": 3561,
+    "end_char": 3564
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpiorpi:article:17:term-usage:3910-3915",
     "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:17",
     "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:avisos",
@@ -1303,6 +1420,24 @@
     "span": "Secretaría",
     "start_char": 3924,
     "end_char": 3934
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:17:term-usage:4066-4069",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:uma",
+    "span": "UMA",
+    "start_char": 4066,
+    "end_char": 4069
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:17:term-usage:4176-4199",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:desarrollo-inmobiliario",
+    "span": "Desarrollo Inmobiliario",
+    "start_char": 4176,
+    "end_char": 4199
   },
   {
     "schema_version": "0.1.0",
@@ -1324,6 +1459,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:17:term-usage:4410-4413",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:uma",
+    "span": "UMA",
+    "start_char": 4410,
+    "end_char": 4413
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpiorpi:article:17:term-usage:4518-4535",
     "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:17",
     "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:metales-preciosos",
@@ -1339,6 +1483,15 @@
     "span": "Piedras Preciosas",
     "start_char": 4537,
     "end_char": 4554
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:17:term-usage:4763-4766",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:uma",
+    "span": "UMA",
+    "start_char": 4763,
+    "end_char": 4766
   },
   {
     "schema_version": "0.1.0",
@@ -1360,6 +1513,24 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:17:term-usage:5002-5005",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:uma",
+    "span": "UMA",
+    "start_char": 5002,
+    "end_char": 5005
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:17:term-usage:5327-5330",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:uma",
+    "span": "UMA",
+    "start_char": 5327,
+    "end_char": 5330
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpiorpi:article:17:term-usage:5349-5354",
     "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:17",
     "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:avisos",
@@ -1375,6 +1546,24 @@
     "span": "Secretaría",
     "start_char": 5363,
     "end_char": 5373
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:17:term-usage:5535-5538",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:uma",
+    "span": "UMA",
+    "start_char": 5535,
+    "end_char": 5538
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:17:term-usage:5809-5812",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:uma",
+    "span": "UMA",
+    "start_char": 5809,
+    "end_char": 5812
   },
   {
     "schema_version": "0.1.0",
@@ -1396,6 +1585,24 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:17:term-usage:6017-6020",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:uma",
+    "span": "UMA",
+    "start_char": 6017,
+    "end_char": 6020
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:17:term-usage:6301-6304",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:uma",
+    "span": "UMA",
+    "start_char": 6301,
+    "end_char": 6304
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpiorpi:article:17:term-usage:6323-6328",
     "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:17",
     "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:avisos",
@@ -1414,6 +1621,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:17:term-usage:6509-6512",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:uma",
+    "span": "UMA",
+    "start_char": 6509,
+    "end_char": 6512
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpiorpi:article:17:term-usage:6784-6789",
     "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:17",
     "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:avisos",
@@ -1429,6 +1645,15 @@
     "span": "Secretaría",
     "start_char": 6798,
     "end_char": 6808
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:17:term-usage:6948-6951",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:uma",
+    "span": "UMA",
+    "start_char": 6948,
+    "end_char": 6951
   },
   {
     "schema_version": "0.1.0",
@@ -1495,6 +1720,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:17:term-usage:9119-9122",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:uma",
+    "span": "UMA",
+    "start_char": 9119,
+    "end_char": 9122
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpiorpi:article:17:term-usage:9328-9333",
     "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:17",
     "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:avisos",
@@ -1522,12 +1756,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:17:term-usage:10050-10053",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:uma",
+    "span": "UMA",
+    "start_char": 10050,
+    "end_char": 10053
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpiorpi:article:17:term-usage:10333-10338",
     "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:17",
     "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:avisos",
     "span": "Aviso",
     "start_char": 10333,
     "end_char": 10338
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:17:term-usage:10678-10681",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:uma",
+    "span": "UMA",
+    "start_char": 10678,
+    "end_char": 10681
   },
   {
     "schema_version": "0.1.0",
@@ -1567,6 +1819,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:17:term-usage:12241-12244",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:uma",
+    "span": "UMA",
+    "start_char": 12241,
+    "end_char": 12244
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpiorpi:article:17:term-usage:12263-12268",
     "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:17",
     "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:avisos",
@@ -1582,6 +1843,15 @@
     "span": "Secretaría",
     "start_char": 12277,
     "end_char": 12287
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:17:term-usage:12433-12436",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:uma",
+    "span": "UMA",
+    "start_char": 12433,
+    "end_char": 12436
   },
   {
     "schema_version": "0.1.0",
@@ -1621,6 +1891,24 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:17:term-usage:13438-13441",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:uma",
+    "span": "UMA",
+    "start_char": 13438,
+    "end_char": 13441
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:17:term-usage:13612-13615",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:uma",
+    "span": "UMA",
+    "start_char": 13612,
+    "end_char": 13615
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpiorpi:article:17:term-usage:13834-13839",
     "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:17",
     "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:avisos",
@@ -1639,6 +1927,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:17:term-usage:14115-14118",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:uma",
+    "span": "UMA",
+    "start_char": 14115,
+    "end_char": 14118
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpiorpi:article:17:term-usage:14197-14202",
     "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:17",
     "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:avisos",
@@ -1654,6 +1951,15 @@
     "span": "Secretaría",
     "start_char": 14211,
     "end_char": 14221
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:17:term-usage:14386-14389",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:uma",
+    "span": "UMA",
+    "start_char": 14386,
+    "end_char": 14389
   },
   {
     "schema_version": "0.1.0",
@@ -1690,6 +1996,24 @@
     "span": "Secretaría",
     "start_char": 15579,
     "end_char": 15589
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:17:term-usage:15833-15836",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:uma",
+    "span": "UMA",
+    "start_char": 15833,
+    "end_char": 15836
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:17:term-usage:16068-16071",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:uma",
+    "span": "UMA",
+    "start_char": 16068,
+    "end_char": 16071
   },
   {
     "schema_version": "0.1.0",
@@ -1765,6 +2089,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:18:term-usage:179-198",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:cliente-o-usuaria",
+    "span": "Clientes o Usuarias",
+    "start_char": 179,
+    "end_char": 198
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpiorpi:article:18:term-usage:455-465",
     "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:18",
     "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:secretaria",
@@ -1780,6 +2113,24 @@
     "span": "Relación de negocios",
     "start_char": 546,
     "end_char": 566
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:18:term-usage:595-612",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:cliente-o-usuaria",
+    "span": "Cliente o Usuaria",
+    "start_char": 595,
+    "end_char": 612
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:18:term-usage:858-875",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:cliente-o-usuaria",
+    "span": "Cliente o Usuaria",
+    "start_char": 858,
+    "end_char": 875
   },
   {
     "schema_version": "0.1.0",
@@ -1801,6 +2152,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:18:term-usage:1151-1168",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:cliente-o-usuaria",
+    "span": "Cliente o Usuaria",
+    "start_char": 1151,
+    "end_char": 1168
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpiorpi:article:18:term-usage:1281-1305",
     "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:18",
     "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:beneficiario-controlador",
@@ -1816,6 +2176,15 @@
     "span": "Secretaría",
     "start_char": 1428,
     "end_char": 1438
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:18:term-usage:1982-2001",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:cliente-o-usuaria",
+    "span": "Clientes o Usuarias",
+    "start_char": 1982,
+    "end_char": 2001
   },
   {
     "schema_version": "0.1.0",
@@ -1954,12 +2323,39 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:18:term-usage:4551-4558",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:riesgo",
+    "span": "Riesgos",
+    "start_char": 4551,
+    "end_char": 4558
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpiorpi:article:18:term-usage:4629-4639",
     "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:18",
     "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:secretaria",
     "span": "Secretaría",
     "start_char": 4629,
     "end_char": 4639
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:18:term-usage:4703-4710",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:riesgo",
+    "span": "Riesgos",
+    "start_char": 4703,
+    "end_char": 4710
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:18:term-usage:4741-4760",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:cliente-o-usuaria",
+    "span": "Clientes o Usuarias",
+    "start_char": 4741,
+    "end_char": 4760
   },
   {
     "schema_version": "0.1.0",
@@ -1999,6 +2395,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:18:term-usage:6113-6132",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:cliente-o-usuaria",
+    "span": "Clientes o Usuarias",
+    "start_char": 6113,
+    "end_char": 6132
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpiorpi:article:18:term-usage:6186-6189",
     "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:18",
     "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:ley",
@@ -2017,6 +2422,24 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:18:term-usage:6564-6583",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:cliente-o-usuaria",
+    "span": "Clientes o Usuarias",
+    "start_char": 6564,
+    "end_char": 6583
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:18:term-usage:6679-6698",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:cliente-o-usuaria",
+    "span": "Clientes o Usuarias",
+    "start_char": 6679,
+    "end_char": 6698
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpiorpi:article:18:term-usage:6754-6764",
     "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:18",
     "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:secretaria",
@@ -2032,6 +2455,24 @@
     "span": "Ley",
     "start_char": 6840,
     "end_char": 6843
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:18:term-usage:6934-6953",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:cliente-o-usuaria",
+    "span": "Clientes o Usuarias",
+    "start_char": 6934,
+    "end_char": 6953
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:18:term-usage:7019-7025",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:riesgo",
+    "span": "Riesgo",
+    "start_char": 7019,
+    "end_char": 7025
   },
   {
     "schema_version": "0.1.0",
@@ -2242,6 +2683,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:21:term-usage:368-387",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:cliente-o-usuaria",
+    "span": "Clientes o Usuarias",
+    "start_char": 368,
+    "end_char": 387
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpiorpi:article:22:term-usage:24-34",
     "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:22",
     "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:secretaria",
@@ -2404,6 +2854,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:24:term-usage:512-529",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:cliente-o-usuaria",
+    "span": "Cliente o Usuaria",
+    "start_char": 512,
+    "end_char": 529
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpiorpi:article:24:term-usage:559-583",
     "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:24",
     "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:beneficiario-controlador",
@@ -2464,6 +2923,15 @@
     "span": "Actividades Vulnerables",
     "start_char": 48,
     "end_char": 71
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:25:term-usage:242-261",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:cliente-o-usuaria",
+    "span": "Clientes o Usuarias",
+    "start_char": 242,
+    "end_char": 261
   },
   {
     "schema_version": "0.1.0",
@@ -2890,6 +3358,24 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:32:term-usage:533-536",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:uma",
+    "span": "UMA",
+    "start_char": 533,
+    "end_char": 536
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:32:term-usage:837-840",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:uma",
+    "span": "UMA",
+    "start_char": 837,
+    "end_char": 840
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpiorpi:article:32:term-usage:956-973",
     "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:32",
     "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:metales-preciosos",
@@ -2908,12 +3394,75 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:32:term-usage:1144-1147",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:uma",
+    "span": "UMA",
+    "start_char": 1144,
+    "end_char": 1147
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:32:term-usage:1514-1517",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:uma",
+    "span": "UMA",
+    "start_char": 1514,
+    "end_char": 1517
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:32:term-usage:1825-1828",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:uma",
+    "span": "UMA",
+    "start_char": 1825,
+    "end_char": 1828
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:32:term-usage:2153-2156",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:uma",
+    "span": "UMA",
+    "start_char": 2153,
+    "end_char": 2156
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:32:term-usage:2463-2466",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:uma",
+    "span": "UMA",
+    "start_char": 2463,
+    "end_char": 2466
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpiorpi:article:32:term-usage:2763-2773",
     "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:32",
     "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:secretaria",
     "span": "Secretaría",
     "start_char": 2763,
     "end_char": 2773
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:33:term-usage:372-375",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:uma",
+    "span": "UMA",
+    "start_char": 372,
+    "end_char": 375
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:33:term-usage:681-700",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:cliente-o-usuaria",
+    "span": "Clientes o Usuarias",
+    "start_char": 681,
+    "end_char": 700
   },
   {
     "schema_version": "0.1.0",
@@ -3862,6 +4411,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:51-bis:term-usage:1346-1352",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:51-bis",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:riesgo",
+    "span": "Riesgo",
+    "start_char": 1346,
+    "end_char": 1352
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpiorpi:article:51-bis:term-usage:1491-1501",
     "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:51-bis",
     "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:secretaria",
@@ -4159,6 +4717,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:54:term-usage:187-190",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:54",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:uma",
+    "span": "UMA",
+    "start_char": 187,
+    "end_char": 190
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpiorpi:article:54:term-usage:260-263",
     "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:54",
     "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:ley",
@@ -4168,12 +4735,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:54:term-usage:389-392",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:54",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:uma",
+    "span": "UMA",
+    "start_char": 389,
+    "end_char": 392
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpiorpi:article:54:term-usage:445-448",
     "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:54",
     "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:ley",
     "span": "Ley",
     "start_char": 445,
     "end_char": 448
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:54:term-usage:589-592",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:54",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:uma",
+    "span": "UMA",
+    "start_char": 589,
+    "end_char": 592
   },
   {
     "schema_version": "0.1.0",
@@ -4201,6 +4786,15 @@
     "span": "Actividades Vulnerables",
     "start_char": 156,
     "end_char": 179
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:54-bis:term-usage:273-292",
+    "provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:54-bis",
+    "term_id": "urn:lex-mx:federal:statute:lfpiorpi:term:cliente-o-usuaria",
+    "span": "Clientes o Usuarias",
+    "start_char": 273,
+    "end_char": 292
   },
   {
     "schema_version": "0.1.0",

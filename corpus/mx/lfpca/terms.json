@@ -29,6 +29,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lfpca:article:1-a",
     "fraction": "III",
     "start_char": 879,
+    "end_char": 1157,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:term:aviso-electronico",
+    "term": "Aviso electrónico",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpca",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpca:article:1-a",
+    "fraction": "III Bis",
+    "start_char": 1157,
     "end_char": 1353,
     "basis": "express_definition"
   },

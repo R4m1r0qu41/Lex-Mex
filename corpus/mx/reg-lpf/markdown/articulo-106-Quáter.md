@@ -17,7 +17,7 @@ source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 
 # Artículo 106 Quáter
 
-Corresponde a la Dirección General de Proximidad Social de la Gendarmería:
+Corresponde a la Dirección General de [Proximidad Social](articulo-2.md) de la Gendarmería:
 
 I. Implementar la participación de los [Integrantes](articulo-2.md) de la División de Gendarmería en programas, estrategias y acciones en materia de proximidad social;
 

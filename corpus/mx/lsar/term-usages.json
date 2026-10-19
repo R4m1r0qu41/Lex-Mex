@@ -118,6 +118,24 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:5:term-usage:4590-4606",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:rendimiento-neto",
+    "span": "Rendimiento Neto",
+    "start_char": 4590,
+    "end_char": 4606
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:5:term-usage:4611-4627",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:rendimiento-neto",
+    "span": "Rendimiento Neto",
+    "start_char": 4611,
+    "end_char": 4627
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsar:article:7:term-usage:515-527",
     "provision_id": "urn:lex-mx:federal:statute:lsar:article:7",
     "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
@@ -298,6 +316,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:37:term-usage:234-250",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:rendimiento-neto",
+    "span": "Rendimiento Neto",
+    "start_char": 234,
+    "end_char": 250
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsar:article:37:term-usage:7428-7439",
     "provision_id": "urn:lex-mx:federal:statute:lsar:article:37",
     "term_id": "urn:lex-mx:federal:statute:lsar:term:la-comision",
@@ -307,12 +334,39 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:37:term-usage:7513-7529",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:rendimiento-neto",
+    "span": "Rendimiento Neto",
+    "start_char": 7513,
+    "end_char": 7529
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsar:article:37-a:term-usage:0-11",
     "provision_id": "urn:lex-mx:federal:statute:lsar:article:37-a",
     "term_id": "urn:lex-mx:federal:statute:lsar:term:la-comision",
     "span": "La Comisión",
     "start_char": 0,
     "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:37-a:term-usage:861-877",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:37-a",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:rendimiento-neto",
+    "span": "Rendimiento Neto",
+    "start_char": 861,
+    "end_char": 877
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:37-a:term-usage:1348-1364",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:37-a",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:rendimiento-neto",
+    "span": "Rendimiento Neto",
+    "start_char": 1348,
+    "end_char": 1364
   },
   {
     "schema_version": "0.1.0",
@@ -523,6 +577,33 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:74:term-usage:2017-2033",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:rendimiento-neto",
+    "span": "Rendimiento Neto",
+    "start_char": 2017,
+    "end_char": 2033
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:74:term-usage:2165-2183",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:rendimiento-neto",
+    "span": "Rendimientos Netos",
+    "start_char": 2165,
+    "end_char": 2183
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:74:term-usage:2446-2462",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:rendimiento-neto",
+    "span": "Rendimiento Neto",
+    "start_char": 2446,
+    "end_char": 2462
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsar:article:74-bis:term-usage:84-96",
     "provision_id": "urn:lex-mx:federal:statute:lsar:article:74-bis",
     "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
@@ -610,6 +691,24 @@
     "span": "La Comisión",
     "start_char": 756,
     "end_char": 767
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:76:term-usage:238-254",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:76",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:rendimiento-neto",
+    "span": "Rendimiento Neto",
+    "start_char": 238,
+    "end_char": 254
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:76:term-usage:1507-1523",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:76",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:rendimiento-neto",
+    "span": "Rendimiento Neto",
+    "start_char": 1507,
+    "end_char": 1523
   },
   {
     "schema_version": "0.1.0",
@@ -820,6 +919,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:100:term-usage:810-827",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:100",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:cuenta-individual",
+    "span": "Cuenta Individual",
+    "start_char": 810,
+    "end_char": 827
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsar:article:100:term-usage:851-884",
     "provision_id": "urn:lex-mx:federal:statute:lsar:article:100",
     "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
@@ -835,6 +943,15 @@
     "span": "Trabajador",
     "start_char": 903,
     "end_char": 913
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:100:term-usage:943-960",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:100",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:cuenta-individual",
+    "span": "Cuenta Individual",
+    "start_char": 943,
+    "end_char": 960
   },
   {
     "schema_version": "0.1.0",

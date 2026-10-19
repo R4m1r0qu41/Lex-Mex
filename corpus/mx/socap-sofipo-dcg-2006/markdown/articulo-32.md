@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 32
 
-Las Sociedades Financieras Populares, en sus manuales de políticas y procedimientos para el otorgamiento de créditos, deberán establecer mecanismos que les permitan identificar aquellos casos en que las personas con las que hayan celebrado operaciones y que en su momento no hubieran sido consideradas como relacionadas, se ubiquen con posterioridad en alguno de los supuestos previstos por los artículos 35, 35 Bis y 35 Bis 1 de la Ley.
+Las [Sociedades](articulo-1.md) Financieras Populares, en sus manuales de políticas y procedimientos para el otorgamiento de créditos, deberán establecer mecanismos que les permitan identificar aquellos casos en que las personas con las que hayan celebrado operaciones y que en su momento no hubieran sido consideradas como relacionadas, se ubiquen con posterioridad en alguno de los supuestos previstos por los artículos 35, 35 Bis y 35 Bis 1 de la [Ley](articulo-1.md).
 
 Asimismo, en los manuales antes mencionados, las Sociedades Financieras Populares deberán establecer las medidas necesarias para evitar que, en el supuesto señalado en el párrafo anterior, las operaciones nuevas excedan del límite establecido en el séptimo párrafo del artículo 35 Bis de la Ley.
 

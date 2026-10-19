@@ -25,7 +25,7 @@ III. Cliente: a la persona que celebra cualquier operación pasiva, activa o de 
 
 IV. Comisión: a cualquier cargo, independientemente de su denominación o modalidad diferente al Interés, que una Entidad cobre a un [Cliente](articulo-3.md). Tratándose de Entidades Financieras, se considerarán los cargos que se realicen por operaciones pasivas, activas o de servicio, y tratándose de Entidades Comerciales se considerarán los cargos que se efectúen por las operaciones de crédito, préstamos o financiamientos. En todos los casos, se considerarán los cargos por el uso o aceptación de Medios de Disposición; Fracción reformada DOF 25-06-2009
 
-IV Bis. Consorcio: al conjunto de personas morales vinculadas entre sí por una o más personas físicas que integrando un Grupo de Personas, tengan el Control de las primeras; Fracción adicionada DOF 09-03-2018
+IV Bis. Consorcio: al conjunto de personas morales vinculadas entre sí por una o más personas físicas que integrando un [Grupo de Personas](articulo-3.md), tengan el [Control](articulo-3.md) de las primeras; Fracción adicionada DOF 09-03-2018
 
 V. Contrato de Adhesión: al documento elaborado unilateralmente por las Entidades para establecer en formatos uniformes los términos y condiciones aplicables a la celebración de las operaciones que lleven a cabo con sus Clientes. Tratándose de Entidades Financieras, se considerarán las operaciones pasivas, activas o de servicio, y tratándose de Entidades Comerciales, se considerarán las operaciones de crédito, préstamos o financiamientos; Fracción reformada DOF 25-06-2009
 
@@ -35,7 +35,7 @@ V Ter. Crédito al Consumo: a las siguientes operaciones celebradas por las Enti
 
 VI. CAT: al costo anual total de financiamiento expresado en términos porcentuales anuales que, para fines informativos y de comparación, incorpora la totalidad de los costos y gastos inherentes a los créditos, préstamos o financiamientos que otorgan las Entidades;
 
-VII. Cuotas de Intercambio: a las cantidades que las Entidades se cobran o pagan entre sí, directa o indirectamente, por cualquier concepto relacionado con las Redes de Medios de Disposición, incluyendo, sin limitar, la que cobra la Entidad que pone a disposición del Cliente el Medio de Disposición y a la Entidad cuya infraestructura es utilizada en la operación realizada mediante dicho Medio de Disposición y que se regulan conforme al artículo [4 Bis 3](articulo-4-Bis-3.md) de la presente Ley; Fracción reformada DOF 10-01-2014
+VII. Cuotas de Intercambio: a las cantidades que las Entidades se cobran o pagan entre sí, directa o indirectamente, por cualquier concepto relacionado con las [Redes de Medios de Disposición](articulo-3.md), incluyendo, sin limitar, la que cobra la Entidad que pone a disposición del Cliente el Medio de Disposición y a la Entidad cuya infraestructura es utilizada en la operación realizada mediante dicho Medio de Disposición y que se regulan conforme al artículo [4 Bis 3](articulo-4-Bis-3.md) de la presente Ley; Fracción reformada DOF 10-01-2014
 
 VIII. Entidades: a las Entidades Financieras y a las Entidades Comerciales Fracción reformada DOF 25-06-2009
 
@@ -47,7 +47,7 @@ XI. GAT: a la Ganancia Anual Total Neta expresada en términos porcentuales anua
 
 a) Las personas que tengan parentesco por consanguinidad, afinidad o civil hasta el cuarto grado, los cónyuges, la concubina y el concubinario, y
 
-b) Las personas que formen parte de un mismo Consorcio o Grupo Empresarial y las personas o conjunto de personas que tengan el Control de dichas sociedades. Fracción adicionada DOF 09-03-2018
+b) Las personas que formen parte de un mismo [Consorcio](articulo-3.md) o [Grupo Empresarial](articulo-3.md) y las personas o conjunto de personas que tengan el Control de dichas sociedades. Fracción adicionada DOF 09-03-2018
 
 XI Ter. Grupo Empresarial: al conjunto de personas morales organizadas bajo esquemas de participación directa o indirecta del capital social, en las que una misma sociedad mantiene el Control de dichas personas morales, incluyendo a los grupos financieros constituidos conforme a la Ley para Regular las Agrupaciones Financieras; Fracción adicionada DOF 09-03-2018
 

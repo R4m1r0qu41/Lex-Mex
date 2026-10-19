@@ -18,4 +18,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 265 Bis 29
 
-Las Sociedades Financieras Populares estarán obligadas a contar con áreas de soporte técnico y operacional, integradas por personal capacitado, las cuales se encargarán de atender y dar seguimiento a las incidencias que tengan los Usuarios de Servicios Electrónicos, así como a eventos de seguridad relacionados con el uso de Medios Electrónicos.
+Las [Sociedades](articulo-1.md) Financieras Populares estarán obligadas a contar con áreas de soporte técnico y operacional, integradas por personal capacitado, las cuales se encargarán de atender y dar seguimiento a las incidencias que tengan los [Usuarios](articulo-1.md) de [Servicios Electrónicos](articulo-1.md), así como a eventos de seguridad relacionados con el uso de [Medios Electrónicos](articulo-1.md).

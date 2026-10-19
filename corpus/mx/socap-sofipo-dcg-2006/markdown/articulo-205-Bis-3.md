@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 205 Bis 3
 
-La clasificación de las Sociedades Financieras Populares en categorías se llevará a cabo de conformidad con la siguiente matriz: NICAP×FAO < 100% NICAP×FAO ≥ 131% > NICAP×FAO ≥ NICAP < 56% NICAP > 56% 131% 100% CCB ≥ 106% 1 2 106% > CCB ≥ 2 2 3 75% 75% > CCB ≥ 56% 3 3 3 CCB < 56% 4
+La clasificación de las [Sociedades](articulo-1.md) Financieras Populares en categorías se llevará a cabo de conformidad con la siguiente matriz: NICAP×FAO < 100% NICAP×FAO ≥ 131% > NICAP×FAO ≥ NICAP < 56% NICAP > 56% 131% 100% CCB ≥ 106% 1 2 106% > CCB ≥ 2 2 3 75% 75% > CCB ≥ 56% 3 3 3 CCB < 56% 4
 
 Donde:
 

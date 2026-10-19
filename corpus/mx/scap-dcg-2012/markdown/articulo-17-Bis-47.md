@@ -18,7 +18,7 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 17 Bis 47
 
-Las Sociedades responderán en todo momento por el servicio que terceros autorizados por éstas o sus comisionistas, proporcionen a los Socios, aun cuando la realización de las operaciones correspondientes se lleve a cabo en términos distintos a los pactados, así como por el incumplimiento a las disposiciones en que incurran dichos terceros o comisionistas.
+Las Sociedades responderán en todo momento por el servicio que terceros autorizados por éstas o sus comisionistas, proporcionen a los [Socios](articulo-1.md), aun cuando la realización de las operaciones correspondientes se lleve a cabo en términos distintos a los pactados, así como por el incumplimiento a las disposiciones en que incurran dichos terceros o comisionistas.
 
 En caso de incumplimiento por parte de los terceros o comisionistas a las disposiciones aplicables, las Sociedades deberán implementar las medidas correctivas necesarias.
 

@@ -17,7 +17,7 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 249
 
-Los Supervisores Auxiliares llevarán a cabo las funciones de Supervisión Extra-situ utilizando la información enviada por las Sociedades a solicitud de la Comisión y del Comité de Supervisión Auxiliar.
+Los [Supervisores Auxiliares](articulo-1.md) llevarán a cabo las funciones de [Supervisión Extra-situ](articulo-1.md) utilizando la información enviada por las Sociedades a solicitud de la [Comisión](articulo-1.md) y del [Comité de Supervisión Auxiliar](articulo-1.md).
 
 Las labores de seguimiento consistirán en mantener una vigilancia continua de los aspectos más relevantes del desempeño de las Sociedades, con la finalidad de que los Supervisores Auxiliares puedan determinar con oportunidad la existencia de incumplimientos a la regulación aplicable, el uso de prácticas financieras poco sanas, o bien, la presencia de inconsistencias o dificultades financieras.
 

@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:statute:ldsca",
   "source_sha256": "3ae8175ed89c2729e71551aac6ef879dfdd3da40cc03bae6784d61951c2c284d",
   "extracted_text_sha256": "96d10075784cf0576c081ec17e8e56dd45cc95a1a03410e4476ec0ea326e904e",
@@ -34,6 +34,7 @@
         "XXI",
         "XXII"
       ],
+      "unread_fractions": [],
       "term_count": 22
     }
   ],

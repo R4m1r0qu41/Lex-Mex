@@ -18,4 +18,4 @@ source_sha256: 8ac502b97188bd6e795781e9821be6e62ccdd8050cdd3be74aab52a888e67939
 
 # Artículo 126
 
-El director general de la unión de crédito, informará por escrito a la [Comisión](articulo-1.md) dentro de los cinco días hábiles siguientes a la designación y, en su caso, la remoción del responsable de las funciones de Auditoría Interna.
+El director general de la unión de crédito, informará por escrito a la [Comisión](articulo-1.md) dentro de los cinco días hábiles siguientes a la designación y, en su caso, la remoción del responsable de las funciones de [Auditoría Interna](articulo-1.md).

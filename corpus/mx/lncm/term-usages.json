@@ -19,6 +19,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:2:term-usage:2092-2123",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:proteccion-maritima-y-portuaria",
+    "span": "Protección Marítima y Portuaria",
+    "start_char": 2092,
+    "end_char": 2123
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lncm:article:6:term-usage:69-93",
     "provision_id": "urn:lex-mx:federal:statute:lncm:article:6",
     "term_id": "urn:lex-mx:federal:statute:lncm:term:tratados-internacionales",
@@ -79,6 +88,15 @@
     "span": "Marina Mercante",
     "start_char": 1353,
     "end_char": 1368
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:8:term-usage:1687-1718",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:proteccion-maritima-y-portuaria",
+    "span": "Protección Marítima y Portuaria",
+    "start_char": 1687,
+    "end_char": 1718
   },
   {
     "schema_version": "0.1.0",
@@ -151,6 +169,15 @@
     "span": "Marina Mercante",
     "start_char": 1323,
     "end_char": 1338
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:9:term-usage:1405-1410",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:cumar",
+    "span": "CUMAR",
+    "start_char": 1405,
+    "end_char": 1410
   },
   {
     "schema_version": "0.1.0",
@@ -658,12 +685,48 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:46:term-usage:835-866",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:proteccion-maritima-y-portuaria",
+    "span": "Protección Marítima y Portuaria",
+    "start_char": 835,
+    "end_char": 866
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:46:term-usage:905-910",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:cumar",
+    "span": "CUMAR",
+    "start_char": 905,
+    "end_char": 910
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lncm:article:48:term-usage:425-449",
     "provision_id": "urn:lex-mx:federal:statute:lncm:article:48",
     "term_id": "urn:lex-mx:federal:statute:lncm:term:tratados-internacionales",
     "span": "Tratados Internacionales",
     "start_char": 425,
     "end_char": 449
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:49-bis:term-usage:52-57",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:49-bis",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:cumar",
+    "span": "CUMAR",
+    "start_char": 52,
+    "end_char": 57
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:49-bis:term-usage:193-224",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:49-bis",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:proteccion-maritima-y-portuaria",
+    "span": "Protección Marítima y Portuaria",
+    "start_char": 193,
+    "end_char": 224
   },
   {
     "schema_version": "0.1.0",

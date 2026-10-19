@@ -17,7 +17,7 @@ source_sha256: 2e35228bd3100a3a137f313359833c4836f2b4b6d4e52e1ce4fe58a970cd768f
 
 Queda prohibido dar cumplimiento a obligaciones y, en general, liquidar o pagar, así como aceptar la liquidación o el pago, de actos u operaciones mediante el uso de monedas y billetes, en moneda nacional o divisas y [Metales Preciosos](articulo-3.md), aun cuando la liquidación o el pago se realice en efectivo por conducto de una [Entidad Financiera](articulo-3.md), en los supuestos siguientes:
 
-I. Constitución o transmisión de derechos reales sobre bienes inmuebles por un valor igual o superior al equivalente a ocho mil veinticinco veces el valor diario de la UMA, al día en que se realice el pago o se cumpla la obligación;
+I. Constitución o transmisión de derechos reales sobre bienes inmuebles por un valor igual o superior al equivalente a ocho mil veinticinco veces el valor diario de la [UMA](articulo-3.md), al día en que se realice el pago o se cumpla la obligación;
 
 II. Transmisiones de propiedad o constitución de derechos reales sobre vehículos, nuevos o usados, ya sean aéreos, marítimos o terrestres por un valor igual o superior al equivalente a tres mil doscientas diez veces el valor diario de la UMA, al día en que se realice el pago o se cumpla la obligación;
 

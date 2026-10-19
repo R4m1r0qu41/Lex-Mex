@@ -17,7 +17,7 @@ source_sha256: 694325ff5d428da51b8f87c5939c58b1e2e8590bd86f13ade6cd284c932cdfc3
 
 # Artículo 15
 
-Para el cumplimiento de su objeto, el Consejo Consultivo tendrá las siguientes facultades:
+Para el cumplimiento de su objeto, el [Consejo Consultivo](articulo-3.md) tendrá las siguientes facultades:
 
 I. Fungir como órgano de consulta de la [Secretaría](articulo-3.md) respecto del ejercicio de las facultades de la [Dirección](articulo-3.md);
 

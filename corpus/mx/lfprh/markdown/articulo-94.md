@@ -17,7 +17,7 @@ source_sha256: ce45c7c0c4e9099691e6e24bd2456d0b6f71f91ab27eedd5c4f2190b66d47741
 
 # Artículo 94
 
-Únicamente cuando la Reserva del Fondo al inicio del año calendario sea mayor al 3% del Producto Interno Bruto del año previo, el Comité Técnico del Fondo Mexicano del Petróleo podrá recomendar a la Cámara de Diputados, a más tardar el 28 de febrero, la asignación del incremento observado el año anterior en la Reserva del Fondo a los siguientes rubros:
+Únicamente cuando la [Reserva del Fondo](articulo-2.md) al inicio del año calendario sea mayor al 3% del Producto Interno Bruto del año previo, el Comité Técnico del [Fondo Mexicano del Petróleo](articulo-2.md) podrá recomendar a la Cámara de Diputados, a más tardar el 28 de febrero, la asignación del incremento observado el año anterior en la Reserva del Fondo a los siguientes rubros:
 
 I. Hasta por un monto equivalente a 10%, al fondo para el sistema de pensión universal conforme a lo que señale su ley;
 

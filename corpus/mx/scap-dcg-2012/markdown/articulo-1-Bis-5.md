@@ -18,9 +18,9 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 1 Bis 5
 
-Los certificados excedentes o voluntarios suscritos de conformidad con lo previsto por el Artículo 51 de la Ley de Cooperativas, deberán reunir las características siguientes:
+Los certificados excedentes o voluntarios suscritos de conformidad con lo previsto por el Artículo 51 de la [Ley de Cooperativas](articulo-1.md), deberán reunir las características siguientes:
 
-I. Emitirse al amparo de un programa aprobado por la Asamblea General de Socios, en el cual se prevea el importe máximo autorizado de la emisión, así como su duración.
+I. Emitirse al amparo de un programa aprobado por la Asamblea General de [Socios](articulo-1.md), en el cual se prevea el importe máximo autorizado de la emisión, así como su duración.
 
 II. Tendrán el plazo que se determine en la Asamblea General de Socios, por lo que deberán liquidarse a su finalización, a menos que prevean la posibilidad de ser renovados de forma automática y se encuentre vigente el programa al amparo del cual fueron emitidos.
 
@@ -28,7 +28,7 @@ III. Estar numerados y ser del mismo valor.
 
 IV. Contener lo siguiente:
 
-a) La tasa de rendimiento que, en su caso, pagarán dichos certificados al cierre del ejercicio, la cual no podrá ser superior al 150% del CCP de la fecha de emisión.
+a) La tasa de rendimiento que, en su caso, pagarán dichos certificados al cierre del ejercicio, la cual no podrá ser superior al 150% del [CCP](articulo-1.md) de la fecha de emisión.
 
 De conformidad con lo previsto por el Artículo 51 de la Ley de Cooperativas, la tasa de interés a que se refiere el párrafo anterior únicamente se pagará si la Sociedad tuviere remanente en el ejercicio correspondiente.
 

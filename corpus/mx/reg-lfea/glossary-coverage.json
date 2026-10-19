@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lfea",
   "source_sha256": "910ba43ef1ae54b3b12fe325f65c81056191fde641c52a10ba709f0f1a39021f",
   "extracted_text_sha256": "57f898641169850a6b5af16c485dc2924b4b7294ca1d65dfe4e473504ef216e0",
@@ -14,6 +14,7 @@
         "I",
         "II"
       ],
+      "unread_fractions": [],
       "term_count": 2
     }
   ],

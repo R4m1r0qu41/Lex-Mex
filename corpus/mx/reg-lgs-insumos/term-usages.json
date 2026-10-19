@@ -622,6 +622,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:24-bis:term-usage:613-645",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:24-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:term:denominacion-comun-internacional",
+    "span": "Denominación Común Internacional",
+    "start_char": 613,
+    "end_char": 645
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:26:term-usage:464-469",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:26",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:term:normas",
@@ -664,6 +673,15 @@
     "span": "Denominación Genérica",
     "start_char": 149,
     "end_char": 170
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:31:term-usage:318-350",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:31",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:term:denominacion-comun-internacional",
+    "span": "Denominación Común Internacional",
+    "start_char": 318,
+    "end_char": 350
   },
   {
     "schema_version": "0.1.0",
@@ -1123,6 +1141,15 @@
     "span": "Secretaría",
     "start_char": 1511,
     "end_char": 1521
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:81-bis:term-usage:268-300",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:81-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:term:denominacion-comun-internacional",
+    "span": "Denominación Común Internacional",
+    "start_char": 268,
+    "end_char": 300
   },
   {
     "schema_version": "0.1.0",
@@ -3031,6 +3058,15 @@
     "span": "Normas",
     "start_char": 1078,
     "end_char": 1084
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:177:term-usage:1080-1112",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:177",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:term:denominacion-comun-internacional",
+    "span": "Denominación Común Internacional",
+    "start_char": 1080,
+    "end_char": 1112
   },
   {
     "schema_version": "0.1.0",

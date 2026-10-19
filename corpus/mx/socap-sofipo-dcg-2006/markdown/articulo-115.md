@@ -18,9 +18,9 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 115
 
-El Director o Gerente General deberá proponer al Consejo de Administración, lo siguiente:
+El [Director o Gerente General](articulo-1.md) deberá proponer al [Consejo de Administración](articulo-1.md), lo siguiente:
 
-I. La designación de la persona que será responsable de la administración de riesgos de la Sociedad Financiera Popular, garantizando la independencia de dicha persona respecto de las áreas de negocios;
+I. La designación de la persona que será responsable de la administración de riesgos de la [Sociedad](articulo-1.md) Financiera Popular, garantizando la independencia de dicha persona respecto de las áreas de negocios;
 
 II. El manual de políticas y procedimientos para la administración de riesgos así como sus modificaciones;
 

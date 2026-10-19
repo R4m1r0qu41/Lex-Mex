@@ -17,6 +17,6 @@ source_sha256: c78882a0177403ee04cd38dd09fa1657dc221b7f6827ddacf251c699ede867e4
 
 # Artículo 71
 
-La vigilancia interna en los aeródromos civiles es responsabilidad de la concesionaria, asignataria, operadora aeroportuaria o permisionaria y se prestará conforme a las disposiciones legales aplicables en la materia y a los lineamientos que al efecto establezca la Agencia Federal de Aviación Civil, la cual contará con un cuerpo encargado de verificar que la seguridad y vigilancia se lleve a cabo conforme a las disposiciones aplicables. Párrafo reformado DOF 03-05-2023
+La vigilancia interna en los aeródromos civiles es responsabilidad de la concesionaria, asignataria, operadora aeroportuaria o permisionaria y se prestará conforme a las disposiciones legales aplicables en la materia y a los lineamientos que al efecto establezca la [Agencia Federal de Aviación Civil](articulo-2.md), la cual contará con un cuerpo encargado de verificar que la seguridad y vigilancia se lleve a cabo conforme a las disposiciones aplicables. Párrafo reformado DOF 03-05-2023
 
 En situaciones de emergencia o cuando se ponga en peligro la paz interior o la seguridad nacional, las autoridades federales competentes prestarán en forma directa la vigilancia para preservar la seguridad de las aeronaves, pasajeros, carga, correo, instalaciones y equipo.

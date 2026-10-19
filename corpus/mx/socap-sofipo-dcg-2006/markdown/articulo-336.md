@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 336
 
-En términos de lo señalado por el artículo 46 Bis de la Ley, los Organismos de Integración Financiera Rural, se sujetarán en lo que no se oponga a su naturaleza jurídica y a lo dispuesto por la propia ley, a las disposiciones emitidas por la Comisión, que deben observar las Sociedades Financieras Populares que a continuación se relacionan:
+En términos de lo señalado por el artículo 46 Bis de la [Ley](articulo-1.md), los Organismos de Integración Financiera Rural, se sujetarán en lo que no se oponga a su naturaleza jurídica y a lo dispuesto por la propia ley, a las disposiciones emitidas por la Comisión, que deben observar las [Sociedades](articulo-1.md) Financieras Populares que a continuación se relacionan:
 
 I. El Título Primero de las presentes disposiciones.
 

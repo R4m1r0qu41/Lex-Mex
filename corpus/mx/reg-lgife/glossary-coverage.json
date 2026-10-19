@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lgife",
   "source_sha256": "05cf69d4709df7bb3340fe016a25a1ca29e6c82555d12f5a22b91c723f85b9d8",
   "extracted_text_sha256": "e26a136d26c2a90b9bf8dd623594bf9be161cb18b265681de167014dd2d50d47",
@@ -30,6 +30,7 @@
         "XVII",
         "XVIII"
       ],
+      "unread_fractions": [],
       "term_count": 18
     }
   ],

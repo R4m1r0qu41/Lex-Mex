@@ -17,4 +17,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 175
 
-Los resultados de la auditoría se asentarán en un informe que contendrá, en su caso, recomendaciones para solucionar las irregularidades observadas. Dicho informe se presentará al Consejo de Administración, al comité de riesgos y al Director o Gerente General.
+Los resultados de la auditoría se asentarán en un informe que contendrá, en su caso, recomendaciones para solucionar las irregularidades observadas. Dicho informe se presentará al [Consejo de Administración](articulo-1.md), al comité de riesgos y al [Director o Gerente General](articulo-1.md).

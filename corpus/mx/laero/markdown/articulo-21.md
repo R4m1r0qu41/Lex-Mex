@@ -17,7 +17,7 @@ source_sha256: c78882a0177403ee04cd38dd09fa1657dc221b7f6827ddacf251c699ede867e4
 
 # Artículo 21
 
-La [Secretaría](articulo-2.md), para otorgar concesiones, y la Agencia Federal de Aviación Civil, para otorgar los permisos previstos en esta Ley, deben contar previamente con la opinión técnica de la comisión intersecretarial sobre las propuestas que le presenten éstas, según corresponda.
+La [Secretaría](articulo-2.md), para otorgar concesiones, y la [Agencia Federal de Aviación Civil](articulo-2.md), para otorgar los permisos previstos en esta Ley, deben contar previamente con la opinión técnica de la comisión intersecretarial sobre las propuestas que le presenten éstas, según corresponda.
 
 La propuesta debe referirse a criterios de capacidad jurídica, administrativa y financiera de las posibles personas concesionarias o permisionarias.
 

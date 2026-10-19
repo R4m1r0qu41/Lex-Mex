@@ -17,6 +17,6 @@ source_sha256: c78882a0177403ee04cd38dd09fa1657dc221b7f6827ddacf251c699ede867e4
 
 # Artículo 66
 
-Para atender necesidades derivadas de caso fortuito o fuerza mayor, la [Secretaría](articulo-2.md) está facultada para imponer modalidades a la operación de los aeródromos civiles. En relación con la prestación de los servicios, la Agencia Federal de Aviación Civil determinará lo correspondiente en el tiempo y proporción estrictamente necesarios.
+Para atender necesidades derivadas de caso fortuito o fuerza mayor, la [Secretaría](articulo-2.md) está facultada para imponer modalidades a la operación de los aeródromos civiles. En relación con la prestación de los servicios, la [Agencia Federal de Aviación Civil](articulo-2.md) determinará lo correspondiente en el tiempo y proporción estrictamente necesarios.
 
 Artículo reformado DOF 03-05-2023

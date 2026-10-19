@@ -17,9 +17,9 @@ source_sha256: 1d398a90955ef45ccb7baf4d56534c676cde8325e8b109c4d32120909e783694
 
 # Artículo 3
 
-La Secretaría, a través de la Subsecretaría de Normatividad de Medios, llevará a cabo la Vigilancia y Monitoreo permanente y, en su caso, dará aviso inmediato a la Fiscalía de aquellas difusiones de Anuncios Clasificados que se presuman como Publicidad ilícita o Publicidad engañosa, en términos de la Ley y del presente Reglamento.
+La Secretaría, a través de la Subsecretaría de Normatividad de Medios, llevará a cabo la Vigilancia y Monitoreo permanente y, en su caso, dará aviso inmediato a la [Fiscalía](articulo-2.md) de aquellas difusiones de Anuncios Clasificados que se presuman como Publicidad ilícita o Publicidad engañosa, en términos de la Ley y del presente Reglamento.
 
-La Vigilancia y Monitoreo permanente se hará de conformidad con los Lineamientos que para tales efectos se emitan.
+La Vigilancia y Monitoreo permanente se hará de conformidad con los [Lineamientos](articulo-2.md) que para tales efectos se emitan.
 
 La Procuraduría podrá supervisar lugares en los que se presuma la comisión de los delitos previstos en la Ley.
 

@@ -139,6 +139,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "fraction": "XIV",
     "start_char": 2949,
+    "end_char": 3139,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgvs:term:ejemplares-o-poblaciones-ferales",
+    "term": "Ejemplares o poblaciones ferales",
+    "instrument_id": "urn:lex-mx:federal:statute:lgvs",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
+    "fraction": "XV",
+    "start_char": 3139,
     "end_char": 3360,
     "basis": "express_definition"
   },
@@ -249,6 +260,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "fraction": "XXV",
     "start_char": 6065,
+    "end_char": 6227,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgvs:term:maltrato",
+    "term": "Maltrato",
+    "instrument_id": "urn:lex-mx:federal:statute:lgvs",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
+    "fraction": "XXVI",
+    "start_char": 6227,
     "end_char": 6592,
     "basis": "express_definition"
   },

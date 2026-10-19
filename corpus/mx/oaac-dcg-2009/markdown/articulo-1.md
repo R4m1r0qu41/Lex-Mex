@@ -28,7 +28,7 @@ I. Actividad Crediticia: a la colocación de recursos de la unión de crédito e
 
 III. Auditor Externo Independiente: al contador público o licenciado en contaduría pública que cumpla con las características y requisitos contenidos en las “Disposiciones de carácter general aplicables a las entidades y emisoras supervisadas por la [Comisión](articulo-1.md) Nacional Bancaria y de [Valores](articulo-1.md) que contraten servicios de auditoría externa de estados financieros básicos” y sus modificaciones.
 
-IV. Auditoría Interna, a la función que realizarán las uniones de crédito a través de un área o funcionario independiente del Director General, encargado de revisar periódica y sistemáticamente, acorde con el programa anual de trabajo, el funcionamiento del Sistema de [Control](articulo-1.md) Interno, en apego a lo establecido por los Artículos [121](articulo-121.md) y [122](articulo-122.md) de las presentes disposiciones.
+IV. Auditoría Interna, a la función que realizarán las uniones de crédito a través de un área o funcionario independiente del Director General, encargado de revisar periódica y sistemáticamente, acorde con el programa anual de trabajo, el funcionamiento del [Sistema de Control Interno](articulo-1.md), en apego a lo establecido por los Artículos [121](articulo-121.md) y [122](articulo-122.md) de las presentes disposiciones.
 
 (94) 18
 
@@ -78,13 +78,13 @@ XXI. Empresas de Servicios Genéricas: a aquellas personas morales en cuyo capit
 
 XXII. Entidad Financiera: en singular o plural, a cualquier almacén general de depósito, casa de cambio y unión de crédito, en su conjunto.
 
-XXIII. Esquema de Cobertura de Primeras Pérdidas, al esquema contractual, bajo la figura de garantía o de seguro de crédito, a través del cual el beneficiario o acreditante mitiga la pérdida derivada del incumplimiento por la falta de pago de uno o varios acreditados, al recibir, por parte del Proveedor de Protección, un porcentaje del saldo del crédito de que se trate, a fin de cubrir con un monto limitado las primeras pérdidas derivadas del crédito o de un portafolios de créditos, una vez que se actualicen los términos y condiciones pactados para el reclamo de la garantía o del seguro.
+XXIII. Esquema de Cobertura de Primeras Pérdidas, al esquema contractual, bajo la figura de garantía o de seguro de crédito, a través del cual el beneficiario o acreditante mitiga la pérdida derivada del incumplimiento por la falta de pago de uno o varios acreditados, al recibir, por parte del [Proveedor de Protección](articulo-1.md), un porcentaje del saldo del crédito de que se trate, a fin de cubrir con un monto limitado las primeras pérdidas derivadas del crédito o de un portafolios de créditos, una vez que se actualicen los términos y condiciones pactados para el reclamo de la garantía o del seguro.
 
 XXIII Bis. Esquema de Cobertura en Paso y Medida (Pari-Passu), al esquema contractual, bajo la figura de garantía o de seguro de crédito, a través del cual el beneficiario o acreditante mitiga la pérdida derivada del incumplimiento por la falta de pago de un acreditado o un grupo de ellos, al recibir por parte del Proveedor de Protección un porcentaje del saldo del crédito o de un portafolios de créditos, con el fin de cubrir en la proporción convenida, las pérdidas derivadas del crédito.
 
 (94) 19
 
-XXIV. Fideicomiso de Contragarantía: a los fideicomisos constituidos por instituciones de banca de desarrollo, cuyas actividades se limitan a garantizar, total o parcialmente a través del Esquema de Cobertura de Primeras Pérdidas, las garantías otorgadas por dichas instituciones o sus fideicomisos a uniones de crédito o entidades financieras y que cumplen con las condiciones siguientes:
+XXIV. Fideicomiso de Contragarantía: a los fideicomisos constituidos por instituciones de banca de desarrollo, cuyas actividades se limitan a garantizar, total o parcialmente a través del [Esquema de Cobertura de Primeras Pérdidas](articulo-1.md), las garantías otorgadas por dichas instituciones o sus fideicomisos a uniones de crédito o entidades financieras y que cumplen con las condiciones siguientes:
 
 a) La institución de banca de desarrollo que lo constituye debe fungir como fiduciaria y como uno de los fideicomitentes, o bien, como fideicomitente único.
 
@@ -106,7 +106,7 @@ XXV. Financiamiento: a todo acto o contrato que implique la realización de una 
 
 Las operaciones financieras derivadas concertadas por las uniones de crédito en mercados reconocidos por las autoridades financieras del país, cuyo cumplimiento corresponda a una contraparte central, quedarán excluidos de lo señalado en el párrafo anterior.
 
-(106) Asimismo, las inversiones en títulos bancarios realizadas por las uniones de crédito en instituciones de crédito, así como las inversiones en valores de sociedades de inversión en instrumentos de deuda, no se computarán para el límite máximo de Financiamiento cuando el emisor del instrumento financiero o el propio instrumento cuente con una calificación igual o superior a 'AA-' en escala local o su equivalente en escala global, otorgada por una Institución Calificadora de Valores. Las uniones deberán establecer en sus manuales, la forma en que elegirán la calificación de las inversiones realizadas a que se refiere este párrafo, cuando se cuente con calificación del emisor y del instrumento.
+(106) Asimismo, las inversiones en títulos bancarios realizadas por las uniones de crédito en instituciones de crédito, así como las inversiones en valores de sociedades de inversión en instrumentos de deuda, no se computarán para el límite máximo de Financiamiento cuando el emisor del instrumento financiero o el propio instrumento cuente con una calificación igual o superior a 'AA-' en escala local o su equivalente en escala global, otorgada por una [Institución Calificadora](articulo-1.md) de Valores. Las uniones deberán establecer en sus manuales, la forma en que elegirán la calificación de las inversiones realizadas a que se refiere este párrafo, cuando se cuente con calificación del emisor y del instrumento.
 
 Adicionalmente, las inversiones en Valores Gubernamentales realizadas por las Uniones de (106)
 
@@ -210,7 +210,7 @@ XLVIII. Servicios Complementarios o Auxiliares: a los que prestan las Empresas d
 
 (94) 23
 
-XLIX. Sistema de Control Interno, al conjunto de objetivos y lineamientos necesarios para su implementación, que establezcan las uniones de crédito con el propósito de:
+XLIX. Sistema de [Control](articulo-1.md) Interno, al conjunto de objetivos y lineamientos necesarios para su implementación, que establezcan las uniones de crédito con el propósito de:
 
 a) Procurar que los mecanismos de operación sean acordes con las estrategias y fines de las uniones de crédito, que permitan prever, identificar, administrar, dar seguimiento y evaluar los riesgos que puedan derivarse del desarrollo de su objeto social, con el propósito de minimizar las posibles pérdidas en que puedan incurrir.
 

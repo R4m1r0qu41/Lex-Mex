@@ -21,7 +21,7 @@ Dichos Avisos contendrán respecto del acto u operación relacionados con la Act
 
 I. Datos generales de quien realice la Actividad Vulnerable;
 
-II. Datos generales de la persona Cliente o Usuaria y, en su caso, de la persona [Beneficiario Controlador](articulo-3.md), así como la información sobre su actividad u ocupación de conformidad con el artículo [18](articulo-18.md) fracción II de esta [Ley](articulo-3.md), y Fracción reformada DOF 16-07-2025
+II. Datos generales de la persona [Cliente o Usuaria](articulo-3.md) y, en su caso, de la persona [Beneficiario Controlador](articulo-3.md), así como la información sobre su actividad u ocupación de conformidad con el artículo [18](articulo-18.md) fracción II de esta [Ley](articulo-3.md), y Fracción reformada DOF 16-07-2025
 
 III. Descripción general de la Actividad Vulnerable sobre la cual se dé Aviso.
 

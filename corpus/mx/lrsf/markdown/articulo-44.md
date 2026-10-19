@@ -17,7 +17,7 @@ source_sha256: 02fe2afc021cdf42249b2003da14bf738f24157375ffc0b420e1e7d7a5c20fd5
 
 # Artículo 44
 
-Los permisos que en los términos de esta Ley otorgue la [Agencia](articulo-2.md) para la prestación de Servicios Auxiliares, serán los siguientes: Párrafo reformado DOF 16-07-2025
+Los permisos que en los términos de esta Ley otorgue la [Agencia](articulo-2.md) para la prestación de [Servicios Auxiliares](articulo-2.md), serán los siguientes: Párrafo reformado DOF 16-07-2025
 
 I. Terminales de pasajeros;
 

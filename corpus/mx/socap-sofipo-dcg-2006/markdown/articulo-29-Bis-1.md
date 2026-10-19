@@ -18,6 +18,6 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 29 Bis 1
 
-Las Sociedades Financieras Populares deberán contar con procesos que evalúen la efectividad de la resolución de Reclamaciones Monetarias. Asimismo, deberán garantizar la transparencia en dichos procesos para lo cual deberán ajustarse a lo señalado en el Anexo S Bis 1 de las presentes disposiciones.
+Las [Sociedades](articulo-1.md) Financieras Populares deberán contar con procesos que evalúen la efectividad de la resolución de Reclamaciones Monetarias. Asimismo, deberán garantizar la transparencia en dichos procesos para lo cual deberán ajustarse a lo señalado en el Anexo S Bis 1 de las presentes disposiciones.
 
 TITULO CUARTO Del funcionamiento de las Sociedades Financieras Populares

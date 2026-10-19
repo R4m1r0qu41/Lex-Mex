@@ -27,9 +27,9 @@ Los calendarios de presupuesto deberán comunicarse por la Secretaría a las dep
 
 Los calendarios a que se refiere el párrafo anterior deberán ser en términos mensuales.
 
-La Secretaría deberá elaborar los calendarios de presupuesto, en términos mensuales, de los Anexos Transversales a que se refiere el artículo [41](articulo-41.md), fracción II, incisos j), o), p), q), r), s), t), u), v) y w) de esta Ley y deberá publicarlos en el Diario Oficial de la Federación a más tardar 15 días hábiles posteriores a la publicación del Presupuesto en el propio Diario Oficial de la Federación. Párrafo adicionado DOF 19-01-2012. Reformado DOF 24-01-2014, 13-11-2023
+La Secretaría deberá elaborar los calendarios de presupuesto, en términos mensuales, de los [Anexos Transversales](articulo-2.md) a que se refiere el artículo [41](articulo-41.md), fracción II, incisos j), o), p), q), r), s), t), u), v) y w) de esta Ley y deberá publicarlos en el Diario Oficial de la Federación a más tardar 15 días hábiles posteriores a la publicación del Presupuesto en el propio Diario Oficial de la Federación. Párrafo adicionado DOF 19-01-2012. Reformado DOF 24-01-2014, 13-11-2023
 
-También se publicará en el Diario Oficial de la Federación el calendario mensual de ingresos derivado de la Ley de Ingresos de la Federación, 15 días hábiles después de la publicación de dicha Ley. La Secretaría deberá entregar a la Cámara de Diputados, la metodología y criterios que hubiese utilizado para la estimación de los ingresos, misma que deberá ser incluida en la citada publicación. Párrafo reformado DOF 24-01-2014
+También se publicará en el Diario Oficial de la Federación el calendario mensual de ingresos derivado de la [Ley de Ingresos](articulo-2.md) de la Federación, 15 días hábiles después de la publicación de dicha Ley. La Secretaría deberá entregar a la Cámara de Diputados, la metodología y criterios que hubiese utilizado para la estimación de los ingresos, misma que deberá ser incluida en la citada publicación. Párrafo reformado DOF 24-01-2014
 
 La Secretaría cumplirá estrictamente los calendarios de presupuesto autorizados a las dependencias en los términos de las disposiciones aplicables e informará al respecto en los informes trimestrales, por dependencia o entidad, por unidad responsable y por programa.
 

@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 24
 
-Las Sociedades Financieras Populares, en la contratación de las operaciones pasivas señaladas por el artículo [23](articulo-23.md) anterior, habrán de sujetarse a las disposiciones que resulten aplicables, así como a los términos y condiciones siguientes:
+Las [Sociedades](articulo-1.md) Financieras Populares, en la contratación de las operaciones pasivas señaladas por el artículo [23](articulo-23.md) anterior, habrán de sujetarse a las disposiciones que resulten aplicables, así como a los términos y condiciones siguientes:
 
 I. Depósitos a la vista.
 
@@ -70,7 +70,7 @@ Al efecto, será necesaria la presentación de una tarjeta de plástico específ
 
 4. Mediante órdenes de traspaso a la tarjeta del propio depositante, exclusivamente para cubrir saldos a su cargo.
 
-La adquisición de bienes y servicios, así como los retiros en los negocios afiliados a la tarjeta que corresponda a este tipo de depósitos, se harán en los términos previstos por la fracción V del artículo [25](articulo-25.md). El importe de los documentos con que se formalicen estas operaciones deberá cargarse a la cuenta del depositante el mismo día en que, a su vez, la Sociedad Financiera Popular los cubra a establecimientos afiliados, siempre y cuando las Sociedades Financieras Populares cuenten con la autorización del Cliente de que se trate y que el mismo autorice directamente al proveedor de bienes o servicios y éste a su vez instruya a la Sociedad Financiera Popular para realizar el cargo respectivo, en los términos previstos en el artículo 36 Bis de la Ley.
+La adquisición de bienes y servicios, así como los retiros en los negocios afiliados a la tarjeta que corresponda a este tipo de depósitos, se harán en los términos previstos por la fracción V del artículo [25](articulo-25.md). El importe de los documentos con que se formalicen estas operaciones deberá cargarse a la cuenta del depositante el mismo día en que, a su vez, la Sociedad Financiera Popular los cubra a establecimientos afiliados, siempre y cuando las Sociedades Financieras Populares cuenten con la autorización del Cliente de que se trate y que el mismo autorice directamente al proveedor de bienes o servicios y éste a su vez instruya a la Sociedad Financiera Popular para realizar el cargo respectivo, en los términos previstos en el artículo 36 Bis de la [Ley](articulo-1.md).
 
 d) Créditos a cuentahabientes de tarjetas de débito.
 
@@ -354,7 +354,7 @@ Las obligaciones en ningún caso podrán adquirirse por:
 
 1. Las entidades financieras de cualquier tipo, cuando actúen por cuenta propia. Se exceptúa de esta prohibición a las entidades financieras siguientes: i) sociedades de inversión en instrumentos de deuda y comunes, así como en sociedades de inversión especializadas en fondos para el retiro, ii) casas de bolsa que adquieran las obligaciones para su posterior colocación en el público inversionista, y iii) instituciones y sociedades mutualistas de seguros e instituciones de fianzas, únicamente cuando adquieran las referidas obligaciones como objeto de inversión de sus reservas técnicas y para fluctuaciones de valores.
 
-2. Las sociedades nacionales o extranjeras en las cuales la Sociedad Financiera Popular emisora: sea propietaria de acciones con derecho a voto, que representen por lo menos el cincuenta y uno por ciento del capital pagado; tenga el control de las asambleas generales de accionistas, o esté en posibilidad de nombrar a la mayoría de los miembros del Consejo de Administración.
+2. Las sociedades nacionales o extranjeras en las cuales la Sociedad Financiera Popular emisora: sea propietaria de acciones con derecho a voto, que representen por lo menos el cincuenta y uno por ciento del capital pagado; tenga el control de las asambleas generales de accionistas, o esté en posibilidad de nombrar a la mayoría de los miembros del [Consejo de Administración](articulo-1.md).
 
 b) Prohibiciones.
 

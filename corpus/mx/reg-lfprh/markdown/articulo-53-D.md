@@ -17,7 +17,7 @@ source_sha256: 030ed4c6e3950adecfd4c6376b31d216dc4d876d90b21190c982bccac0b03d7a
 
 # Artículo 53-D
 
-Las dependencias o entidades, sin necesidad de presentar una nueva Evaluación costo y beneficio, podrán modificar el calendario de inversión de los proyectos de inversión en infraestructura autorizados para un determinado ejercicio fiscal, así como cualquier otra modificación que no implique un cambio de alcance al proyecto autorizado, una adecuación presupuestaria externa o un subejercicio de gasto, de conformidad con las disposiciones aplicables. Párrafo reformado DOF 08-08-2025
+Las dependencias o entidades, sin necesidad de presentar una nueva [Evaluación costo y beneficio](articulo-2.md), podrán modificar el calendario de inversión de los proyectos de inversión en infraestructura autorizados para un determinado ejercicio fiscal, así como cualquier otra modificación que no implique un cambio de alcance al proyecto autorizado, una adecuación presupuestaria externa o un subejercicio de gasto, de conformidad con las disposiciones aplicables. Párrafo reformado DOF 08-08-2025
 
 Lo anterior, a través del sistema del proceso integral de programación y presupuesto.
 

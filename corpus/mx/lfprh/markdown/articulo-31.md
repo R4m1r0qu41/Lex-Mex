@@ -33,4 +33,4 @@ b) Un factor de 84%.
 
 El [Reglamento](articulo-2.md) establecerá los casos y procedimientos en los que podrán utilizarse los precios de otras mezclas de crudo, en lugar de las previstas en las fracciones I, inciso b) y II inciso a) de este artículo, tomando en consideración la opinión de expertos en la materia, siempre y cuando dichas mezclas coticen en los mercados de futuros que sean reconocidos en términos de la Ley del Mercado de Valores. Párrafo adicionado DOF 24-01-2014
 
-El Ejecutivo Federal, por conducto de la [Secretaría](articulo-2.md), elaborará la iniciativa de Ley de Ingresos para el ejercicio fiscal correspondiente, con un precio que no exceda el precio de referencia que se prevé en este artículo.
+El Ejecutivo Federal, por conducto de la [Secretaría](articulo-2.md), elaborará la iniciativa de [Ley de Ingresos](articulo-2.md) para el ejercicio fiscal correspondiente, con un precio que no exceda el precio de referencia que se prevé en este artículo.

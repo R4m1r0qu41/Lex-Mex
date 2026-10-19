@@ -29,7 +29,7 @@ IV. Llevar un registro actualizado de los solicitantes y refugiados;
 
 V. Orientar a los solicitantes y refugiados que se encuentren en territorio nacional sobre sus derechos y obligaciones;
 
-VI. Formular, coordinar, dar seguimiento y evaluar los programas sobre refugiados con Perspectiva Intercultural; Fracción reformada DOF 18-02-2022
+VI. Formular, coordinar, dar seguimiento y evaluar los programas sobre refugiados con [Perspectiva Intercultural](articulo-2.md); Fracción reformada DOF 18-02-2022
 
 VII. Establecer y difundir criterios que deban considerarse en la atención a solicitantes y refugiados;
 

@@ -18,6 +18,6 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 273
 
-Los Organismos de Integración deberán entregar a la Comisión el Registro, a través del SITI de acuerdo con el formato que integra el Anexo H de las presentes disposiciones.
+Los Organismos de Integración deberán entregar a la Comisión el [Registro](articulo-1.md), a través del [SITI](articulo-1.md) de acuerdo con el formato que integra el Anexo H de las presentes disposiciones.
 
 Para tales efectos, las claves de usuario, y contraseñas necesarias para el acceso a este Sistema, deberán ser solicitadas a la propia Comisión, quien instruirá a los Organismos de Integración en su correcta operación.

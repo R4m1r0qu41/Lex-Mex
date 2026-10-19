@@ -18,9 +18,9 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 210
 
-Las Sociedades Financieras Populares se ajustarán a los criterios de contabilidad a que se refieren las disposiciones del presente capítulo.
+Las [Sociedades](articulo-1.md) Financieras Populares se ajustarán a los criterios de contabilidad a que se refieren las disposiciones del presente capítulo.
 
-21 El Capítulo IV Bis 3 que comprende las secciones Primera, con los artículos 209 Bis 13 al 209 Bis 17; Segunda con los artículos 209 Bis 18 y 209 Bis 19; Tercera con los artículos 209 Bis 20 a 209 Bis 23; Cuarta con los artículos 209 Bis 24 y 209 Bis 25, se adiciona mediante Resolución publicada en el Diario Oficial de la Federación el 3 de julio de 2026, misma que entrarán en vigor el 1 de enero de 2028.
+21 El Capítulo IV Bis 3 que comprende las secciones Primera, con los artículos 209 Bis 13 al 209 Bis 17; Segunda con los artículos 209 Bis 18 y 209 Bis 19; Tercera con los artículos 209 Bis 20 a 209 Bis 23; Cuarta con los artículos 209 Bis 24 y 209 Bis 25, se adiciona mediante Resolución publicada en el Diario Oficial de la [Federación](articulo-1.md) el 3 de julio de 2026, misma que entrarán en vigor el 1 de enero de 2028.
 
 Salvo que se especifique lo contrario, los términos definidos en el artículo [1](articulo-1.md) de las presentes disposiciones no son aplicables al presente capítulo ni al Anexo E de estas disposiciones. Asimismo, los términos definidos en el Anexo E no son aplicables al resto de las presentes disposiciones.
 

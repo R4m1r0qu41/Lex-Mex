@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:statute:lfvv",
   "source_sha256": "9ed842aa48bd26aee06dc45bbdbd65efcb32343c78040a5a5d091275bec38343",
   "extracted_text_sha256": "1ee883b24034a6a766f0f5d32fc5ace1ab2bba1f8d45299bf3ade2768cc37d3a",
@@ -23,7 +23,7 @@
       ],
       "repeal_placeholders": [],
       "profile": {
-        "strategy_version": "glossary-extraction-1",
+        "strategy_version": "glossary-extraction-2",
         "provision_text_sha256": "c04e2eaff2ab5431f8c54ad7ed4199aad2bc88a8ad1bb7c77692da3ad759275b",
         "rationale": "Fraction VII writes its term before a semicolon (`Secretaría; La Secretaría…`) where every other fraction uses a colon.",
         "evidence": "docs/decisions.md (2026-10-19, glossary exception profiles, batch 1)",

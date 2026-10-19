@@ -29,7 +29,7 @@ V. Requerir los certificados e inspeccionar a cualquier embarcación, de conform
 
 VI. Certificar las singladuras, expedir las libretas de mar e identidad marítima del personal embarcado de la [Marina Mercante](articulo-2.md) mexicana;
 
-VII. Ordenar las medidas que le sean requeridas por el CUMAR, conforme a lo dispuesto en la Ley de Puertos;
+VII. Ordenar las medidas que le sean requeridas por el [CUMAR](articulo-2.md), conforme a lo dispuesto en la Ley de Puertos;
 
 VIII. Recibir y tramitar ante las autoridades correspondientes las reclamaciones laborales de los tripulantes y los trabajadores de las embarcaciones, en el término establecido en la fracción II del artículo [34](articulo-34.md) de esta Ley; Fracción reformada DOF 07-12-2020
 

@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 190
 
-Las Sociedades Financieras Populares deberán implementar un código de ética formal, aprobado por el Consejo de Administración, en el cual se establezcan reglas apropiadas y prudentes que gobiernen la conducta y el comportamiento adecuado de sus Consejeros, Miembros del Consejo de Vigilancia o Comisario, funcionarios y empleados, en su interacción con los clientes y al interior de la propia Sociedad Financiera Popular. El Código de Ética debe contemplar, como mínimo, los aspectos siguientes:
+Las [Sociedades](articulo-1.md) Financieras Populares deberán implementar un código de ética formal, aprobado por el [Consejo de Administración](articulo-1.md), en el cual se establezcan reglas apropiadas y prudentes que gobiernen la conducta y el comportamiento adecuado de sus [Consejeros](articulo-1.md), [Miembros del Consejo de Vigilancia o Comisario](articulo-1.md), funcionarios y empleados, en su interacción con los clientes y al interior de la propia Sociedad Financiera Popular. El Código de Ética debe contemplar, como mínimo, los aspectos siguientes:
 
 I. Guardar consistencia con la legislación aplicable, incluyendo las diferentes regulaciones, y disposiciones reglamentarias conducentes, y
 

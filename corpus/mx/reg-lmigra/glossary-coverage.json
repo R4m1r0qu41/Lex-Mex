@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
   "source_sha256": "2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c",
   "extracted_text_sha256": "b0e3857e2ad0f2e764613a1a41ef14d7e2642f039ed9fd9a201f439356c03563",
@@ -38,6 +38,7 @@
         "XXV",
         "XXVI"
       ],
+      "unread_fractions": [],
       "term_count": 26
     }
   ],

@@ -19,7 +19,7 @@ source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 
 Desde el reconocimiento de un Procedimiento Extranjero, de ser necesario para proteger los bienes del [Comerciante](articulo-4o.md) o los intereses de los acreedores, el Representante Extranjero podrá instar al visitador, al conciliador o al síndico, para que soliciten al juez toda medida apropiada, incluidas las siguientes:
 
-I. Suspender toda medida de ejecución contra los bienes del Comerciante, en cuanto no se haya paralizado con arreglo a la fracción I del primer párrafo del artículo [298](articulo-298.md) de esta Ley;
+I. Suspender toda medida de ejecución contra los bienes del Comerciante, en cuanto no se haya paralizado con arreglo a la fracción I del primer párrafo del artículo [298](articulo-298.md) de esta [Ley](articulo-4o.md);
 
 II. Suspender el ejercicio del derecho a transmitir o gravar los bienes del Comerciante, así como a disponer de esos bienes de algún otro modo, en cuanto no se haya suspendido ese derecho con arreglo al anterior artículo [299](articulo-299.md);
 

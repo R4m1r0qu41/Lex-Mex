@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 42 Bis 2
 
-Las Sociedades Financieras Populares, previo a la calificación de los créditos de la cartera crediticia comercial, clasificarán cada uno de los créditos en grupos, según sean otorgados a las siguientes personas:
+Las [Sociedades](articulo-1.md) Financieras Populares, previo a la calificación de los créditos de la cartera crediticia comercial, clasificarán cada uno de los créditos en grupos, según sean otorgados a las siguientes personas:
 
 I. Entidades financieras.
 

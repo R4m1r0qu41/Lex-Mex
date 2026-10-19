@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:statute:lfrcf",
   "source_sha256": "cc687a4d8d9de93d2d3ec9b40b26d0273e108bb002a6f611806dc36ebce5ba2c",
   "extracted_text_sha256": "936fa851c3bc3a904319a54b0dde0fa63939bd1b3504d0ae48f5dc97c0f76456",
@@ -45,6 +45,7 @@
         "XXXII",
         "XXXIII"
       ],
+      "unread_fractions": [],
       "term_count": 33
     }
   ],

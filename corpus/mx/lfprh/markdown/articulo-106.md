@@ -23,6 +23,6 @@ La información a que se refiere el artículo 7, fracción IX, de la Ley citada 
 
 Los ejecutores de gasto deberán remitir al Congreso de la Unión la información que éste les solicite en relación con sus respectivos presupuestos, en los términos de las disposiciones generales aplicables. Dicha solicitud se realizará por los órganos de gobierno de las Cámaras o por las Comisiones competentes, así como el Centro de Estudios de las Finanzas Públicas de la Cámara de Diputados.
 
-En la recaudación y el endeudamiento público del Gobierno Federal, la [Secretaría](articulo-2.md) y las entidades estarán obligadas a proporcionar a la Función Pública y a la [Auditoría](articulo-2.md) Superior de la Federación, en el ámbito de sus respectivas competencias y en los términos de las disposiciones aplicables, la información que éstas requieran legalmente. Párrafo adicionado DOF 24-01-2014
+En la recaudación y el endeudamiento público del Gobierno Federal, la [Secretaría](articulo-2.md) y las entidades estarán obligadas a proporcionar a la [Función Pública](articulo-2.md) y a la [Auditoría](articulo-2.md) Superior de la Federación, en el ámbito de sus respectivas competencias y en los términos de las disposiciones aplicables, la información que éstas requieran legalmente. Párrafo adicionado DOF 24-01-2014
 
 El incumplimiento a lo dispuesto en este artículo será sancionado en los términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y las demás disposiciones aplicables. Párrafo adicionado DOF 24-01-2014

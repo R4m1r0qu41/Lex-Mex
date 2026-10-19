@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 48
 
-Las Sociedades Financieras Populares para calcular el requerimiento de capitalización por riesgo operacional, deberán utilizar el método del indicador de negocio de conformidad con el presente Sub Apartado, considerando las operaciones que tengan autorizadas por la Comisión y establecidas en sus estatutos sociales.
+Las [Sociedades](articulo-1.md) Financieras Populares para calcular el requerimiento de capitalización por riesgo operacional, deberán utilizar el método del indicador de negocio de conformidad con el presente Sub Apartado, considerando las operaciones que tengan autorizadas por la Comisión y establecidas en sus estatutos sociales.
 
 Artículo 48 Bis. - Para determinar el requerimiento de capitalización por riesgo operacional bajo el método del indicador de negocio, las Sociedades Financieras Populares deberán, previamente, determinar lo siguiente:
 

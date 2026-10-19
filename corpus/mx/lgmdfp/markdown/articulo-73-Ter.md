@@ -17,7 +17,7 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 73 Ter
 
-Las [Fiscalías Locales](articulo-4.md) de forma obligatoria deberán incorporar, y actualizar permanentemente, a la Base Nacional de Carpetas de Investigación, las carpetas de investigación, averiguaciones previas y los expedientes materia de esta Ley, de conformidad con las disposiciones que para tal efecto emita el Secretariado Ejecutivo del [Sistema Nacional](articulo-4.md) de Seguridad Pública.
+Las [Fiscalías Locales](articulo-4.md) de forma obligatoria deberán incorporar, y actualizar permanentemente, a la [Base Nacional de Carpetas de Investigación](articulo-4.md), las carpetas de investigación, averiguaciones previas y los expedientes materia de esta Ley, de conformidad con las disposiciones que para tal efecto emita el Secretariado Ejecutivo del [Sistema Nacional](articulo-4.md) de Seguridad Pública.
 
 Los datos que se deberán de incorporar en la Base Nacional de Carpetas de Investigación serán, al menos, los siguientes:
 
@@ -25,7 +25,7 @@ I. Número de la carpeta de investigación o de averiguación previa;
 
 II. Nombre completo legal y social de la [Persona Desaparecida](articulo-4.md) o No Localizada;
 
-III. Clave Única de Registro de Población;
+III. [Clave Única de Registro de Población](articulo-4.md);
 
 IV. Lugar y fecha de desaparición, en caso de contar con ella;
 

@@ -20,7 +20,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 Los manuales deberán considerar, cuando menos, los aspectos siguientes:
 
-I. La estructura organizacional y funcional de cada área de la Sociedad Financiera Popular, así como las responsabilidades individuales asignadas;
+I. La estructura organizacional y funcional de cada área de la [Sociedad](articulo-1.md) Financiera Popular, así como las responsabilidades individuales asignadas;
 
 II. Los canales de comunicación y de flujo de información entre las distintas áreas de la Sociedad Financiera Popular;
 

@@ -18,15 +18,15 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 123
 
-En materia de control interno, el Director o Gerente General será el encargado de la implementación y funcionamiento diario del sistema de control interno, para lo cual deberá:
+En materia de control interno, el [Director o Gerente General](articulo-1.md) será el encargado de la implementación y funcionamiento diario del sistema de control interno, para lo cual deberá:
 
-I. Verificar que el sistema de control interno funcione adecuadamente conforme a los objetivos y estrategias determinadas por el Consejo de Administración;
+I. Verificar que el sistema de control interno funcione adecuadamente conforme a los objetivos y estrategias determinadas por el [Consejo de Administración](articulo-1.md);
 
 II. Realizar las acciones necesarias para que:
 
 a) Se tomen las medidas preventivas y correctivas necesarias a fin de subsanar cualquier deficiencia detectada, además de conservar un registro de dichas medidas, así como de las causas que motivaron la implementación de las mismas, y
 
-b) Exista una clara delimitación de funciones y responsabilidades entre las unidades de la Sociedad Financiera Popular, así como la independencia entre las áreas o funciones que así lo requieran,
+b) Exista una clara delimitación de funciones y responsabilidades entre las unidades de la [Sociedad](articulo-1.md) Financiera Popular, así como la independencia entre las áreas o funciones que así lo requieran,
 
 c) Implementar y hacer del conocimiento del Consejo de Administración los mecanismos mediante los cuales las distintas actividades en la Sociedad Financiera Popular sean realizadas exclusivamente por el personal definido previamente y, en su caso, autorizado conforme a la estructura organizacional de cada Sociedad Financiera Popular, en términos de lo dispuesto en el artículo [54](articulo-54.md), fracción I, inciso b) de las presentes disposiciones. Para ello, dicho personal deberá contar con la calidad técnica, la experiencia necesaria y honorabilidad, lo cual se verificará mediante una evaluación que deberá realizarse cuando menos cada tres años y estar documentada y disponible en todo momento para la Comisión por al menos cinco años.
 

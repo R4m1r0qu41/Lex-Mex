@@ -37,4 +37,4 @@ VIII. Dictaminar, autorizar y evaluar los programas de manejo forestal, así com
 
 En los mismos términos podrá la Secretaría convenir con la Comisión que ésta asuma cualquiera de las atribuciones antes descritas. Párrafo adicionado DOF 11-04-2022
 
-Los actos y procedimientos que se realicen al amparo de este artículo deberán de efectuarse de acuerdo con esta Ley, su [Reglamento](articulo-7.md) y las disposiciones que expida la Secretaría, debiéndose garantizar la plena integralidad con el Sistema Nacional de Gestión Forestal. Párrafo adicionado DOF 11-04-2022
+Los actos y procedimientos que se realicen al amparo de este artículo deberán de efectuarse de acuerdo con esta Ley, su [Reglamento](articulo-7.md) y las disposiciones que expida la Secretaría, debiéndose garantizar la plena integralidad con el [Sistema Nacional de Gestión Forestal](articulo-7.md). Párrafo adicionado DOF 11-04-2022

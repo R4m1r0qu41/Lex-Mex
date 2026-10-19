@@ -1,6 +1,15 @@
 [
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:1:term-usage:420-440",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:servicios-auxiliares",
+    "span": "Servicios Auxiliares",
+    "start_char": 420,
+    "end_char": 440
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lrsf:article:2:term-usage:234-244",
     "provision_id": "urn:lex-mx:federal:statute:lrsf:article:2",
     "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
@@ -19,12 +28,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:2:term-usage:538-558",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:servicios-auxiliares",
+    "span": "Servicios Auxiliares",
+    "start_char": 538,
+    "end_char": 558
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lrsf:article:2:term-usage:1292-1302",
     "provision_id": "urn:lex-mx:federal:statute:lrsf:article:2",
     "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
     "span": "Secretaría",
     "start_char": 1292,
     "end_char": 1302
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:2:term-usage:1482-1502",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:servicios-auxiliares",
+    "span": "Servicios Auxiliares",
+    "start_char": 1482,
+    "end_char": 1502
   },
   {
     "schema_version": "0.1.0",
@@ -73,6 +100,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:6-bis:term-usage:210-230",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:6-bis",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:servicios-auxiliares",
+    "span": "Servicios Auxiliares",
+    "start_char": 210,
+    "end_char": 230
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lrsf:article:6-bis:term-usage:611-621",
     "provision_id": "urn:lex-mx:federal:statute:lrsf:article:6-bis",
     "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
@@ -118,12 +154,39 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:6-bis:term-usage:5060-5080",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:6-bis",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:servicios-auxiliares",
+    "span": "Servicios Auxiliares",
+    "start_char": 5060,
+    "end_char": 5080
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lrsf:article:6-bis:term-usage:5232-5242",
     "provision_id": "urn:lex-mx:federal:statute:lrsf:article:6-bis",
     "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
     "span": "Secretaría",
     "start_char": 5232,
     "end_char": 5242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:6-bis:term-usage:5924-5944",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:6-bis",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:servicios-auxiliares",
+    "span": "Servicios Auxiliares",
+    "start_char": 5924,
+    "end_char": 5944
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:6-bis:term-usage:6247-6267",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:6-bis",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:servicios-auxiliares",
+    "span": "Servicios Auxiliares",
+    "start_char": 6247,
+    "end_char": 6267
   },
   {
     "schema_version": "0.1.0",
@@ -169,6 +232,15 @@
     "span": "Agencia",
     "start_char": 435,
     "end_char": 442
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:7:term-usage:754-774",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:servicios-auxiliares",
+    "span": "Servicios Auxiliares",
+    "start_char": 754,
+    "end_char": 774
   },
   {
     "schema_version": "0.1.0",
@@ -532,6 +604,24 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:27:term-usage:278-300",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:supervisor-de-proyecto",
+    "span": "Supervisor de Proyecto",
+    "start_char": 278,
+    "end_char": 300
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:27:term-usage:457-479",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:supervisor-de-proyecto",
+    "span": "Supervisor de Proyecto",
+    "start_char": 457,
+    "end_char": 479
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lrsf:article:27:term-usage:762-769",
     "provision_id": "urn:lex-mx:federal:statute:lrsf:article:27",
     "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
@@ -748,12 +838,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:44:term-usage:86-106",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:servicios-auxiliares",
+    "span": "Servicios Auxiliares",
+    "start_char": 86,
+    "end_char": 106
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lrsf:article:46:term-usage:334-341",
     "provision_id": "urn:lex-mx:federal:statute:lrsf:article:46",
     "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
     "span": "Agencia",
     "start_char": 334,
     "end_char": 341
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:46:term-usage:463-483",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:servicios-auxiliares",
+    "span": "Servicios Auxiliares",
+    "start_char": 463,
+    "end_char": 483
   },
   {
     "schema_version": "0.1.0",

@@ -18,4 +18,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 211 Bis
 
-Las disposiciones previstas en este capítulo tienen por objeto establecer los requisitos que deberán seguir las Sociedades Financieras Populares en materia de valuación de los Valores y demás instrumentos financieros que formen parte de su estado de situación financiera.
+Las disposiciones previstas en este capítulo tienen por objeto establecer los requisitos que deberán seguir las [Sociedades](articulo-1.md) Financieras Populares en materia de valuación de los Valores y demás instrumentos financieros que formen parte de su estado de situación financiera.

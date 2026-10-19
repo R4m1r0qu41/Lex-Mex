@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc",
   "source_sha256": "71c334347de911b670b7e920a44db19f2555f611203ec25d227733687972f424",
   "extracted_text_sha256": "b4dedf046312cf1a5c7e44ab44caba93baf0cb1a7ecf84eaa54deba7ab28e1f1",

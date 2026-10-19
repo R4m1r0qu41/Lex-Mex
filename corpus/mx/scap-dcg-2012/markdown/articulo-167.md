@@ -18,13 +18,13 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 167
 
-Para lograr los objetivos anteriormente señalados, el Comité de Auditoría tendrá, cuando menos las funciones y responsabilidades siguientes:
+Para lograr los objetivos anteriormente señalados, el [Comité de Auditoría](articulo-1.md) tendrá, cuando menos las funciones y responsabilidades siguientes:
 
-I. Proponer para aprobación del Consejo de Administración:
+I. Proponer para aprobación del [Consejo de Administración](articulo-1.md):
 
 a) Los manuales de políticas y procedimientos necesarios para el adecuado funcionamiento del sistema de control interno de la Sociedad.
 
-b) La designación del Auditor Interno de la Sociedad.
+b) La designación del [Auditor Interno](articulo-1.md) de la Sociedad.
 
 c) Derogado.
 
@@ -38,11 +38,11 @@ III. Derogada.
 
 IV. Vigilar que las políticas, procedimientos y operaciones se desarrollen en concordancia con las leyes y demás disposiciones normativas aplicables, incluyendo los manuales y demás lineamientos establecidos por el propio Consejo de Administración, así como proveer lo necesario para que la información financiera sea precisa, íntegra y oportuna.
 
-V. Revisar en coordinación con el Director o Gerente General al menos una vez al año o cuando existan cambios significativos en la operación de la Sociedad, los manuales a que se refiere el Artículo [161](articulo-161.md) de las presentes disposiciones. En todo caso, tratándose del manual de crédito, en su revisión también deberá participar el Comité de Crédito.
+V. Revisar en coordinación con el [Director o Gerente General](articulo-1.md) al menos una vez al año o cuando existan cambios significativos en la operación de la Sociedad, los manuales a que se refiere el Artículo [161](articulo-161.md) de las presentes disposiciones. En todo caso, tratándose del manual de crédito, en su revisión también deberá participar el [Comité de Crédito](articulo-1.md).
 
 VI Vigilar la independencia del área de Auditoría Interna respecto de las demás unidades de negocio y administrativas de la Sociedad. En caso de falta de independencia, informar al Consejo.
 
-VII. Revisar, con base en los informes del área de Auditoría Interna cuando menos una vez al año o cuando lo requiera la Comisión, que el programa de Auditoría Interna se lleve a cabo de conformidad con estándares de calidad adecuados en materia contable y de controles internos y que las actividades del área de Auditoría Interna se realicen con efectividad
+VII. Revisar, con base en los informes del área de Auditoría Interna cuando menos una vez al año o cuando lo requiera la [Comisión](articulo-1.md), que el programa de Auditoría Interna se lleve a cabo de conformidad con estándares de calidad adecuados en materia contable y de controles internos y que las actividades del área de Auditoría Interna se realicen con efectividad
 
 VIII. Aprobar, previa opinión del director general, el programa anual de trabajo del área de Auditoría Interna.
 
@@ -50,7 +50,7 @@ IX. Informar al Consejo de Administración, cuando menos una vez al año, sobre 
 
 a) Las deficiencias, desviaciones o aspectos del sistema de control interno que, en su caso, requieran una mejoría, tomando en cuenta para tal efecto los informes de los responsables de las funciones de contraloría interna.
 
-b) La mención y seguimiento de la implementación de las medidas preventivas y correctivas derivadas de las observaciones de la Comisión, así como de la evaluación del sistema de control interno realizada por el propio Consejo de Vigilancia.
+b) La mención y seguimiento de la implementación de las medidas preventivas y correctivas derivadas de las observaciones de la Comisión, así como de la evaluación del sistema de control interno realizada por el propio [Consejo de Vigilancia](articulo-1.md).
 
 c) La valoración del desempeño de las funciones de contraloría interna.
 

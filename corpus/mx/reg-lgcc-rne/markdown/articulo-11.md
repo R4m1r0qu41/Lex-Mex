@@ -17,7 +17,7 @@ source_sha256: 62420210c5aaffe687daf130a64ff506009625340c554bfb36d2f1b5dcac0192
 
 # Artículo 11
 
-El [Establecimiento Sujeto a Reporte](articulo-2.md) podrá corregir, mediante aviso, cualquier inconsistencia o dato erróneo en la cuantificación de las [Emisiones](../../lgcc/markdown/articulo-3o.md) reportadas que se hayan incorporado al Registro, antes de que la [Procuraduría](articulo-2.md), realice actos de inspección y vigilancia para verificar la información proporcionada.
+El [Establecimiento Sujeto a Reporte](articulo-2.md) podrá corregir, mediante aviso, cualquier inconsistencia o dato erróneo en la cuantificación de las [Emisiones](../../lgcc/markdown/articulo-3o.md) reportadas que se hayan incorporado al [Registro](../../lgcc/markdown/articulo-3o.md), antes de que la [Procuraduría](articulo-2.md), realice actos de inspección y vigilancia para verificar la información proporcionada.
 
 Dicho aviso se presentará ante la [Secretaría](../../lgcc/markdown/articulo-3o.md) en escrito libre, en el que se indicará el nombre, denominación o razón social del Establecimiento Sujeto a Reporte y el número que dicha Dependencia haya asignado a la [Cédula de Operación Anual](articulo-2.md) y se señalará con toda precisión los errores e inconsistencias detectados, así como la información correcta, precisando el año de reporte en el cual se suscitó el error.
 

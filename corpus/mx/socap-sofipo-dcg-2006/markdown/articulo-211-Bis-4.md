@@ -18,4 +18,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 211 Bis 4
 
-Las Sociedades Financieras Populares reconocerán los Precios Actualizados para Valuación de manera diaria en su contabilidad, para la determinación del valor razonable de los Valores y demás instrumentos financieros que conformen su estado de situación financiera, considerando la información dada a conocer por las entidades financieras o por su Proveedor de Precios, en términos de las presentes disposiciones.
+Las [Sociedades](articulo-1.md) Financieras Populares reconocerán los Precios Actualizados para Valuación de manera diaria en su contabilidad, para la determinación del valor razonable de los Valores y demás instrumentos financieros que conformen su estado de situación financiera, considerando la información dada a conocer por las entidades financieras o por su Proveedor de Precios, en términos de las presentes disposiciones.

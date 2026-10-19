@@ -18,11 +18,11 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 265 Bis 28
 
-Las Sociedades Financieras Populares estarán obligadas a realizar revisiones de seguridad, enfocadas a verificar la suficiencia en los controles aplicables a la infraestructura de cómputo y telecomunicaciones utilizada para la realización de operaciones y prestación de servicios a través de Medios Electrónicos.
+Las [Sociedades](articulo-1.md) Financieras Populares estarán obligadas a realizar revisiones de seguridad, enfocadas a verificar la suficiencia en los controles aplicables a la infraestructura de cómputo y telecomunicaciones utilizada para la realización de operaciones y prestación de servicios a través de [Medios Electrónicos](articulo-1.md).
 
 Las revisiones a que se refiere el párrafo anterior deberán realizarse al menos en forma anual, o bien, cuando se presenten cambios significativos en dicha infraestructura, debiendo comprender al menos lo siguiente:
 
-I. Mecanismos de Autenticación de los Usuarios;
+I. Mecanismos de [Autenticación](articulo-1.md) de los [Usuarios](articulo-1.md);
 
 II. Configuración y controles de acceso a la infraestructura de cómputo y telecomunicaciones;
 
@@ -32,9 +32,9 @@ IV. Análisis de vulnerabilidades sobre la infraestructura y sistemas;
 
 V. Identificación de posibles modificaciones no autorizadas al software original;
 
-VI. Infraestructura tecnológica, sistemas y procesos asociados a los Medios Electrónicos, a fin de verificar que no se cuente con herramientas o procedimientos que permitan conocer los valores de Autenticación de los Usuarios, así como cualquier información que de manera directa o indirecta pudiera dar acceso a una Sesión en nombre del Usuario, y
+VI. Infraestructura tecnológica, sistemas y procesos asociados a los Medios Electrónicos, a fin de verificar que no se cuente con herramientas o procedimientos que permitan conocer los valores de Autenticación de los Usuarios, así como cualquier información que de manera directa o indirecta pudiera dar acceso a una [Sesión](articulo-1.md) en nombre del Usuario, y
 
-VII. El análisis metódico de los aplicativos críticos relacionados con los Servicios Electrónicos, con la finalidad de detectar errores, funcionalidad no autorizada o cualquier código que ponga o pueda poner en riesgo la información de los Usuarios y de la propia Sociedad Financiera Popular.
+VII. El análisis metódico de los aplicativos críticos relacionados con los [Servicios Electrónicos](articulo-1.md), con la finalidad de detectar errores, funcionalidad no autorizada o cualquier código que ponga o pueda poner en riesgo la información de los Usuarios y de la propia Sociedad Financiera Popular.
 
 Las Sociedades Financieras Populares deberán revisar adicionalmente, en los términos de esta sección, los equipos que, en su caso, hayan dispuesto para que los Usuarios realicen operaciones a través de Medios Electrónicos.
 

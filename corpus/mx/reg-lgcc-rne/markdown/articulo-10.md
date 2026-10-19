@@ -17,7 +17,7 @@ source_sha256: 62420210c5aaffe687daf130a64ff506009625340c554bfb36d2f1b5dcac0192
 
 # Artículo 10
 
-El Registro se integrará con la información relativa a las [Emisiones](../../lgcc/markdown/articulo-3o.md), Directas e Indirectas generadas por los Establecimientos Sujetos a Reporte.
+El [Registro](../../lgcc/markdown/articulo-3o.md) se integrará con la información relativa a las [Emisiones](../../lgcc/markdown/articulo-3o.md), Directas e Indirectas generadas por los Establecimientos Sujetos a Reporte.
 
 El Registro tendrá una sección en la cual los interesados podrán inscribir los proyectos o actividades que tengan como resultado la [Mitigación](../../lgcc/markdown/articulo-3o.md) o reducción de las Emisiones señaladas en el párrafo anterior.
 

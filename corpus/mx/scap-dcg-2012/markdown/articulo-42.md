@@ -17,7 +17,7 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 42
 
-La Comisión podrá ordenar lo siguiente:
+La [Comisión](articulo-1.md) podrá ordenar lo siguiente:
 
 I. La constitución de estimaciones preventivas adicionales a las que deban crear las Sociedades como resultado de su proceso de calificación de cartera crediticia, hasta por la cantidad que se requiera para provisionar al 100 por ciento, en los casos siguientes:
 

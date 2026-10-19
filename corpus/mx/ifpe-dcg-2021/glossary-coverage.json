@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
   "source_sha256": "493282f369e52da50db28c4777119591852a52313e5bb1cef82d1bd453899bb0",
   "extracted_text_sha256": "ecbce994c6fe5aac9843addedc77f22db6dbdbb3a613f1873eb240c88fa751a6",

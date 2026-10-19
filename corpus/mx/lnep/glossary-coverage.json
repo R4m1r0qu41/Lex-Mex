@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:statute:lnep",
   "source_sha256": "91abecabe50a5e414e0835daa9086ce3b307fffb9ebe626dab3bb9d1eae51680",
   "extracted_text_sha256": "e5a94d599f9ce02908cc70f35a27d3315a756a5eff51501e163c7f1de5fadfc0",

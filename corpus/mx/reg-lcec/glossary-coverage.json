@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lcec",
   "source_sha256": "76a5d189cd607e352b2cc39a92c4ad2d46f6d4628cd6e300030d92cf2191a88c",
   "extracted_text_sha256": "6cee9d6b6146448b2720cb36df0c7097909a22f79d307ca52345da5fa72f7c62",
@@ -17,6 +17,7 @@
         "IV",
         "V"
       ],
+      "unread_fractions": [],
       "term_count": 5
     }
   ],

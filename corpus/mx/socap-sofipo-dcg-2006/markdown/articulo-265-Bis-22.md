@@ -18,14 +18,14 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 265 Bis 22
 
-La Sociedad Financiera Popular deberá contar con controles para el acceso a las bases de datos y archivos correspondientes a las operaciones y servicios efectuados a través de Medios Electrónicos, aun cuando dichas bases de datos y archivos residan en medios de almacenamiento de respaldo. Para efectos de lo anterior, la Sociedad Financiera Popular deberá ajustarse a lo siguiente:
+La [Sociedad](articulo-1.md) Financiera Popular deberá contar con controles para el acceso a las bases de datos y archivos correspondientes a las operaciones y servicios efectuados a través de [Medios Electrónicos](articulo-1.md), aun cuando dichas bases de datos y archivos residan en medios de almacenamiento de respaldo. Para efectos de lo anterior, la Sociedad Financiera Popular deberá ajustarse a lo siguiente:
 
 I. El acceso a las bases de datos y archivos estará permitido exclusivamente a las personas expresamente autorizadas por la Sociedad Financiera Popular en función de las actividades que realizan. Al otorgarse dichos accesos, deberá dejarse constancia de tal circunstancia y señalar los propósitos y el periodo al que se limitan los accesos.
 
-II. Tratándose de accesos que se realicen en forma remota, deberán utilizarse mecanismos de Cifrado en las comunicaciones.
+II. Tratándose de accesos que se realicen en forma remota, deberán utilizarse mecanismos de [Cifrado](articulo-1.md) en las comunicaciones.
 
-III. Deberán contar con procedimientos seguros de destrucción de los medios de almacenamiento de las bases de datos y archivos que contengan Información Sensible de los Usuarios, que prevengan su restauración a través de cualquier mecanismo o dispositivo.
+III. Deberán contar con procedimientos seguros de destrucción de los medios de almacenamiento de las bases de datos y archivos que contengan Información Sensible de los [Usuarios](articulo-1.md), que prevengan su restauración a través de cualquier mecanismo o dispositivo.
 
 IV. Deberán desarrollar políticas relacionadas con el uso y almacenamiento de información que se transmita y reciba por los Medios Electrónicos, estando obligadas a verificar el cumplimiento de sus políticas por parte de sus proveedores y afiliados.
 
-La obtención de información almacenada en las bases de datos y archivos a que se refiere el presente artículo, sin contar con la autorización correspondiente, o el uso indebido de dicha información, será sancionada en términos de lo previsto en la Ley, inclusive tratándose de terceros contratados al amparo de lo establecido en el artículo 36 bis 3 de dicho ordenamiento legal.
+La obtención de información almacenada en las bases de datos y archivos a que se refiere el presente artículo, sin contar con la autorización correspondiente, o el uso indebido de dicha información, será sancionada en términos de lo previsto en la [Ley](articulo-1.md), inclusive tratándose de terceros contratados al amparo de lo establecido en el artículo 36 bis 3 de dicho ordenamiento legal.

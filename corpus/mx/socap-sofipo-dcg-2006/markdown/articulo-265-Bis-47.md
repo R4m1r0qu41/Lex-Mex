@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 265 Bis 47
 
-Las Sociedades Financieras Populares responderán en todo momento por el servicio que terceros autorizados por estas o sus comisionistas, proporcionen a los Clientes, aun cuando la realización de las operaciones correspondientes se lleve a cabo en términos distintos a los pactados, así como por el incumplimiento a las disposiciones en que incurran dichos terceros o comisionistas.
+Las [Sociedades](articulo-1.md) Financieras Populares responderán en todo momento por el servicio que terceros autorizados por estas o sus comisionistas, proporcionen a los Clientes, aun cuando la realización de las operaciones correspondientes se lleve a cabo en términos distintos a los pactados, así como por el incumplimiento a las disposiciones en que incurran dichos terceros o comisionistas.
 
 En caso de incumplimiento por parte de los terceros o comisionistas a las disposiciones aplicables, las Sociedades Financieras Populares deberán implementar las medidas correctivas necesarias.
 

@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 265 Bis 44
 
-El aviso a que se refiere el artículo [265 Bis 43](articulo-265-Bis-43.md) anterior, deberá ser suscrito por el Director o Gerente General de las Sociedades Financieras Populares y reunir los requisitos siguientes:
+El aviso a que se refiere el artículo [265 Bis 43](articulo-265-Bis-43.md) anterior, deberá ser suscrito por el [Director o Gerente General](articulo-1.md) de las [Sociedades](articulo-1.md) Financieras Populares y reunir los requisitos siguientes:
 
 I. Contener el informe a que se refiere la fracción II del artículo [265 Bis 35](articulo-265-Bis-35.md).
 

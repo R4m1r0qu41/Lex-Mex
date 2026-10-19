@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 205 Bis 2
 
-El Comité de Supervisión clasificará a las Sociedades Financieras Populares en cualquiera de las categorías a que se refiere el artículo [205 Bis 3](articulo-205-Bis-3.md) de las presentes disposiciones, utilizando la información que mensualmente se envíe con cifras al cierre de cada mes calendario, en los términos que el propio comité establezca.
+El Comité de Supervisión clasificará a las [Sociedades](articulo-1.md) Financieras Populares en cualquiera de las categorías a que se refiere el artículo [205 Bis 3](articulo-205-Bis-3.md) de las presentes disposiciones, utilizando la información que mensualmente se envíe con cifras al cierre de cada mes calendario, en los términos que el propio comité establezca.
 
 Artículo 205 Bis 2 a.- Para determinar la clasificación de las Sociedades Financieras Populares, se deberá obtener el Factor de Ajuste Operacional aplicando la siguiente formula:
 

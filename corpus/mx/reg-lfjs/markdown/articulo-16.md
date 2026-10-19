@@ -17,7 +17,7 @@ source_sha256: 694325ff5d428da51b8f87c5939c58b1e2e8590bd86f13ade6cd284c932cdfc3
 
 # Artículo 16
 
-El Consejo Consultivo estará integrado por los siguientes miembros e invitados permanentes: A. Miembros:
+El [Consejo Consultivo](articulo-3.md) estará integrado por los siguientes miembros e invitados permanentes: A. Miembros:
 
 I. La persona titular de la [Unidad de Gobierno](articulo-3.md), quien lo presidirá; Fracción reformada DOF 16-11-2023
 

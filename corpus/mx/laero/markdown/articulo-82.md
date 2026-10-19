@@ -17,6 +17,6 @@ source_sha256: c78882a0177403ee04cd38dd09fa1657dc221b7f6827ddacf251c699ede867e4
 
 # Artículo 82
 
-En el caso de personas terceras autorizadas por la Agencia Federal de Aviación Civil para llevar a cabo verificaciones técnicas en los términos de la presente Ley, se les aplicará por violación a las condiciones que se establezcan en las autorizaciones respectivas, multa hasta de cincuenta mil Unidades de Medida y Actualización.
+En el caso de personas terceras autorizadas por la [Agencia Federal de Aviación Civil](articulo-2.md) para llevar a cabo verificaciones técnicas en los términos de la presente Ley, se les aplicará por violación a las condiciones que se establezcan en las autorizaciones respectivas, multa hasta de cincuenta mil Unidades de Medida y Actualización.
 
 Artículo reformado DOF 18-06-2018, 03-05-2023

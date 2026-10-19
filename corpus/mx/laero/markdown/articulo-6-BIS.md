@@ -17,7 +17,7 @@ source_sha256: c78882a0177403ee04cd38dd09fa1657dc221b7f6827ddacf251c699ede867e4
 
 # Artículo 6 BIS
 
-A la Agencia Federal de Aviación Civil, le corresponde ejercer las atribuciones siguientes:
+A la [Agencia Federal de Aviación Civil](articulo-2.md), le corresponde ejercer las atribuciones siguientes:
 
 I. Otorgar las autorizaciones y los permisos previstos en esta Ley, y resolver, en su caso, su prórroga, suspensión, modificación, terminación o revocación;
 

@@ -27,7 +27,7 @@ c) Edad;
 
 d) Relación con la [Persona Desaparecida](articulo-4.md);
 
-e) Clave Única de Registro de Población o cualquier documento de identificación oficial;
+e) [Clave Única de Registro de Población](articulo-4.md) o cualquier documento de identificación oficial;
 
 f) Domicilio, y
 

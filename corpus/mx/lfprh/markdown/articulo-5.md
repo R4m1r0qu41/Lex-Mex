@@ -23,7 +23,7 @@ I. En el caso de los Poderes Legislativo y Judicial y los entes autónomos, conf
 
 a) Aprobar sus proyectos de presupuesto y enviarlos a la [Secretaría](articulo-2.md) para su integración al proyecto de [Presupuesto de Egresos](articulo-2.md), observando los criterios generales de política económica;
 
-b) Ejercer sus presupuestos observando lo dispuesto en esta Ley, sin sujetarse a las disposiciones generales emitidas por la Secretaría y la Función Pública. Dicho ejercicio deberá realizarse con base en los principios de eficiencia, eficacia y transparencia y estarán sujetos a la normatividad, la evaluación y el control de los órganos correspondientes;
+b) Ejercer sus presupuestos observando lo dispuesto en esta Ley, sin sujetarse a las disposiciones generales emitidas por la Secretaría y la [Función Pública](articulo-2.md). Dicho ejercicio deberá realizarse con base en los principios de eficiencia, eficacia y transparencia y estarán sujetos a la normatividad, la evaluación y el control de los órganos correspondientes;
 
 c) Autorizar las adecuaciones a sus presupuestos sin requerir la autorización de la Secretaría, observando las disposiciones de esta Ley;
 

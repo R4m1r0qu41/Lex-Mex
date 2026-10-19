@@ -28,4 +28,4 @@ III. Deberán contar con procedimientos seguros de destrucción de los medios de
 
 IV. Deberán desarrollar políticas relacionadas con el uso y almacenamiento de información que se transmita y reciba por los Medios Electrónicos, estando obligadas a verificar el cumplimiento de sus políticas por parte de sus proveedores y afiliados.
 
-La obtención de información almacenada en las bases de datos y archivos a que se refiere el presente artículo, sin contar con la autorización correspondiente, o el uso indebido de dicha información, será sancionada en términos de lo previsto en la Ley, inclusive tratándose de terceros contratados al amparo de lo establecido en el Artículo 19 Bis de dicho ordenamiento legal.
+La obtención de información almacenada en las bases de datos y archivos a que se refiere el presente artículo, sin contar con la autorización correspondiente, o el uso indebido de dicha información, será sancionada en términos de lo previsto en la [Ley](articulo-1.md), inclusive tratándose de terceros contratados al amparo de lo establecido en el Artículo 19 Bis de dicho ordenamiento legal.

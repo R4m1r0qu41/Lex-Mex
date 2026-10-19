@@ -17,13 +17,13 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 229
 
-Las Sociedades deberán contar con políticas internas que tengan por objeto establecer lineamientos y procedimientos relativos al manejo y, en su caso, destrucción de libros, registros, documentos y demás información relativa a su contabilidad, que hayan sido o vayan a ser objeto de Microfilmación o Grabación. Dichas políticas deberán ser elaboradas por el Consejo de Administración de la Sociedades, el cual se podrá apoyar de algún comité para dichos efectos.
+Las Sociedades deberán contar con políticas internas que tengan por objeto establecer lineamientos y procedimientos relativos al manejo y, en su caso, destrucción de libros, registros, documentos y demás información relativa a su contabilidad, que hayan sido o vayan a ser objeto de Microfilmación o [Grabación](articulo-1.md). Dichas políticas deberán ser elaboradas por el [Consejo de Administración](articulo-1.md) de la Sociedades, el cual se podrá apoyar de algún comité para dichos efectos.
 
 Adicionalmente, al elaborar los lineamientos y procedimientos a que se refiere este artículo, las Sociedades deberán prever supuestos para:
 
-I. Garantizar el adecuado manejo y control de los documentos que contengan la información confidencial de los Socios, a fin de asegurar que exclusivamente accedan a ella las personas que por sus funciones deban conocerla, con independencia de que sea objeto o no de los procesos de Microfilmación o Grabación a que se refiere el presente capítulo.
+I. Garantizar el adecuado manejo y control de los documentos que contengan la información confidencial de los [Socios](articulo-1.md), a fin de asegurar que exclusivamente accedan a ella las personas que por sus funciones deban conocerla, con independencia de que sea objeto o no de los procesos de Microfilmación o Grabación a que se refiere el presente capítulo.
 
-II. Cumplir, en todo momento, con las disposiciones aplicables en materia de secreto bancario y fiduciario respecto de la información relativa a las operaciones activas, pasivas y de servicios de sus Socios de conformidad con el Artículo 69 de la Ley, estableciendo controles estrictos para evitar la sustracción de información relacionada con los libros, registros y documentos en general.
+II. Cumplir, en todo momento, con las disposiciones aplicables en materia de secreto bancario y fiduciario respecto de la información relativa a las operaciones activas, pasivas y de servicios de sus Socios de conformidad con el Artículo 69 de la [Ley](articulo-1.md), estableciendo controles estrictos para evitar la sustracción de información relacionada con los libros, registros y documentos en general.
 
 III. Evitar proporcionar a terceras personas, información que las Sociedades obtengan con motivo de la celebración de operaciones con sus Socios, para la comercialización de productos o servicios por parte de dichas personas, salvo que cuenten con el consentimiento expreso de sus Socios, atento a lo dispuesto en el Artículo 69 de la Ley.
 

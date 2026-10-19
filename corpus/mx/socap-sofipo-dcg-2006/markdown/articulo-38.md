@@ -17,7 +17,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 38
 
-Los Consejeros y funcionarios deberán excusarse de participar en las discusiones y abstenerse de votar en los casos en que tengan un interés directo o un conflicto de interés.
+Los [Consejeros](articulo-1.md) y funcionarios deberán excusarse de participar en las discusiones y abstenerse de votar en los casos en que tengan un interés directo o un conflicto de interés.
 
 En todo caso, las operaciones con personas relacionadas no deberán celebrarse en términos y condiciones más favorables, que las operaciones de la misma naturaleza que se realicen con el público en general.
 

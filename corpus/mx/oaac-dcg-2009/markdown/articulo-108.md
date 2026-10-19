@@ -18,11 +18,11 @@ source_sha256: 8ac502b97188bd6e795781e9821be6e62ccdd8050cdd3be74aab52a888e67939
 
 # Artículo 108
 
-El [Consejo](articulo-1.md), una vez aprobados los objetivos del Sistema de [Control](articulo-1.md) Interno y los lineamientos para su implementación, deberá en el ámbito de su competencia:
+El [Consejo](articulo-1.md), una vez aprobados los objetivos del [Sistema de Control Interno](articulo-1.md) y los lineamientos para su implementación, deberá en el ámbito de su competencia:
 
 I. Aprobar, al menos, hasta el segundo nivel jerárquico la estructura orgánica de la unión de crédito, presentada por el director general, así como las eventuales modificaciones hasta ese nivel.
 
-II. Analizar, mediante reportes elaborados al efecto por el director general y el Comité de Auditoría, que el Sistema de Control Interno esté funcionando adecuadamente.
+II. Analizar, mediante reportes elaborados al efecto por el director general y el [Comité de Auditoría](articulo-1.md), que el Sistema de Control Interno esté funcionando adecuadamente.
 
 III. Aprobar, en su caso, el código de conducta de la unión de crédito, así como promover su divulgación y aplicación en coordinación con la [Dirección General](articulo-1.md).
 

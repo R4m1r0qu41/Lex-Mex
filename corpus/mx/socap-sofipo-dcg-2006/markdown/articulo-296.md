@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 296
 
-Para efectos de lo dispuesto en el artículo [295](articulo-295.md) anterior, las Sociedades Financieras Populares deberán observar lo siguiente:
+Para efectos de lo dispuesto en el artículo [295](articulo-295.md) anterior, las [Sociedades](articulo-1.md) Financieras Populares deberán observar lo siguiente:
 
 I. Se determinará el importe total de los depósitos que mantengan al cierre del último día del mes, tomando en consideración el saldo total de las cuentas de depósitos de exigibilidad inmediata y depósitos a plazo, y
 

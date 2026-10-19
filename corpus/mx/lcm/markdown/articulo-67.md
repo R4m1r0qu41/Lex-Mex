@@ -17,6 +17,6 @@ source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 
 # Artículo 67
 
-En caso de que las autoridades laborales ordenen el embargo de bienes del [Comerciante](articulo-4o.md), para asegurar créditos a favor de los trabajadores por salarios y sueldos devengados en los dos años inmediatos anteriores o por indemnizaciones, quien en términos de esta Ley esté a cargo de la administración de la empresa del Comerciante será el depositario de los bienes embargados.
+En caso de que las autoridades laborales ordenen el embargo de bienes del [Comerciante](articulo-4o.md), para asegurar créditos a favor de los trabajadores por salarios y sueldos devengados en los dos años inmediatos anteriores o por indemnizaciones, quien en términos de esta [Ley](articulo-4o.md) esté a cargo de la administración de la empresa del Comerciante será el depositario de los bienes embargados.
 
 Tan pronto como la persona que se encuentre a cargo de la administración de la empresa del Comerciante cubra o garantice a satisfacción de las autoridades laborales dichos créditos, el embargo deberá ser levantado.

@@ -17,4 +17,4 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 151
 
-El Comité de Riesgos para llevar a cabo la administración de riesgos, se apoyará en personal especializado cuyo objeto será identificar, medir, vigilar e informar los riesgos cuantificables que enfrenta la Sociedad en sus operaciones, tales como riesgos de crédito, de mercado y de liquidez. El personal responsable de la administración integral de riesgos será independiente de las unidades de negocios, a fin de evitar conflictos de intereses y asegurar una adecuada separación de responsabilidades.
+El [Comité de Riesgos](articulo-1.md) para llevar a cabo la administración de riesgos, se apoyará en personal especializado cuyo objeto será identificar, medir, vigilar e informar los riesgos cuantificables que enfrenta la Sociedad en sus operaciones, tales como riesgos de crédito, de mercado y de liquidez. El personal responsable de la administración integral de riesgos será independiente de las unidades de negocios, a fin de evitar conflictos de intereses y asegurar una adecuada separación de responsabilidades.

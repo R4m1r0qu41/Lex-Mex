@@ -19,7 +19,7 @@ source_sha256: 8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a
 
 No se acumularán los procedimientos de concurso mercantil de dos o más [Comerciantes](articulo-4o.md), salvo lo previsto en el párrafo siguiente.
 
-Se acumularán, pero se llevarán por cuerda separada, los procedimientos de concurso mercantil de sociedades mercantiles que integren un grupo societario. Para efectos de lo dispuesto en esta Ley, se entenderá que integran un grupo societario las sociedades controladoras y controladas conforme a lo siguiente:
+Se acumularán, pero se llevarán por cuerda separada, los procedimientos de concurso mercantil de sociedades mercantiles que integren un grupo societario. Para efectos de lo dispuesto en esta [Ley](articulo-4o.md), se entenderá que integran un grupo societario las sociedades controladoras y controladas conforme a lo siguiente:
 
 I. Se considerarán sociedades controladoras aquellas que, directa o indirectamente, mantengan la titularidad de derechos que permitan ejercer el voto respecto de más del cincuenta por ciento del capital de otra sociedad, tengan poder decisorio en sus asambleas, estén en posibilidad de nombrar a la mayoría de los miembros del órgano de administración, o que por cualquier otro medio tengan facultades de tomar las decisiones fundamentales de una sociedad.
 

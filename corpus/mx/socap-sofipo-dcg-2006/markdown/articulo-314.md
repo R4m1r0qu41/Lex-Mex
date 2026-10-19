@@ -18,6 +18,6 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 314
 
-En caso de fallecimiento del titular de una Cuenta Individual o Colectiva, los albaceas que representen a la sucesión de que se trate en términos de la legislación común, deberán presentar la solicitud de pago conforme a lo que dicho titular hubiera tenido derecho, el acta de defunción del titular y la documentación que conforme a la legislación aplicable acredite su carácter de albaceas.
+En caso de fallecimiento del titular de una [Cuenta Individual](articulo-1.md) o Colectiva, los albaceas que representen a la sucesión de que se trate en términos de la legislación común, deberán presentar la solicitud de pago conforme a lo que dicho titular hubiera tenido derecho, el acta de defunción del titular y la documentación que conforme a la legislación aplicable acredite su carácter de albaceas.
 
 El Comité de Protección al Ahorro solo será responsable de entregar al albacea la cantidad correspondiente al seguro de depósito que le hubiere correspondido al fallecido como titular de las Cuentas Individuales o Colectivas que haya tenido abiertas, por lo que no tendrá responsabilidad alguna ante los herederos de la distribución que el albacea realice en términos de la legislación común.

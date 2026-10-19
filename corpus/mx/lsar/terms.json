@@ -29,6 +29,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lsar:article:3",
     "fraction": "III",
     "start_char": 406,
+    "end_char": 486,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:term:cuenta-individual",
+    "term": "Cuenta Individual",
+    "instrument_id": "urn:lex-mx:federal:statute:lsar",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsar:article:3",
+    "fraction": "III Bis",
+    "start_char": 486,
     "end_char": 933,
     "basis": "express_definition"
   },
@@ -51,6 +62,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lsar:article:3",
     "fraction": "V",
     "start_char": 1032,
+    "end_char": 1395,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:term:rendimiento-neto",
+    "term": "Rendimiento Neto",
+    "instrument_id": "urn:lex-mx:federal:statute:lsar",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsar:article:3",
+    "fraction": "V Bis",
+    "start_char": 1395,
     "end_char": 1848,
     "basis": "express_definition"
   },
@@ -84,6 +106,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lsar:article:3",
     "fraction": "VIII",
     "start_char": 2311,
+    "end_char": 2538,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:term:partes-independientes",
+    "term": "Partes Independientes",
+    "instrument_id": "urn:lex-mx:federal:statute:lsar",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsar:article:3",
+    "fraction": "VIII Bis",
+    "start_char": 2538,
     "end_char": 2685,
     "basis": "express_definition"
   },
@@ -128,6 +161,28 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lsar:article:3",
     "fraction": "XII",
     "start_char": 3630,
+    "end_char": 3831,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:term:trabajador-afiliado",
+    "term": "Trabajador Afiliado",
+    "instrument_id": "urn:lex-mx:federal:statute:lsar",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsar:article:3",
+    "fraction": "XIII",
+    "start_char": 3831,
+    "end_char": 3966,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:term:trabajador-no-afiliado",
+    "term": "Trabajador no Afiliado",
+    "instrument_id": "urn:lex-mx:federal:statute:lsar",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsar:article:3",
+    "fraction": "XIII Bis",
+    "start_char": 3966,
     "end_char": 4132,
     "basis": "express_definition"
   },

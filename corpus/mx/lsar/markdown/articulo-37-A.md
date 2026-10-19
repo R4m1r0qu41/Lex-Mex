@@ -25,7 +25,7 @@ I. Claridad en la presentación de la información contenida en los estados de c
 
 II. La base para incorporar en los estados de cuenta las comisiones cobradas al trabajador por la prestación del servicio u operación de que se trate, las cuales se deberán expresar tanto en porcentaje como en moneda nacional, desagregando cada concepto de comisiones;
 
-III. La información que deberán contener para permitir la comparación del Rendimiento Neto y las comisiones aplicadas por otras administradoras en operaciones afines;
+III. La información que deberán contener para permitir la comparación del [Rendimiento Neto](articulo-3o.md) y las comisiones aplicadas por otras administradoras en operaciones afines;
 
 IV. Los datos de localización y contacto con la unidad especializada que en términos de la Ley de Protección y Defensa al Usuario de Servicios Financieros deben mantener, para efectos de aclaraciones o reclamaciones vinculadas con el servicio o producto de que se trate, así como los plazos para presentarlas;
 

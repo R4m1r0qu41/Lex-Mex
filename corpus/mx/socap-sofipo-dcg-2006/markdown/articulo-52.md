@@ -20,7 +20,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 Para efectos de estas disposiciones de control interno se entenderá por:
 
-I. Riesgo de crédito: a las posibles pérdidas para la Sociedad Financiera Popular por la falta de pago de un acreditado;
+I. Riesgo de crédito: a las posibles pérdidas para la [Sociedad](articulo-1.md) Financiera Popular por la falta de pago de un acreditado;
 
 II. Riesgo operativo: a las posibles pérdidas para la Sociedad Financiera Popular por errores o fallas en el desarrollo de las actividades administrativas y operativas del negocio, y
 
@@ -30,7 +30,7 @@ a) Procurar mecanismos de operación que permitan identificar, vigilar y evaluar
 
 b) Delimitar las diferentes funciones y responsabilidades del personal al interior de la Sociedad Financiera Popular;
 
-c) Diseñar, implementar y operar sistemas de información eficientes y completos, que soporten los procesos de operación de la Sociedad Financiera Popular, así como de atención a sus clientes a través de sucursales y cualquier Medio Electrónico, para lo cual deberán, en lo conducente:
+c) Diseñar, implementar y operar sistemas de información eficientes y completos, que soporten los procesos de operación de la Sociedad Financiera Popular, así como de atención a sus clientes a través de sucursales y cualquier [Medio Electrónico](articulo-1.md), para lo cual deberán, en lo conducente:
 
 1. Establecer medidas y controles que permitan asegurar confidencialidad en la generación, almacenamiento, transmisión y recepción de factores de identificación y autenticación, tanto de clientes como de usuarios internos de la Sociedad Financiera Popular.
 
@@ -46,6 +46,6 @@ i. Comisión de hechos, actos u operaciones fraudulentas.
 
 ii. Contingencias generadas en los sistemas relacionados con los servicios prestados y operaciones celebradas.
 
-iii. El uso inadecuado por parte de los Usuarios de los Medios Electrónicos.
+iii. El uso inadecuado por parte de los [Usuarios](articulo-1.md) de los Medios Electrónicos.
 
 d) Coadyuvar a la observancia de las leyes y disposiciones aplicables.

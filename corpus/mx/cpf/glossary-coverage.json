@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:code:cpf",
   "source_sha256": "a2d80c4383c5fbc8453cf290c19b7853eb0a5a05d1e366572da384edfafda88c",
   "extracted_text_sha256": "55a4f52cf949acdc94ce71a1fc548333e609ee070f49f9c43777821bea9db1b1",

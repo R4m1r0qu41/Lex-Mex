@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 23
 
-Atendiendo al Nivel de Operaciones que les sea asignado, las Sociedades Financieras Populares podrán realizar las operaciones siguientes:
+Atendiendo al Nivel de Operaciones que les sea asignado, las [Sociedades](articulo-1.md) Financieras Populares podrán realizar las operaciones siguientes:
 
 I. Sociedades Financieras Populares con Nivel de Operaciones I:
 
@@ -28,9 +28,9 @@ b) Las anteriores operaciones se podrán realizar con menores de edad en términ
 
 c) Recibir préstamos y créditos de instituciones de crédito nacionales o extranjeras, así como de instituciones integrantes de la Administración Pública Federal o Estatal y fideicomisos públicos, constituidos por el Gobierno Federal o estatales para el fomento económico, que realicen actividades financieras, organismos e instituciones financieras internacionales, y de sus proveedores nacionales o del extranjero;
 
-d) Otorgar a las Sociedades Financieras Populares afiliadas y no afiliadas que supervise de manera auxiliar su Federación, previa aprobación del Consejo de Administración de ésta y con cargo a sus excedentes de capital, préstamos de liquidez, mismos que deberán descontar de su capital, debiendo sujetarse a los requisitos y condiciones establecidas en el Capítulo II del Título Cuarto de las presentes disposiciones;
+d) Otorgar a las Sociedades Financieras Populares afiliadas y no afiliadas que supervise de manera auxiliar su [Federación](articulo-1.md), previa aprobación del [Consejo de Administración](articulo-1.md) de ésta y con cargo a sus excedentes de capital, préstamos de liquidez, mismos que deberán descontar de su capital, debiendo sujetarse a los requisitos y condiciones establecidas en el Capítulo II del Título Cuarto de las presentes disposiciones;
 
-e) Recibir créditos de las Federaciones a las que se encuentren afiliadas, en términos del artículo 52 fracción III de la Ley;
+e) Recibir créditos de las Federaciones a las que se encuentren afiliadas, en términos del artículo 52 fracción III de la [Ley](articulo-1.md);
 
 f) Celebrar, como arrendatarias, contratos de arrendamiento financiero sobre equipos de cómputo, transporte y demás que sean necesarios para el cumplimiento de su objeto social, y adquirir los bienes que sean objeto de tales contratos;
 

@@ -25,7 +25,7 @@ II. Un inventario de la empresa del Comerciante; Fracción reformada DOF 10-01-2
 
 III. Un balance, a la fecha en que asuma la administración de la empresa, y Fracción reformada DOF 10-01-2014
 
-IV. Un reporte detallado de la asistencia que hubiere recibido por parte del Comerciante en términos del artículo [184](articulo-184.md) de esta Ley. Fracción adicionada DOF 10-01-2014
+IV. Un reporte detallado de la asistencia que hubiere recibido por parte del Comerciante en términos del artículo [184](articulo-184.md) de esta [Ley](articulo-4o.md). Fracción adicionada DOF 10-01-2014
 
 Estas obligaciones deberán cumplirse en los formatos que al efecto establezca el [Instituto](articulo-4o.md).
 

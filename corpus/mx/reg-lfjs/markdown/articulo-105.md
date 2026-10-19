@@ -17,6 +17,6 @@ source_sha256: 694325ff5d428da51b8f87c5939c58b1e2e8590bd86f13ade6cd284c932cdfc3
 
 # Artículo 105
 
-El valor mínimo de cada uno de los premios que deben ser entregados bajo la presencia de la persona inspectora debe ser el equivalente a 1,500 UMA a valor diario.
+El valor mínimo de cada uno de los premios que deben ser entregados bajo la presencia de la persona inspectora debe ser el equivalente a 1,500 [UMA](articulo-3.md) a valor diario.
 
 Artículo reformado DOF 16-11-2023

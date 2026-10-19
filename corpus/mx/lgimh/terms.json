@@ -7,6 +7,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lgimh:article:5",
     "fraction": "I",
     "start_char": 48,
+    "end_char": 270,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:term:brecha-salarial-de-genero",
+    "term": "Brecha salarial de género",
+    "instrument_id": "urn:lex-mx:federal:statute:lgimh",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgimh:article:5",
+    "fraction": "I Bis",
+    "start_char": 270,
     "end_char": 495,
     "basis": "express_definition"
   },
@@ -40,6 +51,17 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lgimh:article:5",
     "fraction": "IV",
     "start_char": 2523,
+    "end_char": 2903,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:term:igualdad-salarial",
+    "term": "Igualdad salarial",
+    "instrument_id": "urn:lex-mx:federal:statute:lgimh",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgimh:article:5",
+    "fraction": "IV Bis",
+    "start_char": 2903,
     "end_char": 3211,
     "basis": "express_definition"
   },

@@ -17,13 +17,13 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 160
 
-En materia del sistema de control interno, será responsabilidad del Consejo de Administración de cada Sociedad, definir y diseñar los lineamientos para el manejo prudente de la Sociedad. Asimismo, el Consejo de Administración deberá supervisar el establecimiento y vigilar el adecuado funcionamiento del sistema de control interno, para lo cual deberá aplicar entre otras, las medidas siguientes:
+En materia del sistema de control interno, será responsabilidad del [Consejo de Administración](articulo-1.md) de cada Sociedad, definir y diseñar los lineamientos para el manejo prudente de la Sociedad. Asimismo, el Consejo de Administración deberá supervisar el establecimiento y vigilar el adecuado funcionamiento del sistema de control interno, para lo cual deberá aplicar entre otras, las medidas siguientes:
 
 I. Aprobar los manuales de políticas y procedimientos, que sean necesarios para el adecuado funcionamiento del sistema de control interno, así como los manuales de administración de riesgos y de crédito, y un código de ética.
 
 II. Aprobar la estructura orgánica de la Sociedad en la que se asegure la adecuada delimitación de funciones y asignación de responsabilidades.
 
-III. Verificar al menos de forma anual, que la Dirección o Gerencia General y el Comité de Auditoría cumplan con su objetivo de vigilar continuamente la efectividad y funcionalidad de los sistemas de control interno.
+III. Verificar al menos de forma anual, que la Dirección o Gerencia General y el [Comité de Auditoría](articulo-1.md) cumplan con su objetivo de vigilar continuamente la efectividad y funcionalidad de los sistemas de control interno.
 
 IV. Revisar los objetivos, políticas y procedimientos de control interno, por lo menos una vez al año, para lo cual podrá escuchar la opinión del Comité de Auditoría.
 

@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:statute:lgpas",
   "source_sha256": "160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf",
   "extracted_text_sha256": "b603cd33519e2c079b027683e9a264f65076dc326b28d10f6107f9e8c18cf2fa",

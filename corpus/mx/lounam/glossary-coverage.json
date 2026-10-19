@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:statute:lounam",
   "source_sha256": "06af411aa75ed36bd698842d9c2d7f04c7a72e5797718d3aabbd0f89a1d25f9b",
   "extracted_text_sha256": "21f3b9dd4efd22672b678436fd6144f8a4e4a128b517e8b77ed4268eecb80cac",

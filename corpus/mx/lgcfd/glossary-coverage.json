@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:statute:lgcfd",
   "source_sha256": "7f28b406ac8966ef726994b15fc2356a5d8ee92a8e24de0e7a3046d2683fe40d",
   "extracted_text_sha256": "e54e3b987ee54c97ef8d0977f5a4de427204a4d7c3cb8ead4b3e860fb8608d8a",
@@ -24,6 +24,7 @@
         "XI",
         "XII"
       ],
+      "unread_fractions": [],
       "term_count": 12
     }
   ],

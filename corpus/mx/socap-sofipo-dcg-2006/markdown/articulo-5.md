@@ -18,9 +18,9 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 5
 
-Las Sociedades Financieras Populares y Organismos de Integración deberán contemplar en sus estatutos o bases constitutivas, la forma y términos para llevar a cabo la suplencia de los miembros de los Consejos de Administración y Vigilancia. Dicho nombramiento podrá realizarse mediante la designación directa de un miembro suplente por cada miembro propietario, o bien de conformidad con lo siguiente:
+Las [Sociedades](articulo-1.md) Financieras Populares y Organismos de Integración deberán contemplar en sus estatutos o bases constitutivas, la forma y términos para llevar a cabo la suplencia de los miembros de los Consejos de Administración y Vigilancia. Dicho nombramiento podrá realizarse mediante la designación directa de un miembro suplente por cada miembro propietario, o bien de conformidad con lo siguiente:
 
-I. Se nombrará por lo menos un suplente por cada cinco Miembros del Consejo de Administración, y
+I. Se nombrará por lo menos un suplente por cada cinco Miembros del [Consejo de Administración](articulo-1.md), y
 
 II. Se nombrará por lo menos un suplente por cada tres Miembros del Consejo de Vigilancia.
 

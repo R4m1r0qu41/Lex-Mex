@@ -23,7 +23,7 @@ I. Los objetivos sobre la exposición al riesgo de crédito, de mercado y de liq
 
 II. La determinación o procedimiento para calcular los límites de los riesgos.
 
-III. El tipo de reportes que elaborarán, así como la forma y periodicidad con la que deberá informarse al Consejo de Administración, al Director o Gerente General y a las unidades de negocio, sobre la exposición al riesgo de la Sociedad.
+III. El tipo de reportes que elaborarán, así como la forma y periodicidad con la que deberá informarse al [Consejo de Administración](articulo-1.md), al [Director o Gerente General](articulo-1.md) y a las unidades de negocio, sobre la exposición al riesgo de la Sociedad.
 
 IV. Las medidas de control interno, así como las correspondientes para corregir las desviaciones que se observen sobre los límites de exposición al riesgo.
 

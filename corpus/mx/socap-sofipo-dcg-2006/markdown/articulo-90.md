@@ -18,4 +18,4 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 90
 
-El manual de crédito deberá ser revisado por lo menos una vez al año por el Comité de Crédito o su equivalente, en conjunto con el Director o Gerente General y, en su caso, las modificaciones deberán ser sometidas a la autorización del Consejo de Administración, quien podrá escuchar las propuestas de modificación que realice el comité técnico a que se refiere el artículo [80](articulo-80.md) de estas disposiciones.
+El manual de crédito deberá ser revisado por lo menos una vez al año por el [Comité de Crédito](articulo-1.md) o su equivalente, en conjunto con el [Director o Gerente General](articulo-1.md) y, en su caso, las modificaciones deberán ser sometidas a la autorización del [Consejo de Administración](articulo-1.md), quien podrá escuchar las propuestas de modificación que realice el comité técnico a que se refiere el artículo [80](articulo-80.md) de estas disposiciones.

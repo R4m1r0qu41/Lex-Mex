@@ -27,7 +27,7 @@ III. Peligre un secreto oficial, particular, comercial o industrial, cuya revela
 
 IV. El Órgano jurisdiccional estime conveniente;
 
-V. Se afecte el Interés Superior del Niño y de la Niña en términos de lo establecido por los Tratados y las leyes en la materia, o
+V. Se afecte el Interés Superior del Niño y de la Niña en términos de lo establecido por los [Tratados](articulo-3o.md) y las leyes en la materia, o
 
 VI. Esté previsto en este [Código](articulo-3o.md) o en otra ley.
 

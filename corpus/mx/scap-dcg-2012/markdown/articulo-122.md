@@ -18,13 +18,13 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 122
 
-Las políticas y procedimientos para el otorgamiento de Microcréditos Productivos por parte de las Sociedades, deberán estar contenidas en el manual de crédito y aprobadas por el Consejo de Administración y, al menos deberán contemplar lo siguiente:
+Las políticas y procedimientos para el otorgamiento de [Microcréditos Productivos](articulo-1.md) por parte de las Sociedades, deberán estar contenidas en el manual de crédito y aprobadas por el [Consejo de Administración](articulo-1.md) y, al menos deberán contemplar lo siguiente:
 
 I. Describir detalladamente la metodología especializada para el otorgamiento de Microcréditos Productivos, que comprenda el análisis de la capacidad de pago del acreditado, el destino del crédito, los sistemas de información y la infraestructura aplicables.
 
 II. Establecer los plazos máximos de los Microcréditos Productivos, los cuales deberán sujetarse a la regulación de los niveles de operación que les aplique.
 
-III. Establecer el importe máximo que las Sociedades podrán entregar en operaciones de Microcrédito Productivo a un Socio, conforme a lo dispuesto en el artículo [193 Bis](articulo-193-Bis.md) de las presentes disposiciones.
+III. Establecer el importe máximo que las Sociedades podrán entregar en operaciones de Microcrédito Productivo a un [Socio](articulo-1.md), conforme a lo dispuesto en el artículo [193 Bis](articulo-193-Bis.md) de las presentes disposiciones.
 
 IV. Asegurar que el endeudamiento máximo permisible para el acreditado no exceda de 18,000 UDIS en el sistema financiero mexicano, al momento de efectuar la consulta a que se refiere la fracción III del Artículo [123](articulo-123.md) de estas disposiciones.
 

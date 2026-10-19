@@ -21,6 +21,6 @@ Las Sociedades deberán contar con un capital mínimo, el cual se integrará con
 
 50 Párrafo reformado mediante Resolución publicada en el Diario Oficial de la Federación el 09 de abril de 2024, cuya entrada en vigor fue diferida al 1 de enero de 2027, en términos de la Resolución modificatoria publicada en el Diario Oficial de la Federación el 27 de diciembre de 2025, por lo que dicha reforma no se encuentra reflejada en el texto vigente régimen de Sociedades Cooperativas de Ahorro y Préstamo” a que se refiere la fracción VII del Artículo [2](articulo-2.md) de las presentes disposiciones. El capital social deberá estar íntegramente suscrito y pagado. El capital mínimo para las Sociedades sujetas a la presente regulación, será de 500,000 UDIS.
 
-Cuando la situación financiera de alguna Sociedad lo requiera, la Comisión podrá otorgar por única ocasión un plazo de 6 meses a dicha Sociedad para cumplir con el capital mínimo a que se refiere el párrafo anterior.
+Cuando la situación financiera de alguna Sociedad lo requiera, la [Comisión](articulo-1.md) podrá otorgar por única ocasión un plazo de 6 meses a dicha Sociedad para cumplir con el capital mínimo a que se refiere el párrafo anterior.
 
-Los Socios de las Sociedades podrán solicitar el retiro de sus aportaciones, siempre y cuando dicho retiro no resulte en un incumplimiento al capital mínimo o a los requerimientos de capitalización que deben observar las Sociedades conforme a la presente sección.
+Los [Socios](articulo-1.md) de las Sociedades podrán solicitar el retiro de sus aportaciones, siempre y cuando dicho retiro no resulte en un incumplimiento al capital mínimo o a los requerimientos de capitalización que deben observar las Sociedades conforme a la presente sección.

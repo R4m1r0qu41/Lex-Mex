@@ -25,4 +25,4 @@ Las personas concesionarias o asignatarias podrán contratar con terceras person
 
 II. Prestar el servicio público de transporte ferroviario.
 
-Las concesiones o asignaciones de que trata el presente artículo podrán comprender los permisos para prestar Servicios Auxiliares, caso en el cual no será necesario obtener el permiso a que se refiere el artículo [15](articulo-15.md) de la presente Ley. Párrafo reformado DOF 16-07-2025
+Las concesiones o asignaciones de que trata el presente artículo podrán comprender los permisos para prestar [Servicios Auxiliares](articulo-2.md), caso en el cual no será necesario obtener el permiso a que se refiere el artículo [15](articulo-15.md) de la presente Ley. Párrafo reformado DOF 16-07-2025

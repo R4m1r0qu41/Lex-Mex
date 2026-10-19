@@ -23,7 +23,7 @@ I. No iniciar la administración, operación, explotación o, en su caso, constr
 
 II. No mantener vigentes los seguros a que se refiere esta Ley; III. Ceder, gravar, transferir o enajenar los permisos, los derechos conferidos o bienes afectos a los aeródromos civiles, en contravención de esta Ley;
 
-IV. Alterar la naturaleza o condiciones del aeródromo civil establecidas en el permiso, sin previa autorización de la Agencia Federal de Aviación Civil;
+IV. Alterar la naturaleza o condiciones del aeródromo civil establecidas en el permiso, sin previa autorización de la [Agencia Federal de Aviación Civil](articulo-2.md);
 
 V. Consentir el uso del aeródromo civil de cualquier aeronave que no cumpla con los requisitos de la Ley de Aviación Civil, no haya sido permitida por quien presta el servicio de navegación aérea o que su acción u omisión dolosa contribuya a la comisión de algún delito;
 

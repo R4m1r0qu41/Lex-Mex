@@ -18,14 +18,14 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 265 Bis 2
 
-La Sociedad Financiera Popular, para permitir el inicio de una Sesión, deberá solicitar y validar al menos:
+La [Sociedad](articulo-1.md) Financiera Popular, para permitir el inicio de una [Sesión](articulo-1.md), deberá solicitar y validar al menos:
 
-I. El Identificador de Usuario, y
+I. El [Identificador de Usuario](articulo-1.md), y
 
-II. Un Factor de Autenticación de las Categorías 2 o 4 a que se refiere el artículo [265 Bis 4](articulo-265-Bis-4.md) de las presentes disposiciones.
+II. Un [Factor de Autenticación](articulo-1.md) de las Categorías 2 o 4 a que se refiere el artículo [265 Bis 4](articulo-265-Bis-4.md) de las presentes disposiciones.
 
-El Identificador de Usuario deberá ser único para cada Usuario y permitirá a la Sociedad Financiera Popular identificar todas las operaciones realizadas por el propio Usuario a través del Servicio Electrónico de que se trate.
+El Identificador de Usuario deberá ser único para cada [Usuario](articulo-1.md) y permitirá a la Sociedad Financiera Popular identificar todas las operaciones realizadas por el propio Usuario a través del [Servicio Electrónico](articulo-1.md) de que se trate.
 
 La longitud del Identificador de Usuario deberá ser de al menos seis caracteres.
 
-Tratándose de operaciones realizadas a través de Terminales Punto de Venta y Cajeros Automáticos, el Identificador de Usuario podrá ser el número de la tarjeta de crédito o débito con la cual se accede a Servicios Electrónicos.
+Tratándose de operaciones realizadas a través de Terminales Punto de Venta y [Cajeros Automáticos](articulo-1.md), el Identificador de Usuario podrá ser el número de la tarjeta de crédito o débito con la cual se accede a Servicios Electrónicos.

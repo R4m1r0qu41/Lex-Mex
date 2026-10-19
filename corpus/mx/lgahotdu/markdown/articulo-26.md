@@ -29,7 +29,7 @@ V. Las orientaciones para el desarrollo sustentable de las regiones del país, e
 
 VI. Las necesidades que en materia de Desarrollo Urbano planteen el volumen, estructura, dinámica y distribución de la población;
 
-VII. Las estrategias generales para prevenir los impactos negativos en el ambiente urbano y regional originados por la [Fundación](articulo-3.md) y [Crecimiento](articulo-3.md) de los Centros de Población y para fomentar la Gestión Integral del Riesgo y la [Resiliencia](articulo-3.md) urbana en el marco de derechos humanos;
+VII. Las estrategias generales para prevenir los impactos negativos en el ambiente urbano y regional originados por la [Fundación](articulo-3.md) y [Crecimiento](articulo-3.md) de los Centros de Población y para fomentar la Gestión Integral del [Riesgo](articulo-3.md) y la [Resiliencia](articulo-3.md) urbana en el marco de derechos humanos;
 
 VIII. Las políticas generales para el ordenamiento territorial, de las zonas metropolitanas y conurbaciones, de los Asentamientos Humanos y Centros de Población;
 

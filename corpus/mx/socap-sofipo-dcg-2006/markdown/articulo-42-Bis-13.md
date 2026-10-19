@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 42 Bis 13
 
-En caso de existir obligados solidarios o avalistas, la Sociedad Financiera Popular deberá aplicar los siguientes criterios para determinar la Probabilidad de Incumplimiento:
+En caso de existir obligados solidarios o avalistas, la [Sociedad](articulo-1.md) Financiera Popular deberá aplicar los siguientes criterios para determinar la Probabilidad de Incumplimiento:
 
 I. En caso de existir un solo obligado solidario o avalista que responda por la totalidad de la responsabilidad del acreditado, se podrá sustituir la Probabilidad de Incumplimiento del acreditado por la del obligado solidario o avalista, obtenida de acuerdo con la metodología que corresponda a dicho obligado.
 
@@ -32,4 +32,4 @@ b) Las reservas de la parte cubierta por cada uno de los avalistas se determinar
 
 c) Las reservas de la parte no cubierta se determinarán utilizando la Probabilidad de Incumplimiento y la Severidad de la Pérdida del acreditado de conformidad con lo dispuesto en la presente sección.
 
-En los casos donde la Sociedad Financiera Popular no cuente con información para determinar la Probabilidad de Incumplimiento del obligado solidario o avalista, deberán calcularla de acuerdo con lo establecido en el Artículo [112](../../cub-dcg-2005/markdown/articulo-112.md) de la Circular Única de Bancos.
+En los casos donde la Sociedad Financiera Popular no cuente con información para determinar la Probabilidad de Incumplimiento del obligado solidario o avalista, deberán calcularla de acuerdo con lo establecido en el Artículo [112](../../cub-dcg-2005/markdown/articulo-112.md) de la [Circular Única de Bancos](articulo-1.md).

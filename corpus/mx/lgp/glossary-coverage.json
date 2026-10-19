@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-1",
+  "strategy_version": "glossary-extraction-2",
   "instrument_id": "urn:lex-mx:federal:statute:lgp",
   "source_sha256": "15e8cb5ca11592f331fca6a94784cce3dd58837397857f2d764476768d0ca780",
   "extracted_text_sha256": "97fcad632760866cfee27ba1167f2c0e82d08792389d98a514a2486032345792",

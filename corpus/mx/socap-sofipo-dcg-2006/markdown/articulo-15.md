@@ -18,15 +18,15 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 15
 
-En ningún caso podrán ser Consejeros independientes de las Sociedades Financieras Populares:
+En ningún caso podrán ser [Consejeros](articulo-1.md) independientes de las [Sociedades](articulo-1.md) Financieras Populares:
 
-I. Las personas que tengan alguno de los impedimentos señalados en las fracciones I a VIII del artículo 21 de la Ley;
+I. Las personas que tengan alguno de los impedimentos señalados en las fracciones I a VIII del artículo 21 de la [Ley](articulo-1.md);
 
 II. Los empleados, funcionarios o directivos de la Sociedad Financiera Popular;
 
-III. Socios o accionistas que tengan Poder de Mando y /o personas que se encuentren en alguno de los supuestos previstos en el artículo 35 de la Ley;
+III. Socios o accionistas que tengan [Poder de Mando](articulo-1.md) y /o personas que se encuentren en alguno de los supuestos previstos en el artículo 35 de la Ley;
 
-IV. Socios o empleados de sociedades o asociaciones que presten servicios de auditoría, asesoría o consultoría a la propia Sociedad Financiera Popular, así como a la Federación que la supervise de manera auxiliar o la Confederación que administre el Fondo de Protección y que sus ingresos dependan significativamente de esta relación.
+IV. Socios o empleados de sociedades o asociaciones que presten servicios de auditoría, asesoría o consultoría a la propia Sociedad Financiera Popular, así como a la [Federación](articulo-1.md) que la supervise de manera auxiliar o la [Confederación](articulo-1.md) que administre el Fondo de Protección y que sus ingresos dependan significativamente de esta relación.
 
 Para efectos de lo dispuesto en esta fracción, se considerará ingreso significativo si éste representa más de 10 por ciento de los ingresos obtenidos por dichas personas morales durante el año inmediato anterior a aquel en que se pretenda ocupar el cargo de que se trata;
 
@@ -38,7 +38,7 @@ VI. Empleados, funcionarios o directivos de una fundación, asociación civil o 
 
 Se consideran donativos importantes a aquellos que representen más de 15 por ciento del total de donativos recibidos u otorgados por la fundación, asociación o sociedad civiles de que se trate;
 
-VII. Directores generales o funcionarios de primer y segundo nivel de una sociedad en cuyo consejo de administración participe el Director o Gerente General o un funcionario de alto nivel de la Sociedad Financiera Popular o de la Federación que supervise auxiliarmente a ésta o de la Confederación que administre al Fondo de Protección respectivo;
+VII. Directores generales o funcionarios de primer y segundo nivel de una sociedad en cuyo consejo de administración participe el [Director o Gerente General](articulo-1.md) o un funcionario de alto nivel de la Sociedad Financiera Popular o de la Federación que supervise auxiliarmente a ésta o de la Confederación que administre al Fondo de Protección respectivo;
 
 VIII. Cónyuges, concubinas o concubinarios, así como los parientes por consanguinidad y afinidad hasta el primer grado o civil, respecto de alguna de las personas mencionadas en las fracciones IV a VII anteriores, o bien, hasta el tercer grado, en relación con las señaladas en las fracciones II, III y IX del presente artículo;
 

@@ -18,9 +18,9 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 208
 
-Las Sociedades Financieras Populares deberán contar con políticas y procedimientos aprobados por el Consejo de Administración que permitan implementar medidas de control para identificar, evaluar y limitar de manera oportuna la toma de riesgos en el otorgamiento de créditos, basados en la información que obtengan de Sociedades de Información Crediticia, en las que se prevea, cuando menos, lo siguiente:
+Las [Sociedades](articulo-1.md) Financieras Populares deberán contar con políticas y procedimientos aprobados por el [Consejo de Administración](articulo-1.md) que permitan implementar medidas de control para identificar, evaluar y limitar de manera oportuna la toma de riesgos en el otorgamiento de créditos, basados en la información que obtengan de Sociedades de Información Crediticia, en las que se prevea, cuando menos, lo siguiente:
 
-I. Criterios para valorar el contenido de los informes proporcionados por la Sociedad de Información Crediticia respectiva, que permitan calificar los grados de riesgo de un determinado solicitante de crédito y, en su caso, de sus avalistas, fiadores y obligados solidarios, cuando cuenten con adeudos vencidos u otro tipo de antecedentes crediticios;
+I. Criterios para valorar el contenido de los informes proporcionados por la [Sociedad de Información Crediticia](articulo-1.md) respectiva, que permitan calificar los grados de riesgo de un determinado solicitante de crédito y, en su caso, de sus avalistas, fiadores y obligados solidarios, cuando cuenten con adeudos vencidos u otro tipo de antecedentes crediticios;
 
 II. La información adicional que se requeriría a las personas que se ubiquen en los supuestos previstos en la fracción anterior;
 

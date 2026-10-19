@@ -17,7 +17,7 @@ source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
 
 # Artículo 165
 
-Para cumplir con las responsabilidades respecto del sistema de control interno, el Director o Gerente General deberá asegurarse de que se lleven a cabo, entre otras, las acciones siguientes:
+Para cumplir con las responsabilidades respecto del sistema de control interno, el [Director o Gerente General](articulo-1.md) deberá asegurarse de que se lleven a cabo, entre otras, las acciones siguientes:
 
 I. Identificar y evaluar los factores internos y externos que pueden afectar la consecución de las estrategias y objetivos de la Sociedad.
 
