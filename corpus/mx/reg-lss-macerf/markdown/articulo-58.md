@@ -19,7 +19,7 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 Durante el estado de huelga no procederá el aviso de baja presentado por el patrón, respecto de sus trabajadores involucrados en la suspensión colectiva de labores.
 
-El Instituto, podrá operar la baja del trabajador únicamente a solicitud del mismo y bajo la responsabilidad de éste, cuando:
+El [Instituto](../../lss/markdown/articulo-5-A.md), podrá operar la baja del trabajador únicamente a solicitud del mismo y bajo la responsabilidad de éste, cuando:
 
 I. Antes del conflicto o durante el mismo, reúna los requisitos para obtener la pensión que, en su caso, corresponda.
 

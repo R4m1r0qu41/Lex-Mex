@@ -17,4 +17,4 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 70
 
-El cambio de un asegurado del régimen obligatorio al de incorporación voluntaria en este régimen, o viceversa, no afectará los derechos adquiridos en uno u otro, salvo que las prestaciones otorgables en cada uno de ellos sean diferentes, en cuyo caso, el Instituto determinará las reglas para su procedencia.
+El cambio de un asegurado del régimen obligatorio al de incorporación voluntaria en este régimen, o viceversa, no afectará los derechos adquiridos en uno u otro, salvo que las prestaciones otorgables en cada uno de ellos sean diferentes, en cuyo caso, el [Instituto](../../lss/markdown/articulo-5-A.md) determinará las reglas para su procedencia.

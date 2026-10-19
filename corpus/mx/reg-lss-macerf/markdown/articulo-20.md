@@ -17,4 +17,4 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 20
 
-Si la actividad de una empresa no se señala en forma específica en el Catálogo de Actividades establecido en este Reglamento, el patrón o el Instituto procederán a determinar la clasificación considerando la analogía o similitud en la actividad, los procesos de trabajo y los riesgos de dicha actividad con los que se establecen en el Catálogo mencionado. REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN
+Si la actividad de una empresa no se señala en forma específica en el Catálogo de Actividades establecido en este Reglamento, el patrón o el [Instituto](../../lss/markdown/articulo-5-A.md) procederán a determinar la clasificación considerando la analogía o similitud en la actividad, los procesos de trabajo y los riesgos de dicha actividad con los que se establecen en el Catálogo mencionado. REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN

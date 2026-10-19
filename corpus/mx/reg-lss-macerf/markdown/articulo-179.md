@@ -17,7 +17,7 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 179
 
-El Instituto deberá resolver, en un plazo no mayor a quince días hábiles, la solicitud de corrección que el patrón o sujeto obligado hubiese presentado de manera espontánea, en caso de no hacerlo así, se entenderá que dicha solicitud ha sido aceptada. El periodo a regularizar en este caso corresponderá al ejercicio fiscal inmediato anterior y el periodo transcurrido a la fecha de presentación de la solicitud.
+El [Instituto](../../lss/markdown/articulo-5-A.md) deberá resolver, en un plazo no mayor a quince días hábiles, la solicitud de corrección que el patrón o sujeto obligado hubiese presentado de manera espontánea, en caso de no hacerlo así, se entenderá que dicha solicitud ha sido aceptada. El periodo a regularizar en este caso corresponderá al ejercicio fiscal inmediato anterior y el periodo transcurrido a la fecha de presentación de la solicitud.
 
 Tratándose de la corrección que se realice a través de oficio de invitación del Instituto, el patrón deberá presentar por escrito, en un plazo no mayor a seis días hábiles contados a partir del día siguiente de la fecha de su notificación, su aceptación de regularizar los dos últimos ejercicios fiscales más el periodo transcurrido a la fecha de la notificación.
 

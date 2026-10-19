@@ -17,6 +17,6 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 17
 
-Los patrones del campo y demás sujetos obligados, al registrarse ante el Instituto, deberán proporcionar el periodo y tipo de cultivo, superficie o unidad de producción, total de jornadas estimadas a utilizar por periodo y demás datos que se requieran, en los formatos autorizados por el Instituto.
+Los patrones del campo y demás sujetos obligados, al registrarse ante el [Instituto](../../lss/markdown/articulo-5-A.md), deberán proporcionar el periodo y tipo de cultivo, superficie o unidad de producción, total de jornadas estimadas a utilizar por periodo y demás datos que se requieran, en los formatos autorizados por el Instituto.
 
 La modificación de cualquiera de los datos proporcionados deberá ser comunicada al Instituto, en un plazo no mayor de treinta días naturales contados a partir de la fecha en que ocurran. Párrafo reformado DOF 15-07-2005

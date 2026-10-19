@@ -17,7 +17,7 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 176
 
-Cuando el Instituto detecte irregularidades en la elaboración e integración del dictamen, imputables al contador público autorizado, podrá imponer las sanciones en los términos siguientes:
+Cuando el [Instituto](../../lss/markdown/articulo-5-A.md) detecte irregularidades en la elaboración e integración del dictamen, imputables al contador público autorizado, podrá imponer las sanciones en los términos siguientes:
 
 I. Le amonestará:
 
@@ -37,7 +37,7 @@ b).- Por dos años, en las siguientes situaciones:
 
 3) Cuando la documentación aclaratoria solicitada por el Instituto no se presente dentro del plazo que se otorgue para tal efecto, independientemente de las prórrogas o nuevos requerimientos autorizados o formulados por el Instituto que sean diversos al requerimiento de documentación.
 
-c).- Por tres años, cuando del dictamen presentado o de su revisión, se resuelva que lo hizo en contravención a lo dispuesto en la Ley, sus reglamentos o a las normas de auditoría generalmente aceptadas;
+c).- Por tres años, cuando del dictamen presentado o de su revisión, se resuelva que lo hizo en contravención a lo dispuesto en la [Ley](../../lss/markdown/articulo-5-A.md), sus reglamentos o a las normas de auditoría generalmente aceptadas;
 
 d).- Cuando esté sujeto a proceso por presunta comisión de un delito de carácter fiscal o por delitos intencionales que ameriten pena corporal. En este caso, la suspensión durará hasta la resolución definitiva de dicho proceso, y
 

@@ -17,4 +17,4 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 66
 
-El asegurado que haya sido dado de baja del régimen obligatorio, al momento de inscribirse en la continuación voluntaria, podrá optar por continuar protegido a partir de la fecha que elija entre la de su solicitud de inscripción en la continuación voluntaria o la del día siguiente de su baja, debiendo cubrir, en todo caso, las cuotas que no fueron enteradas al Instituto.
+El asegurado que haya sido dado de baja del régimen obligatorio, al momento de inscribirse en la continuación voluntaria, podrá optar por continuar protegido a partir de la fecha que elija entre la de su solicitud de inscripción en la continuación voluntaria o la del día siguiente de su baja, debiendo cubrir, en todo caso, las cuotas que no fueron enteradas al [Instituto](../../lss/markdown/articulo-5-A.md).

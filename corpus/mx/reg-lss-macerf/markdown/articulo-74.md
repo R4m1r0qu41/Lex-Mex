@@ -17,9 +17,9 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 74
 
-Para efectos del otorgamiento del subsidio a que se refiere el párrafo primero del artículo [62](../../lss/markdown/articulo-62.md) de la Ley, se estará a lo siguiente:
+Para efectos del otorgamiento del subsidio a que se refiere el párrafo primero del artículo [62](../../lss/markdown/articulo-62.md) de la [Ley](../../lss/markdown/articulo-5-A.md), se estará a lo siguiente:
 
-I. El trabajador que sufra una recaída derivada de un riesgo de trabajo, estando vigente su condición de asegurado, ya sea con el patrón con el que ocurrió el riesgo o con otro diferente, el salario que servirá de base para certificar el pago del subsidio o en su caso, de la pensión o revaluación de la misma, será el que tenga registrado al momento de que el Instituto determine la procedencia de la recaída, y
+I. El trabajador que sufra una recaída derivada de un riesgo de trabajo, estando vigente su condición de asegurado, ya sea con el patrón con el que ocurrió el riesgo o con otro diferente, el salario que servirá de base para certificar el pago del subsidio o en su caso, de la pensión o revaluación de la misma, será el que tenga registrado al momento de que el [Instituto](../../lss/markdown/articulo-5-A.md) determine la procedencia de la recaída, y
 
 II. En el supuesto de que un trabajador que no teniendo ya la condición de asegurado, sufra una recaída dentro de las cincuenta y dos semanas a que se refiere el párrafo segundo de la fracción I del artículo [58](../../lss/markdown/articulo-58.md) de la Ley, tendrá derecho al subsidio, además de las prestaciones en especie del seguro de riesgos de trabajo, hasta completar el referido periodo, descontando el lapso que hubiere transcurrido entre la fecha en que el trabajador haya sido dado de baja ante el Instituto y aquella en que el propio Instituto determine que el trabajador sufrió una recaída, por lo que por dicho periodo no se cubrirá el subsidio de referencia al trabajador. Cumplidas las cincuenta y dos semanas, se extinguirá el derecho al subsidio y demás prestaciones.
 

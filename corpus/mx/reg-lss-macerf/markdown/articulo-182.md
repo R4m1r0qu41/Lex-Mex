@@ -17,4 +17,4 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 182
 
-Los patrones o sujetos obligados que concluyan su corrección de conformidad con lo que establece la Ley y este Reglamento, estarán a lo previsto en el artículo [173](articulo-173.md) del presente ordenamiento.
+Los patrones o sujetos obligados que concluyan su corrección de conformidad con lo que establece la [Ley](../../lss/markdown/articulo-5-A.md) y este Reglamento, estarán a lo previsto en el artículo [173](articulo-173.md) del presente ordenamiento.

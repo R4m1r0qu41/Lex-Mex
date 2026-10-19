@@ -15,4 +15,4 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Cuarto
 
-Se dejan sin efectos los Acuerdos 167/95, 196/2000 y 399/2000, emitidos por el Consejo Técnico del Instituto, los cuales sólo se aplicarán para las solicitudes de convenio que se hubieran recibido en el Instituto antes de la fecha de inicio de vigencia de las reformas a la Ley, publicadas en el Diario Oficial de la Federación de fecha veinte de diciembre de 2001.
+Se dejan sin efectos los Acuerdos 167/95, 196/2000 y 399/2000, emitidos por el Consejo Técnico del [Instituto](../../lss/markdown/articulo-5-A.md), los cuales sólo se aplicarán para las solicitudes de convenio que se hubieran recibido en el Instituto antes de la fecha de inicio de vigencia de las reformas a la [Ley](../../lss/markdown/articulo-5-A.md), publicadas en el Diario Oficial de la Federación de fecha veinte de diciembre de 2001.

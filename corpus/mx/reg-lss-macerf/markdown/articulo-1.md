@@ -23,7 +23,7 @@ I. El registro de los patrones y demás sujetos obligados, así como la inscripc
 
 II. El aseguramiento de los sujetos de continuación o incorporación voluntaria al Régimen Obligatorio y del Seguro de Salud para la Familia;
 
-III. La determinación y pago de las cuotas, capitales constitutivos, actualización y recargos, a cargo de patrones, demás sujetos obligados y, en su caso, de trabajadores; de los gastos por inscripciones improcedentes y los demás conceptos que el Instituto tenga derecho a exigir a personas no derechohabientes, de conformidad con lo dispuesto por la Ley del Seguro Social y demás disposiciones legales o reglamentarias aplicables;
+III. La determinación y pago de las cuotas, capitales constitutivos, actualización y recargos, a cargo de patrones, demás sujetos obligados y, en su caso, de trabajadores; de los gastos por inscripciones improcedentes y los demás conceptos que el [Instituto](../../lss/markdown/articulo-5-A.md) tenga derecho a exigir a personas no derechohabientes, de conformidad con lo dispuesto por la [Ley](../../lss/markdown/articulo-5-A.md) del Seguro Social y demás disposiciones legales o reglamentarias aplicables;
 
 IV. La clasificación de las empresas y la determinación de la prima para la cobertura del Seguro de Riesgos de Trabajo, a que se refiere la Ley del Seguro Social;
 

@@ -17,4 +17,4 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 93
 
-Los sujetos de aseguramiento del campo señalados en los artículos [13](../../lss/markdown/articulo-13.md), fracción III, y [235](../../lss/markdown/articulo-235.md) de la Ley, para ser considerados como tales, deberán encontrarse dedicados en forma directa a las labores de carácter agrícola, ganadera, forestal o mixtas.
+Los sujetos de aseguramiento del campo señalados en los artículos [13](../../lss/markdown/articulo-13.md), fracción III, y [235](../../lss/markdown/articulo-235.md) de la [Ley](../../lss/markdown/articulo-5-A.md), para ser considerados como tales, deberán encontrarse dedicados en forma directa a las labores de carácter agrícola, ganadera, forestal o mixtas.

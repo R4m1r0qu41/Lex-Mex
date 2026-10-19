@@ -17,7 +17,7 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 47
 
-El Instituto, al recibir el aviso de inscripción de un trabajador, verificará que el aviso correspondiente contenga la Clave Única de Registro de Población del trabajador.
+El [Instituto](../../lss/markdown/articulo-5-A.md), al recibir el aviso de inscripción de un trabajador, verificará que el aviso correspondiente contenga la Clave Única de Registro de Población del trabajador.
 
 El patrón deberá solicitar al trabajador su Clave Única de Registro de Población, la omisión en la presentación de este documento no exime al patrón de la obligación de inscribirlo ante el Instituto.
 

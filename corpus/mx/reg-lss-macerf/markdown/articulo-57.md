@@ -17,7 +17,7 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 57
 
-Los patrones o sujetos obligados deberán comunicar al Instituto, a través de los medios autorizados, las bajas de los trabajadores cuando termine la relación laboral o dejen de ser sujetos de aseguramiento, en el plazo de cinco días hábiles, contado a partir del día siguiente de la fecha en que se dé el supuesto respectivo.
+Los patrones o sujetos obligados deberán comunicar al [Instituto](../../lss/markdown/articulo-5-A.md), a través de los medios autorizados, las bajas de los trabajadores cuando termine la relación laboral o dejen de ser sujetos de aseguramiento, en el plazo de cinco días hábiles, contado a partir del día siguiente de la fecha en que se dé el supuesto respectivo.
 
 En el caso de la presentación del aviso de baja, dentro del término legal, éste surtirá sus efectos a partir de la fecha señalada por el patrón en dicho aviso, teniéndose como cotizado el día que se señale como fecha de la baja.
 

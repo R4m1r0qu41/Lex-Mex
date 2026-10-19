@@ -17,7 +17,7 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 8
 
-La constancia de los días laborados por los trabajadores a que se refiere la fracción IX del artículo 15 de la Ley deberá contener al menos, los datos siguientes:
+La constancia de los días laborados por los trabajadores a que se refiere la fracción IX del artículo 15 de la [Ley](../../lss/markdown/articulo-5-A.md) deberá contener al menos, los datos siguientes:
 
 I. Nombre, denominación o razón social del patrón, completos;
 

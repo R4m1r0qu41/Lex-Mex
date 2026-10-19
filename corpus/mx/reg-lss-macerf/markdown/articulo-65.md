@@ -17,8 +17,8 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 65
 
-El salario base de cotización, que servirá para la continuación voluntaria del asegurado, será el que tenía registrado al momento de la baja en el régimen obligatorio o un salario superior, a su elección, sin exceder el límite máximo señalado en la Ley.
+El salario base de cotización, que servirá para la continuación voluntaria del asegurado, será el que tenía registrado al momento de la baja en el régimen obligatorio o un salario superior, a su elección, sin exceder el límite máximo señalado en la [Ley](../../lss/markdown/articulo-5-A.md).
 
-Si con motivo del incremento legal al salario mínimo general del área geográfica que corresponda, el salario base de cotización resultara inferior a aquél, el Instituto de oficio lo ajustará a dicho salario mínimo.
+Si con motivo del incremento legal al salario mínimo general del área geográfica que corresponda, el salario base de cotización resultara inferior a aquél, el [Instituto](../../lss/markdown/articulo-5-A.md) de oficio lo ajustará a dicho salario mínimo.
 
 Para el caso de reingreso a la continuación voluntaria, previsto en el último párrafo del artículo [220](../../lss/markdown/articulo-220.md) de la Ley, el salario base de cotización será igual al que tenía registrado el asegurado al momento de la baja en la continuación voluntaria o un salario superior, sin exceder el límite máximo señalado en la Ley, debiendo cubrir las cuotas correspondientes al periodo comprendido entre la fecha de la baja y la de reingreso.

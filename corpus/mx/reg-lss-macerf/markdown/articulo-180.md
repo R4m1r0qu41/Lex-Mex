@@ -17,7 +17,7 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 180
 
-El patrón o sujeto obligado deberá presentar la corrección en un plazo máximo de cuarenta días hábiles contados a partir de la fecha de aceptación de la solicitud, acompañando la documentación que sustente dicha corrección, así como copia del comprobante de pago de las cuotas obrero patronales, adjuntando el formato impreso o el medio magnético correspondiente al programa informático autorizado por el Instituto para el pago y constancia de la presentación de los avisos afiliatorios y movimientos salariales resultantes de la corrección.
+El patrón o sujeto obligado deberá presentar la corrección en un plazo máximo de cuarenta días hábiles contados a partir de la fecha de aceptación de la solicitud, acompañando la documentación que sustente dicha corrección, así como copia del comprobante de pago de las cuotas obrero patronales, adjuntando el formato impreso o el medio magnético correspondiente al programa informático autorizado por el [Instituto](../../lss/markdown/articulo-5-A.md) para el pago y constancia de la presentación de los avisos afiliatorios y movimientos salariales resultantes de la corrección.
 
 El Instituto, previa solicitud patronal, podrá conceder por única vez prórroga hasta por diez días hábiles.
 

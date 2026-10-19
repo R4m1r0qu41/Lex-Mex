@@ -15,4 +15,4 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Tercero
 
-Para el cumplimiento de las obligaciones a que se refiere la Ley y este Reglamento, los patrones o sujetos obligados deberán continuar utilizando los formatos de los trámites que el Instituto tiene autorizados a la fecha, hasta en tanto éste publique en el Diario Oficial de la Federación, los nuevos formatos a que se refiere el presente Reglamento.
+Para el cumplimiento de las obligaciones a que se refiere la [Ley](../../lss/markdown/articulo-5-A.md) y este Reglamento, los patrones o sujetos obligados deberán continuar utilizando los formatos de los trámites que el [Instituto](../../lss/markdown/articulo-5-A.md) tiene autorizados a la fecha, hasta en tanto éste publique en el Diario Oficial de la Federación, los nuevos formatos a que se refiere el presente Reglamento.

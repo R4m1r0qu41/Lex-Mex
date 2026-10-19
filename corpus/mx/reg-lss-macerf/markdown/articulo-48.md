@@ -17,7 +17,7 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 48
 
-El Instituto le entregará al derechohabiente, un documento de identificación.
+El [Instituto](../../lss/markdown/articulo-5-A.md) le entregará al derechohabiente, un documento de identificación.
 
 Dicho documento deberá contener, al menos los datos siguientes:
 

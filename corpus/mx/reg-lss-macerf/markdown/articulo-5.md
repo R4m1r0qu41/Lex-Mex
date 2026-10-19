@@ -17,7 +17,7 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 5
 
-Los patrones y demás sujetos obligados que en los términos del artículo [15](../../lss/markdown/articulo-15.md) de la Ley, realicen los trámites correspondientes para el cumplimiento de sus obligaciones a través de medios magnéticos, digitales, electrónicos, ópticos, magneto ópticos o de cualquier otra naturaleza, deberán utilizar el número patronal de identificación electrónica, como llave pública de sistemas criptográficos a que se refiere el artículo [15](articulo-15.md) de este Reglamento en sustitución de su firma autógrafa. Este número se tramitará de conformidad con los lineamientos de carácter general que emita el Consejo Técnico del Instituto, los cuales se publicarán en el Diario Oficial de la Federación.
+Los patrones y demás sujetos obligados que en los términos del artículo [15](../../lss/markdown/articulo-15.md) de la [Ley](../../lss/markdown/articulo-5-A.md), realicen los trámites correspondientes para el cumplimiento de sus obligaciones a través de medios magnéticos, digitales, electrónicos, ópticos, magneto ópticos o de cualquier otra naturaleza, deberán utilizar el número patronal de identificación electrónica, como llave pública de sistemas criptográficos a que se refiere el artículo [15](articulo-15.md) de este Reglamento en sustitución de su firma autógrafa. Este número se tramitará de conformidad con los lineamientos de carácter general que emita el Consejo Técnico del [Instituto](../../lss/markdown/articulo-5-A.md), los cuales se publicarán en el Diario Oficial de la Federación.
 
 Para los efectos del párrafo anterior, el Instituto establecerá un sistema de identificación electrónica de tecnología criptográfica.
 

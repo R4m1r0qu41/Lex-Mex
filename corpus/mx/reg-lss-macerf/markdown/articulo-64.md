@@ -17,4 +17,4 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 64
 
-Los asegurados que dejen de pertenecer al régimen obligatorio, podrán optar por continuar voluntariamente en el mismo, en los términos del artículo [218](../../lss/markdown/articulo-218.md) de la Ley. Asimismo, tendrán derecho a contratar el Seguro de Salud para la Familia, en los términos de este Reglamento.
+Los asegurados que dejen de pertenecer al régimen obligatorio, podrán optar por continuar voluntariamente en el mismo, en los términos del artículo [218](../../lss/markdown/articulo-218.md) de la [Ley](../../lss/markdown/articulo-5-A.md). Asimismo, tendrán derecho a contratar el Seguro de Salud para la Familia, en los términos de este Reglamento.

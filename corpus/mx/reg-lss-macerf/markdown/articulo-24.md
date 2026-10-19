@@ -17,4 +17,4 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 24
 
-Las cuotas del Seguro de Riesgos de Trabajo que deban pagar los patrones y demás sujetos obligados, al registrarse por primera vez ante el Instituto o al cambiar de actividad, por disposición de la Ley, de este Reglamento o por sentencia definitiva, serán las que resulten de aplicar la prima media de la clase que corresponda, determinadas por el propio patrón y validadas por el Instituto, al salario base de cotización en los términos de la Ley y de este Reglamento.
+Las cuotas del Seguro de Riesgos de Trabajo que deban pagar los patrones y demás sujetos obligados, al registrarse por primera vez ante el [Instituto](../../lss/markdown/articulo-5-A.md) o al cambiar de actividad, por disposición de la [Ley](../../lss/markdown/articulo-5-A.md), de este Reglamento o por sentencia definitiva, serán las que resulten de aplicar la prima media de la clase que corresponda, determinadas por el propio patrón y validadas por el Instituto, al salario base de cotización en los términos de la Ley y de este Reglamento.

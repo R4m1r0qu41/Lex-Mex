@@ -17,4 +17,4 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 7
 
-El entero de cuotas al Instituto por los patrones y demás sujetos obligados al pago de las mismas, no los libera de la obligación de presentar los avisos o movimientos afiliatorios, y de cualquier otra índole.
+El entero de cuotas al [Instituto](../../lss/markdown/articulo-5-A.md) por los patrones y demás sujetos obligados al pago de las mismas, no los libera de la obligación de presentar los avisos o movimientos afiliatorios, y de cualquier otra índole.

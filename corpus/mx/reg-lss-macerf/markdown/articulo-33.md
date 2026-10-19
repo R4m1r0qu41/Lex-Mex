@@ -17,7 +17,7 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 33
 
-El Instituto podrá rectificar o determinar la prima de un patrón, mediante resolución, que se notificará a éste o a su representante legal, cuando:
+El [Instituto](../../lss/markdown/articulo-5-A.md) podrá rectificar o determinar la prima de un patrón, mediante resolución, que se notificará a éste o a su representante legal, cuando:
 
 I. La prima manifestada por el patrón no esté determinada conforme a lo dispuesto en este Reglamento;
 

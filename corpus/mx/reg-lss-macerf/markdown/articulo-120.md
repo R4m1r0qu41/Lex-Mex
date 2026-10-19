@@ -17,7 +17,7 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 120
 
-El pago de las cuotas obrero patronales podrá realizarse en las unidades administrativas del Instituto, en las entidades receptoras o en las oficinas autorizadas por éste, conforme a lo dispuesto en el artículo [113](articulo-113.md) de este Reglamento.
+El pago de las cuotas obrero patronales podrá realizarse en las unidades administrativas del [Instituto](../../lss/markdown/articulo-5-A.md), en las entidades receptoras o en las oficinas autorizadas por éste, conforme a lo dispuesto en el artículo [113](articulo-113.md) de este Reglamento.
 
 Los demás créditos fiscales a favor del Instituto serán pagados en las citadas unidades administrativas.
 

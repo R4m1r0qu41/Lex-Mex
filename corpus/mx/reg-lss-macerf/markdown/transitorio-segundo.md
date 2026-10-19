@@ -15,7 +15,7 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Segundo
 
-A la entrada en vigor del presente Reglamento, se abrogan los Reglamentos de Afiliación; de la Seguridad Social para el Campo; del Seguro de Salud para la Familia; para el Pago de Cuotas del Seguro Social y para la Imposición de Multas por Infracción a las Disposiciones de la Ley del Seguro Social y sus Reglamentos, publicados en el Diario Oficial de la Federación el día 30 de junio de 1997, así como el Reglamento para la Clasificación de Empresas y Determinación de la Prima en el Seguro de Riesgos de Trabajo, publicado en el Diario Oficial de la Federación el día 11 de noviembre de 1998.
+A la entrada en vigor del presente Reglamento, se abrogan los Reglamentos de Afiliación; de la Seguridad Social para el Campo; del Seguro de Salud para la Familia; para el Pago de Cuotas del Seguro Social y para la Imposición de Multas por Infracción a las Disposiciones de la [Ley](../../lss/markdown/articulo-5-A.md) del Seguro Social y sus Reglamentos, publicados en el Diario Oficial de la Federación el día 30 de junio de 1997, así como el Reglamento para la Clasificación de Empresas y Determinación de la Prima en el Seguro de Riesgos de Trabajo, publicado en el Diario Oficial de la Federación el día 11 de noviembre de 1998.
 
 Los procedimientos o instancias iniciados bajo la vigencia de los reglamentos que se abrogan, seguirán tramitándose hasta su conclusión en los términos previstos del reglamento que corresponda.
 

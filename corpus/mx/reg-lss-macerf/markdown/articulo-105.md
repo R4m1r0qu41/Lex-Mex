@@ -19,7 +19,7 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 La renovación del aseguramiento deberá efectuarse dentro de los treinta días naturales anteriores a la fecha del vencimiento del mismo.
 
-Tratándose de renovaciones colectivas, el representante deberá, dentro de los primeros cinco días hábiles del mes en que deba hacerse la renovación, manifestar por escrito la voluntad de continuar con el aseguramiento indicando quiénes serán los asegurados, aportando todos los datos necesarios para que el Instituto efectúe el cálculo de las cuotas a enterar, en cuyo caso, el Instituto comunicará el importe a pagar, en un plazo de diez días hábiles, contado a partir de la fecha de presentación de la solicitud.
+Tratándose de renovaciones colectivas, el representante deberá, dentro de los primeros cinco días hábiles del mes en que deba hacerse la renovación, manifestar por escrito la voluntad de continuar con el aseguramiento indicando quiénes serán los asegurados, aportando todos los datos necesarios para que el [Instituto](../../lss/markdown/articulo-5-A.md) efectúe el cálculo de las cuotas a enterar, en cuyo caso, el Instituto comunicará el importe a pagar, en un plazo de diez días hábiles, contado a partir de la fecha de presentación de la solicitud.
 
 En caso de no manifestar la voluntad de continuar con el aseguramiento dentro del plazo señalado en el párrafo anterior, el cálculo de las cuotas a enterar deberá ser efectuado por el representante.
 

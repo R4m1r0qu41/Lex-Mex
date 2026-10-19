@@ -17,7 +17,7 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 151
 
-Las cédulas de liquidación emitidas por el Instituto por concepto de cuotas obrero patronales, capitales constitutivos, actualización, recargos, multas y gastos por inscripciones improcedentes y atención a no derechohabientes, tendrán el carácter de definitivas al surtir efectos su notificación.
+Las cédulas de liquidación emitidas por el [Instituto](../../lss/markdown/articulo-5-A.md) por concepto de cuotas obrero patronales, capitales constitutivos, actualización, recargos, multas y gastos por inscripciones improcedentes y atención a no derechohabientes, tendrán el carácter de definitivas al surtir efectos su notificación.
 
 Sin perjuicio de lo señalado en el párrafo anterior, el patrón podrá formular aclaraciones en relación con los créditos emitidos por concepto de cuotas obrero patronales, capitales constitutivos, actualización, recargos y multas, conforme a lo siguiente:
 

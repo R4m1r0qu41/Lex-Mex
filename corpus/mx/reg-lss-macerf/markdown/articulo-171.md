@@ -17,7 +17,7 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 171
 
-El Instituto al revisar el dictamen lo hará conforme a los lineamientos siguientes:
+El [Instituto](../../lss/markdown/articulo-5-A.md) al revisar el dictamen lo hará conforme a los lineamientos siguientes:
 
 I. Requerirá al contador público autorizado por escrito con copia al patrón:
 

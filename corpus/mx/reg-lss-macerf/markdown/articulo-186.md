@@ -17,4 +17,4 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 186
 
-En caso de que el patrón con un mismo acto u omisión cometa varias infracciones a las normas previstas en la Ley o sus reglamentos, y por tal motivo, se haga acreedor a la imposición de varias multas, sólo se aplicará la que corresponda a la infracción cuya multa sea mayor. REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN
+En caso de que el patrón con un mismo acto u omisión cometa varias infracciones a las normas previstas en la [Ley](../../lss/markdown/articulo-5-A.md) o sus reglamentos, y por tal motivo, se haga acreedor a la imposición de varias multas, sólo se aplicará la que corresponda a la infracción cuya multa sea mayor. REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN

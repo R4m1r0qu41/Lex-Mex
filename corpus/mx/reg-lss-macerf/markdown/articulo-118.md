@@ -17,4 +17,4 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 118
 
-Cuando se trate de pagos realizados en forma extemporánea, por patrones que tengan celebrado con el Instituto convenio de subrogación de servicios con reversión de cuotas, la actualización y los recargos serán calculados y pagados sobre el importe que resulte de disminuir el monto revertido.
+Cuando se trate de pagos realizados en forma extemporánea, por patrones que tengan celebrado con el [Instituto](../../lss/markdown/articulo-5-A.md) convenio de subrogación de servicios con reversión de cuotas, la actualización y los recargos serán calculados y pagados sobre el importe que resulte de disminuir el monto revertido.

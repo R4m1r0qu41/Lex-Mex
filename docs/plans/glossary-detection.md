@@ -146,6 +146,11 @@ send a Codex review packet.
 
 ## Current checkpoint
 
+2026-10-18 (G3, first import): `reg-lss-macerf` adopts LSS Article 5 A only,
+through a provision-scoped `additive_to` entry. That gives 449 usages; its own
+terms are unchanged. `n29` (Prestaciones Médicas) is not in the corpus.
+`reg-lss-rfar` (same wording) and `reg-lss-maeba` (held) are not configured.
+
 2026-10-18 (completeness-check repair): Codex P1 (whole-entry repeal
 placeholders) and P2 (qualified fraction order and spelling) are fixed in
 `complete_entries`. A probe `link --all` changes no corpus file, and the 19 holds

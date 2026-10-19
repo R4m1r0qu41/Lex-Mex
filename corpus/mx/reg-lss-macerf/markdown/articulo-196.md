@@ -17,7 +17,7 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 196
 
-Para los efectos del Capítulo II, del Título Segundo del presente Reglamento, las empresas y el Instituto se sujetarán al Catálogo de Actividades que establece este artículo.
+Para los efectos del Capítulo II, del Título Segundo del presente Reglamento, las empresas y el [Instituto](../../lss/markdown/articulo-5-A.md) se sujetarán al Catálogo de Actividades que establece este artículo.
 
 CATÁLOGO DE ACTIVIDADES DIVISIÓN 0 AGRICULTURA, GANADERÍA, SILVICULTURA, PESCA Y CAZA GRUPO 01 AGRICULTURA FRACCIÓN ACTIVIDAD CLASE 011 Agricultura. III
 
@@ -939,7 +939,7 @@ Comprende a las empresas que se dedican al alquiler de terrenos, locales, edific
 
 GRUPO 84 SERVICIOS PROFESIONALES Y TÉCNICOS FRACCIÓN ACTIVIDAD CLASE 841 Servicios profesionales y técnicos. I
 
-Comprende a las empresas que prestan servicios profesionales y/o técnicos como: notarías públicas, bufetes jurídicos, contaduría, auditoría y teneduría de libros, asesoría y estudios técnicos de arquitectura e ingeniería, asesoría en administración, organización de empresas, relaciones públicas, economía, investigación de mercado, solvencia financiera, patentes y marcas industriales, análisis de sistemas y procesamiento electrónico de datos, administrativos, de trámite y cobranzas, escritorios públicos, comisiones y representaciones mercantiles, centros de fotocopiado, estudios fotográficos, agencias de publicidad, información, noticias y otras especialidades similares. Incluye a las agencias de colocación de personal o bolsas de trabajo, que actúen como intermediarios en los términos de la Ley Federal del Trabajo.
+Comprende a las empresas que prestan servicios profesionales y/o técnicos como: notarías públicas, bufetes jurídicos, contaduría, auditoría y teneduría de libros, asesoría y estudios técnicos de arquitectura e ingeniería, asesoría en administración, organización de empresas, relaciones públicas, economía, investigación de mercado, solvencia financiera, patentes y marcas industriales, análisis de sistemas y procesamiento electrónico de datos, administrativos, de trámite y cobranzas, escritorios públicos, comisiones y representaciones mercantiles, centros de fotocopiado, estudios fotográficos, agencias de publicidad, información, noticias y otras especialidades similares. Incluye a las agencias de colocación de personal o bolsas de trabajo, que actúen como intermediarios en los términos de la [Ley](../../lss/markdown/articulo-5-A.md) Federal del Trabajo.
 
 843 Servicios de instalación de maquinaria y equipo en general. V
 

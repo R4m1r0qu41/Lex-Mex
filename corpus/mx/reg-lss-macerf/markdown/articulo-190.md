@@ -17,7 +17,7 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 190
 
-El patrón o sujeto obligado presentará, por escrito, la solicitud a que se refiere el artículo [304](../../lss/markdown/articulo-304.md) D de la Ley, ante la unidad administrativa que impuso la multa, la cual deberá contener por lo menos lo siguiente:
+El patrón o sujeto obligado presentará, por escrito, la solicitud a que se refiere el artículo [304](../../lss/markdown/articulo-304.md) D de la [Ley](../../lss/markdown/articulo-5-A.md), ante la unidad administrativa que impuso la multa, la cual deberá contener por lo menos lo siguiente:
 
 I. Nombre, denominación o razón social, número de registro patronal y domicilio;
 

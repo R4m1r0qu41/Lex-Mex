@@ -17,6 +17,6 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 52
 
-Para efectos de inscripción ante el Instituto, no se consideran trabajadores eventuales del campo, aquéllos que realicen labores de oficina, actividades de transporte, almacenamiento, exposición y venta de productos, así como la de empaque en lugares fijos, salvo cuando esta última se realice como preparación del producto para su primera enajenación, por patrones que cumplan con lo dispuesto en la fracción I del artículo [237-B](../../lss/markdown/articulo-237-B.md) de la Ley.
+Para efectos de inscripción ante el [Instituto](../../lss/markdown/articulo-5-A.md), no se consideran trabajadores eventuales del campo, aquéllos que realicen labores de oficina, actividades de transporte, almacenamiento, exposición y venta de productos, así como la de empaque en lugares fijos, salvo cuando esta última se realice como preparación del producto para su primera enajenación, por patrones que cumplan con lo dispuesto en la fracción I del artículo [237-B](../../lss/markdown/articulo-237-B.md) de la [Ley](../../lss/markdown/articulo-5-A.md).
 
 Artículo reformado DOF 15-07-2005

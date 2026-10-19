@@ -17,7 +17,7 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 177
 
-El Instituto ejercerá las facultades a que se refiere el [artículo anterior](articulo-176.md), de acuerdo con el procedimiento siguiente:
+El [Instituto](../../lss/markdown/articulo-5-A.md) ejercerá las facultades a que se refiere el [artículo anterior](articulo-176.md), de acuerdo con el procedimiento siguiente:
 
 I. Determinada la irregularidad, ésta se hará del conocimiento del contador público por escrito, para que en un plazo máximo de quince días hábiles, manifieste lo que a su derecho convenga y presente las pruebas documentales que desvirtúen los hechos, y
 

@@ -17,7 +17,7 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 14
 
-El Instituto proporcionará a cada patrón o sujeto obligado un documento de identificación patronal, por cada registro patronal asignado en los términos del [artículo anterior](articulo-13.md). En dicho documento se harán constar, al menos, los datos siguientes:
+El [Instituto](../../lss/markdown/articulo-5-A.md) proporcionará a cada patrón o sujeto obligado un documento de identificación patronal, por cada registro patronal asignado en los términos del [artículo anterior](articulo-13.md). En dicho documento se harán constar, al menos, los datos siguientes:
 
 I. Número de registro patronal asignado por el Instituto;
 

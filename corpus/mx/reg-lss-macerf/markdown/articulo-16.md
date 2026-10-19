@@ -17,6 +17,6 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 16
 
-Es obligación del patrón comunicar al Instituto la suspensión, reanudación, cambio o término de actividades; clausura; cambio de nombre, denominación o razón social, domicilio o de representante legal; sustitución patronal, fusión, escisión o cualquier otra circunstancia que modifique los datos proporcionados al Instituto, dentro del plazo de cinco días hábiles contado a partir de que ocurra el supuesto respectivo, anexando la documentación comprobatoria y presentando, en su caso, los avisos en que se indique la situación de afiliación de los trabajadores.
+Es obligación del patrón comunicar al [Instituto](../../lss/markdown/articulo-5-A.md) la suspensión, reanudación, cambio o término de actividades; clausura; cambio de nombre, denominación o razón social, domicilio o de representante legal; sustitución patronal, fusión, escisión o cualquier otra circunstancia que modifique los datos proporcionados al Instituto, dentro del plazo de cinco días hábiles contado a partir de que ocurra el supuesto respectivo, anexando la documentación comprobatoria y presentando, en su caso, los avisos en que se indique la situación de afiliación de los trabajadores.
 
 Los patrones también estarán obligados a lo establecido en el párrafo anterior, cuando exista incorporación de nuevas actividades, compra de activos o cualquier acto de enajenación, arrendamiento, comodato o fideicomiso traslativo, siempre que ello implique un cambio de actividad.

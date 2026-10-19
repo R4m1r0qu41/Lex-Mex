@@ -17,4 +17,4 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 106
 
-El Instituto proporcionará las prestaciones en especie a que se refiere este seguro, conforme a las disposiciones legales y reglamentarias que rijan el otorgamiento de los servicios médicos en el régimen obligatorio del seguro social.
+El [Instituto](../../lss/markdown/articulo-5-A.md) proporcionará las prestaciones en especie a que se refiere este seguro, conforme a las disposiciones legales y reglamentarias que rijan el otorgamiento de los servicios médicos en el régimen obligatorio del seguro social.

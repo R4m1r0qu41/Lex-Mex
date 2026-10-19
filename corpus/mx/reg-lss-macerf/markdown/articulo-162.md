@@ -17,7 +17,7 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 162
 
-El Instituto concederá prórroga hasta por cuarenta días hábiles para la presentación del dictamen, por caso fortuito o fuerza mayor, o bien, limitaciones de carácter físico o legal debidamente comprobadas que impidan su entrega dentro del plazo mencionado en el [artículo anterior](articulo-161.md).
+El [Instituto](../../lss/markdown/articulo-5-A.md) concederá prórroga hasta por cuarenta días hábiles para la presentación del dictamen, por caso fortuito o fuerza mayor, o bien, limitaciones de carácter físico o legal debidamente comprobadas que impidan su entrega dentro del plazo mencionado en el [artículo anterior](articulo-161.md).
 
 La solicitud correspondiente deberá ser firmada por el patrón o su representante legal, y por el contador público autorizado, y presentarse antes del vencimiento del plazo señalado. Se considerará autorizada la prórroga si dentro de los quince días hábiles siguientes a la fecha de presentación de la solicitud, el Instituto no notifica la correspondiente resolución. Una vez concedida la prórroga, en ningún caso procederá sustitución del contador público autorizado.
 

@@ -17,6 +17,6 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 61
 
-En caso de las bajas de trabajadores por aplicación de lo previsto en el artículo [17](../../lss/markdown/articulo-17.md) de la Ley, el Instituto procederá a la adecuación del registro de semanas cotizadas a los supuestos trabajadores en cuestión, descontando las correspondientes al aseguramiento improcedente.
+En caso de las bajas de trabajadores por aplicación de lo previsto en el artículo [17](../../lss/markdown/articulo-17.md) de la [Ley](../../lss/markdown/articulo-5-A.md), el [Instituto](../../lss/markdown/articulo-5-A.md) procederá a la adecuación del registro de semanas cotizadas a los supuestos trabajadores en cuestión, descontando las correspondientes al aseguramiento improcedente.
 
 La fecha a partir de la cual surtirán efecto las bajas será la misma en que se hubieran presentado los avisos de inscripción considerados como improcedentes.

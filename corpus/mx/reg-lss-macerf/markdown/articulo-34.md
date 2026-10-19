@@ -17,6 +17,6 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 34
 
-Para que el patrón determine su prima deberá llevar un registro pormenorizado de su siniestralidad, desde el inicio de cada uno de los casos hasta su terminación, estableciendo y operando controles de documentación e información que él genere, así como de la que elabore el Instituto, esta última información será entregada al trabajador o a sus familiares para que la hagan llegar al patrón, con el fin de justificar sus ausencias al trabajo o al momento de reincorporarse al mismo.
+Para que el patrón determine su prima deberá llevar un registro pormenorizado de su siniestralidad, desde el inicio de cada uno de los casos hasta su terminación, estableciendo y operando controles de documentación e información que él genere, así como de la que elabore el [Instituto](../../lss/markdown/articulo-5-A.md), esta última información será entregada al trabajador o a sus familiares para que la hagan llegar al patrón, con el fin de justificar sus ausencias al trabajo o al momento de reincorporarse al mismo.
 
 El patrón estará obligado a recabar la documentación correspondiente del trabajador o sus familiares y si éstos omiten la entrega, el propio patrón deberá obtenerla del Instituto.

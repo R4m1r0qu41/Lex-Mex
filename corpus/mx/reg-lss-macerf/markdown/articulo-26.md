@@ -17,7 +17,7 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 26
 
-Para los efectos de fijación de la clase que le corresponde a una empresa que se registra por primera vez en el Instituto y aquélla que cambie de actividad, conforme al Catálogo de Actividades, se atenderá a lo siguiente:
+Para los efectos de fijación de la clase que le corresponde a una empresa que se registra por primera vez en el [Instituto](../../lss/markdown/articulo-5-A.md) y aquélla que cambie de actividad, conforme al Catálogo de Actividades, se atenderá a lo siguiente:
 
 I. Si se trata de una empresa que realice varias actividades o que tenga diversos centros de trabajo en el territorio o jurisdicción de un mismo municipio o en el Distrito Federal, se le fijará una sola clasificación y no podrán disociarse sus diversas actividades o grupos componentes para asignar clasificación y prima diferentes a cada una, y
 

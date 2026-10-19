@@ -17,4 +17,4 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 194
 
-La condonación de las multas que hayan quedado firmes, y siempre que un acto administrativo conexo no sea materia de impugnación, se realizará en la forma y términos que señale el Consejo Técnico del Instituto.
+La condonación de las multas que hayan quedado firmes, y siempre que un acto administrativo conexo no sea materia de impugnación, se realizará en la forma y términos que señale el Consejo Técnico del [Instituto](../../lss/markdown/articulo-5-A.md).

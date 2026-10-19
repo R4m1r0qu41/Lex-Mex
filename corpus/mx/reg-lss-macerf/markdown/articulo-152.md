@@ -17,4 +17,4 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 152
 
-Para los efectos del primer párrafo del artículo [16](../../lss/markdown/articulo-16.md) de la Ley, el promedio de trabajadores se obtendrá dividiendo entre doce, el total de trabajadores que resulte de sumar los que, en cada mes del ejercicio fiscal inmediato anterior, prestaron servicios al patrón, tomando en cuenta todos los registros patronales que le haya asignado el Instituto.
+Para los efectos del primer párrafo del artículo [16](../../lss/markdown/articulo-16.md) de la [Ley](../../lss/markdown/articulo-5-A.md), el promedio de trabajadores se obtendrá dividiendo entre doce, el total de trabajadores que resulte de sumar los que, en cada mes del ejercicio fiscal inmediato anterior, prestaron servicios al patrón, tomando en cuenta todos los registros patronales que le haya asignado el [Instituto](../../lss/markdown/articulo-5-A.md).

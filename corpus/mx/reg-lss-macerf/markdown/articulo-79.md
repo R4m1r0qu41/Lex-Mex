@@ -19,6 +19,6 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 En el caso de incorporaciones colectivas, la inscripción inicial se efectuará dentro de los treinta días posteriores a la firma del convenio respectivo.
 
-Si dentro del plazo a que se refiere el párrafo anterior, no fueran recibidos por el Instituto los avisos de inscripción del número mínimo de sujetos de aseguramiento o fueran presentados extemporáneamente, el convenio no surtirá efecto legal alguno. Las inscripciones recibidas podrán ser tramitadas por el Instituto bajo los supuestos y términos que se señalan para la contratación individual, con el consentimiento previo de los interesados.
+Si dentro del plazo a que se refiere el párrafo anterior, no fueran recibidos por el [Instituto](../../lss/markdown/articulo-5-A.md) los avisos de inscripción del número mínimo de sujetos de aseguramiento o fueran presentados extemporáneamente, el convenio no surtirá efecto legal alguno. Las inscripciones recibidas podrán ser tramitadas por el Instituto bajo los supuestos y términos que se señalan para la contratación individual, con el consentimiento previo de los interesados.
 
 La inscripción de nuevos miembros, que a través del representante legal del grupo deseen adherirse al convenio colectivo celebrado, se realizará en la forma y términos señalados para la inscripción individual.

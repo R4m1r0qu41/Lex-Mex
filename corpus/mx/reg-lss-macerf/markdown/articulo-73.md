@@ -17,4 +17,4 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 73
 
-Para efectos de la certificación del derecho al subsidio en el Seguro de Enfermedades y Maternidad, se considerarán como semanas de cotización las que se encuentren amparadas por certificado de incapacidad médica para el trabajo, expedido por el Instituto.
+Para efectos de la certificación del derecho al subsidio en el Seguro de Enfermedades y Maternidad, se considerarán como semanas de cotización las que se encuentren amparadas por certificado de incapacidad médica para el trabajo, expedido por el [Instituto](../../lss/markdown/articulo-5-A.md).

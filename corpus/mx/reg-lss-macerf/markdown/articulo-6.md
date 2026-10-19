@@ -17,7 +17,7 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 6
 
-En todos los casos el Instituto o las oficinas autorizadas por el mismo, entregarán al patrón o sujeto obligado la constancia correspondiente del trámite realizado, ya sea en forma impresa o en REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN cualquiera de los medios de comunicación electrónica a que se refiere la Ley, en este último caso, dicha constancia tendrá para todos los efectos legales, igual valor probatorio que la impresa.
+En todos los casos el [Instituto](../../lss/markdown/articulo-5-A.md) o las oficinas autorizadas por el mismo, entregarán al patrón o sujeto obligado la constancia correspondiente del trámite realizado, ya sea en forma impresa o en REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN cualquiera de los medios de comunicación electrónica a que se refiere la [Ley](../../lss/markdown/articulo-5-A.md), en este último caso, dicha constancia tendrá para todos los efectos legales, igual valor probatorio que la impresa.
 
 Tratándose de la constancia que se entregue a través de los medios de comunicación electrónica, ésta deberá reunir los requisitos que establezcan los lineamientos de carácter general que emita el Consejo Técnico del Instituto, los cuales se publicarán en el Diario Oficial de la Federación.
 

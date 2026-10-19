@@ -1,5 +1,32 @@
 # Architecture decisions
 
+## 2026-10-18 — `reg-lss-macerf` adopts LSS Article 5 A only (scoped `additive_to`)
+
+The operator named two targets to check against LSS Article 5 A: `reg-lss-macerf` and `regla/n29.pdf`.
+
+**`reg-lss-macerf` (in the corpus).** Article 2 reads "serán aplicables las definiciones establecidas en el artículo 5 A de la Ley del Seguro Social, así como las siguientes". It adopts 5 A, not Article 159.
+- **Scoped entry.** An `additive_to` entry may now be one provision's exact id. It adopts only the terms that provision defines. A whole-instrument entry would also have brought in 159's terms.
+- **Fails closed.** The entry must resolve to exactly one corpus instrument, and that instrument must contain the provision. The provision must define at least one term. Otherwise `link` fails. Whole-instrument entries (`ifpe-dcg-2021`, `itf-dcg-2018` → LRITF) behave as before.
+- **Configuration.** `reg-lss-macerf` moves from auto-detection to a configured glossary: Article 2, `auto_whole`, `additive_to: ["urn:lex-mx:federal:statute:lss:article:5-a"]`.
+- **No conflicts.** Its 10 own terms (II is `(Se deroga)`) repeat no 5 A or 159 name.
+
+**Result** (`link --all`, byte-identical to a disposable probe):
+- Its own 10 terms are byte-identical. Usages go from 0 to 449, all of them 5 A terms: `Instituto` 307, `Ley` 133, `Código` 9.
+- The links go to `lss/markdown/articulo-5-A.md`.
+- No other instrument changes. References stay at 35,880, and the rejected set is still the 8 accepted gaps.
+- **Title-prefix debt:** about 7 imported usages sit inside another title (`Ley Federal del…` 5, `Ley del Impuesto…` 1, `Leyes de Instituciones…` 1). The 6 `Ley del Seguro Social` matches name the adopted referent.
+- **Own terms still have 0 usages:** running text writes `patrón del campo` and the like in lower case, and the matcher is case-sensitive.
+
+**`n29` (Reglamento de Prestaciones Médicas del IMSS, DOF 30-11-2006).**
+- It is not in the corpus or the cluster-2 inventory.
+- Its Article 2 adopts "las definiciones establecidas en el Artículo 5 A de la Ley del Seguro Social, así como las siguientes". It defines 20 terms, I–XX, complete, and none of them repeats a 5 A or 159 name.
+- Linking it needs a canonical admission: adapter, expected counts and the furniture-audit gate.
+- The `regla/` path holds the DOF publication, not a consolidated text. Before admission, a consolidated version should be looked for in the Diputados `regley` index.
+
+**Open:**
+- **Static or dynamic reference.** The adopting regulations predate later amendments of 5 A (2009, 2022, 2023, 2024). Linking to the current 5 A treats the reference as dynamic. That is a legal reading for JRH or the operator; it is not decided here.
+- **Same wording elsewhere.** `reg-lss-rfar` has the same import wording and is not configured. `reg-lss-maeba` is held, and `extract_instrument_terms` returns before imports when an instrument's own terms are empty. So an import-only or held glossary adopts nothing until that early return changes.
+
 ## 2026-10-18 — Glossary completeness check: whole repeal placeholders and qualified fraction order
 
 The operator asked for the completeness-check repair first (Codex review, `docs/glossary-g0-g2-outlier-review-2026-10-18.md`, P1 and the qualified-order P2). Both repairs are in `complete_entries` (`crates/lex-parse/src/terms.rs`), which the wider pass and the `auto_whole` style use.

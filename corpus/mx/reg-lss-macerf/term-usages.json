@@ -1,1 +1,4043 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:1:term-usage:601-610",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 601,
+    "end_char": 610
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:1:term-usage:705-708",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 705,
+    "end_char": 708
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:1:term-usage:927-930",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 927,
+    "end_char": 930
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:1:term-usage:1048-1057",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1048,
+    "end_char": 1057
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:1:term-usage:1167-1176",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1167,
+    "end_char": 1176
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:1:term-usage:1429-1432",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 1429,
+    "end_char": 1432
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:2:term-usage:105-108",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 105,
+    "end_char": 108
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:2:term-usage:544-547",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 544,
+    "end_char": 547
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:2:term-usage:736-739",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 736,
+    "end_char": 739
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:2:term-usage:1581-1590",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1581,
+    "end_char": 1590
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:2:term-usage:1720-1729",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1720,
+    "end_char": 1729
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:2:term-usage:1967-1970",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 1967,
+    "end_char": 1970
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:3:term-usage:404-407",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 404,
+    "end_char": 407
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:3:term-usage:908-917",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 908,
+    "end_char": 917
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:3:term-usage:1136-1145",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1136,
+    "end_char": 1145
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:3:term-usage:1230-1233",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 1230,
+    "end_char": 1233
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:3:term-usage:1509-1518",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1509,
+    "end_char": 1518
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:3:term-usage:1645-1648",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 1645,
+    "end_char": 1648
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:4:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:4:term-usage:415-424",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 415,
+    "end_char": 424
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:5:term-usage:81-84",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 81,
+    "end_char": 84
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:5:term-usage:595-604",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 595,
+    "end_char": 604
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:5:term-usage:713-722",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 713,
+    "end_char": 722
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:5:term-usage:1032-1041",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1032,
+    "end_char": 1041
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:5:term-usage:1247-1256",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1247,
+    "end_char": 1256
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:6:term-usage:22-31",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 22,
+    "end_char": 31
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:6:term-usage:388-391",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 388,
+    "end_char": 391
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:6:term-usage:726-735",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 726,
+    "end_char": 735
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:6:term-usage:1000-1009",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1000,
+    "end_char": 1009
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:7:term-usage:23-32",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 23,
+    "end_char": 32
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:8:term-usage:111-114",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 111,
+    "end_char": 114
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:8:term-usage:544-547",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 544,
+    "end_char": 547
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:9:term-usage:69-72",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 69,
+    "end_char": 72
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:9:term-usage:245-254",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 245,
+    "end_char": 254
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:9:term-usage:935-938",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 935,
+    "end_char": 938
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:10:term-usage:58-67",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 58,
+    "end_char": 67
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:10:term-usage:334-343",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 334,
+    "end_char": 343
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:10:term-usage:554-557",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 554,
+    "end_char": 557
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:10:term-usage:578-587",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 578,
+    "end_char": 587
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:10:term-usage:815-824",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 815,
+    "end_char": 824
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:10:term-usage:952-961",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 952,
+    "end_char": 961
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:10:term-usage:1197-1206",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1197,
+    "end_char": 1206
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:11:term-usage:337-346",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 337,
+    "end_char": 346
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:11:term-usage:419-422",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 419,
+    "end_char": 422
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:12:term-usage:101-110",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 101,
+    "end_char": 110
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:12:term-usage:309-318",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 309,
+    "end_char": 318
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:12:term-usage:576-579",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 576,
+    "end_char": 579
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:13:term-usage:1043-1052",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1043,
+    "end_char": 1052
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:14:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:14:term-usage:292-301",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 292,
+    "end_char": 301
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:14:term-usage:594-603",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 594,
+    "end_char": 603
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:14:term-usage:897-906",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 897,
+    "end_char": 906
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:14:term-usage:987-996",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 987,
+    "end_char": 996
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:15:term-usage:45-54",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 45,
+    "end_char": 54
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:15:term-usage:358-367",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 358,
+    "end_char": 367
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:16:term-usage:38-47",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 38,
+    "end_char": 47
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:16:term-usage:314-323",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 314,
+    "end_char": 323
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:17:term-usage:73-82",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 73,
+    "end_char": 82
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:17:term-usage:288-297",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 288,
+    "end_char": 297
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:17:term-usage:383-392",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 383,
+    "end_char": 392
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:18:term-usage:560-563",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 560,
+    "end_char": 563
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:20:term-usage:141-150",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 141,
+    "end_char": 150
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:21:term-usage:39-48",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 39,
+    "end_char": 48
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:22:term-usage:6-15",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 6,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:22:term-usage:127-130",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 127,
+    "end_char": 130
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:23:term-usage:110-119",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 110,
+    "end_char": 119
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:23:term-usage:366-375",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 366,
+    "end_char": 375
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:24:term-usage:139-148",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 139,
+    "end_char": 148
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:24:term-usage:198-201",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 198,
+    "end_char": 201
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:24:term-usage:381-390",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 381,
+    "end_char": 390
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:24:term-usage:444-447",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 444,
+    "end_char": 447
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:26:term-usage:112-121",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 112,
+    "end_char": 121
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:27:term-usage:34-43",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 34,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:28:term-usage:337-340",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 337,
+    "end_char": 340
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:28:term-usage:364-373",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 364,
+    "end_char": 373
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:28:term-usage:3127-3136",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 3127,
+    "end_char": 3136
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:28:term-usage:3515-3524",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 3515,
+    "end_char": 3524
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:29:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:29:term-usage:31-34",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 31,
+    "end_char": 34
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:29:term-usage:294-303",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 294,
+    "end_char": 303
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:30:term-usage:6-15",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 6,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:30:term-usage:793-802",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 793,
+    "end_char": 802
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:30:term-usage:1053-1062",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1053,
+    "end_char": 1062
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:30:term-usage:1215-1218",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 1215,
+    "end_char": 1218
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:31:term-usage:100-109",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 100,
+    "end_char": 109
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:31:term-usage:389-398",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 389,
+    "end_char": 398
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:32:term-usage:442-445",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 442,
+    "end_char": 445
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:32:term-usage:639-642",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 639,
+    "end_char": 642
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:32:term-usage:1293-1296",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 1293,
+    "end_char": 1296
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:32:term-usage:1583-1592",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1583,
+    "end_char": 1592
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:32:term-usage:1991-2000",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1991,
+    "end_char": 2000
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:32:term-usage:2122-2131",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 2122,
+    "end_char": 2131
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:32:term-usage:2452-2461",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 2452,
+    "end_char": 2461
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:32:term-usage:2651-2660",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 2651,
+    "end_char": 2660
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:32:term-usage:2970-2979",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 2970,
+    "end_char": 2979
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:32:term-usage:3145-3154",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 3145,
+    "end_char": 3154
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:32:term-usage:3459-3468",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 3459,
+    "end_char": 3468
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:33:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:34:term-usage:274-283",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 274,
+    "end_char": 283
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:34:term-usage:654-663",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 654,
+    "end_char": 663
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:35:term-usage:1181-1184",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 1181,
+    "end_char": 1184
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:37:term-usage:2065-2068",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 2065,
+    "end_char": 2068
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:38:term-usage:88-91",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 88,
+    "end_char": 91
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:38:term-usage:352-355",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 352,
+    "end_char": 355
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:40:term-usage:53-56",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 53,
+    "end_char": 56
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:40:term-usage:172-181",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 172,
+    "end_char": 181
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:44:term-usage:140-143",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 140,
+    "end_char": 143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:44:term-usage:236-245",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 236,
+    "end_char": 245
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:45:term-usage:58-67",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 58,
+    "end_char": 67
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:45:term-usage:98-101",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 98,
+    "end_char": 101
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:45:term-usage:453-462",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 453,
+    "end_char": 462
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:45:term-usage:557-560",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 557,
+    "end_char": 560
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:46:term-usage:211-214",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 211,
+    "end_char": 214
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:47:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:47:term-usage:362-371",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 362,
+    "end_char": 371
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:48:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:48:term-usage:416-425",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 416,
+    "end_char": 425
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:49:term-usage:144-147",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 144,
+    "end_char": 147
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:49:term-usage:200-209",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 200,
+    "end_char": 209
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:49:term-usage:403-412",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 403,
+    "end_char": 412
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:49:term-usage:596-605",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 596,
+    "end_char": 605
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:50:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:50:term-usage:289-298",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 289,
+    "end_char": 298
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:50:term-usage:691-700",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 691,
+    "end_char": 700
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:50:term-usage:1267-1276",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1267,
+    "end_char": 1276
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:50:term-usage:1713-1722",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1713,
+    "end_char": 1722
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:50:term-usage:2044-2053",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 2044,
+    "end_char": 2053
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:51:term-usage:192-195",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:51",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 192,
+    "end_char": 195
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:52:term-usage:36-45",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 36,
+    "end_char": 45
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:52:term-usage:437-440",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 437,
+    "end_char": 440
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:53:term-usage:88-91",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:53",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 88,
+    "end_char": 91
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:54:term-usage:113-116",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:54",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 113,
+    "end_char": 116
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:54:term-usage:190-199",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:54",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 190,
+    "end_char": 199
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:55:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:55",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:55:term-usage:168-171",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:55",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 168,
+    "end_char": 171
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:55:term-usage:475-484",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:55",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 475,
+    "end_char": 484
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:55:term-usage:838-841",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:55",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 838,
+    "end_char": 841
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:56:term-usage:257-266",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:56",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 257,
+    "end_char": 266
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:57:term-usage:54-63",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 54,
+    "end_char": 63
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:57:term-usage:697-706",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 697,
+    "end_char": 706
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:57:term-usage:752-761",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 752,
+    "end_char": 761
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:58:term-usage:169-178",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 169,
+    "end_char": 178
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:59:term-usage:130-139",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:59",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 130,
+    "end_char": 139
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:59:term-usage:325-334",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:59",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 325,
+    "end_char": 334
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:60:term-usage:132-141",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:60",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 132,
+    "end_char": 141
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:60:term-usage:254-263",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:60",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 254,
+    "end_char": 263
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:60:term-usage:328-337",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:60",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 328,
+    "end_char": 337
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:60:term-usage:528-537",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:60",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 528,
+    "end_char": 537
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:61:term-usage:91-94",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:61",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 91,
+    "end_char": 94
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:61:term-usage:99-108",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:61",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 99,
+    "end_char": 108
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:63:term-usage:178-187",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:63",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 178,
+    "end_char": 187
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:63:term-usage:481-490",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:63",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 481,
+    "end_char": 490
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:63:term-usage:993-996",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:63",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 993,
+    "end_char": 996
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:63:term-usage:1056-1065",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:63",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1056,
+    "end_char": 1065
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:63:term-usage:1346-1355",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:63",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1346,
+    "end_char": 1355
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:64:term-usage:158-161",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:64",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 158,
+    "end_char": 161
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:65:term-usage:249-252",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:65",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 249,
+    "end_char": 252
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:65:term-usage:414-423",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:65",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 414,
+    "end_char": 423
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:65:term-usage:580-583",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:65",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 580,
+    "end_char": 583
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:65:term-usage:782-785",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:65",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 782,
+    "end_char": 785
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:66:term-usage:363-372",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:66",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 363,
+    "end_char": 372
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:67:term-usage:56-65",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:67",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 56,
+    "end_char": 65
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:67:term-usage:253-262",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:67",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 253,
+    "end_char": 262
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:67:term-usage:712-721",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:67",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 712,
+    "end_char": 721
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:68:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:68:term-usage:252-255",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 252,
+    "end_char": 255
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:70:term-usage:255-264",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:70",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 255,
+    "end_char": 264
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:71:term-usage:247-256",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:71",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 247,
+    "end_char": 256
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:71:term-usage:402-411",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:71",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 402,
+    "end_char": 411
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:71:term-usage:532-535",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:71",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 532,
+    "end_char": 535
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:73:term-usage:246-255",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:73",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 246,
+    "end_char": 255
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:74:term-usage:101-104",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 101,
+    "end_char": 104
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:74:term-usage:494-503",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 494,
+    "end_char": 503
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:74:term-usage:764-767",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 764,
+    "end_char": 767
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:74:term-usage:1019-1028",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1019,
+    "end_char": 1028
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:74:term-usage:1056-1065",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1056,
+    "end_char": 1065
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:75:term-usage:99-102",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 99,
+    "end_char": 102
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:75:term-usage:663-672",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 663,
+    "end_char": 672
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:75:term-usage:945-954",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 945,
+    "end_char": 954
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:75:term-usage:1070-1079",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1070,
+    "end_char": 1079
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:76:term-usage:311-320",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:76",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 311,
+    "end_char": 320
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:77:term-usage:270-279",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 270,
+    "end_char": 279
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:79:term-usage:239-248",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 239,
+    "end_char": 248
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:79:term-usage:462-471",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 462,
+    "end_char": 471
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:80:term-usage:88-91",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 88,
+    "end_char": 91
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:80:term-usage:227-236",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 227,
+    "end_char": 236
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:81:term-usage:125-134",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 125,
+    "end_char": 134
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:81:term-usage:391-400",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 391,
+    "end_char": 400
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:83:term-usage:1014-1023",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:83",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1014,
+    "end_char": 1023
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:85:term-usage:671-680",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:85",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 671,
+    "end_char": 680
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:86:term-usage:93-102",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:86",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 93,
+    "end_char": 102
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:87:term-usage:87-96",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 87,
+    "end_char": 96
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:87:term-usage:561-570",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 561,
+    "end_char": 570
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:87:term-usage:776-785",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 776,
+    "end_char": 785
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:88:term-usage:40-43",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 40,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:90:term-usage:349-358",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:90",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 349,
+    "end_char": 358
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:91:term-usage:162-171",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:91",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 162,
+    "end_char": 171
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:93:term-usage:96-99",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:93",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 96,
+    "end_char": 99
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:94:term-usage:282-285",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:94",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 282,
+    "end_char": 285
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:95:term-usage:344-347",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 344,
+    "end_char": 347
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:96:term-usage:81-84",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:96",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 81,
+    "end_char": 84
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:96:term-usage:298-301",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:96",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 298,
+    "end_char": 301
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:97:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:97",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:97:term-usage:317-320",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:97",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 317,
+    "end_char": 320
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:98:term-usage:101-110",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:98",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 101,
+    "end_char": 110
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:98:term-usage:367-376",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:98",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 367,
+    "end_char": 376
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:100:term-usage:275-284",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:100",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 275,
+    "end_char": 284
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:100:term-usage:512-521",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:100",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 512,
+    "end_char": 521
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:101:term-usage:198-201",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:101",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 198,
+    "end_char": 201
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:103:term-usage:389-398",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:103",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 389,
+    "end_char": 398
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:103:term-usage:612-621",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:103",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 612,
+    "end_char": 621
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:105:term-usage:444-453",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:105",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 444,
+    "end_char": 453
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:105:term-usage:515-524",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:105",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 515,
+    "end_char": 524
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:105:term-usage:856-865",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:105",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 856,
+    "end_char": 865
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:106:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:106",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:109:term-usage:87-96",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:109",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 87,
+    "end_char": 96
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:109:term-usage:757-766",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:109",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 757,
+    "end_char": 766
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:109:term-usage:1050-1059",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:109",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1050,
+    "end_char": 1059
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:111:term-usage:19-28",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:111",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 19,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:111:term-usage:147-150",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:111",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 147,
+    "end_char": 150
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:112:term-usage:60-63",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 60,
+    "end_char": 63
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:112:term-usage:68-77",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 68,
+    "end_char": 77
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:112:term-usage:411-420",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 411,
+    "end_char": 420
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:112:term-usage:550-553",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 550,
+    "end_char": 553
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:112:term-usage:674-683",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 674,
+    "end_char": 683
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:112:term-usage:741-744",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 741,
+    "end_char": 744
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:112:term-usage:1080-1089",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1080,
+    "end_char": 1089
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:113:term-usage:235-244",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:113",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 235,
+    "end_char": 244
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:113:term-usage:535-544",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:113",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 535,
+    "end_char": 544
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:113:term-usage:890-899",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:113",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 890,
+    "end_char": 899
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:113:term-usage:1233-1242",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:113",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1233,
+    "end_char": 1242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:113:term-usage:1457-1466",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:113",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1457,
+    "end_char": 1466
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:113:term-usage:1636-1645",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:113",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1636,
+    "end_char": 1645
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:113:term-usage:1760-1769",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:113",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1760,
+    "end_char": 1769
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:113:term-usage:1865-1874",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:113",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1865,
+    "end_char": 1874
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:113:term-usage:2073-2082",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:113",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 2073,
+    "end_char": 2082
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:113:term-usage:2289-2298",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:113",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 2289,
+    "end_char": 2298
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:113:term-usage:2521-2530",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:113",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 2521,
+    "end_char": 2530
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:113:term-usage:3371-3380",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:113",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 3371,
+    "end_char": 3380
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:113:term-usage:3597-3606",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:113",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 3597,
+    "end_char": 3606
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:113:term-usage:3639-3642",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:113",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 3639,
+    "end_char": 3642
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:114:term-usage:205-214",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:114",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 205,
+    "end_char": 214
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:115:term-usage:46-49",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:115",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 46,
+    "end_char": 49
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:115:term-usage:54-63",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:115",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 54,
+    "end_char": 63
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:115:term-usage:604-610",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:115",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:codigo",
+    "span": "Código",
+    "start_char": 604,
+    "end_char": 610
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:116:term-usage:180-183",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:116",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 180,
+    "end_char": 183
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:116:term-usage:340-343",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:116",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 340,
+    "end_char": 343
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:116:term-usage:501-504",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:116",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 501,
+    "end_char": 504
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:116:term-usage:818-821",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:116",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 818,
+    "end_char": 821
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:117:term-usage:59-62",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:117",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 59,
+    "end_char": 62
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:117:term-usage:167-176",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:117",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 167,
+    "end_char": 176
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:118:term-usage:100-109",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:118",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 100,
+    "end_char": 109
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:119:term-usage:29-38",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:119",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 29,
+    "end_char": 38
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:119:term-usage:179-182",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:119",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 179,
+    "end_char": 182
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:119:term-usage:512-521",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:119",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 512,
+    "end_char": 521
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:120:term-usage:93-102",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:120",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 93,
+    "end_char": 102
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:120:term-usage:276-285",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:120",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 276,
+    "end_char": 285
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:121:term-usage:81-84",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:121",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 81,
+    "end_char": 84
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:121:term-usage:254-263",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:121",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 254,
+    "end_char": 263
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:122:term-usage:49-58",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:122",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 49,
+    "end_char": 58
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:122:term-usage:522-531",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:122",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 522,
+    "end_char": 531
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:122:term-usage:688-697",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:122",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 688,
+    "end_char": 697
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:122:term-usage:790-799",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:122",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 790,
+    "end_char": 799
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:123:term-usage:334-343",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:123",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 334,
+    "end_char": 343
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:123:term-usage:399-408",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:123",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 399,
+    "end_char": 408
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:124:term-usage:550-553",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:124",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 550,
+    "end_char": 553
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:124:term-usage:615-624",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:124",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 615,
+    "end_char": 624
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:124:term-usage:1424-1433",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:124",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1424,
+    "end_char": 1433
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:125:term-usage:113-122",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:125",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 113,
+    "end_char": 122
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:125:term-usage:350-359",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:125",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 350,
+    "end_char": 359
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:126:term-usage:129-132",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:126",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 129,
+    "end_char": 132
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:127:term-usage:43-52",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:127",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 43,
+    "end_char": 52
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:127:term-usage:165-174",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:127",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 165,
+    "end_char": 174
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:129:term-usage:59-68",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:129",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 59,
+    "end_char": 68
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:129:term-usage:310-319",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:129",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 310,
+    "end_char": 319
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:129:term-usage:393-396",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:129",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 393,
+    "end_char": 396
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:130:term-usage:44-47",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:130",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 44,
+    "end_char": 47
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:130:term-usage:53-59",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:130",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:codigo",
+    "span": "Código",
+    "start_char": 53,
+    "end_char": 59
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:130:term-usage:152-161",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:130",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 152,
+    "end_char": 161
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:131:term-usage:46-49",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:131",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 46,
+    "end_char": 49
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:131:term-usage:112-121",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:131",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 112,
+    "end_char": 121
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:131:term-usage:226-229",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:131",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 226,
+    "end_char": 229
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:131:term-usage:813-822",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:131",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 813,
+    "end_char": 822
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:131:term-usage:1160-1169",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:131",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1160,
+    "end_char": 1169
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:131:term-usage:1509-1518",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:131",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1509,
+    "end_char": 1518
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:131:term-usage:1702-1711",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:131",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1702,
+    "end_char": 1711
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:131:term-usage:1742-1751",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:131",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1742,
+    "end_char": 1751
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:133:term-usage:48-51",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:133",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 48,
+    "end_char": 51
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:133:term-usage:328-337",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:133",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 328,
+    "end_char": 337
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:133:term-usage:1002-1008",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:133",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:codigo",
+    "span": "Código",
+    "start_char": 1002,
+    "end_char": 1008
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:133:term-usage:1308-1314",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:133",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:codigo",
+    "span": "Código",
+    "start_char": 1308,
+    "end_char": 1314
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:133:term-usage:1393-1399",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:133",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:codigo",
+    "span": "Código",
+    "start_char": 1393,
+    "end_char": 1399
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:133:term-usage:1470-1479",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:133",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1470,
+    "end_char": 1479
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:133:term-usage:1646-1655",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:133",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1646,
+    "end_char": 1655
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:133:term-usage:1895-1898",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:133",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 1895,
+    "end_char": 1898
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:133:term-usage:2177-2186",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:133",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 2177,
+    "end_char": 2186
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:134:term-usage:48-51",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:134",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 48,
+    "end_char": 51
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:134:term-usage:90-99",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:134",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 90,
+    "end_char": 99
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:134:term-usage:248-251",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:134",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 248,
+    "end_char": 251
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:134:term-usage:333-338",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:134",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Leyes",
+    "start_char": 333,
+    "end_char": 338
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:134:term-usage:901-910",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:134",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 901,
+    "end_char": 910
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:134:term-usage:1254-1263",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:134",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1254,
+    "end_char": 1263
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:135:term-usage:117-126",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:135",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 117,
+    "end_char": 126
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:135:term-usage:323-332",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:135",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 323,
+    "end_char": 332
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:135:term-usage:437-443",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:135",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:codigo",
+    "span": "Código",
+    "start_char": 437,
+    "end_char": 443
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:136:term-usage:139-148",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:136",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 139,
+    "end_char": 148
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:136:term-usage:319-328",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:136",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 319,
+    "end_char": 328
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:136:term-usage:616-625",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:136",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 616,
+    "end_char": 625
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:137:term-usage:131-137",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:137",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:codigo",
+    "span": "Código",
+    "start_char": 131,
+    "end_char": 137
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:137:term-usage:819-825",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:137",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:codigo",
+    "span": "Código",
+    "start_char": 819,
+    "end_char": 825
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:138:term-usage:52-55",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:138",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 52,
+    "end_char": 55
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:138:term-usage:734-743",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:138",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 734,
+    "end_char": 743
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:138:term-usage:949-958",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:138",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 949,
+    "end_char": 958
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:138:term-usage:1032-1035",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:138",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 1032,
+    "end_char": 1035
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:139:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:139",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:140:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:140",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:141:term-usage:232-241",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:141",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 232,
+    "end_char": 241
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:143:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:143",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:144:term-usage:37-40",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:144",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 37,
+    "end_char": 40
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:144:term-usage:134-143",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:144",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 134,
+    "end_char": 143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:144:term-usage:385-394",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:144",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 385,
+    "end_char": 394
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:144:term-usage:482-491",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:144",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 482,
+    "end_char": 491
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:144:term-usage:787-793",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:144",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:codigo",
+    "span": "Código",
+    "start_char": 787,
+    "end_char": 793
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:145:term-usage:73-76",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:145",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 73,
+    "end_char": 76
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:145:term-usage:369-378",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:145",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 369,
+    "end_char": 378
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:145:term-usage:791-800",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:145",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 791,
+    "end_char": 800
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:145:term-usage:1278-1287",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:145",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1278,
+    "end_char": 1287
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:145:term-usage:1440-1443",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:145",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 1440,
+    "end_char": 1443
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:146:term-usage:175-184",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:146",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 175,
+    "end_char": 184
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:146:term-usage:295-298",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:146",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 295,
+    "end_char": 298
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:147:term-usage:106-115",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:147",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 106,
+    "end_char": 115
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:147:term-usage:312-321",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:147",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 312,
+    "end_char": 321
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:148:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:148",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:149:term-usage:35-38",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:149",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 35,
+    "end_char": 38
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:149:term-usage:129-138",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:149",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 129,
+    "end_char": 138
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:149:term-usage:401-410",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:149",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 401,
+    "end_char": 410
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:149:term-usage:535-544",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:149",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 535,
+    "end_char": 544
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:150:term-usage:43-52",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:150",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 43,
+    "end_char": 52
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:150:term-usage:259-262",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:150",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 259,
+    "end_char": 262
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:151:term-usage:43-52",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:151",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 43,
+    "end_char": 52
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:151:term-usage:908-917",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:151",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 908,
+    "end_char": 917
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:151:term-usage:1340-1349",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:151",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1340,
+    "end_char": 1349
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:151:term-usage:1358-1367",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:151",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1358,
+    "end_char": 1367
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:151:term-usage:1645-1654",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:151",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1645,
+    "end_char": 1654
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:151:term-usage:1875-1884",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:151",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1875,
+    "end_char": 1884
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:152:term-usage:58-61",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:152",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 58,
+    "end_char": 61
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:152:term-usage:338-347",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:152",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 338,
+    "end_char": 347
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:153:term-usage:39-42",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:153",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 39,
+    "end_char": 42
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:153:term-usage:362-371",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:153",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 362,
+    "end_char": 371
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:153:term-usage:443-446",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:153",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 443,
+    "end_char": 446
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:153:term-usage:690-699",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:153",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 690,
+    "end_char": 699
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:153:term-usage:909-912",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:153",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 909,
+    "end_char": 912
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:154:term-usage:106-115",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:154",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 106,
+    "end_char": 115
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:154:term-usage:690-693",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:154",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 690,
+    "end_char": 693
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:154:term-usage:769-778",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:154",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 769,
+    "end_char": 778
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:154:term-usage:869-878",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:154",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 869,
+    "end_char": 878
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:154:term-usage:1285-1294",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:154",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1285,
+    "end_char": 1294
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:155:term-usage:183-186",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:155",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 183,
+    "end_char": 186
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:155:term-usage:1532-1541",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:155",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1532,
+    "end_char": 1541
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:156:term-usage:71-74",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:156",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 71,
+    "end_char": 74
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:156:term-usage:100-109",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:156",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 100,
+    "end_char": 109
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:156:term-usage:267-276",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:156",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 267,
+    "end_char": 276
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:157:term-usage:679-682",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:157",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 679,
+    "end_char": 682
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:157:term-usage:1066-1075",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:157",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1066,
+    "end_char": 1075
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:159:term-usage:53-62",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:159",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 53,
+    "end_char": 62
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:159:term-usage:193-196",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:159",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 193,
+    "end_char": 196
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:159:term-usage:370-379",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:159",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 370,
+    "end_char": 379
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:160:term-usage:531-540",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:160",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 531,
+    "end_char": 540
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:161:term-usage:61-64",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:161",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 61,
+    "end_char": 64
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:162:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:162",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:162:term-usage:597-606",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:162",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 597,
+    "end_char": 606
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:162:term-usage:865-874",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:162",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 865,
+    "end_char": 874
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:163:term-usage:104-113",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:163",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 104,
+    "end_char": 113
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:164:term-usage:93-102",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:164",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 93,
+    "end_char": 102
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:164:term-usage:230-233",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:164",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 230,
+    "end_char": 233
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:164:term-usage:1142-1151",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:164",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1142,
+    "end_char": 1151
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:164:term-usage:1235-1244",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:164",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1235,
+    "end_char": 1244
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:165:term-usage:552-555",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:165",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 552,
+    "end_char": 555
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:166:term-usage:777-786",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:166",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 777,
+    "end_char": 786
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:166:term-usage:1675-1684",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:166",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1675,
+    "end_char": 1684
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:166:term-usage:2146-2149",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:166",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 2146,
+    "end_char": 2149
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:166:term-usage:2807-2816",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:166",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 2807,
+    "end_char": 2816
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:168:term-usage:331-340",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:168",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 331,
+    "end_char": 340
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:169:term-usage:273-276",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:169",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 273,
+    "end_char": 276
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:170:term-usage:119-122",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:170",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 119,
+    "end_char": 122
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:170:term-usage:285-294",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:170",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 285,
+    "end_char": 294
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:170:term-usage:548-551",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:170",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 548,
+    "end_char": 551
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:171:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:171",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:171:term-usage:1605-1614",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:171",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1605,
+    "end_char": 1614
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:172:term-usage:87-96",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:172",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 87,
+    "end_char": 96
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:172:term-usage:395-404",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:172",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 395,
+    "end_char": 404
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:172:term-usage:526-529",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:172",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 526,
+    "end_char": 529
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:173:term-usage:413-422",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:173",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 413,
+    "end_char": 422
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:173:term-usage:1687-1690",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:173",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 1687,
+    "end_char": 1690
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:174:term-usage:323-326",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:174",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 323,
+    "end_char": 326
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:176:term-usage:10-19",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:176",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 10,
+    "end_char": 19
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:176:term-usage:401-410",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:176",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 401,
+    "end_char": 410
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:176:term-usage:778-787",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:176",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 778,
+    "end_char": 787
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:176:term-usage:1161-1170",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:176",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1161,
+    "end_char": 1170
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:176:term-usage:1232-1241",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:176",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1232,
+    "end_char": 1241
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:176:term-usage:1398-1407",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:176",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1398,
+    "end_char": 1407
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:176:term-usage:1593-1596",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:176",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 1593,
+    "end_char": 1596
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:176:term-usage:1936-1945",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:176",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1936,
+    "end_char": 1945
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:176:term-usage:2496-2505",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:176",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 2496,
+    "end_char": 2505
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:176:term-usage:2537-2546",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:176",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 2537,
+    "end_char": 2546
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:176:term-usage:3134-3143",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:176",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 3134,
+    "end_char": 3143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:177:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:177",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:177:term-usage:463-472",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:177",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 463,
+    "end_char": 472
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:178:term-usage:93-102",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:178",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 93,
+    "end_char": 102
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:178:term-usage:329-338",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:178",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 329,
+    "end_char": 338
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:179:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:179",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:179:term-usage:494-503",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:179",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 494,
+    "end_char": 503
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:179:term-usage:887-896",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:179",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 887,
+    "end_char": 896
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:180:term-usage:405-414",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:180",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 405,
+    "end_char": 414
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:180:term-usage:546-555",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:180",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 546,
+    "end_char": 555
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:180:term-usage:655-664",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:180",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 655,
+    "end_char": 664
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:180:term-usage:1261-1270",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:180",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1261,
+    "end_char": 1270
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:180:term-usage:1521-1530",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:180",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1521,
+    "end_char": 1530
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:180:term-usage:1697-1706",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:180",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 1697,
+    "end_char": 1706
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:181:term-usage:61-70",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:181",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 61,
+    "end_char": 70
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:181:term-usage:284-293",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:181",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 284,
+    "end_char": 293
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:182:term-usage:100-103",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:182",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 100,
+    "end_char": 103
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:183:term-usage:91-94",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:183",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 91,
+    "end_char": 94
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:184:term-usage:126-129",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:184",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 126,
+    "end_char": 129
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:184:term-usage:294-303",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:184",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 294,
+    "end_char": 303
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:185:term-usage:56-59",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:185",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 56,
+    "end_char": 59
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:186:term-usage:109-112",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:186",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 109,
+    "end_char": 112
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:188:term-usage:55-58",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:188",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 55,
+    "end_char": 58
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:188:term-usage:116-119",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:188",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 116,
+    "end_char": 119
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:190:term-usage:107-110",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:190",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 107,
+    "end_char": 110
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:194:term-usage:200-209",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:194",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 200,
+    "end_char": 209
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:195:term-usage:37-46",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:195",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 37,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:195:term-usage:153-156",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:195",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 153,
+    "end_char": 156
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:196:term-usage:96-105",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:196",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 96,
+    "end_char": 105
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:196:term-usage:119253-119256",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:article:196",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 119253,
+    "end_char": 119256
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:transitory:segundo:term-usage:277-280",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 277,
+    "end_char": 280
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:transitory:tercero:term-usage:61-64",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 61,
+    "end_char": 64
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:transitory:tercero:term-usage:182-191",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 182,
+    "end_char": 191
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:transitory:cuarto:term-usage:99-108",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 99,
+    "end_char": 108
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:transitory:cuarto:term-usage:203-212",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 203,
+    "end_char": 212
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:transitory:cuarto:term-usage:274-277",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 274,
+    "end_char": 277
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:transitory:quinto:term-usage:137-146",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 137,
+    "end_char": 146
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:transitory:quinto:term-usage:216-225",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 216,
+    "end_char": 225
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:transitory:quinto:term-usage:520-529",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 520,
+    "end_char": 529
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:transitory:sexto:term-usage:202-205",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 202,
+    "end_char": 205
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:transitory:septimo:term-usage:164-173",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 164,
+    "end_char": 173
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:transitory:septimo:term-usage:530-533",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 530,
+    "end_char": 533
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:transitory:septimo:term-usage:635-644",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:instituto",
+    "span": "Instituto",
+    "start_char": 635,
+    "end_char": 644
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-macerf:transitory:octavo:term-usage:61-64",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lss-macerf:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:ley",
+    "span": "Ley",
+    "start_char": 61,
+    "end_char": 64
+  }
+]

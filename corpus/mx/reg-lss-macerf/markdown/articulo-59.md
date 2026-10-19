@@ -19,7 +19,7 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 Durante el estado de concurso mercantil no procederá el aviso de baja presentado por el patrón, respecto de sus trabajadores.
 
-El Instituto, en caso de concurso mercantil, operará la baja del trabajador cuando:
+El [Instituto](../../lss/markdown/articulo-5-A.md), en caso de concurso mercantil, operará la baja del trabajador cuando:
 
 I. La presente el síndico, en cuyo caso surtirá sus efectos a partir del día siguiente al de su recepción por el Instituto, y
 
