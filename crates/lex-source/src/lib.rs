@@ -101,6 +101,9 @@ pub struct GlossaryConfig {
     /// Instruments whose glossaries this one is expressly additive to, in
     /// resolution-priority order after the instrument's own terms. The DCG
     /// defines its terms "además de los términos utilizados en la Ley…".
+    /// An entry may instead be one provision's exact id, adopting only the
+    /// terms that provision defines: `reg-lss-macerf` adopts "las
+    /// definiciones establecidas en el artículo 5 A de la Ley".
     #[serde(default)]
     pub additive_to: Vec<String>,
     /// How a usage is written. Absent: the bare term or a singular/plural

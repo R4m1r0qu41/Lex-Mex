@@ -2351,16 +2351,12 @@ fn extract_instrument_terms(
         return Ok((Vec::new(), Vec::new()));
     }
 
+    let adopted = additive_to
+        .iter()
+        .map(|additive| additive_terms(additive, siblings))
+        .collect::<Result<Vec<_>>>()?;
     let mut term_sets: Vec<&[lex_core::DefinedTerm]> = vec![&terms];
-    for additive_instrument in additive_to {
-        let sibling = siblings
-            .iter()
-            .find(|(_, corpus)| &corpus.instrument.id == additive_instrument)
-            .with_context(|| {
-                format!("glossary is additive to {additive_instrument}, which is not in the corpus")
-            })?;
-        term_sets.push(&sibling.1.terms);
-    }
+    term_sets.extend(adopted.iter().map(Vec::as_slice));
     let usage_form = context
         .config
         .glossary
@@ -2372,6 +2368,57 @@ fn extract_instrument_terms(
         Some(other) => bail!("unsupported glossary usage_form {other:?}"),
     };
     Ok((terms, usages))
+}
+
+/// The terms a glossary adopts through one `additive_to` entry: every term
+/// of the sibling instrument with that exact id, or only the terms defined
+/// in the sibling provision with that exact id (a regulation adopting "las
+/// definiciones establecidas en el artículo 5 A de la Ley", not the law's
+/// other glossaries). An entry that names neither, or a provision that
+/// defines no terms, fails.
+fn additive_terms(
+    additive: &str,
+    siblings: &[(&str, &Corpus)],
+) -> Result<Vec<lex_core::DefinedTerm>> {
+    if let Some((_, corpus)) = siblings
+        .iter()
+        .find(|(_, corpus)| corpus.instrument.id == additive)
+    {
+        return Ok(corpus.terms.clone());
+    }
+    let owners: Vec<&Corpus> = siblings
+        .iter()
+        .map(|(_, corpus)| *corpus)
+        .filter(|corpus| {
+            additive
+                .strip_prefix(corpus.instrument.id.as_str())
+                .is_some_and(|rest| rest.starts_with(':'))
+        })
+        .collect();
+    let [owner] = owners.as_slice() else {
+        bail!(
+            "glossary is additive to {additive}, which is not an instrument or provision in the corpus"
+        );
+    };
+    anyhow::ensure!(
+        owner
+            .provisions
+            .iter()
+            .any(|provision| provision.id == additive),
+        "glossary is additive to {additive}, which is not a provision of {}",
+        owner.instrument.id
+    );
+    let terms: Vec<_> = owner
+        .terms
+        .iter()
+        .filter(|term| term.defining_provision_id == additive)
+        .cloned()
+        .collect();
+    anyhow::ensure!(
+        !terms.is_empty(),
+        "glossary is additive to {additive}, which defines no terms"
+    );
+    Ok(terms)
 }
 
 /// Extract this instrument's reference edges, resolving targets against
@@ -4249,8 +4296,8 @@ impl Paths {
 mod tests {
     use super::{
         InstrumentContext, OGA_SERIAL_NOTE, SourceConfig, SourceFormat, SourceManifest,
-        instrument_context, load_config, preserve_intake_decisions, resolve_publication,
-        run_temporal_request, self_reference_markers,
+        additive_terms, instrument_context, load_config, preserve_intake_decisions,
+        resolve_publication, run_temporal_request, self_reference_markers,
     };
     use std::{
         collections::{BTreeMap, HashMap, HashSet},
@@ -4745,6 +4792,61 @@ mod tests {
                 "invalid",
             ]
         );
+    }
+
+    #[test]
+    fn additive_to_adopts_a_whole_instrument_or_only_one_provisions_terms() {
+        let law_id = "urn:lex-mx:test:statute:lss";
+        let mut law = fixture_corpus(
+            law_id,
+            "Ley del Seguro Social",
+            "LSS",
+            "Para los efectos de esta Ley, se entiende por:\n\nI. Ley: la Ley del Seguro \
+             Social;\n\nII. Instituto: el Instituto Mexicano del Seguro Social;",
+        );
+        let mut add_on = law.provisions[0].clone();
+        add_on.id = format!("{law_id}:article:159");
+        add_on.text = "Para efectos de esta Ley, se entenderá por:\n\nI. Pensión, la renta \
+                       vitalicia.\n\nII. Renta vitalicia, el contrato."
+            .to_owned();
+        let mut plain = law.provisions[0].clone();
+        plain.id = format!("{law_id}:article:2");
+        plain.text = "Esta Ley es de observancia general.".to_owned();
+        law.terms = lex_parse::extract_glossaries(&[
+            (&law.provisions[0], lex_parse::GlossaryStyle::AutoWhole),
+            (&add_on, lex_parse::GlossaryStyle::AutoEstablished),
+        ])
+        .unwrap();
+        law.provisions.extend([add_on, plain]);
+        let siblings = [("lss", &law)];
+        let names = |additive: &str| {
+            additive_terms(additive, &siblings)
+                .unwrap()
+                .into_iter()
+                .map(|term| term.term)
+                .collect::<Vec<_>>()
+        };
+        assert_eq!(
+            names(law_id),
+            ["Ley", "Instituto", "Pensión", "Renta vitalicia"]
+        );
+        // `reg-lss-macerf` adopts Article 5 A only, not Article 159.
+        assert_eq!(names(&format!("{law_id}:article:1")), ["Ley", "Instituto"]);
+
+        for (additive, reason) in [
+            (format!("{law_id}:article:9"), "is not a provision of"),
+            (format!("{law_id}:article:2"), "defines no terms"),
+            (format!("{law_id}-bis"), "not an instrument or provision"),
+            (
+                "urn:lex-mx:test:statute:lsar:article:1".to_owned(),
+                "not an instrument or provision",
+            ),
+        ] {
+            let error = additive_terms(&additive, &siblings)
+                .unwrap_err()
+                .to_string();
+            assert!(error.contains(reason), "{additive}: {error}");
+        }
     }
 
     fn fixture_corpus(id: &str, title: &str, short_name: &str, text: &str) -> Corpus {
