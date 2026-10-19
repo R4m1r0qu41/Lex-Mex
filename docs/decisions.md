@@ -70,6 +70,12 @@ instrument branches or canonical text edits. Twelve glossaries were still held.
   - ingest VIII as the parent `Tabacos labrados` plus its four incisos, each linking to its own inciso;
   - ingest IX's incisos (combustibles automotrices, gasolina, diésel…) as the actual definitions.
   - LIEPS needs an inciso locator in `DefinedTerm`, so it is the next batch.
+- **LIEPS follow-up (operator, 2026-10-19):**
+  - The VIII parent term is `Tabacos labrados`, not the printed heading with "y otros".
+  - I (Bebidas con contenido alcohólico, a–b) and XXII (Combustibles fósiles, a–l) are treated like VIII.
+  - XXII d) Gasolina and g) Diésel only point to IX b) and IX c). They are recorded as cross-reference non-definitions, so each term is defined once.
+  - Links go to inciso-level anchors in the Markdown export. LIEPS terms also match their lower-case form through a reviewed adapter option, since `tabacos labrados` (39) and `cigarros` (24) are lower case in running text. The same option would serve lgs-investigacion.
+  - A parser regression blocked the LIEPS reparse. It is fixed in `609f7d89d`, and Article 3's text is unchanged, so the profile binds to committed text.
 
 **Measured.**
 - `link --all`: 5 relinked, 455 unchanged, 8 rejected (exactly the accepted gaps).
