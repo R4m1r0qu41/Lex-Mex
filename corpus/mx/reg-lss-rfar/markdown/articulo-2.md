@@ -17,12 +17,12 @@ source_sha256: 4b4529ce2b1275ea9363ab78b6e2d504cd1106bc3d10fd70f09246c38b0cd31e
 
 # Artículo 2
 
-Para efectos de este Reglamento, serán aplicables las definiciones establecidas en el artículo [5](../../lss/markdown/articulo-5.md) A de la Ley del Seguro Social, así como las siguientes:
+Para efectos de este Reglamento, serán aplicables las definiciones establecidas en el artículo [5](../../lss/markdown/articulo-5.md) A de la [Ley](../../lss/markdown/articulo-5-A.md) del Seguro Social, así como las siguientes:
 
-I. Consejo Técnico: El Consejo Técnico del Instituto;
+I. Consejo Técnico: El Consejo Técnico del [Instituto](../../lss/markdown/articulo-5-A.md);
 
 II. Reservas: Las Reservas Financieras y Actuariales señaladas en la fracción III del artículo [280](../../lss/markdown/articulo-280.md) de la Ley;
 
 III. Reserva General: La [Reserva](articulo-2.md) General Financiera y Actuarial señalada en la fracción IV del artículo [280](../../lss/markdown/articulo-280.md) de la Ley, y
 
-IV. Seguros y Coberturas: Los seguros de Riesgos de Trabajo, de Enfermedades y Maternidad, de Gastos Médicos para Pensionados, de Invalidez y Vida, de Guarderías y Prestaciones Sociales y de Salud para la Familia administrados por el Instituto, así como los demás seguros y coberturas que se establezcan conforme a la Ley. REGLAMENTO DE LA LEY DEL SEGURO SOCIAL PARA LA CONSTITUCIÓN, INVERSIÓN Y USO PARA LA OPERACIÓN DE LAS RESERVAS FINANCIERAS Y ACTUARIALES Y LA RESERVA GENERAL FINANCIERA Y ACTUARIAL, ASÍ COMO PARA LA DETERMINACIÓN DE LOS COSTOS FINANCIEROS QUE DEBERÁN REINTEGRARSE A LA RESERVA DE OPERACIÓN PARA CONTINGENCIAS Y FINANCIAMIENTO
+IV. Seguros y Coberturas: Los seguros de Riesgos de Trabajo, de Enfermedades y Maternidad, de Gastos Médicos para Pensionados, de Invalidez y Vida, de Guarderías y Prestaciones Sociales y de Salud para la Familia administrados por el Instituto, así como los demás seguros y coberturas que se establezcan conforme a la Ley.

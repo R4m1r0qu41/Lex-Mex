@@ -1,5 +1,30 @@
 # Architecture decisions
 
+## 2026-10-18 — `reg-lss-rfar`: wrapped running header removed by reparse; adopts LSS Article 5 A
+
+The operator asked for the `reg-lss-maeba` treatment to be applied to `reg-lss-rfar`. Its Article 2 glossary already gave 4 complete terms, but its running header sat inside fraction IV's definition.
+
+**Cause and repair:**
+- **Cause.** rfar's running header is its official title printed on three lines, so the whole-line title match never dropped it. It leaked into 5 provisions (Articles 2, 6, 8, 13 and 18).
+- **Repair.** The adapter declares the three printed lines as `header_lines`, and rfar was reparsed with `pipeline`. The title block and the `CAPÍTULO V` heading wrap differently, so they do not match those lines and are kept.
+- **Same source.** The retained PDF and extracted text match the recorded hashes (`4b4529ce…`, `061dd4c0…`). The furniture audit reports 0 findings.
+
+**Reparse diff:**
+- **Provisions.** All 24 ids are unchanged, and no field other than `text` changed.
+- **Header leaks.** In the 5 provisions, the deleted text is exactly the joined header.
+- **Transitory *sexto*.** It loses its "Dado en la residencia del Poder Ejecutivo Federal… Rúbrica." block, which is enactment apparatus (`is_enactment_signature`), as in maeba.
+- **References.** 32 → 31. The removed edge came from that signature block: the countersignature's "artículos 18 de la Ley Orgánica de la Administración Pública Federal; 7, fracción XII, y 86 del Reglamento Interior…" was linked to LOAPF 18 with a `fracción XII` qualifier that belongs to the Reglamento Interior's Article 7. No review was bound to it. The other 31 keep their targets, and two shift offsets only.
+
+**Glossary:**
+- **Configuration.** Article 2 uses `auto_whole` with `additive_to: ["urn:lex-mx:federal:statute:lss:article:5-a"]`, as for macerf and maeba.
+- **Terms.** The same 4 terms, I–IV. Only fraction IV's span shrinks, to exclude the header.
+- **Usages.** 79 → 123: its own 79 are unchanged, and 5 A adds 44 (`Ley` 24, `Instituto` 20).
+
+**Result** (`link --all`, byte-identical to a disposable probe apart from the retrieval timestamp):
+- No other instrument changes, and the rejected set is still the 8 accepted gaps.
+- References are 35,951 → 35,950, and cross-instrument edges 9,810 → 9,809.
+- **Open.** As for macerf, whether the 2013 import follows later amendments of 5 A is a legal reading for JRH or the operator.
+
 ## 2026-10-18 — `reg-pmimss` admitted (Reglamento de Prestaciones Médicas del IMSS) as a test case
 
 **Operator decision.** Admit `regla/n29.pdf` as a test of ingestion into a more populated and linked corpus. The admission is structural only: provisions are `not_analyzed`, and no legal review is implied.

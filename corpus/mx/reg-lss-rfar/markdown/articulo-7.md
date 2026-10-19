@@ -25,6 +25,6 @@ II. Hasta el 100% en instrumentos de deuda bancaria, debiéndose establecer de m
 
 III. Hasta el 25% en instrumentos de deuda corporativa y hasta por treinta años;
 
-IV. Hasta el 100% en acciones representativas del capital social de sociedades o empresas que tengan objeto social complementario o afín al del propio Instituto, y
+IV. Hasta el 100% en acciones representativas del capital social de sociedades o empresas que tengan objeto social complementario o afín al del propio [Instituto](../../lss/markdown/articulo-5-A.md), y
 
 V. Los demás límites y plazos que el Consejo Técnico, a propuesta de la Comisión de Inversiones Financieras, determine para otros valores, títulos de crédito y derechos.

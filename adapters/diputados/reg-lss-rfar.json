@@ -20,5 +20,17 @@
   },
   "allow_article_gaps": true,
   "formal_publication_urls": {},
-  "parent_instrument_id": "urn:lex-mx:federal:statute:lss"
+  "parent_instrument_id": "urn:lex-mx:federal:statute:lss",
+  "header_lines": [
+    "REGLAMENTO DE LA LEY DEL SEGURO SOCIAL PARA LA CONSTITUCIÓN, INVERSIÓN Y USO PARA LA OPERACIÓN DE LAS RESERVAS FINANCIERAS Y",
+    "ACTUARIALES Y LA RESERVA GENERAL FINANCIERA Y ACTUARIAL, ASÍ COMO PARA LA DETERMINACIÓN DE LOS COSTOS FINANCIEROS QUE DEBERÁN",
+    "REINTEGRARSE A LA RESERVA DE OPERACIÓN PARA CONTINGENCIAS Y FINANCIAMIENTO"
+  ],
+  "glossary": {
+    "provision_suffix": ":article:2",
+    "style": "auto_whole",
+    "additive_to": [
+      "urn:lex-mx:federal:statute:lss:article:5-a"
+    ]
+  }
 }

@@ -29,7 +29,7 @@ source counts. Existing instruments have not been reverse-relinked. No
 temporal model ran. The final native gate passed (265 tests, LRITF and
 IFPE validation).
 
-## Current corpus totals (2026-10-18, after `reg-pmimss`)
+## Current corpus totals (2026-10-18, after `reg-pmimss` and the `reg-lss-rfar` reparse)
 
 | Measure | Count |
 |---|---:|
@@ -39,9 +39,9 @@ IFPE validation).
 | Articles | 64,780 |
 | Original transitory provisions | 3,472 |
 | Annexes | 30 |
-| Reference edges | 35,951 |
-| — resolved / historical-target-unavailable / approved outdated | 35,930 / 4 / 17 |
-| — resolved cross-instrument edges | 9,810 |
+| Reference edges | 35,950 |
+| — resolved / historical-target-unavailable / approved outdated | 35,929 / 4 / 17 |
+| — resolved cross-instrument edges | 9,809 |
 | Provisions `not_analyzed` / `machine_accepted` / `lawyer_verified` / `review_required` | 48,039 / 20,240 / 2 / 1 |
 | Provisions with temporal status `unknown` | 46,720 |
 | Generated Markdown files under `corpus/mx` (incl. NOMs) | 68,757 |

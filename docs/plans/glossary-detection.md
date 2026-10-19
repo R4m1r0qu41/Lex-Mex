@@ -146,6 +146,10 @@ send a Codex review packet.
 
 ## Current checkpoint
 
+2026-10-18 (rfar): `reg-lss-rfar` was reparsed with three `header_lines`, which
+removed its header from fraction IV. It now adopts LSS 5 A (79 → 123 usages, with
+its own 4 terms unchanged). All three `reg-lss-*` importers of 5 A are configured.
+
 2026-10-18 (maeba): a wrapped running header was removed by reparse
 (`header_lines`). `reg-lss-maeba` now has 10 terms and adopts LSS 5 A (197
 usages). 18 glossaries remain held.

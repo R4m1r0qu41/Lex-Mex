@@ -17,4 +17,4 @@ source_sha256: 4b4529ce2b1275ea9363ab78b6e2d504cd1106bc3d10fd70f09246c38b0cd31e
 
 El [Consejo Técnico](articulo-2.md) expedirá el Manual a que se refiere el último párrafo del artículo [9](articulo-9.md) de este Reglamento, dentro de los treinta días posteriores a la entrada en vigor del presente ordenamiento.
 
-En tanto se expide el referido Manual, se continuará aplicando lo dispuesto en los artículos 3 al 9 del Reglamento para la Administración e Inversión de los Recursos Financieros del Instituto Mexicano del Seguro Social.
+En tanto se expide el referido Manual, se continuará aplicando lo dispuesto en los artículos 3 al 9 del Reglamento para la Administración e Inversión de los Recursos Financieros del [Instituto](../../lss/markdown/articulo-5-A.md) Mexicano del Seguro Social.

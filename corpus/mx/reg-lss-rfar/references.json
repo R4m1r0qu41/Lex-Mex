@@ -243,19 +243,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:6:reference:1210-1212:6:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:6:reference:884-886:6:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:6",
     "source_span": "II",
-    "start_char": 1210,
-    "end_char": 1212,
+    "start_char": 884,
+    "end_char": 886,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lss-rfar",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:6",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "II",
-        "start_char": 1210,
-        "end_char": 1212
+        "start_char": 884,
+        "end_char": 886
       }
     ],
     "basis": "express_cross_reference",
@@ -266,11 +266,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:6:reference:1568-1569:8:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:6:reference:1242-1243:8:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:6",
     "source_span": "8",
-    "start_char": 1568,
-    "end_char": 1569,
+    "start_char": 1242,
+    "end_char": 1243,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lss-rfar",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:8",
     "qualifiers": [],
@@ -378,11 +378,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:8:reference:1811-1812:5:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:8:reference:1485-1486:5:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:8",
     "source_span": "5",
-    "start_char": 1811,
-    "end_char": 1812,
+    "start_char": 1485,
+    "end_char": 1486,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lss-rfar",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:5",
     "qualifiers": [],
@@ -394,19 +394,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:8:reference:2514-2515:2:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:8:reference:2188-2189:2:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:8",
     "source_span": "2",
-    "start_char": 2514,
-    "end_char": 2515,
+    "start_char": 2188,
+    "end_char": 2189,
     "target_instrument_id": "urn:lex-mx:federal:statute:lmv",
     "target_provision_id": "urn:lex-mx:federal:statute:lmv:article:2",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción XIX",
-        "start_char": 2517,
-        "end_char": 2529
+        "start_char": 2191,
+        "end_char": 2203
       }
     ],
     "basis": "express_cross_reference",
@@ -551,29 +551,6 @@
     "target_instrument_id": "urn:lex-mx:federal:statute:lss",
     "target_provision_id": "urn:lex-mx:federal:statute:lss:article:146",
     "qualifiers": [],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct",
-    "resolution_rule": "named_instrument"
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:transitory:sexto:reference:833-835:18:direct",
-    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:transitory:sexto",
-    "source_span": "18",
-    "start_char": 833,
-    "end_char": 835,
-    "target_instrument_id": "urn:lex-mx:federal:statute:loapf",
-    "target_provision_id": "urn:lex-mx:federal:statute:loapf:article:18",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción XII",
-        "start_char": 896,
-        "end_char": 908
-      }
-    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

@@ -17,6 +17,6 @@ source_sha256: 4b4529ce2b1275ea9363ab78b6e2d504cd1106bc3d10fd70f09246c38b0cd31e
 
 # Artículo 9
 
-La Comisión de Inversiones Financieras como órgano especializado del [Consejo Técnico](articulo-2.md) en esta materia, estará integrada por miembros designados por las representaciones de los trabajadores y patrones ante el Consejo Técnico, así como por servidores públicos del Instituto y de la Secretaría de Hacienda y Crédito Público. Su participación en la Comisión de Inversiones Financieras será de carácter honorífico.
+La Comisión de Inversiones Financieras como órgano especializado del [Consejo Técnico](articulo-2.md) en esta materia, estará integrada por miembros designados por las representaciones de los trabajadores y patrones ante el Consejo Técnico, así como por servidores públicos del [Instituto](../../lss/markdown/articulo-5-A.md) y de la Secretaría de Hacienda y Crédito Público. Su participación en la Comisión de Inversiones Financieras será de carácter honorífico.
 
 El Consejo Técnico expedirá el Manual de Integración y Funcionamiento de la Comisión de Inversiones Financieras y establecerá los requisitos de capacidad y experiencia que deberán cubrir los integrantes que representen a los trabajadores y patrones; lo anterior, para el debido desarrollo y cumplimiento de las funciones de la Comisión.
