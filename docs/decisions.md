@@ -1,5 +1,24 @@
 # Architecture decisions
 
+## 2026-10-19 — `reg-lgcc-rne` adopts LGCC Article 3; meia and mpcca imports wait for the title-span filter
+
+**rne.** Its Article 2 opens "se considerarán las definiciones contenidas en el artículo 3 de la Ley, así como las siguientes:". It now uses `auto_whole` with `additive_to: ["urn:lex-mx:federal:statute:lgcc:article:3"]`. LGCC's 38 terms all come from Article 3.
+- **Usages:** 82 → 207. rne's own 82 are unchanged, and LGCC adds 125: `Emisiones` 62, `Secretaría` 38, `Ley` 14, `Mitigación` 11.
+- **Sample check:** the sampled `Secretaría` uses are bare "la Secretaría". rne defines no `Secretaría` of its own.
+- **Other instruments:** none changes. References stay at 35,950, and `link --all` matched a disposable probe byte for byte.
+
+**meia and mpcca are not configured.** A probe configured both with LGEEPA Article 3. Their own usages were unchanged, but nearly all of the imported ones are false matches:
+- **meia:** 21 imported usages.
+- **mpcca:** 29 imported usages.
+- **The false matches:**
+  - LGEEPA's `Ambiente` and `Protección` matched inside other names: "Secretaría de Medio Ambiente y Recursos Naturales", "Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente…" and LGEEPA's own title.
+  - `Secretaría` matched inside the regulations' own `Secretaría:` definition line.
+- **Why they wait.** Admitting them would add known false usages. They wait for the title-span usage filter, which is a separate reviewed change.
+
+**Still unconfigured.**
+- `reg-lgeepa-maaa` also adopts the Ley Federal sobre Metrología y Normalización, which is not in the corpus. Precedence between the two laws is an operator question.
+- `reg-lgeepa-mretc`'s "otros ordenamientos" is still an operator question.
+
 ## 2026-10-19 — Six glossaries held by running headers are released by reparse; one parser fix
 
 The operator asked for the six glossaries held for running headers to be fixed: `reg-lgcc-rne` 2, `reg-lgeepa-maaa` 2, `-meia` 3, `-mpcca` 6, `-mretc` 3 and `reg-lgs-investigacion` 40.

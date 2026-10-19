@@ -17,4 +17,4 @@ source_sha256: 62420210c5aaffe687daf130a64ff506009625340c554bfb36d2f1b5dcac0192
 
 # Artículo 24
 
-Los Establecimientos Sujetos a Reporte cuyas Emisiones no rebasen el umbral establecido en el artículo [6](articulo-6.md) del presente Reglamento y que, conforme a las disposiciones jurídicas aplicables, estén obligados a reportar la información correspondiente a dichas Emisiones en otros registros, federales o locales, deberán cumplir con tales disposiciones.
+Los Establecimientos Sujetos a Reporte cuyas [Emisiones](../../lgcc/markdown/articulo-3o.md) no rebasen el umbral establecido en el artículo [6](articulo-6.md) del presente Reglamento y que, conforme a las disposiciones jurídicas aplicables, estén obligados a reportar la información correspondiente a dichas Emisiones en otros registros, federales o locales, deberán cumplir con tales disposiciones.

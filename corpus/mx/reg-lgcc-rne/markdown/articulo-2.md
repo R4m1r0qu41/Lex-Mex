@@ -17,9 +17,9 @@ source_sha256: 62420210c5aaffe687daf130a64ff506009625340c554bfb36d2f1b5dcac0192
 
 # Artículo 2
 
-Para los efectos del presente Reglamento, se considerarán las definiciones contenidas en el artículo [3](../../lgcc/markdown/articulo-3o.md) de la Ley, así como las siguientes:
+Para los efectos del presente Reglamento, se considerarán las definiciones contenidas en el artículo [3](../../lgcc/markdown/articulo-3o.md) de la [Ley](../../lgcc/markdown/articulo-3o.md), así como las siguientes:
 
-I. Cédula de Operación Anual: Instrumento de reporte y recopilación de información de Emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, materiales y residuos peligrosos empleado para la actualización de la base de datos del Registro de Emisiones y Transferencia de Contaminantes;
+I. Cédula de Operación Anual: Instrumento de reporte y recopilación de información de [Emisiones](../../lgcc/markdown/articulo-3o.md) y transferencia de contaminantes al aire, agua, suelo y subsuelo, materiales y residuos peligrosos empleado para la actualización de la base de datos del Registro de Emisiones y Transferencia de Contaminantes;
 
 II. Dictamen de Verificación: Documento emitido por un [Organismo](articulo-2.md) que acredita la relevancia, integridad, consistencia, transparencia y precisión de la información contenida en los reportes de Emisiones que los Establecimientos Sujetos a Reporte incorporan en el Registro;
 
@@ -33,7 +33,7 @@ VII. Fuente Fija de Gases o Compuestos de Efecto Invernadero: Aquélla con ubica
 
 VIII. Fuente Móvil de Gases o Compuestos de Efecto Invernadero: Aquella maquinaria o equipo que sin constituir una instalación con ubicación física permanente genera Gases o Compuestos de Efecto Invernadero por la operación de motores de combustión interna. En esta definición se incluye todo tipo de vehículos o maquinaria, no adherida a instalaciones fijas, que operen con motores de combustión;
 
-IX. Organismos: Aquéllos acreditados y aprobados de acuerdo a los mecanismos previstos en la Ley Federal sobre Metrología y Normalización y que, en términos del presente Reglamento, verifican la información contenida en los reportes de Emisiones o validan la Mitigación o reducción de Emisiones de un proyecto que se pretenda presentar o inscribir en el Registro;
+IX. Organismos: Aquéllos acreditados y aprobados de acuerdo a los mecanismos previstos en la Ley Federal sobre Metrología y Normalización y que, en términos del presente Reglamento, verifican la información contenida en los reportes de Emisiones o validan la [Mitigación](../../lgcc/markdown/articulo-3o.md) o reducción de Emisiones de un proyecto que se pretenda presentar o inscribir en el Registro;
 
 X. Panel Intergubernamental: el Panel Intergubernamental de Cambio Climático (IPCC);
 

@@ -146,6 +146,11 @@ send a Codex review packet.
 
 ## Current checkpoint
 
+2026-10-19 (G3 import): `reg-lgcc-rne` adopts LGCC Article 3 (82 → 207 usages).
+The meia and mpcca imports of LGEEPA Article 3 were probed and are not configured.
+Their imported usages are almost all title-prefix false matches, so they wait for
+the title-span filter.
+
 2026-10-19 (six header holds): `reg-lgcc-rne`, `reg-lgeepa-maaa`, `-meia`,
 `-mpcca`, `-mretc` and `reg-lgs-investigacion` were held only because of their July
 parses. A plain reparse with the current parser releases them (99 terms), with no

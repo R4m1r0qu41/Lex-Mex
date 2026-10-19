@@ -17,4 +17,4 @@ source_sha256: 62420210c5aaffe687daf130a64ff506009625340c554bfb36d2f1b5dcac0192
 
 # Artículo 22
 
-La Secretaría podrá realizar visitas técnicas para evaluar el desempeño de los [Organismos](articulo-2.md) acreditados y aprobados para la verificación de Emisiones de Gases o Compuestos de Efecto Invernadero o certificación de reducción de las mismas, durante toda la vigencia de su aprobación.
+La [Secretaría](../../lgcc/markdown/articulo-3o.md) podrá realizar visitas técnicas para evaluar el desempeño de los [Organismos](articulo-2.md) acreditados y aprobados para la verificación de [Emisiones](../../lgcc/markdown/articulo-3o.md) de Gases o Compuestos de Efecto Invernadero o certificación de reducción de las mismas, durante toda la vigencia de su aprobación.

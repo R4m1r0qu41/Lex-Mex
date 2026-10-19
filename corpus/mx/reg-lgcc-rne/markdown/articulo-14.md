@@ -25,7 +25,7 @@ a. El resultado de las Emisiones Directas por tipo de Gas o Compuesto de Efecto 
 
 b. El volumen consumido anualmente por tipo de combustible, y
 
-c. Ubicación del [Establecimiento Sujeto a Reporte](articulo-2.md) cuyas Emisiones se reportan, y
+c. Ubicación del [Establecimiento Sujeto a Reporte](articulo-2.md) cuyas [Emisiones](../../lgcc/markdown/articulo-3o.md) se reportan, y
 
 II. En el caso de Fuentes Móviles:
 

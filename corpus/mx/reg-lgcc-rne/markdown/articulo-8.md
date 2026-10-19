@@ -17,9 +17,9 @@ source_sha256: 62420210c5aaffe687daf130a64ff506009625340c554bfb36d2f1b5dcac0192
 
 # Artículo 8
 
-La Secretaría, mediante Acuerdos que publique en el Diario Oficial de la Federación, podrá:
+La [Secretaría](../../lgcc/markdown/articulo-3o.md), mediante Acuerdos que publique en el Diario Oficial de la Federación, podrá:
 
-I. Señalar las particularidades técnicas y las fórmulas correspondientes para la aplicación de metodologías para la medición, cálculo o estimación de Emisiones de alguna actividad específica;
+I. Señalar las particularidades técnicas y las fórmulas correspondientes para la aplicación de metodologías para la medición, cálculo o estimación de [Emisiones](../../lgcc/markdown/articulo-3o.md) de alguna actividad específica;
 
 II. Determinar los factores de Emisión específicos para el cálculo o estimación de Emisiones del Gas o Compuesto de Efecto Invernadero;
 

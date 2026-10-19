@@ -17,7 +17,7 @@ source_sha256: 62420210c5aaffe687daf130a64ff506009625340c554bfb36d2f1b5dcac0192
 
 # Artículo 5
 
-Para los efectos del artículo [87](../../lgcc/markdown/articulo-87.md), segundo párrafo, fracción I de la Ley, los Gases o Compuestos de Efecto Invernadero sujetos a reporte en los términos del presente Reglamento, son:
+Para los efectos del artículo [87](../../lgcc/markdown/articulo-87.md), segundo párrafo, fracción I de la [Ley](../../lgcc/markdown/articulo-3o.md), los Gases o Compuestos de Efecto Invernadero sujetos a reporte en los términos del presente Reglamento, son:
 
 I. Bióxido de carbono;
 
@@ -45,6 +45,6 @@ XII. Halocarbonos;
 
 XIII. Mezclas de los anteriores, y
 
-XIV. Los Gases y Compuestos de Efecto Invernadero que el [Panel Intergubernamental](articulo-2.md) determine como tales y que la Secretaría dé a conocer como sujetos a reporte mediante Acuerdo que publique en el Diario Oficial de la Federación.
+XIV. Los Gases y Compuestos de Efecto Invernadero que el [Panel Intergubernamental](articulo-2.md) determine como tales y que la [Secretaría](../../lgcc/markdown/articulo-3o.md) dé a conocer como sujetos a reporte mediante Acuerdo que publique en el Diario Oficial de la Federación.
 
 La Secretaría, mediante Acuerdo que publique en el Diario Oficial de la Federación, determinará los Gases o Compuestos de Efecto Invernadero específicos que se agrupen en los rubros señalados en las fracciones I a XII del presente artículo, así como las mezclas de los mismos que estarán sujetas a reporte, señalando en todos los casos la fórmula química correspondiente o cualquier otra información técnica que facilite su identificación.

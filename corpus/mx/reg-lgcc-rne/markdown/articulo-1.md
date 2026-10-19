@@ -17,4 +17,4 @@ source_sha256: 62420210c5aaffe687daf130a64ff506009625340c554bfb36d2f1b5dcac0192
 
 # Artículo 1
 
-El presente ordenamiento es de observancia general en todo el territorio nacional y tiene por objeto reglamentar la Ley en lo que se refiere al Registro Nacional de Emisiones; su aplicación corresponde al Ejecutivo Federal, por conducto de la Secretaría, sin perjuicio de las atribuciones que correspondan a otras Dependencias del Ejecutivo Federal.
+El presente ordenamiento es de observancia general en todo el territorio nacional y tiene por objeto reglamentar la [Ley](../../lgcc/markdown/articulo-3o.md) en lo que se refiere al Registro Nacional de [Emisiones](../../lgcc/markdown/articulo-3o.md); su aplicación corresponde al Ejecutivo Federal, por conducto de la [Secretaría](../../lgcc/markdown/articulo-3o.md), sin perjuicio de las atribuciones que correspondan a otras Dependencias del Ejecutivo Federal.

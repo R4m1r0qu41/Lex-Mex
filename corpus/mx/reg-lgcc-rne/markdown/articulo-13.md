@@ -17,7 +17,7 @@ source_sha256: 62420210c5aaffe687daf130a64ff506009625340c554bfb36d2f1b5dcac0192
 
 # Artículo 13
 
-Los Establecimientos Sujetos a Reporte que deban presentar ante la Secretaría la [Cédula de Operación Anual](articulo-2.md) únicamente por sus Emisiones de Gases o Compuestos de Efecto Invernadero, requisitarán en dicho instrumento, la siguiente información:
+Los Establecimientos Sujetos a Reporte que deban presentar ante la [Secretaría](../../lgcc/markdown/articulo-3o.md) la [Cédula de Operación Anual](articulo-2.md) únicamente por sus [Emisiones](../../lgcc/markdown/articulo-3o.md) de Gases o Compuestos de Efecto Invernadero, requisitarán en dicho instrumento, la siguiente información:
 
 I. Nombre, denominación o razón social;
 
@@ -37,4 +37,4 @@ VIII. La información específica a que se refiere el [artículo siguiente](arti
 
 Además de la información señalada en el párrafo anterior se anexarán el documento con el que se acredite la personalidad jurídica del representante legal y la copia de su identificación oficial, en formato electrónico, como archivos de imagen u otros análogos.
 
-Los Establecimientos Sujetos a Reporte que opten por efectuar el trámite a que se refiere este artículo a través de medios electrónicos, deberán observar las disposiciones conducentes previstas en la Ley de Firma Electrónica Avanzada y en su Reglamento.
+Los Establecimientos Sujetos a Reporte que opten por efectuar el trámite a que se refiere este artículo a través de medios electrónicos, deberán observar las disposiciones conducentes previstas en la [Ley](../../lgcc/markdown/articulo-3o.md) de Firma Electrónica Avanzada y en su Reglamento.

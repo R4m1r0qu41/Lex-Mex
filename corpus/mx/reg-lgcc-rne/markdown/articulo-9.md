@@ -23,7 +23,7 @@ I. Identificar las [Emisiones Directas](articulo-2.md) de Fuentes Fijas y Móvil
 
 II. Identificar las [Emisiones Indirectas](articulo-2.md) asociadas al consumo de energía eléctrica y térmica;
 
-III. Medir, calcular o estimar la Emisión de Gases o Compuestos de Efecto Invernadero de todas las Fuentes Emisoras identificadas en el Establecimiento aplicando las metodologías que se determinen conforme al artículo [7](articulo-7.md) del presente Reglamento;
+III. Medir, calcular o estimar la [Emisión](../../lgcc/markdown/articulo-3o.md) de Gases o Compuestos de Efecto Invernadero de todas las Fuentes Emisoras identificadas en el Establecimiento aplicando las metodologías que se determinen conforme al artículo [7](articulo-7.md) del presente Reglamento;
 
 IV. Recopilar y utilizar los datos que se especifican en la metodología de medición, cálculo o estimación que resulte aplicable, determinada conforme al artículo [7](articulo-7.md) del presente Reglamento;
 
@@ -31,4 +31,4 @@ V. Reportar anualmente sus Emisiones Directas e Indirectas, a través de la [Cé
 
 VI. Verificar obligatoriamente la información reportada, en los términos del presente Reglamento, a través de los [Organismos](articulo-2.md) previstos en el presente Reglamento, y
 
-VII. Conservar, por un período de 5 años, contados a partir de la fecha en que la Secretaría haya recibido la Cédula de Operación Anual correspondiente, la información, datos y documentos sobre sus Emisiones Directas e Indirectas así como la utilizada para su medición, cálculo o estimación.
+VII. Conservar, por un período de 5 años, contados a partir de la fecha en que la [Secretaría](../../lgcc/markdown/articulo-3o.md) haya recibido la Cédula de Operación Anual correspondiente, la información, datos y documentos sobre sus Emisiones Directas e Indirectas así como la utilizada para su medición, cálculo o estimación.

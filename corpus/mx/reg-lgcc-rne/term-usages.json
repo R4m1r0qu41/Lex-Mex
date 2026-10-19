@@ -1,12 +1,75 @@
 [
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:1:term-usage:116-119",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:ley",
+    "span": "Ley",
+    "start_char": 116,
+    "end_char": 119
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:1:term-usage:165-174",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 165,
+    "end_char": 174
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:1:term-usage:243-253",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 243,
+    "end_char": 253
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2:term-usage:109-112",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:ley",
+    "span": "Ley",
+    "start_char": 109,
+    "end_char": 112
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2:term-usage:226-235",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 226,
+    "end_char": 235
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2:term-usage:402-411",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 402,
+    "end_char": 411
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2:term-usage:502-511",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:organismos",
     "span": "Organismo",
     "start_char": 502,
     "end_char": 511
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2:term-usage:639-648",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 639,
+    "end_char": 648
   },
   {
     "schema_version": "0.1.0",
@@ -55,12 +118,93 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2:term-usage:1944-1947",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:ley",
+    "span": "Ley",
+    "start_char": 1944,
+    "end_char": 1947
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2:term-usage:2948-2951",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:ley",
+    "span": "Ley",
+    "start_char": 2948,
+    "end_char": 2951
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2:term-usage:3091-3100",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 3091,
+    "end_char": 3100
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2:term-usage:3114-3124",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:mitigacion",
+    "span": "Mitigación",
+    "start_char": 3114,
+    "end_char": 3124
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2:term-usage:3140-3149",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 3140,
+    "end_char": 3149
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:3:term-usage:56-59",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:ley",
+    "span": "Ley",
+    "start_char": 56,
+    "end_char": 59
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:4:term-usage:9369-9378",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 9369,
+    "end_char": 9378
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:4:term-usage:9680-9698",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:emisiones-directas",
     "span": "Emisiones Directas",
     "start_char": 9680,
     "end_char": 9698
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:4:term-usage:9733-9743",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 9733,
+    "end_char": 9743
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:4:term-usage:10109-10118",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 10109,
+    "end_char": 10118
   },
   {
     "schema_version": "0.1.0",
@@ -73,12 +217,57 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:4:term-usage:10180-10190",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 10180,
+    "end_char": 10190
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:5:term-usage:68-71",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:ley",
+    "span": "Ley",
+    "start_char": 68,
+    "end_char": 71
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:5:term-usage:576-600",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:5",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:panel-intergubernamental",
     "span": "Panel Intergubernamental",
     "start_char": 576,
     "end_char": 600
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:5:term-usage:631-641",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 631,
+    "end_char": 641
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:5:term-usage:751-761",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 751,
+    "end_char": 761
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:6:term-usage:69-72",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:ley",
+    "span": "Ley",
+    "start_char": 69,
+    "end_char": 72
   },
   {
     "schema_version": "0.1.0",
@@ -91,12 +280,57 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:6:term-usage:330-339",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 330,
+    "end_char": 339
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:6:term-usage:526-535",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 526,
+    "end_char": 535
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:7:term-usage:83-86",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:ley",
+    "span": "Ley",
+    "start_char": 83,
+    "end_char": 86
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:7:term-usage:184-202",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:7",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:emisiones-directas",
     "span": "Emisiones Directas",
     "start_char": 184,
     "end_char": 202
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:7:term-usage:342-349",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisión",
+    "start_char": 342,
+    "end_char": 349
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:7:term-usage:1624-1633",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 1624,
+    "end_char": 1633
   },
   {
     "schema_version": "0.1.0",
@@ -109,12 +343,129 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:7:term-usage:2131-2141",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2131,
+    "end_char": 2141
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:7:term-usage:2502-2509",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisión",
+    "start_char": 2502,
+    "end_char": 2509
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:7:term-usage:2602-2612",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2602,
+    "end_char": 2612
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:7:term-usage:2686-2695",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 2686,
+    "end_char": 2695
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:7:term-usage:2935-2945",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2935,
+    "end_char": 2945
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:7:term-usage:3371-3380",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 3371,
+    "end_char": 3380
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:8:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:8:term-usage:243-252",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 243,
+    "end_char": 252
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:8:term-usage:317-324",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisión",
+    "start_char": 317,
+    "end_char": 324
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:8:term-usage:369-378",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 369,
+    "end_char": 378
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:8:term-usage:442-475",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:8",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:potencial-de-calentamiento-global",
     "span": "Potencial de Calentamiento Global",
     "start_char": 442,
     "end_char": 475
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:8:term-usage:522-531",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 522,
+    "end_char": 531
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:8:term-usage:1103-1110",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisión",
+    "start_char": 1103,
+    "end_char": 1110
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:8:term-usage:1131-1141",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1131,
+    "end_char": 1141
   },
   {
     "schema_version": "0.1.0",
@@ -145,6 +496,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:9:term-usage:400-407",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisión",
+    "start_char": 400,
+    "end_char": 407
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:9:term-usage:829-847",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:9",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:emisiones-directas",
@@ -172,6 +532,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:9:term-usage:1322-1332",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1322,
+    "end_char": 1332
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:9:term-usage:1350-1375",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:9",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:cedula-de-operacion-anual",
@@ -187,6 +556,42 @@
     "span": "Emisiones Directas",
     "start_char": 1438,
     "end_char": 1456
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:10:term-usage:59-68",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 59,
+    "end_char": 68
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:10:term-usage:279-289",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:mitigacion",
+    "span": "Mitigación",
+    "start_char": 279,
+    "end_char": 289
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:10:term-usage:309-318",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 309,
+    "end_char": 318
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:10:term-usage:400-410",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 400,
+    "end_char": 410
   },
   {
     "schema_version": "0.1.0",
@@ -208,12 +613,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:11:term-usage:136-145",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 136,
+    "end_char": 145
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:11:term-usage:211-223",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:11",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:procuraduria",
     "span": "Procuraduría",
     "start_char": 211,
     "end_char": 223
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:11:term-usage:346-356",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 346,
+    "end_char": 356
   },
   {
     "schema_version": "0.1.0",
@@ -241,6 +664,15 @@
     "span": "Organismo",
     "start_char": 733,
     "end_char": 742
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:11:term-usage:784-793",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 784,
+    "end_char": 793
   },
   {
     "schema_version": "0.1.0",
@@ -280,6 +712,33 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:12:term-usage:577-587",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 577,
+    "end_char": 587
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:12:term-usage:624-634",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 624,
+    "end_char": 634
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:12:term-usage:763-773",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 763,
+    "end_char": 773
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:12:term-usage:855-880",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:12",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:cedula-de-operacion-anual",
@@ -295,6 +754,15 @@
     "span": "Cédula de Operación Anual",
     "start_char": 1256,
     "end_char": 1281
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:12:term-usage:1321-1330",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 1321,
+    "end_char": 1330
   },
   {
     "schema_version": "0.1.0",
@@ -316,12 +784,48 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:12:term-usage:1612-1621",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 1612,
+    "end_char": 1621
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:12:term-usage:1689-1698",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 1689,
+    "end_char": 1698
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:12:term-usage:1864-1889",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:12",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:cedula-de-operacion-anual",
     "span": "Cédula de Operación Anual",
     "start_char": 1864,
     "end_char": 1889
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:12:term-usage:1955-1965",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1955,
+    "end_char": 1965
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:13:term-usage:67-77",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 67,
+    "end_char": 77
   },
   {
     "schema_version": "0.1.0",
@@ -334,12 +838,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:13:term-usage:126-135",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 126,
+    "end_char": 135
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:13:term-usage:917-935",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:13",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:emisiones-directas",
     "span": "Emisiones Directas",
     "start_char": 917,
     "end_char": 935
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:13:term-usage:1644-1647",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:ley",
+    "span": "Ley",
+    "start_char": 1644,
+    "end_char": 1647
   },
   {
     "schema_version": "0.1.0",
@@ -367,6 +889,15 @@
     "span": "Establecimiento Sujeto a Reporte",
     "start_char": 394,
     "end_char": 426
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:14:term-usage:433-442",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 433,
+    "end_char": 442
   },
   {
     "schema_version": "0.1.0",
@@ -424,6 +955,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:16:term-usage:310-320",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 310,
+    "end_char": 320
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:16:term-usage:409-441",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:16",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:establecimiento-sujeto-a-reporte",
@@ -439,6 +979,15 @@
     "span": "Organismo",
     "start_char": 3,
     "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:17:term-usage:67-76",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 67,
+    "end_char": 76
   },
   {
     "schema_version": "0.1.0",
@@ -469,12 +1018,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:18:term-usage:283-292",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 283,
+    "end_char": 292
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:18:term-usage:343-355",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:18",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:procuraduria",
     "span": "Procuraduría",
     "start_char": 343,
     "end_char": 355
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:18:term-usage:436-445",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 436,
+    "end_char": 445
   },
   {
     "schema_version": "0.1.0",
@@ -487,12 +1054,39 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:19:term-usage:68-71",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:ley",
+    "span": "Ley",
+    "start_char": 68,
+    "end_char": 71
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:19:term-usage:213-216",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:ley",
+    "span": "Ley",
+    "start_char": 213,
+    "end_char": 216
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:19:term-usage:283-293",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:19",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:organismos",
     "span": "Organismos",
     "start_char": 283,
     "end_char": 293
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:19:term-usage:347-357",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 347,
+    "end_char": 357
   },
   {
     "schema_version": "0.1.0",
@@ -505,12 +1099,48 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:19:term-usage:537-547",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 537,
+    "end_char": 547
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:20:term-usage:4-14",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:20",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:organismos",
     "span": "Organismos",
     "start_char": 4,
     "end_char": 14
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:20:term-usage:70-80",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 70,
+    "end_char": 80
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:20:term-usage:100-109",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 100,
+    "end_char": 109
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:20:term-usage:285-288",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:ley",
+    "span": "Ley",
+    "start_char": 285,
+    "end_char": 288
   },
   {
     "schema_version": "0.1.0",
@@ -523,12 +1153,66 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:20:term-usage:410-419",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 410,
+    "end_char": 419
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:20:term-usage:677-686",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 677,
+    "end_char": 686
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:21:term-usage:105-115",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 105,
+    "end_char": 115
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:21:term-usage:348-358",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 348,
+    "end_char": 358
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:22:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:22:term-usage:79-89",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:22",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:organismos",
     "span": "Organismos",
     "start_char": 79,
     "end_char": 89
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:22:term-usage:138-147",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 138,
+    "end_char": 147
   },
   {
     "schema_version": "0.1.0",
@@ -541,12 +1225,66 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:23:term-usage:139-148",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 139,
+    "end_char": 148
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:23:term-usage:203-210",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisión",
+    "start_char": 203,
+    "end_char": 210
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:23:term-usage:245-277",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:23",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:establecimiento-sujeto-a-reporte",
     "span": "Establecimiento Sujeto a Reporte",
     "start_char": 245,
     "end_char": 277
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:23:term-usage:341-350",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 341,
+    "end_char": 350
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:23:term-usage:496-505",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 496,
+    "end_char": 505
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:23:term-usage:574-584",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:mitigacion",
+    "span": "Mitigación",
+    "start_char": 574,
+    "end_char": 584
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:23:term-usage:611-620",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 611,
+    "end_char": 620
   },
   {
     "schema_version": "0.1.0",
@@ -568,6 +1306,96 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:23:term-usage:1041-1051",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:mitigacion",
+    "span": "Mitigación",
+    "start_char": 1041,
+    "end_char": 1051
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:23:term-usage:1193-1203",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1193,
+    "end_char": 1203
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:24:term-usage:45-54",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 45,
+    "end_char": 54
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:24:term-usage:254-263",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 254,
+    "end_char": 263
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:25:term-usage:152-162",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 152,
+    "end_char": 162
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:25:term-usage:636-645",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 636,
+    "end_char": 645
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:25:term-usage:660-669",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 660,
+    "end_char": 669
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:25:term-usage:747-756",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 747,
+    "end_char": 756
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:26:term-usage:107-117",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:mitigacion",
+    "span": "Mitigación",
+    "start_char": 107,
+    "end_char": 117
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:26:term-usage:144-153",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 144,
+    "end_char": 153
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:26:term-usage:328-350",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:26",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:dictamen-de-validacion",
@@ -586,6 +1414,51 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:26:term-usage:553-563",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:mitigacion",
+    "span": "Mitigación",
+    "start_char": 553,
+    "end_char": 563
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:26:term-usage:629-638",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 629,
+    "end_char": 638
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:27:term-usage:74-84",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:mitigacion",
+    "span": "Mitigación",
+    "start_char": 74,
+    "end_char": 84
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:27:term-usage:111-120",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 111,
+    "end_char": 120
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:27:term-usage:242-252",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 242,
+    "end_char": 252
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:27:term-usage:753-762",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:27",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:organismos",
@@ -595,12 +1468,138 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:27:term-usage:801-811",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 801,
+    "end_char": 811
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:27:term-usage:1247-1257",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:mitigacion",
+    "span": "Mitigación",
+    "start_char": 1247,
+    "end_char": 1257
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:27:term-usage:1273-1282",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 1273,
+    "end_char": 1282
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:27:term-usage:1377-1387",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:mitigacion",
+    "span": "Mitigación",
+    "start_char": 1377,
+    "end_char": 1387
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:27:term-usage:1400-1410",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:mitigacion",
+    "span": "Mitigación",
+    "start_char": 1400,
+    "end_char": 1410
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:27:term-usage:1593-1602",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 1593,
+    "end_char": 1602
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:27:term-usage:1663-1672",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 1663,
+    "end_char": 1672
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:27:term-usage:2074-2083",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:27",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:organismos",
     "span": "Organismo",
     "start_char": 2074,
     "end_char": 2083
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:28:term-usage:90-100",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 90,
+    "end_char": 100
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:28:term-usage:309-319",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:mitigacion",
+    "span": "Mitigación",
+    "start_char": 309,
+    "end_char": 319
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:28:term-usage:335-344",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 335,
+    "end_char": 344
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:29:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:29:term-usage:92-95",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:ley",
+    "span": "Ley",
+    "start_char": 92,
+    "end_char": 95
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:29:term-usage:314-323",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 314,
+    "end_char": 323
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:tercero:term-usage:12-22",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 12,
+    "end_char": 22
   },
   {
     "schema_version": "0.1.0",
@@ -658,12 +1657,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:cuarto:term-usage:361-371",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 361,
+    "end_char": 371
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:quinto:term-usage:226-250",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:quinto",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:dictamen-de-verificacion",
     "span": "Dictamen de Verificación",
     "start_char": 226,
     "end_char": 250
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:quinto:term-usage:258-267",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 258,
+    "end_char": 267
   },
   {
     "schema_version": "0.1.0",
@@ -703,6 +1720,60 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:sexto:term-usage:346-355",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisiones",
+    "start_char": 346,
+    "end_char": 355
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:sexto:term-usage:475-478",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:ley",
+    "span": "Ley",
+    "start_char": 475,
+    "end_char": 478
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:sexto:term-usage:546-556",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 546,
+    "end_char": 556
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:septimo:term-usage:135-145",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 135,
+    "end_char": 145
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:octavo:term-usage:99-106",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisión",
+    "start_char": 99,
+    "end_char": 106
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:octavo:term-usage:129-139",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 129,
+    "end_char": 139
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:octavo:term-usage:150-174",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:octavo",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:panel-intergubernamental",
@@ -712,12 +1783,57 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:octavo:term-usage:190-200",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 190,
+    "end_char": 200
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:octavo:term-usage:323-330",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisión",
+    "start_char": 323,
+    "end_char": 330
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:octavo:term-usage:372-390",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:octavo",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:emisiones-directas",
     "span": "Emisiones Directas",
     "start_char": 372,
     "end_char": 390
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:octavo:term-usage:546-553",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisión",
+    "start_char": 546,
+    "end_char": 553
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:octavo:term-usage:632-642",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 632,
+    "end_char": 642
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:octavo:term-usage:779-786",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisión",
+    "start_char": 779,
+    "end_char": 786
   },
   {
     "schema_version": "0.1.0",
@@ -736,5 +1852,14 @@
     "span": "Establecimiento Sujeto a Reporte",
     "start_char": 934,
     "end_char": 966
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:octavo:term-usage:1008-1015",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lgcc:term:emisiones",
+    "span": "Emisión",
+    "start_char": 1008,
+    "end_char": 1015
   }
 ]
