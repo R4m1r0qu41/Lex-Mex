@@ -1807,6 +1807,16 @@ fn reform_act_heading_kind(block: &str) -> Option<&'static str> {
     }
 }
 
+/// Whether a block is exactly this instrument's running header, which by
+/// default is its uppercased official title, ignoring accents and a final
+/// period (`PRODUCCION` for `PRODUCCIÓN`).
+fn names_this_instrument(block: &str, options: &DiputadosOptions) -> bool {
+    let key =
+        |value: &str| labels::strip_accents(value.trim().trim_end_matches('.')).to_uppercase();
+    let block = key(block);
+    options.header_lines.iter().any(|line| key(line) == block)
+}
+
 fn is_reform_closing_furniture(uppercase: &str) -> bool {
     [
         "CIUDAD DE MÉXICO",
@@ -1907,7 +1917,16 @@ pub fn extract_reform_evidence(
             continue;
         }
         let uppercase = block.to_uppercase();
-        if let Some(kind) = reform_act_heading_kind(&block) {
+        // An omnibus decree heads the part that amends this instrument with
+        // its title (`LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS`
+        // after `Ley que establece las reducciones impositivas… Publicada
+        // en el Diario Oficial…`). Inside that open decree, before its
+        // transitories, the title is a section heading, not a new act.
+        let section_of_open_decree = publication_date.is_some()
+            && !in_transitories
+            && names_this_instrument(&block, options)
+            && decree_publication_date(&block, &publication_re).is_none();
+        if !section_of_open_decree && let Some(kind) = reform_act_heading_kind(&block) {
             flush_reform(&options.instrument_id, &mut current, &mut evidence);
             in_transitories = false;
             publication_date = None;
@@ -2049,6 +2068,8 @@ mod tests {
         include_str!("../../../fixtures/diputados/reform-bare-ley-title-sample.txt");
     const REFORM_UPPERCASE_LEY_TITLE_FIXTURE: &str =
         include_str!("../../../fixtures/diputados/reform-uppercase-ley-title-sample.txt");
+    const REFORM_OMNIBUS_OWN_TITLE_SECTION_FIXTURE: &str =
+        include_str!("../../../fixtures/diputados/reform-omnibus-own-title-section-sample.txt");
     const ARTICLE_LATIN_ORDINAL_AFTER_CHAPTER_FIXTURE: &str =
         include_str!("../../../fixtures/diputados/article-latin-ordinal-after-chapter-sample.txt");
     const ARTICLE_LETTER_SUFFIX_QUALIFIER_FIXTURE: &str =
@@ -2991,6 +3012,41 @@ mod tests {
             "urn:lex-mx:federal:statute:sample:amendment:1995-05-12:transitory:primero"
         );
         assert!(evidence[0].label.contains("Ley DOF 1995-05-12"));
+    }
+
+    #[test]
+    fn the_instruments_own_title_inside_an_open_omnibus_decree_is_a_section() {
+        // lieps: each omnibus decree heads its LIEPS part with the law's
+        // title (unaccented), between the decree's publication note and its
+        // transitories. Read as a new act, it dropped the decree's date.
+        let evidence = super::extract_reform_evidence(
+            REFORM_OMNIBUS_OWN_TITLE_SECTION_FIXTURE,
+            &options(
+                "urn:lex-mx:federal:statute:lieps",
+                "Ley del Impuesto Especial sobre Producción y Servicios",
+            ),
+        )
+        .expect("the section heading keeps its decree's publication date");
+        let ids: Vec<&str> = evidence
+            .iter()
+            .map(|item| item.provision_id.as_str())
+            .collect();
+        assert_eq!(
+            ids,
+            [
+                "urn:lex-mx:federal:statute:lieps:amendment:1993-12-03:transitory:primero",
+                "urn:lex-mx:federal:statute:lieps:amendment:1994-12-28:transitory:unico",
+            ]
+        );
+        // Another law's title in the same position is still a new act, as
+        // before.
+        assert!(
+            super::extract_reform_evidence(
+                REFORM_OMNIBUS_OWN_TITLE_SECTION_FIXTURE,
+                &options("urn:lex-mx:federal:statute:sample", "Ley de Muestra"),
+            )
+            .is_err()
+        );
     }
 
     #[test]

@@ -39,9 +39,9 @@ IFPE validation).
 | Articles | 64,780 |
 | Original transitory provisions | 3,472 |
 | Annexes | 30 |
-| Reference edges | 35,950 |
-| — resolved / historical-target-unavailable / approved outdated | 35,929 / 4 / 17 |
-| — resolved cross-instrument edges | 9,809 |
+| Reference edges | 35,949 |
+| — resolved / historical-target-unavailable / approved outdated | 35,928 / 4 / 17 |
+| — resolved cross-instrument edges | 9,808 |
 | Provisions `not_analyzed` / `machine_accepted` / `lawyer_verified` / `review_required` | 48,039 / 20,240 / 2 / 1 |
 | Provisions with temporal status `unknown` | 46,720 |
 | Generated Markdown files under `corpus/mx` (incl. NOMs) | 68,757 |

@@ -1,5 +1,41 @@
 # Architecture decisions
 
+## 2026-10-19 — An omnibus decree's section title for this instrument is not a new act
+
+**Why.** LIEPS could not be reparsed from its own unchanged source: the SHA-256 of
+its extracted text matches the committed manifest. Since `dd39cbc93` (2026-08-24),
+which was found by bisect, any short all-caps `LEY …` line in the reform appendix
+starts a new containing act. LIEPS's omnibus fiscal decrees head their LIEPS part
+with the law's own title, for example "LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y
+SERVICIOS" after "Ley que establece las reducciones impositivas… Publicada en el
+Diario Oficial… 1993". That heading reset the decree's date, so its `PRIMERO`
+transitory failed with "without its Diario Oficial publication date". LIEPS was
+last parsed before that commit, so the regression stayed hidden.
+
+**What.** The heading is treated as a section of the open decree, not a new act,
+when it meets every one of these conditions:
+- it equals this instrument's running header, which by default is the uppercased
+  official title, compared without accents or a final period;
+- a decree is open, with a publication date and no transitories yet;
+- it carries no publication date of its own.
+
+Another law's title in the same position is still a new act. Fixture:
+`reform-omnibus-own-title-section-sample.txt`, cut from LIEPS.
+
+**Measured.**
+- **LIEPS reparse:** reform evidence is byte-identical, and the 84 provision IDs,
+  their order and all texts are unchanged except transitory decimocuarto. Its 1980
+  signature block is dropped by the existing enactment-signature rule, and with it
+  one reference to CPEUM art. 89 from the promulgation formula. References go
+  35,950 → 35,949.
+- **Other fiscal laws in a probe:** lisr and liva give identical reform evidence. cff
+  and lfd fail their reparse identically with and without this fix. cff fails on
+  duplicate reform evidence `1995-12-15:transitory:cuarto`, and lfd on validation.
+  Both are pre-existing reparse drift on unchanged source text, recorded for later
+  work.
+- **Tracked file:** the tracked `temporal-analysis-request.json` was restored, not
+  regenerated.
+
 ## 2026-10-19 — Glossary exception profiles, batch 1
 
 **Why.** Codex review 2026-10-18 asked that small instrument exceptions be
