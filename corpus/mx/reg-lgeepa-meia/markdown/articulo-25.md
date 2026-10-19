@@ -17,6 +17,6 @@ source_sha256: c7790df38b773b04e4769459d5fd49cca5b7a5b4955f7618632117275259071f
 
 # Artículo 25
 
-Cuando se trate de obras o actividades incluidas en las fracciones IV, VIII, IX y XI del artículo [28](../../lgeepa/markdown/articulo-28.md) de la Ley que deban sujetarse al procedimiento de evaluación de impacto ambiental de conformidad con este reglamento, la Secretaría notificará a los gobiernos estatales y municipales o del Distrito Federal, dentro de los diez días siguientes a la integración del expediente, que ha recibido la manifestación de impacto ambiental respectiva, con el fin de que éstos, dentro del procedimiento de evaluación hagan las manifestaciones que consideren oportunas.
+Cuando se trate de obras o actividades incluidas en las fracciones IV, VIII, IX y XI del artículo [28](../../lgeepa/markdown/articulo-28.md) de la [Ley](articulo-3o.md) que deban sujetarse al procedimiento de evaluación de impacto ambiental de conformidad con este reglamento, la [Secretaría](articulo-3o.md) notificará a los gobiernos estatales y municipales o del Distrito Federal, dentro de los diez días siguientes a la integración del expediente, que ha recibido la manifestación de impacto ambiental respectiva, con el fin de que éstos, dentro del procedimiento de evaluación hagan las manifestaciones que consideren oportunas.
 
 La autorización que expida la Secretaría, no obligará en forma alguna a las autoridades locales para expedir las autorizaciones que les correspondan en el ámbito de sus respectivas competencias.

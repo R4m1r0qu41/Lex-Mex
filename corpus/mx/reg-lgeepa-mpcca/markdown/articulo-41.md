@@ -17,7 +17,7 @@ source_sha256: cf47ab93fdea40d2b3e41b58784df62f89dd90b4482dd3b7f25adc7f6957036b
 
 # Artículo 41
 
-La Secretaría establecerá y mantendrá actualizado un Sistema Nacional de Información de la Calidad del Aire. Este sistema se integrará con los datos que resulten de:
+La [Secretaría](articulo-6o.md) establecerá y mantendrá actualizado un Sistema Nacional de Información de la Calidad del Aire. Este sistema se integrará con los datos que resulten de:
 
 I.- El monitoreo atmosférico que lleven a cabo las autoridades competentes en el Distrito Federal, así como en los Estados y Municipios; y
 

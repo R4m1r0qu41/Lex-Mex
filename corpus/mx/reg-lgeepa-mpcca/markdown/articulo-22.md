@@ -17,7 +17,7 @@ source_sha256: cf47ab93fdea40d2b3e41b58784df62f89dd90b4482dd3b7f25adc7f6957036b
 
 # Artículo 22
 
-La Secretaría podrá modificar con base en la información contenida en la cédula de operación a que se refiere el [artículo anterior](articulo-21.md), los niveles máximos de emisión específicos que hubiere fijado en los términos del artículo [20](articulo-20.md), cuando:
+La [Secretaría](articulo-6o.md) podrá modificar con base en la información contenida en la cédula de operación a que se refiere el [artículo anterior](articulo-21.md), los niveles máximos de emisión específicos que hubiere fijado en los términos del artículo [20](articulo-20.md), cuando:
 
 I.- La zona en la que se ubique la fuente se convierta en una zona crítica;
 

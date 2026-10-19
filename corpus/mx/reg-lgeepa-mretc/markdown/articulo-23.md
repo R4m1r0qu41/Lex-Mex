@@ -13,8 +13,10 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGEEPA_MRETC_311
 source_sha256: 71c334347de911b670b7e920a44db19f2555f611203ec25d227733687972f424
 ---
 
+> Capítulo III
+
 # Artículo 23
 
-El Registro estará a cargo de la Secretaría y será operado por el titular de la unidad administrativa que corresponda conforme a lo establecido en su Reglamento Interior, quien para la REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE REGISTRO DE EMISIONES Y TRANSFERENCIA DE CONTAMINANTES integración de la información a la Base de Datos se auxiliará de los servidores públicos adscritos a dicha unidad administrativa.
+El [Registro](articulo-3o.md) estará a cargo de la [Secretaría](articulo-3o.md) y será operado por el titular de la unidad administrativa que corresponda conforme a lo establecido en su Reglamento Interior, quien para la integración de la información a la Base de Datos se auxiliará de los servidores públicos adscritos a dicha unidad administrativa.
 
-La Secretaría, por conducto de la Agencia, operará la información relativa a los Establecimientos sujetos a reporte que correspondan a las Actividades del Sector Hidrocarburos, aplicará los procedimientos de recopilación, actualización y modificación de la información previstos en el presente Reglamento para la incorporación de dicha información en el Registro y para la integración de la misma en la Base de datos. Párrafo adicionado DOF 31-10-2014
+La Secretaría, por conducto de la [Agencia](articulo-3o.md), operará la información relativa a los Establecimientos sujetos a reporte que correspondan a las [Actividades del Sector Hidrocarburos](articulo-3o.md), aplicará los procedimientos de recopilación, actualización y modificación de la información previstos en el presente Reglamento para la incorporación de dicha información en el Registro y para la integración de la misma en la [Base de datos](articulo-3o.md). Párrafo adicionado DOF 31-10-2014

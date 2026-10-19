@@ -17,6 +17,6 @@ source_sha256: c7790df38b773b04e4769459d5fd49cca5b7a5b4955f7618632117275259071f
 
 # Artículo 49
 
-Las autorizaciones que expida la Secretaría sólo podrán referirse a los aspectos ambientales de las obras o actividades de que se trate y su vigencia no podrá exceder del tiempo propuesto para la ejecución de éstas.
+Las autorizaciones que expida la [Secretaría](articulo-3o.md) sólo podrán referirse a los aspectos ambientales de las obras o actividades de que se trate y su vigencia no podrá exceder del tiempo propuesto para la ejecución de éstas.
 
 Asimismo, los promoventes deberán dar aviso a la Secretaría del inicio y la conclusión de los proyectos, así como del cambio en su titularidad.

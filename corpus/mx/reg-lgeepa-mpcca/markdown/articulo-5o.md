@@ -17,8 +17,8 @@ source_sha256: cf47ab93fdea40d2b3e41b58784df62f89dd90b4482dd3b7f25adc7f6957036b
 
 # Artículo 5o
 
-La aplicación de este Reglamento compete al Ejecutivo Federal por conducto de la Secretaría de Medio Ambiente y Recursos Naturales, sin perjuicio de las atribuciones que correspondan a otras dependencias del propio Ejecutivo Federal, de conformidad con las disposiciones legales aplicables. Párrafo reformado DOF 31-10-2014
+La aplicación de este [Reglamento](articulo-6o.md) compete al Ejecutivo Federal por conducto de la [Secretaría](articulo-6o.md) de Medio Ambiente y Recursos Naturales, sin perjuicio de las atribuciones que correspondan a otras dependencias del propio Ejecutivo Federal, de conformidad con las disposiciones legales aplicables. Párrafo reformado DOF 31-10-2014
 
 Las autoridades del Distrito Federal, de los Estados y de los Municipios, podrán participar como auxiliares de la Federación, en la aplicación del presente Reglamento, para la atención de asuntos de competencia federal, en los términos de los instrumentos de coordinación correspondientes.
 
-Tratándose de las Actividades del Sector Hidrocarburos, la Secretaría ejercerá las atribuciones contenidas en el presente ordenamiento, incluidas las disposiciones relativas a la inspección, vigilancia y sanción, por conducto de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos. Párrafo adicionado DOF 31-10-2014
+Tratándose de las [Actividades del Sector Hidrocarburos](articulo-6o.md), la Secretaría ejercerá las atribuciones contenidas en el presente ordenamiento, incluidas las disposiciones relativas a la inspección, vigilancia y sanción, por conducto de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos. Párrafo adicionado DOF 31-10-2014

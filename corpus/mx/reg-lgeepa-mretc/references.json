@@ -33,19 +33,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:10:reference:3974-3978:10:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:10:reference:3823-3827:10:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:10",
     "source_span": "VIII",
-    "start_char": 3974,
-    "end_char": 3978,
+    "start_char": 3823,
+    "end_char": 3827,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:10",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "VIII",
-        "start_char": 3974,
-        "end_char": 3978
+        "start_char": 3823,
+        "end_char": 3827
       }
     ],
     "basis": "express_cross_reference",
@@ -79,19 +79,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:12:reference:825-826:12:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:12:reference:674-675:12:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:12",
     "source_span": "I",
-    "start_char": 825,
-    "end_char": 826,
+    "start_char": 674,
+    "end_char": 675,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:12",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "I",
-        "start_char": 825,
-        "end_char": 826
+        "start_char": 674,
+        "end_char": 675
       }
     ],
     "basis": "express_cross_reference",
@@ -102,19 +102,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:12:reference:829-831:12:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:12:reference:678-680:12:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:12",
     "source_span": "II",
-    "start_char": 829,
-    "end_char": 831,
+    "start_char": 678,
+    "end_char": 680,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:12",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "II",
-        "start_char": 829,
-        "end_char": 831
+        "start_char": 678,
+        "end_char": 680
       }
     ],
     "basis": "express_cross_reference",

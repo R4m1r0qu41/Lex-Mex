@@ -17,4 +17,4 @@ source_sha256: f135d534dcd7a2734bc7f44e9381e7173c7d8033e1df75a2d4fb132d956e848b
 
 # Artículo 131
 
-La autoridad competente podrá revocar las autorizaciones sanitarias que haya otorgado para realizar investigaciones para la salud, cuando no se ajusten a las disposiciones contenidas en la Ley, este Reglamento y demás disposiciones que deriven de él. Para la Substanciación del REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE INVESTIGACION PARA LA SALUD procedimiento de la revocación de las autorizaciones, se observará lo dispuesto en el Capítulo II del Título Decimosexto de la Ley.
+La autoridad competente podrá revocar las autorizaciones sanitarias que haya otorgado para realizar investigaciones para la salud, cuando no se ajusten a las disposiciones contenidas en la Ley, este Reglamento y demás disposiciones que deriven de él. Para la Substanciación del procedimiento de la revocación de las autorizaciones, se observará lo dispuesto en el Capítulo II del Título Decimosexto de la Ley.

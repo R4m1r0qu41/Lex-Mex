@@ -17,7 +17,7 @@ source_sha256: c7790df38b773b04e4769459d5fd49cca5b7a5b4955f7618632117275259071f
 
 # Artículo 33
 
-La Secretaría analizará el informe preventivo y, en un plazo no mayor a veinte días, notificará al promovente: REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE EVALUACIÓN DEL IMPACTO AMBIENTAL I. Que se encuentra en los supuestos previstos en el artículo [28](articulo-28.md) de este reglamento y que, por lo tanto, puede realizar la obra o actividad en los términos propuestos, o
+La [Secretaría](articulo-3o.md) analizará el informe preventivo y, en un plazo no mayor a veinte días, notificará al promovente: I. Que se encuentra en los supuestos previstos en el artículo [28](articulo-28.md) de este reglamento y que, por lo tanto, puede realizar la obra o actividad en los términos propuestos, o
 
 II. Que se requiere la presentación de una manifestación de impacto ambiental, en alguna de sus modalidades.
 

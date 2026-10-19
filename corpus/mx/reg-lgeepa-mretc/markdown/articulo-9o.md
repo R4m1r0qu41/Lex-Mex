@@ -13,11 +13,13 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGEEPA_MRETC_311
 source_sha256: 71c334347de911b670b7e920a44db19f2555f611203ec25d227733687972f424
 ---
 
+> Capítulo II · Sección II
+
 # Artículo 9o
 
 Se consideran Establecimientos sujetos a reporte de competencia federal los siguientes:
 
-I. Los señalados en el segundo párrafo del artículo [111 Bis](../../lgeepa/markdown/articulo-111-BIS.md) de la Ley, incluyendo a aquéllos que realizan Actividades del Sector Hidrocarburos;
+I. Los señalados en el segundo párrafo del artículo [111 Bis](../../lgeepa/markdown/articulo-111-BIS.md) de la [Ley](articulo-3o.md), incluyendo a aquéllos que realizan [Actividades del Sector Hidrocarburos](articulo-3o.md);
 
 II. Los generadores de residuos peligrosos en términos de las disposiciones aplicables, y
 

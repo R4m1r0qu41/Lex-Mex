@@ -13,9 +13,11 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGCC_MRNE_281014
 source_sha256: 62420210c5aaffe687daf130a64ff506009625340c554bfb36d2f1b5dcac0192
 ---
 
+> Capítulo III · Sección II
+
 # Artículo 14
 
-La información que debe reportarse en materia de Emisiones Directas o Indirectas, considerando el tipo de Fuente Emisora, será:
+La información que debe reportarse en materia de [Emisiones Directas](articulo-2.md) o Indirectas, considerando el tipo de Fuente Emisora, será:
 
 I. Tratándose de Fuentes Fijas:
 
@@ -23,10 +25,10 @@ a. El resultado de las Emisiones Directas por tipo de Gas o Compuesto de Efecto 
 
 b. El volumen consumido anualmente por tipo de combustible, y
 
-c. Ubicación del Establecimiento Sujeto a Reporte cuyas Emisiones se reportan, y
+c. Ubicación del [Establecimiento Sujeto a Reporte](articulo-2.md) cuyas Emisiones se reportan, y
 
 II. En el caso de Fuentes Móviles:
 
 a. Emisiones Directas por tipo de Gas o Compuesto de Efecto Invernadero;
 
-b. Número y tipo de unidades, y REGLAMENTO DE LA LEY GENERAL DE CAMBIO CLIMÁTICO EN MATERIA DEL REGISTRO NACIONAL DE EMISIONES c. Volumen consumido anualmente por tipo de combustible.
+b. Número y tipo de unidades, y c. Volumen consumido anualmente por tipo de combustible.

@@ -17,4 +17,4 @@ source_sha256: d50b44df321cf8be51375c07cee5dbcf03eac76df1cd11ab4bd777c9fce0f789
 
 # Artículo 4
 
-La Procuraduría promoverá la celebración de convenios de coordinación con dependencias y entidades de los gobiernos Federal, Estatal y Municipal, en los ámbitos de sus respectivas competencias, con el propósito de impulsar la realización de Auditorías Ambientales y procesos de Autorregulación, así como del reconocimiento por parte de dichas autoridades del Certificado expedido por la Procuraduría.
+La [Procuraduría](articulo-2.md) promoverá la celebración de convenios de coordinación con dependencias y entidades de los gobiernos Federal, Estatal y Municipal, en los ámbitos de sus respectivas competencias, con el propósito de impulsar la realización de [Auditorías Ambientales](articulo-2.md) y procesos de [Autorregulación](articulo-2.md), así como del reconocimiento por parte de dichas autoridades del [Certificado](articulo-2.md) expedido por la Procuraduría.

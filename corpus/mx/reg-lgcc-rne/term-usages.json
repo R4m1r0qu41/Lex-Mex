@@ -1,1 +1,740 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2:term-usage:502-511",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:organismos",
+    "span": "Organismo",
+    "start_char": 502,
+    "end_char": 511
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2:term-usage:774-783",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:organismos",
+    "span": "Organismo",
+    "start_char": 774,
+    "end_char": 783
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2:term-usage:1020-1052",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:establecimiento-sujeto-a-reporte",
+    "span": "Establecimiento Sujeto a Reporte",
+    "start_char": 1020,
+    "end_char": 1052
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2:term-usage:1333-1365",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:establecimiento-sujeto-a-reporte",
+    "span": "Establecimiento Sujeto a Reporte",
+    "start_char": 1333,
+    "end_char": 1365
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2:term-usage:1467-1499",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:establecimiento-sujeto-a-reporte",
+    "span": "Establecimiento Sujeto a Reporte",
+    "start_char": 1467,
+    "end_char": 1499
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2:term-usage:1744-1762",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:emisiones-directas",
+    "span": "Emisiones Directas",
+    "start_char": 1744,
+    "end_char": 1762
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:4:term-usage:9680-9698",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:emisiones-directas",
+    "span": "Emisiones Directas",
+    "start_char": 9680,
+    "end_char": 9698
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:4:term-usage:10146-10171",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:cedula-de-operacion-anual",
+    "span": "Cédula de Operación Anual",
+    "start_char": 10146,
+    "end_char": 10171
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:5:term-usage:576-600",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:panel-intergubernamental",
+    "span": "Panel Intergubernamental",
+    "start_char": 576,
+    "end_char": 600
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:6:term-usage:250-268",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:emisiones-directas",
+    "span": "Emisiones Directas",
+    "start_char": 250,
+    "end_char": 268
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:7:term-usage:184-202",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:emisiones-directas",
+    "span": "Emisiones Directas",
+    "start_char": 184,
+    "end_char": 202
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:7:term-usage:2097-2121",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:panel-intergubernamental",
+    "span": "Panel Intergubernamental",
+    "start_char": 2097,
+    "end_char": 2121
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:8:term-usage:442-475",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:potencial-de-calentamiento-global",
+    "span": "Potencial de Calentamiento Global",
+    "start_char": 442,
+    "end_char": 475
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:8:term-usage:1241-1265",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:panel-intergubernamental",
+    "span": "Panel Intergubernamental",
+    "start_char": 1241,
+    "end_char": 1265
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:9:term-usage:97-115",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:emisiones-directas",
+    "span": "Emisiones Directas",
+    "start_char": 97,
+    "end_char": 115
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:9:term-usage:291-311",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:emisiones-indirectas",
+    "span": "Emisiones Indirectas",
+    "start_char": 291,
+    "end_char": 311
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:9:term-usage:829-847",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:emisiones-directas",
+    "span": "Emisiones Directas",
+    "start_char": 829,
+    "end_char": 847
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:9:term-usage:877-902",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:cedula-de-operacion-anual",
+    "span": "Cédula de Operación Anual",
+    "start_char": 877,
+    "end_char": 902
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:9:term-usage:1189-1199",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:organismos",
+    "span": "Organismos",
+    "start_char": 1189,
+    "end_char": 1199
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:9:term-usage:1350-1375",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:cedula-de-operacion-anual",
+    "span": "Cédula de Operación Anual",
+    "start_char": 1350,
+    "end_char": 1375
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:9:term-usage:1438-1456",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:emisiones-directas",
+    "span": "Emisiones Directas",
+    "start_char": 1438,
+    "end_char": 1456
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:10:term-usage:495-513",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:emisiones-directas",
+    "span": "Emisiones Directas",
+    "start_char": 495,
+    "end_char": 513
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:11:term-usage:3-35",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:establecimiento-sujeto-a-reporte",
+    "span": "Establecimiento Sujeto a Reporte",
+    "start_char": 3,
+    "end_char": 35
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:11:term-usage:211-223",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:procuraduria",
+    "span": "Procuraduría",
+    "start_char": 211,
+    "end_char": 223
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:11:term-usage:440-472",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:establecimiento-sujeto-a-reporte",
+    "span": "Establecimiento Sujeto a Reporte",
+    "start_char": 440,
+    "end_char": 472
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:11:term-usage:526-551",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:cedula-de-operacion-anual",
+    "span": "Cédula de Operación Anual",
+    "start_char": 526,
+    "end_char": 551
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:11:term-usage:733-742",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:organismos",
+    "span": "Organismo",
+    "start_char": 733,
+    "end_char": 742
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:11:term-usage:922-954",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:establecimiento-sujeto-a-reporte",
+    "span": "Establecimiento Sujeto a Reporte",
+    "start_char": 922,
+    "end_char": 954
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:12:term-usage:117-142",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:cedula-de-operacion-anual",
+    "span": "Cédula de Operación Anual",
+    "start_char": 117,
+    "end_char": 142
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:12:term-usage:355-373",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:emisiones-directas",
+    "span": "Emisiones Directas",
+    "start_char": 355,
+    "end_char": 373
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:12:term-usage:474-499",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:cedula-de-operacion-anual",
+    "span": "Cédula de Operación Anual",
+    "start_char": 474,
+    "end_char": 499
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:12:term-usage:855-880",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:cedula-de-operacion-anual",
+    "span": "Cédula de Operación Anual",
+    "start_char": 855,
+    "end_char": 880
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:12:term-usage:1256-1281",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:cedula-de-operacion-anual",
+    "span": "Cédula de Operación Anual",
+    "start_char": 1256,
+    "end_char": 1281
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:12:term-usage:1400-1432",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:establecimiento-sujeto-a-reporte",
+    "span": "Establecimiento Sujeto a Reporte",
+    "start_char": 1400,
+    "end_char": 1432
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:12:term-usage:1545-1570",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:cedula-de-operacion-anual",
+    "span": "Cédula de Operación Anual",
+    "start_char": 1545,
+    "end_char": 1570
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:12:term-usage:1864-1889",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:cedula-de-operacion-anual",
+    "span": "Cédula de Operación Anual",
+    "start_char": 1864,
+    "end_char": 1889
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:13:term-usage:81-106",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:cedula-de-operacion-anual",
+    "span": "Cédula de Operación Anual",
+    "start_char": 81,
+    "end_char": 106
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:13:term-usage:917-935",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:emisiones-directas",
+    "span": "Emisiones Directas",
+    "start_char": 917,
+    "end_char": 935
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:14:term-usage:49-67",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:emisiones-directas",
+    "span": "Emisiones Directas",
+    "start_char": 49,
+    "end_char": 67
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:14:term-usage:185-203",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:emisiones-directas",
+    "span": "Emisiones Directas",
+    "start_char": 185,
+    "end_char": 203
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:14:term-usage:394-426",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:establecimiento-sujeto-a-reporte",
+    "span": "Establecimiento Sujeto a Reporte",
+    "start_char": 394,
+    "end_char": 426
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:14:term-usage:498-516",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:emisiones-directas",
+    "span": "Emisiones Directas",
+    "start_char": 498,
+    "end_char": 516
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:15:term-usage:173-198",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:cedula-de-operacion-anual",
+    "span": "Cédula de Operación Anual",
+    "start_char": 173,
+    "end_char": 198
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:15:term-usage:268-300",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:establecimiento-sujeto-a-reporte",
+    "span": "Establecimiento Sujeto a Reporte",
+    "start_char": 268,
+    "end_char": 300
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:16:term-usage:137-161",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:dictamen-de-verificacion",
+    "span": "Dictamen de Verificación",
+    "start_char": 137,
+    "end_char": 161
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:16:term-usage:179-188",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:organismos",
+    "span": "Organismo",
+    "start_char": 179,
+    "end_char": 188
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:16:term-usage:235-259",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:dictamen-de-verificacion",
+    "span": "Dictamen de Verificación",
+    "start_char": 235,
+    "end_char": 259
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:16:term-usage:409-441",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:establecimiento-sujeto-a-reporte",
+    "span": "Establecimiento Sujeto a Reporte",
+    "start_char": 409,
+    "end_char": 441
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:17:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:organismos",
+    "span": "Organismo",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:17:term-usage:157-181",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:dictamen-de-verificacion",
+    "span": "Dictamen de Verificación",
+    "start_char": 157,
+    "end_char": 181
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:18:term-usage:3-15",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:procuraduria",
+    "span": "Procuraduría",
+    "start_char": 3,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:18:term-usage:81-113",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:establecimiento-sujeto-a-reporte",
+    "span": "Establecimiento Sujeto a Reporte",
+    "start_char": 81,
+    "end_char": 113
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:18:term-usage:343-355",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:procuraduria",
+    "span": "Procuraduría",
+    "start_char": 343,
+    "end_char": 355
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:19:term-usage:36-46",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:organismos",
+    "span": "Organismos",
+    "start_char": 36,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:19:term-usage:283-293",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:organismos",
+    "span": "Organismos",
+    "start_char": 283,
+    "end_char": 293
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:19:term-usage:363-375",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:procuraduria",
+    "span": "Procuraduría",
+    "start_char": 363,
+    "end_char": 375
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:20:term-usage:4-14",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:organismos",
+    "span": "Organismos",
+    "start_char": 4,
+    "end_char": 14
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:20:term-usage:385-395",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:organismos",
+    "span": "Organismos",
+    "start_char": 385,
+    "end_char": 395
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:22:term-usage:79-89",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:organismos",
+    "span": "Organismos",
+    "start_char": 79,
+    "end_char": 89
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:23:term-usage:4-14",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:organismos",
+    "span": "Organismos",
+    "start_char": 4,
+    "end_char": 14
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:23:term-usage:245-277",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:establecimiento-sujeto-a-reporte",
+    "span": "Establecimiento Sujeto a Reporte",
+    "start_char": 245,
+    "end_char": 277
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:23:term-usage:820-844",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:dictamen-de-verificacion",
+    "span": "Dictamen de Verificación",
+    "start_char": 820,
+    "end_char": 844
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:23:term-usage:859-891",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:establecimiento-sujeto-a-reporte",
+    "span": "Establecimiento Sujeto a Reporte",
+    "start_char": 859,
+    "end_char": 891
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:26:term-usage:328-350",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:dictamen-de-validacion",
+    "span": "Dictamen de Validación",
+    "start_char": 328,
+    "end_char": 350
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:26:term-usage:367-376",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:organismos",
+    "span": "Organismo",
+    "start_char": 367,
+    "end_char": 376
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:27:term-usage:753-762",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:organismos",
+    "span": "Organismo",
+    "start_char": 753,
+    "end_char": 762
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:27:term-usage:2074-2083",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:organismos",
+    "span": "Organismo",
+    "start_char": 2074,
+    "end_char": 2083
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:tercero:term-usage:36-69",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:potencial-de-calentamiento-global",
+    "span": "Potencial de Calentamiento Global",
+    "start_char": 36,
+    "end_char": 69
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:tercero:term-usage:229-262",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:potencial-de-calentamiento-global",
+    "span": "Potencial de Calentamiento Global",
+    "start_char": 229,
+    "end_char": 262
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:tercero:term-usage:303-327",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:panel-intergubernamental",
+    "span": "Panel Intergubernamental",
+    "start_char": 303,
+    "end_char": 327
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:cuarto:term-usage:149-167",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:emisiones-directas",
+    "span": "Emisiones Directas",
+    "start_char": 149,
+    "end_char": 167
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:cuarto:term-usage:196-221",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:cedula-de-operacion-anual",
+    "span": "Cédula de Operación Anual",
+    "start_char": 196,
+    "end_char": 221
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:cuarto:term-usage:290-315",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:cedula-de-operacion-anual",
+    "span": "Cédula de Operación Anual",
+    "start_char": 290,
+    "end_char": 315
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:quinto:term-usage:226-250",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:dictamen-de-verificacion",
+    "span": "Dictamen de Verificación",
+    "start_char": 226,
+    "end_char": 250
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:quinto:term-usage:382-406",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:dictamen-de-verificacion",
+    "span": "Dictamen de Verificación",
+    "start_char": 382,
+    "end_char": 406
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:quinto:term-usage:535-559",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:dictamen-de-verificacion",
+    "span": "Dictamen de Verificación",
+    "start_char": 535,
+    "end_char": 559
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:quinto:term-usage:685-709",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:dictamen-de-verificacion",
+    "span": "Dictamen de Verificación",
+    "start_char": 685,
+    "end_char": 709
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:sexto:term-usage:131-163",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:establecimiento-sujeto-a-reporte",
+    "span": "Establecimiento Sujeto a Reporte",
+    "start_char": 131,
+    "end_char": 163
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:octavo:term-usage:150-174",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:panel-intergubernamental",
+    "span": "Panel Intergubernamental",
+    "start_char": 150,
+    "end_char": 174
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:octavo:term-usage:372-390",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:emisiones-directas",
+    "span": "Emisiones Directas",
+    "start_char": 372,
+    "end_char": 390
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:octavo:term-usage:841-859",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:emisiones-directas",
+    "span": "Emisiones Directas",
+    "start_char": 841,
+    "end_char": 859
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:octavo:term-usage:934-966",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:establecimiento-sujeto-a-reporte",
+    "span": "Establecimiento Sujeto a Reporte",
+    "start_char": 934,
+    "end_char": 966
+  }
+]

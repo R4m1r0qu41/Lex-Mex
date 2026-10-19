@@ -17,6 +17,6 @@ source_sha256: d50b44df321cf8be51375c07cee5dbcf03eac76df1cd11ab4bd777c9fce0f789
 
 # Artículo 14
 
-La Auditoría Ambiental deberá iniciar dentro de los cuarenta días hábiles siguientes a la fecha en que la Empresa recibió la aceptación de su solicitud de Certificado, o cuarenta y cinco días hábiles siguientes a la presentación de la solicitud de Certificado, si no recibió prevenciones de la REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE AUTORREGULACIÓN Y AUDITORÍAS AMBIENTALES Procuraduría o, en su caso, de la Agencia, según corresponda. De no iniciar la Auditoría Ambiental en los plazos antes señalados, el trámite será desechado.
+La [Auditoría Ambiental](articulo-2.md) deberá iniciar dentro de los cuarenta días hábiles siguientes a la fecha en que la [Empresa](articulo-2.md) recibió la aceptación de su solicitud de [Certificado](articulo-2.md), o cuarenta y cinco días hábiles siguientes a la presentación de la solicitud de Certificado, si no recibió prevenciones de la [Procuraduría](articulo-2.md) o, en su caso, de la [Agencia](articulo-2.md), según corresponda. De no iniciar la Auditoría Ambiental en los plazos antes señalados, el trámite será desechado.
 
 Artículo reformado DOF 31-10-2014

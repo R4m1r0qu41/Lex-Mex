@@ -15,4 +15,4 @@ source_sha256: cf47ab93fdea40d2b3e41b58784df62f89dd90b4482dd3b7f25adc7f6957036b
 
 # QUINTO
 
-Hasta en tanto la Secretaría expida formatos, instructivos y manuales a los que se refiere el Reglamento, los interesados en llevar a cabo procedimientos conforme al mismo, presentarán por escrito además de la información que en este ordenamiento se señale la que en su oportunidad les requiera la Secretaría.
+Hasta en tanto la [Secretaría](articulo-6o.md) expida formatos, instructivos y manuales a los que se refiere el [Reglamento](articulo-6o.md), los interesados en llevar a cabo procedimientos conforme al mismo, presentarán por escrito además de la información que en este ordenamiento se señale la que en su oportunidad les requiera la Secretaría.

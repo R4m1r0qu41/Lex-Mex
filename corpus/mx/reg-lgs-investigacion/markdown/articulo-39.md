@@ -19,7 +19,7 @@ source_sha256: f135d534dcd7a2734bc7f44e9381e7173c7d8033e1df75a2d4fb132d956e848b
 
 las investigaciones clasificadas como de riesgo y sin beneficio directo al menor o al incapaz, serán admisibles de acuerdo a las siguientes consideraciones:
 
-I. Cuando el riesgo sea mínimo: REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE INVESTIGACION PARA LA SALUD A). La intervención o procedimiento deberá representar para el menor o el incapaz una experiencia razonable y comparable con aquellas inherentes a su actual o esperada situación médica, Psicológica, social o educacional, y
+I. Cuando el riesgo sea mínimo: A). La intervención o procedimiento deberá representar para el menor o el incapaz una experiencia razonable y comparable con aquellas inherentes a su actual o esperada situación médica, Psicológica, social o educacional, y
 
 B). La intervención del procedimiento deberá tener altas probabilidades de obtener conocimientos generalizables sobre la condición o enfermedad del menor o del incapaz, que sean de gran importancia para comprender el trastorno o para lograr su mejoría en otros sujetos.
 

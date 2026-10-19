@@ -21,4 +21,4 @@ Cuando del resultado de la verificación en los centros autorizados, se determin
 
 Una vez efectuada la reparación de los vehículos, éstos deberán someterse a una nueva verificación en alguno de los centros de verificación autorizados.
 
-La Secretaría de Comunicaciones y Transportes únicamente revalidará la vigencia de la matrícula vehicular, cuando exista constancia expedida por un centro autorizado, en la que se determine que el REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DE LA ATMÓSFERA vehículo de que se trate no rebasa los niveles máximos permisibles previstos en las normas técnicas ecológicas correspondientes.
+La [Secretaría](articulo-6o.md) de Comunicaciones y Transportes únicamente revalidará la vigencia de la matrícula vehicular, cuando exista constancia expedida por un centro autorizado, en la que se determine que el vehículo de que se trate no rebasa los niveles máximos permisibles previstos en las normas técnicas ecológicas correspondientes.

@@ -17,4 +17,4 @@ source_sha256: cf47ab93fdea40d2b3e41b58784df62f89dd90b4482dd3b7f25adc7f6957036b
 
 # Artículo 52
 
-Toda persona podrá denunciar ante la Secretaría, o ante otras autoridades federales o locales según su competencia, todo hecho, acto u omisión de competencia de la Federación, que produzca desequilibrio ecológico o daños al ambiente, contraviniendo las disposiciones de la Ley y del Reglamento en materia de contaminación atmosférica.
+Toda persona podrá denunciar ante la [Secretaría](articulo-6o.md), o ante otras autoridades federales o locales según su competencia, todo hecho, acto u omisión de competencia de la Federación, que produzca desequilibrio ecológico o daños al ambiente, contraviniendo las disposiciones de la [Ley](articulo-6o.md) y del [Reglamento](articulo-6o.md) en materia de contaminación atmosférica.

@@ -15,4 +15,4 @@ source_sha256: d50b44df321cf8be51375c07cee5dbcf03eac76df1cd11ab4bd777c9fce0f789
 
 # CUARTO
 
-Todos aquellos Certificados y reconocimientos que a la entrada en vigor del presente Reglamento hayan sido expedidos por la Procuraduría, conservarán la vigencia señalada en los mismos hasta que les corresponda renovar su Certificado.
+Todos aquellos [Certificados](articulo-2.md) y reconocimientos que a la entrada en vigor del presente Reglamento hayan sido expedidos por la [Procuraduría](articulo-2.md), conservarán la vigencia señalada en los mismos hasta que les corresponda renovar su Certificado.

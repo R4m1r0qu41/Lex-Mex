@@ -25,4 +25,4 @@ II. Descripción de las zonas de protección en torno a las instalaciones, en su
 
 III. Señalamiento de las medidas de seguridad en materia ambiental.
 
-La Secretaría publicará, en el Diario Oficial de la Federación y en la Gaceta Ecológica, las guías que faciliten la presentación y entrega del estudio de riesgo.
+La [Secretaría](articulo-3o.md) publicará, en el Diario Oficial de la Federación y en la Gaceta Ecológica, las guías que faciliten la presentación y entrega del estudio de riesgo.

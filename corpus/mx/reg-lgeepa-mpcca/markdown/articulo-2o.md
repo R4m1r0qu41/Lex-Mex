@@ -17,4 +17,4 @@ source_sha256: cf47ab93fdea40d2b3e41b58784df62f89dd90b4482dd3b7f25adc7f6957036b
 
 # Artículo 2o
 
-Las atribuciones que en esta materia tiene el Estado y que son objeto de la Ley General al del Equilibrio Ecológico y la Protección al Ambiente, serán ejercidas de manera concurrente por la Federación, las Entidades Federativas y los Municipios.
+Las atribuciones que en esta materia tiene el Estado y que son objeto de la [Ley](articulo-6o.md) General al del Equilibrio Ecológico y la Protección al Ambiente, serán ejercidas de manera concurrente por la Federación, las Entidades Federativas y los Municipios.

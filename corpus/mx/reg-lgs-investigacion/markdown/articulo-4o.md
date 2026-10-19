@@ -17,4 +17,4 @@ source_sha256: f135d534dcd7a2734bc7f44e9381e7173c7d8033e1df75a2d4fb132d956e848b
 
 # Artículo 4o
 
-La aplicación de este Reglamento corresponde a la Secretaría y a los gobiernos de las entidades federativas, incluyendo al Distrito Federal, en el ámbito de sus respectivas competencias y REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE INVESTIGACION PARA LA SALUD en los términos de los Acuerdos de Coordinación que se suscriban para formalizar las acciones que tengan por objeto promover e impulsar el desarrollo de la investigación.
+La aplicación de este Reglamento corresponde a la Secretaría y a los gobiernos de las entidades federativas, incluyendo al Distrito Federal, en el ámbito de sus respectivas competencias y en los términos de los Acuerdos de Coordinación que se suscriban para formalizar las acciones que tengan por objeto promover e impulsar el desarrollo de la investigación.

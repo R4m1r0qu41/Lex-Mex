@@ -17,4 +17,4 @@ source_sha256: c7790df38b773b04e4769459d5fd49cca5b7a5b4955f7618632117275259071f
 
 # Artículo 60
 
-Cuando la autoridad emplace al presunto infractor en términos del artículo [167](../../lgeepa/markdown/articulo-167.md) de la Ley, y éste comparezca mediante escrito aceptando las irregularidades circunstanciadas en el acta de inspección, la Secretaría procederá, dentro de los veinte días siguientes, a dictar la resolución respectiva. REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE EVALUACIÓN DEL IMPACTO AMBIENTAL
+Cuando la autoridad emplace al presunto infractor en términos del artículo [167](../../lgeepa/markdown/articulo-167.md) de la [Ley](articulo-3o.md), y éste comparezca mediante escrito aceptando las irregularidades circunstanciadas en el acta de inspección, la [Secretaría](articulo-3o.md) procederá, dentro de los veinte días siguientes, a dictar la resolución respectiva.

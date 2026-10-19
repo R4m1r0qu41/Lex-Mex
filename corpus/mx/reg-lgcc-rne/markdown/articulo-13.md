@@ -13,9 +13,11 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGCC_MRNE_281014
 source_sha256: 62420210c5aaffe687daf130a64ff506009625340c554bfb36d2f1b5dcac0192
 ---
 
+> Capítulo III · Sección II
+
 # Artículo 13
 
-Los Establecimientos Sujetos a Reporte que deban presentar ante la Secretaría la Cédula de Operación Anual únicamente por sus Emisiones de Gases o Compuestos de Efecto Invernadero, requisitarán en dicho instrumento, la siguiente información:
+Los Establecimientos Sujetos a Reporte que deban presentar ante la Secretaría la [Cédula de Operación Anual](articulo-2.md) únicamente por sus Emisiones de Gases o Compuestos de Efecto Invernadero, requisitarán en dicho instrumento, la siguiente información:
 
 I. Nombre, denominación o razón social;
 
@@ -29,7 +31,7 @@ V. Domicilio para recibir notificaciones, en caso de que se señale una direcci�
 
 VI. Periodo que se reporta;
 
-VII. Los resultados de la cuantificación de sus Emisiones Directas e Indirectas por tipo de Gas o Compuesto de Efecto Invernadero, calculada conforme a la metodología aplicable determinada conforme al artículo [7](articulo-7.md) del presente Reglamento, y
+VII. Los resultados de la cuantificación de sus [Emisiones Directas](articulo-2.md) e Indirectas por tipo de Gas o Compuesto de Efecto Invernadero, calculada conforme a la metodología aplicable determinada conforme al artículo [7](articulo-7.md) del presente Reglamento, y
 
 VIII. La información específica a que se refiere el [artículo siguiente](articulo-14.md).
 

@@ -33,7 +33,7 @@ VI. Deberá ser realizada por profesionales de la salud a que se refiere el art�
 
 VII. Contará con el dictamen favorable de los Comités de Investigación, de Ética en Investigación y de Bioseguridad, en los casos que corresponda a cada uno de ellos, de conformidad con lo dispuesto en el presente Reglamento y demás disposiciones jurídicas aplicables; Fracción reformada DOF 02-04-2014
 
-VIII. Se llevará a cabo cuando se tenga la autorización del titular de la institución de atención a la salud y, en su caso, de la Secretaría, de conformidad con los artículos [31](articulo-31.md), [62](articulo-62.md), [69](articulo-69.md), [71](articulo-71.md), [73](articulo-73.md), y [88](articulo-88.md) de este Reglamento; REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE INVESTIGACION PARA LA SALUD Fracción reformada DOF 02-04-2014
+VIII. Se llevará a cabo cuando se tenga la autorización del titular de la institución de atención a la salud y, en su caso, de la Secretaría, de conformidad con los artículos [31](articulo-31.md), [62](articulo-62.md), [69](articulo-69.md), [71](articulo-71.md), [73](articulo-73.md), y [88](articulo-88.md) de este Reglamento; Fracción reformada DOF 02-04-2014
 
 IX. Deberá ser suspendida la investigación de inmediato por el investigador principal, en el caso de sobrevenir el riesgo de lesiones graves, discapacidad o muerte del sujeto en quien se realice la investigación, así como cuando éste lo solicite, y Fracción adicionada DOF 02-04-2014
 

@@ -17,7 +17,7 @@ source_sha256: c7790df38b773b04e4769459d5fd49cca5b7a5b4955f7618632117275259071f
 
 # Artículo 44
 
-Al evaluar las manifestaciones de impacto ambiental la Secretaría deberá considerar:
+Al evaluar las manifestaciones de impacto ambiental la [Secretaría](articulo-3o.md) deberá considerar:
 
 I. Los posibles efectos de las obras o actividades a desarrollarse en el o los ecosistemas de que se trate, tomando en cuenta el conjunto de elementos que los conforman, y no únicamente los recursos que fuesen objeto de aprovechamiento o afectación;
 

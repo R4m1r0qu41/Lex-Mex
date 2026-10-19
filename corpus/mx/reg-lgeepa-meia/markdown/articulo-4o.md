@@ -17,7 +17,7 @@ source_sha256: c7790df38b773b04e4769459d5fd49cca5b7a5b4955f7618632117275259071f
 
 # Artículo 4o
 
-Compete a la Secretaría:
+Compete a la [Secretaría](articulo-3o.md):
 
 I. Evaluar el impacto ambiental y emitir las resoluciones correspondientes para la realización de proyectos de obras o actividades a que se refiere el presente reglamento;
 
@@ -27,7 +27,7 @@ III. Solicitar la opinión de otras dependencias y de expertos en la materia par
 
 IV. Llevar a cabo el proceso de consulta pública que en su caso se requiera durante el procedimiento de evaluación de impacto ambiental;
 
-V. Organizar, en coordinación con las autoridades locales, la reunión pública a que se refiere la fracción III del artículo [34](../../lgeepa/markdown/articulo-34.md) de la Ley;
+V. Organizar, en coordinación con las autoridades locales, la reunión pública a que se refiere la fracción III del artículo [34](../../lgeepa/markdown/articulo-34.md) de la [Ley](articulo-3o.md);
 
 VI. Vigilar el cumplimiento de las disposiciones de este reglamento, así como la observancia de las resoluciones previstas en el mismo, e imponer las sanciones y demás medidas de control y de seguridad necesarias, con arreglo a las disposiciones legales y reglamentarias aplicables, y
 

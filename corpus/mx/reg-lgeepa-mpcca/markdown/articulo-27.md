@@ -17,7 +17,7 @@ source_sha256: cf47ab93fdea40d2b3e41b58784df62f89dd90b4482dd3b7f25adc7f6957036b
 
 # Artículo 27
 
-Sólo se permitirá la combustión a cielo abierto en zonas de jurisdicción federal, cuando se efectúe con permiso de la Secretaría para adiestrar y capacitar al personal encargado del combate de incendios.
+Sólo se permitirá la combustión a cielo abierto en zonas de jurisdicción federal, cuando se efectúe con permiso de la [Secretaría](articulo-6o.md) para adiestrar y capacitar al personal encargado del combate de incendios.
 
 Para obtener el permiso a que se refiere el párrafo anterior, el interesado deberá presentar a la Secretaría solicitud por escrito, cuando menos con 10 días hábiles de anterioridad a la fecha en que se tenga programado el evento, con la siguiente información y documentación:
 

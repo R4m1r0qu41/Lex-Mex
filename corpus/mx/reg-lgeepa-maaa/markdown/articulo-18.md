@@ -17,12 +17,12 @@ source_sha256: d50b44df321cf8be51375c07cee5dbcf03eac76df1cd11ab4bd777c9fce0f789
 
 # Artículo 18
 
-El Plan de Acción es un documento que contendrá:
+El [Plan de Acción](articulo-2.md) es un documento que contendrá:
 
-I. Las acciones específicas que se realizarán para subsanar las no conformidades señaladas en el Informe de Auditoría Ambiental; las que se establecerán mediante:
+I. Las acciones específicas que se realizarán para subsanar las no conformidades señaladas en el [Informe de Auditoría Ambiental](articulo-2.md); las que se establecerán mediante:
 
-a. Medidas preventivas, que son aquellas que se aplican a equipos, actividades, procesos, programas, procedimientos, prácticas, vehículos o sistemas de cualquier naturaleza de una Empresa, con el objeto de reducir desde la fuente o evitar la generación de contaminantes, reducir riesgos, prevenir contingencias ambientales y evitar el aprovechamiento inadecuado de los recursos naturales, y
+a. Medidas preventivas, que son aquellas que se aplican a equipos, actividades, procesos, programas, procedimientos, prácticas, vehículos o sistemas de cualquier naturaleza de una [Empresa](articulo-2.md), con el objeto de reducir desde la fuente o evitar la generación de contaminantes, reducir riesgos, prevenir contingencias ambientales y evitar el aprovechamiento inadecuado de los recursos naturales, y
 
 b. Medidas correctivas, que son las que se aplican a los equipos, actividades, procesos, programas, procedimientos, prácticas, vehículos o sistemas de cualquier naturaleza de una Empresa, con el objeto de controlar la contaminación ambiental o de restaurar, recuperar, remediar, compensar, o minimizar los daños causados al ambiente o a los recursos naturales.
 
-II. Los plazos para la realización de cada una de ellas, priorizándolas en razón de los efectos adversos que las no conformidades tienen sobre el ambiente. REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE AUTORREGULACIÓN Y AUDITORÍAS AMBIENTALES
+II. Los plazos para la realización de cada una de ellas, priorizándolas en razón de los efectos adversos que las no conformidades tienen sobre el ambiente.

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGCC_MRNE_281014
 source_sha256: 62420210c5aaffe687daf130a64ff506009625340c554bfb36d2f1b5dcac0192
 ---
 
+> Capítulo IV · Sección I
+
 # Artículo 17
 
-El Organismo aprobado y acreditado para tales efectos revisará las Emisiones del Establecimiento del año inmediatamente anterior al del reporte y emitirá el Dictamen de Verificación, correspondiente.
+El [Organismo](articulo-2.md) aprobado y acreditado para tales efectos revisará las Emisiones del Establecimiento del año inmediatamente anterior al del reporte y emitirá el [Dictamen de Verificación](articulo-2.md), correspondiente.

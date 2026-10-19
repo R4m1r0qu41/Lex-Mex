@@ -17,9 +17,9 @@ source_sha256: cf47ab93fdea40d2b3e41b58784df62f89dd90b4482dd3b7f25adc7f6957036b
 
 # Artículo 17
 
-Los responsables de las fuentes fijas de jurisdicción federal, por las que se emitan olores, gases o partículas sólidas o líquidas a la atmósfera estarán obligados a: REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DE LA ATMÓSFERA I.- Emplear equipos y sistemas que controlen las emisiones a la atmósfera, para que éstas no rebasen los niveles máximos permisibles establecidos en las normas técnicas ecológicas correspondientes;
+Los responsables de las fuentes fijas de jurisdicción federal, por las que se emitan olores, gases o partículas sólidas o líquidas a la atmósfera estarán obligados a: I.- Emplear equipos y sistemas que controlen las emisiones a la atmósfera, para que éstas no rebasen los niveles máximos permisibles establecidos en las normas técnicas ecológicas correspondientes;
 
-II.- Integrar un inventario de sus emisiones contaminantes a la atmósfera, en el formato que determine la Secretaría;
+II.- Integrar un inventario de sus emisiones contaminantes a la atmósfera, en el formato que determine la [Secretaría](articulo-6o.md);
 
 III.- Instalar plataformas y puertos de muestreo;
 
@@ -33,4 +33,4 @@ VII.- Dar aviso anticipado a la Secretaría del inicio de operación de sus proc
 
 VIII.- Dar aviso inmediato a la Secretaría en el caso de falla del equipo de control, para que ésta determine lo conducente, si la falla puede provocar contaminación; y
 
-IX.- Las demás que establezcan la Ley y el Reglamento.
+IX.- Las demás que establezcan la [Ley](articulo-6o.md) y el [Reglamento](articulo-6o.md).

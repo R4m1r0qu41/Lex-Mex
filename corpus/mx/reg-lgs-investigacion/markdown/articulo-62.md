@@ -19,7 +19,7 @@ source_sha256: f135d534dcd7a2734bc7f44e9381e7173c7d8033e1df75a2d4fb132d956e848b
 
 Los interesados en realizar las investigaciones a que se refiere este Título deberán obtener la autorización de la Secretaría. Al efecto, presentarán su solicitud por escrito anexando la siguiente documentación: Párrafo reformado DOF 02-04-2014
 
-I. Protocolo de investigación que deberá contener un análisis objetivo y completo de los riesgos involucrados, comparados con los riegos de los métodos de diagnóstico y tratamiento REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE INVESTIGACION PARA LA SALUD establecidos y la expectativa de las condiciones de vida del sujeto con y sin el procedimiento o tratamiento propuesto;
+I. Protocolo de investigación que deberá contener un análisis objetivo y completo de los riesgos involucrados, comparados con los riegos de los métodos de diagnóstico y tratamiento establecidos y la expectativa de las condiciones de vida del sujeto con y sin el procedimiento o tratamiento propuesto;
 
 II. Carta de aceptación del titular de la institución donde se efectuaría la investigación, así como del investigador principal responsable de la misma; Fracción reformada DOF 02-04-2014
 

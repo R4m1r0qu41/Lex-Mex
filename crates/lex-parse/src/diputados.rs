@@ -377,15 +377,34 @@ fn parse_statute_article_start<'a>(
 /// dots, whitespace, or ellipsis characters. That empty-body test is what
 /// distinguishes it from a genuine ordinal-numbered statute article
 /// (`Artículo Primero.- Esta ley regula…`), whose substantive body must
-/// still reach [`parse_ordinal_article_start`] unfiltered.
+/// still reach [`parse_ordinal_article_start`] unfiltered. Some sources
+/// print the redacted article with a colon (`ARTÍCULO SEGUNDO: ..........`,
+/// `reg-lgeepa-mretc`); the colon is accepted here only, never as a general
+/// ordinal heading separator.
 fn is_dot_redacted_decree_article(block: &str, ordinals: &[String]) -> bool {
-    let Some((_, body)) = parse_ordinal_article_start(block, ordinals) else {
+    let Some(body) = parse_ordinal_article_start(block, ordinals)
+        .map(|(_, body)| body)
+        .or_else(|| colon_ordinal_article_body(block, ordinals))
+    else {
         return false;
     };
     !body.is_empty()
         && body
             .chars()
             .all(|c| c == '.' || c == '…' || c.is_whitespace())
+}
+
+/// The body after `ARTÍCULO <ordinal>:`, for the dot-redaction test only.
+fn colon_ordinal_article_body<'a>(block: &'a str, ordinals: &[String]) -> Option<&'a str> {
+    let after_prefix = ["Artículo ", "ARTÍCULO ", "Articulo ", "ARTICULO "]
+        .iter()
+        .find_map(|prefix| block.strip_prefix(prefix))?
+        .trim_start();
+    ordinals.iter().find_map(|ordinal| {
+        let (matched, rest) = strip_prefix_ci(after_prefix, ordinal)?;
+        ordinal_article_value(matched)?;
+        rest.strip_prefix(':').map(str::trim)
+    })
 }
 
 /// Either decree-wrapper form the main article loop discards outright:
@@ -1962,7 +1981,10 @@ mod tests {
     use chrono::NaiveDate;
     use lex_core::ProvisionType;
 
-    use super::{DiputadosOptions, is_omnibus_enactment_title, parse_diputados};
+    use super::{
+        DiputadosOptions, is_dot_redacted_decree_article, is_omnibus_enactment_title,
+        parse_diputados, parse_ordinal_article_start, transitory_ordinals,
+    };
 
     const CODIGO_FIXTURE: &str = include_str!("../../../fixtures/diputados/codigo-sample.txt");
     const NUMBERED_PARAGRAPH_FIXTURE: &str =
@@ -1990,6 +2012,8 @@ mod tests {
         include_str!("../../../fixtures/diputados/ordinal-statute-articles-sample.txt");
     const DOT_REDACTED_DECREE_ARTICLE_FIXTURE: &str =
         include_str!("../../../fixtures/diputados/dot-redacted-decree-article-sample.txt");
+    const COLON_DOT_REDACTED_DECREE_ARTICLE_FIXTURE: &str =
+        include_str!("../../../fixtures/diputados/colon-dot-redacted-decree-article-sample.txt");
     const WRAPPED_RUNNING_HEADER_REGULATION_FIXTURE: &str =
         include_str!("../../../fixtures/diputados/wrapped-running-header-regulation-sample.txt");
     const SUBSTANTIVE_APPENDIX_FIXTURE: &str =
@@ -2405,6 +2429,64 @@ mod tests {
         assert_eq!(transitories[0].number, "PRIMERO");
         assert_eq!(transitories[1].number, "SEGUNDO");
         assert_eq!(transitories[1].text, "Disposición transitoria segunda.");
+    }
+
+    #[test]
+    fn colon_dot_redacted_decree_article_is_dropped_not_appended() {
+        // Regression for reg-lgeepa-mretc: "ARTÍCULO SEGUNDO: .........."
+        // after Article 32 was appended to that article's text.
+        let document = parse_diputados(
+            COLON_DOT_REDACTED_DECREE_ARTICLE_FIXTURE,
+            &options(
+                "urn:lex-mx:federal:regulation:sample",
+                "Reglamento de Muestra",
+            ),
+            NaiveDate::from_ymd_opt(2004, 6, 3).expect("valid date"),
+        )
+        .expect("colon dot-redacted decree article fixture parses");
+
+        let articles: Vec<_> = document
+            .provisions
+            .iter()
+            .filter(|provision| provision.provision_type == ProvisionType::Article)
+            .collect();
+        assert_eq!(articles.len(), 1);
+        assert_eq!(articles[0].number, "32");
+        assert!(
+            articles[0]
+                .text
+                .ends_with("Artículo reformado DOF 31-10-2014")
+        );
+        assert!(!articles[0].text.contains("ARTÍCULO SEGUNDO"));
+
+        let transitories: Vec<_> = document
+            .provisions
+            .iter()
+            .filter(|provision| provision.provision_type == ProvisionType::Transitory)
+            .collect();
+        assert_eq!(transitories.len(), 2);
+        assert!(
+            transitories[1]
+                .text
+                .ends_with("entrada en vigor del presente Decreto.")
+        );
+    }
+
+    #[test]
+    fn colon_is_not_a_general_ordinal_article_separator() {
+        let ordinals = transitory_ordinals();
+        assert!(is_dot_redacted_decree_article(
+            "ARTÍCULO SEGUNDO: ..........",
+            &ordinals
+        ));
+        assert!(!is_dot_redacted_decree_article(
+            "ARTÍCULO SEGUNDO: Se reforma el artículo 3.",
+            &ordinals
+        ));
+        assert!(
+            parse_ordinal_article_start("ARTÍCULO SEGUNDO: Se reforma el artículo 3.", &ordinals)
+                .is_none()
+        );
     }
 
     #[test]

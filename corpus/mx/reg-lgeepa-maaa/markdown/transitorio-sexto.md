@@ -15,4 +15,4 @@ source_sha256: d50b44df321cf8be51375c07cee5dbcf03eac76df1cd11ab4bd777c9fce0f789
 
 # SEXTO
 
-Todas aquellas aprobaciones de unidades de verificación en materia de Auditoría Ambiental que a la entrada en vigor del presente Reglamento hayan sido expedidas conservarán su vigencia en los términos en los cuales fueron expedidas.
+Todas aquellas aprobaciones de unidades de verificación en materia de [Auditoría Ambiental](articulo-2.md) que a la entrada en vigor del presente Reglamento hayan sido expedidas conservarán su vigencia en los términos en los cuales fueron expedidas.

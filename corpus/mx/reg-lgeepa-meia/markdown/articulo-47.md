@@ -19,4 +19,4 @@ source_sha256: c7790df38b773b04e4769459d5fd49cca5b7a5b4955f7618632117275259071f
 
 La ejecución de la obra o la realización de la actividad de que se trate deberá sujetarse a lo previsto en la resolución respectiva, en las normas oficiales mexicanas que al efecto se expidan y en las demás disposiciones legales y reglamentarias aplicables.
 
-En todo caso, el promovente podrá solicitar que se integren a la resolución los demás permisos, licencias y autorizaciones que sean necesarios para llevar a cabo la obra o actividad proyectada y cuyo otorgamiento corresponda a la Secretaría.
+En todo caso, el promovente podrá solicitar que se integren a la resolución los demás permisos, licencias y autorizaciones que sean necesarios para llevar a cabo la obra o actividad proyectada y cuyo otorgamiento corresponda a la [Secretaría](articulo-3o.md).

@@ -17,6 +17,6 @@ source_sha256: d50b44df321cf8be51375c07cee5dbcf03eac76df1cd11ab4bd777c9fce0f789
 
 # Artículo 10
 
-La Procuraduría o, en su caso, la Agencia, según corresponda, con sus propios recursos, verificarán en cualquier momento el cumplimiento de las disposiciones del presente ordenamiento en aquellas Empresas que se encuentren desarrollando una Auditoría Ambiental con fines de obtener o renovar el Certificado.
+La [Procuraduría](articulo-2.md) o, en su caso, la [Agencia](articulo-2.md), según corresponda, con sus propios recursos, verificarán en cualquier momento el cumplimiento de las disposiciones del presente ordenamiento en aquellas [Empresas](articulo-2.md) que se encuentren desarrollando una [Auditoría Ambiental](articulo-2.md) con fines de obtener o renovar el [Certificado](articulo-2.md).
 
 Artículo reformado DOF 31-10-2014

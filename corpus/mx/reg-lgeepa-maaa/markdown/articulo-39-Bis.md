@@ -13,10 +13,10 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGEEPA_MAAA_3110
 source_sha256: d50b44df321cf8be51375c07cee5dbcf03eac76df1cd11ab4bd777c9fce0f789
 ---
 
-> Capítulo SEGUNDO · Sección III
+> Capítulo SEGUNDO · Sección IV
 
 # Artículo 39 Bis
 
-La Agencia coordinará un programa de certificación en seguridad industrial, seguridad operativa y protección al medio ambiente para las Actividades del Sector Hidrocarburos en relación con el cumplimiento de la normatividad y estándares de desempeño, con base en el principio de autogestión, al cual podrá integrar al Programa y Buenas prácticas de operación e ingeniería reguladas en este Reglamento, conforme a los requisitos técnicos que expida de conformidad con el artículo [5](../../lansi/markdown/articulo-5o.md), fracción XVI de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, a efecto de unificar en un solo procedimiento todas las certificaciones aplicables al mencionado sector.
+La [Agencia](articulo-2.md) coordinará un programa de certificación en seguridad industrial, seguridad operativa y protección al medio ambiente para las [Actividades del Sector Hidrocarburos](articulo-2.md) en relación con el cumplimiento de la normatividad y estándares de desempeño, con base en el principio de autogestión, al cual podrá integrar al [Programa](articulo-2.md) y [Buenas prácticas de operación e ingeniería](articulo-2.md) reguladas en este Reglamento, conforme a los requisitos técnicos que expida de conformidad con el artículo [5](../../lansi/markdown/articulo-5o.md), fracción XVI de la [Ley](articulo-2.md) de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, a efecto de unificar en un solo procedimiento todas las certificaciones aplicables al mencionado sector.
 
 Artículo adicionado DOF 31-10-2014

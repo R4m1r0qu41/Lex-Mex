@@ -13,8 +13,10 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGEEPA_MRETC_311
 source_sha256: 71c334347de911b670b7e920a44db19f2555f611203ec25d227733687972f424
 ---
 
+> Capítulo I
+
 # Artículo 2o
 
-La aplicación de este Reglamento corresponde al Ejecutivo Federal, por conducto de la Secretaría de Medio Ambiente y Recursos Naturales, sin perjuicio de las atribuciones que correspondan a otras dependencias del Ejecutivo Federal.
+La aplicación de este Reglamento corresponde al Ejecutivo Federal, por conducto de la [Secretaría](articulo-3o.md) de Medio Ambiente y Recursos Naturales, sin perjuicio de las atribuciones que correspondan a otras dependencias del Ejecutivo Federal.
 
-La Secretaría ejercerá las atribuciones contenidas en el presente Reglamento, incluidas las disposiciones relativas a la inspección, vigilancia y sanción, por conducto de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, cuando se trate de las Actividades del Sector Hidrocarburos y de obras e instalaciones de dicho sector y, cuando se trate de actividades distintas a dicho sector, la Secretaría ejercerá la atribuciones correspondientes a través de las unidades administrativas que defina su reglamento interior. Párrafo adicionado DOF 31-10-2014 REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE REGISTRO DE EMISIONES Y TRANSFERENCIA DE CONTAMINANTES
+La Secretaría ejercerá las atribuciones contenidas en el presente Reglamento, incluidas las disposiciones relativas a la inspección, vigilancia y sanción, por conducto de la [Agencia](articulo-3o.md) Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, cuando se trate de las [Actividades del Sector Hidrocarburos](articulo-3o.md) y de obras e instalaciones de dicho sector y, cuando se trate de actividades distintas a dicho sector, la Secretaría ejercerá la atribuciones correspondientes a través de las unidades administrativas que defina su reglamento interior. Párrafo adicionado DOF 31-10-2014

@@ -17,4 +17,4 @@ source_sha256: cf47ab93fdea40d2b3e41b58784df62f89dd90b4482dd3b7f25adc7f6957036b
 
 # Artículo 49
 
-La Secretaría podrá realizar los actos de inspección y vigilancia necesarios para verificar la debida observancia del Reglamento. Para los efectos establecidos en este artículo, la Secretaría estará a lo que dispongan los ordenamientos contenidos en el Título Sexto de la Ley.
+La [Secretaría](articulo-6o.md) podrá realizar los actos de inspección y vigilancia necesarios para verificar la debida observancia del [Reglamento](articulo-6o.md). Para los efectos establecidos en este artículo, la Secretaría estará a lo que dispongan los ordenamientos contenidos en el Título Sexto de la [Ley](articulo-6o.md).

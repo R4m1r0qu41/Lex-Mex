@@ -17,4 +17,4 @@ source_sha256: d50b44df321cf8be51375c07cee5dbcf03eac76df1cd11ab4bd777c9fce0f789
 
 # Artículo 40
 
-La información generada por la realización de las Auditorías reguladas en el presente ordenamiento, se regirá por lo dispuesto en el artículo [159 BIS 4](../../lgeepa/markdown/articulo-159-BIS-4.md) de la Ley, así como por las disposiciones sobre reserva y confidencialidad establecidas en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
+La información generada por la realización de las Auditorías reguladas en el presente ordenamiento, se regirá por lo dispuesto en el artículo [159 BIS 4](../../lgeepa/markdown/articulo-159-BIS-4.md) de la [Ley](articulo-2.md), así como por las disposiciones sobre reserva y confidencialidad establecidas en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.

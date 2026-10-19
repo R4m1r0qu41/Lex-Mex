@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGCC_MRNE_281014
 source_sha256: 62420210c5aaffe687daf130a64ff506009625340c554bfb36d2f1b5dcac0192
 ---
 
+> Capítulo IV · Sección II
+
 # Artículo 21
 
 Dentro de los 5 días hábiles siguientes a aquél en que se haya recibido la solicitud correspondiente, la Secretaría podrá prevenir al interesado para que complete, en su caso, la información faltante o subsane cualquier inconsistencia detectada, dentro de un plazo de 5 días hábiles contado a partir del día hábil siguiente de su notificación.

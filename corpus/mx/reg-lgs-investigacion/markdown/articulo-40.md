@@ -33,7 +33,7 @@ VI. Nacimiento vivo.- Es la expulsión o extracción completa del producto de la
 
 VII. Nacimiento Muerto.- es la expulsión o extracción completa del producto de la concepción, del seno materno, cuando después de dicha separación no respire ni lata el corazón, se haya o no cortado el cordón umbilical y esté o no desprendida la placenta;
 
-VIII. Trabajo de parto.- Es el período comprendido desde el inicio de las contracciones uterinas (con características progresivas de intensidad, irrigación y duración) y que termina con la expulsión o extracción del feto y sus anexos; REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE INVESTIGACION PARA LA SALUD IX. Puerperio.- Es el período que se inicia con la expulsión o extracción del feto y sus anexos hasta lograr la involución de los cambios gestacionales (aproximadamente durante 42 días);
+VIII. Trabajo de parto.- Es el período comprendido desde el inicio de las contracciones uterinas (con características progresivas de intensidad, irrigación y duración) y que termina con la expulsión o extracción del feto y sus anexos; IX. Puerperio.- Es el período que se inicia con la expulsión o extracción del feto y sus anexos hasta lograr la involución de los cambios gestacionales (aproximadamente durante 42 días);
 
 X. Lactancia.- Es un fenómeno fisiológico en el cual ocurre la secreción láctea a partir de la expulsión o extracción del feto y sus anexos, y
 

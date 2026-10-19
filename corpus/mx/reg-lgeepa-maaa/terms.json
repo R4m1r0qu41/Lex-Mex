@@ -1,1 +1,266 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:actividades-del-sector-hidrocarburos",
+    "term": "Actividades del Sector Hidrocarburos",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
+    "fraction": "I",
+    "start_char": 219,
+    "end_char": 462,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:agencia",
+    "term": "Agencia",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
+    "fraction": "I Bis",
+    "start_char": 462,
+    "end_char": 615,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:auditor-ambiental",
+    "term": "Auditor Ambiental",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
+    "fraction": "I Ter",
+    "start_char": 615,
+    "end_char": 735,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:auditor-coordinador",
+    "term": "Auditor Coordinador",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
+    "fraction": "II",
+    "start_char": 735,
+    "end_char": 834,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:auditor-especialista",
+    "term": "Auditor Especialista",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
+    "fraction": "III",
+    "start_char": 834,
+    "end_char": 1035,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:auditoria-ambiental",
+    "term": "Auditoría Ambiental",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
+    "fraction": "IV",
+    "start_char": 1035,
+    "end_char": 1538,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:autorregulacion",
+    "term": "Autorregulación",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
+    "fraction": "V",
+    "start_char": 1538,
+    "end_char": 1955,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:buenas-practicas-de-operacion-e-ingenieria",
+    "term": "Buenas prácticas de operación e ingeniería",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
+    "fraction": "VI",
+    "start_char": 1955,
+    "end_char": 2205,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:certificado",
+    "term": "Certificado",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
+    "fraction": "VII",
+    "start_char": 2205,
+    "end_char": 2418,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:convenio-de-concertacion",
+    "term": "Convenio de Concertación",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
+    "fraction": "VIII",
+    "start_char": 2418,
+    "end_char": 2596,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:desempeno-ambiental",
+    "term": "Desempeño Ambiental",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
+    "fraction": "IX",
+    "start_char": 2596,
+    "end_char": 2798,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:diagnostico-ambiental",
+    "term": "Diagnóstico Ambiental",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
+    "fraction": "X",
+    "start_char": 2798,
+    "end_char": 2958,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:diagnostico-basico",
+    "term": "Diagnóstico Básico",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
+    "fraction": "XI",
+    "start_char": 2958,
+    "end_char": 3139,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:emergencia-ambiental",
+    "term": "Emergencia Ambiental",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
+    "fraction": "XII",
+    "start_char": 3139,
+    "end_char": 3430,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:empresa",
+    "term": "Empresa",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
+    "fraction": "XIII",
+    "start_char": 3430,
+    "end_char": 3626,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:informe-de-auditoria-ambiental",
+    "term": "Informe de Auditoría Ambiental",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
+    "fraction": "XIV",
+    "start_char": 3626,
+    "end_char": 3750,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
+    "fraction": "XV",
+    "start_char": 3750,
+    "end_char": 3825,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:plan-de-accion",
+    "term": "Plan de Acción",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
+    "fraction": "XVI",
+    "start_char": 3825,
+    "end_char": 3985,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:procuraduria",
+    "term": "Procuraduría",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
+    "fraction": "XVII",
+    "start_char": 3985,
+    "end_char": 4054,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:programa",
+    "term": "Programa",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
+    "fraction": "XVIII",
+    "start_char": 4054,
+    "end_char": 4114,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:reporte-de-desempeno-ambiental",
+    "term": "Reporte de Desempeño Ambiental",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
+    "fraction": "XIX",
+    "start_char": 4114,
+    "end_char": 4284,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:riesgo-ambiental",
+    "term": "Riesgo Ambiental",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
+    "fraction": "XX",
+    "start_char": 4284,
+    "end_char": 4365,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
+    "fraction": "XXI",
+    "start_char": 4365,
+    "end_char": 4436,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:terminos-de-referencia",
+    "term": "Términos de Referencia",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
+    "fraction": "XXII",
+    "start_char": 4436,
+    "end_char": 4619,
+    "basis": "express_definition"
+  }
+]

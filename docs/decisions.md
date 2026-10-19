@@ -1,11 +1,47 @@
 # Architecture decisions
 
+## 2026-10-19 — Six glossaries held by running headers are released by reparse; one parser fix
+
+The operator asked for the six glossaries held for running headers to be fixed: `reg-lgcc-rne` 2, `reg-lgeepa-maaa` 2, `-meia` 3, `-mpcca` 6, `-mretc` 3 and `reg-lgs-investigacion` 40.
+
+**Cause.** These six were parsed on 2026-07-12. Since 2026-10-15 (`12e0cc752`), the Diputados parser drops up to three uppercase title lines directly above `CÁMARA DE DIPUTADOS…` (`publisher_title_lines`). That rule covers all six headers, including `reg-lgs-investigacion`'s, which prints `INVESTIGACION` without the accent the title has. So no adapter changes: a disposable reparse with the printed lines declared as `header_lines` gave byte-identical provisions to one without them. The same probe showed that `reg-lss-maeba` needed no `header_lines` either (correction recorded in its entry).
+
+**One parser fix** (fixture `colon-dot-redacted-decree-article-sample.txt`, cut from `reg-lgeepa-mretc`):
+- mretc prints its redacted decree article with a colon: `ARTÍCULO SEGUNDO: ..........`. The dot-redaction check accepted only `.-`, `.` and `-`, so the current parser appended that line to Article 32.
+- `is_dot_redacted_decree_article` now also accepts a colon. It accepts one only there, never as a general ordinal-heading separator, and a test pins that.
+- No committed provision contains a paragraph of that shape, so no stored text can change on reparse.
+
+**Reparse** (`pipeline` for each, then `link --all`; identical to a disposable probe apart from retrieval timestamps and the `pdftotext` version string):
+- **Same sources.** The PDF and extracted-text hashes match the recorded ones for all six, and the furniture audits report 0 findings.
+- **Provisions.** All ids are unchanged. Only `text` and `heading_context` changed, and no changed provision is `lawyer_verified` or `review_required`.
+- **Text changes,** each one classified:
+  - **Header removal:** 90 provisions; nothing else changed in them.
+  - **Headings:** 15 `Capítulo`/`Sección` headings that ended the previous article's text now sit in `heading_context` (rne 7, mretc 7, maaa 1). Before, every rne and mretc article had `chapter: null`.
+  - **maaa.** Articles 33–39 Bis move from Sección III to Sección IV.
+  - **Signature blocks:** one per instrument, six in all. Each was a closing "Dado en la Residencia… Rúbrica." block (`is_enactment_signature`, since 2026-07-25).
+  - **Paragraph breaks:** every new break where a header used to sit follows a colon, semicolon, period or amendment mark. No sentence is split.
+- **References.** All 225 are unchanged (rne 43, maaa 49, meia 37, mpcca 17, mretc 13, lgs-investigacion 67). Totals stay at 35,950 references and 9,809 cross-instrument edges, and the rejected set is still the 8 accepted gaps.
+
+**Glossaries** (wider pass, all complete; held glossaries 18 → 12):
+
+| Instrument | Terms | Usages |
+|---|---:|---:|
+| `reg-lgcc-rne` 2 | 12 (I–XII) | 82 |
+| `reg-lgeepa-maaa` 2 | 24 (I, I Bis, I Ter, II–XXII) | 505 |
+| `reg-lgeepa-meia` 3 | 19 (I, I Bis, I Ter, II–XVII) | 131 |
+| `reg-lgeepa-mpcca` 6 | 15 (I–XV) | 124 |
+| `reg-lgeepa-mretc` 3 | 18 (III is a repeal placeholder; VII Bis) | 155 |
+| `reg-lgs-investigacion` 40 | 11 (I–XI) | 0 |
+
+- **lgs-investigacion has 0 usages** because its terms are capitalized in the glossary and lowercase in running text (`embarazo`, `feto`), and matching is case-sensitive. This is the lowercase-usage question already open.
+- **Imports are not part of this entry.** maaa adopts the Ley Federal sobre Metrología y Normalización, which is not in the corpus, alongside LGEEPA, so precedence between them is a legal question. mretc's "otros ordenamientos" remains an operator question.
+
 ## 2026-10-18 — `reg-lss-rfar`: wrapped running header removed by reparse; adopts LSS Article 5 A
 
 The operator asked for the `reg-lss-maeba` treatment to be applied to `reg-lss-rfar`. Its Article 2 glossary already gave 4 complete terms, but its running header sat inside fraction IV's definition.
 
 **Cause and repair:**
-- **Cause.** rfar's running header is its official title printed on three lines, so the whole-line title match never dropped it. It leaked into 5 provisions (Articles 2, 6, 8, 13 and 18).
+- **Cause.** rfar's running header is its official title printed on three lines, followed by a blank line before `CÁMARA DE DIPUTADOS…`. The whole-line title match misses a wrapped title, and the publisher-title rule (`publisher_title_lines`) looks back only three lines, with no blank among them. It leaked into 5 provisions (Articles 2, 6, 8, 13 and 18). A disposable reparse without `header_lines` keeps the leak, so the adapter field is needed here, unlike maeba.
 - **Repair.** The adapter declares the three printed lines as `header_lines`, and rfar was reparsed with `pipeline`. The title block and the `CAPÍTULO V` heading wrap differently, so they do not match those lines and are kept.
 - **Same source.** The retained PDF and extracted text match the recorded hashes (`4b4529ce…`, `061dd4c0…`). The furniture audit reports 0 findings.
 
@@ -69,6 +105,7 @@ The operator asked for the `reg-lss-macerf` treatment to be applied to `reg-lss-
 - **Cause.** The Diputados parser drops a running header by comparing whole source lines with the uppercased official title. maeba's header wraps onto two lines, so it leaked into 18 provisions, the Article 2 glossary among them.
 - **Repair.** The adapter now declares the two printed lines as `header_lines`. That is the existing mechanism, already tested by `configured_wrapped_running_header_never_enters_provision_text`. maeba was then reparsed with `pipeline`.
 - **Same source.** The retained PDF and the extracted text match the recorded hashes (`9816ce7f…`, `d8e21cb9…`). No source changed, and the furniture audit reports 0 findings.
+- **Correction (2026-10-19).** The cause above is wrong. Since 2026-10-15 (`12e0cc752`), the parser has also dropped up to three uppercase title lines directly above `CÁMARA DE DIPUTADOS…` (`publisher_title_lines`), and that rule already covers maeba's header. A disposable reparse without `header_lines` gives byte-identical provisions. The actual cause was maeba's stale July parse, so the reparse alone was the repair. The `header_lines` entry is redundant but harmless, and it stays. See the 2026-10-19 entry on the six held glossaries.
 
 **Reparse diff:**
 - **Provision ids and fields.** All 67 ids are unchanged. No field other than `text` changed.

@@ -19,6 +19,6 @@ source_sha256: cf47ab93fdea40d2b3e41b58784df62f89dd90b4482dd3b7f25adc7f6957036b
 
 Los centros de verificación vehicular autorizados, deberán:
 
-I.- Operar conforme a los procedimientos de verificación que establezca la Secretaría,; y
+I.- Operar conforme a los procedimientos de verificación que establezca la [Secretaría](articulo-6o.md),; y
 
 II.- Mantener sus instalaciones y equipos en un estado de funcionamiento que garantice la adecuada prestación de sus servicios.

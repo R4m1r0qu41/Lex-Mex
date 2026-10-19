@@ -15,4 +15,4 @@ source_sha256: cf47ab93fdea40d2b3e41b58784df62f89dd90b4482dd3b7f25adc7f6957036b
 
 # SEGUNDO
 
-Se abroga el Reglamento para la Prevención y Control de la Contaminación Atmosférica Originada por la Emisión de Humos y Polvos, del 8 de septiembre de 1971, publicado en el Diario Oficial de la Federación del 17 de septiembre de 1971, y se derogan las demás disposiciones que se opongan a lo dispuesto por el presente Reglamento.
+Se abroga el [Reglamento](articulo-6o.md) para la Prevención y Control de la Contaminación Atmosférica Originada por la [Emisión](articulo-6o.md) de Humos y Polvos, del 8 de septiembre de 1971, publicado en el Diario Oficial de la Federación del 17 de septiembre de 1971, y se derogan las demás disposiciones que se opongan a lo dispuesto por el presente Reglamento.

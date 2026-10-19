@@ -17,4 +17,4 @@ source_sha256: c7790df38b773b04e4769459d5fd49cca5b7a5b4955f7618632117275259071f
 
 # Artículo 42
 
-El promovente deberá remitir a la Secretaría la página del diario o periódico donde se hubiere realizado la publicación del extracto del proyecto, para que sea incorporada al expediente respectivo.
+El promovente deberá remitir a la [Secretaría](articulo-3o.md) la página del diario o periódico donde se hubiere realizado la publicación del extracto del proyecto, para que sea incorporada al expediente respectivo.

@@ -17,7 +17,7 @@ source_sha256: c7790df38b773b04e4769459d5fd49cca5b7a5b4955f7618632117275259071f
 
 # Artículo 40
 
-La Secretaría, a solicitud de cualquier persona de la comunidad de que se trate, podrá llevar a cabo una consulta pública, respecto de proyectos sometidos a su consideración a través de manifestaciones de impacto ambiental.
+La [Secretaría](articulo-3o.md), a solicitud de cualquier persona de la comunidad de que se trate, podrá llevar a cabo una consulta pública, respecto de proyectos sometidos a su consideración a través de manifestaciones de impacto ambiental.
 
 La solicitud a que se refiere al párrafo anterior deberá presentarse por escrito dentro del plazo de diez días contados a partir de la publicación de los listados de las manifestaciones de impacto ambiental. En ella se hará mención de:
 

@@ -17,11 +17,11 @@ source_sha256: d50b44df321cf8be51375c07cee5dbcf03eac76df1cd11ab4bd777c9fce0f789
 
 # Artículo 43
 
-Serán motivo de cancelación de la aprobación del Auditor Ambiental, además de lo establecido en la Ley Federal sobre Metrología y Normalización y su Reglamento, los siguientes:
+Serán motivo de cancelación de la aprobación del [Auditor Ambiental](articulo-2.md), además de lo establecido en la [Ley](articulo-2.md) Federal sobre Metrología y Normalización y su Reglamento, los siguientes:
 
 I. Incumplir en más de una ocasión con lo establecido en el artículo [39](articulo-39.md) de este Reglamento;
 
-II. Divulgar información confidencial de la Empresa auditada;
+II. Divulgar información confidencial de la [Empresa](articulo-2.md) auditada;
 
 III. Haber sido sancionado por infracciones a la legislación ambiental en cualquier otra actividad que desempeñe, y
 

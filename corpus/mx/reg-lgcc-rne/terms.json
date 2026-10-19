@@ -1,1 +1,134 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:cedula-de-operacion-anual",
+    "term": "Cédula de Operación Anual",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
+    "fraction": "I",
+    "start_char": 140,
+    "end_char": 447,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:dictamen-de-verificacion",
+    "term": "Dictamen de Verificación",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
+    "fraction": "II",
+    "start_char": 447,
+    "end_char": 720,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:dictamen-de-validacion",
+    "term": "Dictamen de Validación",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
+    "fraction": "III",
+    "start_char": 720,
+    "end_char": 898,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:emisiones-directas",
+    "term": "Emisiones Directas",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
+    "fraction": "IV",
+    "start_char": 898,
+    "end_char": 1368,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:emisiones-indirectas",
+    "term": "Emisiones Indirectas",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
+    "fraction": "V",
+    "start_char": 1368,
+    "end_char": 1564,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:establecimiento-sujeto-a-reporte",
+    "term": "Establecimiento Sujeto a Reporte",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
+    "fraction": "VI",
+    "start_char": 1564,
+    "end_char": 2005,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:fuente-fija-de-gases-o-compuestos-de-efecto-invernadero",
+    "term": "Fuente Fija de Gases o Compuestos de Efecto Invernadero",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
+    "fraction": "VII",
+    "start_char": 2005,
+    "end_char": 2456,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:fuente-movil-de-gases-o-compuestos-de-efecto-invernadero",
+    "term": "Fuente Móvil de Gases o Compuestos de Efecto Invernadero",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
+    "fraction": "VIII",
+    "start_char": 2456,
+    "end_char": 2855,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:organismos",
+    "term": "Organismos",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
+    "fraction": "IX",
+    "start_char": 2855,
+    "end_char": 3220,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:panel-intergubernamental",
+    "term": "Panel Intergubernamental",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
+    "fraction": "X",
+    "start_char": 3220,
+    "end_char": 3306,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:potencial-de-calentamiento-global",
+    "term": "Potencial de Calentamiento Global",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
+    "fraction": "XI",
+    "start_char": 3306,
+    "end_char": 3470,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:term:procuraduria",
+    "term": "Procuraduría",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
+    "fraction": "XII",
+    "start_char": 3470,
+    "end_char": 3536,
+    "basis": "express_definition"
+  }
+]

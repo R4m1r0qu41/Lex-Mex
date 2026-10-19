@@ -15,4 +15,4 @@ source_sha256: d50b44df321cf8be51375c07cee5dbcf03eac76df1cd11ab4bd777c9fce0f789
 
 # SÉPTIMO
 
-Los Términos de Referencia a que se hace referencia en el artículo [8](articulo-8.md) del presente Reglamento se deberán publicar en un término máximo de ciento ochenta días hábiles, mientras tanto se aplicarán los Términos de Referencia vigentes y su cumplimiento tendrá los efectos de validez para el presente Reglamento.
+Los [Términos de Referencia](articulo-2.md) a que se hace referencia en el artículo [8](articulo-8.md) del presente Reglamento se deberán publicar en un término máximo de ciento ochenta días hábiles, mientras tanto se aplicarán los Términos de Referencia vigentes y su cumplimiento tendrá los efectos de validez para el presente Reglamento.

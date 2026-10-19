@@ -17,4 +17,4 @@ source_sha256: cf47ab93fdea40d2b3e41b58784df62f89dd90b4482dd3b7f25adc7f6957036b
 
 # Artículo 50
 
-Las infracciones en asuntos de competencia de las Entidades Federativas y de los Municipios, serán sancionadas administrativamente por las autoridades estatales, municipales o del Distrito Federal dentro de sus respectivas circunscripciones territoriales, conforme a lo dispuesto por los ordenamientos locales aplicables. REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DE LA ATMÓSFERA
+Las infracciones en asuntos de competencia de las Entidades Federativas y de los Municipios, serán sancionadas administrativamente por las autoridades estatales, municipales o del Distrito Federal dentro de sus respectivas circunscripciones territoriales, conforme a lo dispuesto por los ordenamientos locales aplicables.

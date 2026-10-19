@@ -15,4 +15,4 @@ source_sha256: c7790df38b773b04e4769459d5fd49cca5b7a5b4955f7618632117275259071f
 
 # Segundo
 
-Se abroga el Reglamento de la Ley General del Equilibrio Ecológico y la Protección del Ambiente en materia de impacto ambiental publicado en el Diario Oficial de la Federación el día 7 de junio de 1988 y todas aquellas disposiciones que se opongan al presente reglamento.
+Se abroga el [Reglamento](articulo-3o.md) de la [Ley](articulo-3o.md) General del Equilibrio Ecológico y la Protección del Ambiente en materia de impacto ambiental publicado en el Diario Oficial de la Federación el día 7 de junio de 1988 y todas aquellas disposiciones que se opongan al presente reglamento.

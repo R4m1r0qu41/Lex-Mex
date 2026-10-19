@@ -17,9 +17,9 @@ source_sha256: d50b44df321cf8be51375c07cee5dbcf03eac76df1cd11ab4bd777c9fce0f789
 
 # Artículo 45
 
-La Procuraduría o, en su caso, la Agencia, según corresponda, iniciarán el procedimiento administrativo para dejar sin efectos un Certificado cuando derivado del ejercicio de la facultad de verificación previsto en el artículo [10](articulo-10.md) del presente Reglamento, detecte que la Empresa: Párrafo reformado DOF 31-10-2014
+La [Procuraduría](articulo-2.md) o, en su caso, la [Agencia](articulo-2.md), según corresponda, iniciarán el procedimiento administrativo para dejar sin efectos un [Certificado](articulo-2.md) cuando derivado del ejercicio de la facultad de verificación previsto en el artículo [10](articulo-10.md) del presente Reglamento, detecte que la [Empresa](articulo-2.md): Párrafo reformado DOF 31-10-2014
 
-I. Proporcionó información falsa o incompleta al Auditor Ambiental;
+I. Proporcionó información falsa o incompleta al [Auditor Ambiental](articulo-2.md);
 
 II. Ocultó información a la Procuraduría o, en su caso, a la Agencia, según corresponda, o al Auditor Ambiental; Fracción reformada DOF 31-10-2014
 
@@ -29,4 +29,4 @@ IV. Haya dado un mal uso al Certificado y a la marca correspondiente, o
 
 V. Haya sido sancionado por alguno de los ilícitos previstos en el Titulo Vigésimo Quinto del Código Penal Federal, de los Delitos contra el ambiente y la gestión ambiental.
 
-El procedimiento previsto en este artículo, se desarrollará conforme a las disposiciones de la Ley Federal de Procedimiento Administrativo.
+El procedimiento previsto en este artículo, se desarrollará conforme a las disposiciones de la [Ley](articulo-2.md) Federal de Procedimiento Administrativo.

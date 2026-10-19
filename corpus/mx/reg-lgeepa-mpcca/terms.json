@@ -1,1 +1,167 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:term:actividades-del-sector-hidrocarburos",
+    "term": "Actividades del Sector Hidrocarburos",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:6",
+    "fraction": "I",
+    "start_char": 182,
+    "end_char": 439,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:term:emision",
+    "term": "Emisión",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:6",
+    "fraction": "II",
+    "start_char": 439,
+    "end_char": 607,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:term:fuente-nueva",
+    "term": "Fuente nueva",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:6",
+    "fraction": "III",
+    "start_char": 607,
+    "end_char": 751,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:term:fuente-fija",
+    "term": "Fuente fija",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:6",
+    "fraction": "IV",
+    "start_char": 751,
+    "end_char": 1035,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:term:fuente-movil",
+    "term": "Fuente móvil",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:6",
+    "fraction": "V",
+    "start_char": 1035,
+    "end_char": 1396,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:term:fuente-multiple",
+    "term": "Fuente múltiple",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:6",
+    "fraction": "VI",
+    "start_char": 1396,
+    "end_char": 1601,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:term:inmision",
+    "term": "Inmisión",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:6",
+    "fraction": "VII",
+    "start_char": 1601,
+    "end_char": 1717,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:6",
+    "fraction": "VIII",
+    "start_char": 1717,
+    "end_char": 1834,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:term:licencia-de-funcionamiento",
+    "term": "Licencia de Funcionamiento",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:6",
+    "fraction": "IX",
+    "start_char": 1834,
+    "end_char": 2324,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:term:normas-tecnicas-ecologicas",
+    "term": "Normas técnicas ecológicas",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:6",
+    "fraction": "X",
+    "start_char": 2324,
+    "end_char": 2424,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:term:plataforma-y-puertos-de-muestreo",
+    "term": "Plataforma y puertos de muestreo",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:6",
+    "fraction": "XI",
+    "start_char": 2424,
+    "end_char": 2588,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:term:reglamento",
+    "term": "Reglamento",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:6",
+    "fraction": "XII",
+    "start_char": 2588,
+    "end_char": 2799,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:6",
+    "fraction": "XIII",
+    "start_char": 2799,
+    "end_char": 2908,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:term:verificacion",
+    "term": "Verificación",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:6",
+    "fraction": "XIV",
+    "start_char": 2908,
+    "end_char": 3091,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:term:zona-critica",
+    "term": "Zona crítica",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca:article:6",
+    "fraction": "XV",
+    "start_char": 3091,
+    "end_char": 3309,
+    "basis": "express_definition"
+  }
+]

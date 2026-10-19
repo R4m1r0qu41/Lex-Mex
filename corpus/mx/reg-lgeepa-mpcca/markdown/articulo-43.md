@@ -17,4 +17,4 @@ source_sha256: cf47ab93fdea40d2b3e41b58784df62f89dd90b4482dd3b7f25adc7f6957036b
 
 # Artículo 43
 
-El establecimiento y operación de los Sistemas de Monitoreo de la Calidad del Aire, deberán sujetarse a las normas técnicas ecológicas que al efecto expida la Secretaría, en coordinación con la Secretaría de Salud en lo referente a la salud humana.
+El establecimiento y operación de los Sistemas de Monitoreo de la Calidad del Aire, deberán sujetarse a las normas técnicas ecológicas que al efecto expida la [Secretaría](articulo-6o.md), en coordinación con la Secretaría de Salud en lo referente a la salud humana.

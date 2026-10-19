@@ -19,4 +19,4 @@ source_sha256: c7790df38b773b04e4769459d5fd49cca5b7a5b4955f7618632117275259071f
 
 El promovente deberá, en su caso, renovar o actualizar anualmente los montos de los seguros o garantías que haya otorgado.
 
-La Secretaría, dentro de un plazo de diez días, ordenará la cancelación de los seguros o garantías cuando el promovente acredite que ha cumplido con todas las condiciones que les dieron origen y haga la solicitud correspondiente.
+La [Secretaría](articulo-3o.md), dentro de un plazo de diez días, ordenará la cancelación de los seguros o garantías cuando el promovente acredite que ha cumplido con todas las condiciones que les dieron origen y haga la solicitud correspondiente.

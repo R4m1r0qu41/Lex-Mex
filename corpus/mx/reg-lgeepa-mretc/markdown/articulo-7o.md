@@ -13,8 +13,10 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGEEPA_MRETC_311
 source_sha256: 71c334347de911b670b7e920a44db19f2555f611203ec25d227733687972f424
 ---
 
+> Capítulo II · Sección I
+
 # Artículo 7o
 
-Para el caso de la información de competencia del Gobierno del Distrito Federal, de los Estados y, en su caso, de los Municipios, la Secretaría celebrará convenios de coordinación con la autoridad competente en las materias que regula este Reglamento, a fin de propiciar que las Bases de datos que generen puedan ser integradas al Registro.
+Para el caso de la información de competencia del Gobierno del Distrito Federal, de los Estados y, en su caso, de los Municipios, la [Secretaría](articulo-3o.md) celebrará convenios de coordinación con la autoridad competente en las materias que regula este Reglamento, a fin de propiciar que las [Bases de datos](articulo-3o.md) que generen puedan ser integradas al [Registro](articulo-3o.md).
 
 En estos convenios se podrán determinar las directrices y principios técnicos, que permitan uniformar y homologar la información para la integración de las Bases de datos de sus respectivas competencias, así como los mecanismos de coordinación para actualizar la información anualmente.

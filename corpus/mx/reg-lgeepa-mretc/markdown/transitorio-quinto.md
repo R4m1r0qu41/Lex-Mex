@@ -15,4 +15,4 @@ source_sha256: 71c334347de911b670b7e920a44db19f2555f611203ec25d227733687972f424
 
 # Quinto
 
-Para el número de identificación a que hacen referencia los artículos 10 y 14 del Reglamento de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en materia de Registro de Emisiones y Transferencia de Contaminantes, la Secretaría asignará a los establecimientos sujetos a reporte de competencia federal un Número de Registro Ambiental, hasta en tanto sea publicado en el Diario Oficial de la Federación el Acuerdo Secretarial para establecer el número único de identificación.
+Para el número de identificación a que hacen referencia los artículos 10 y 14 del Reglamento de la [Ley](articulo-3o.md) General del Equilibrio Ecológico y la Protección al Ambiente en materia de [Registro](articulo-3o.md) de [Emisiones](articulo-3o.md) y [Transferencia](articulo-3o.md) de Contaminantes, la [Secretaría](articulo-3o.md) asignará a los establecimientos sujetos a reporte de competencia federal un Número de Registro Ambiental, hasta en tanto sea publicado en el Diario Oficial de la Federación el Acuerdo Secretarial para establecer el número único de identificación.

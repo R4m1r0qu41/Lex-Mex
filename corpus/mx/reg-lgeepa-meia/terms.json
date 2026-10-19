@@ -1,1 +1,211 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:term:actividades-del-sector-hidrocarburos",
+    "term": "Actividades del Sector Hidrocarburos",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:article:3",
+    "fraction": "I",
+    "start_char": 114,
+    "end_char": 374,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:term:agencia",
+    "term": "Agencia",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:article:3",
+    "fraction": "I Bis",
+    "start_char": 374,
+    "end_char": 530,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:term:cambio-de-uso-de-suelo",
+    "term": "Cambio de uso de suelo",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:article:3",
+    "fraction": "I Ter",
+    "start_char": 530,
+    "end_char": 752,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:term:especies-de-dificil-regeneracion",
+    "term": "Especies de difícil regeneración",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:article:3",
+    "fraction": "II",
+    "start_char": 752,
+    "end_char": 938,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:term:dano-ambiental",
+    "term": "Daño ambiental",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:article:3",
+    "fraction": "III",
+    "start_char": 938,
+    "end_char": 1057,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:term:dano-a-los-ecosistemas",
+    "term": "Daño a los ecosistemas",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:article:3",
+    "fraction": "IV",
+    "start_char": 1057,
+    "end_char": 1249,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:term:dano-grave-al-ecosistema",
+    "term": "Daño grave al ecosistema",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:article:3",
+    "fraction": "V",
+    "start_char": 1249,
+    "end_char": 1460,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:term:desequilibrio-ecologico-grave",
+    "term": "Desequilibrio ecológico grave",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:article:3",
+    "fraction": "VI",
+    "start_char": 1460,
+    "end_char": 1707,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:term:impacto-ambiental-acumulativo",
+    "term": "Impacto ambiental acumulativo",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:article:3",
+    "fraction": "VII",
+    "start_char": 1707,
+    "end_char": 1947,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:term:impacto-ambiental-sinergico",
+    "term": "Impacto ambiental sinérgico",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:article:3",
+    "fraction": "VIII",
+    "start_char": 1947,
+    "end_char": 2185,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:term:impacto-ambiental-significativo-o-relevante",
+    "term": "Impacto ambiental significativo o relevante",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:article:3",
+    "fraction": "IX",
+    "start_char": 2185,
+    "end_char": 2513,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:term:impacto-ambiental-residual",
+    "term": "Impacto ambiental residual",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:article:3",
+    "fraction": "X",
+    "start_char": 2513,
+    "end_char": 2620,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:term:informe-preventivo",
+    "term": "Informe preventivo",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:article:3",
+    "fraction": "XI",
+    "start_char": 2620,
+    "end_char": 2908,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:article:3",
+    "fraction": "XII",
+    "start_char": 2908,
+    "end_char": 2988,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:term:medidas-de-prevencion",
+    "term": "Medidas de prevención",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:article:3",
+    "fraction": "XIII",
+    "start_char": 2988,
+    "end_char": 3132,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:term:medidas-de-mitigacion",
+    "term": "Medidas de mitigación",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:article:3",
+    "fraction": "XIV",
+    "start_char": 3132,
+    "end_char": 3409,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:term:parque-industrial",
+    "term": "Parque industrial",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:article:3",
+    "fraction": "XV",
+    "start_char": 3409,
+    "end_char": 4065,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:term:reglamento",
+    "term": "Reglamento",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:article:3",
+    "fraction": "XVI",
+    "start_char": 4065,
+    "end_char": 4102,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:article:3",
+    "fraction": "XVII",
+    "start_char": 4102,
+    "end_char": 4207,
+    "basis": "express_definition"
+  }
+]

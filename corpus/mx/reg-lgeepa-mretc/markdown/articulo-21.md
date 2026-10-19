@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGEEPA_MRETC_311
 source_sha256: 71c334347de911b670b7e920a44db19f2555f611203ec25d227733687972f424
 ---
 
+> Capítulo II · Sección IV
+
 # Artículo 21
 
-Los establecimientos sujetos a reporte de competencia federal deberán conservar durante un periodo de cinco años, a partir de la presentación de cada Cédula, las memorias de cálculo y las mediciones relacionadas con las metodologías señaladas en los artículos [19](articulo-19.md) y [20](articulo-20.md) del presente Reglamento; dicha información estará a disposición de la Secretaría en el momento que la requiera.
+Los establecimientos sujetos a reporte de competencia federal deberán conservar durante un periodo de cinco años, a partir de la presentación de cada [Cédula](articulo-3o.md), las memorias de cálculo y las mediciones relacionadas con las metodologías señaladas en los artículos [19](articulo-19.md) y [20](articulo-20.md) del presente Reglamento; dicha información estará a disposición de la [Secretaría](articulo-3o.md) en el momento que la requiera.

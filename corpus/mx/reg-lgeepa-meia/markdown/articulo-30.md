@@ -17,7 +17,7 @@ source_sha256: c7790df38b773b04e4769459d5fd49cca5b7a5b4955f7618632117275259071f
 
 # Artículo 30
 
-El informe preventivo deberá contener: REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE EVALUACIÓN DEL IMPACTO AMBIENTAL I. Datos de Identificación, en los que se mencione:
+El informe preventivo deberá contener: I. Datos de Identificación, en los que se mencione:
 
 a) El nombre y la ubicación del proyecto;
 
@@ -31,7 +31,7 @@ a) A las normas oficiales mexicanas u otras disposiciones que regulen las emisio
 
 b) Al plan parcial de desarrollo urbano o de ordenamiento ecológico en el cual queda incluida la obra o actividad, o
 
-c) A la autorización de la Secretaría del parque industrial, en el que se ubique la obra o actividad, y
+c) A la autorización de la [Secretaría](articulo-3o.md) del parque industrial, en el que se ubique la obra o actividad, y
 
 III. La siguiente información:
 

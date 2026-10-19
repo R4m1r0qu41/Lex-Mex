@@ -1,1 +1,200 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:actividades-del-sector-hidrocarburos",
+    "term": "Actividades del Sector Hidrocarburos",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3",
+    "fraction": "I",
+    "start_char": 265,
+    "end_char": 525,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:agencia",
+    "term": "Agencia",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3",
+    "fraction": "I Bis",
+    "start_char": 525,
+    "end_char": 681,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:base-de-datos",
+    "term": "Base de datos",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3",
+    "fraction": "I Ter",
+    "start_char": 681,
+    "end_char": 938,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:cedula",
+    "term": "Cédula",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3",
+    "fraction": "II",
+    "start_char": 938,
+    "end_char": 1209,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:delegaciones-federales-y-coordinaciones-regionales",
+    "term": "Delegaciones Federales y Coordinaciones Regionales",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3",
+    "fraction": "IV",
+    "start_char": 1258,
+    "end_char": 1422,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:emision",
+    "term": "Emisión",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3",
+    "fraction": "V",
+    "start_char": 1422,
+    "end_char": 1543,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:error-de-concepto",
+    "term": "Error de concepto",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3",
+    "fraction": "VI",
+    "start_char": 1543,
+    "end_char": 1649,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:error-material",
+    "term": "Error material",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3",
+    "fraction": "VII",
+    "start_char": 1649,
+    "end_char": 1793,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:espacio-de-contacto-ciudadano",
+    "term": "Espacio de Contacto Ciudadano",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3",
+    "fraction": "VII Bis",
+    "start_char": 1793,
+    "end_char": 1956,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:establecimiento-sujeto-a-reporte",
+    "term": "Establecimiento sujeto a reporte",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3",
+    "fraction": "VIII",
+    "start_char": 1956,
+    "end_char": 2164,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3",
+    "fraction": "IX",
+    "start_char": 2164,
+    "end_char": 2240,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:reciclaje",
+    "term": "Reciclaje",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3",
+    "fraction": "X",
+    "start_char": 2240,
+    "end_char": 2539,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:registro",
+    "term": "Registro",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3",
+    "fraction": "XI",
+    "start_char": 2539,
+    "end_char": 3021,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:reutilizacion",
+    "term": "Reutilización",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3",
+    "fraction": "XII",
+    "start_char": 3021,
+    "end_char": 3140,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3",
+    "fraction": "XIII",
+    "start_char": 3140,
+    "end_char": 3210,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:sustancias-sujetas-a-reporte-de-competencia-federal",
+    "term": "Sustancias sujetas a reporte de competencia federal",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3",
+    "fraction": "XIV",
+    "start_char": 3210,
+    "end_char": 3726,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:transferencia",
+    "term": "Transferencia",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3",
+    "fraction": "XV",
+    "start_char": 3726,
+    "end_char": 4102,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:umbral-de-reporte",
+    "term": "Umbral de reporte",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3",
+    "fraction": "XVI",
+    "start_char": 4102,
+    "end_char": 4377,
+    "basis": "express_definition"
+  }
+]

@@ -13,9 +13,11 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGCC_MRNE_281014
 source_sha256: 62420210c5aaffe687daf130a64ff506009625340c554bfb36d2f1b5dcac0192
 ---
 
+> Capítulo I
+
 # Artículo 7
 
-Las metodologías y procedimientos que, conforme al artículo [87](../../lgcc/markdown/articulo-87.md), fracción III de la Ley, aplicarán los Establecimientos Sujetos a Reporte para la medición, cálculo, o estimación de sus Emisiones Directas e Indirectas de Gases o Compuestos de Efecto Invernadero, se basarán en la aplicación de metodologías de:
+Las metodologías y procedimientos que, conforme al artículo [87](../../lgcc/markdown/articulo-87.md), fracción III de la Ley, aplicarán los Establecimientos Sujetos a Reporte para la medición, cálculo, o estimación de sus [Emisiones Directas](articulo-2.md) e Indirectas de Gases o Compuestos de Efecto Invernadero, se basarán en la aplicación de metodologías de:
 
 I. Cálculo mediante factores de Emisión, cuando las actividades a reportar correspondan o involucren, de manera enunciativa y no limitativa, a:
 
@@ -61,7 +63,7 @@ t. Producción de zinc, generación de energía eléctrica mediante procesos de 
 
 u. Procesos de producción de productos donde se empleen combustibles y de solventes con fines no energéticos;
 
-v. Procesos de combustión en automotores y vehículos autopropulsados; REGLAMENTO DE LA LEY GENERAL DE CAMBIO CLIMÁTICO EN MATERIA DEL REGISTRO NACIONAL DE EMISIONES w. Gestión de estiércol;
+v. Procesos de combustión en automotores y vehículos autopropulsados; w. Gestión de estiércol;
 
 x. Incineración abierta de residuos, o
 
@@ -81,7 +83,7 @@ e. En la fabricación, mantenimiento y eliminación de equipos y unidades de ref
 
 f. Por el uso de compuestos fluorados como agentes extintores;
 
-III. Las que determine el Panel Intergubernamental y que la Secretaría dé a conocer como metodologías aplicables mediante Acuerdo que para tal efecto expida y publique en el Diario Oficial de la Federación, para el caso en que las metodologías señaladas en las fracciones I y II que anteceden, no resulten técnicamente aplicables a la actividad a reportar o no existan metodologías para la medición, cálculo o estimación de alguna Emisión específica.
+III. Las que determine el [Panel Intergubernamental](articulo-2.md) y que la Secretaría dé a conocer como metodologías aplicables mediante Acuerdo que para tal efecto expida y publique en el Diario Oficial de la Federación, para el caso en que las metodologías señaladas en las fracciones I y II que anteceden, no resulten técnicamente aplicables a la actividad a reportar o no existan metodologías para la medición, cálculo o estimación de alguna Emisión específica.
 
 Los Establecimientos Sujetos a Reporte podrán presentar, a consideración de la Secretaría, metodologías alternativas para la medición, cálculo o estimación de sus Emisiones, cuando para garantizar la precisión en la información requieran sistemas, instrumentos o cualquier otro elemento técnicamente análogo en función de la actividad generadora de Gases o Compuestos de Efecto Invernadero.
 

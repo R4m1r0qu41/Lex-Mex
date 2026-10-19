@@ -17,4 +17,4 @@ source_sha256: c7790df38b773b04e4769459d5fd49cca5b7a5b4955f7618632117275259071f
 
 # Artículo 64
 
-La Secretaría promoverá la creación de fondos, fideicomisos u otros instrumentos económicos de carácter financiero, a efecto de canalizar a éstos los recursos que se obtengan en virtud de la aplicación de las disposiciones de la Ley, este Reglamento y los demás ordenamientos que de ella se deriven de manera eficaz y transparente.
+La [Secretaría](articulo-3o.md) promoverá la creación de fondos, fideicomisos u otros instrumentos económicos de carácter financiero, a efecto de canalizar a éstos los recursos que se obtengan en virtud de la aplicación de las disposiciones de la [Ley](articulo-3o.md), este [Reglamento](articulo-3o.md) y los demás ordenamientos que de ella se deriven de manera eficaz y transparente.

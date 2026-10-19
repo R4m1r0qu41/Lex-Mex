@@ -17,6 +17,6 @@ source_sha256: cf47ab93fdea40d2b3e41b58784df62f89dd90b4482dd3b7f25adc7f6957036b
 
 # Artículo 44
 
-La Secretaría, mediante acuerdos de coordinación, promoverá ante las entidades federativas y los Municipios, la incorporación de sus sistemas de monitoreo, así como de sus inventarios de zonas y fuentes de jurisdicción local, al Sistema Nacional de Información de la Calidad del Aire.
+La [Secretaría](articulo-6o.md), mediante acuerdos de coordinación, promoverá ante las entidades federativas y los Municipios, la incorporación de sus sistemas de monitoreo, así como de sus inventarios de zonas y fuentes de jurisdicción local, al Sistema Nacional de Información de la Calidad del Aire.
 
 Artículo reformado DOF 31-10-2014

@@ -19,4 +19,4 @@ source_sha256: cf47ab93fdea40d2b3e41b58784df62f89dd90b4482dd3b7f25adc7f6957036b
 
 Las emisiones de contaminantes atmosféricos que se generen por las fuentes fijas de jurisdicción federal, deberán canalizarse a través de ductos o chimeneas de descarga.
 
-Cuando por razones de índole técnica no pueda cumplirse con lo dispuesto por este articulo, el responsable de la fuente deberá presentar a la Secretaría un estudio justificativo para que ésta determine lo conducente.
+Cuando por razones de índole técnica no pueda cumplirse con lo dispuesto por este articulo, el responsable de la fuente deberá presentar a la [Secretaría](articulo-6o.md) un estudio justificativo para que ésta determine lo conducente.

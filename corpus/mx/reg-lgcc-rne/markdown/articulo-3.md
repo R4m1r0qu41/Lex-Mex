@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGCC_MRNE_281014
 source_sha256: 62420210c5aaffe687daf130a64ff506009625340c554bfb36d2f1b5dcac0192
 ---
 
+> Capítulo I
+
 # Artículo 3
 
 Para los efectos del artículo [87](../../lgcc/markdown/articulo-87.md), segundo párrafo de la Ley se identifican como sectores y subsectores en los que se agrupan los Establecimientos Sujetos a Reporte, los siguientes:
@@ -35,7 +37,7 @@ d. Subsector transporte terrestre;
 
 III. Sector Industrial:
 
-a. Subsector industria química; REGLAMENTO DE LA LEY GENERAL DE CAMBIO CLIMÁTICO EN MATERIA DEL REGISTRO NACIONAL DE EMISIONES b. Subsector industria siderúrgica;
+a. Subsector industria química; b. Subsector industria siderúrgica;
 
 c. Subsector industria metalúrgica;
 
@@ -85,7 +87,7 @@ b. Subsector comercio;
 
 c. Subsector servicios educativos;
 
-d. Subsector actividades recreativas y entretenimiento; REGLAMENTO DE LA LEY GENERAL DE CAMBIO CLIMÁTICO EN MATERIA DEL REGISTRO NACIONAL DE EMISIONES e. Subsector turismo;
+d. Subsector actividades recreativas y entretenimiento; e. Subsector turismo;
 
 f. Subsector servicios médicos;
 

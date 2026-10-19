@@ -15,4 +15,4 @@ source_sha256: c7790df38b773b04e4769459d5fd49cca5b7a5b4955f7618632117275259071f
 
 # Primero
 
-El presente reglamento entrará en vigor treinta días naturales después de su publicación en el Diario Oficial de la Federación. REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE EVALUACIÓN DEL IMPACTO AMBIENTAL
+El presente reglamento entrará en vigor treinta días naturales después de su publicación en el Diario Oficial de la Federación.

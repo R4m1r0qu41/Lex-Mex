@@ -17,6 +17,6 @@ source_sha256: c7790df38b773b04e4769459d5fd49cca5b7a5b4955f7618632117275259071f
 
 # Artículo 9o
 
-Los promoventes deberán presentar ante la Secretaría una manifestación de impacto ambiental, en la modalidad que corresponda, para que ésta realice la evaluación del proyecto de la obra o actividad respecto de la que se solicita autorización. REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE EVALUACIÓN DEL IMPACTO AMBIENTAL La Información que contenga la manifestación de impacto ambiental deberá referirse a circunstancias ambientales relevantes vinculadas con la realización del proyecto.
+Los promoventes deberán presentar ante la [Secretaría](articulo-3o.md) una manifestación de impacto ambiental, en la modalidad que corresponda, para que ésta realice la evaluación del proyecto de la obra o actividad respecto de la que se solicita autorización. La Información que contenga la manifestación de impacto ambiental deberá referirse a circunstancias ambientales relevantes vinculadas con la realización del proyecto.
 
 La Secretaría proporcionará a los promoventes guías para facilitar la presentación y entrega de la manifestación de impacto ambiental de acuerdo al tipo de obra o actividad que se pretenda llevar a cabo. La Secretaría publicará dichas guías en el Diario Oficial de la Federación y en la Gaceta Ecológica.

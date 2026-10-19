@@ -17,4 +17,4 @@ source_sha256: cf47ab93fdea40d2b3e41b58784df62f89dd90b4482dd3b7f25adc7f6957036b
 
 # Artículo 51
 
-Cuando por infracción a las disposiciones de la Ley y del Reglamento en materia de contaminación a la atmósfera se hubieren ocasionado daños o perjuicios, el o los interesados podrán solicitar a la Secretaría la formulación de un dictamen técnico al respecto.
+Cuando por infracción a las disposiciones de la [Ley](articulo-6o.md) y del [Reglamento](articulo-6o.md) en materia de contaminación a la atmósfera se hubieren ocasionado daños o perjuicios, el o los interesados podrán solicitar a la [Secretaría](articulo-6o.md) la formulación de un dictamen técnico al respecto.

@@ -17,7 +17,7 @@ source_sha256: d50b44df321cf8be51375c07cee5dbcf03eac76df1cd11ab4bd777c9fce0f789
 
 # Artículo 23
 
-A través del Certificado, la Procuraduría o, en su caso, la Agencia, según corresponda, reconocen que al momento de su otorgamiento, la Empresa opera en pleno cumplimiento de la regulación ambiental y que su Desempeño Ambiental es conforme con los Términos de Referencia.
+A través del [Certificado](articulo-2.md), la [Procuraduría](articulo-2.md) o, en su caso, la [Agencia](articulo-2.md), según corresponda, reconocen que al momento de su otorgamiento, la [Empresa](articulo-2.md) opera en pleno cumplimiento de la regulación ambiental y que su [Desempeño Ambiental](articulo-2.md) es conforme con los [Términos de Referencia](articulo-2.md).
 
 Durante la vigencia del Certificado, la Empresa deberá operar en pleno cumplimiento de la regulación ambiental y su Desempeño Ambiental deberá ser conforme con los Términos de Referencia. En su caso, si derivado de una denuncia o de un programa de verificación de las empresas certificadas, la Procuraduría o, en su caso, la Agencia, según corresponda, determinan que la Empresa no cumple con lo estipulado en el presente párrafo, perderá el derecho de uso del Certificado y publicidad del sello respectivo.
 

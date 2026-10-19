@@ -17,13 +17,13 @@ source_sha256: d50b44df321cf8be51375c07cee5dbcf03eac76df1cd11ab4bd777c9fce0f789
 
 # Artículo 8
 
-Para los efectos de la fracción I del artículo [38 BIS](../../lgeepa/markdown/articulo-38-BIS.md) de la Ley, las Auditorías Ambientales se realizarán conforme a los Términos de Referencia señalados en este Reglamento y a través de un Auditor Ambiental que cuente con su acreditación y aprobación vigentes y libres de cualquier tipo de sanción o restricción.
+Para los efectos de la fracción I del artículo [38 BIS](../../lgeepa/markdown/articulo-38-BIS.md) de la [Ley](articulo-2.md), las [Auditorías Ambientales](articulo-2.md) se realizarán conforme a los [Términos de Referencia](articulo-2.md) señalados en este Reglamento y a través de un [Auditor Ambiental](articulo-2.md) que cuente con su acreditación y aprobación vigentes y libres de cualquier tipo de sanción o restricción.
 
 Los Términos de Referencia para la realización de Auditorías Ambientales describirán:
 
-I. La metodología para realizar Auditorías Ambientales y Diagnósticos Ambientales que de manera enunciativa y no limitativa, pueden ser: planeación, ejecución y elaboración del informe;
+I. La metodología para realizar Auditorías Ambientales y [Diagnósticos Ambientales](articulo-2.md) que de manera enunciativa y no limitativa, pueden ser: planeación, ejecución y elaboración del informe;
 
-II. Los requisitos y parámetros para evaluar y determinar los niveles de Desempeño Ambiental de una Empresa en las siguientes materias: REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE AUTORREGULACIÓN Y AUDITORÍAS AMBIENTALES a. Aire y Ruido;
+II. Los requisitos y parámetros para evaluar y determinar los niveles de [Desempeño Ambiental](articulo-2.md) de una [Empresa](articulo-2.md) en las siguientes materias: a. Aire y Ruido;
 
 b. Agua;
 
@@ -39,15 +39,15 @@ g. Vida Silvestre;
 
 h. Recursos Forestales;
 
-i. Riesgo Ambiental;
+i. [Riesgo Ambiental](articulo-2.md);
 
 j. Gestión Ambiental, y
 
-k. Emergencias Ambientales.
+k. [Emergencias Ambientales](articulo-2.md).
 
 III. Las materias que deberán ser verificadas por el Auditor Ambiental, de acuerdo al giro de la Empresa, tamaño y complejidad de su actividad o proceso de producción;
 
-IV. El procedimiento y requisitos para elaborar un Reporte de Desempeño Ambiental de la Empresa, y
+IV. El procedimiento y requisitos para elaborar un [Reporte de Desempeño Ambiental](articulo-2.md) de la Empresa, y
 
 V. El procedimiento para evaluar el desempeño de los Auditores Ambientales.
 

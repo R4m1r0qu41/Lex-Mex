@@ -17,7 +17,7 @@ source_sha256: f135d534dcd7a2734bc7f44e9381e7173c7d8033e1df75a2d4fb132d956e848b
 
 # Artículo 75
 
-Las instituciones de salud a que se refiere el artículo [98](articulo-98.md) de este Reglamento, en las que se realicen investigaciones con microorganismos patógenos o material biológico que pueda contenerlos, deberán: REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE INVESTIGACION PARA LA SALUD I. Contar con las instalaciones y equipo de laboratorio de acuerdo a las normas técnicas que al efecto emita la Secretaría, que garanticen la contención física idónea para el manejo seguro de tales gérmenes;
+Las instituciones de salud a que se refiere el artículo [98](articulo-98.md) de este Reglamento, en las que se realicen investigaciones con microorganismos patógenos o material biológico que pueda contenerlos, deberán: I. Contar con las instalaciones y equipo de laboratorio de acuerdo a las normas técnicas que al efecto emita la Secretaría, que garanticen la contención física idónea para el manejo seguro de tales gérmenes;
 
 II. Elaborar un manual de procedimientos para los laboratorios de microbiología y ponerlo a la disposición del personal profesional, técnico, de servicio y de mantenimiento;
 

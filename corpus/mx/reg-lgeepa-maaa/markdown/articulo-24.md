@@ -17,13 +17,13 @@ source_sha256: d50b44df321cf8be51375c07cee5dbcf03eac76df1cd11ab4bd777c9fce0f789
 
 # Artículo 24
 
-La Empresa interesada en renovar su Certificado deberá hacerlo con al menos sesenta días hábiles previos a la fecha de vencimiento de su Certificado, a través de una solicitud que contendrá la siguiente información:
+La [Empresa](articulo-2.md) interesada en renovar su [Certificado](articulo-2.md) deberá hacerlo con al menos sesenta días hábiles previos a la fecha de vencimiento de su Certificado, a través de una solicitud que contendrá la siguiente información:
 
 I. El número de registro que se le otorgó a la Empresa al solicitar por primera vez su Certificado y en su caso, la actualización de los datos contenidos en dicha solicitud, y
 
-II. La documentación que acredite el Desempeño Ambiental, que será:
+II. La documentación que acredite el [Desempeño Ambiental](articulo-2.md), que será:
 
-a. Un Informe del Diagnóstico Ambiental que demuestre que el desempeño de la Empresa es conforme con los Términos de Referencia que corresponden al Certificado que se pretende renovar, especificando el nombre del Auditor Ambiental y su número de aprobación, el nombre y la clave del Auditor Coordinador y, en su caso, el de los Auditores Especialistas, indicando la o las materias en las que participaron en el Diagnóstico Ambiental, o REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE AUTORREGULACIÓN Y AUDITORÍAS AMBIENTALES b. Un Reporte de Desempeño Ambiental en los términos de lo previsto en el [artículo siguiente](articulo-25.md).
+a. Un Informe del [Diagnóstico Ambiental](articulo-2.md) que demuestre que el desempeño de la Empresa es conforme con los [Términos de Referencia](articulo-2.md) que corresponden al Certificado que se pretende renovar, especificando el nombre del [Auditor Ambiental](articulo-2.md) y su número de aprobación, el nombre y la clave del [Auditor Coordinador](articulo-2.md) y, en su caso, el de los [Auditores Especialistas](articulo-2.md), indicando la o las materias en las que participaron en el Diagnóstico Ambiental, o b. Un [Reporte de Desempeño Ambiental](articulo-2.md) en los términos de lo previsto en el [artículo siguiente](articulo-25.md).
 
 Cuando se trate de la renovación de un Certificado con un nivel superior al vigente, la Empresa deberá presentar la información descrita en las fracciones I y II, inciso a) del presente artículo.
 

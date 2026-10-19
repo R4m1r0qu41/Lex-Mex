@@ -13,8 +13,10 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGEEPA_MRETC_311
 source_sha256: 71c334347de911b670b7e920a44db19f2555f611203ec25d227733687972f424
 ---
 
+> Capítulo II · Sección III
+
 # Artículo 14
 
-Las Cédulas recibidas en el Registro por medio impreso o electrónico, a través del Espacio de Contacto Ciudadano, así como las Cédulas que sean remitidas por las Delegaciones Federales y Coordinaciones Regionales o, en su caso, por la Agencia, se ordenarán conforme a los datos de identificación del establecimiento. Párrafo reformado DOF 31-10-2014
+Las [Cédulas](articulo-3o.md) recibidas en el [Registro](articulo-3o.md) por medio impreso o electrónico, a través del [Espacio de Contacto Ciudadano](articulo-3o.md), así como las Cédulas que sean remitidas por las [Delegaciones Federales y Coordinaciones Regionales](articulo-3o.md) o, en su caso, por la [Agencia](articulo-3o.md), se ordenarán conforme a los datos de identificación del establecimiento. Párrafo reformado DOF 31-10-2014
 
-Al integrar las Cédulas a la Base de datos se asentará la fecha, nombre, firma o clave de identificación electrónica del servidor público que realice la integración.
+Al integrar las Cédulas a la [Base de datos](articulo-3o.md) se asentará la fecha, nombre, firma o clave de identificación electrónica del servidor público que realice la integración.

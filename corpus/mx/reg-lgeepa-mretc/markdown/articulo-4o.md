@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGEEPA_MRETC_311
 source_sha256: 71c334347de911b670b7e920a44db19f2555f611203ec25d227733687972f424
 ---
 
+> Capítulo II · Sección I
+
 # Artículo 4o
 
-La información de la Base de datos del Registro se integrará con los datos y documentos contenidos en las autorizaciones, cédulas, informes, reportes, licencias, permisos y concesiones que en materia ambiental se tramiten ante la Secretaría, o ante la autoridad competente del Gobierno del Distrito Federal, de los Estados y, en su caso, de los Municipios.
+La información de la [Base de datos](articulo-3o.md) del [Registro](articulo-3o.md) se integrará con los datos y documentos contenidos en las autorizaciones, cédulas, informes, reportes, licencias, permisos y concesiones que en materia ambiental se tramiten ante la [Secretaría](articulo-3o.md), o ante la autoridad competente del Gobierno del Distrito Federal, de los Estados y, en su caso, de los Municipios.

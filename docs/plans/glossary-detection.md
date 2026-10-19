@@ -146,6 +146,13 @@ send a Codex review packet.
 
 ## Current checkpoint
 
+2026-10-19 (six header holds): `reg-lgcc-rne`, `reg-lgeepa-maaa`, `-meia`,
+`-mpcca`, `-mretc` and `reg-lgs-investigacion` were held only because of their July
+parses. A plain reparse with the current parser releases them (99 terms), with no
+adapter change. One parser fix was needed (colon-form redacted decree article,
+mretc). 12 glossaries remain held. Imports for rne, meia and mpcca follow
+separately; maaa and mretc imports wait for operator rulings.
+
 2026-10-18 (rfar): `reg-lss-rfar` was reparsed with three `header_lines`, which
 removed its header from fraction IV. It now adopts LSS 5 A (79 → 123 usages, with
 its own 4 terms unchanged). All three `reg-lss-*` importers of 5 A are configured.

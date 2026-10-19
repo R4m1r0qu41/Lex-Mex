@@ -17,11 +17,11 @@ source_sha256: c7790df38b773b04e4769459d5fd49cca5b7a5b4955f7618632117275259071f
 
 # Artículo 5o
 
-Quienes pretendan llevar a cabo alguna de las siguientes obras o actividades, requerirán previamente la autorización de la Secretaría en materia de impacto ambiental:
+Quienes pretendan llevar a cabo alguna de las siguientes obras o actividades, requerirán previamente la autorización de la [Secretaría](articulo-3o.md) en materia de impacto ambiental:
 
 A) HIDRÁULICAS:
 
-I. Presas de almacenamiento, derivadoras y de control de avenidas con capacidad mayor de 1 millón de metros cúbicos, jagüeyes y otras obras para la captación de aguas pluviales, canales y cárcamos de bombeo, con excepción de aquellas que se ubiquen fuera de ecosistemas frágiles, Áreas Naturales Protegidas y regiones consideradas prioritarias por su biodiversidad y no impliquen la inundación o remoción de vegetación arbórea o de asentamientos humanos, la afectación del hábitat de especies REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE EVALUACIÓN DEL IMPACTO AMBIENTAL incluidas en alguna categoría de protección, el desabasto de agua a las comunidades aledañas, o la limitación al libre tránsito de poblaciones naturales, locales o migratorias;
+I. Presas de almacenamiento, derivadoras y de control de avenidas con capacidad mayor de 1 millón de metros cúbicos, jagüeyes y otras obras para la captación de aguas pluviales, canales y cárcamos de bombeo, con excepción de aquellas que se ubiquen fuera de ecosistemas frágiles, Áreas Naturales Protegidas y regiones consideradas prioritarias por su biodiversidad y no impliquen la inundación o remoción de vegetación arbórea o de asentamientos humanos, la afectación del hábitat de especies incluidas en alguna categoría de protección, el desabasto de agua a las comunidades aledañas, o la limitación al libre tránsito de poblaciones naturales, locales o migratorias;
 
 II. Unidades hidroagrícolas o de temporal tecnificado mayores de 100 hectáreas;
 
@@ -37,7 +37,7 @@ a) Descarguen líquidos hasta un máximo de 100 litros por segundo, incluyendo l
 
 b) En su tratamiento no realicen actividades consideradas altamente riesgosas, y
 
-c) No le resulte aplicable algún otro supuesto del artículo [28](../../lgeepa/markdown/articulo-28.md) de la Ley; Fracción reformada DOF 26-04-2012
+c) No le resulte aplicable algún otro supuesto del artículo [28](../../lgeepa/markdown/articulo-28.md) de la [Ley](articulo-3o.md); Fracción reformada DOF 26-04-2012
 
 VII. Depósito o relleno con materiales para ganar terreno al mar o a otros cuerpos de aguas nacionales;
 
@@ -57,7 +57,7 @@ XIV. Apertura de bocas de intercomunicación lagunar marítimas.
 
 B) VÍAS GENERALES DE COMUNICACIÓN:
 
-Construcción de carreteras, autopistas, puentes o túneles federales vehiculares o ferroviarios; puertos, vías férreas, aeropuertos, helipuertos, aeródromos e infraestructura mayor para REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE EVALUACIÓN DEL IMPACTO AMBIENTAL telecomunicaciones que afecten áreas naturales protegidas o con vegetación forestal, selvas, vegetación de zonas áridas, ecosistemas costeros o de humedales y cuerpos de agua nacionales, con excepción de:
+Construcción de carreteras, autopistas, puentes o túneles federales vehiculares o ferroviarios; puertos, vías férreas, aeropuertos, helipuertos, aeródromos e infraestructura mayor para telecomunicaciones que afecten áreas naturales protegidas o con vegetación forestal, selvas, vegetación de zonas áridas, ecosistemas costeros o de humedales y cuerpos de agua nacionales, con excepción de:
 
 a) La instalación de hilos, cables o fibra óptica para la transmisión de señales electrónicas sobre la franja que corresponde al derecho de vía, siempre que se aproveche la infraestructura existente; Subinciso reformado DOF 26-04-2012
 
@@ -85,7 +85,9 @@ IV. Construcción de centros de almacenamiento o distribución de hidrocarburos 
 
 V. Prospecciones sismológicas marinas distintas a las que utilizan pistones neumáticos; Fracción reformada DOF 31-10-2014
 
-VI. Prospecciones sismológicas terrestres excepto las que utilicen vibrosismos; Fracción reformada DOF 31-10-2014 REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE EVALUACIÓN DEL IMPACTO AMBIENTAL VII. Construcción y operación de instalaciones para el procesamiento, compresión, licuefacción, descompresión y regasificación, así como de instalaciones para el transporte, almacenamiento, distribución y expendio al público de gas natural; Fracción adicionada DOF 31-10-2014
+VI. Prospecciones sismológicas terrestres excepto las que utilicen vibrosismos; Fracción reformada DOF 31-10-2014
+
+VII. Construcción y operación de instalaciones para el procesamiento, compresión, licuefacción, descompresión y regasificación, así como de instalaciones para el transporte, almacenamiento, distribución y expendio al público de gas natural; Fracción adicionada DOF 31-10-2014
 
 VIII. Construcción y operación de instalaciones para transporte, almacenamiento, distribución y expendio al público de gas licuado de petróleo; Fracción adicionada DOF 31-10-2014
 
@@ -117,7 +119,7 @@ G) INDUSTRIA SIDERÚRGICA:
 
 Plantas para la fabricación, fundición, aleación, laminado y desbaste de hierro y acero, excepto cuando el proceso de fundición no esté integrado al de siderúrgica básica.
 
-H) INDUSTRIA PAPELERA: REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE EVALUACIÓN DEL IMPACTO AMBIENTAL Construcción de plantas para la fabricación de papel y otros productos a base de pasta de celulosa primaria o secundaria, con excepción de la fabricación de productos de papel, cartón y sus derivados cuando ésta no esté integrada a la producción de materias primas.
+H) INDUSTRIA PAPELERA: Construcción de plantas para la fabricación de papel y otros productos a base de pasta de celulosa primaria o secundaria, con excepción de la fabricación de productos de papel, cartón y sus derivados cuando ésta no esté integrada a la producción de materias primas.
 
 I) INDUSTRIA AZUCARERA:
 
@@ -147,7 +149,7 @@ II. Obras de exploración, excluyendo las de prospección gravimétrica, geológ
 
 III. Beneficio de minerales y disposición final de sus residuos en presas de jales, excluyendo las plantas de beneficio que no utilicen sustancias consideradas como peligrosas y el relleno hidráulico de obras mineras subterráneas.
 
-M) INSTALACIONES DE TRATAMIENTO, CONFINAMIENTO O ELIMINACIÓN DE RESIDUOS PELIGROSOS, ASÍ COMO RESIDUOS RADIOACTIVOS: REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE EVALUACIÓN DEL IMPACTO AMBIENTAL I. Construcción y operación de plantas para el confinamiento y centros de disposición final de residuos peligrosos;
+M) INSTALACIONES DE TRATAMIENTO, CONFINAMIENTO O ELIMINACIÓN DE RESIDUOS PELIGROSOS, ASÍ COMO RESIDUOS RADIOACTIVOS: I. Construcción y operación de plantas para el confinamiento y centros de disposición final de residuos peligrosos;
 
 II. Construcción y operación de plantas para el tratamiento, reuso, reciclaje o eliminación de residuos peligrosos, con excepción de aquellas en las que la eliminación de dichos residuos se realice dentro de las instalaciones del generador, en las que las aguas residuales del proceso de separación se destinen a la planta de tratamiento del generador y en las que los lodos producto del tratamiento sean dispuestos de acuerdo con las normas jurídicas aplicables, y
 
@@ -171,7 +173,7 @@ II. Reforestación o instalación de viveros con especies exóticas, híbridos o
 
 O) CAMBIOS DE USO DEL SUELO DE ÁREAS FORESTALES, ASÍ COMO EN SELVAS Y ZONAS ÁRIDAS:
 
-I. Cambio de uso del suelo para actividades agropecuarias, acuícolas, de desarrollo inmobiliario, de infraestructura urbana, de vías generales de comunicación o para el establecimiento de instalaciones comerciales, industriales o de servicios en predios con vegetación forestal, con excepción de la construcción de vivienda unifamiliar y del establecimiento de instalaciones comerciales o de servicios en predios menores a 1000 metros cuadrados, cuando su construcción no implique el derribo de arbolado en una superficie mayor a 500 metros cuadrados, o la eliminación o fragmentación del hábitat de ejemplares de flora o fauna sujetos a un régimen de protección especial de conformidad con las normas oficiales mexicanas y otros instrumentos jurídicos aplicables; REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE EVALUACIÓN DEL IMPACTO AMBIENTAL II. Cambio de uso del suelo de áreas forestales a cualquier otro uso, con excepción de las actividades agropecuarias de autoconsumo familiar, que se realicen en predios con pendientes inferiores al cinco por ciento, cuando no impliquen la agregación ni el desmonte de más del veinte por ciento de la superficie total y ésta no rebase 2 hectáreas en zonas templadas y 5 en zonas áridas, y
+I. Cambio de uso del suelo para actividades agropecuarias, acuícolas, de desarrollo inmobiliario, de infraestructura urbana, de vías generales de comunicación o para el establecimiento de instalaciones comerciales, industriales o de servicios en predios con vegetación forestal, con excepción de la construcción de vivienda unifamiliar y del establecimiento de instalaciones comerciales o de servicios en predios menores a 1000 metros cuadrados, cuando su construcción no implique el derribo de arbolado en una superficie mayor a 500 metros cuadrados, o la eliminación o fragmentación del hábitat de ejemplares de flora o fauna sujetos a un régimen de protección especial de conformidad con las normas oficiales mexicanas y otros instrumentos jurídicos aplicables; II. Cambio de uso del suelo de áreas forestales a cualquier otro uso, con excepción de las actividades agropecuarias de autoconsumo familiar, que se realicen en predios con pendientes inferiores al cinco por ciento, cuando no impliquen la agregación ni el desmonte de más del veinte por ciento de la superficie total y ésta no rebase 2 hectáreas en zonas templadas y 5 en zonas áridas, y
 
 III. Los demás cambios de uso del suelo, en terrenos o áreas con uso de suelo forestal, con excepción de la modificación de suelos agrícolas o pecuarios en forestales, agroforestales o silvopastoriles, mediante la utilización de especies nativas.
 
@@ -199,7 +201,7 @@ S) OBRAS EN ÁREAS NATURALES PROTEGIDAS:
 
 Cualquier tipo de obra o instalación dentro de las áreas naturales protegidas de competencia de la Federación, con excepción de:
 
-a) Las actividades de autoconsumo y uso doméstico, así como las obras que no requieran autorización en materia de impacto ambiental en los términos del presente artículo, siempre que se lleven a cabo por las comunidades asentadas en el área y de conformidad con lo dispuesto en el reglamento, el decreto y el programa de manejo respectivos; REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE EVALUACIÓN DEL IMPACTO AMBIENTAL b) Las que sean indispensables para la conservación, el mantenimiento y la vigilancia de las áreas naturales protegidas, de conformidad con la normatividad correspondiente;
+a) Las actividades de autoconsumo y uso doméstico, así como las obras que no requieran autorización en materia de impacto ambiental en los términos del presente artículo, siempre que se lleven a cabo por las comunidades asentadas en el área y de conformidad con lo dispuesto en el reglamento, el decreto y el programa de manejo respectivos; b) Las que sean indispensables para la conservación, el mantenimiento y la vigilancia de las áreas naturales protegidas, de conformidad con la normatividad correspondiente;
 
 c) Las obras de infraestructura urbana y desarrollo habitacional en las zonas urbanizadas que se encuentren dentro de áreas naturales protegidas, siempre que no rebasen los límites urbanos establecidos en los Planes de Desarrollo Urbano respectivos y no se encuentren prohibidos por las disposiciones jurídicas aplicables, y
 
@@ -227,4 +229,4 @@ Actividades agropecuarias de cualquier tipo cuando éstas impliquen el cambio de
 
 a) Las que tengan como finalidad el autoconsumo familiar, y
 
-b) Las que impliquen la utilización de las técnicas y metodologías de la agricultura orgánica. REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE EVALUACIÓN DEL IMPACTO AMBIENTAL
+b) Las que impliquen la utilización de las técnicas y metodologías de la agricultura orgánica.

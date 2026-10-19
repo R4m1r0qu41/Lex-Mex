@@ -17,6 +17,6 @@ source_sha256: f135d534dcd7a2734bc7f44e9381e7173c7d8033e1df75a2d4fb132d956e848b
 
 # Artículo 104
 
-Los Comités de Ética en Investigación se integrarán por personal médico de distintas especialidades y por personas de las profesiones de psicología, enfermería, trabajo social, REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE INVESTIGACION PARA LA SALUD sociología, antropología, filosofía o derecho que cuenten con capacitación en bioética, siendo imprescindible contar con representantes del núcleo afectado o de personas usuarias de los servicios de salud, hasta el número convenido por sus miembros, de conformidad con las disposiciones generales que al efecto emita la Secretaría.
+Los Comités de Ética en Investigación se integrarán por personal médico de distintas especialidades y por personas de las profesiones de psicología, enfermería, trabajo social, sociología, antropología, filosofía o derecho que cuenten con capacitación en bioética, siendo imprescindible contar con representantes del núcleo afectado o de personas usuarias de los servicios de salud, hasta el número convenido por sus miembros, de conformidad con las disposiciones generales que al efecto emita la Secretaría.
 
 Artículo reformado DOF 02-04-2014

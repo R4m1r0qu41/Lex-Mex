@@ -13,11 +13,11 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGEEPA_MAAA_3110
 source_sha256: d50b44df321cf8be51375c07cee5dbcf03eac76df1cd11ab4bd777c9fce0f789
 ---
 
-> Capítulo SEGUNDO · Sección III
+> Capítulo SEGUNDO · Sección IV
 
 # Artículo 36
 
-El Auditor Ambiental deberá tener acreditado y aprobado al menos un Auditor Coordinador y podrá tener Auditores Especialistas acreditados y aprobados en las siguientes especialidades:
+El [Auditor Ambiental](articulo-2.md) deberá tener acreditado y aprobado al menos un [Auditor Coordinador](articulo-2.md) y podrá tener [Auditores Especialistas](articulo-2.md) acreditados y aprobados en las siguientes especialidades:
 
 a. Agua;
 
@@ -33,8 +33,8 @@ f. Vida Silvestre;
 
 g. Recursos Forestales, y
 
-h. Riesgo y Emergencias Ambientales.
+h. Riesgo y [Emergencias Ambientales](articulo-2.md).
 
-El Auditor Coordinador, será el responsable de la planeación, coordinación, dirección de una Auditoría Ambiental, Diagnóstico Ambiental y Verificación del cumplimiento del Plan de Acción; asimismo, el Auditor Especialista será el responsable de la evaluación de al menos una de las materias establecidas en el artículo [8](articulo-8.md) del presente Reglamento.
+El Auditor Coordinador, será el responsable de la planeación, coordinación, dirección de una [Auditoría Ambiental](articulo-2.md), [Diagnóstico Ambiental](articulo-2.md) y Verificación del cumplimiento del [Plan de Acción](articulo-2.md); asimismo, el Auditor Especialista será el responsable de la evaluación de al menos una de las materias establecidas en el artículo [8](articulo-8.md) del presente Reglamento.
 
 La función del Auditor Coordinador y de Auditor Especialista podrá recaer en una sola persona, cuando así lo requiera el Auditor Ambiental.

@@ -13,10 +13,12 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGEEPA_MRETC_311
 source_sha256: 71c334347de911b670b7e920a44db19f2555f611203ec25d227733687972f424
 ---
 
+> Capítulo V
+
 # Artículo 30
 
-La Secretaría, por conducto de la Procuraduría Federal de Protección al Ambiente o de la Agencia, en el ámbito de sus respectivas competencias, realizará actos de inspección y vigilancia en los Establecimientos sujetos a reporte de competencia federal para verificar la información proporcionada por los Establecimientos sujetos a reporte de competencia federal, así como su entrega en tiempo y forma.
+La [Secretaría](articulo-3o.md), por conducto de la Procuraduría Federal de Protección al Ambiente o de la [Agencia](articulo-3o.md), en el ámbito de sus respectivas competencias, realizará actos de inspección y vigilancia en los Establecimientos sujetos a reporte de competencia federal para verificar la información proporcionada por los Establecimientos sujetos a reporte de competencia federal, así como su entrega en tiempo y forma.
 
-Cuando del procedimiento de inspección y vigilancia se desprendan infracciones a la normatividad ambiental, la Secretaría, por conducto de la Procuraduría Federal de Protección al Ambiente o de la Agencia, en el ámbito de sus respectivas competencias, procederá conforme a lo establecido en la Ley y las disposiciones que de ella deriven.
+Cuando del procedimiento de inspección y vigilancia se desprendan infracciones a la normatividad ambiental, la Secretaría, por conducto de la Procuraduría Federal de Protección al Ambiente o de la Agencia, en el ámbito de sus respectivas competencias, procederá conforme a lo establecido en la [Ley](articulo-3o.md) y las disposiciones que de ella deriven.
 
 Artículo reformado DOF 31-10-2014

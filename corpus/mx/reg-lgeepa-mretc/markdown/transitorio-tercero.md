@@ -15,4 +15,4 @@ source_sha256: 71c334347de911b670b7e920a44db19f2555f611203ec25d227733687972f424
 
 # Tercero
 
-La lista de sustancias sujetas a reporte de competencia federal será determinada en el Acuerdo que emita el Titular de la Secretaría, mismo que tendrá una vigencia no mayor a dos años hasta en tanto se expida la Norma Oficial Mexicana correspondiente.
+La lista de sustancias sujetas a reporte de competencia federal será determinada en el Acuerdo que emita el Titular de la [Secretaría](articulo-3o.md), mismo que tendrá una vigencia no mayor a dos años hasta en tanto se expida la Norma Oficial Mexicana correspondiente.
