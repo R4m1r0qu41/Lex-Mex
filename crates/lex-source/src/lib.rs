@@ -92,8 +92,11 @@ pub struct GlossaryConfig {
     pub provision_suffix: String,
     /// `fractions` (`I. Término, a …`), `colon_entries` (`Término: a …`),
     /// `roman_colon` (`I. Término: …`), `mixed_fractions` (reviewed
-    /// comma/colon entries) or `quoted_respectively` (one `…los vocablos
-    /// "A" y "B", se entenderá que se refiere a X y a Y, respectivamente.`).
+    /// comma/colon entries), `quoted_respectively` (one `…los vocablos
+    /// "A" y "B", se entenderá que se refiere a X y a Y, respectivamente.`),
+    /// or an auto-detection grammar applied to this provision:
+    /// `auto_established` (`…se entenderá por:`) or `auto_whole` (the wider
+    /// grammar, accepted only whole).
     pub style: String,
     /// Instruments whose glossaries this one is expressly additive to, in
     /// resolution-priority order after the instrument's own terms. The DCG
@@ -105,6 +108,19 @@ pub struct GlossaryConfig {
     /// quotes, as `reg-lan` writes `"Ley"`.
     #[serde(default, skip_serializing_if = "Option::is_none")]
     pub usage_form: Option<String>,
+    /// Further glossary provisions of the same instrument, each defining a
+    /// different set of terms (`lss` Article 159 adds to Article 5 A). Their
+    /// terms add to this glossary's; a term defined in two of them is an
+    /// error.
+    #[serde(default, skip_serializing_if = "Vec::is_empty")]
+    pub additional_provisions: Vec<GlossaryProvisionConfig>,
+}
+
+/// One further glossary provision and its style (see [`GlossaryConfig`]).
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct GlossaryProvisionConfig {
+    pub provision_suffix: String,
+    pub style: String,
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize)]

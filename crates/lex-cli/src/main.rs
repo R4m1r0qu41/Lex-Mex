@@ -25,10 +25,10 @@ use lex_export::{
 use lex_parse::{
     Commencement, CorpusExpectations, CorpusView, DiputadosOptions, GlossaryStyle,
     InstrumentContextPolicy, ReferenceOptions, audit_pdf, derive_article_temporal_determinations,
-    detect_glossary, extract_doc, extract_html_text, extract_internal_references, extract_pdf,
-    extract_quoted_term_usages, extract_references, extract_term_usages, extract_terms,
-    find_admitted_furniture, find_glossary_provision, parse_dcg, parse_itf_dcg,
-    repair_article_dates, repair_partial_repeals, validate_corpus,
+    detect_glossary, extract_doc, extract_glossaries, extract_html_text,
+    extract_internal_references, extract_pdf, extract_quoted_term_usages, extract_references,
+    extract_term_usages, find_admitted_furniture, find_glossary_provision, parse_dcg,
+    parse_itf_dcg, repair_article_dates, repair_partial_repeals, validate_corpus,
 };
 use lex_source::{
     SourceConfig, SourceFormat, discover, fetch, fetch_annex, fetch_formal, load_batch_manifest,
@@ -2311,7 +2311,9 @@ fn preserve_verified_provisions(paths: &Paths, corpus: &Corpus) -> Result<()> {
 /// A glossary that is expressly additive to another instrument's glossary
 /// (the DCG's Article 1 opens "además de los términos utilizados en la
 /// Ley…") resolves usages against its own terms first, then the terms of
-/// each instrument listed in `additive_to`, in order.
+/// each instrument listed in `additive_to`, in order. An instrument may
+/// configure further glossary provisions (`additional_provisions`), each
+/// defining a different set of terms; their terms add to the first's.
 fn extract_instrument_terms(
     context: &InstrumentContext,
     provisions: &[lex_core::Provision],
@@ -2322,25 +2324,29 @@ fn extract_instrument_terms(
     // auto-detected (`detect_glossary`), so bulk instruments get their
     // defined terms linked without hand-config. A detected glossary that is
     // incomplete is held with no terms and reported here.
-    let (terms, additive_to): (Vec<lex_core::DefinedTerm>, &[String]) = if let Some(glossary) =
-        &context.config.glossary
-    {
-        let style = GlossaryStyle::from_config(&glossary.style)?;
-        let glossary_provision = find_glossary_provision(provisions, &glossary.provision_suffix)?;
-        (
-            extract_terms(glossary_provision, style)?,
-            &glossary.additive_to,
-        )
-    } else {
-        let detection = detect_glossary(provisions)?;
-        if let Some((provision_id, reason)) = &detection.held {
-            eprintln!(
-                "{}: glossary held with no terms at {provision_id}: {reason}",
-                context.config.slug
-            );
-        }
-        (detection.terms, &[][..])
-    };
+    let (terms, additive_to): (Vec<lex_core::DefinedTerm>, &[String]) =
+        if let Some(glossary) = &context.config.glossary {
+            let mut configured = vec![(
+                find_glossary_provision(provisions, &glossary.provision_suffix)?,
+                GlossaryStyle::from_config(&glossary.style)?,
+            )];
+            for additional in &glossary.additional_provisions {
+                configured.push((
+                    find_glossary_provision(provisions, &additional.provision_suffix)?,
+                    GlossaryStyle::from_config(&additional.style)?,
+                ));
+            }
+            (extract_glossaries(&configured)?, &glossary.additive_to)
+        } else {
+            let detection = detect_glossary(provisions)?;
+            if let Some((provision_id, reason)) = &detection.held {
+                eprintln!(
+                    "{}: glossary held with no terms at {provision_id}: {reason}",
+                    context.config.slug
+                );
+            }
+            (detection.terms, &[][..])
+        };
     if terms.is_empty() {
         return Ok((Vec::new(), Vec::new()));
     }

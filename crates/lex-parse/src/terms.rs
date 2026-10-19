@@ -11,7 +11,11 @@
 //! `mixed_fractions` (reviewed comma/colon entries), and
 //! `quoted_respectively`, which reads the single sentence `…los vocablos "A",
 //! "B" y "C", se entenderá que se refiere a X, a Y y a Z, respectivamente.`
-//! (`reg-lan` Article 1).
+//! (`reg-lan` Article 1). Two further styles apply an auto-detection
+//! grammar to one named provision: `auto_established` (the established
+//! `se entenderá por:` pass) and `auto_whole` (the wider pass, accepted only
+//! whole). An instrument may configure several glossary provisions, each
+//! defining a different set of terms (`lss` Articles 5 A and 159).
 //!
 //! Usage linking is deterministic and case-sensitive: an occurrence matches
 //! a term exactly or through one generated singular/plural variant, at word
@@ -19,6 +23,8 @@
 //! instrument's glossary (the DCG defines its terms "además de los términos
 //! utilizados en la Ley…"), so resolution tries the instrument's own terms
 //! before earlier instruments' terms.
+
+use std::sync::LazyLock;
 
 use anyhow::{Context, Result, bail};
 use lex_core::{Basis, DefinedTerm, Provision, ProvisionType, SCHEMA_VERSION, TermUsage};
@@ -39,6 +45,14 @@ pub enum GlossaryStyle {
     /// a Z, respectivamente.` — each quoted vocable is a term and the whole
     /// sentence is every term's definition span.
     QuotedRespectively,
+    /// The established auto-detection grammar (`…se entenderá por:` and
+    /// Roman fractions, delimiter taken from the first entry) applied to
+    /// the configured provision, exactly as [`detect_glossary`] applies it.
+    AutoEstablished,
+    /// The wider auto-detection grammar applied to the configured
+    /// provision. The glossary is accepted only whole; an incomplete one is
+    /// an error, not a partial set.
+    AutoWhole,
 }
 
 impl GlossaryStyle {
@@ -49,6 +63,8 @@ impl GlossaryStyle {
             "roman_colon" => Ok(Self::RomanColon),
             "mixed_fractions" => Ok(Self::MixedFractions),
             "quoted_respectively" => Ok(Self::QuotedRespectively),
+            "auto_established" => Ok(Self::AutoEstablished),
+            "auto_whole" => Ok(Self::AutoWhole),
             other => bail!("unsupported glossary style {other:?}"),
         }
     }
@@ -66,8 +82,43 @@ pub fn extract_terms(provision: &Provision, style: GlossaryStyle) -> Result<Vec<
         GlossaryStyle::RomanColon => roman_colon_entries(provision)?,
         GlossaryStyle::MixedFractions => mixed_fraction_entries(provision)?,
         GlossaryStyle::QuotedRespectively => quoted_respectively_entries(provision)?,
+        GlossaryStyle::AutoEstablished => {
+            let terms = established_glossary_terms(provision)?;
+            if terms.is_empty() {
+                bail!("no glossary detected at {}", provision.id);
+            }
+            return Ok(terms);
+        }
+        GlossaryStyle::AutoWhole => match wider_glossary_entries(provision) {
+            Some(Ok(entries)) => entries,
+            Some(Err(reason)) => bail!("glossary at {} is incomplete: {reason}", provision.id),
+            None => bail!("no glossary detected at {}", provision.id),
+        },
     };
     terms_from_entries(provision, entries)
+}
+
+/// Extract an instrument's configured glossary provisions, in order. Each
+/// provision defines a different set of terms and the sets add to each
+/// other, so a term defined in two of them is an error rather than a
+/// precedence choice.
+pub fn extract_glossaries(glossaries: &[(&Provision, GlossaryStyle)]) -> Result<Vec<DefinedTerm>> {
+    let mut terms: Vec<DefinedTerm> = Vec::new();
+    for (provision, style) in glossaries {
+        let extracted = extract_terms(provision, *style)?;
+        for term in &extracted {
+            if let Some(earlier) = terms.iter().find(|earlier| earlier.id == term.id) {
+                bail!(
+                    "term {} is defined in both {} and {}",
+                    term.id,
+                    earlier.defining_provision_id,
+                    term.defining_provision_id
+                );
+            }
+        }
+        terms.extend(extracted);
+    }
+    Ok(terms)
 }
 
 fn terms_from_entries(
@@ -134,81 +185,97 @@ pub fn detect_glossary(provisions: &[Provision]) -> Result<GlossaryDetection> {
 }
 
 fn detect_established_glossary(provisions: &[Provision]) -> Result<Vec<DefinedTerm>> {
-    let intro = Regex::new(r"(?i)se\s+entender[áa]\s+(?:por|lo\s+siguiente)\s*:")?;
-    let fraction = Regex::new(r"(?:^|[;:\n])[ \t]*([IVXLCDM]{1,7})\.\s+")?;
     for provision in provisions {
         if provision.provision_type != ProvisionType::Article {
             continue;
         }
-        let head: String = provision.text.chars().take(400).collect();
-        let Some(intro_match) = intro.find(&head) else {
-            continue;
-        };
-        // Scan entries starting after the introduction.
-        let body_start = intro_match.end();
-        let text = &provision.text;
-        let starts: Vec<(usize, String)> = fraction
-            .captures_iter(text)
-            .filter_map(|captures| {
-                let whole = captures.get(0)?;
-                let numeral = captures.get(1)?;
-                (whole.start() >= body_start)
-                    .then(|| (numeral.start(), numeral.as_str().to_owned()))
-            })
-            .collect();
-        if starts.len() < 2 {
-            continue;
-        }
-        // The delimiter is normally representative of every entry, so it is
-        // established once and applied uniformly. But a repealed fraction's
-        // placeholder text ("Se deroga.", "Derogada.") is a period, not the
-        // glossary's real term/definition separator — deriving the
-        // delimiter from `starts[0]` unconditionally meant a repealed
-        // fraction 1 (period-terminated) silently starved every other,
-        // colon-delimited entry of its delimiter, discarding the entire
-        // glossary rather than just the placeholder. Skip past placeholder
-        // entries when choosing which entry is representative.
-        let Some(delimiter) = starts.iter().find_map(|(numeral_start, numeral)| {
-            let delimiter = glossary_delimiter(text, *numeral_start)?;
-            let after_numeral = numeral_start + numeral.len() + 1;
-            let entry_body = text.get(after_numeral.min(text.len())..)?;
-            let offset = entry_body
-                .chars()
-                .take(COLON_TERM_MAX_CHARS + 5)
-                .collect::<String>()
-                .find(delimiter)?;
-            let term = entry_body[..offset].trim();
-            (!term.is_empty() && !is_repealed_fraction_placeholder(term)).then_some(delimiter)
-        }) else {
-            continue;
-        };
-        let mut entries = Vec::with_capacity(starts.len());
-        for (index, (numeral_start, numeral)) in starts.iter().enumerate() {
-            let entry_end = starts.get(index + 1).map_or(text.len(), |(next, _)| *next);
-            let after_numeral = numeral_start + numeral.len() + 1; // past "N."
-            let entry_body = &text[after_numeral.min(text.len())..entry_end];
-            let Some(delimiter_offset) = entry_body.find(delimiter) else {
-                continue;
-            };
-            let term = entry_body[..delimiter_offset].trim().to_owned();
-            if term.is_empty()
-                || term.chars().count() > COLON_TERM_MAX_CHARS
-                || is_repealed_fraction_placeholder(&term)
-            {
-                continue;
-            }
-            entries.push(GlossaryEntry {
-                term,
-                fraction: Some(numeral.clone()),
-                start_char: text[..*numeral_start].chars().count(),
-                end_char: text[..entry_end].chars().count(),
-            });
-        }
-        if !entries.is_empty() {
-            return terms_from_entries(provision, entries);
+        let terms = established_glossary_terms(provision)?;
+        if !terms.is_empty() {
+            return Ok(terms);
         }
     }
     Ok(Vec::new())
+}
+
+static ESTABLISHED_INTRO: LazyLock<Regex> = LazyLock::new(|| {
+    Regex::new(r"(?i)se\s+entender[áa]\s+(?:por|lo\s+siguiente)\s*:")
+        .expect("established intro regex must compile")
+});
+
+static ESTABLISHED_FRACTION: LazyLock<Regex> = LazyLock::new(|| {
+    Regex::new(r"(?:^|[;:\n])[ \t]*([IVXLCDM]{1,7})\.\s+")
+        .expect("established fraction regex must compile")
+});
+
+/// The established pass over one provision; empty when it finds no glossary.
+fn established_glossary_terms(provision: &Provision) -> Result<Vec<DefinedTerm>> {
+    let head: String = provision.text.chars().take(400).collect();
+    let Some(intro_match) = ESTABLISHED_INTRO.find(&head) else {
+        return Ok(Vec::new());
+    };
+    // Scan entries starting after the introduction.
+    let body_start = intro_match.end();
+    let text = &provision.text;
+    let starts: Vec<(usize, String)> = ESTABLISHED_FRACTION
+        .captures_iter(text)
+        .filter_map(|captures| {
+            let whole = captures.get(0)?;
+            let numeral = captures.get(1)?;
+            (whole.start() >= body_start).then(|| (numeral.start(), numeral.as_str().to_owned()))
+        })
+        .collect();
+    if starts.len() < 2 {
+        return Ok(Vec::new());
+    }
+    // The delimiter is normally representative of every entry, so it is
+    // established once and applied uniformly. But a repealed fraction's
+    // placeholder text ("Se deroga.", "Derogada.") is a period, not the
+    // glossary's real term/definition separator — deriving the
+    // delimiter from `starts[0]` unconditionally meant a repealed
+    // fraction 1 (period-terminated) silently starved every other,
+    // colon-delimited entry of its delimiter, discarding the entire
+    // glossary rather than just the placeholder. Skip past placeholder
+    // entries when choosing which entry is representative.
+    let Some(delimiter) = starts.iter().find_map(|(numeral_start, numeral)| {
+        let delimiter = glossary_delimiter(text, *numeral_start)?;
+        let after_numeral = numeral_start + numeral.len() + 1;
+        let entry_body = text.get(after_numeral.min(text.len())..)?;
+        let offset = entry_body
+            .chars()
+            .take(COLON_TERM_MAX_CHARS + 5)
+            .collect::<String>()
+            .find(delimiter)?;
+        let term = entry_body[..offset].trim();
+        (!term.is_empty() && !is_repealed_fraction_placeholder(term)).then_some(delimiter)
+    }) else {
+        return Ok(Vec::new());
+    };
+    let mut entries = Vec::with_capacity(starts.len());
+    for (index, (numeral_start, numeral)) in starts.iter().enumerate() {
+        let entry_end = starts.get(index + 1).map_or(text.len(), |(next, _)| *next);
+        let after_numeral = numeral_start + numeral.len() + 1; // past "N."
+        let entry_body = &text[after_numeral.min(text.len())..entry_end];
+        let Some(delimiter_offset) = entry_body.find(delimiter) else {
+            continue;
+        };
+        let term = entry_body[..delimiter_offset].trim().to_owned();
+        if term.is_empty()
+            || term.chars().count() > COLON_TERM_MAX_CHARS
+            || is_repealed_fraction_placeholder(&term)
+        {
+            continue;
+        }
+        entries.push(GlossaryEntry {
+            term,
+            fraction: Some(numeral.clone()),
+            start_char: text[..*numeral_start].chars().count(),
+            end_char: text[..entry_end].chars().count(),
+        });
+    }
+    if entries.is_empty() {
+        return Ok(Vec::new());
+    }
+    terms_from_entries(provision, entries)
 }
 
 /// The wider fallback pass. A glossary is accepted only whole: its fractions
@@ -220,62 +287,14 @@ fn detect_established_glossary(provisions: &[Provision]) -> Result<Vec<DefinedTe
 /// title- or article-scoped introductions are skipped: their terms do not
 /// govern the whole instrument.
 fn detect_wider_glossary(provisions: &[Provision]) -> Result<GlossaryDetection> {
-    let defines = Regex::new(
-        r"(?i)\bse\s+(?:entiende|entienden|entender[áa]n?|deben?\s+entender|deber[áa]n?\s+entender)(?:\s*,\s*en\s+singular\s+o\s+plural)?\s*,?\s*(?:por|como)\s*:",
-    )?;
-    let adopts = Regex::new(
-        r"(?i)\bdefiniciones\b[^:]{0,320}?,?\s*(?:así\s+como|y,?)\s+(?:a\s+|en\s+)?(?:l[ao]s\s+)?(?:siguientes(?:\s+definiciones)?|definiciones\s+siguientes)\s*:",
-    )?;
-    let lists = Regex::new(
-        r"(?i)\bse\s+(?:aplican|observar[áa]n)\s+las\s+siguientes\s+definiciones\s*:|\bse\s+considera\s*:",
-    )?;
-    let scoped = Regex::new(
-        r"(?i)efectos?\s+(?:de|del)\s+(?:este|esta|el\s+presente|la\s+presente|presente|dicho|dicha)\s+(?:capítulo|título|sección|apartado|artículo|párrafo)|artículo\s+anterior",
-    )?;
-    // A fraction starts the text or follows `;`, `:`, `.`, a line break, the
-    // conjunction `y` (the last entry of an inline glossary: `…de Economía, y
-    // X.- Servicio: …`) or an amendment note (`…Fracción recorrida DOF
-    // 28-01-2011 XX.- Impacto ambiental: …`). A spurious start breaks the
-    // numbering and holds the glossary rather than splitting it wrongly.
-    let fraction = Regex::new(
-        r"(?:^|[;:.\n]|\by|DOF\s+\d{2}-\d{2}-\d{4})[ \t]*([IVXLCDM]{1,7}(?:\s+(?:Bis|Ter))?)\.-?\s+",
-    )?;
     for provision in provisions {
         if provision.provision_type != ProvisionType::Article {
             continue;
         }
-        let text = &provision.text;
-        let head_end = text
-            .char_indices()
-            .nth(500)
-            .map_or(text.len(), |(index, _)| index);
-        let head = &text[..head_end];
-        let Some(intro) = defines
-            .find(head)
-            .or_else(|| adopts.find(head))
-            .or_else(|| lists.find(head))
-        else {
+        let Some(outcome) = wider_glossary_entries(provision) else {
             continue;
         };
-        if scoped.is_match(&head[..intro.end()]) {
-            continue;
-        }
-        let body_start = intro.end();
-        let starts: Vec<(usize, usize, String)> = fraction
-            .captures_iter(&text[body_start..])
-            .map(|captures| {
-                let numeral = captures.get(1).expect("numeral");
-                (
-                    body_start + numeral.start(),
-                    body_start + captures.get(0).expect("fraction").end(),
-                    numeral.as_str().to_owned(),
-                )
-            })
-            .collect();
-        if starts.len() < 2 {
-            continue;
-        }
-        return Ok(match complete_entries(text, &starts) {
+        return Ok(match outcome {
             Ok(entries) => GlossaryDetection {
                 terms: terms_from_entries(provision, entries)?,
                 held: None,
@@ -287,6 +306,83 @@ fn detect_wider_glossary(provisions: &[Provision]) -> Result<GlossaryDetection> 
         });
     }
     Ok(GlossaryDetection::default())
+}
+
+static WIDER_DEFINES: LazyLock<Regex> = LazyLock::new(|| {
+    Regex::new(
+        r"(?i)\bse\s+(?:entiende|entienden|entender[áa]n?|deben?\s+entender|deber[áa]n?\s+entender)(?:\s*,\s*en\s+singular\s+o\s+plural)?\s*,?\s*(?:por|como)\s*:",
+    )
+    .expect("wider defines regex must compile")
+});
+
+static WIDER_ADOPTS: LazyLock<Regex> = LazyLock::new(|| {
+    Regex::new(
+        r"(?i)\bdefiniciones\b[^:]{0,320}?,?\s*(?:así\s+como|y,?)\s+(?:a\s+|en\s+)?(?:l[ao]s\s+)?(?:siguientes(?:\s+definiciones)?|definiciones\s+siguientes)\s*:",
+    )
+    .expect("wider adopts regex must compile")
+});
+
+static WIDER_LISTS: LazyLock<Regex> = LazyLock::new(|| {
+    Regex::new(
+        r"(?i)\bse\s+(?:aplican|observar[áa]n)\s+las\s+siguientes\s+definiciones\s*:|\bse\s+considera\s*:",
+    )
+    .expect("wider lists regex must compile")
+});
+
+static WIDER_SCOPED: LazyLock<Regex> = LazyLock::new(|| {
+    Regex::new(
+        r"(?i)efectos?\s+(?:de|del)\s+(?:este|esta|el\s+presente|la\s+presente|presente|dicho|dicha)\s+(?:capítulo|título|sección|apartado|artículo|párrafo)|artículo\s+anterior",
+    )
+    .expect("wider scoped regex must compile")
+});
+
+// A fraction starts the text or follows `;`, `:`, `.`, a line break, the
+// conjunction `y` (the last entry of an inline glossary: `…de Economía, y
+// X.- Servicio: …`) or an amendment note (`…Fracción recorrida DOF
+// 28-01-2011 XX.- Impacto ambiental: …`). A spurious start breaks the
+// numbering and holds the glossary rather than splitting it wrongly.
+static WIDER_FRACTION: LazyLock<Regex> = LazyLock::new(|| {
+    Regex::new(
+        r"(?:^|[;:.\n]|\by|DOF\s+\d{2}-\d{2}-\d{4})[ \t]*([IVXLCDM]{1,7}(?:\s+(?:Bis|Ter))?)\.-?\s+",
+    )
+    .expect("wider fraction regex must compile")
+});
+
+/// The wider pass over one provision: `None` when it opens no glossary that
+/// governs the whole instrument, otherwise every entry or the reason the
+/// glossary is incomplete.
+fn wider_glossary_entries(
+    provision: &Provision,
+) -> Option<std::result::Result<Vec<GlossaryEntry>, String>> {
+    let text = &provision.text;
+    let head_end = text
+        .char_indices()
+        .nth(500)
+        .map_or(text.len(), |(index, _)| index);
+    let head = &text[..head_end];
+    let intro = WIDER_DEFINES
+        .find(head)
+        .or_else(|| WIDER_ADOPTS.find(head))
+        .or_else(|| WIDER_LISTS.find(head))?;
+    if WIDER_SCOPED.is_match(&head[..intro.end()]) {
+        return None;
+    }
+    let body_start = intro.end();
+    let starts: Vec<(usize, usize, String)> = WIDER_FRACTION
+        .captures_iter(&text[body_start..])
+        .map(|captures| {
+            let numeral = captures.get(1).expect("numeral");
+            (
+                body_start + numeral.start(),
+                body_start + captures.get(0).expect("fraction").end(),
+                numeral.as_str().to_owned(),
+            )
+        })
+        .collect();
+    if starts.len() < 2 {
+        return None;
+    }
+    Some(complete_entries(text, &starts))
 }
 
 /// Every entry of a wider-pass glossary, or the reason it is incomplete.
@@ -969,8 +1065,8 @@ mod tests {
     use pretty_assertions::assert_eq;
 
     use super::{
-        GlossaryStyle, detect_glossary_terms, extract_quoted_term_usages, extract_term_usages,
-        extract_terms,
+        GlossaryStyle, detect_glossary_terms, extract_glossaries, extract_quoted_term_usages,
+        extract_term_usages, extract_terms,
     };
 
     const STATUTE_ID: &str = "urn:lex-mx:test:statute";
@@ -1542,6 +1638,119 @@ mod tests {
                 .collect::<Vec<_>>(),
             ["Cliente", "Operación"]
         );
+    }
+
+    fn lss_5_a() -> Provision {
+        provision(
+            STATUTE_ID,
+            "article:5-a",
+            "Para los efectos de esta Ley, se entiende por:\n\nI. Ley: la Ley del Seguro \
+             Social;\n\nII. Código: el Código Fiscal de la Federación;\n\nIII. Patrones, \
+             patrón o persona empleadora: la persona física o moral; Fracción reformada DOF \
+             16-11-2022\n\nIV. Trabajador permanente: aquél que tenga una relación de trabajo \
+             por tiempo indeterminado;",
+        )
+    }
+
+    fn lss_159() -> Provision {
+        provision(
+            STATUTE_ID,
+            "article:159",
+            "Para efectos de esta Ley, se entenderá por:\n\nI. Cuenta individual, aquella que \
+             se abrirá para cada asegurado.\n\nRespecto de la subcuenta de vivienda.\n\nII. \
+             Individualizar, el proceso mediante el cual se identifica la parte.\n\nIII. \
+             Pensión, la renta vitalicia o el retiro programado.",
+        )
+    }
+
+    fn term_records(terms: &[lex_core::DefinedTerm]) -> String {
+        format!("{terms:?}")
+    }
+
+    #[test]
+    fn configured_auto_styles_apply_one_grammar_to_a_named_provision() {
+        // The established grammar gives exactly what auto-detection gives.
+        let established = extract_terms(&lss_159(), GlossaryStyle::AutoEstablished).unwrap();
+        assert_eq!(
+            term_records(&established),
+            term_records(&detect_glossary_terms(&[lss_159()]).unwrap())
+        );
+        // The wider grammar reads fractions after amendment notes.
+        let whole = extract_terms(&lss_5_a(), GlossaryStyle::AutoWhole).unwrap();
+        assert_eq!(
+            whole
+                .iter()
+                .map(|term| term.term.as_str())
+                .collect::<Vec<_>>(),
+            [
+                "Ley",
+                "Código",
+                "Patrones, patrón o persona empleadora",
+                "Trabajador permanente"
+            ]
+        );
+
+        // A configured glossary is never partial, and a provision without
+        // the grammar fails instead of yielding no terms.
+        let gap = provision(
+            STATUTE_ID,
+            "article:3",
+            "Para los efectos de esta Ley, se entiende por:\n\nI. Adquirente: Persona;\n\nII. \
+             Avalúo: Dictamen;\n\nIV. Comité Técnico: Órgano;",
+        );
+        let error = extract_terms(&gap, GlossaryStyle::AutoWhole)
+            .unwrap_err()
+            .to_string();
+        assert!(error.contains("is incomplete"), "{error}");
+        let error = extract_terms(&lss_5_a(), GlossaryStyle::AutoEstablished)
+            .unwrap_err()
+            .to_string();
+        assert!(error.contains("no glossary detected"), "{error}");
+    }
+
+    #[test]
+    fn configured_glossaries_add_their_term_sets_and_refuse_a_shared_term() {
+        let (glossary, add_on) = (lss_5_a(), lss_159());
+        let terms = extract_glossaries(&[
+            (&glossary, GlossaryStyle::AutoWhole),
+            (&add_on, GlossaryStyle::AutoEstablished),
+        ])
+        .unwrap();
+        assert_eq!(
+            terms
+                .iter()
+                .map(|term| (term.term.as_str(), term.defining_provision_id.as_str()))
+                .collect::<Vec<_>>(),
+            [
+                ("Ley", "urn:lex-mx:test:statute:article:5-a"),
+                ("Código", "urn:lex-mx:test:statute:article:5-a"),
+                (
+                    "Patrones, patrón o persona empleadora",
+                    "urn:lex-mx:test:statute:article:5-a"
+                ),
+                (
+                    "Trabajador permanente",
+                    "urn:lex-mx:test:statute:article:5-a"
+                ),
+                ("Cuenta individual", "urn:lex-mx:test:statute:article:159"),
+                ("Individualizar", "urn:lex-mx:test:statute:article:159"),
+                ("Pensión", "urn:lex-mx:test:statute:article:159"),
+            ]
+        );
+
+        let redefines = provision(
+            STATUTE_ID,
+            "article:200",
+            "Para efectos de esta Ley, se entenderá por:\n\nI. Ley, la Ley del Seguro \
+             Social.\n\nII. Pensión, la renta.",
+        );
+        let error = extract_glossaries(&[
+            (&glossary, GlossaryStyle::AutoWhole),
+            (&redefines, GlossaryStyle::AutoEstablished),
+        ])
+        .unwrap_err()
+        .to_string();
+        assert!(error.contains("is defined in both"), "{error}");
     }
 
     #[test]
