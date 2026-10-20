@@ -21,7 +21,7 @@ Para la preservación de los humedales que se vean afectados por los regímenes 
 
 I. Delimitar y llevar el inventario de los humedales en bienes nacionales o de aquéllos inundados por aguas nacionales;
 
-II. Promover en los términos de la presente Ley y sus reglamentos, las reservas de aguas nacionales o la reserva ecológica conforme a la ley de la materia, para la preservación de los humedales; III. Proponer las Normas Oficiales Mexicanas para preservar, proteger y, en su caso, restaurar los humedales, las aguas nacionales que los alimenten, y los ecosistemas acuáticos e hidrológicos que forman parte de los mismos;
+II. Promover en los términos de la presente Ley y sus reglamentos, las reservas de aguas nacionales o la reserva ecológica conforme a la ley de la materia, para la preservación de los humedales; III. Proponer las [Normas Oficiales Mexicanas](articulo-3.md) para preservar, proteger y, en su caso, restaurar los humedales, las aguas nacionales que los alimenten, y los ecosistemas acuáticos e hidrológicos que forman parte de los mismos;
 
 IV. Promover y, en su caso, realizar las acciones y medidas necesarias para rehabilitar o restaurar los humedales, así como para fijar un entorno natural o perímetro de protección de la zona húmeda, a efecto de preservar sus condiciones hidrológicas y el ecosistema, y
 

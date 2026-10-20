@@ -7302,7 +7302,7 @@
     "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lncm:article:307:term-usage:2086-2102",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:307",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:codigo-igs-(ism)",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:codigo-igs-ism",
     "span": "Código IGS (ISM)",
     "start_char": 2086,
     "end_char": 2102
@@ -7320,7 +7320,7 @@
     "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lncm:article:308:term-usage:434-450",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:308",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:codigo-igs-(ism)",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:codigo-igs-ism",
     "span": "Código IGS (ISM)",
     "start_char": 434,
     "end_char": 450
@@ -8904,7 +8904,7 @@
     "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lncm:article:393:term-usage:744-760",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:393",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:codigo-igs-(ism)",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:codigo-igs-ism",
     "span": "Código IGS (ISM)",
     "start_char": 744,
     "end_char": 760
@@ -8922,7 +8922,7 @@
     "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lncm:article:394:term-usage:269-285",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:394",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:codigo-igs-(ism)",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:codigo-igs-ism",
     "span": "Código IGS (ISM)",
     "start_char": 269,
     "end_char": 285
@@ -9993,7 +9993,7 @@
     "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lncm:article:440:term-usage:2553-2569",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:440",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:codigo-igs-(ism)",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:codigo-igs-ism",
     "span": "Código IGS (ISM)",
     "start_char": 2553,
     "end_char": 2569

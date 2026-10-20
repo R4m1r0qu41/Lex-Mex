@@ -17,6 +17,6 @@ source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 
 # Artículo 101
 
-"La Comisión" realizará por sí o por terceros las obras públicas federales de infraestructura hidráulica que se desprendan de los programas de inversión a su cargo, conforme a la Ley y disposiciones reglamentarias. Igualmente, podrá ejecutar las obras que se le soliciten y que se financien total o parcialmente con recursos distintos de los federales.
+"[La Comisión](articulo-3.md)" realizará por sí o por terceros las obras públicas federales de infraestructura hidráulica que se desprendan de los programas de inversión a su cargo, conforme a la Ley y disposiciones reglamentarias. Igualmente, podrá ejecutar las obras que se le soliciten y que se financien total o parcialmente con recursos distintos de los federales.
 
 En caso de que la inversión se realice total o parcialmente con recursos federales, o que la infraestructura se construya mediante créditos avalados por el Gobierno Federal, "la Comisión" en el ámbito de su competencia establecerá las normas, características y requisitos para su ejecución y supervisión, salvo que por ley correspondan a otra dependencia o entidad.

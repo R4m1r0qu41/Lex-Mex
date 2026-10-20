@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-3",
+  "strategy_version": "glossary-extraction-4",
   "instrument_id": "urn:lex-mx:federal:statute:laat",
   "source_sha256": "2e6462a9ddd472efe129d2285c1602316c91640646847da74dbf13363c5238fb",
   "extracted_text_sha256": "ac6ca78d2e0d039944e2fe4913cca23d38dac76bc5fcba086386e8ae2539c908",

@@ -33,6 +33,6 @@ III. Cuando existan razones técnicas justificadas en estudios específicos de l
 
 IV. Cuando de los estudios técnicos específicos que realice o valide “la Comisión” se desprenda la existencia de conos de abatimiento, interferencia de volumen o cualquier otro supuesto que pueda ocasionar afectaciones a personas. Fracción adicionada DOF 20-06-2011. Reformada DOF 11-12-2025
 
-Independientemente de lo anterior, la explotación, uso o aprovechamiento de las aguas del subsuelo causará las contribuciones fiscales que señale la Ley de la materia. En las declaraciones fiscales correspondientes, las personas concesionarias o asignatarias deberán señalar que su aprovechamiento se encuentra inscrito en el Registro Público Nacional del Agua, en los términos de la presente Ley. Párrafo reformado DOF 11-12-2025
+Independientemente de lo anterior, la explotación, uso o aprovechamiento de las aguas del subsuelo causará las contribuciones fiscales que señale la Ley de la materia. En las declaraciones fiscales correspondientes, las personas concesionarias o asignatarias deberán señalar que su aprovechamiento se encuentra inscrito en el [Registro Público Nacional del Agua](articulo-3.md), en los términos de la presente Ley. Párrafo reformado DOF 11-12-2025
 
 Artículo reformado DOF 29-04-2004

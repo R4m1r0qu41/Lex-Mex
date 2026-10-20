@@ -47,7 +47,7 @@ pub use terms::{
     GlossaryDetection, GlossaryHold, GlossaryStyle, detect_glossary, detect_glossary_terms,
     extract_glossaries, extract_quoted_term_usages, extract_term_usages,
     extract_term_usages_with_lowercase, extract_terms, find_glossary_provision,
-    repeal_placeholders, unread_fractions,
+    invalidated_fractions, repeal_placeholders, unread_fractions,
 };
 
 #[derive(Debug)]
@@ -2293,6 +2293,28 @@ fn validate_article_order_by_label(
     *previous = Some((key, provision.number.clone()));
 }
 
+static TERM_SLUG: std::sync::LazyLock<Regex> =
+    std::sync::LazyLock::new(|| Regex::new(r"^[a-z0-9]+(?:-[a-z0-9]+)*$").expect("static regex"));
+
+/// A defined term's identifier is its instrument's, `:term:`, and a slug of
+/// lower-case letters and digits joined by single hyphens.
+fn check_term_id(term: &DefinedTerm, issues: &mut Vec<ValidationIssue>) {
+    let slug = term
+        .id
+        .strip_prefix(&term.instrument_id)
+        .and_then(|rest| rest.strip_prefix(":term:"));
+    if !slug.is_some_and(|slug| TERM_SLUG.is_match(slug)) {
+        issues.push(error(
+            "term_id_invalid",
+            format!(
+                "defined-term identifier is not `<instrument>:term:` and a lower-case slug: {}",
+                term.id
+            ),
+            Some(term.defining_provision_id.clone()),
+        ));
+    }
+}
+
 /// Validate defined terms and their usages: unique identifiers, existing
 /// defining provisions, definition spans that contain the term, exact usage
 /// spans, resolvable usage targets (own terms or another loaded
@@ -2310,6 +2332,7 @@ fn validate_terms(
         .collect();
     let mut term_ids = HashSet::new();
     for term in terms {
+        check_term_id(term, issues);
         if !term_ids.insert(term.id.as_str()) {
             issues.push(error(
                 "duplicate_term_id",

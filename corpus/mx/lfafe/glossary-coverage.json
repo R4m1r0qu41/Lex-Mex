@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-3",
+  "strategy_version": "glossary-extraction-4",
   "instrument_id": "urn:lex-mx:federal:statute:lfafe",
   "source_sha256": "96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884",
   "extracted_text_sha256": "14f91108497ba43f87c6fd9a92edd57ae9e0275deba4c92b2761924b5b475840",

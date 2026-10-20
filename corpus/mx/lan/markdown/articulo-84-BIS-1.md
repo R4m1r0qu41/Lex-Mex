@@ -17,6 +17,6 @@ source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 
 # Artículo 84 BIS 1
 
-"La Secretaría", "la Comisión" y los Organismos de Cuenca, deberán promover el mejoramiento de la cultura del agua con apoyo en las instancias del Ejecutivo Federal que correspondan, con el propósito de utilizar medios masivos de comunicación para su difusión, en los términos dispuestos en la Ley Federal de Radio y Televisión.
+"[La Secretaría](articulo-3.md)", "la Comisión" y los Organismos de Cuenca, deberán promover el mejoramiento de la cultura del agua con apoyo en las instancias del Ejecutivo Federal que correspondan, con el propósito de utilizar medios masivos de comunicación para su difusión, en los términos dispuestos en la Ley Federal de Radio y Televisión.
 
 Artículo adicionado DOF 29-04-2004

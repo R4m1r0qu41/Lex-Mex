@@ -17,7 +17,7 @@ source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 
 # Artículo 12 BIS 2
 
-Cada Organismo de Cuenca estará a cargo de una persona Titular de la Dirección General nombrada por el Consejo Técnico de "la Comisión" a propuesta de la persona Titular de la Dirección General de ésta. Párrafo reformado DOF 11-12-2025
+Cada [Organismo de Cuenca](articulo-3.md) estará a cargo de una persona Titular de la Dirección General nombrada por el Consejo Técnico de "la Comisión" a propuesta de la persona Titular de la Dirección General de ésta. Párrafo reformado DOF 11-12-2025
 
 La persona Titular de la Dirección General del Organismo de Cuenca, quien estará subordinada directamente a la persona Titular de la Dirección General de "la Comisión", tendrá las siguientes atribuciones: Párrafo reformado DOF 11-12-2025
 

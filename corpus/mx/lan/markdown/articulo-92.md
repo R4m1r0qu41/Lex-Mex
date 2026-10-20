@@ -17,9 +17,9 @@ source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 
 # Artículo 92
 
-"La Autoridad del Agua" ordenará la suspensión de las actividades que den origen a las descargas de aguas residuales, cuando: I. No se cuente con el Permiso de Descarga de aguas residuales en los términos de esta Ley;
+"La Autoridad del Agua" ordenará la suspensión de las actividades que den origen a las descargas de aguas residuales, cuando: I. No se cuente con el [Permiso](articulo-3.md) de [Descarga](articulo-3.md) de aguas residuales en los términos de esta Ley;
 
-II. La calidad de las descargas no se sujete a las Normas Oficiales Mexicanas correspondientes, a las condiciones particulares de descarga o a lo dispuesto en esta Ley y sus reglamentos;
+II. La calidad de las descargas no se sujete a las [Normas Oficiales Mexicanas](articulo-3.md) correspondientes, a las condiciones particulares de descarga o a lo dispuesto en esta Ley y sus reglamentos;
 
 III. Se omita el pago del derecho por el uso o aprovechamiento de bienes nacionales como cuerpos receptores de descargas de aguas residuales durante más de un año fiscal;
 

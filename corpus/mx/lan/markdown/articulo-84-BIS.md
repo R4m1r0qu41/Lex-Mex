@@ -17,7 +17,7 @@ source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 
 # Artículo 84 BIS
 
-"La Comisión", con el concurso de los Organismos de Cuenca, deberá promover entre la población, autoridades y medios de comunicación, la cultura del agua acorde con la realidad del país y sus regiones hidrológicas, para lo cual deberá:
+"[La Comisión](articulo-3.md)", con el concurso de los Organismos de Cuenca, deberá promover entre la población, autoridades y medios de comunicación, la cultura del agua acorde con la realidad del país y sus regiones hidrológicas, para lo cual deberá:
 
 I. Coordinarse con las autoridades Educativas en los órdenes federal y estatales para incorporar en los programas de estudio de todos los niveles educativos los conceptos de cultura del agua, en particular, sobre disponibilidad del recurso; su valor económico, social y ambiental; uso eficiente; necesidades y ventajas del tratamiento y reúso de las aguas residuales; la conservación del agua y su entorno; el pago por la prestación de servicios de agua en los medios rural y urbano y de derechos por extracción, descarga y servicios ambientales;
 

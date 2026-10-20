@@ -21,7 +21,7 @@ La concesión, asignación o permiso de descarga podrán revocarse en los siguie
 
 I. Disponer del agua en volúmenes mayores a una quinta parte que los autorizados, cuando por la misma causa la persona beneficiaria haya sido suspendida en su derecho con anterioridad; Fracción reformada DOF 11-12-2025
 
-II. Explotar, usar o aprovechar aguas nacionales sin cumplir con las Normas Oficiales Mexicanas en materia de calidad;
+II. Explotar, usar o aprovechar aguas nacionales sin cumplir con las [Normas Oficiales Mexicanas](articulo-3.md) en materia de calidad;
 
 III. Descargar en forma permanente o intermitente aguas residuales en contravención a lo dispuesto en la presente Ley en cuerpos receptores que sean bienes nacionales, incluyendo aguas marinas, así como cuando se infiltren en terrenos que sean bienes nacionales o en otros terrenos cuando puedan contaminar el subsuelo o el acuífero, sin perjuicio de las sanciones que fijen las disposiciones sanitarias y de equilibrio ecológico y protección al ambiente; IV. Utilizar la dilución para cumplir con las Normas Oficiales Mexicanas en materia ecológica o las condiciones particulares de descarga, excepto cuando se trate de aguas residuales provenientes de procesos de desalinización; Fracción reformada DOF 11-12-2025
 

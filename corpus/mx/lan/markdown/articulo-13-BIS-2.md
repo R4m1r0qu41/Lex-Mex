@@ -17,7 +17,7 @@ source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 
 # Artículo 13 BIS 2
 
-Los Consejos de Cuenca se organizarán y funcionarán de acuerdo con lo establecido en esta Ley, sus Reglamentos, en las disposiciones que emita "la Comisión", y en las Reglas Generales de Integración, Organización y Funcionamiento que cada Consejo de Cuenca adopte, conforme a los siguientes lineamientos generales:
+[Los Consejos](articulo-3.md) de Cuenca se organizarán y funcionarán de acuerdo con lo establecido en esta Ley, sus Reglamentos, en las disposiciones que emita "la Comisión", y en las Reglas Generales de Integración, Organización y Funcionamiento que cada [Consejo de Cuenca](articulo-3.md) adopte, conforme a los siguientes lineamientos generales:
 
 I. Las personas usuarias del agua que participen como vocales en los Consejos de Cuenca serán electos en la Asamblea General de Personas Usuarias, y provendrán de las organizaciones de personas usuarias del agua a nivel nacional de los distintos usos acreditadas ante "la Comisión", así como de las organizaciones de las personas usuarias del agua por cada estado de los distintos usos en la cuenca hidrológica o región hidrológica de que se trate, en un número que asegure proporcionalidad en la representación de los usos y permita el eficaz funcionamiento de dichos Consejos de Cuenca y en apego a lo dispuesto en el Artículo [13 BIS](articulo-13-BIS.md) de esta Ley; la designación de suplentes será también prevista por la propia Asamblea; la representatividad de cada uso por estado se determinará en las Reglas Generales de Integración, Organización y Funcionamiento del Consejo de Cuenca; Fracción reformada DOF 11-12-2025
 
@@ -29,7 +29,7 @@ IV. El Gobierno Federal contará con personas vocales representantes designadas 
 
 V. Las organizaciones de la sociedad, incluyendo organizaciones ciudadanas o no gubernamentales, colegios y asociaciones de profesionales, empresarios, y otros grupos organizados vinculados con la explotación, uso, aprovechamiento o conservación, preservación y restauración de las aguas de la cuenca hidrológica y del o los acuíferos subyacentes, también participarán en las actividades de los Consejos de Cuenca en el número de vocales, tanto propietarios como los suplentes respectivos, que se apegue a lo dispuesto en el Artículo [13 BIS](articulo-13-BIS.md) de esta Ley y en la calidad que se determine en las Reglas Generales de Integración, Organización y Funcionamiento del propio Consejo de Cuenca;
 
-VI. A través de los vocales usuarios que tenga designados, la Asamblea General de la Cuenca canalizará sus recomendaciones al Consejo de Cuenca y a través de éste, al Organismo de Cuenca que corresponda, y
+VI. A través de los vocales usuarios que tenga designados, la Asamblea General de la Cuenca canalizará sus recomendaciones al Consejo de Cuenca y a través de éste, al [Organismo de Cuenca](articulo-3.md) que corresponda, y
 
 VII. Los Consejos de Cuenca tendrán la delimitación territorial que defina "la Comisión" respecto de los Organismos de Cuenca.
 

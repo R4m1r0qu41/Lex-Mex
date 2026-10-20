@@ -21,7 +21,7 @@ Se declara de utilidad pública:
 
 I. La gestión integrada de los recursos hídricos, superficiales y del subsuelo, a partir de las cuencas hidrológicas en el territorio nacional, como prioridad y asunto de seguridad nacional;
 
-II. La protección, mejoramiento, conservación y restauración de cuencas hidrológicas, acuíferos, cauces, vasos y demás depósitos de agua de propiedad nacional, zonas de captación de fuentes de abastecimiento, zonas federales, así como la infiltración natural o artificial de aguas para reabastecer mantos acuíferos acorde con las "Normas Oficiales Mexicanas" y la derivación de las aguas de una cuenca o región hidrológica hacia otras;
+II. La protección, mejoramiento, conservación y restauración de cuencas hidrológicas, acuíferos, cauces, vasos y demás depósitos de agua de propiedad nacional, zonas de captación de fuentes de abastecimiento, zonas federales, así como la infiltración natural o artificial de aguas para reabastecer mantos acuíferos acorde con las "[Normas Oficiales Mexicanas](articulo-3.md)" y la derivación de las aguas de una cuenca o región hidrológica hacia otras;
 
 III. La instalación de los dispositivos necesarios para la medición de la cantidad y calidad de las aguas nacionales y en general para la medición del ciclo hidrológico;
 

@@ -1166,7 +1166,11 @@ pub struct TermUsage {
 /// where version 1 read only `Bis` and `Ter`, and the established pass none.
 /// Version 3 lets an entry's own earlier `:` or `, al` end its term before
 /// the glossary's shared delimiter, outside parentheses.
-pub const GLOSSARY_STRATEGY_VERSION: &str = "glossary-extraction-3";
+/// Version 4 identifies terms by `[a-z0-9]+(-[a-z0-9]+)*` slugs, reads a
+/// quoted name without its quotation marks (and quoted alternatives joined
+/// by `o` as separate terms), and records an entry the SCJN declared invalid
+/// as invalidated rather than reading a term from it.
+pub const GLOSSARY_STRATEGY_VERSION: &str = "glossary-extraction-4";
 
 /// How `terms.json` was produced for one instrument
 /// (`glossary-coverage.json`). It separates a glossary held as incomplete
@@ -1229,6 +1233,12 @@ pub struct GlossaryProvisionCoverage {
     /// wider grammar holds such a glossary instead; absent otherwise.
     #[serde(default, skip_serializing_if = "Option::is_none")]
     pub unread_fractions: Option<Vec<String>>,
+    /// Fractions printed in brackets and noted as declared invalid by the
+    /// SCJN, which therefore define nothing. Reported by the auto grammars
+    /// (`established_pass`, `wider_pass`, `auto_established`, `auto_whole`),
+    /// and present only when one is found.
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub invalidated_fractions: Option<Vec<String>>,
     /// The reviewed exception profile applied to an `auto_whole` glossary.
     #[serde(default, skip_serializing_if = "Option::is_none")]
     pub profile: Option<GlossaryProfile>,
@@ -2375,6 +2385,7 @@ mod glossary_coverage_tests {
                     .collect(),
                 repeal_placeholders: None,
                 unread_fractions: None,
+                invalidated_fractions: None,
                 profile: None,
                 term_count: record.terms.len(),
             }],

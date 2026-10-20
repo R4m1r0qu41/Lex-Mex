@@ -19,7 +19,7 @@ source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 
 Los distritos de riego podrán:
 
-I. Interconectarse o fusionarse con otro u otros distritos o unidades de riego, en cuyo caso "la Comisión" por medio del Organismo de Cuenca competente proporcionará los apoyos que se requieran, conservando en estos casos su naturaleza de distritos de riego;
+I. Interconectarse o fusionarse con otro u otros distritos o unidades de riego, en cuyo caso "la Comisión" por medio del [Organismo de Cuenca](articulo-3.md) competente proporcionará los apoyos que se requieran, conservando en estos casos su naturaleza de distritos de riego;
 
 II. Decidir e instrumentar la escisión en dos o más unidades de riego, de conformidad con lo dispuesto en el reglamento del distrito, en cuyo caso "la Comisión" por medio del Organismo de Cuenca que corresponda concertará las acciones y medidas necesarias para proteger los derechos de las personas usuarias, y Fracción reformada DOF 11-12-2025
 

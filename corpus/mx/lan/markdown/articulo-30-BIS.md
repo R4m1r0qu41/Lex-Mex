@@ -17,7 +17,7 @@ source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 
 # Artículo 30 BIS
 
-El Registro Público Nacional del Agua es competente para: Párrafo reformado DOF 11-12-2025
+El [Registro Público Nacional del Agua](articulo-3.md) es competente para: Párrafo reformado DOF 11-12-2025
 
 I. Autorizar la apertura y cierre de los libros o folios, así como las inscripciones que se efectúen;
 

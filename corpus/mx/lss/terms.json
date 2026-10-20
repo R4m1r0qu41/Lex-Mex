@@ -34,7 +34,7 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lss:term:patrones,-patron-o-persona-empleadora",
+    "id": "urn:lex-mx:federal:statute:lss:term:patrones-patron-o-persona-empleadora",
     "term": "Patrones, patrón o persona empleadora",
     "instrument_id": "urn:lex-mx:federal:statute:lss",
     "defining_provision_id": "urn:lex-mx:federal:statute:lss:article:5-a",

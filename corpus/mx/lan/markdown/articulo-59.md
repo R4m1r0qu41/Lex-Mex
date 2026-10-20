@@ -23,6 +23,6 @@ I. Construir y operar su propia infraestructura para prestar el servicio de rieg
 
 II. Construir obras de infraestructura de riego en coinversión con recursos públicos federales, estatales y municipales y hacerse cargo de su operación, conservación y mantenimiento para prestar el servicio de riego a sus miembros, y
 
-III. Operar, conservar, mantener y rehabilitar infraestructura pública federal para irrigación, cuyo uso o aprovechamiento hayan solicitado en concesión a "la Comisión" a través del Organismo de Cuenca que corresponda.
+III. Operar, conservar, mantener y rehabilitar infraestructura pública federal para irrigación, cuyo uso o aprovechamiento hayan solicitado en concesión a "la Comisión" a través del [Organismo de Cuenca](articulo-3.md) que corresponda.
 
 Artículo reformado DOF 29-04-2004

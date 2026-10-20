@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-3",
+  "strategy_version": "glossary-extraction-4",
   "instrument_id": "urn:lex-mx:federal:statute:lgn",
   "source_sha256": "dfe63e9a5dca843a804e5d7878671e2899f2b088534d9ed9813e9878c20b12bd",
   "extracted_text_sha256": "fb5d3a99bebd879b3100b3f6eb97d706011bc36feca7f97a0c92702ee62013f3",

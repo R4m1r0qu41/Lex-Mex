@@ -17,7 +17,7 @@ source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 
 # Artículo 31
 
-Las constancias de la inscripción de los títulos en el Registro Público Nacional del Agua constituyen medios de prueba de su existencia, titularidad y del estado que guardan. La inscripción será condición para que la reasignación de los títulos surta sus efectos legales ante terceras personas, "la Autoridad del Agua" y cualquier otra autoridad. Párrafo reformado DOF 11-12-2025
+Las constancias de la inscripción de los títulos en el [Registro Público Nacional del Agua](articulo-3.md) constituyen medios de prueba de su existencia, titularidad y del estado que guardan. La inscripción será condición para que la reasignación de los títulos surta sus efectos legales ante terceras personas, "la Autoridad del Agua" y cualquier otra autoridad. Párrafo reformado DOF 11-12-2025
 
 Toda persona podrá consultar el Registro Público Nacional del Agua y solicitar a su costa certificaciones de las inscripciones y documentos que dieron lugar a las mismas, así como sobre la inexistencia de un registro o de una inscripción posterior en relación con una determinada. Párrafo reformado DOF 11-12-2025
 

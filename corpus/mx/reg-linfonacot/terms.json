@@ -23,7 +23,7 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-linfonacot:term:financiamiento,-prestamo-o-credito",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonacot:term:financiamiento-prestamo-o-credito",
     "term": "Financiamiento, préstamo o crédito",
     "instrument_id": "urn:lex-mx:federal:regulation:reg-linfonacot",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:3",

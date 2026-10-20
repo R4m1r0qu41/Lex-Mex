@@ -27,7 +27,7 @@ III. Imponer las medidas técnicas correctivas y de seguridad que sean de su com
 
 IV. Promover las acciones para la reparación o compensación del daño ambiental a los ecosistemas asociados con el agua en los términos de esta Ley y de las demás disposiciones jurídicas aplicables; Fracción reformada DOF 07-06-2013
 
-V. Solicitar ante "la Comisión" o el Organismo de Cuenca que corresponda conforme a lo dispuesto en la Fracción IX del Artículo [9](articulo-9.md) de la presente Ley, conforme a sus respectivas competencias, la cancelación de los permisos de descarga, y
+V. Solicitar ante "la Comisión" o el [Organismo de Cuenca](articulo-3.md) que corresponda conforme a lo dispuesto en la Fracción IX del Artículo [9](articulo-9.md) de la presente Ley, conforme a sus respectivas competencias, la cancelación de los permisos de descarga, y
 
 VI. Las demás que señalen las disposiciones legales y reglamentarias para el cumplimiento del objeto de la presente Ley.
 

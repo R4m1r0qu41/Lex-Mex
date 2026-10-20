@@ -21,7 +21,7 @@ La explotación, uso o aprovechamiento de aguas nacionales superficiales o del s
 
 Las asignaciones de aguas nacionales a centros de población que se hubieran otorgado a los ayuntamientos, a los estados, o a la Ciudad de México, que administren los respectivos sistemas de agua potable y alcantarillado, subsistirán aun cuando estos sistemas sean administrados por entidades paraestatales o paramunicipales, o se concesionen a particulares por la autoridad competente. Párrafo reformado DOF 11-12-2025
 
-Corresponde al municipio, a la Ciudad de México y, en términos de Ley, al estado, así como a los organismos o empresas que presten el servicio de agua potable y alcantarillado, el tratamiento de las aguas residuales de uso público urbano, previa a su descarga a cuerpos receptores de propiedad nacional, conforme a las Normas Oficiales Mexicanas respectivas o a las condiciones particulares de descarga que les determine "la Autoridad del Agua". Párrafo reformado DOF 11-12-2025
+Corresponde al municipio, a la Ciudad de México y, en términos de Ley, al estado, así como a los organismos o empresas que presten el servicio de agua potable y alcantarillado, el tratamiento de las aguas residuales de uso público urbano, previa a su descarga a cuerpos receptores de propiedad nacional, conforme a las [Normas Oficiales Mexicanas](articulo-3.md) respectivas o a las condiciones particulares de descarga que les determine "la Autoridad del Agua". Párrafo reformado DOF 11-12-2025
 
 En los títulos de asignación que se otorguen, se establecerá expresamente el volumen asignado para la prestación del servicio público conforme a los datos que proporcionen los municipios, los estados y la Ciudad de México, en su caso. Párrafo reformado DOF 11-12-2025
 

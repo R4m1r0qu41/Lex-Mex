@@ -21,6 +21,6 @@ En la reasignación de volúmenes a que se refieren las fracciones I y II del
 
 Artículo [37 BIS](articulo-37-BIS.md) de esta Ley, “la Autoridad del Agua” privilegiará aquellos usos que beneficien al derecho humano al agua, la seguridad alimentaria y al desarrollo nacional.
 
-La reasignación de los volúmenes a que se refiere el presente artículo deberá someterse por parte de “la Autoridad del Agua” al análisis y autorización del Comité del fondo de reserva de aguas nacionales, el cual estará integrado por la representación de las Secretarías de Medio Ambiente y Recursos Naturales, Bienestar, Economía, Hacienda y Crédito Público, Agricultura y Desarrollo Rural y será presidido por la persona titular de la Comisión Nacional del Agua.
+La reasignación de los volúmenes a que se refiere el presente artículo deberá someterse por parte de “la Autoridad del Agua” al análisis y autorización del Comité del fondo de reserva de aguas nacionales, el cual estará integrado por la representación de las Secretarías de Medio Ambiente y Recursos Naturales, Bienestar, Economía, Hacienda y Crédito Público, Agricultura y Desarrollo Rural y será presidido por la persona titular de la [Comisión Nacional del Agua](articulo-3.md).
 
 Artículo adicionado DOF 11-12-2025

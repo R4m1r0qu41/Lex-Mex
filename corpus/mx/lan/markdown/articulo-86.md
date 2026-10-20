@@ -19,7 +19,7 @@ source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 
 "La Autoridad del Agua" tendrá a su cargo, en términos de Ley:
 
-I. Promover y, en su caso, ejecutar y operar la infraestructura federal, los sistemas de monitoreo y los servicios necesarios para la preservación, conservación y mejoramiento de la calidad del agua en las cuencas hidrológicas y acuíferos, de acuerdo con las Normas Oficiales Mexicanas respectivas y las condiciones particulares de descarga;
+I. Promover y, en su caso, ejecutar y operar la infraestructura federal, los sistemas de monitoreo y los servicios necesarios para la preservación, conservación y mejoramiento de la calidad del agua en las cuencas hidrológicas y acuíferos, de acuerdo con las [Normas Oficiales Mexicanas](articulo-3.md) respectivas y las condiciones particulares de descarga;
 
 II. Formular y realizar estudios para evaluar la calidad de los cuerpos de agua nacionales;
 

@@ -56,7 +56,7 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfcsq:term:cas-(chemical-abstracts-service)",
+    "id": "urn:lex-mx:federal:statute:lfcsq:term:cas-chemical-abstracts-service",
     "term": "CAS (Chemical Abstracts Service)",
     "instrument_id": "urn:lex-mx:federal:statute:lfcsq",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",

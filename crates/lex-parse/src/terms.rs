@@ -135,6 +135,27 @@ pub fn unread_fractions(
     Ok(Some(established_glossary(provision)?.unread_fractions))
 }
 
+/// The fractions a configured `auto_established` or `auto_whole` glossary
+/// skipped because the SCJN declared them invalid; `None` for the other
+/// styles, and when there are none.
+pub fn invalidated_fractions(
+    provision: &Provision,
+    style: GlossaryStyle,
+    profile: Option<&GlossaryProfile>,
+) -> Result<Option<Vec<String>>> {
+    Ok(match style {
+        GlossaryStyle::AutoEstablished => {
+            reported(established_glossary(provision)?.invalidated_fractions)
+        }
+        GlossaryStyle::AutoWhole => match profile {
+            Some(profile) => profiled_glossary_entries(provision, profile).ok(),
+            None => wider_glossary_entries(provision).and_then(std::result::Result::ok),
+        }
+        .and_then(|glossary| reported(glossary.invalidated_fractions)),
+        _ => None,
+    })
+}
+
 /// Extract an instrument's configured glossary provisions, in order, each
 /// with its style and, for `auto_whole`, an optional reviewed profile. Each
 /// provision defines a different set of terms and the sets add to each
@@ -181,23 +202,64 @@ fn terms_from_entries(
 ) -> Result<Vec<DefinedTerm>> {
     let mut terms = Vec::with_capacity(entries.len());
     for entry in entries {
-        if entry.term.trim().is_empty() {
-            bail!("empty defined term in glossary provision {}", provision.id);
+        for name in defined_names(&entry.term) {
+            let slug = slug(name);
+            if slug.is_empty() {
+                bail!("empty defined term in glossary provision {}", provision.id);
+            }
+            terms.push(DefinedTerm {
+                schema_version: SCHEMA_VERSION.to_owned(),
+                id: format!("{}:term:{slug}", provision.instrument_id),
+                term: name.to_owned(),
+                instrument_id: provision.instrument_id.clone(),
+                defining_provision_id: provision.id.clone(),
+                fraction: entry.fraction.clone(),
+                inciso: entry.inciso.clone(),
+                start_char: entry.start_char,
+                end_char: entry.end_char,
+                basis: Basis::ExpressDefinition,
+            });
         }
-        terms.push(DefinedTerm {
-            schema_version: SCHEMA_VERSION.to_owned(),
-            id: format!("{}:term:{}", provision.instrument_id, slug(&entry.term)),
-            term: entry.term,
-            instrument_id: provision.instrument_id.clone(),
-            defining_provision_id: provision.id.clone(),
-            fraction: entry.fraction,
-            inciso: entry.inciso,
-            start_char: entry.start_char,
-            end_char: entry.end_char,
-            basis: Basis::ExpressDefinition,
-        });
     }
     Ok(terms)
+}
+
+/// The names an entry defines. A name printed in quotation marks is the
+/// quoted text (lan: `"Aguas Nacionales"` defines Aguas Nacionales), and
+/// quoted names joined by `o` or `u` are each defined (`"Aguas claras" o
+/// "Aguas de primer uso"`). Any other term is defined as printed.
+fn defined_names(term: &str) -> Vec<&str> {
+    static QUOTED: LazyLock<Regex> = LazyLock::new(|| {
+        Regex::new(r#"["“]([^"“”]+)["”]"#).expect("quoted name regex must compile")
+    });
+    static ALTERNATIVES: LazyLock<Regex> = LazyLock::new(|| {
+        Regex::new(r#"^["“][^"“”]+["”](?:\s+[ou]\s+["“][^"“”]+["”])*$"#)
+            .expect("quoted alternatives regex must compile")
+    });
+    let term = term.trim();
+    if !ALTERNATIVES.is_match(term) {
+        return vec![term];
+    }
+    QUOTED
+        .captures_iter(term)
+        .filter_map(|captures| captures.get(1))
+        .map(|name| name.as_str().trim())
+        .collect()
+}
+
+/// A glossary entry printed in brackets and noted as declared invalid by the
+/// SCJN (`[Campañas de Comunicación Social: …;] Fracción declarada inválida
+/// por …`). The bracketed text is not law in force, so it defines nothing;
+/// the fraction is recorded as invalidated, not unread (operator ruling
+/// 2026-10-20).
+static INVALIDATED_ENTRY: LazyLock<Regex> = LazyLock::new(|| {
+    Regex::new(r"^\s*\[[^\]]*\][^\[\n]*?\bdeclarad[oa]s?\s+inv[áa]lid[oa]s?\b")
+        .expect("invalidated entry regex must compile")
+});
+
+/// A list reported only when it is not empty.
+fn reported(list: Vec<String>) -> Option<Vec<String>> {
+    (!list.is_empty()).then_some(list)
 }
 
 /// Auto-detect and extract a fraction glossary when an instrument does not
@@ -226,6 +288,9 @@ pub struct GlossaryDetection {
     /// Fractions the established pass found but could not read a term
     /// from; the wider pass holds such a glossary instead.
     pub unread_fractions: Option<Vec<String>>,
+    /// Fractions the SCJN declared invalid, skipped by either pass; `None`
+    /// when there are none.
+    pub invalidated_fractions: Option<Vec<String>>,
     /// Set when the wider pass found a glossary it could not extract
     /// completely. Such a glossary yields no terms rather than a partial set.
     pub held: Option<GlossaryHold>,
@@ -246,6 +311,7 @@ type Incomplete = (GlossaryHoldCode, String);
 struct WiderGlossary {
     entries: Vec<GlossaryEntry>,
     repeal_placeholders: Vec<String>,
+    invalidated_fractions: Vec<String>,
 }
 
 /// Auto-detect a glossary: first the established `se entenderá por:` pass,
@@ -266,6 +332,7 @@ pub fn detect_glossary(provisions: &[Provision]) -> Result<GlossaryDetection> {
                 terms: glossary.terms,
                 method: Some("established_pass"),
                 unread_fractions: Some(glossary.unread_fractions),
+                invalidated_fractions: reported(glossary.invalidated_fractions),
                 ..GlossaryDetection::default()
             });
         }
@@ -296,12 +363,14 @@ fn established_glossary_terms(provision: &Provision) -> Result<Vec<DefinedTerm>>
 struct EstablishedGlossary {
     terms: Vec<DefinedTerm>,
     unread_fractions: Vec<String>,
+    invalidated_fractions: Vec<String>,
 }
 
 fn established_glossary(provision: &Provision) -> Result<EstablishedGlossary> {
     let none = || EstablishedGlossary {
         terms: Vec::new(),
         unread_fractions: Vec::new(),
+        invalidated_fractions: Vec::new(),
     };
     let head: String = provision.text.chars().take(400).collect();
     let Some(intro_match) = ESTABLISHED_INTRO.find(&head) else {
@@ -340,16 +409,24 @@ fn established_glossary(provision: &Provision) -> Result<EstablishedGlossary> {
             .collect::<String>()
             .find(delimiter)?;
         let term = entry_body[..offset].trim();
-        (!term.is_empty() && !is_repealed_fraction_placeholder(term)).then_some(delimiter)
+        (!term.is_empty()
+            && !is_repealed_fraction_placeholder(term)
+            && !INVALIDATED_ENTRY.is_match(entry_body))
+        .then_some(delimiter)
     }) else {
         return Ok(none());
     };
     let mut entries = Vec::with_capacity(starts.len());
     let mut unread_fractions = Vec::new();
+    let mut invalidated_fractions = Vec::new();
     for (index, (numeral_start, numeral)) in starts.iter().enumerate() {
         let entry_end = starts.get(index + 1).map_or(text.len(), |(next, _)| *next);
         let after_numeral = numeral_start + numeral.len() + 1; // past "N."
         let entry_body = &text[after_numeral.min(text.len())..entry_end];
+        if INVALIDATED_ENTRY.is_match(entry_body) {
+            invalidated_fractions.push(normalize_fraction_label(numeral));
+            continue;
+        }
         let glossary_term = entry_body
             .find(delimiter)
             .map(|offset| entry_body[..offset].trim())
@@ -393,6 +470,7 @@ fn established_glossary(provision: &Provision) -> Result<EstablishedGlossary> {
     Ok(EstablishedGlossary {
         terms: terms_from_entries(provision, entries)?,
         unread_fractions,
+        invalidated_fractions,
     })
 }
 
@@ -456,6 +534,7 @@ fn detect_wider_glossary(provisions: &[Provision]) -> Result<GlossaryDetection> 
                 method: Some("wider_pass"),
                 repeal_placeholders: Some(glossary.repeal_placeholders),
                 unread_fractions: None,
+                invalidated_fractions: reported(glossary.invalidated_fractions),
                 held: None,
             },
             Err((code, message)) => GlossaryDetection {
@@ -924,7 +1003,11 @@ fn complete_entries(
     let delimiter = bodies
         .iter()
         .enumerate()
-        .filter(|(index, (_, body, _, _))| !placeholder(*index, body) && !hints.contains_key(index))
+        .filter(|(index, (_, body, _, _))| {
+            !placeholder(*index, body)
+                && !hints.contains_key(index)
+                && !INVALIDATED_ENTRY.is_match(body)
+        })
         .map(|(_, entry)| entry)
         .find_map(|(_, body, _, _)| {
             body.chars()
@@ -936,19 +1019,10 @@ fn complete_entries(
     }
     let mut entries = Vec::with_capacity(bodies.len());
     let mut repeal_placeholders = Vec::new();
+    let mut invalidated_fractions = Vec::new();
     let mut slugs = std::collections::HashSet::new();
     for (index, (numeral, body, start, end)) in bodies.into_iter().enumerate() {
-        // A fraction heading inside any entry, a placeholder included, means
-        // furniture hid a fraction (`II. Derogada. ENCABEZADO III. …`).
-        if let Some(found) = SWALLOWED_FRACTION.find(body) {
-            return Err((
-                GlossaryHoldCode::SwallowedFraction,
-                format!(
-                    "fraction {numeral} contains another fraction heading {:?}",
-                    found.as_str().trim()
-                ),
-            ));
-        }
+        check_not_swallowing(numeral, body)?;
         let mut push_term = |term: &str, inciso: Option<&str>, from: usize, to: usize| {
             if !slugs.insert(slug(term)) {
                 return Err((
@@ -975,6 +1049,10 @@ fn complete_entries(
             repeal_placeholders.push(numeral.to_owned());
             continue;
         }
+        if INVALIDATED_ENTRY.is_match(body) {
+            invalidated_fractions.push(numeral.to_owned());
+            continue;
+        }
         // Only a whole placeholder is a repealed fraction. An entry that
         // opens with the repeal wording and goes on (`Derogados: Los
         // permisos retirados`) is not read as either.
@@ -996,7 +1074,23 @@ fn complete_entries(
     Ok(WiderGlossary {
         entries,
         repeal_placeholders,
+        invalidated_fractions,
     })
+}
+
+/// A fraction heading inside any entry, a placeholder included, means
+/// furniture hid a fraction (`II. Derogada. ENCABEZADO III. …`).
+fn check_not_swallowing(numeral: &str, body: &str) -> std::result::Result<(), Incomplete> {
+    match SWALLOWED_FRACTION.find(body) {
+        Some(found) => Err((
+            GlossaryHoldCode::SwallowedFraction,
+            format!(
+                "fraction {numeral} contains another fraction heading {:?}",
+                found.as_str().trim()
+            ),
+        )),
+        None => Ok(()),
+    }
 }
 
 /// The terms a profile hint defines, each with its inciso letter and byte
@@ -1688,16 +1782,30 @@ fn paragraphs_with_offsets(text: &str) -> Vec<(usize, &str)> {
     output
 }
 
+/// A term's identifier slug: lower case with Spanish accents folded, and
+/// every run of other characters (spaces, parentheses, quotation marks,
+/// commas, slashes, apostrophes) turned into one hyphen, so it is always
+/// `[a-z0-9]+(-[a-z0-9]+)*` (`Número de Identificación Personal (NIP)` →
+/// `numero-de-identificacion-personal-nip`; operator ruling 2026-10-20).
 fn slug(value: &str) -> String {
-    value
+    let folded = value
         .to_lowercase()
         .replace('á', "a")
         .replace('é', "e")
         .replace('í', "i")
         .replace('ó', "o")
         .replace(['ú', 'ü'], "u")
-        .replace('ñ', "n")
-        .replace(' ', "-")
+        .replace('ñ', "n");
+    let mut slug = String::with_capacity(folded.len());
+    for character in folded.chars() {
+        if character.is_ascii_lowercase() || character.is_ascii_digit() {
+            slug.push(character);
+        } else if !slug.is_empty() && !slug.ends_with('-') {
+            slug.push('-');
+        }
+    }
+    slug.truncate(slug.trim_end_matches('-').len());
+    slug
 }
 
 pub fn find_glossary_provision<'a>(
@@ -3393,5 +3501,111 @@ mod tests {
                 "cigarros"
             ]
         );
+    }
+
+    #[test]
+    fn term_slugs_keep_only_letters_digits_and_single_hyphens() {
+        // M2 database build, 2026-10-20: 32 identifiers carried printed
+        // punctuation (`-(nip)`, `presidenta/presidente`, `ogm's`).
+        for (name, expected) in [
+            (
+                "Número de Identificación Personal (NIP)",
+                "numero-de-identificacion-personal-nip",
+            ),
+            ("Presidenta/Presidente", "presidenta-presidente"),
+            ("OGM's", "ogm-s"),
+            (
+                "Servicios Ambientales (sinónimo: beneficios ambientales)",
+                "servicios-ambientales-sinonimo-beneficios-ambientales",
+            ),
+            (
+                "Niña, niño o adolescente migrante",
+                "nina-nino-o-adolescente-migrante",
+            ),
+            (
+                "Esquema de Cobertura en Paso y Medida (Pari-Passu)",
+                "esquema-de-cobertura-en-paso-y-medida-pari-passu",
+            ),
+            ("Director (a) del Centro", "director-a-del-centro"),
+            ("Uso agropecuario familiar", "uso-agropecuario-familiar"),
+        ] {
+            assert_eq!(super::slug(name), expected, "{name}");
+        }
+    }
+
+    #[test]
+    fn quoted_names_define_their_text_and_quoted_alternatives_each_define_a_term() {
+        // lan Article 3 quotes every name, straight or curly; the quotation
+        // marks were read into the term, so it matched nothing.
+        let text = "Para los efectos de esta Ley se entenderá por:\n\n\
+             I. \"Aguas Nacionales\": Son aquellas referidas en el Artículo 27;\n\n\
+             II. \"Aguas claras\" o \"Aguas de primer uso\": Aquellas provenientes de cualquier fuente;\n\n\
+             III. “Aguas de Laboreo”: Las que provienen de la mina;\n\n\
+             IV. \"La Comisión\": La Comisión Nacional del Agua.";
+        let detection = wider(text);
+        assert_eq!(
+            terms_and_fractions(&detection.terms),
+            owned(&[
+                ("Aguas Nacionales", "I"),
+                ("Aguas claras", "II"),
+                ("Aguas de primer uso", "II"),
+                ("Aguas de Laboreo", "III"),
+                ("La Comisión", "IV"),
+            ])
+        );
+        assert!(
+            detection
+                .terms
+                .iter()
+                .any(|term| term.id == format!("{STATUTE_ID}:term:aguas-de-primer-uso"))
+        );
+        // Only a name that is wholly quoted loses its marks.
+        assert_eq!(
+            super::defined_names("Ley \"de Aguas\""),
+            vec!["Ley \"de Aguas\""]
+        );
+        assert_eq!(
+            super::defined_names("Patrones, patrón o persona empleadora"),
+            vec!["Patrones, patrón o persona empleadora"]
+        );
+    }
+
+    #[test]
+    fn entries_the_scjn_declared_invalid_are_recorded_and_define_nothing() {
+        // lgcs Article 4: the 2022 text of fractions I-VIII is printed in
+        // brackets with the SCJN invalidity note (the restored earlier text
+        // is not printed). lgappcea III, wider pass, likewise.
+        let established = "[Para los efectos de esta Ley, se entenderá por:] Párrafo reformado DOF 27-12-2022\n\n\
+             I. [Campañas de Comunicación Social: Aquéllas que difunden el quehacer gubernamental;] \
+             Fracción reformada DOF 27-12-2022 Fracción declarada inválida por Resolutivos de la SCJN\n\n\
+             II. [Coemisión de Campaña: Es la difusión de una Campaña;] Fracción declarada inválida por Resolutivos de la SCJN\n\n\
+             III. Dependencias: Las Secretarías de Estado;\n\n\
+             IV. Entidades: Los organismos descentralizados.";
+        let detection = wider(established);
+        assert_eq!(detection.method, Some("established_pass"));
+        assert_eq!(
+            terms_and_fractions(&detection.terms),
+            owned(&[("Dependencias", "III"), ("Entidades", "IV")])
+        );
+        assert_eq!(
+            detection.invalidated_fractions,
+            Some(vec!["I".to_owned(), "II".to_owned()])
+        );
+        assert_eq!(detection.unread_fractions, Some(Vec::new()));
+        let wider_text = "Para los efectos de esta Ley, se entiende por:\n\n\
+             I. Barreras: Actitudes de rechazo; II. [Certificado de habilitación: Documento expedido \
+             por autoridad médica;] Fracción declarada inválida por sentencia de la SCJN DOF 27-05-2016\n\n\
+             III. Comisión: Comisión Intersecretarial.";
+        let detection = wider(wider_text);
+        assert_eq!(detection.method, Some("wider_pass"));
+        assert_eq!(wider_terms(wider_text), vec!["Barreras", "Comisión"]);
+        assert_eq!(detection.invalidated_fractions, Some(vec!["II".to_owned()]));
+        // A bracketed entry without the invalidity note is still read.
+        assert!(
+            !super::INVALIDATED_ENTRY
+                .is_match("[Agencia: La agencia;] Fracción reformada DOF 01-01-2020")
+        );
+        // Nothing invalidated is reported as absent, not empty.
+        assert_eq!(wider("Para los efectos de esta Ley se entenderá por:\n\nI. Agencia: La agencia;\n\nII. Grupo: El grupo.").invalidated_fractions, None);
     }
 }

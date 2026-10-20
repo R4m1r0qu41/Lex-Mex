@@ -232,7 +232,7 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:esquema-de-cobertura-en-paso-y-medida-(pari-passu)",
+    "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:esquema-de-cobertura-en-paso-y-medida-pari-passu",
     "term": "Esquema de Cobertura en Paso y Medida (Pari-Passu)",
     "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "defining_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:1",

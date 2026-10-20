@@ -17,6 +17,6 @@ source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 
 # Artículo 11 BIS 1
 
-"La Comisión" se considerará de acreditada solvencia y no estará obligada por tanto a constituir depósito o fianzas legales, ni aun tratándose de juicios de amparo. Los bienes de "la Comisión", a efectos de la prestación directa de sus servicios serán inembargables.
+"[La Comisión](articulo-3.md)" se considerará de acreditada solvencia y no estará obligada por tanto a constituir depósito o fianzas legales, ni aun tratándose de juicios de amparo. Los bienes de "la Comisión", a efectos de la prestación directa de sus servicios serán inembargables.
 
 Artículo adicionado DOF 29-04-2004

@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-3",
+  "strategy_version": "glossary-extraction-4",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lrpc",
   "source_sha256": "2cc9cde30f6f8852a47752353db06a6b1d946b94d0e5c0e49633cb8f54776320",
   "extracted_text_sha256": "7c37d8104def9783159fc58136c6ab489b1a9cd7ddf4c698508c67a8a40f34c7",

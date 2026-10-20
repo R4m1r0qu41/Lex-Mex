@@ -100,7 +100,7 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:tasa-interna-de-retorno-(tir)",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:tasa-interna-de-retorno-tir",
     "term": "Tasa Interna de Retorno (TIR)",
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lfiiedb",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:2",

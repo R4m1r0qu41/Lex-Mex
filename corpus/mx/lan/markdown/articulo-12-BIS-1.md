@@ -17,7 +17,7 @@ source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 
 # Artículo 12 BIS 1
 
-Los Organismos de Cuenca, en las regiones hidrológico-administrativas son unidades técnicas, administrativas y jurídicas especializadas, con carácter autónomo que esta Ley les confiere, adscritas directamente a la persona Titular de "la Comisión", cuyas atribuciones, naturaleza y ámbito territorial de competencia se establecen en la presente Ley y se detallan en sus reglamentos, y cuyos recursos y presupuesto específicos son determinados por "la Comisión". Párrafo reformado DOF 11-12-2025
+[Los Organismos](articulo-3.md) de Cuenca, en las regiones hidrológico-administrativas son unidades técnicas, administrativas y jurídicas especializadas, con carácter autónomo que esta Ley les confiere, adscritas directamente a la persona Titular de "la Comisión", cuyas atribuciones, naturaleza y ámbito territorial de competencia se establecen en la presente Ley y se detallan en sus reglamentos, y cuyos recursos y presupuesto específicos son determinados por "la Comisión". Párrafo reformado DOF 11-12-2025
 
 Con base en las disposiciones de la presente Ley, "la Comisión" organizará sus actividades y adecuará su integración, organización y funcionamiento al establecimiento de los Organismos de Cuenca referidos, que tendrán el perfil de unidades regionales especializadas para cumplir con sus funciones. Dichos Organismos de Cuenca funcionarán armónicamente con los Consejos de Cuenca en la consecución de la gestión integrada de los recursos hídricos en las cuencas hidrológicas y regiones hidrológicas.
 

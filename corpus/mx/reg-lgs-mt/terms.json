@@ -100,7 +100,7 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:extraccion-de-organos,-tejidos-o-celulas",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:extraccion-de-organos-tejidos-o-celulas",
     "term": "Extracción de Órganos, Tejidos o células",
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mt",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:2",

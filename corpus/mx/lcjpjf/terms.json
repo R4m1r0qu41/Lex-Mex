@@ -122,7 +122,7 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcjpjf:term:presidenta/presidente",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:term:presidenta-presidente",
     "term": "Presidenta/Presidente",
     "instrument_id": "urn:lex-mx:federal:statute:lcjpjf",
     "defining_provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:2",

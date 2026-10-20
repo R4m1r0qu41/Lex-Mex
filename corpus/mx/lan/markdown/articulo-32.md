@@ -17,7 +17,7 @@ source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 
 # Artículo 32
 
-En el Registro Público Nacional del Agua se llevará igualmente el registro nacional permanente, por cuencas, regiones hidrológicas, estados, Ciudad de México y municipios de las obras de alumbramiento y de los brotes de agua del subsuelo, para conocer el comportamiento de los acuíferos y, en su caso, regular su explotación, uso o aprovechamiento.
+En el [Registro Público Nacional del Agua](articulo-3.md) se llevará igualmente el registro nacional permanente, por cuencas, regiones hidrológicas, estados, Ciudad de México y municipios de las obras de alumbramiento y de los brotes de agua del subsuelo, para conocer el comportamiento de los acuíferos y, en su caso, regular su explotación, uso o aprovechamiento.
 
 "La Autoridad del Agua" solicitará los datos a las personas propietarias de las tierras, independientemente de que éstas se localicen dentro o fuera de una zona reglamentada o de veda. Las personas propietarias estarán obligadas a proporcionar esta información y la relativa a las obras de perforación o alumbramiento que hayan efectuado.
 

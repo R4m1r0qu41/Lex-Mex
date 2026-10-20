@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-3",
+  "strategy_version": "glossary-extraction-4",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion",
   "source_sha256": "f135d534dcd7a2734bc7f44e9381e7173c7d8033e1df75a2d4fb132d956e848b",
   "extracted_text_sha256": "60646990a9a9540ca30102138531b6a9b8063d49388b85302bed71a5e804b25c",

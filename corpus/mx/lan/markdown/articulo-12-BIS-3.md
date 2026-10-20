@@ -17,7 +17,7 @@ source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 
 # Artículo 12 BIS 3
 
-El Consejo Consultivo de cada Organismo de Cuenca tendrá las siguientes facultades:
+El Consejo Consultivo de cada [Organismo de Cuenca](articulo-3.md) tendrá las siguientes facultades:
 
 I. Conocer y acordar la política hídrica regional por cuenca hidrológica, en congruencia con la política hídrica nacional, así como las medidas que permitan la programación hídrica y la acción coordinada entre las dependencias, entidades y organismos de las administraciones públicas federal y estatales, y a través de éstas, las municipales, que deban intervenir en materia de gestión de los recursos hídricos;
 

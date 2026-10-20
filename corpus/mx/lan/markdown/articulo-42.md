@@ -23,7 +23,7 @@ I. Concesión o asignación para su explotación, uso o aprovechamiento;
 
 II. Un programa integral de manejo por cuenca y acuíferos a explotar, y III. Permisos para las obras de perforación, reposición o relocalización de pozos, o demás modificaciones a las condiciones de aprovechamiento, que se realicen a partir del decreto de veda o reglamentación.
 
-Las concesiones o asignaciones se sujetarán a los requisitos que establecen los artículos [21](articulo-21.md) y [21 BIS](articulo-21-BIS.md) de esta Ley y se otorgarán de acuerdo con los estudios de disponibilidad respectivos, teniendo en cuenta el volumen de agua usada o aprovechada como promedio en el último año inmediato anterior al decreto respectivo, y que se hubieran inscrito en el Registro Público Nacional del Agua. Párrafo reformado DOF 11-12-2025
+Las concesiones o asignaciones se sujetarán a los requisitos que establecen los artículos [21](articulo-21.md) y [21 BIS](articulo-21-BIS.md) de esta Ley y se otorgarán de acuerdo con los estudios de disponibilidad respectivos, teniendo en cuenta el volumen de agua usada o aprovechada como promedio en el último año inmediato anterior al decreto respectivo, y que se hubieran inscrito en el [Registro Público Nacional del Agua](articulo-3.md). Párrafo reformado DOF 11-12-2025
 
 A falta de dicha inscripción en el Registro citado, se tomará en cuenta el volumen declarado fiscalmente para efectos del pago del derecho federal por uso o aprovechamiento de agua, en el último ejercicio fiscal.
 

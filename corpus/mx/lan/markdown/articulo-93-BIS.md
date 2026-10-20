@@ -17,6 +17,6 @@ source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 
 # Artículo 93 BIS
 
-En adición a lo dispuesto en el [Artículo anterior](articulo-93.md), será motivo de revocación del Permiso de Descarga de aguas residuales, dejar de pagar el derecho por el uso o aprovechamiento de bienes nacionales como cuerpos receptores de las descargas de aguas residuales de manera reincidente en relación con lo dispuesto en la Fracción III del Artículo [92](articulo-92.md) de la presente Ley.
+En adición a lo dispuesto en el [Artículo anterior](articulo-93.md), será motivo de revocación del [Permiso](articulo-3.md) de [Descarga](articulo-3.md) de aguas residuales, dejar de pagar el derecho por el uso o aprovechamiento de bienes nacionales como cuerpos receptores de las descargas de aguas residuales de manera reincidente en relación con lo dispuesto en la Fracción III del Artículo [92](articulo-92.md) de la presente Ley.
 
 Artículo adicionado DOF 29-04-2004

@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-3",
+  "strategy_version": "glossary-extraction-4",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lgamvlv",
   "source_sha256": "71ee875c26fc6a1024ea9481ca0690721959514689d860112c3093f0176dfcfb",
   "extracted_text_sha256": "a7d3b0405093c8a655d24957f9a6714a2e016841ef9a816c8453e35fea759090",

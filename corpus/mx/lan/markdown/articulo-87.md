@@ -17,7 +17,7 @@ source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 
 # Artículo 87
 
-"La Autoridad del Agua" determinará los parámetros que deberán cumplir las descargas, la capacidad de asimilación y dilución de los cuerpos de aguas nacionales y las cargas de contaminantes que éstos pueden recibir, así como las metas de calidad y los plazos para alcanzarlas, mediante la expedición de Declaratorias de Clasificación de los Cuerpos de Aguas Nacionales, las cuales se publicarán en el Diario Oficial de la Federación, lo mismo que sus modificaciones, para su observancia.
+"La Autoridad del Agua" determinará los parámetros que deberán cumplir las descargas, la capacidad de asimilación y dilución de los cuerpos de aguas nacionales y las cargas de contaminantes que éstos pueden recibir, así como las metas de calidad y los plazos para alcanzarlas, mediante la expedición de Declaratorias de Clasificación de los Cuerpos de [Aguas Nacionales](articulo-3.md), las cuales se publicarán en el Diario Oficial de la Federación, lo mismo que sus modificaciones, para su observancia.
 
 Las declaratorias contendrán:
 

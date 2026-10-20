@@ -19,7 +19,7 @@ source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 
 En cada distrito de riego se establecerá un comité hidráulico, cuya organización y operación se determinarán en el reglamento que al efecto elabore y aplique cada distrito, el cual actuará como órgano colegiado de concertación para un manejo adecuado del agua e infraestructura.
 
-El comité hidráulico propondrá un reglamento del distrito de riego respectivo y vigilará su cumplimiento. El reglamento no podrá contravenir lo dispuesto en la concesión y se someterá a sanción del Organismo de Cuenca que corresponda.
+El comité hidráulico propondrá un reglamento del distrito de riego respectivo y vigilará su cumplimiento. El reglamento no podrá contravenir lo dispuesto en la concesión y se someterá a sanción del [Organismo de Cuenca](articulo-3.md) que corresponda.
 
 El reglamento del servicio de riego se ajustará a lo dispuesto en el Artículo [51](articulo-51.md) de la presente Ley.
 
