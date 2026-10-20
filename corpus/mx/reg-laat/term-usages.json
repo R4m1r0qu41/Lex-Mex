@@ -145,15 +145,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-laat:article:2:term-usage:2649-2655",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-laat:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-laat:term:comida",
-    "span": "Comida",
-    "start_char": 2649,
-    "end_char": 2655
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-laat:article:2:term-usage:3029-3032",
     "provision_id": "urn:lex-mx:federal:regulation:reg-laat:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-laat:term:ley",

@@ -10,15 +10,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:2:term-usage:288-305",
-    "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lpdusf:term:comisiones-nacionales",
-    "span": "Comisión Nacional",
-    "start_char": 288,
-    "end_char": 305
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lpdusf:article:2:term-usage:312-329",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:2",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:comisiones-nacionales",
@@ -34,15 +25,6 @@
     "span": "Usuarios",
     "start_char": 366,
     "end_char": 374
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:2:term-usage:441-462",
-    "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lpdusf:term:comision-nacional",
-    "span": "Comisiones Nacionales",
-    "start_char": 441,
-    "end_char": 462
   },
   {
     "schema_version": "0.1.0",

@@ -118,15 +118,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1:term-usage:2288-2301",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:autenticacion",
-    "span": "Autenticación",
-    "start_char": 2288,
-    "end_char": 2301
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1:term-usage:2334-2342",
     "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1",
     "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sociedad",
@@ -550,15 +541,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1:term-usage:9160-9174",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:cuenta-destino",
-    "span": "Cuenta Destino",
-    "start_char": 9160,
-    "end_char": 9174
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1:term-usage:9192-9206",
     "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1",
     "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:cuenta-destino",
@@ -583,15 +565,6 @@
     "span": "Cuenta Colectiva",
     "start_char": 9612,
     "end_char": 9628
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1:term-usage:9776-9789",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:autenticacion",
-    "span": "Autenticación",
-    "start_char": 9776,
-    "end_char": 9789
   },
   {
     "schema_version": "0.1.0",
@@ -700,15 +673,6 @@
     "span": "Sociedad",
     "start_char": 12809,
     "end_char": 12817
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1:term-usage:13027-13040",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:autenticacion",
-    "span": "Autenticación",
-    "start_char": 13027,
-    "end_char": 13040
   },
   {
     "schema_version": "0.1.0",
@@ -910,15 +874,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1:term-usage:18519-18526",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:usuario",
-    "span": "Usuario",
-    "start_char": 18519,
-    "end_char": 18526
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1:term-usage:18635-18643",
     "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1",
     "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sociedad",
@@ -952,15 +907,6 @@
     "span": "Servicios Electrónicos",
     "start_char": 18749,
     "end_char": 18771
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1:term-usage:18844-18851",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:usuario",
-    "span": "Usuario",
-    "start_char": 18844,
-    "end_char": 18851
   },
   {
     "schema_version": "0.1.0",
@@ -1009,15 +955,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1:term-usage:20465-20484",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:medidas-correctivas",
-    "span": "Medidas Correctivas",
-    "start_char": 20465,
-    "end_char": 20484
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1:term-usage:20570-20580",
     "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1",
     "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sociedad",
@@ -1033,15 +970,6 @@
     "span": "Ley",
     "start_char": 20663,
     "end_char": 20666
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1:term-usage:20715-20734",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:medidas-correctivas",
-    "span": "Medidas Correctivas",
-    "start_char": 20715,
-    "end_char": 20734
   },
   {
     "schema_version": "0.1.0",
@@ -1087,15 +1015,6 @@
     "span": "Ley",
     "start_char": 22193,
     "end_char": 22196
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1:term-usage:22217-22250",
-    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:consejo-de-vigilancia-o-comisario",
-    "span": "Consejo de Vigilancia o Comisario",
-    "start_char": 22217,
-    "end_char": 22250
   },
   {
     "schema_version": "0.1.0",

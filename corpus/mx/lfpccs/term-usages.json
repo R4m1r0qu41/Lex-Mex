@@ -19,15 +19,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:3:term-usage:881-889",
-    "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lfpccs:term:semilla",
-    "span": "Semillas",
-    "start_char": 881,
-    "end_char": 889
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpccs:article:3:term-usage:946-952",
     "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:3",
     "term_id": "urn:lex-mx:federal:statute:lfpccs:term:reglas",
@@ -46,15 +37,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:3:term-usage:1228-1248",
-    "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lfpccs:term:variedad-vegetal",
-    "span": "Variedades Vegetales",
-    "start_char": 1228,
-    "end_char": 1248
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpccs:article:3:term-usage:1360-1365",
     "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:3",
     "term_id": "urn:lex-mx:federal:statute:lfpccs:term:guia",
@@ -64,30 +46,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:3:term-usage:1453-1465",
-    "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lfpccs:term:mantenedor",
-    "span": "Mantenedores",
-    "start_char": 1453,
-    "end_char": 1465
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpccs:article:3:term-usage:1539-1549",
     "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:3",
     "term_id": "urn:lex-mx:federal:statute:lfpccs:term:secretaria",
     "span": "Secretaría",
     "start_char": 1539,
     "end_char": 1549
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:3:term-usage:1611-1619",
-    "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lfpccs:term:semilla",
-    "span": "Semillas",
-    "start_char": 1611,
-    "end_char": 1619
   },
   {
     "schema_version": "0.1.0",
@@ -250,15 +214,6 @@
     "span": "Semillas",
     "start_char": 6786,
     "end_char": 6794
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpccs:article:3:term-usage:6961-6981",
-    "provision_id": "urn:lex-mx:federal:statute:lfpccs:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lfpccs:term:variedad-vegetal",
-    "span": "Variedades Vegetales",
-    "start_char": 6961,
-    "end_char": 6981
   },
   {
     "schema_version": "0.1.0",

@@ -64,24 +64,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdnna:article:4:term-usage:8257-8274",
-    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistemas-municipales",
-    "span": "Sistema Municipal",
-    "start_char": 8257,
-    "end_char": 8274
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdnna:article:4:term-usage:8616-8635",
-    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:proteccion-integral",
-    "span": "Protección Integral",
-    "start_char": 8616,
-    "end_char": 8635
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgdnna:article:4:term-usage:8660-8679",
     "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:4",
     "term_id": "urn:lex-mx:federal:statute:lgdnna:term:proteccion-integral",

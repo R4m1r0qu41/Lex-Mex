@@ -46,15 +46,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:2:term-usage:625-644",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lepecfe:term:personas-consejeras",
-    "span": "Personas Consejeras",
-    "start_char": 625,
-    "end_char": 644
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:2:term-usage:690-715",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lepecfe:term:consejo-de-administracion",
@@ -70,15 +61,6 @@
     "span": "Ley",
     "start_char": 767,
     "end_char": 770
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:2:term-usage:779-796",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lepecfe:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lepecfe:term:personas-consejeras",
-    "span": "Persona Consejera",
-    "start_char": 779,
-    "end_char": 796
   },
   {
     "schema_version": "0.1.0",

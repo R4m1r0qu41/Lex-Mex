@@ -55,15 +55,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrpcap:article:2:term-usage:2072-2086",
-    "provision_id": "urn:lex-mx:federal:statute:lrpcap:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lrpcap:term:asilo-politico",
-    "span": "Asilo Político",
-    "start_char": 2072,
-    "end_char": 2086
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lrpcap:article:2:term-usage:2120-2130",
     "provision_id": "urn:lex-mx:federal:statute:lrpcap:article:2",
     "term_id": "urn:lex-mx:federal:statute:lrpcap:term:secretaria",
@@ -79,15 +70,6 @@
     "span": "Representación",
     "start_char": 2222,
     "end_char": 2236
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrpcap:article:2:term-usage:2316-2338",
-    "provision_id": "urn:lex-mx:federal:statute:lrpcap:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lrpcap:term:condicion-de-refugiado",
-    "span": "Condición de Refugiado",
-    "start_char": 2316,
-    "end_char": 2338
   },
   {
     "schema_version": "0.1.0",

@@ -217,15 +217,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfzee:article:3:term-usage:1725-1729",
-    "provision_id": "urn:lex-mx:federal:statute:lfzee:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lfzee:term:zona",
-    "span": "Zona",
-    "start_char": 1725,
-    "end_char": 1729
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfzee:article:3:term-usage:1877-1881",
     "provision_id": "urn:lex-mx:federal:statute:lfzee:article:3",
     "term_id": "urn:lex-mx:federal:statute:lfzee:term:zona",
@@ -331,15 +322,6 @@
     "span": "Zona",
     "start_char": 2976,
     "end_char": 2980
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfzee:article:3:term-usage:3144-3148",
-    "provision_id": "urn:lex-mx:federal:statute:lfzee:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lfzee:term:zona",
-    "span": "Zona",
-    "start_char": 3144,
-    "end_char": 3148
   },
   {
     "schema_version": "0.1.0",

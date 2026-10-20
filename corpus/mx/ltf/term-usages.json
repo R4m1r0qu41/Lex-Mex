@@ -226,15 +226,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltf:article:2:term-usage:3106-3115",
-    "provision_id": "urn:lex-mx:federal:statute:ltf:article:2",
-    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
-    "span": "Tesorería",
-    "start_char": 3106,
-    "end_char": 3115
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:ltf:article:2:term-usage:3172-3181",
     "provision_id": "urn:lex-mx:federal:statute:ltf:article:2",
     "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",

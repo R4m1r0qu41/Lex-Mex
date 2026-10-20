@@ -39,7 +39,7 @@ X. Secretaría: Secretaría de Gobernación.
 
 XI. Solicitante de Asilo Político: El extranjero que solicita a la Secretaría de Relaciones Exteriores, a sus delegaciones localizadas fuera del Distrito Federal o a la [Representación](articulo-2.md), según corresponda, el otorgamiento de asilo político.
 
-XII. Solicitante de la [Condición de Refugiado](articulo-2.md): El extranjero que solicita a la Secretaría el reconocimiento de la condición de refugiado, independientemente de su situación migratoria.
+XII. Solicitante de la Condición de Refugiado: El extranjero que solicita a la Secretaría el reconocimiento de la condición de refugiado, independientemente de su situación migratoria.
 
 XIII. Interculturalidad. El principio de política que asegura la inclusión igualitaria en sociedades culturalmente diversas en un plano de equidad real y dignidad humana, basado en la salvaguarda, respeto y ejercicio de las libertades y derechos humanos. Fomenta la interacción e interrelación entre personas de diferentes orígenes e identidades, personales y culturales. Fracción adicionada DOF 18-02-2022
 

@@ -874,15 +874,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:2548-2560",
-    "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:acreditacion",
-    "span": "Acreditación",
-    "start_char": 2548,
-    "end_char": 2560
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:2616-2626",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:4",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:secretaria",
@@ -952,15 +943,6 @@
     "span": "Autoridades Normalizadoras",
     "start_char": 4740,
     "end_char": 4766
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:5439-5467",
-    "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:evaluacion-de-la-conformidad",
-    "span": "Evaluación de la Conformidad",
-    "start_char": 5439,
-    "end_char": 5467
   },
   {
     "schema_version": "0.1.0",
@@ -1036,15 +1018,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:5951-5980",
-    "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:infraestructura-de-la-calidad",
-    "span": "Infraestructura de la Calidad",
-    "start_char": 5951,
-    "end_char": 5980
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:6154-6182",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:4",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:evaluacion-de-la-conformidad",
@@ -1072,15 +1045,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:6314-6342",
-    "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:evaluacion-de-la-conformidad",
-    "span": "Evaluación de la Conformidad",
-    "start_char": 6314,
-    "end_char": 6342
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:6471-6493",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:4",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:norma-oficial-mexicana",
@@ -1096,15 +1060,6 @@
     "span": "Estándar",
     "start_char": 6496,
     "end_char": 6504
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:6660-6689",
-    "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:infraestructura-de-la-calidad",
-    "span": "Infraestructura de la Calidad",
-    "start_char": 6660,
-    "end_char": 6689
   },
   {
     "schema_version": "0.1.0",

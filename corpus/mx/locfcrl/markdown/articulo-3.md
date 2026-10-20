@@ -23,7 +23,7 @@ I. Centro: El Centro Federal de Conciliación y Registro Laboral;
 
 II. Constitución: La Constitución Política de los Estados Unidos Mexicanos;
 
-III. Director (a) del [Centro](articulo-3.md): Persona encargada de la Dirección General del Centro; IV. Junta de Gobierno: La Junta de Gobierno del Centro Federal de Conciliación y Registro Laboral;
+III. Director (a) del Centro: Persona encargada de la Dirección General del [Centro](articulo-3.md); IV. Junta de Gobierno: La Junta de Gobierno del Centro Federal de Conciliación y Registro Laboral;
 
 V. Ley: La Ley Orgánica del Centro Federal de Conciliación y Registro Laboral;
 

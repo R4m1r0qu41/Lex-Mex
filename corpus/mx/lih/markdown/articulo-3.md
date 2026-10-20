@@ -47,7 +47,7 @@ Cuando las actividades se realicen en un periodo que no comprenda un mes calenda
 
 XII. Porcentaje de Recuperación de Costos: un porcentaje que la Secretaría fijará en las bases de licitación, así como en la migración de áreas bajo Asignación a los esquemas de Contrato, para cada Contrato que contemple la recuperación de costos;
 
-XIII. Precio Contractual de los [Condensados](articulo-3.md): el Precio de los Condensados producidos en el Área Contractual, en dólares de los Estados Unidos de América por [Barril](articulo-3.md), que se determina cada Periodo en el [Punto de Medición](articulo-3.md), en términos de lo dispuesto en el artículo [25](articulo-25.md) de esta Ley, conforme a los mecanismos previstos en cada Contrato;
+XIII. Precio Contractual de los Condensados: el Precio de los [Condensados](articulo-3.md) producidos en el Área Contractual, en dólares de los Estados Unidos de América por [Barril](articulo-3.md), que se determina cada Periodo en el [Punto de Medición](articulo-3.md), en términos de lo dispuesto en el artículo [25](articulo-25.md) de esta Ley, conforme a los mecanismos previstos en cada Contrato;
 
 XIV. Precio Contractual del Gas Natural: el Precio del Gas Natural producido en el Área Contractual, en dólares de los Estados Unidos de América por millón de [BTU](articulo-3.md), que se determina cada Periodo en el Punto de Medición, en términos de lo dispuesto en el artículo [25](articulo-25.md) de esta Ley, conforme a los mecanismos previstos en cada Contrato;
 

@@ -46,15 +46,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsa:article:2:term-usage:5127-5143",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfsa:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfsa:term:personal-oficial",
-    "span": "Personal Oficial",
-    "start_char": 5127,
-    "end_char": 5143
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfsa:article:3:term-usage:764-767",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsa:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsa:term:ley",

@@ -55,15 +55,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cmpp:article:3:term-usage:446-454",
-    "provision_id": "urn:lex-mx:federal:code:cmpp:article:3",
-    "term_id": "urn:lex-mx:federal:code:cmpp:term:fiscalia",
-    "span": "Fiscalía",
-    "start_char": 446,
-    "end_char": 454
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:code:cmpp:article:3:term-usage:496-514",
     "provision_id": "urn:lex-mx:federal:code:cmpp:article:3",
     "term_id": "urn:lex-mx:federal:code:cmpp:term:ministerio-publico",

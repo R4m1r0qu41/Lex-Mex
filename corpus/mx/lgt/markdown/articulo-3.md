@@ -37,7 +37,7 @@ IX. Ley: Ley General de Turismo;
 
 X. Ordenamiento Turístico del Territorio: Instrumento de la política turística bajo el enfoque social, ambiental y territorial, cuya finalidad es conocer e inducir el uso de suelo y las actividades productivas con el propósito de lograr el aprovechamiento ordenado y sustentable de los recursos turísticos, de conformidad con las disposiciones jurídicas aplicables en materia de medio ambiente y asentamientos humanos;
 
-XI. Prestadores de [Servicios Turísticos](articulo-3.md): Las personas físicas o morales que ofrezcan, proporcionen, o contraten con el turista, la prestación de los servicios a que se refiere esta Ley;
+XI. Prestadores de Servicios Turísticos: Las personas físicas o morales que ofrezcan, proporcionen, o contraten con el turista, la prestación de los servicios a que se refiere esta Ley;
 
 XII. Programa: Programa Sectorial de Turismo;
 

@@ -127,15 +127,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-diputados:article:2:term-usage:1135-1150",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-diputados:term:junta-directiva",
-    "span": "Junta Directiva",
-    "start_char": 1135,
-    "end_char": 1150
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-diputados:article:2:term-usage:1307-1313",
     "provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-diputados:term:camara",
@@ -160,24 +151,6 @@
     "span": "Cámara",
     "start_char": 1386,
     "end_char": 1392
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-diputados:article:2:term-usage:1430-1445",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-diputados:term:junta-directiva",
-    "span": "Junta Directiva",
-    "start_char": 1430,
-    "end_char": 1445
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-diputados:article:2:term-usage:1631-1637",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-diputados:term:camara",
-    "span": "Cámara",
-    "start_char": 1631,
-    "end_char": 1637
   },
   {
     "schema_version": "0.1.0",

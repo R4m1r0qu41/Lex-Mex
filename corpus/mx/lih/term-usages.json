@@ -280,15 +280,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:3237-3248",
-    "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lih:term:condensados",
-    "span": "Condensados",
-    "start_char": 3237,
-    "end_char": 3248
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:3267-3278",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:condensados",
@@ -511,15 +502,6 @@
     "span": "Periodo",
     "start_char": 5446,
     "end_char": 5453
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:5486-5497",
-    "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lih:term:condensados",
-    "span": "Condensados",
-    "start_char": 5486,
-    "end_char": 5497
   },
   {
     "schema_version": "0.1.0",

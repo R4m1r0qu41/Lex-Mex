@@ -280,15 +280,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lse:article:3:term-usage:1418-1434",
-    "provision_id": "urn:lex-mx:federal:statute:lse:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lse:term:energias-limpias",
-    "span": "Energías Limpias",
-    "start_char": 1418,
-    "end_char": 1434
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lse:article:3:term-usage:1458-1461",
     "provision_id": "urn:lex-mx:federal:statute:lse:article:3",
     "term_id": "urn:lex-mx:federal:statute:lse:term:cne",
@@ -424,15 +415,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lse:article:3:term-usage:2651-2677",
-    "provision_id": "urn:lex-mx:federal:statute:lse:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lse:term:sistema-electrico-nacional",
-    "span": "Sistema Eléctrico Nacional",
-    "start_char": 2651,
-    "end_char": 2677
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lse:article:3:term-usage:2809-2822",
     "provision_id": "urn:lex-mx:federal:statute:lse:article:3",
     "term_id": "urn:lex-mx:federal:statute:lse:term:confiabilidad",
@@ -502,15 +484,6 @@
     "span": "CNE",
     "start_char": 3254,
     "end_char": 3257
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lse:article:3:term-usage:3263-3282",
-    "provision_id": "urn:lex-mx:federal:statute:lse:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lse:term:demanda-controlable",
-    "span": "Demanda Controlable",
-    "start_char": 3263,
-    "end_char": 3282
   },
   {
     "schema_version": "0.1.0",
@@ -1933,15 +1906,6 @@
     "span": "Suministradora de Servicios Calificados",
     "start_char": 20716,
     "end_char": 20755
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lse:article:3:term-usage:20773-20790",
-    "provision_id": "urn:lex-mx:federal:statute:lse:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lse:term:suministro-basico",
-    "span": "Suministro Básico",
-    "start_char": 20773,
-    "end_char": 20790
   },
   {
     "schema_version": "0.1.0",

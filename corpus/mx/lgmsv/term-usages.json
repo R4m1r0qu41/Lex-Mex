@@ -100,15 +100,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmsv:article:3:term-usage:2335-2344",
-    "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lgmsv:term:movilidad",
-    "span": "Movilidad",
-    "start_char": 2335,
-    "end_char": 2344
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmsv:article:3:term-usage:2433-2436",
     "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:3",
     "term_id": "urn:lex-mx:federal:statute:lgmsv:term:ley",
@@ -118,30 +109,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmsv:article:3:term-usage:5678-5687",
-    "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lgmsv:term:movilidad",
-    "span": "Movilidad",
-    "start_char": 5678,
-    "end_char": 5687
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmsv:article:3:term-usage:5771-5780",
     "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:3",
     "term_id": "urn:lex-mx:federal:statute:lgmsv:term:movilidad",
     "span": "Movilidad",
     "start_char": 5771,
     "end_char": 5780
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmsv:article:3:term-usage:6000-6009",
-    "provision_id": "urn:lex-mx:federal:statute:lgmsv:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lgmsv:term:movilidad",
-    "span": "Movilidad",
-    "start_char": 6000,
-    "end_char": 6009
   },
   {
     "schema_version": "0.1.0",

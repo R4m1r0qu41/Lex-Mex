@@ -262,15 +262,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:4:term-usage:2339-2347",
-    "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:victimas",
-    "span": "Víctimas",
-    "start_char": 2339,
-    "end_char": 2347
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmdfp:article:4:term-usage:2380-2388",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:4",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:victimas",
@@ -433,15 +424,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:4:term-usage:8566-8583",
-    "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:registro-nacional",
-    "span": "Registro Nacional",
-    "start_char": 8566,
-    "end_char": 8583
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmdfp:article:4:term-usage:8630-8647",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:4",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:registro-nacional",
@@ -457,15 +439,6 @@
     "span": "Entidades Federativas",
     "start_char": 8865,
     "end_char": 8886
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:4:term-usage:8926-8943",
-    "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:registro-nacional",
-    "span": "Registro Nacional",
-    "start_char": 8926,
-    "end_char": 8943
   },
   {
     "schema_version": "0.1.0",

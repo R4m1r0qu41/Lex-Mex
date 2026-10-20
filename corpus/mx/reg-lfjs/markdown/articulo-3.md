@@ -67,7 +67,7 @@ XX. Secretaría: Secretaría de Gobernación;
 
 XXI. Sembrado: Distribución aleatoria de los números que serán premiados o de los premios que serán otorgados, establecida en el momento de elaboración de los comprobantes de participación de los sorteos instantáneos;
 
-XXII. Sistema Central de [Apuestas](articulo-3.md): Sistema central de cómputo que registra y totaliza las transacciones generadas con motivo de la apuesta y permite su interconexión segura a través de telecomunicaciones;
+XXII. Sistema Central de Apuestas: Sistema central de cómputo que registra y totaliza las transacciones generadas con motivo de la apuesta y permite su interconexión segura a través de telecomunicaciones;
 
 XXIII. Sorteo: Actividad en la que los poseedores o titulares de un boleto mediante la selección previa de un número, combinación de números o cualquier otro símbolo, obtienen el derecho a participar, ya sea de manera gratuita o mediante un pago, en un procedimiento previamente estipulado y aprobado por la Secretaría, conforme al cual se determina al azar un número, combinación de números, símbolo o símbolos que generan uno o varios ganadores de un premio;
 

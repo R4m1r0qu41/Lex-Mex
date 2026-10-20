@@ -37,7 +37,7 @@ X. CCTM. Conjunto de equipos y sistemas adaptados a las características del pue
 
 XI. Certificado de Competencia. Es el documento expedido por la Dirección General que constituye prueba sobre el nivel y capacidad técnica del [Personal de la Marina Mercante](articulo-10.md), y le acredita para desempeñar un cargo a bordo de [Embarcaciones Menores](articulo-10.md) en aguas interiores;
 
-XII. [Certificado de Competencia](articulo-10.md) Especial. Es el documento por el que se acredita el nivel de profesionalización alcanzado por el Personal de la Marina Mercante, conforme a la capacitación y alcance de competencia, exigida por el [Convenio STCW](articulo-10.md);
+XII. Certificado de Competencia Especial. Es el documento por el que se acredita el nivel de profesionalización alcanzado por el Personal de la Marina Mercante, conforme a la capacitación y alcance de competencia, exigida por el [Convenio STCW](articulo-10.md);
 
 XIII. Certificado de Seguridad. El documento aprobado por la Secretaría, y firmado por el [OSSM](articulo-10.md), que avala que las inspecciones efectuadas a la Embarcación o Artefacto Naval, demuestran que cumplen con los requisitos establecidos en el presente Reglamento y, en su caso, con la normativa internacional aplicable;
 
@@ -105,7 +105,7 @@ XLVI. Inspección Submarina. Aquélla que se realiza para conocer las condicione
 
 XLVII. Inspecciones en Seco. Aquéllas que comprenden una comprobación de las planchas del forro exterior, tales como fondo, costados y cubierta de cierre estructurales y mamparos, incluyendo las construcciones que formen parte integral del mismo, los timones y sus apoyos, los imbornales y desagües con sus válvulas, las tomas de mar y las válvulas de descarga con sus uniones al forro, las hélices y los cierres de los ejes;
 
-XLVIII. Institución Educativa del [FIDENA](articulo-10.md). Centros educativos de formación y capacitación, administrados por el FIDENA;
+XLVIII. Institución Educativa del FIDENA. Centros educativos de formación y capacitación, administrados por el [FIDENA](articulo-10.md);
 
 XLIX. Institución Educativa Particular. Persona moral autorizada por la Dirección General para dar capacitación en materia de seguridad al [Personal Subalterno](articulo-10.md) de la Marina Mercante, de acuerdo con la Ley;
 
@@ -145,13 +145,13 @@ LXVII. Personal Subalterno. Los tripulantes de una Embarcación, distintos del c
 
 LXVIII. Piloto de Puerto. Profesional de la Marina Mercante autorizado y certificado por la Secretaría para realizar el servicio de pilotaje en el puerto, consistente en maniobras de entrada, atraque, desatraque, salida, enmienda y fondeo en el puerto y sus proximidades;
 
-LXIX. Prestación de Servicios de [Turismo Náutico](articulo-10.md). La actividad que realiza el naviero, con el permiso que otorga la Secretaría, para que opere y explote comercialmente una [Embarcación Menor de Recreo y Deportiva](articulo-10.md) al proporcionar a terceros servicios de Turismo Náutico;
+LXIX. Prestación de Servicios de Turismo Náutico. La actividad que realiza el naviero, con el permiso que otorga la Secretaría, para que opere y explote comercialmente una [Embarcación Menor de Recreo y Deportiva](articulo-10.md) al proporcionar a terceros servicios de [Turismo Náutico](articulo-10.md);
 
 LXX. Protección Marítima. Conjunto de medidas y acciones destinadas a salvaguardar de toda amenaza que pueda afectar a las instalaciones portuarias y a las Embarcaciones, así como a las personas, carga, unidades de transporte y provisiones, a bordo de las Embarcaciones o en la instalación portuaria;
 
 LXXI. Puente de Mando. La superestructura más elevada de la Embarcación, donde están instalados los principales aparatos náuticos y el control del timón;
 
-LXXII. Reglas de Operación de los [CCTM](articulo-10.md). Documento oficial autorizado por la Secretaría, que tiene por objeto regular el funcionamiento y operación de un Centro de [Control de Tráfico Marítimo](articulo-10.md);
+LXXII. Reglas de Operación de los CCTM. Documento oficial autorizado por la Secretaría, que tiene por objeto regular el funcionamiento y operación de un Centro de [Control de Tráfico Marítimo](articulo-10.md);
 
 LXXIII. REMAFE. Resguardo Marítimo Federal;
 
@@ -193,7 +193,7 @@ XCII. Vía de Circulación. Zona claramente delimitada, dentro de la cual se est
 
 XCIII. Viajes Próximos a la Costa. Son aquéllos en que la Embarcación realiza su Navegación sin alejarse a más de veinte millas náuticas de la tierra más próxima;
 
-XCIV. Zona de Cobertura. Área delimitada por la Dirección General, oficialmente declarada zona de acción del CCTM;
+XCIV. Zona de Cobertura. Área delimitada por la Dirección General, oficialmente declarada zona de acción del [CCTM](articulo-10.md);
 
 XCV. Zona de Separación. La que separa las vías de circulación de buques que navegan en direcciones opuestas; o que separan una [Vía de Circulación](articulo-10.md) de la zona marítima adyacente; o unas vías de circulación designadas para determinadas clases de buques que navegan en la misma dirección;
 

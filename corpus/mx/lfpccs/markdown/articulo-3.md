@@ -27,13 +27,13 @@ III. Calidad Fitosanitaria: Medida de la sanidad de la semilla que evalúa y det
 
 IV. Calidad Genética: Medida de la identidad genética de la semilla, se expresa como el porcentaje de semillas viables que se identifican con respecto a los caracteres pertinentes de la variedad vegetal;
 
-V. Calificación de [Semillas](articulo-3.md): Procedimiento por el cual se verifican, conforme a las [Reglas](articulo-3.md) que para tal efecto emite la [Secretaría](articulo-3.md), las características de calidad de las semillas en sus diferentes categorías;
+V. Calificación de Semillas: Procedimiento por el cual se verifican, conforme a las [Reglas](articulo-3.md) que para tal efecto emite la [Secretaría](articulo-3.md), las características de calidad de las semillas en sus diferentes categorías;
 
 VI. Caracteres pertinentes: Expresiones fenotípicas y genotípicas propias de la variedad vegetal que permiten su identificación;
 
-VII. Catálogo Nacional de [Variedades Vegetales](articulo-3.md): Documento que enlista las variedades vegetales cuyos caracteres pertinentes han sido descritos conforme a las [Guías](articulo-3.md) de cada especie para garantizar su identidad genética y distinción;
+VII. Catálogo Nacional de Variedades Vegetales: Documento que enlista las variedades vegetales cuyos caracteres pertinentes han sido descritos conforme a las [Guías](articulo-3.md) de cada especie para garantizar su identidad genética y distinción;
 
-VIII. Catálogo de [Mantenedores](articulo-3.md): Documento que enlista a las personas físicas o morales aprobadas por la Secretaría como mantenedores de variedades vegetales;
+VIII. Catálogo de Mantenedores: Documento que enlista a las personas físicas o morales aprobadas por la Secretaría como mantenedores de variedades vegetales;
 
 IX. Categoría de Semillas: Clasificación que se otorga a las semillas en términos de procedimientos, factores y niveles de calidad conforme a las Reglas correspondientes; se reconocen las categorías Básica, Registrada, Certificada, Habilitada y Declarada;
 
@@ -65,10 +65,10 @@ XXIII. Semilla Categoría Certificada: La que conserva un grado adecuado y satis
 
 XXIV. Semilla Categoría Registrada: La que conserva un alto grado de identidad genética y pureza varietal, proviene de una semilla Original, Básica o Registrada y es producida y reproducida o multiplicada de acuerdo con las Reglas a que se refiere esta Ley;
 
-XXV. Semilla Original: Esta semilla constituye la fuente inicial para la producción de semillas de las categorías Básica, Registrada y Certificada y es el resultado de un proceso de mejoramiento o selección de variedades vegetales. La semilla Original conserva los caracteres pertinentes con los que la variedad fue inscrita en el Catálogo Nacional de Variedades Vegetales; XXVI. Sistema: El Sistema Nacional de Semillas, lo integran representantes de la Secretaría, el [SNICS](articulo-3.md), el Instituto Nacional de Investigaciones Agrícolas, Forestales y Pecuarias, de productores y comercializadores de semillas, obtentores, fitomejoradores y mantenedores de semillas, Comités Consultivos Regionales y Estatales de Semillas, asociaciones de agricultores, instituciones de enseñanza superior, de investigación y extensión.
+XXV. Semilla Original: Esta semilla constituye la fuente inicial para la producción de semillas de las categorías Básica, Registrada y Certificada y es el resultado de un proceso de mejoramiento o selección de variedades vegetales. La semilla Original conserva los caracteres pertinentes con los que la variedad fue inscrita en el Catálogo Nacional de Variedades Vegetales; XXVI. Sistema: El Sistema Nacional de [Semillas](articulo-3.md), lo integran representantes de la Secretaría, el [SNICS](articulo-3.md), el Instituto Nacional de Investigaciones Agrícolas, Forestales y Pecuarias, de productores y comercializadores de semillas, obtentores, fitomejoradores y mantenedores de semillas, Comités Consultivos Regionales y Estatales de Semillas, asociaciones de agricultores, instituciones de enseñanza superior, de investigación y extensión.
 
 XXVII. SNICS. El Servicio Nacional de Inspección y Certificación de Semillas;
 
 XXVIII. Variedad Vegetal: Subdivisión de una especie que incluye a un grupo de individuos con características similares, se considera estable y homogénea; y
 
-XXIX. Variedades Vegetales de Uso Común: Variedades vegetales inscritas en el Catálogo Nacional de Variedades Vegetales cuyo plazo de protección al derecho de obtentor conforme a la Ley Federal de Variedades Vegetales haya transcurrido, así como las utilizadas por comunidades rurales cuyo origen es resultado de sus prácticas, usos y costumbres.
+XXIX. Variedades Vegetales de Uso Común: Variedades vegetales inscritas en el Catálogo Nacional de Variedades Vegetales cuyo plazo de protección al derecho de obtentor conforme a la Ley Federal de [Variedades Vegetales](articulo-3.md) haya transcurrido, así como las utilizadas por comunidades rurales cuyo origen es resultado de sus prácticas, usos y costumbres.

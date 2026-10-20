@@ -73,15 +73,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgipd:article:2:term-usage:8609-8621",
-    "provision_id": "urn:lex-mx:federal:statute:lgipd:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lgipd:term:discapacidad",
-    "span": "Discapacidad",
-    "start_char": 8609,
-    "end_char": 8621
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgipd:article:2:term-usage:9144-9147",
     "provision_id": "urn:lex-mx:federal:statute:lgipd:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgipd:term:ley",

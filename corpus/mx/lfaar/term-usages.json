@@ -55,15 +55,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfaar:article:2:term-usage:813-833",
-    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
-    "span": "Organismo Integrador",
-    "start_char": 813,
-    "end_char": 833
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfaar:article:2:term-usage:847-867",
     "provision_id": "urn:lex-mx:federal:statute:lfaar:article:2",
     "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
@@ -82,30 +73,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfaar:article:2:term-usage:1023-1043",
-    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
-    "span": "Organismo Integrador",
-    "start_char": 1023,
-    "end_char": 1043
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfaar:article:2:term-usage:1134-1165",
     "provision_id": "urn:lex-mx:federal:statute:lfaar:article:2",
     "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-local",
     "span": "Organismos Integradores Locales",
     "start_char": 1134,
     "end_char": 1165
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfaar:article:2:term-usage:1274-1294",
-    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
-    "span": "Organismo Integrador",
-    "start_char": 1274,
-    "end_char": 1294
   },
   {
     "schema_version": "0.1.0",

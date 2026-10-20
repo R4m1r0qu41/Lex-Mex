@@ -10,30 +10,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-liva:article:1:term-usage:202-210",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-liva:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:reg-liva:term:impuesto",
-    "span": "Impuesto",
-    "start_char": 202,
-    "end_char": 210
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-liva:article:1:term-usage:294-297",
     "provision_id": "urn:lex-mx:federal:regulation:reg-liva:article:1",
     "term_id": "urn:lex-mx:federal:regulation:reg-liva:term:ley",
     "span": "Ley",
     "start_char": 294,
     "end_char": 297
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-liva:article:1:term-usage:371-374",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-liva:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:reg-liva:term:ley",
-    "span": "Ley",
-    "start_char": 371,
-    "end_char": 374
   },
   {
     "schema_version": "0.1.0",

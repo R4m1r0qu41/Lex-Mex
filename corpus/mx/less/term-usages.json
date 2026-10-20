@@ -55,15 +55,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:less:article:5:term-usage:170-176",
-    "provision_id": "urn:lex-mx:federal:statute:less:article:5",
-    "term_id": "urn:lex-mx:federal:statute:less:term:sector",
-    "span": "Sector",
-    "start_char": 170,
-    "end_char": 176
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:less:article:5:term-usage:226-232",
     "provision_id": "urn:lex-mx:federal:statute:less:article:5",
     "term_id": "urn:lex-mx:federal:statute:less:term:sector",

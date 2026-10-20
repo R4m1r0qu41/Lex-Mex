@@ -1,39 +1,12 @@
 [
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:3:term-usage:2369-2382",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:contaminacion",
-    "span": "Contaminación",
-    "start_char": 2369,
-    "end_char": 2382
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:3:term-usage:4460-4471",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:ecosistema",
-    "span": "Ecosistemas",
-    "start_char": 4460,
-    "end_char": 4471
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgeepa:article:3:term-usage:5197-5207",
     "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:3",
     "term_id": "urn:lex-mx:federal:statute:lgeepa:term:secretaria",
     "span": "Secretaría",
     "start_char": 5197,
     "end_char": 5207
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeepa:article:3:term-usage:11073-11081",
-    "provision_id": "urn:lex-mx:federal:statute:lgeepa:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lgeepa:term:residuo",
-    "span": "Residuos",
-    "start_char": 11073,
-    "end_char": 11081
   },
   {
     "schema_version": "0.1.0",

@@ -21,7 +21,7 @@ Para efectos de este Reglamento se entenderá por:
 
 I. Bienes de Interés Paleontológico: vestigios o restos fósiles de seres orgánicos que habitaron el territorio nacional;
 
-II. Centro [INAH](articulo-2.md): la unidad administrativa que ejerce la competencia del [Instituto](articulo-2.md) en el territorio de un estado de la Federación;
+II. Centro INAH: la unidad administrativa que ejerce la competencia del [Instituto](articulo-2.md) en el territorio de un estado de la Federación;
 
 III. Conservación: el conjunto de acciones destinadas a salvaguardar el [Patrimonio Cultural](articulo-2.md), a fin de respetar sus valores y significados, y garantizar su acceso y disfrute a las generaciones presentes y futuras, acciones que incluyen la conservación preventiva, la conservación directa y la restauración;
 

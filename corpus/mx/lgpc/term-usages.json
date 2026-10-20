@@ -1,15 +1,6 @@
 [
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:799-806",
-    "provision_id": "urn:lex-mx:federal:statute:lgpc:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lgpc:term:riesgo",
-    "span": "Riesgos",
-    "start_char": 799,
-    "end_char": 806
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:1590-1624",
     "provision_id": "urn:lex-mx:federal:statute:lgpc:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgpc:term:unidad-interna-de-proteccion-civil",
@@ -118,51 +109,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:7472-7479",
-    "provision_id": "urn:lex-mx:federal:statute:lgpc:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lgpc:term:riesgo",
-    "span": "Riesgos",
-    "start_char": 7472,
-    "end_char": 7479
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:8648-8654",
-    "provision_id": "urn:lex-mx:federal:statute:lgpc:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lgpc:term:seguro",
-    "span": "Seguro",
-    "start_char": 8648,
-    "end_char": 8654
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:8893-8900",
-    "provision_id": "urn:lex-mx:federal:statute:lgpc:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lgpc:term:riesgo",
-    "span": "Riesgos",
-    "start_char": 8893,
-    "end_char": 8900
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:9561-9568",
-    "provision_id": "urn:lex-mx:federal:statute:lgpc:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lgpc:term:riesgo",
-    "span": "Riesgos",
-    "start_char": 9561,
-    "end_char": 9568
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:11903-11919",
-    "provision_id": "urn:lex-mx:federal:statute:lgpc:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lgpc:term:proteccion-civil",
-    "span": "Protección Civil",
-    "start_char": 11903,
-    "end_char": 11919
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:12125-12159",
     "provision_id": "urn:lex-mx:federal:statute:lgpc:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgpc:term:unidad-interna-de-proteccion-civil",
@@ -199,15 +145,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:14014-14021",
-    "provision_id": "urn:lex-mx:federal:statute:lgpc:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lgpc:term:riesgo",
-    "span": "Riesgos",
-    "start_char": 14014,
-    "end_char": 14021
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:16170-16177",
     "provision_id": "urn:lex-mx:federal:statute:lgpc:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgpc:term:riesgo",
@@ -223,15 +160,6 @@
     "span": "Protección Civil",
     "start_char": 16691,
     "end_char": 16707
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:17025-17041",
-    "provision_id": "urn:lex-mx:federal:statute:lgpc:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lgpc:term:proteccion-civil",
-    "span": "Protección Civil",
-    "start_char": 17025,
-    "end_char": 17041
   },
   {
     "schema_version": "0.1.0",
@@ -262,48 +190,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:17503-17519",
-    "provision_id": "urn:lex-mx:federal:statute:lgpc:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lgpc:term:proteccion-civil",
-    "span": "Protección Civil",
-    "start_char": 17503,
-    "end_char": 17519
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:17690-17706",
     "provision_id": "urn:lex-mx:federal:statute:lgpc:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgpc:term:sistema-nacional",
     "span": "Sistema Nacional",
     "start_char": 17690,
     "end_char": 17706
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:18037-18045",
-    "provision_id": "urn:lex-mx:federal:statute:lgpc:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lgpc:term:desastre",
-    "span": "Desastre",
-    "start_char": 18037,
-    "end_char": 18045
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:18350-18356",
-    "provision_id": "urn:lex-mx:federal:statute:lgpc:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lgpc:term:riesgo",
-    "span": "Riesgo",
-    "start_char": 18350,
-    "end_char": 18356
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:18532-18546",
-    "provision_id": "urn:lex-mx:federal:statute:lgpc:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lgpc:term:zona-de-riesgo",
-    "span": "Zona de Riesgo",
-    "start_char": 18532,
-    "end_char": 18546
   },
   {
     "schema_version": "0.1.0",

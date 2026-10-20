@@ -73,15 +73,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:3:term-usage:2018-2036",
-    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:3",
-    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:publicidad-digital",
-    "span": "Publicidad Digital",
-    "start_char": 2018,
-    "end_char": 2036
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:3:term-usage:2051-2069",
     "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:3",
     "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:publicidad-digital",

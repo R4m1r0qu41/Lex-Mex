@@ -145,15 +145,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:linfonacot:article:4:term-usage:671-676",
-    "provision_id": "urn:lex-mx:federal:statute:linfonacot:article:4",
-    "term_id": "urn:lex-mx:federal:statute:linfonacot:term:fondo",
-    "span": "Fondo",
-    "start_char": 671,
-    "end_char": 676
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:linfonacot:article:4:term-usage:737-746",
     "provision_id": "urn:lex-mx:federal:statute:linfonacot:article:4",
     "term_id": "urn:lex-mx:federal:statute:linfonacot:term:instituto",

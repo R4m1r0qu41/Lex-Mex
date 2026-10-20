@@ -91,75 +91,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpgir:article:5:term-usage:233-241",
-    "provision_id": "urn:lex-mx:federal:statute:lgpgir:article:5",
-    "term_id": "urn:lex-mx:federal:statute:lgpgir:term:residuo",
-    "span": "Residuos",
-    "start_char": 233,
-    "end_char": 241
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpgir:article:5:term-usage:515-534",
-    "provision_id": "urn:lex-mx:federal:statute:lgpgir:article:5",
-    "term_id": "urn:lex-mx:federal:statute:lgpgir:term:sitio-contaminado",
-    "span": "Sitios Contaminados",
-    "start_char": 515,
-    "end_char": 534
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpgir:article:5:term-usage:1355-1361",
-    "provision_id": "urn:lex-mx:federal:statute:lgpgir:article:5",
-    "term_id": "urn:lex-mx:federal:statute:lgpgir:term:riesgo",
-    "span": "Riesgo",
-    "start_char": 1355,
-    "end_char": 1361
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpgir:article:5:term-usage:1881-1889",
-    "provision_id": "urn:lex-mx:federal:statute:lgpgir:article:5",
-    "term_id": "urn:lex-mx:federal:statute:lgpgir:term:residuo",
-    "span": "Residuos",
-    "start_char": 1881,
-    "end_char": 1889
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpgir:article:5:term-usage:2532-2541",
-    "provision_id": "urn:lex-mx:federal:statute:lgpgir:article:5",
-    "term_id": "urn:lex-mx:federal:statute:lgpgir:term:generador",
-    "span": "Generador",
-    "start_char": 2532,
-    "end_char": 2541
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpgir:article:5:term-usage:3351-3359",
-    "provision_id": "urn:lex-mx:federal:statute:lgpgir:article:5",
-    "term_id": "urn:lex-mx:federal:statute:lgpgir:term:residuo",
-    "span": "Residuos",
-    "start_char": 3351,
-    "end_char": 3359
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgpgir:article:5:term-usage:3720-3728",
     "provision_id": "urn:lex-mx:federal:statute:lgpgir:article:5",
     "term_id": "urn:lex-mx:federal:statute:lgpgir:term:residuo",
     "span": "Residuos",
     "start_char": 3720,
     "end_char": 3728
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpgir:article:5:term-usage:5083-5092",
-    "provision_id": "urn:lex-mx:federal:statute:lgpgir:article:5",
-    "term_id": "urn:lex-mx:federal:statute:lgpgir:term:generador",
-    "span": "Generador",
-    "start_char": 5083,
-    "end_char": 5092
   },
   {
     "schema_version": "0.1.0",

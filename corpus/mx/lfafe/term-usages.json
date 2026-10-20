@@ -37,15 +37,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfafe:article:1-bis:term-usage:284-296",
-    "provision_id": "urn:lex-mx:federal:statute:lfafe:article:1-bis",
-    "term_id": "urn:lex-mx:federal:statute:lfafe:term:arma-o-armas",
-    "span": "Arma o armas",
-    "start_char": 284,
-    "end_char": 296
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfafe:article:1-bis:term-usage:1582-1606",
     "provision_id": "urn:lex-mx:federal:statute:lfafe:article:1-bis",
     "term_id": "urn:lex-mx:federal:statute:lfafe:term:fuerza-armada-permanente",

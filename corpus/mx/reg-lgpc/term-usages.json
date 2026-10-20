@@ -19,15 +19,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:2:term-usage:2764-2770",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:alerta",
-    "span": "Alerta",
-    "start_char": 2764,
-    "end_char": 2770
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:2:term-usage:3021-3027",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:alerta",

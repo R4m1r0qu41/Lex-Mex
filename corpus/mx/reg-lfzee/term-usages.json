@@ -136,15 +136,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4:term-usage:588-613",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfzee:term:comision-intersecretarial",
-    "span": "Comisión Intersecretarial",
-    "start_char": 588,
-    "end_char": 613
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4:term-usage:659-671",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfzee:term:dependencias",
@@ -397,15 +388,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4:term-usage:3147-3151",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfzee:term:zona",
-    "span": "Zona",
-    "start_char": 3147,
-    "end_char": 3151
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4:term-usage:3181-3185",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfzee:term:zona",
@@ -475,15 +457,6 @@
     "span": "Área de Influencia",
     "start_char": 3947,
     "end_char": 3965
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4:term-usage:4002-4006",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfzee:term:zona",
-    "span": "Zona",
-    "start_char": 4002,
-    "end_char": 4006
   },
   {
     "schema_version": "0.1.0",
@@ -865,15 +838,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4:term-usage:7283-7287",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfzee:term:zona",
-    "span": "Zona",
-    "start_char": 7283,
-    "end_char": 7287
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4:term-usage:7324-7328",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfzee:term:zona",
@@ -979,15 +943,6 @@
     "span": "Infraestructura",
     "start_char": 7997,
     "end_char": 8012
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4:term-usage:8116-8120",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:4",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfzee:term:zona",
-    "span": "Zona",
-    "start_char": 8116,
-    "end_char": 8120
   },
   {
     "schema_version": "0.1.0",

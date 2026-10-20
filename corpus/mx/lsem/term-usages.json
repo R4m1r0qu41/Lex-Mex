@@ -163,30 +163,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsem:article:1-bis:term-usage:2293-2309",
-    "provision_id": "urn:lex-mx:federal:statute:lsem:article:1-bis",
-    "term_id": "urn:lex-mx:federal:statute:lsem:term:oficina-consular",
-    "span": "Oficina Consular",
-    "start_char": 2293,
-    "end_char": 2309
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsem:article:1-bis:term-usage:2381-2398",
     "provision_id": "urn:lex-mx:federal:statute:lsem:article:1-bis",
     "term_id": "urn:lex-mx:federal:statute:lsem:term:servicio-exterior",
     "span": "Servicio Exterior",
     "start_char": 2381,
     "end_char": 2398
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsem:article:1-bis:term-usage:2426-2443",
-    "provision_id": "urn:lex-mx:federal:statute:lsem:article:1-bis",
-    "term_id": "urn:lex-mx:federal:statute:lsem:term:servicio-exterior",
-    "span": "Servicio Exterior",
-    "start_char": 2426,
-    "end_char": 2443
   },
   {
     "schema_version": "0.1.0",

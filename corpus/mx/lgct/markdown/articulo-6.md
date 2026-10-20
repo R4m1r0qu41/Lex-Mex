@@ -25,7 +25,7 @@ II. Cigarro o Puro: Rollo de hojas de tabaco, que enciende por un extremo y se c
 
 III. Contenido: A la lista compuesta de ingredientes, así como los componentes diferentes del tabaco, como papel boquilla, tinta para impresión de marca, papel cigarro, filtro, envoltura de filtro y adhesivo de papel cigarro;
 
-IV. Control sanitario de los productos del [Tabaco](articulo-6.md): Conjunto de acciones de orientación, educación, muestreo, verificación y en su caso, aplicación de medidas de seguridad y sanciones, que ejerce la [Secretaría](articulo-6.md) de Salud y otras autoridades competentes, con base en lo que establecen esta Ley, sus reglamentos, las normas oficiales mexicanas y demás disposiciones aplicables. Comprende diversas estrategias de reducción de la oferta, la demanda y los daños con objeto de mejorar la salud de la población reduciendo el consumo de productos del tabaco y la exposición al humo de tabaco de segunda mano;
+IV. Control sanitario de los productos del Tabaco: Conjunto de acciones de orientación, educación, muestreo, verificación y en su caso, aplicación de medidas de seguridad y sanciones, que ejerce la [Secretaría](articulo-6.md) de Salud y otras autoridades competentes, con base en lo que establecen esta Ley, sus reglamentos, las normas oficiales mexicanas y demás disposiciones aplicables. Comprende diversas estrategias de reducción de la oferta, la demanda y los daños con objeto de mejorar la salud de la población reduciendo el consumo de productos del tabaco y la exposición al humo de tabaco de segunda mano;
 
 V. Denuncia Ciudadana: Notificación hecha a la autoridad competente por cualquier persona respecto de los hechos de incumplimiento de las disposiciones contenidas en esta Ley, sus reglamentos y demás disposiciones aplicables;
 
@@ -49,7 +49,7 @@ XII. Industria tabacalera: Es la conformada por los fabricantes, distribuidores,
 
 XIII. Legislación y política basada en evidencias científicas: La utilización concienzuda, explícita y crítica de la mejor información y conocimiento disponible para fundamentar acciones en política pública y legislativa;
 
-XIV. Ley: Ley General para el Control del Tabaco;
+XIV. Ley: Ley General para el Control del [Tabaco](articulo-6.md);
 
 XV. Leyenda de advertencia: Aquella frase o mensaje escrito, impreso y visible en el empaquetado, en el etiquetado, el paquete, la publicidad, la promoción de productos del tabaco y otros anuncios que establezca la Secretaría de acuerdo a lo dispuesto en esta Ley, sus reglamentos y demás disposiciones aplicables;
 

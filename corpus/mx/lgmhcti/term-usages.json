@@ -136,15 +136,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmhcti:article:4:term-usage:4680-4696",
-    "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:sistema-nacional",
-    "span": "Sistema Nacional",
-    "start_char": 4680,
-    "end_char": 4696
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgmhcti:article:4:term-usage:4713-4729",
     "provision_id": "urn:lex-mx:federal:statute:lgmhcti:article:4",
     "term_id": "urn:lex-mx:federal:statute:lgmhcti:term:sistema-nacional",

@@ -1468,8 +1468,8 @@ fn quoted_respectively_entries(provision: &Provision) -> Result<Vec<GlossaryEntr
 /// glossary first, then the glossaries it is expressly additive to. At any
 /// text position the longest matching variant wins; on equal length the
 /// earlier term set wins. A term never matches inside its own definition
-/// entry, and the glossary entry prefix itself is the definition site, not
-/// a usage.
+/// entry, and no term matches inside an entry's printed name, which is the
+/// definition site, not a usage.
 pub fn extract_term_usages(
     provisions: &[Provision],
     term_sets: &[&[DefinedTerm]],
@@ -1528,11 +1528,19 @@ fn provision_usages(
     candidates: &[(String, &DefinedTerm)],
 ) -> Vec<TermUsage> {
     let chars: Vec<char> = provision.text.chars().collect();
+    let names = defined_name_spans(&chars, provision, candidates);
     let mut usages = Vec::new();
     let mut position = 0;
     while position < chars.len() {
         if !starts_word(&chars, position) {
             position += 1;
+            continue;
+        }
+        if let Some(&(_, end)) = names
+            .iter()
+            .find(|(start, end)| (*start..*end).contains(&position))
+        {
+            position = end;
             continue;
         }
         let mut matched = None;
@@ -1636,6 +1644,31 @@ fn matches_at(chars: &[char], position: usize, variant: &str) -> bool {
     }
     // Word boundary after the match.
     chars.get(end).is_none_or(|next| !next.is_alphanumeric())
+}
+
+/// The printed names this provision's glossary entries define, as
+/// `[start, end)` character spans: each term's first occurrence in its own
+/// entry. A name is its definition site, so no term matches inside it
+/// (`Uso` in `"Uso Agrícola"`, `Cliente` in `Identificador de Cliente`).
+/// The definition text after the name is ordinary text.
+fn defined_name_spans(
+    chars: &[char],
+    provision: &Provision,
+    candidates: &[(String, &DefinedTerm)],
+) -> Vec<(usize, usize)> {
+    let mut names: Vec<(usize, usize)> = candidates
+        .iter()
+        .filter(|(_, term)| term.defining_provision_id == provision.id)
+        .filter_map(|(_, term)| {
+            let name: Vec<char> = term.term.chars().collect();
+            (term.start_char..term.end_char.min(chars.len()))
+                .find(|&start| chars[start..].starts_with(&name))
+                .map(|start| (start, start + name.len()))
+        })
+        .collect();
+    names.sort_unstable();
+    names.dedup();
+    names
 }
 
 fn inside_own_definition(term: &DefinedTerm, provision: &Provision, position: usize) -> bool {
@@ -2110,6 +2143,48 @@ mod tests {
                 .map(|usage| usage.span.as_str())
                 .collect::<Vec<_>>(),
             ["Usuario de la Infraestructura Tecnológica", "Cuenta"]
+        );
+    }
+
+    #[test]
+    fn a_term_at_its_own_definition_site_hides_shorter_terms_inside_it() {
+        // lan Article 3: `Uso` must not match inside the entry names
+        // `Uso Agrícola` and `Uso Doméstico`, but the definition text after
+        // a name is ordinary text (`La Comisión, a la Comisión Nacional del
+        // Agua` uses another term).
+        let glossary = provision(
+            STATUTE_ID,
+            "article:3",
+            "Para los efectos de esta Ley se entenderá por:\n\n\
+             I. Comisión Nacional del Agua, al órgano desconcentrado;\n\n\
+             II. La Comisión, a la Comisión Nacional del Agua;\n\n\
+             III. Uso, a la aplicación del agua a una actividad;\n\n\
+             IV. Uso Agrícola, a la aplicación de agua nacional para el riego;\n\n\
+             V. Uso Doméstico, a la aplicación de agua nacional para la casa;",
+        );
+        let terms = extract_terms(&glossary, GlossaryStyle::Fractions).unwrap();
+        let body = provision(
+            STATUTE_ID,
+            "article:20",
+            "El Uso Agrícola y cualquier otro Uso requieren concesión.",
+        );
+        let usages = extract_term_usages(&[glossary, body], &[&terms]).unwrap();
+        let spans: Vec<(&str, &str)> = usages
+            .iter()
+            .map(|usage| {
+                (
+                    usage.provision_id.rsplit(':').next().unwrap(),
+                    usage.span.as_str(),
+                )
+            })
+            .collect();
+        assert_eq!(
+            spans,
+            [
+                ("3", "Comisión Nacional del Agua"),
+                ("20", "Uso Agrícola"),
+                ("20", "Uso")
+            ]
         );
     }
 

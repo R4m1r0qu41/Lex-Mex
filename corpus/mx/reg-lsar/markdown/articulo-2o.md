@@ -25,9 +25,9 @@ II. Administradora Receptora, aquella que asume la administración de la Cuenta 
 
 III. Administradora Transferente, aquella que deja de administrar la Cuenta Individual objeto de un Traspaso;
 
-IV. Aportaciones al [FOVISSSTE](articulo-2o.md), las enteradas por las dependencias y entidades públicas de conformidad con lo previsto en los artículos [191](../../lissste/markdown/articulo-191.md) fracción II y [194](../../lissste/markdown/articulo-194.md) de la Ley del Instituto de Seguridad y Servicios Sociales de los [Trabajadores](articulo-2o.md) del Estado;
+IV. Aportaciones al FOVISSSTE, las enteradas por las dependencias y entidades públicas de conformidad con lo previsto en los artículos [191](../../lissste/markdown/articulo-191.md) fracción II y [194](../../lissste/markdown/articulo-194.md) de la Ley del Instituto de Seguridad y Servicios Sociales de los [Trabajadores](articulo-2o.md) del Estado;
 
-V. Aportaciones al [INFONAVIT](articulo-2o.md), las enteradas por los patrones de conformidad con lo previsto en el artículo [29](../../linfonavit/markdown/articulo-29.md) fracción II de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores;
+V. Aportaciones al INFONAVIT, las enteradas por los patrones de conformidad con lo previsto en el artículo [29](../../linfonavit/markdown/articulo-29.md) fracción II de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores;
 
 VI. Asignación, al proceso mediante el cual la Comisión designa una [Administradora](articulo-2o.md) a las Cuentas Individuales de aquellos Trabajadores que no se registren en una, tomando en consideración lo previsto en la Ley, el presente Reglamento y las reglas generales que al efecto emita la Comisión;
 
@@ -35,13 +35,13 @@ VII. Buzón, cada una de las cuentas de correo electrónico habilitadas por la p
 
 VIII. Cuenta Concentradora, aquella operada por el Banco de México en la que se depositan los recursos correspondientes al [Seguro de RCV](articulo-2o.md) previsto en la Ley del Seguro Social, aportaciones voluntarias y complementarias de retiro, en tanto se lleven a cabo los procesos de individualización para transferirlos a las Administradoras elegidas por los Trabajadores, así como conservar los recursos de aquellos Trabajadores que no elijan Administradora;
 
-IX. Entidades Receptoras, las entidades que reciban en términos de la Ley del Seguro Social, la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en nombre y cuenta del [IMSS](articulo-2o.md), INFONAVIT, [ISSSTE](articulo-2o.md) y FOVISSSTE el pago de las cuotas del Seguro de RCV, de [Aportaciones al INFONAVIT](articulo-2o.md), [Aportaciones al FOVISSSTE](articulo-2o.md), aportaciones voluntarias y aportaciones complementarias de retiro y demás recursos que determine la Comisión mediante reglas de carácter general;
+IX. Entidades Receptoras, las entidades que reciban en términos de la Ley del Seguro Social, la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en nombre y cuenta del [IMSS](articulo-2o.md), [INFONAVIT](articulo-2o.md), [ISSSTE](articulo-2o.md) y [FOVISSSTE](articulo-2o.md) el pago de las cuotas del Seguro de RCV, de [Aportaciones al INFONAVIT](articulo-2o.md), [Aportaciones al FOVISSSTE](articulo-2o.md), aportaciones voluntarias y aportaciones complementarias de retiro y demás recursos que determine la Comisión mediante reglas de carácter general;
 
 X. FOVISSSTE, el Fondo de la Vivienda del ISSSTE;
 
 XI. Instituciones de Crédito Liquidadoras, las instituciones de crédito que sean contratadas por las Empresas Operadoras para realizar la transferencia y entrega a las Administradoras, de los recursos correspondientes al Seguro de RCV y demás recursos que determine la Comisión mediante disposiciones de carácter general;
 
-XII. Índice de Rendimiento Neto para [Asignación](articulo-2o.md), a los indicadores que reflejan los rendimientos menos las comisiones, que registren las Sociedades de Inversión de las Administradoras, para efecto de participar en el proceso de Asignación de Cuentas Individuales, de conformidad con las reglas generales que emita la Comisión, relativas a la construcción de dichos índices;
+XII. Índice de Rendimiento Neto para Asignación, a los indicadores que reflejan los rendimientos menos las comisiones, que registren las Sociedades de Inversión de las Administradoras, para efecto de participar en el proceso de [Asignación](articulo-2o.md) de Cuentas Individuales, de conformidad con las reglas generales que emita la Comisión, relativas a la construcción de dichos índices;
 
 XIII. Índice de Rendimiento Neto para Traspasos, a los indicadores que reflejan los rendimientos menos las comisiones, que registren las Sociedades de Inversión de las Administradoras para efecto del Traspaso de Cuentas Individuales, en el periodo de cálculo inmediato anterior, de conformidad con las reglas generales que emita la Comisión, relativas a la construcción de dichos índices;
 

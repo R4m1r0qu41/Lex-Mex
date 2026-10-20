@@ -1,5 +1,36 @@
 # Architecture decisions
 
+## 2026-10-20 — Operator confirms the lgs correction and the LIEPS boundary readings
+
+**Operator (2026-10-20):** "On the pending items also go ahead with the fixes … the suggested fixes look good." Asked which items to record as confirmed, the operator chose "Confirm both".
+1. **lgs.** The CPF prints `Artículo 209 Quintus` (added DOF 07-06-2024), so lgs's citation resolves and its accepted gap stays removed. This corrects the premise of the 2026-10-18 decision ("the committed CPF text … prints no 209 Quintus"). See the 2026-10-19 heading-leak entry.
+2. **LIEPS boundaries.** XIX and XXXVIII define their whole printed names, and XXII f) `Turbosina y kerosenos` is one term. These were machine readings in the 2026-10-19 LIEPS entry; they are now rulings. The corpus is unchanged: this is already how they are read.
+
+**Not decided here.** Whether lgcs's 7 remaining terms stand, given that its introduction is itself bracketed and declared invalid, is a legal question and stays open.
+
+## 2026-10-20 — An entry's printed name is its definition site: no term matches inside it
+
+**Trigger.** Operator review of lan's usages (2026-10-20 entry below): `Uso` matched 10 times inside Article 3's own entry names (`"Uso Agrícola"`, `"Uso Doméstico"` …). The operator directed the fix.
+
+**Defect.** At each position the longest matching term wins, but a term is not linked inside its own definition entry. At a name such as `Uso Agrícola`, the longest match was excluded, and the matcher then fell through to the shorter `Uso`. The same happened throughout the corpus: `Cliente` inside `Identificador de Cliente:`, `Autenticación` inside `Factor de Autenticación:`, `Fiscalía` inside `La Persona titular de la Fiscalía General de Justicia Militar:`.
+
+**Rule.** Each term's printed name, at its first occurrence in its own entry, is the definition site, and no term matches inside it. The definition text after the name is ordinary text. So `"La Comisión": La Comisión Nacional del Agua` still links `Comisión Nacional del Agua`, and a term still never matches inside its own entry.
+- All 5,727 names occur literally in their entries.
+- The first attempt let the excluded longest match consume its span anywhere in the entry. That also hid 9 genuine usages in definition text (lan `Comisión Nacional del Agua`; reg-lgn and reg-lpf `Manual del Consejo de …`). It was replaced by this narrower rule.
+- `terms.rs` `defined_name_spans`; regression test `a_term_at_its_own_definition_site_hides_shorter_terms_inside_it` covers lan's three shapes.
+- This changes usage resolution only. Term detection and `GLOSSARY_STRATEGY_VERSION` are unchanged (the LIEPS `usage_form` precedent).
+
+**Measured** (`link --all`: exit 0; 5 rejections, exactly the accepted gaps; references 35,949 → 35,949):
+- **Usages:** 102,432 → 102,179. All 253 removals are inside an exact printed name, and none are added.
+- **Where:** 91 instruments. The largest counts are lnetb 20, lan 13 (its 10 `Uso`), lgpc 12, scap-dcg-2012 10, lsh 9 and socap-sofipo-dcg-2006 9. ifpe-dcg-2021 loses 4, LIEPS 1 and lritf 0.
+- **Coverage:** 91 `glossary-coverage.json` files change `usage_count` only.
+- **Markdown:** 67 files, link-only. Where a link sat inside an entry's own name, it moves to the first genuine usage (`Factor de Autenticación: al mecanismo de [Autenticación]`).
+- **Terms:** unchanged at 5,727.
+
+**Still open from the lan review.**
+- `Aguas Nacionales` inside the title `Ley de Aguas Nacionales` goes to the title-span usage filter (operator: build it now; a separate change).
+- `Descarga` inside `Permiso de Descarga` is unchanged.
+
 ## 2026-10-20 — Term identifiers are slugs; lan's quoted names; SCJN-invalidated glossary entries (`glossary-extraction-4`)
 
 **Trigger.** The SQLite M2 builder (`docs/sqlite-m2-builder-2026-10-20.md` on `db/sqlite-projection`) fails closed on main's data.

@@ -81,7 +81,7 @@ Se consideran concentrados, polvos y jarabes para preparar bebidas energetizante
 
 XVIII. Bebidas saborizadas, las bebidas no alcohólicas elaboradas por la disolución en agua de cualquier tipo de azúcares o [edulcorantes](articulo-3o.md) y que pueden incluir ingredientes adicionales tales como saborizantes naturales, artificiales o sintéticos, adicionados o no, de jugo, pulpa o néctar, de frutas o de verduras o de legumbres, de sus concentrados o extractos y otros aditivos para alimentos, y que pueden estar o no carbonatadas. Fracción adicionada DOF 11-12-2013. Reformada DOF 07-11-2025
 
-XIX. Concentrados, polvos y jarabes, esencias o extractos de sabores, que permitan obtener [bebidas saborizadas](articulo-3o.md), a los productos con o sin edulcorantes o saboreadores, naturales, artificiales o sintéticos, adicionados o no, de jugo, pulpa o néctar, de frutas, de verduras o legumbres y otros aditivos para alimentos. Fracción adicionada DOF 11-12-2013
+XIX. Concentrados, polvos y jarabes, esencias o extractos de sabores, que permitan obtener bebidas saborizadas, a los productos con o sin edulcorantes o saboreadores, naturales, artificiales o sintéticos, adicionados o no, de jugo, pulpa o néctar, de frutas, de verduras o legumbres y otros aditivos para alimentos. Fracción adicionada DOF 11-12-2013
 
 XX. Azúcares, a los monosacáridos, disacáridos y polisacáridos, siempre que en este último caso se utilicen como edulcorantes con aporte calórico. Fracción adicionada DOF 11-12-2013
 

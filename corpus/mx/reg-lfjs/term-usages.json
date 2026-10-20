@@ -433,15 +433,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfjs:article:3:term-usage:5614-5622",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lfjs:article:3",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lfjs:term:apuesta",
-    "span": "Apuestas",
-    "start_char": 5614,
-    "end_char": 5622
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfjs:article:3:term-usage:6103-6113",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfjs:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfjs:term:secretaria",

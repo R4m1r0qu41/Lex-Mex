@@ -226,15 +226,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2:term-usage:3537-3550",
-    "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:term:autenticacion",
-    "span": "Autenticación",
-    "start_char": 3537,
-    "end_char": 3550
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2:term-usage:3568-3581",
     "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2",
     "term_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:term:autenticacion",
@@ -511,15 +502,6 @@
     "span": "Operación",
     "start_char": 6637,
     "end_char": 6646
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2:term-usage:7003-7010",
-    "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lritf:term:cliente",
-    "span": "Cliente",
-    "start_char": 7003,
-    "end_char": 7010
   },
   {
     "schema_version": "0.1.0",
@@ -862,15 +844,6 @@
     "span": "Ley",
     "start_char": 13234,
     "end_char": 13237
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2:term-usage:13423-13450",
-    "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lritf:term:infraestructura-tecnologica",
-    "span": "Infraestructura Tecnológica",
-    "start_char": 13423,
-    "end_char": 13450
   },
   {
     "schema_version": "0.1.0",

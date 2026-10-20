@@ -667,15 +667,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:9698-9717",
-    "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lieps:term:bebidas-saborizadas",
-    "span": "bebidas saborizadas",
-    "start_char": 9698,
-    "end_char": 9717
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lieps:article:3:term-usage:9745-9757",
     "provision_id": "urn:lex-mx:federal:statute:lieps:article:3",
     "term_id": "urn:lex-mx:federal:statute:lieps:term:edulcorante",

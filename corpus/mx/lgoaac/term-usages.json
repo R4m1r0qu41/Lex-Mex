@@ -46,15 +46,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-1:term-usage:605-611",
-    "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-1",
-    "term_id": "urn:lex-mx:federal:statute:lgoaac:term:filial",
-    "span": "Filial",
-    "start_char": 605,
-    "end_char": 611
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-1:term-usage:800-835",
     "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-1",
     "term_id": "urn:lex-mx:federal:statute:lgoaac:term:institucion-financiera-del-exterior",

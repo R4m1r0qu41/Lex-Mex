@@ -190,15 +190,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbio:article:3:term-usage:5633-5651",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:3",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:residuos-organicos",
-    "span": "Residuos Orgánicos",
-    "start_char": 5633,
-    "end_char": 5651
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lbio:article:3:term-usage:5672-5690",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lbio:term:residuos-organicos",

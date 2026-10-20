@@ -37,15 +37,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mpsam:article:115-bis-1:term-usage:130-149",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mpsam:article:115-bis-1",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mpsam:term:urgencia-obstetrica",
-    "span": "Urgencia Obstétrica",
-    "start_char": 130,
-    "end_char": 149
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgs-mpsam:article:115-bis-1:term-usage:232-251",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mpsam:article:115-bis-1",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mpsam:term:urgencia-obstetrica",

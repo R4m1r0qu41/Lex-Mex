@@ -172,15 +172,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4:term-usage:4557-4567",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lpeam:term:vigilancia",
-    "span": "Vigilancia",
-    "start_char": 4557,
-    "end_char": 4567
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4:term-usage:4773-4793",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpeam:term:tripulacion-de-vuelo",

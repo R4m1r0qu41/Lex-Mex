@@ -298,15 +298,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfaebsp:article:2:term-usage:646-652",
-    "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:bienes",
-    "span": "Bienes",
-    "start_char": 646,
-    "end_char": 652
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfaebsp:article:2:term-usage:837-847",
     "provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:2",
     "term_id": "urn:lex-mx:federal:statute:lfaebsp:term:reglamento",

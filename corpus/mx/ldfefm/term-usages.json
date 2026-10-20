@@ -793,15 +793,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:article:2:term-usage:10971-10990",
-    "provision_id": "urn:lex-mx:federal:statute:ldfefm:article:2",
-    "term_id": "urn:lex-mx:federal:statute:ldfefm:term:financiamiento-neto",
-    "span": "Financiamiento Neto",
-    "start_char": 10971,
-    "end_char": 10990
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:ldfefm:article:2:term-usage:11005-11024",
     "provision_id": "urn:lex-mx:federal:statute:ldfefm:article:2",
     "term_id": "urn:lex-mx:federal:statute:ldfefm:term:financiamiento-neto",

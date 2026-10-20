@@ -271,15 +271,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsh:article:3:term-usage:5700-5714",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsh:article:3",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsh:term:impacto-social",
-    "span": "Impacto Social",
-    "start_char": 5700,
-    "end_char": 5714
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lsh:article:3:term-usage:5743-5753",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsh:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsh:term:secretaria",
@@ -313,15 +304,6 @@
     "span": "Normatividad",
     "start_char": 7274,
     "end_char": 7286
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsh:article:3:term-usage:7303-7320",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lsh:article:3",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsh:term:impacto-social",
-    "span": "Impactos Sociales",
-    "start_char": 7303,
-    "end_char": 7320
   },
   {
     "schema_version": "0.1.0",

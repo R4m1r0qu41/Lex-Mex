@@ -67,4 +67,4 @@ XXV. Sector: Conjunto de Centros Públicos coordinados por el [Consejo Nacional]
 
 XXVI. Sistema Nacional: Sistema Nacional de Humanidades, Ciencias, Tecnologías e Innovación a que se refiere el artículo [73](../../cpeum/markdown/articulo-73.md), fracción XXIX-F, de la Constitución Política de los Estados Unidos Mexicanos, y
 
-XXVII. [Sistema Nacional](articulo-4.md) de Información: Sistema Nacional de Información en Materia de Humanidades, Ciencias, Tecnologías e Innovación.
+XXVII. Sistema Nacional de Información: [Sistema Nacional](articulo-4.md) de Información en Materia de Humanidades, Ciencias, Tecnologías e Innovación.

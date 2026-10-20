@@ -298,15 +298,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:3642-3661",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:auditoria-ambiental",
-    "span": "Auditoría Ambiental",
-    "start_char": 3642,
-    "end_char": 3661
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:3728-3747",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:auditoria-ambiental",
@@ -331,15 +322,6 @@
     "span": "Auditoría Ambiental",
     "start_char": 4092,
     "end_char": 4111
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:4130-4149",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:desempeno-ambiental",
-    "span": "Desempeño Ambiental",
-    "start_char": 4130,
-    "end_char": 4149
   },
   {
     "schema_version": "0.1.0",

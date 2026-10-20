@@ -127,15 +127,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgec:article:3:term-usage:186-199",
-    "provision_id": "urn:lex-mx:federal:statute:lgec:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lgec:term:ciclo-de-vida",
-    "span": "Ciclo de Vida",
-    "start_char": 186,
-    "end_char": 199
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgec:article:3:term-usage:247-260",
     "provision_id": "urn:lex-mx:federal:statute:lgec:article:3",
     "term_id": "urn:lex-mx:federal:statute:lgec:term:ciclo-de-vida",
@@ -322,15 +313,6 @@
     "span": "Aprovechamiento Circular",
     "start_char": 2854,
     "end_char": 2878
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgec:article:3:term-usage:2911-2928",
-    "provision_id": "urn:lex-mx:federal:statute:lgec:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lgec:term:economia-circular",
-    "span": "Economía Circular",
-    "start_char": 2911,
-    "end_char": 2928
   },
   {
     "schema_version": "0.1.0",
@@ -556,15 +538,6 @@
     "span": "Economía Circular",
     "start_char": 7168,
     "end_char": 7185
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgec:article:3:term-usage:7452-7469",
-    "provision_id": "urn:lex-mx:federal:statute:lgec:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lgec:term:economia-circular",
-    "span": "Economía Circular",
-    "start_char": 7452,
-    "end_char": 7469
   },
   {
     "schema_version": "0.1.0",

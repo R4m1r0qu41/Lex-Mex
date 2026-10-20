@@ -72,7 +72,7 @@ XVIII. Dirección General: al director general de las uniones de crédito, así 
 
 XIX. Empresas de Servicios: a las [Empresas de Servicios Exclusivas](articulo-1.md) o [Empresas de Servicios Genéricas](articulo-1.md).
 
-XX. [Empresas de Servicios](articulo-1.md) Exclusivas: a aquellas personas morales en cuyo capital participe y ejerza el control una unión de crédito y que tengan por objeto prestarle exclusivamente a dicha unión [Servicios Complementarios o Auxiliares](articulo-1.md).
+XX. Empresas de Servicios Exclusivas: a aquellas personas morales en cuyo capital participe y ejerza el control una unión de crédito y que tengan por objeto prestarle exclusivamente a dicha unión [Servicios Complementarios o Auxiliares](articulo-1.md).
 
 XXI. Empresas de Servicios Genéricas: a aquellas personas morales en cuyo capital participen una o varias uniones de crédito y, en su caso, otras personas, que tengan por objeto prestar a uniones de crédito Servicios Complementarios o Auxiliares, sin perjuicio de que podrán prestar servicios a otras personas, siempre que cuando menos el cinco por ciento de sus ingresos brutos durante el año calendario de que se trate, provengan de la prestación de dichos servicios a las uniones de crédito.
 
@@ -206,11 +206,11 @@ XLVI. RUCAM: al [Registro](articulo-1.md) Único de Certificados, Almacenes y Me
 
 XLVII. Secretaría: a la Secretaría de Hacienda y Crédito Público.
 
-XLVIII. Servicios Complementarios o Auxiliares: a los que prestan las Empresas de Servicios a una o más uniones de crédito, según sea el caso, relacionados con soporte o apoyo en su administración o en la realización de las operaciones previstas en el artículo [40](articulo-40.md) de la LUC.
+XLVIII. Servicios Complementarios o Auxiliares: a los que prestan las [Empresas de Servicios](articulo-1.md) a una o más uniones de crédito, según sea el caso, relacionados con soporte o apoyo en su administración o en la realización de las operaciones previstas en el artículo [40](articulo-40.md) de la LUC.
 
 (94) 23
 
-XLIX. Sistema de [Control](articulo-1.md) Interno, al conjunto de objetivos y lineamientos necesarios para su implementación, que establezcan las uniones de crédito con el propósito de:
+XLIX. Sistema de Control Interno, al conjunto de objetivos y lineamientos necesarios para su implementación, que establezcan las uniones de crédito con el propósito de:
 
 a) Procurar que los mecanismos de operación sean acordes con las estrategias y fines de las uniones de crédito, que permitan prever, identificar, administrar, dar seguimiento y evaluar los riesgos que puedan derivarse del desarrollo de su objeto social, con el propósito de minimizar las posibles pérdidas en que puedan incurrir.
 

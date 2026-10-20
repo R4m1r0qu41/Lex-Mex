@@ -64,15 +64,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:2:term-usage:2198-2211",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:certificacion",
-    "span": "Certificación",
-    "start_char": 2198,
-    "end_char": 2211
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:2:term-usage:2247-2273",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:organismo-de-certificacion",
@@ -109,15 +100,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:2:term-usage:3666-3679",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:certificacion",
-    "span": "Certificación",
-    "start_char": 3666,
-    "end_char": 3679
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:2:term-usage:3850-3863",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:certificacion",
@@ -142,15 +124,6 @@
     "span": "Ley",
     "start_char": 6099,
     "end_char": 6102
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:2:term-usage:7577-7590",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:certificacion",
-    "span": "Certificación",
-    "start_char": 7577,
-    "end_char": 7590
   },
   {
     "schema_version": "0.1.0",

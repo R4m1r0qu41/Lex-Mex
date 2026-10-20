@@ -10,30 +10,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:2:term-usage:304-313",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:infonavit",
-    "span": "INFONAVIT",
-    "start_char": 304,
-    "end_char": 313
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:2:term-usage:355-364",
     "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:infonavit",
     "span": "INFONAVIT",
     "start_char": 355,
     "end_char": 364
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:2:term-usage:654-663",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:infonavit",
-    "span": "INFONAVIT",
-    "start_char": 654,
-    "end_char": 663
   },
   {
     "schema_version": "0.1.0",

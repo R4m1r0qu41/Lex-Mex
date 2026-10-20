@@ -55,15 +55,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsint:article:4:term-usage:351-369",
-    "provision_id": "urn:lex-mx:federal:statute:lsint:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lsint:term:seguridad-interior",
-    "span": "Seguridad Interior",
-    "start_char": 351,
-    "end_char": 369
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsint:article:4:term-usage:479-497",
     "provision_id": "urn:lex-mx:federal:statute:lsint:article:4",
     "term_id": "urn:lex-mx:federal:statute:lsint:term:seguridad-nacional",
@@ -73,30 +64,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsint:article:4:term-usage:833-851",
-    "provision_id": "urn:lex-mx:federal:statute:lsint:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lsint:term:seguridad-interior",
-    "span": "Seguridad Interior",
-    "start_char": 833,
-    "end_char": 851
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsint:article:4:term-usage:907-938",
     "provision_id": "urn:lex-mx:federal:statute:lsint:article:4",
     "term_id": "urn:lex-mx:federal:statute:lsint:term:amenazas-a-la-seguridad-interior",
     "span": "Amenaza a la Seguridad Interior",
     "start_char": 907,
     "end_char": 938
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsint:article:4:term-usage:977-995",
-    "provision_id": "urn:lex-mx:federal:statute:lsint:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lsint:term:seguridad-interior",
-    "span": "Seguridad Interior",
-    "start_char": 977,
-    "end_char": 995
   },
   {
     "schema_version": "0.1.0",
@@ -124,15 +97,6 @@
     "span": "Amenazas a la Seguridad Interior",
     "start_char": 1217,
     "end_char": 1249
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsint:article:4:term-usage:1398-1416",
-    "provision_id": "urn:lex-mx:federal:statute:lsint:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lsint:term:seguridad-interior",
-    "span": "Seguridad Interior",
-    "start_char": 1398,
-    "end_char": 1416
   },
   {
     "schema_version": "0.1.0",

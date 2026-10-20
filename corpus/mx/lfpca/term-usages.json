@@ -91,15 +91,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpca:article:1-a:term-usage:2269-2300",
-    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:1-a",
-    "term_id": "urn:lex-mx:federal:statute:lfpca:term:direccion-de-correo-electronico",
-    "span": "Dirección de Correo Electrónico",
-    "start_char": 2269,
-    "end_char": 2300
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpca:article:1-a:term-usage:2692-2714",
     "provision_id": "urn:lex-mx:federal:statute:lfpca:article:1-a",
     "term_id": "urn:lex-mx:federal:statute:lfpca:term:expediente-electronico",

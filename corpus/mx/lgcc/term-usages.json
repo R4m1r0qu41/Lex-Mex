@@ -46,15 +46,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:3:term-usage:818-832",
-    "provision_id": "urn:lex-mx:federal:statute:lgcc:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:vulnerabilidad",
-    "span": "Vulnerabilidad",
-    "start_char": 818,
-    "end_char": 832
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgcc:article:3:term-usage:1759-1769",
     "provision_id": "urn:lex-mx:federal:statute:lgcc:article:3",
     "term_id": "urn:lex-mx:federal:statute:lgcc:term:convencion",
@@ -88,15 +79,6 @@
     "span": "Protocolo de Kioto",
     "start_char": 5787,
     "end_char": 5805
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcc:article:3:term-usage:6381-6391",
-    "provision_id": "urn:lex-mx:federal:statute:lgcc:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lgcc:term:adaptacion",
-    "span": "Adaptación",
-    "start_char": 6381,
-    "end_char": 6391
   },
   {
     "schema_version": "0.1.0",

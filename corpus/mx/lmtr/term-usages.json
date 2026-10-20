@@ -163,15 +163,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:article:3:term-usage:5066-5077",
-    "provision_id": "urn:lex-mx:federal:statute:lmtr:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lmtr:term:frecuencia",
-    "span": "Frecuencias",
-    "start_char": 5066,
-    "end_char": 5077
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lmtr:article:3:term-usage:7073-7081",
     "provision_id": "urn:lex-mx:federal:statute:lmtr:article:3",
     "term_id": "urn:lex-mx:federal:statute:lmtr:term:comision",

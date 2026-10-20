@@ -190,15 +190,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:1915-1938",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:produccion-farmaceutica",
-    "span": "Producción Farmacéutica",
-    "start_char": 1915,
-    "end_char": 1938
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:1959-1967",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:cannabis",
@@ -223,15 +214,6 @@
     "span": "Medicamentos",
     "start_char": 2105,
     "end_char": 2117
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:2133-2152",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:produccion-primaria",
-    "span": "Producción Primaria",
-    "start_char": 2133,
-    "end_char": 2152
   },
   {
     "schema_version": "0.1.0",

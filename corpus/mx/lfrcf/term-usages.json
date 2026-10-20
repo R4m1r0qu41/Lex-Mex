@@ -190,15 +190,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfrcf:article:4:term-usage:5013-5031",
-    "provision_id": "urn:lex-mx:federal:statute:lfrcf:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lfrcf:term:gestion-financiera",
-    "span": "Gestión Financiera",
-    "start_char": 5013,
-    "end_char": 5031
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfrcf:article:4:term-usage:5169-5175",
     "provision_id": "urn:lex-mx:federal:statute:lfrcf:article:4",
     "term_id": "urn:lex-mx:federal:statute:lfrcf:term:camara",

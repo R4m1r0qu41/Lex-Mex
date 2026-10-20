@@ -55,7 +55,7 @@ XVIII. Movilización de carácter turístico: Traslado de bienes de origen anima
 
 XIX. Personal Oficial: Servidores públicos de la Secretaría, facultados para realizar actividades que la Ley, el presente Reglamento o las disposiciones derivadas de éstos establecen como atribuciones a la Secretaría;
 
-XX. [Personal Oficial](articulo-2.md) Estatal: Servidores públicos de los gobiernos de las entidades federativas, que con base en un Convenio de Coordinación entre éstos y la Secretaría, se encuentran facultados para inspeccionar el cumplimiento de la normatividad en materia de movilización y aplicar las medidas zoosanitarias correspondientes;
+XX. Personal Oficial Estatal: Servidores públicos de los gobiernos de las entidades federativas, que con base en un Convenio de Coordinación entre éstos y la Secretaría, se encuentran facultados para inspeccionar el cumplimiento de la normatividad en materia de movilización y aplicar las medidas zoosanitarias correspondientes;
 
 XXI. Premezclas medicadas: Combinación de ingredientes de origen natural o sintético a los cuales se le agregan fármacos, principios activos o producto farmacéutico registrados para promover el crecimiento y la eficiencia alimenticia, así como para prevenir y tratar enfermedades en los animales;
 

@@ -19,15 +19,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfremsp:article:10:term-usage:456-489",
-    "provision_id": "urn:lex-mx:federal:statute:lfremsp:article:10",
-    "term_id": "urn:lex-mx:federal:statute:lfremsp:term:producto-interno-bruto-per-capita",
-    "span": "Producto Interno Bruto per cápita",
-    "start_char": 456,
-    "end_char": 489
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfremsp:article:10:term-usage:535-568",
     "provision_id": "urn:lex-mx:federal:statute:lfremsp:article:10",
     "term_id": "urn:lex-mx:federal:statute:lfremsp:term:producto-interno-bruto-per-capita",

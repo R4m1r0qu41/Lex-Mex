@@ -46,15 +46,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1:term-usage:2256-2269",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:autenticacion",
-    "span": "Autenticación",
-    "start_char": 2256,
-    "end_char": 2269
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1:term-usage:2335-2358",
     "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
     "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:factor-de-autenticacion",
@@ -262,15 +253,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1:term-usage:7032-7047",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:cuentas-destino",
-    "span": "Cuentas Destino",
-    "start_char": 7032,
-    "end_char": 7047
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1:term-usage:7067-7082",
     "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
     "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:cuentas-destino",
@@ -295,15 +277,6 @@
     "span": "Cuenta Colectiva",
     "start_char": 8218,
     "end_char": 8234
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1:term-usage:8369-8382",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:autenticacion",
-    "span": "Autenticación",
-    "start_char": 8369,
-    "end_char": 8382
   },
   {
     "schema_version": "0.1.0",
@@ -376,15 +349,6 @@
     "span": "Proveedor de Protección",
     "start_char": 9833,
     "end_char": 9856
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1:term-usage:10038-10051",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:autenticacion",
-    "span": "Autenticación",
-    "start_char": 10038,
-    "end_char": 10051
   },
   {
     "schema_version": "0.1.0",
@@ -478,15 +442,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1:term-usage:12195-12202",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:usuario",
-    "span": "Usuario",
-    "start_char": 12195,
-    "end_char": 12202
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1:term-usage:12328-12335",
     "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
     "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:usuario",
@@ -511,15 +466,6 @@
     "span": "Servicios Electrónicos",
     "start_char": 12406,
     "end_char": 12428
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1:term-usage:12460-12467",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:usuario",
-    "span": "Usuario",
-    "start_char": 12460,
-    "end_char": 12467
   },
   {
     "schema_version": "0.1.0",
@@ -586,15 +532,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1:term-usage:14943-14962",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:medidas-correctivas",
-    "span": "Medidas Correctivas",
-    "start_char": 14943,
-    "end_char": 14962
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1:term-usage:14993-15012",
     "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
     "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:medidas-correctivas",
@@ -610,15 +547,6 @@
     "span": "Ley",
     "start_char": 15101,
     "end_char": 15104
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1:term-usage:15115-15134",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:medidas-correctivas",
-    "span": "Medidas Correctivas",
-    "start_char": 15115,
-    "end_char": 15134
   },
   {
     "schema_version": "0.1.0",
@@ -658,15 +586,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1:term-usage:16256-16286",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:comite-de-supervision-auxiliar",
-    "span": "Comité de Supervisión Auxiliar",
-    "start_char": 16256,
-    "end_char": 16286
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1:term-usage:16360-16390",
     "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
     "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:comite-de-supervision-auxiliar",
@@ -682,15 +601,6 @@
     "span": "Ley",
     "start_char": 16426,
     "end_char": 16429
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1:term-usage:16450-16471",
-    "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1",
-    "term_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:consejo-de-vigilancia",
-    "span": "Consejo de Vigilancia",
-    "start_char": 16450,
-    "end_char": 16471
   },
   {
     "schema_version": "0.1.0",

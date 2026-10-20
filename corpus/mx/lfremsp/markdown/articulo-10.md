@@ -21,7 +21,7 @@ Para la determinación de la [Remuneración Anual Máxima](articulo-10.md) en t�
 
 I. Producto Interno Bruto per cápita: El resultado de dividir el monto del Producto Interno Bruto a precios corrientes, calculado por el Instituto Nacional de Estadística y Geografía para el periodo que corresponda, entre la proyección actualizada de la población total del país, calculada por el Consejo Nacional de Población para el mismo periodo;
 
-II. [Producto Interno Bruto per cápita](articulo-10.md) de referencia: El resultado del promedio del Producto Interno Bruto per cápita de los últimos cinco ejercicios fiscales anteriores concluidos, trasladados a precios del año en curso, conforme a lo establecido en los criterios generales de política económica;
+II. Producto Interno Bruto per cápita de referencia: El resultado del promedio del [Producto Interno Bruto per cápita](articulo-10.md) de los últimos cinco ejercicios fiscales anteriores concluidos, trasladados a precios del año en curso, conforme a lo establecido en los criterios generales de política económica;
 
 III. Rangos funcionales: Es el indicador que representa a 11 grupos de responsabilidad con impacto jerárquico en la Administración Pública Federal centralizada;
 

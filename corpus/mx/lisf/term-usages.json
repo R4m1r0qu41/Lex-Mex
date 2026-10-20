@@ -253,15 +253,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:2:term-usage:4815-4824",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:reaseguro",
-    "span": "Reaseguro",
-    "start_char": 4815,
-    "end_char": 4824
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lisf:article:2:term-usage:5343-5354",
     "provision_id": "urn:lex-mx:federal:statute:lisf:article:2",
     "term_id": "urn:lex-mx:federal:statute:lisf:term:institucion",
@@ -457,15 +448,6 @@
     "span": "Institución de Fianzas",
     "start_char": 8104,
     "end_char": 8126
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lisf:article:2:term-usage:8498-8504",
-    "provision_id": "urn:lex-mx:federal:statute:lisf:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lisf:term:filial",
-    "span": "Filial",
-    "start_char": 8498,
-    "end_char": 8504
   },
   {
     "schema_version": "0.1.0",

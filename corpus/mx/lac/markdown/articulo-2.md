@@ -97,11 +97,11 @@ XXXVI. Servicio de transporte aéreo no regular: El que no está sujeto a rutas,
 
 XXXVII. Servicio de transporte aéreo regular: El que está sujeto a itinerarios, frecuencias de vuelos y horarios, podrá ser nacional o internacional y de conformidad con lo establecido por esta Ley;
 
-XXXVIII. Sistema de [Aeronave](articulo-2.md) Pilotada a Distancia: Conjunto integrado por la Aeronave pilotada a distancia, su estación o estaciones conexas de pilotaje a distancia, los enlaces requeridos de mando y control, y cualquier otro componente;
+XXXVIII. Sistema de Aeronave Pilotada a Distancia: Conjunto integrado por la [Aeronave](articulo-2.md) pilotada a distancia, su estación o estaciones conexas de pilotaje a distancia, los enlaces requeridos de mando y control, y cualquier otro componente;
 
 XXXIX. Sistema de gestión de la seguridad operacional: Enfoque sistemático para la gestión de la seguridad operacional que incluye las estructuras orgánicas, la obligación de rendición de cuentas, las responsabilidades, las políticas y procedimientos necesarios;
 
-XL. Sistema de Gestión de los Riesgos Asociados a la [Fatiga](articulo-2.md): Conjunto de reglas, procedimientos y datos que sirven para controlar y gestionar constantemente los riesgos de seguridad operacional relacionados con la fatiga, los cuales se basan en principios, conocimientos científicos y en la experiencia operacional, con el propósito de asegurar el eficaz desempeño del personal con un nivel de alerta adecuado, conocido como “FRMS” por las siglas en inglés de Fatigue Risk Management System;
+XL. Sistema de Gestión de los Riesgos Asociados a la Fatiga: Conjunto de reglas, procedimientos y datos que sirven para controlar y gestionar constantemente los riesgos de seguridad operacional relacionados con la fatiga, los cuales se basan en principios, conocimientos científicos y en la experiencia operacional, con el propósito de asegurar el eficaz desempeño del personal con un nivel de alerta adecuado, conocido como “FRMS” por las siglas en inglés de Fatigue Risk Management System;
 
 XLI. Tratados: Los definidos como tales en la fracción I del artículo [2](../../lsct/markdown/articulo-2o.md) de la Ley sobre la Celebración de Tratados, y
 

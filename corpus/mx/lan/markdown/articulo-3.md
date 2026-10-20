@@ -35,7 +35,7 @@ VI BIS. “Aguas residuales tratadas”: Aquellas que se han adecuado para su re
 
 VII. "Aprovechamiento": Aplicación del agua en actividades que no impliquen consumo de la misma;
 
-VII Bis. “[Aprovechamiento](articulo-3.md) de Paso”: Aquel realizado en cualquier actividad que no implique consumo de volúmenes de agua, y sus alteraciones no excedan los parámetros que establezcan las normas oficiales mexicanas; Fracción adicionada DOF 24-03-2016
+VII Bis. “Aprovechamiento de Paso”: Aquel realizado en cualquier actividad que no implique consumo de volúmenes de agua, y sus alteraciones no excedan los parámetros que establezcan las normas oficiales mexicanas; Fracción adicionada DOF 24-03-2016
 
 VIII. “Asignación”: Título que otorga el Ejecutivo Federal, a través de "la Comisión" o del [Organismo de Cuenca](articulo-3.md) que corresponda, conforme a sus respectivas competencias, para realizar la explotación, uso o aprovechamiento de las aguas nacionales, a los municipios, a los estados o a la Ciudad de México, destinadas a los servicios de agua con carácter público urbano o doméstico; Fracción reformada DOF 11-12-2025
 
@@ -49,7 +49,7 @@ XII. "Comisión Nacional del Agua": Órgano Administrativo Desconcentrado de la 
 
 XIII. "Concesión": Título que otorga el Ejecutivo Federal, a través de "la Comisión" o del Organismo de Cuenca que corresponda, conforme a sus respectivas competencias, para la explotación, uso o aprovechamiento de las aguas nacionales, y de sus bienes públicos inherentes, a las personas físicas o morales de carácter público y privado, excepto los títulos de asignación;
 
-XIV. "Condiciones Particulares de [Descarga](articulo-3.md)": El conjunto de parámetros físicos, químicos y biológicos y de sus niveles máximos permitidos en las descargas de agua residual, determinados por "la Comisión" o por el Organismo de Cuenca que corresponda, conforme a sus respectivas competencias, para cada usuario, para un determinado uso o grupo de usuarios de un cuerpo receptor específico con el fin de conservar y controlar la calidad de las aguas conforme a la presente Ley y los reglamentos derivados de ella;
+XIV. "Condiciones Particulares de Descarga": El conjunto de parámetros físicos, químicos y biológicos y de sus niveles máximos permitidos en las descargas de agua residual, determinados por "la Comisión" o por el Organismo de Cuenca que corresponda, conforme a sus respectivas competencias, para cada usuario, para un determinado uso o grupo de usuarios de un cuerpo receptor específico con el fin de conservar y controlar la calidad de las aguas conforme a la presente Ley y los reglamentos derivados de ella;
 
 XV. "Consejo de Cuenca": Órganos colegiados de integración mixta, que serán instancia de coordinación y concertación, apoyo, consulta y asesoría, entre "la Comisión", incluyendo el Organismo de Cuenca que corresponda, y las dependencias y entidades de las instancias federal, estatal o municipal, y los representantes de los usuarios de agua y de las organizaciones de la sociedad, de la respectiva cuenca hidrológica o región hidrológica;
 
@@ -109,7 +109,7 @@ XL. “Permisos”: Para los fines de la presente Ley, existen dos acepciones de
 
 a. “Permisos”: Son los que otorga el Ejecutivo Federal a través de “la Comisión” o del Organismo de Cuenca que corresponda, conforme a sus respectivas competencias, para la construcción de obras hidráulicas y otros de índole diversa relacionadas con el agua y los bienes nacionales a los que se refiere el Artículo [113](articulo-113.md) de la presente Ley; Inciso reformado DOF 08-06-2012
 
-b. "Permisos de Descarga": Título que otorga el Ejecutivo Federal a través de "la Comisión" o del Organismo de Cuenca que corresponda, conforme a sus respectivas competencias, para la descarga de aguas residuales a cuerpos receptores de propiedad nacional, a las personas físicas o morales de carácter público y privado;
+b. "Permisos de [Descarga](articulo-3.md)": Título que otorga el Ejecutivo Federal a través de "la Comisión" o del Organismo de Cuenca que corresponda, conforme a sus respectivas competencias, para la descarga de aguas residuales a cuerpos receptores de propiedad nacional, a las personas físicas o morales de carácter público y privado;
 
 XLI. "Persona física o moral": Los individuos, los ejidos, las comunidades, las asociaciones, las sociedades y las demás instituciones a las que la ley reconozca personalidad jurídica, con las modalidades y limitaciones que establezca la misma;
 
@@ -145,7 +145,7 @@ LI. "Unidad de Riego": Área agrícola que cuenta con infraestructura y sistemas
 
 LII. "Uso": Aplicación del agua a una actividad que implique el consumo, parcial o total de ese recurso;
 
-LIII. "[Uso](articulo-3.md) Agrícola": La aplicación de agua nacional para el riego destinado a la producción agrícola y la preparación de ésta para la primera enajenación, siempre que los productos no hayan sido objeto de transformación industrial;
+LIII. "Uso Agrícola": La aplicación de agua nacional para el riego destinado a la producción agrícola y la preparación de ésta para la primera enajenación, siempre que los productos no hayan sido objeto de transformación industrial;
 
 LIII BIS. “Uso agropecuario familiar”: Sistema de producción que incluye actividades agrícolas y pecuarias, cuyo objetivo es el sostenimiento familiar; Fracción adicionada DOF 11-12-2025
 
@@ -157,7 +157,7 @@ LVI. "Uso Doméstico": La aplicación de agua nacional para el uso particular de
 
 LVII. “Uso en Acuacultura”: El aprovechamiento de paso de aguas nacionales en el conjunto de actividades dirigidas a la reproducción controlada, pre engorda y engorda de especies de la fauna y flora realizadas en instalaciones en aguas nacionales, por medio de técnicas de cría o cultivo, que sean susceptibles de explotación comercial, ornamental o recreativa; Fracción reformada DOF 24-03-2016
 
-LVII BIS. “[Uso industrial](articulo-3.md) en la minería”: El aprovechamiento, explotación o uso de aguas nacionales, incluyendo las aguas de laboreo, en la exploración, explotación o beneficio de minerales y sustancias reservadas a la Federación en los términos de la Ley de Minería, se considera un tipo de uso industrial; Fracción adicionada DOF 08-05-2023
+LVII BIS. “Uso industrial en la minería”: El aprovechamiento, explotación o uso de aguas nacionales, incluyendo las aguas de laboreo, en la exploración, explotación o beneficio de minerales y sustancias reservadas a la Federación en los términos de la Ley de Minería, se considera un tipo de uso industrial; Fracción adicionada DOF 08-05-2023
 
 LVIII. "Uso industrial": La aplicación de aguas nacionales en fábricas o empresas que realicen la extracción, conservación o transformación de materias primas o minerales, el acabado de productos o la elaboración de satisfactores, así como el agua que se utiliza en parques industriales, calderas, dispositivos para enfriamiento, lavado, baños y otros servicios dentro de la empresa, las salmueras que se utilizan para la extracción de cualquier tipo de sustancias y el agua aun en estado de vapor, que sea usada para la generación de energía eléctrica o para cualquier otro uso o aprovechamiento de transformación;
 

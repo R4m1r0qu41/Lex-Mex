@@ -55,30 +55,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsnieg:article:2:term-usage:1965-1976",
-    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
-    "span": "Información",
-    "start_char": 1965,
-    "end_char": 1976
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsnieg:article:2:term-usage:2183-2194",
     "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:2",
     "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
     "span": "Información",
     "start_char": 2183,
     "end_char": 2194
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsnieg:article:2:term-usage:2242-2265",
-    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-estadistica",
-    "span": "Información Estadística",
-    "start_char": 2242,
-    "end_char": 2265
   },
   {
     "schema_version": "0.1.0",
@@ -97,15 +79,6 @@
     "span": "Información de Interés Nacional",
     "start_char": 2482,
     "end_char": 2513
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsnieg:article:2:term-usage:2547-2558",
-    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
-    "span": "Información",
-    "start_char": 2547,
-    "end_char": 2558
   },
   {
     "schema_version": "0.1.0",

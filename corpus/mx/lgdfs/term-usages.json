@@ -91,15 +91,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgdfs:article:7:term-usage:21913-21933",
-    "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:7",
-    "term_id": "urn:lex-mx:federal:statute:lgdfs:term:germoplasma-forestal",
-    "span": "Germoplasma Forestal",
-    "start_char": 21913,
-    "end_char": 21933
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgdfs:article:7:term-usage:24317-24329",
     "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:7",
     "term_id": "urn:lex-mx:federal:statute:lgdfs:term:salvaguardas",

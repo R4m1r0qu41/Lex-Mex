@@ -361,15 +361,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:17600-17627",
-    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lfprh:term:fondo-mexicano-del-petroleo",
-    "span": "Fondo Mexicano del Petróleo",
-    "start_char": 17600,
-    "end_char": 17627
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:17684-17711",
     "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
     "term_id": "urn:lex-mx:federal:statute:lfprh:term:fondo-mexicano-del-petroleo",

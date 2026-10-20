@@ -91,15 +91,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lse:article:2:term-usage:5307-5324",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:2",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:impacto-social",
-    "span": "Impactos Sociales",
-    "start_char": 5307,
-    "end_char": 5324
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lse:article:2:term-usage:6477-6488",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:solicitante",

@@ -25,7 +25,7 @@ II. Adaptación: Medidas y ajustes en sistemas humanos o naturales, como respues
 
 III. Atlas de riesgo: Documento dinámico cuyas evaluaciones de riesgo en asentamientos humanos, regiones o zonas geográficas vulnerables, consideran los actuales y futuros escenarios climáticos. Fracción reformada DOF 16-10-2014. Recorrida DOF 13-07-2018
 
-III Bis. Atlas Nacional de [Vulnerabilidad](articulo-3o.md) al Cambio Climático: Conjunto estructurado y sistemático de mapas que muestran la vulnerabilidad ante el cambio climático y orientan la realización de estrategias dentro del proceso de planeación y adaptación. Fracción adicionada DOF 15-11-2023
+III Bis. Atlas Nacional de Vulnerabilidad al Cambio Climático: Conjunto estructurado y sistemático de mapas que muestran la vulnerabilidad ante el cambio climático y orientan la realización de estrategias dentro del proceso de planeación y adaptación. Fracción adicionada DOF 15-11-2023
 
 IV. Cambio climático: Variación del clima atribuido directa o indirectamente a la actividad humana, que altera la composición de la atmósfera global y se suma a la variabilidad natural del clima observada durante períodos comparables. Fracción recorrida DOF 13-07-2018
 
@@ -77,7 +77,7 @@ XXIX. Panel Intergubernamental de Expertos sobre Cambio Climático (IPCC): Órga
 
 XXX. Programa: Programa Especial de Cambio Climático. Fracción recorrida DOF 13-07-2018
 
-XXXI. Política Nacional de [Adaptación](articulo-3o.md): Proceso de identificación de necesidades de adaptación al mediano y largo plazo, y de desarrollo e implementación de estrategias, programas y acciones para atenderlas. Fracción adicionada DOF 13-07-2018
+XXXI. Política Nacional de Adaptación: Proceso de identificación de necesidades de adaptación al mediano y largo plazo, y de desarrollo e implementación de estrategias, programas y acciones para atenderlas. Fracción adicionada DOF 13-07-2018
 
 XXXII. Protocolo de Kioto: Protocolo de Kioto de la Convención Marco de las Naciones Unidas sobre el Cambio Climático. Fracción recorrida DOF 13-07-2018
 

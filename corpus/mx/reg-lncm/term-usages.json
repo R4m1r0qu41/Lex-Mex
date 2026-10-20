@@ -208,15 +208,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lncm:article:10:term-usage:1925-1951",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:certificado-de-competencia",
-    "span": "Certificado de Competencia",
-    "start_char": 1925,
-    "end_char": 1951
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lncm:article:10:term-usage:2049-2079",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:personal-de-la-marina-mercante",
@@ -298,15 +289,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lncm:article:10:term-usage:5576-5597",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:embarcaciones-menores",
-    "span": "Embarcaciones Menores",
-    "start_char": 5576,
-    "end_char": 5597
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lncm:article:10:term-usage:5953-5956",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:ley",
@@ -367,15 +349,6 @@
     "span": "Dirección General",
     "start_char": 8477,
     "end_char": 8494
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lncm:article:10:term-usage:9033-9039",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:fidena",
-    "span": "FIDENA",
-    "start_char": 9033,
-    "end_char": 9039
   },
   {
     "schema_version": "0.1.0",
@@ -469,15 +442,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lncm:article:10:term-usage:12883-12898",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:turismo-nautico",
-    "span": "Turismo Náutico",
-    "start_char": 12883,
-    "end_char": 12898
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lncm:article:10:term-usage:13022-13061",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:embarcaciones-menores-de-recreo-y-deportivas",
@@ -493,15 +457,6 @@
     "span": "Turismo Náutico",
     "start_char": 13102,
     "end_char": 13117
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lncm:article:10:term-usage:13611-13615",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lncm:term:cctm",
-    "span": "CCTM",
-    "start_char": 13611,
-    "end_char": 13615
   },
   {
     "schema_version": "0.1.0",

@@ -1,15 +1,6 @@
 [
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:3:term-usage:1721-1736",
-    "provision_id": "urn:lex-mx:federal:statute:lan:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lan:term:aprovechamiento",
-    "span": "Aprovechamiento",
-    "start_char": 1721,
-    "end_char": 1736
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lan:article:3:term-usage:2053-2072",
     "provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "term_id": "urn:lex-mx:federal:statute:lan:term:organismo-de-cuenca",
@@ -25,15 +16,6 @@
     "span": "Organismo de Cuenca",
     "start_char": 4103,
     "end_char": 4122
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:3:term-usage:4420-4428",
-    "provision_id": "urn:lex-mx:federal:statute:lan:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lan:term:descarga",
-    "span": "Descarga",
-    "start_char": 4420,
-    "end_char": 4428
   },
   {
     "schema_version": "0.1.0",
@@ -115,105 +97,6 @@
     "span": "Organismo de Cuenca",
     "start_char": 19442,
     "end_char": 19461
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:3:term-usage:23053-23056",
-    "provision_id": "urn:lex-mx:federal:statute:lan:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lan:term:uso",
-    "span": "Uso",
-    "start_char": 23053,
-    "end_char": 23056
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:3:term-usage:23291-23294",
-    "provision_id": "urn:lex-mx:federal:statute:lan:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lan:term:uso",
-    "span": "Uso",
-    "start_char": 23291,
-    "end_char": 23294
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:3:term-usage:23474-23477",
-    "provision_id": "urn:lex-mx:federal:statute:lan:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lan:term:uso",
-    "span": "Uso",
-    "start_char": 23474,
-    "end_char": 23477
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:3:term-usage:23492-23495",
-    "provision_id": "urn:lex-mx:federal:statute:lan:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lan:term:uso",
-    "span": "Uso",
-    "start_char": 23492,
-    "end_char": 23495
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:3:term-usage:23801-23804",
-    "provision_id": "urn:lex-mx:federal:statute:lan:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lan:term:uso",
-    "span": "Uso",
-    "start_char": 23801,
-    "end_char": 23804
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:3:term-usage:24134-24137",
-    "provision_id": "urn:lex-mx:federal:statute:lan:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lan:term:uso",
-    "span": "Uso",
-    "start_char": 24134,
-    "end_char": 24137
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:3:term-usage:24468-24471",
-    "provision_id": "urn:lex-mx:federal:statute:lan:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lan:term:uso",
-    "span": "Uso",
-    "start_char": 24468,
-    "end_char": 24471
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:3:term-usage:24869-24883",
-    "provision_id": "urn:lex-mx:federal:statute:lan:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lan:term:uso-industrial",
-    "span": "Uso industrial",
-    "start_char": 24869,
-    "end_char": 24883
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:3:term-usage:25210-25213",
-    "provision_id": "urn:lex-mx:federal:statute:lan:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lan:term:uso",
-    "span": "Uso",
-    "start_char": 25210,
-    "end_char": 25213
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:3:term-usage:25825-25828",
-    "provision_id": "urn:lex-mx:federal:statute:lan:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lan:term:uso",
-    "span": "Uso",
-    "start_char": 25825,
-    "end_char": 25828
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:3:term-usage:26083-26086",
-    "provision_id": "urn:lex-mx:federal:statute:lan:article:3",
-    "term_id": "urn:lex-mx:federal:statute:lan:term:uso",
-    "span": "Uso",
-    "start_char": 26083,
-    "end_char": 26086
   },
   {
     "schema_version": "0.1.0",

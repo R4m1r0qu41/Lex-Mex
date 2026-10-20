@@ -36,7 +36,7 @@ a) Un [Usuario](articulo-1.md) y su facultad para realizar operaciones a través
 
 b) Una Sociedad y su facultad para recibir instrucciones a través de Servicios Electrónicos.
 
-V. Bloqueo de Factores de [Autenticación](articulo-1.md): al proceso mediante el cual la Sociedad inhabilita el uso de un [Factor de Autenticación](articulo-1.md) de forma temporal.
+V. Bloqueo de Factores de Autenticación: al proceso mediante el cual la Sociedad inhabilita el uso de un [Factor de Autenticación](articulo-1.md) de forma temporal.
 
 VI. Cajero Automático: al [Dispositivo de Acceso](articulo-1.md) de autoservicio que permite realizar consultas y operaciones diversas, tales como la disposición de dinero en efectivo y al cual el Usuario accede mediante una tarjeta o cuenta para utilizar los Servicios Electrónicos.
 
@@ -86,7 +86,7 @@ XXIV. Cuentas de Depósito: a las cuentas a que se refiere el inciso a) de la fr
 
 XXV. Cuentas Destino: a las cuentas receptoras de recursos dinerarios en [Operaciones Monetarias](articulo-1.md).
 
-XXVI. [Cuentas Destino](articulo-1.md) Recurrentes: a las Cuentas Destino que cumplan con los requisitos previstos en el Artículo [17 Bis 9](articulo-17-Bis-9.md) de las presentes disposiciones.
+XXVI. Cuentas Destino Recurrentes: a las [Cuentas Destino](articulo-1.md) que cumplan con los requisitos previstos en el Artículo [17 Bis 9](articulo-17-Bis-9.md) de las presentes disposiciones.
 
 XXVII. Cuentas Individuales, a las cuentas con un solo titular.
 
@@ -108,7 +108,7 @@ XXXIII Bis. Esquema de Cobertura en Paso y Medida (Pari-Passu): al esquema contr
 
 (27) 22
 
-XXXIV. Factor de Autenticación: al mecanismo de Autenticación, tangible o intangible, basado en las características físicas del Usuario, en dispositivos o información que solo el Usuario, posea o conozca. Estos mecanismos podrán ser:
+XXXIV. Factor de Autenticación: al mecanismo de [Autenticación](articulo-1.md), tangible o intangible, basado en las características físicas del Usuario, en dispositivos o información que solo el Usuario, posea o conozca. Estos mecanismos podrán ser:
 
 a) Información que el Usuario conozca y que la Sociedad valide a través de cuestionarios practicados por operadores de atención telefónica.
 
@@ -150,7 +150,7 @@ XLVI. Medidas Correctivas, a las [Medidas Correctivas Especiales Adicionales](ar
 
 (27) 26
 
-XLVII. [Medidas Correctivas](articulo-1.md) Especiales Adicionales, a las Medidas Correctivas que las Sociedades deberán cumplir en términos de lo dispuesto por el Artículo 76 de la Ley.
+XLVII. Medidas Correctivas Especiales Adicionales, a las [Medidas Correctivas](articulo-1.md) que las Sociedades deberán cumplir en términos de lo dispuesto por el Artículo 76 de la Ley.
 
 XLVIII. Medidas Correctivas Mínimas, a las medidas que deberán cumplir las Sociedades de conformidad con lo previsto por los Artículos 76 y 77 de la Ley, así como por las presentes Disposiciones.
 
@@ -162,9 +162,9 @@ LI. Microcrédito Productivo, en singular o plural, a los créditos otorgados po
 
 En todo caso, los grupos de Socios señalados deberán ser obligados mancomunados o solidarios. LII. Microfilmación, al acto mediante el cual un libro, registro o documento original, es filmado en una película.
 
-LIII. Miembros del [Comité de Supervisión Auxiliar](articulo-1.md), al Presidente y los gerentes de las oficinas regionales que integran el Comité de Supervisión Auxiliar, en términos del Artículo 51 de la Ley.
+LIII. Miembros del Comité de Supervisión Auxiliar, al Presidente y los gerentes de las oficinas regionales que integran el [Comité de Supervisión Auxiliar](articulo-1.md), en términos del Artículo 51 de la Ley.
 
-LIV. Miembros del [Consejo de Vigilancia](articulo-1.md), a las personas que integran el Consejo de Vigilancia.
+LIV. Miembros del Consejo de Vigilancia, a las personas que integran el [Consejo de Vigilancia](articulo-1.md).
 
 LV. Nivel de Capitalización, a la relación que guarda el capital neto de las Sociedades respecto de sus requerimientos de capitalización por riesgos de crédito y de mercado, expresada en porcentaje.
 

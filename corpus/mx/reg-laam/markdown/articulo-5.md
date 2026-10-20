@@ -57,7 +57,7 @@ XV. Personal de Apoyo: Personal naval de los diferentes cuerpos y servicios de l
 
 XVI. Presidenta o Presidente: La persona titular de la Presidencia de la Comisión Coordinadora para Ascensos; Fracción reformada DOF 02-04-2026
 
-XVII. [Presidentas o Presidentes](articulo-5.md) de las [Comisiones Locales](articulo-5.md): Las personas titulares de los Mandos de Regiones, Zonas y Sectores Navales, Agregadurías Navales y otros que por necesidades del servicio designe la Comisión Coordinadora; Fracción reformada DOF 02-04-2026
+XVII. Presidentas o Presidentes de las Comisiones Locales: Las personas titulares de los Mandos de Regiones, Zonas y Sectores Navales, Agregadurías Navales y otros que por necesidades del servicio designe la Comisión Coordinadora; Fracción reformada DOF 02-04-2026
 
 XVII Bis. Proceso de Selección: El conjunto de actividades que realiza la [Jefatura de Operaciones](articulo-5.md) cada año o cuando se ordene para seleccionar y reunir los elementos de juicio señalados en el artículo [18](../../laam/markdown/articulo-18.md) de la Ley, al personal de Capitanes de Fragata hasta Vicealmirantes convocados para ascenso y, en su caso, proponerlos en las listas a que se refieren los artículos [32](../../laam/markdown/articulo-32.md), fracción III y [33](../../laam/markdown/articulo-33.md), fracción III de la Ley de Ascensos de la Armada de México, las cuales se elaborarán conforme a dichos artículos; Fracción adicionada DOF 11-03-2016. Reformada DOF 02-04-2026
 

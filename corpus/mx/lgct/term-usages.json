@@ -73,15 +73,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgct:article:6:term-usage:498-504",
-    "provision_id": "urn:lex-mx:federal:statute:lgct:article:6",
-    "term_id": "urn:lex-mx:federal:statute:lgct:term:tabaco",
-    "span": "Tabaco",
-    "start_char": 498,
-    "end_char": 504
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgct:article:6:term-usage:653-663",
     "provision_id": "urn:lex-mx:federal:statute:lgct:article:6",
     "term_id": "urn:lex-mx:federal:statute:lgct:term:secretaria",
@@ -109,15 +100,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgct:article:6:term-usage:3929-3935",
-    "provision_id": "urn:lex-mx:federal:statute:lgct:article:6",
-    "term_id": "urn:lex-mx:federal:statute:lgct:term:tabaco",
-    "span": "Tabaco",
-    "start_char": 3929,
-    "end_char": 3935
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgct:article:6:term-usage:4467-4473",
     "provision_id": "urn:lex-mx:federal:statute:lgct:article:6",
     "term_id": "urn:lex-mx:federal:statute:lgct:term:tabaco",
@@ -142,15 +124,6 @@
     "span": "Ley",
     "start_char": 4736,
     "end_char": 4739
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgct:article:6:term-usage:5406-5412",
-    "provision_id": "urn:lex-mx:federal:statute:lgct:article:6",
-    "term_id": "urn:lex-mx:federal:statute:lgct:term:tabaco",
-    "span": "Tabaco",
-    "start_char": 5406,
-    "end_char": 5412
   },
   {
     "schema_version": "0.1.0",

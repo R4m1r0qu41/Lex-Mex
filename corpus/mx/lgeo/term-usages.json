@@ -244,15 +244,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:2:term-usage:2025-2036",
-    "provision_id": "urn:lex-mx:federal:statute:lgeo:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lgeo:term:exploracion",
-    "span": "Exploración",
-    "start_char": 2025,
-    "end_char": 2036
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgeo:article:2:term-usage:2097-2107",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:secretaria",
@@ -277,15 +268,6 @@
     "span": "Área Geotérmica",
     "start_char": 2323,
     "end_char": 2338
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:2:term-usage:2358-2371",
-    "provision_id": "urn:lex-mx:federal:statute:lgeo:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lgeo:term:usos-diversos",
-    "span": "Usos Diversos",
-    "start_char": 2358,
-    "end_char": 2371
   },
   {
     "schema_version": "0.1.0",
@@ -412,15 +394,6 @@
     "span": "Usos Diversos",
     "start_char": 4235,
     "end_char": 4248
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:2:term-usage:4267-4288",
-    "provision_id": "urn:lex-mx:federal:statute:lgeo:article:2",
-    "term_id": "urn:lex-mx:federal:statute:lgeo:term:yacimiento-geotermico",
-    "span": "Yacimiento Geotérmico",
-    "start_char": 4267,
-    "end_char": 4288
   },
   {
     "schema_version": "0.1.0",

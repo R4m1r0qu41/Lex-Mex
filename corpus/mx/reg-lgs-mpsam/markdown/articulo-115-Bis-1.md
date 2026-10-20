@@ -19,7 +19,7 @@ source_sha256: d219ab16e40b5941ff5038f8d3c3628706b64202022a98f798343e376f34c9e7
 
 Para efectos del presente Capítulo, además de las definiciones previstas en este Reglamento, se entenderá por:
 
-I. Atención de la [Urgencia Obstétrica](articulo-115-Bis-1.md): Los servicios de atención médica que deben brindarse a la mujer que presente una Urgencia Obstétrica, por el personal médico de las [Unidades Hospitalarias](articulo-115-Bis-1.md). Dichos servicios deberán prestarse de manera inmediata, continua y de calidad, las veinticuatro horas del día, todos los días del año;
+I. Atención de la Urgencia Obstétrica: Los servicios de atención médica que deben brindarse a la mujer que presente una [Urgencia Obstétrica](articulo-115-Bis-1.md), por el personal médico de las [Unidades Hospitalarias](articulo-115-Bis-1.md). Dichos servicios deberán prestarse de manera inmediata, continua y de calidad, las veinticuatro horas del día, todos los días del año;
 
 II. Contrarreferencia: El procedimiento técnico administrativo, a través del cual la Unidad Hospitalaria que haya brindado la [Atención de la Urgencia Obstétrica](articulo-115-Bis-1.md), envía a la paciente a un establecimiento de la institución de salud a la cual se encuentra afiliada, informando a dicho establecimiento las acciones realizadas, así como el diagnóstico, pronóstico y el tratamiento que se debe seguir, a fin de garantizar la continuidad e integralidad de la atención médica a la paciente;
 

@@ -21,11 +21,11 @@ Para los efectos de este Reglamento, se entiende por:
 
 I.- Aféresis: El procedimiento que tiene por objeto la separación de componentes de la sangre provenientes de un solo disponente de sangre humana, mediante centrifugación directa o con máquinas de flujo continuo o discontinuo;
 
-II.- Banco de [Organos](articulo-6o.md) y [Tejidos](articulo-6o.md): Todo establecimiento autorizado que tenga como finalidad primordial la obtención de órganos y tejidos para su preservación y suministro terapéutico;
+II.- Banco de Organos y Tejidos: Todo establecimiento autorizado que tenga como finalidad primordial la obtención de órganos y tejidos para su preservación y suministro terapéutico;
 
-III.- Banco de [Sangre](articulo-6o.md): El establecimiento autorizado para obtener, recolectar, analizar, fraccionar, conservar, aplicar y proveer sangre humana; así como para analizar, conservar, aplicar y proveer los componentes de la misma;
+III.- Banco de Sangre: El establecimiento autorizado para obtener, recolectar, analizar, fraccionar, conservar, aplicar y proveer sangre humana; así como para analizar, conservar, aplicar y proveer los componentes de la misma;
 
-IV.- Banco de Plasma: El establecimiento autorizado para fraccionar sangre obtenida de los Bancos de Sangre autorizados mediante el procedimiento de aféresis, y para la conservación del plasma que resulte;
+IV.- Banco de Plasma: El establecimiento autorizado para fraccionar sangre obtenida de los Bancos de [Sangre](articulo-6o.md) autorizados mediante el procedimiento de aféresis, y para la conservación del plasma que resulte;
 
 V.- Cadáver: El cuerpo humano en el que se haya comprobado la pérdida de la vida;
 
@@ -41,7 +41,7 @@ X.- Disponente: Quien autorice, de acuerdo con la Ley y este Reglamento, la disp
 
 XI.- Disposición de órganos, tejidos y cadáveres y sus productos: El conjunto de actividades relativas a la obtención, preservación, preparación, utilización, suministro y destino final de órganos, tejidos y sus componentes y derivados, productos y cadáveres, incluyendo los de embriones y fetos, con fines terapéuticos, de docencia o de investigación;
 
-XII.- [Disponente](articulo-6o.md) de Sangre Humana: La persona que suministra gratuitamente su sangre en cualquiera de las siguientes formas:
+XII.- Disponente de Sangre Humana: La persona que suministra gratuitamente su sangre en cualquiera de las siguientes formas:
 
 A) A un paciente a solicitud del médico tratante o del establecimiento hospitalario, o
 
@@ -61,7 +61,7 @@ XIX.- Puesto de Sangrado: Establecimiento móvil o fijo que cuenta con los eleme
 
 XX.- Receptor: La persona a quien se trasplantará o se le haya trasplantado un órgano o tejido o transfundido sangre o sus componentes mediante procedimientos terapéuticos;
 
-XXI.- Sangre: El Tejido hemático con todos sus elementos;
+XXI.- Sangre: El [Tejido](articulo-6o.md) hemático con todos sus elementos;
 
 XXII.- Sangre humana transfundible: El tejido hemático recolectado en recipientes con anticoagulantes, en condiciones que permitan su utilización durante el tiempo de vigencia, de acuerdo al anticoagulante usado;
 
