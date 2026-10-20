@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf
 source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 ---
 
+> Capítulo I
+
 # Artículo 1
 
 La presente Ley es del orden federal y sus disposiciones son de orden público y de interés social. Tiene por objeto regular las [Comisiones](articulo-3.md) y [Cuotas de Intercambio](articulo-3.md) así como otros aspectos relacionados con los servicios financieros y el otorgamiento de créditos de cualquier naturaleza que realicen las [Entidades](articulo-3.md), con el fin de garantizar la transparencia, la eficiencia del sistema de pagos y proteger los intereses del público.

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf
 source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 ---
 
+> Capítulo III
+
 # Artículo 17 Bis 3
 
 Las [Entidades](articulo-3.md) supervisarán constantemente las actividades realizadas por sus despachos de cobranza, así como también el estado de los reclamos presentados, permitiéndole al [Cliente](articulo-3.md) dar seguimiento a los mismos.

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf
 source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 ---
 
+> Capítulo I
+
 # Artículo 3
 
 Para los efectos de la presente Ley, en singular o plural se entenderá por:
@@ -64,5 +66,3 @@ XII Bis. Participante en Redes: a toda persona que de manera habitual preste ser
 XIII. Redes de Medios de Disposición: a la serie de acuerdos, protocolos, instrumentos, interfaces, procedimientos, reglas, programas, sistemas, infraestructura y demás elementos relacionados con el uso de Medios de Disposición, y que, conforme al artículo [4 Bis 3](articulo-4-Bis-3.md) corresponde regular de manera conjunta a la Comisión Nacional Bancaria y de Valores y al Banco de México, y Fracción recorrida DOF 25-05-2010. Reformada DOF 10-01-2014, 09-03-2018
 
 XIV. Sistema de Pagos: a la serie de instrumentos, procedimientos, reglas y sistemas para la transferencia de fondos. Fracción adicionada DOF 10-01-2014. Reformada DOF 09-03-2018
-
-Capítulo II.- De las Comisiones y [Cuotas de Intercambio](articulo-3.md)

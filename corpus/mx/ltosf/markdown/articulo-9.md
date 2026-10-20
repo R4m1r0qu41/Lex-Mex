@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf
 source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 ---
 
+> Capítulo III
+
 # Artículo 9
 
 Las tasas de interés ordinarias y moratorias que aparezcan en los documentos que instrumenten los créditos, préstamos y financiamientos que otorguen las [Entidades](articulo-3.md), así como las que se mencionen en los estados de cuenta, deberán expresarse en términos anuales, así como resaltarse en caracteres distintivos de manera clara, notoria e indubitable.

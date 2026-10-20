@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf
 source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 ---
 
+> Capítulo III
+
 # Artículo 18 Bis 4
 
 Las disposiciones de carácter general en materia de estados de cuenta que se emitan en términos del artículo [13](articulo-13.md) de la presente Ley, para el caso de Créditos al Consumo otorgados por [Entidades](articulo-3.md) deberán prever la manera de informar al [Cliente](articulo-3.md) la fecha límite y condiciones de pago, así como la mención de que en caso de que dicha fecha límite corresponda a un día inhábil, el pago podrá efectuarse el día hábil siguiente.

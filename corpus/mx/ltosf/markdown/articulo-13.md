@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf
 source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 ---
 
+> Capítulo III
+
 # Artículo 13
 
 Las [Entidades](articulo-3.md) deberán enviar al domicilio que señalen los [Clientes](articulo-3.md) en los contratos respectivos o al que posteriormente indiquen, el estado de cuenta correspondiente a las operaciones y servicios con ellas contratadas, el cual será gratuito para Cliente.

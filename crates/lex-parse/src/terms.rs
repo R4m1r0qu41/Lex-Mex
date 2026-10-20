@@ -436,6 +436,16 @@ fn established_glossary(provision: &Provision) -> Result<EstablishedGlossary> {
         {
             continue;
         }
+        if let Some(incisos) = lettered_incisos(entry_body, delimiter) {
+            let label = normalize_fraction_label(numeral);
+            match incisos {
+                Some(incisos) => {
+                    entries.extend(inciso_entries(text, after_numeral, &label, incisos));
+                }
+                None => unread_fractions.push(label),
+            }
+            continue;
+        }
         // An entry the glossary's delimiter does not fit is read by its own
         // (`Auditor Interno, al responsable…` in a colon glossary); one that
         // fits neither is recorded as unread. The entry's own `:` or `, al`
@@ -472,6 +482,77 @@ fn established_glossary(provision: &Provision) -> Result<EstablishedGlossary> {
         unread_fractions,
         invalidated_fractions,
     })
+}
+
+/// The glossary entries of a fraction's lettered incisos, whose offsets are
+/// relative to the fraction body at byte `body_start` of `text`.
+fn inciso_entries<'a>(
+    text: &'a str,
+    body_start: usize,
+    fraction: &str,
+    incisos: Vec<(String, String, usize, usize)>,
+) -> impl Iterator<Item = GlossaryEntry> + 'a {
+    let fraction = fraction.to_owned();
+    incisos
+        .into_iter()
+        .map(move |(letter, term, start, end)| GlossaryEntry {
+            term,
+            fraction: Some(fraction.clone()),
+            inciso: Some(letter),
+            start_char: text[..body_start + start].chars().count(),
+            end_char: text[..body_start + end].chars().count(),
+        })
+}
+
+/// A fraction whose body opens with inciso `a.` (or `a)`) and continues with
+/// lettered incisos, each starting a paragraph in the same form, defines one
+/// term per inciso, read by the glossary's delimiter (lan XXV: `a. "Distrito
+/// de Riego": …` `b. "Distrito de Temporal Tecnificado": …`). Each item is
+/// `(letter, term, start, end)`, byte offsets into `body`, from the marker to
+/// the next marker or the end of the fraction. `None`: the body is not such
+/// a list (fewer than two incisos). `Some(None)`: the lettering breaks or an
+/// inciso has no term, so the fraction is unread rather than guessed.
+#[allow(clippy::type_complexity)]
+fn lettered_incisos(
+    body: &str,
+    delimiter: char,
+) -> Option<Option<Vec<(String, String, usize, usize)>>> {
+    static MARKER: LazyLock<Regex> = LazyLock::new(|| {
+        Regex::new(r"(?:\A\s*|\n\n)([a-z])([.)])[ \t]").expect("inciso list regex must compile")
+    });
+    let first = MARKER.captures(body)?;
+    if first.get(0)?.start() != 0 || &first[1] != "a" {
+        return None;
+    }
+    let form = first[2].to_owned();
+    let markers: Vec<_> = MARKER
+        .captures_iter(body)
+        .filter(|captures| captures[2] == form)
+        .collect();
+    if markers.len() < 2 {
+        return None;
+    }
+    let mut incisos = Vec::with_capacity(markers.len());
+    for (index, (captures, expected)) in markers.iter().zip('a'..='z').enumerate() {
+        if !captures[1].starts_with(expected) {
+            return Some(None);
+        }
+        let start = captures.get(1)?.start();
+        let end = markers
+            .get(index + 1)
+            .and_then(|next| next.get(1))
+            .map_or(body.len(), |next| next.start());
+        let inciso = &body[captures.get(0)?.end()..end];
+        let Some(term) = inciso
+            .find(delimiter)
+            .map(|offset| inciso[..offset].trim())
+            .filter(|term| !term.is_empty() && term.chars().count() <= COLON_TERM_MAX_CHARS)
+        else {
+            return Some(None);
+        };
+        incisos.push((expected.to_string(), term.to_owned(), start, end));
+    }
+    Some(Some(incisos))
 }
 
 /// An entry's term read by its own delimiter, and that delimiter: the text
@@ -658,7 +739,7 @@ struct IncisoHint<'a> {
 /// An inciso marker inside a fraction: `a)` at the start of the fraction
 /// body or of a paragraph, or after a sentence (`…tabaco. c) Otros…`).
 static INCISO_MARKER: LazyLock<Regex> = LazyLock::new(|| {
-    Regex::new(r"(?:^|\n\n|\.[ \t]+)([a-z])\)[ \t]").expect("inciso marker regex must compile")
+    Regex::new(r"(?:^|\n\n|\.[ \t]+)([a-z])([).])[ \t]").expect("inciso marker regex must compile")
 });
 
 /// A profile term must be a plain span inside `[start, end)`.
@@ -804,7 +885,7 @@ fn check_cross_references(profile: &GlossaryProfile) -> Result<()> {
             let defines = profile.entries.iter().any(|candidate| {
                 candidate.fraction == target.fraction
                     && candidate.incisos.iter().any(|other| {
-                        other.marker.text == format!("{})", target.inciso)
+                        inciso_letter(&other.marker.text) == target.inciso
                             && other.disposition == GlossaryEntryDisposition::Definition
                     })
             });
@@ -822,10 +903,16 @@ fn check_cross_references(profile: &GlossaryProfile) -> Result<()> {
     Ok(())
 }
 
+/// An inciso marker's letter: `a` of `a)` or `a.`.
+fn inciso_letter(marker: &str) -> &str {
+    marker.trim_end_matches([')', '.'])
+}
+
 /// Read a profiled fraction's incisos. The listed markers must be exactly
-/// the fraction's inciso markers, lettered `a)`, `b)`… in order, so an inciso
-/// added or removed by a reform fails extraction; each inciso runs to the
-/// next marker or the end of the fraction.
+/// the fraction's inciso markers, lettered `a)`, `b)`… (or `a.`, `b.`…, as
+/// lan XXV prints them; one form per fraction) in order, so an inciso added
+/// or removed by a reform fails extraction; each inciso runs to the next
+/// marker or the end of the fraction.
 fn profiled_incisos<'a>(
     text: &str,
     entry: &'a lex_core::GlossaryProfileEntry,
@@ -836,8 +923,14 @@ fn profiled_incisos<'a>(
     if entry.incisos.is_empty() {
         return Ok(Vec::new());
     }
+    let form = if entry.incisos[0].marker.text.ends_with('.') {
+        "."
+    } else {
+        ")"
+    };
     let found: Vec<usize> = INCISO_MARKER
         .captures_iter(&text[body_start..end])
+        .filter(|captures| &captures[2] == form)
         .map(|captures| body_start + captures.get(1).expect("letter").start())
         .collect();
     let listed = entry
@@ -849,10 +942,10 @@ fn profiled_incisos<'a>(
         .incisos
         .iter()
         .zip('a'..='z')
-        .all(|(inciso, letter)| inciso.marker.text == format!("{letter})"));
+        .all(|(inciso, letter)| inciso.marker.text == format!("{letter}{form}"));
     if listed != found || !lettered {
         bail!(
-            "glossary profile fraction {} does not list exactly its incisos a), b)… in order",
+            "glossary profile fraction {} does not list exactly its incisos a{form} b{form}… in order",
             entry.fraction
         );
     }
@@ -860,7 +953,7 @@ fn profiled_incisos<'a>(
     for (index, inciso) in entry.incisos.iter().enumerate() {
         let start = listed[index];
         let inciso_end = listed.get(index + 1).copied().unwrap_or(end);
-        let letter = inciso.marker.text.trim_end_matches(')').to_owned();
+        let letter = inciso_letter(&inciso.marker.text).to_owned();
         let place = format!("fraction {} inciso {letter})", entry.fraction);
         match inciso.disposition {
             GlossaryEntryDisposition::Definition
@@ -3606,6 +3699,63 @@ mod tests {
         ] {
             assert_eq!(super::slug(name), expected, "{name}");
         }
+    }
+
+    #[test]
+    fn a_fraction_of_lettered_incisos_defines_one_term_per_inciso() {
+        // lan XXV: `a.` opens the fraction and `b.` a paragraph; the whole
+        // fraction was read as one term, `a. "Distrito de Riego"`.
+        let text = "Para los efectos de esta Ley se entenderá por:\n\n\
+             XXIV. \"Disponibilidad\": El volumen medio anual;\n\n\
+             XXV. a. \"Distrito de Riego\": Es el establecido mediante Decreto;\n\n\
+             b. \"Distrito de Temporal Tecnificado\": Área geográfica destinada;\n\n\
+             XXVI. \"Estero\": Terreno bajo, pantanoso.";
+        let detection = wider(text);
+        assert_eq!(
+            terms_and_fractions(&detection.terms),
+            owned(&[
+                ("Disponibilidad", "XXIV"),
+                ("Distrito de Riego", "XXV"),
+                ("Distrito de Temporal Tecnificado", "XXV"),
+                ("Estero", "XXVI"),
+            ])
+        );
+        let incisos: Vec<(Option<String>, String)> = detection
+            .terms
+            .iter()
+            .filter(|term| term.inciso.is_some())
+            .map(|term| {
+                let span = text
+                    .chars()
+                    .skip(term.start_char)
+                    .take(term.end_char - term.start_char)
+                    .collect();
+                (term.inciso.clone(), span)
+            })
+            .collect();
+        let expected = |inciso: &str, span: &str| (Some(inciso.to_owned()), span.to_owned());
+        assert_eq!(
+            incisos,
+            [
+                expected(
+                    "a",
+                    "a. \"Distrito de Riego\": Es el establecido mediante Decreto;\n\n"
+                ),
+                expected(
+                    "b",
+                    "b. \"Distrito de Temporal Tecnificado\": Área geográfica destinada;\n\n"
+                ),
+            ]
+        );
+        // Broken lettering is unread, not guessed.
+        let broken = text.replace("\n\nb. ", "\n\nc. ");
+        let detection = wider(&broken);
+        assert!(
+            !detection
+                .terms
+                .iter()
+                .any(|term| term.fraction.as_deref() == Some("XXV"))
+        );
     }
 
     #[test]

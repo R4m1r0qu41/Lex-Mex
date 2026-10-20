@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf
 source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 ---
 
+> Capítulo II
+
 # Artículo 4 Bis
 
 El Banco de México deberá incorporar, en las disposiciones de carácter general que emita en materia de [Comisiones](articulo-3.md), normas que limiten o prohíban aquéllas que distorsionen las sanas prácticas de intermediación, o resten transparencia y claridad al cobro de las mismas.

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf
 source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 ---
 
+> Capítulo III
+
 # Artículo 17 Bis 2
 
 Las [Entidades](articulo-3.md) deberán tener la información citada en el [artículo anterior](articulo-17-Bis-1.md) debidamente actualizada y contener al menos los siguientes datos: nombre del despacho, dirección, teléfonos, y nombre de los socios.

@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-4",
+  "strategy_version": "glossary-extraction-5",
   "instrument_id": "urn:lex-mx:federal:statute:ldrs",
   "source_sha256": "30f884c4cd22148b89f3fc21ff0be69be7571d51c146cefa7da2cac06b421f21",
   "extracted_text_sha256": "5f3fedb6194440db7a19f7b7d1dc15b0be62dbc85870f607f949efee206174c8",

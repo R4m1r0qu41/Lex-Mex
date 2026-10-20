@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf
 source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 ---
 
+> Capítulo II
+
 # Artículo 4 Bis 3
 
 Para los fines previstos en el artículo [1](articulo-1.md) de esta Ley, la [Comisión](articulo-3.md) Nacional Bancaria y de Valores y el Banco de México, de manera conjunta, deberán emitir disposiciones de carácter general para regular los términos y condiciones en que se presten servicios relacionados con las [Redes de Medios de Disposición](articulo-3.md), así como las [Cuotas de Intercambio](articulo-3.md) y Comisiones que se cobren directa o indirectamente, excepto por los servicios provistos por el Banco de México y aquellos a que se refiere la Ley de [Sistemas de Pagos](articulo-3.md).

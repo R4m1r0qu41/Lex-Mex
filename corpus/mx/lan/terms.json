@@ -309,12 +309,25 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:term:a-distrito-de-riego",
-    "term": "a. \"Distrito de Riego\"",
+    "id": "urn:lex-mx:federal:statute:lan:term:distrito-de-riego",
+    "term": "Distrito de Riego",
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "XXV",
-    "start_char": 10703,
+    "inciso": "a",
+    "start_char": 10708,
+    "end_char": 11180,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lan:term:distrito-de-temporal-tecnificado",
+    "term": "Distrito de Temporal Tecnificado",
+    "instrument_id": "urn:lex-mx:federal:statute:lan",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
+    "fraction": "XXV",
+    "inciso": "b",
+    "start_char": 11180,
     "end_char": 11721,
     "basis": "express_definition"
   },

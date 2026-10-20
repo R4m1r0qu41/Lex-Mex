@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-4",
+  "strategy_version": "glossary-extraction-5",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-logan",
   "source_sha256": "0ad7a7b6d7dffd7d9a582d74ebd6fc43e6baa79f71801a73dc70d1b77c414ded",
   "extracted_text_sha256": "7b936a04ce69c0eac39b3ad700625c0a043afcc86f041ded0ed4de5bc174bb1a",

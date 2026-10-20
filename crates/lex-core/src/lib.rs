@@ -1170,7 +1170,9 @@ pub struct TermUsage {
 /// quoted name without its quotation marks (and quoted alternatives joined
 /// by `o` as separate terms), and records an entry the SCJN declared invalid
 /// as invalidated rather than reading a term from it.
-pub const GLOSSARY_STRATEGY_VERSION: &str = "glossary-extraction-4";
+/// Version 5 reads an established-pass fraction of lettered incisos (`a.`
+/// … `b.`, or `a)` … `b)`) as one term per inciso, with its inciso locator.
+pub const GLOSSARY_STRATEGY_VERSION: &str = "glossary-extraction-5";
 
 /// How `terms.json` was produced for one instrument
 /// (`glossary-coverage.json`). It separates a glossary held as incomplete

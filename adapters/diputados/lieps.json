@@ -24,7 +24,7 @@
     "style": "auto_whole",
     "usage_form": "with_lowercase",
     "profile": {
-      "strategy_version": "glossary-extraction-4",
+      "strategy_version": "glossary-extraction-5",
       "provision_text_sha256": "9c80c1dc34488ddc56b82465adc6bf0941894b64ac09962e2a633c53f0f6e232",
       "rationale": "Operator rulings 2026-10-19: I, VIII and XXII are parents defined by their incisos (VIII as \"Tabacos labrados\"); IX's incisos are the definitions; XXII d) and g) only point to IX b) and c). Operator rulings 2026-10-20 (confirming the machine boundary readings): XIX and XXXVIII define the whole printed name, which has internal commas, up to the definition (\", a los productos\", \", aquellos que\"); XXII f) \"Turbosina y kerosenos\" is one term.",
       "evidence": "docs/decisions.md (2026-10-19, LIEPS glossary under its rulings)",

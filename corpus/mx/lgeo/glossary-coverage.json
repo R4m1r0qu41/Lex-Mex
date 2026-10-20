@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-4",
+  "strategy_version": "glossary-extraction-5",
   "instrument_id": "urn:lex-mx:federal:statute:lgeo",
   "source_sha256": "67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35",
   "extracted_text_sha256": "9937bb809bc2daa20df9b26511f9405ff831be627b7ced4c2b3897a5f836f1a4",

@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MCSAEPS_2812
 source_sha256: a952c5756e74797046decc1c7a80487ff423d2966fcffc2bf9dcd91c92b5539f
 ---
 
-> Título DECIMO
+> Título DECIMO · Capítulo UNICO
 
 # Artículo 715
 

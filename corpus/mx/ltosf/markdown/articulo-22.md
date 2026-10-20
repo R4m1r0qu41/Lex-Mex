@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf
 source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 ---
 
+> Capítulo IV
+
 # Artículo 22
 
 Las disposiciones de carácter general, tales como circulares y reglas, así como demás actos y notificaciones que emita el Banco de México en ejercicio de las facultades que le otorgan la Constitución Política de los Estados Unidos Mexicanos, y las leyes, podrán darse a conocer: Párrafo reformado DOF 24-01-2024

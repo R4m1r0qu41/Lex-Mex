@@ -1,5 +1,60 @@
 # Architecture decisions
 
+## 2026-10-20 — Headings that print their name on the heading line; lan XXV's incisos (`glossary-extraction-5`)
+
+**Trigger.** Operator (2026-10-20): "go ahead with the fixes". Two parser defects were left open:
+- the unread heading forms of lfce, lissfam and reg-lgp (the 2026-10-19 heading-leak entry);
+- lan XXV a./b. (the 2026-10-20 term-identifier entry).
+
+**Headings (`diputados.rs` `HeadingPatterns`).**
+- **Defect.** Only a bare `CAPÍTULO II` line was a heading. A heading that ends with a separator, often with its name on the same line, stayed in the preceding article's text:
+  - `Sección II.` (lfce);
+  - `SECCIÓN II.- Planificación Familiar` (reg-lgp);
+  - `TÍTULO SEGUNDO: De las Prestaciones` (lissfam);
+  - `Capítulo II.- …` (ltosf);
+  - `Sección Primera. De la Federación` (lgamvlv).
+- **Rule.** Libro, Título, Capítulo and Sección also read in a separator form. The keyword is capitalized or upper case, then comes an upper-case Roman numeral or an ordinal word (`Primero` … `Décimo Segundo`, `Único`, `Preliminar`), then `.`, `.-` or `:`, then optionally a capitalized name of up to 200 characters.
+  - The bare form is unchanged.
+  - Apartados are not read this way: CPEUM 41's `Apartado C. En la propaganda…` is article text.
+  - A glossary entry `Título de Concesión:` is not a heading, because its numeral is not a numeral.
+- **Guard.** A separator-form line is a heading only after a block boundary or a finished sentence (`.`, `;`, `:`). The first census run found the case: cpf 65 wraps `…en el Título Segundo del` / `Libro Primero.`, which was read as a heading. That dropped the sentence end and the reform note, and reset 62 articles' heading context.
+- **Fixture and test:** `heading-name-on-heading-line-sample.txt`, `a_heading_that_prints_its_name_on_its_own_line_closes_the_article`. They cover lfce, reg-lgp, lissfam, the two non-headings and the cpf wrap.
+
+**Census and reparse.**
+- The new form can change only a source with a matching line. 9 retained sources have one; 8 parse with the Diputados parser and hash-match (cub-dcg-2005 is a CNBV DCG).
+- An old/new A/B parse of those 8 changes provisions only by heading context and removed trailing heading text. cpf is unchanged after the guard.
+- The 7 that change are reparsed: lfce, lgamvlv, lissfam, lpf, ltosf, reg-lgp and reg-lgs-mcsaeps.
+- Per instrument, removed headings and changed heading contexts:
+
+| Instrument | Removed headings | Changed heading contexts |
+|---|---:|---:|
+| lfce | 1 | 1 |
+| lgamvlv | 12 | 14 |
+| lissfam | 9 | 231 |
+| lpf | 1 | 7 |
+| ltosf | 3 | 52 |
+| reg-lgp | 17 | 177 |
+| reg-lgs-mcsaeps | 0 | 72 (its `Capítulo UNICO` is now read) |
+
+- Removed text is only the heading, with any note printed under it (`Sección recorrida (antes Sección Octava) DOF 04-06-2015`, `Sección derogada DOF 28-09-2012`). Heading context keeps the numeral only, as before, so such notes are not stored elsewhere.
+- **No temporal or review field changes.** `derive-temporal` was not rerun. lfce, lgamvlv, lissfam, lpf and reg-lgp are `not_analyzed`, and a first attempt that reran it would have created new machine classifications, so it was reverted.
+- **Pre-existing parser difference.** reg-lgs-mcsaeps Transitory CUARTO no longer ends with the 1988 signing block ("Dado en la residencia del Poder Ejecutivo Federal…"). The current parser already treats an enactment signature as apparatus; the old committed parse predates that rule.
+- **Not reparsed.** `ltfccg` (`Capítulo II.- Información Previa` inside Article 3) has no retained source. Reparsing it needs a fetch that matches its committed `source_sha256`.
+
+**lan XXV (`terms.rs` `lettered_incisos`).**
+- **Rule.** An established-pass fraction whose body opens with inciso `a.` (or `a)`), and continues with lettered incisos in the same form at paragraph starts, defines one term per inciso. Each term is read by the glossary's delimiter and carries an `inciso` locator; its span runs from its marker to the next.
+- Broken lettering, or an inciso with no term, records the fraction as unread rather than guessing. Fewer than two incisos is not such a list.
+- No other committed term had this shape (census: terms starting with an inciso marker; only lan XXV).
+- **lan:** `a. "Distrito de Riego"` (one malformed term, id `…:term:a-distrito-de-riego`) becomes `Distrito de Riego` (inciso a) and `Distrito de Temporal Tecnificado` (inciso b). Terms 78 → 79; usages 215 → 218 (`Distrito de Temporal Tecnificado` 3).
+- **Profiles.** Profile incisos also accept the `a.` form (one form per fraction). This is mechanism only: lan is read by the established pass, and `auto_whole` cannot read its quoted names.
+- **Test:** `a_fraction_of_lettered_incisos_defines_one_term_per_inciso`.
+- **Strategy version.** Term detection changed meaning, so it is bumped to `glossary-extraction-5`. All 468 coverage files and the six profiles (lfca, lfpccs, lfra, lfvv, lsct, lieps) are rebound, with their extraction unchanged. The `glossary-coverage` schema constant follows.
+
+**Measured** (`link --all`: exit 0; 5 rejections, exactly the accepted gaps; references 35,949 → 35,949):
+- **Terms:** 5,727 → 5,728.
+- **Usages:** 102,168 → 102,169. lan gains 3; ltosf loses 2, both inside its leaked `Capítulo II.- De las Comisiones y Cuotas de Intercambio`.
+- **Markdown:** 125 files, all in the seven reparsed instruments.
+
 ## 2026-10-20 — Reviewed usage exclusions; LIEPS drops 11 lower-case non-usages
 
 **Operator (2026-10-20):** on LIEPS's questionable lower-case matches, chose "Reviewed exclusions": a per-usage list pinned to provision, position and exact text, removing only the reviewed false links.

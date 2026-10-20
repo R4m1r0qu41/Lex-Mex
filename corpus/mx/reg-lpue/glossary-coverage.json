@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-4",
+  "strategy_version": "glossary-extraction-5",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lpue",
   "source_sha256": "0923a52e7c7ebeb9e136d5b72cba8e6c5852276de034f7fc76a74d7fdb0096b1",
   "extracted_text_sha256": "f2174024b6cc953fc080d27c80e7cbb0862a9c435a7501522ea81601c883bbc2",

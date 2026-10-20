@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf
 source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 ---
 
+> Capítulo III
+
 # Artículo 11 Bis
 
 Las personas a quienes el titular de un crédito revolvente asociado a una tarjeta haya autorizado el uso de tarjetas adicionales, en ningún caso podrán ser obligados solidarios o subsidiarios de éste. En el evento de que los tarjetahabientes autorizados a utilizar tarjetas de crédito adicionales, continúen usándolas con posterioridad al fallecimiento del titular de la tarjeta, la [Entidad](articulo-3.md) emisora podrá exigir a cada uno de tales tarjetahabientes el pago derivado de las transacciones que haya efectuado con cargo a la cuenta.

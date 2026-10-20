@@ -1405,6 +1405,33 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lan:article:77:term-usage:398-430",
+    "provision_id": "urn:lex-mx:federal:statute:lan:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lan:term:distrito-de-temporal-tecnificado",
+    "span": "Distrito de Temporal Tecnificado",
+    "start_char": 398,
+    "end_char": 430
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lan:article:77:term-usage:521-553",
+    "provision_id": "urn:lex-mx:federal:statute:lan:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lan:term:distrito-de-temporal-tecnificado",
+    "span": "Distrito de Temporal Tecnificado",
+    "start_char": 521,
+    "end_char": 553
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lan:article:77:term-usage:751-783",
+    "provision_id": "urn:lex-mx:federal:statute:lan:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lan:term:distrito-de-temporal-tecnificado",
+    "span": "Distrito de Temporal Tecnificado",
+    "start_char": 751,
+    "end_char": 783
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lan:article:78:term-usage:1-12",
     "provision_id": "urn:lex-mx:federal:statute:lan:article:78",
     "term_id": "urn:lex-mx:federal:statute:lan:term:la-comision",

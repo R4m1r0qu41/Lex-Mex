@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-4",
+  "strategy_version": "glossary-extraction-5",
   "instrument_id": "urn:lex-mx:federal:statute:lgpc",
   "source_sha256": "d8dd1de3627b899bb4faf31c2812c3d5f14f7108be153d5aa8dd549b9136184a",
   "extracted_text_sha256": "f4e221f2d8f7b05b1ec11467063e399e57f469e3ffd6fc3744b48f59a14b92ff",

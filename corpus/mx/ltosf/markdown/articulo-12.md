@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf
 source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 ---
 
+> Capítulo III
+
 # Artículo 12
 
 Las [Entidades Financieras](articulo-3.md) se ajustarán a las disposiciones de carácter general que emita la [Comisión](articulo-3.md) Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, en las que establezca la forma y términos que deberá cumplir la publicidad relativa a las características de sus operaciones activas, pasivas y de servicios. Párrafo reformado DOF 25-06-2009

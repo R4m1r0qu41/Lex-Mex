@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf
 source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 ---
 
+> Capítulo III
+
 # Artículo 16
 
 Las instituciones de crédito están obligadas a recibir cheques salvo buen cobro y órdenes de transferencias de fondos para abono en cuenta del beneficiario. Asimismo, las instituciones de crédito, sociedades financieras de objeto limitado y las sociedades financieras de objeto múltiple reguladas están obligadas a recibir cheques salvo buen cobro y órdenes de transferencias de fondos para el pago del principal, intereses, [Comisiones](articulo-3.md) y gastos, de los créditos, préstamos o financiamientos que otorguen a sus [Clientes](articulo-3.md).

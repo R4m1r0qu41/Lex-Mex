@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf
 source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 ---
 
+> Capítulo II
+
 # Artículo 4 Bis 1
 
 Las [Comisiones](articulo-3.md) que las [Entidades](articulo-3.md) determinen deberán ser claras y transparentes, para lo cual se sujetarán a lo siguiente:

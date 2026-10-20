@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf
 source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 ---
 
+> Capítulo III
+
 # Artículo 18 Bis 1
 
 Las [Entidades](articulo-3.md) sólo otorgarán créditos, préstamos o financiamientos revolventes asociados a una tarjeta previa estimación de la viabilidad de pago por parte de los solicitantes valiéndose para ello de un análisis a partir de información cuantitativa y cualitativa que permita establecer su solvencia crediticia y capacidad de pago.
