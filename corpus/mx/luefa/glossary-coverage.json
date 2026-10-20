@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-2",
+  "strategy_version": "glossary-extraction-3",
   "instrument_id": "urn:lex-mx:federal:statute:luefa",
   "source_sha256": "1735a62b3987ad5c4c07d876dbab5080edeca171b482098aa17b4c647cb11fdf",
   "extracted_text_sha256": "8a32e0eb37145114cdc00719b66a69a28339c4f82b837eaf3f90823dbdebe7c9",

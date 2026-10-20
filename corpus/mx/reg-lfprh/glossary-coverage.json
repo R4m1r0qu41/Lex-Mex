@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-2",
+  "strategy_version": "glossary-extraction-3",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lfprh",
   "source_sha256": "030ed4c6e3950adecfd4c6376b31d216dc4d876d90b21190c982bccac0b03d7a",
   "extracted_text_sha256": "fb8c5e0815e166315a348d684cd4a3b75dee4f3839d9cb1001e4abca2dbe4332",

@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-2",
+  "strategy_version": "glossary-extraction-3",
   "instrument_id": "urn:lex-mx:federal:statute:laero",
   "source_sha256": "c78882a0177403ee04cd38dd09fa1657dc221b7f6827ddacf251c699ede867e4",
   "extracted_text_sha256": "a2508368251fc258612b76f85f2a28fec6ff0c545e005449f06748404be94886",

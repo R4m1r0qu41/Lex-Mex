@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-2",
+  "strategy_version": "glossary-extraction-3",
   "instrument_id": "urn:lex-mx:federal:statute:len",
   "source_sha256": "1cbe263920b6492766c004f8a08e5d20b06c1463a730f0c82f6bbd38406ff91a",
   "extracted_text_sha256": "7610559b5390f730d7a6edc2dd53099f76ad871777aa1cb0974017c282f4ca9e",

@@ -1,5 +1,31 @@
 # Architecture decisions
 
+## 2026-10-19 — Codex review of the parser sweep: one limitation repaired, one pinned
+
+**Review.** `docs/parser-sweep-review-2026-10-19.md` (Codex; evidence in `docs/parser-sweep-review-2026-10-19-evidence.json`) covers `b4109cc54..d8ecaeaa0`.
+- The LGTOC and CPF repairs replay independently from hash-matching source, and so does CPF `209 Quintus`.
+- The native gate passes. A private closure on a `git archive` snapshot is byte-identical (73,265 canonical files).
+- It is not a certification that every parser defect is fixed. It raises two P2 limitations.
+
+**P2 — mixed delimiters (repaired).**
+- **Defect:** in the established pass, the glossary's shared delimiter won whenever it occurred in an entry's prefix. So `Auditor Interno, al responsable de las siguientes funciones: …` in a colon glossary read definition prose into the term.
+- **Repair:** the entry's own `:` or `, al`-style delimiter now wins when it ends the term earlier.
+  - An own `.` never overrides the shared delimiter (`S.A. de C.V.`).
+  - Delimiters inside parentheses belong to the term. The first relink cut ldrs XXX `Servicios Ambientales (sinónimo: beneficios ambientales)` at its colon; that regression is guarded and tested.
+- **Regression tests:** Codex's reproduction, the `S.A. de C.V.` case and the ldrs parenthesis case.
+- **Measured.** My first census (definition openers inside terms) found 0 and was wrong. The relink corrects 6 committed terms that had definition prose in them:
+  - cue-dcg-2003 XVI: `Inversionista calificado:\n\n(107) a) Básico…` → `Inversionista calificado`, usages 240 → 241.
+  - reg-lgtrata III, VIII, X, XI and XV: comma-glossary entries written `Term: definition`, such as `Atención Médica Integral: Aquella que comprende…`. Usages 57 → 84.
+  - No other term changes. The Markdown changes are link-only, and references are unchanged (35,949).
+- **Strategy version:** extraction meaning changed, so it is bumped to `glossary-extraction-3`. The six profiles (lfca, lfpccs, lfra, lfvv, lsct, lieps) are rebound to it; their text and extraction are unchanged.
+
+**P2 — lower-case transitory headings (pinned, not changed).**
+- **Limitation:** requiring a capitalized ordinal (cpf `décimo. Asimismo…`) also refuses a genuinely lower-case heading such as `primero.-`. That fails closed and loses no text.
+- **Measured:** no retained source has such a heading (309-source A/B census).
+- **Kept:** the restriction, now pinned by a test of both cases. If a source needs it, discriminate by context rather than by case.
+
+**Not done here.** The review's next action, updating the database contract and debt seed against the reviewed commit, belongs to the SQLite workstream's own worktree. These two limitations go to it as follow-ups.
+
 ## 2026-10-19 — Heading-leak reparse of 16 instruments; four silent-loss parser defects fixed; three accepted gaps resolved
 
 **Why.** 711 provisions in 62 instruments ended with the next chapter or section heading in their canonical text. An example is CPEUM Art. 29 ending `Capítulo II De los Mexicanos`. These were July parses: the current parser files those headings as headings and fills `heading_context`. The operator chose (2026-10-19) to reparse the 22 instruments with hash-matching retained source now and to record the other 40 as debt.

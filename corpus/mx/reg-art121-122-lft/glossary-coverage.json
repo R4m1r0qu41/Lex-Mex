@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-2",
+  "strategy_version": "glossary-extraction-3",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-art121-122-lft",
   "source_sha256": "9be81cab513e8797c27eab1c8932b087599fe9ff39528fde9b661cdebf4257f0",
   "extracted_text_sha256": "6682618a9fe627b225258fb4daadaaa3520cec7fe4504811da870549c9ce5527",

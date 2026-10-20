@@ -23,7 +23,7 @@ I. Canalizará a las áreas de trabajo social o psicológica para que realicen u
 
 II. Si de la entrevista a que se refiere la fracción anterior, deriva la necesidad de atención médica o psicológica especializada, se hará la vinculación interna o externa que corresponda, de conformidad con la legislación aplicable.
 
-En el caso de la Atención Médica Integral y psicológica para las víctimas u ofendidos, estas podrán solicitar, en todo momento, la asistencia de las personas de su confianza o de su comunidad;
+En el caso de la [Atención Médica Integral](articulo-2.md) y psicológica para las víctimas u ofendidos, estas podrán solicitar, en todo momento, la asistencia de las personas de su confianza o de su comunidad;
 
 III. Llevará un registro de las acciones realizadas conforme a este artículo y formará un expediente del caso, o bien, actualizará el existente, y
 

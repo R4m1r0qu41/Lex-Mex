@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-2",
+  "strategy_version": "glossary-extraction-3",
   "instrument_id": "urn:lex-mx:federal:statute:lffmaa",
   "source_sha256": "31d853037c0fe8c97535b508ed8a5366dfd6c83e53b6b32967c816554504dbaa",
   "extracted_text_sha256": "64fc3889e33545fa017fa5b0e9ffba45a17dae1c203de453e5859df98d7a4e9d",

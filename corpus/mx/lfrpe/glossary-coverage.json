@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-2",
+  "strategy_version": "glossary-extraction-3",
   "instrument_id": "urn:lex-mx:federal:statute:lfrpe",
   "source_sha256": "05390b6c1389b13c8004675b51e5da49bbdbba01c352e844ec1ccaf9b5abf1da",
   "extracted_text_sha256": "72e9602c9db4f401e9823c756c27e06aca75a773db8b675eaad2e0faca402483",

@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-2",
+  "strategy_version": "glossary-extraction-3",
   "instrument_id": "urn:lex-mx:federal:statute:lasoc",
   "source_sha256": "d8e73214cb24d2de425b58971ee1f4ff50a7ae1b7eeeff05c929649818601228",
   "extracted_text_sha256": "6bb2f16609cc4352ed7b55c15b675afebc6f5d31e1d693d9c0fa08a60327bd59",

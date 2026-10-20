@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-2",
+  "strategy_version": "glossary-extraction-3",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-ldcmpme",
   "source_sha256": "478ff012a0c6ad39c7b826a81d91c5eac3decac66b10fd725138c02c2586b165",
   "extracted_text_sha256": "38325b3f341ca5f28f1ebcf5898d641b117639b4a979b685f3686af1a9eaf52d",

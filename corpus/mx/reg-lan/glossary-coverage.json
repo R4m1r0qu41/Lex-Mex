@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-2",
+  "strategy_version": "glossary-extraction-3",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lan",
   "source_sha256": "d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399",
   "extracted_text_sha256": "39d49495a6c06cab5302eb4bc20953987e35623cd72fd7eb876b52504ec909a0",

@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-2",
+  "strategy_version": "glossary-extraction-3",
   "instrument_id": "urn:lex-mx:federal:statute:ligie",
   "source_sha256": "a7688a47c8283f327b943e06ed948782feba2f5a0e16fe796d50d8340ce40ece",
   "extracted_text_sha256": "426414f85860efb0c92e70c3a15c13194bf1b66481a4b2254af6b1de29db958f",

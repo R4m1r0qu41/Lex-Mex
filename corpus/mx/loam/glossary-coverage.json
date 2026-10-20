@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-2",
+  "strategy_version": "glossary-extraction-3",
   "instrument_id": "urn:lex-mx:federal:statute:loam",
   "source_sha256": "476c757523ccdbe6825029df4b37990c8def13ecf98e1bb66e4ace738d33946a",
   "extracted_text_sha256": "47e06f5c4ec0ada842e9658913d74ee1a818b1e8d9c20d70293fabe47864d23b",

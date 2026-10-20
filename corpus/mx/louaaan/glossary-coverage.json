@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-2",
+  "strategy_version": "glossary-extraction-3",
   "instrument_id": "urn:lex-mx:federal:statute:louaaan",
   "source_sha256": "0684841d80e27cadbc489695f617c672fe74cb5510970a0b2d0c762cf648ed27",
   "extracted_text_sha256": "4aea7202a3785ec11bcef2ba3bdd1d4686c3c43f5c6ab1a524657d4edee6a479",

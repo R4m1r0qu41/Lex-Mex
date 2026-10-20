@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-2",
+  "strategy_version": "glossary-extraction-3",
   "instrument_id": "urn:lex-mx:federal:statute:lotfja",
   "source_sha256": "b32c33fa4ed071dc8bea1ad69ce8510cdb05016967e9e4fcb60f10c6f2216628",
   "extracted_text_sha256": "1f8fd160f521a3429a58d8780a6c373d3318c9cbf1b5c061ad63518abdd4c84a",

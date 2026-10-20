@@ -17,7 +17,7 @@ source_sha256: 1d398a90955ef45ccb7baf4d56534c676cde8325e8b109c4d32120909e783694
 
 # Artículo 33
 
-La instancia competente de atención a víctimas promoverá que las víctimas, ofendidos o testigos de los delitos en materia de trata de personas que requieran Atención Médica Integral y psicológica se incorporen a los esquemas de gratuidad de servicios de salud contemplados en las disposiciones jurídicas aplicables, en términos de los convenios de colaboración que para tal efecto se suscriban con las dependencias y entidades de la Administración Pública Federal correspondientes.
+La instancia competente de atención a víctimas promoverá que las víctimas, ofendidos o testigos de los delitos en materia de trata de personas que requieran [Atención Médica Integral](articulo-2.md) y psicológica se incorporen a los esquemas de gratuidad de servicios de salud contemplados en las disposiciones jurídicas aplicables, en términos de los convenios de colaboración que para tal efecto se suscriban con las dependencias y entidades de la Administración Pública Federal correspondientes.
 
 Asimismo, podrá gestionar la celebración de convenios de colaboración con las dependencias y entidades de los gobiernos de las entidades federativas que presten servicios de atención a la salud, a efecto de que las víctimas, ofendidos o testigos reciban la Atención Médica Integral y psicológica, antes, durante y después de los procesos administrativos o judiciales correspondientes.
 

@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-2",
+  "strategy_version": "glossary-extraction-3",
   "instrument_id": "urn:lex-mx:federal:statute:lrart5-prof",
   "source_sha256": "db0e747c99548991239635e331e95369b627315c81889db03aa2e96f6d3debe6",
   "extracted_text_sha256": "6311ba8466f6b888c0bafe776e925f9f6566acdbb73ff4ceaaaf07af7d9f1494",

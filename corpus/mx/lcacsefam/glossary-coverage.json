@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-2",
+  "strategy_version": "glossary-extraction-3",
   "instrument_id": "urn:lex-mx:federal:statute:lcacsefam",
   "source_sha256": "93f2f807af3fd78f9e7ffcc4b1b544b2c7eecca463efcd7adaa16a0f8716049f",
   "extracted_text_sha256": "0c53e203685153d5dc9935b6161a6133faf9f8c7c4630955cdac1b6647a25428",

@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-2",
+  "strategy_version": "glossary-extraction-3",
   "instrument_id": "urn:lex-mx:federal:statute:lspm",
   "source_sha256": "f8a66009368493d0c964c21f4cb165c39d5bb3b1236058511547f9c3cca6e5cc",
   "extracted_text_sha256": "38abaefc164f56815125f9708c671a591dc8a74359dd2afed130ac13427e5e2c",

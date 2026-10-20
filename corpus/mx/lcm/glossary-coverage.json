@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-2",
+  "strategy_version": "glossary-extraction-3",
   "instrument_id": "urn:lex-mx:federal:statute:lcm",
   "source_sha256": "8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a",
   "extracted_text_sha256": "44e82827083ce334aad9274951af92e6953bf7a876a428ee477dd7a5e4b9aa8d",

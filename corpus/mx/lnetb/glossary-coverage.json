@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-2",
+  "strategy_version": "glossary-extraction-3",
   "instrument_id": "urn:lex-mx:federal:statute:lnetb",
   "source_sha256": "193ffb402e2decb38aac42ad136c90b9a944a097b4f9b94b6e161ca1bd30f839",
   "extracted_text_sha256": "6380998d7abb85d6fcadd5d7528e6857e0635bded0f2b0788061d06cdf71f83f",

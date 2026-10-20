@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-2",
+  "strategy_version": "glossary-extraction-3",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-diputados",
   "source_sha256": "6fa1d25c31c4d8c2cc8074208b10a2f3ff35fecce26c1cc03ba18117cfec80d1",
   "extracted_text_sha256": "cb19ed715d4db636579e6198e8c61c4049c0a61c7b046ac297e16749b82d80b5",

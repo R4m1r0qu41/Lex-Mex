@@ -46,6 +46,33 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:4:term-usage:905-929",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:lengua-de-senas-mexicana",
+    "span": "Lengua de Señas Mexicana",
+    "start_char": 905,
+    "end_char": 929
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:4:term-usage:1710-1734",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:lengua-de-senas-mexicana",
+    "span": "Lengua de Señas Mexicana",
+    "start_char": 1710,
+    "end_char": 1734
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:7:term-usage:337-361",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:atencion-medica-integral",
+    "span": "Atención Médica Integral",
+    "start_char": 337,
+    "end_char": 361
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:9:term-usage:41-95",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:9",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:fiscalias-y-procuradurias-de-las-entidades-federativas",
@@ -61,6 +88,24 @@
     "span": "Personas en Situación de Vulnerabilidad",
     "start_char": 352,
     "end_char": 391
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:10:term-usage:1038-1062",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:atencion-medica-integral",
+    "span": "Atención Médica Integral",
+    "start_char": 1038,
+    "end_char": 1062
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:11:term-usage:230-254",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:atencion-medica-integral",
+    "span": "Atención Médica Integral",
+    "start_char": 230,
+    "end_char": 254
   },
   {
     "schema_version": "0.1.0",
@@ -100,6 +145,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:22:term-usage:263-287",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:atencion-medica-integral",
+    "span": "Atención Médica Integral",
+    "start_char": 263,
+    "end_char": 287
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:23:term-usage:633-642",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:23",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:albergues",
@@ -109,12 +163,39 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:24:term-usage:505-529",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:atencion-medica-integral",
+    "span": "Atención Médica Integral",
+    "start_char": 505,
+    "end_char": 529
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:24:term-usage:1057-1081",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:lengua-de-senas-mexicana",
+    "span": "Lengua de Señas Mexicana",
+    "start_char": 1057,
+    "end_char": 1081
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:29:term-usage:56-97",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:29",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:representaciones-de-mexico-en-el-exterior",
     "span": "Representaciones de México en el Exterior",
     "start_char": 56,
     "end_char": 97
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:29:term-usage:323-347",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:atencion-medica-integral",
+    "span": "Atención Médica Integral",
+    "start_char": 323,
+    "end_char": 347
   },
   {
     "schema_version": "0.1.0",
@@ -145,6 +226,51 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:33:term-usage:157-181",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:atencion-medica-integral",
+    "span": "Atención Médica Integral",
+    "start_char": 157,
+    "end_char": 181
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:33:term-usage:740-764",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:atencion-medica-integral",
+    "span": "Atención Médica Integral",
+    "start_char": 740,
+    "end_char": 764
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:33:term-usage:1264-1288",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:atencion-medica-integral",
+    "span": "Atención Médica Integral",
+    "start_char": 1264,
+    "end_char": 1288
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:36:term-usage:207-225",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:reglamento-interno",
+    "span": "Reglamento Interno",
+    "start_char": 207,
+    "end_char": 225
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:38:term-usage:107-125",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:reglamento-interno",
+    "span": "Reglamento Interno",
+    "start_char": 107,
+    "end_char": 125
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:39:term-usage:3-13",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:39",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:presidente",
@@ -160,6 +286,15 @@
     "span": "Presidente",
     "start_char": 430,
     "end_char": 440
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:39:term-usage:557-575",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:reglamento-interno",
+    "span": "Reglamento Interno",
+    "start_char": 557,
+    "end_char": 575
   },
   {
     "schema_version": "0.1.0",
@@ -205,6 +340,33 @@
     "span": "Presidente",
     "start_char": 2075,
     "end_char": 2085
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:40:term-usage:2105-2123",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:40",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:reglamento-interno",
+    "span": "Reglamento Interno",
+    "start_char": 2105,
+    "end_char": 2123
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:41:term-usage:1238-1256",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:41",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:reglamento-interno",
+    "span": "Reglamento Interno",
+    "start_char": 1238,
+    "end_char": 1256
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:42:term-usage:590-608",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:42",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:reglamento-interno",
+    "span": "Reglamento Interno",
+    "start_char": 590,
+    "end_char": 608
   },
   {
     "schema_version": "0.1.0",
@@ -370,12 +532,57 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:56:term-usage:468-492",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:atencion-medica-integral",
+    "span": "Atención Médica Integral",
+    "start_char": 468,
+    "end_char": 492
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:58:term-usage:223-241",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:58",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:reglamento-interno",
+    "span": "Reglamento Interno",
+    "start_char": 223,
+    "end_char": 241
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:59:term-usage:172-190",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:59",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:reglamento-interno",
+    "span": "Reglamento Interno",
+    "start_char": 172,
+    "end_char": 190
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:60:term-usage:70-88",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:60",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:reglamento-interno",
+    "span": "Reglamento Interno",
+    "start_char": 70,
+    "end_char": 88
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:60:term-usage:313-331",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:60",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:invitados-expertos",
     "span": "Invitados Expertos",
     "start_char": 313,
     "end_char": 331
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:60:term-usage:403-421",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:60",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:reglamento-interno",
+    "span": "Reglamento Interno",
+    "start_char": 403,
+    "end_char": 421
   },
   {
     "schema_version": "0.1.0",
@@ -388,12 +595,39 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:61:term-usage:330-348",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:61",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:reglamento-interno",
+    "span": "Reglamento Interno",
+    "start_char": 330,
+    "end_char": 348
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:62:term-usage:552-573",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:62",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:programas-permanentes",
     "span": "Programas Permanentes",
     "start_char": 552,
     "end_char": 573
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:62:term-usage:694-712",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:62",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:reglamento-interno",
+    "span": "Reglamento Interno",
+    "start_char": 694,
+    "end_char": 712
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:62:term-usage:1041-1065",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:62",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:lengua-de-senas-mexicana",
+    "span": "Lengua de Señas Mexicana",
+    "start_char": 1041,
+    "end_char": 1065
   },
   {
     "schema_version": "0.1.0",
@@ -502,6 +736,15 @@
     "span": "Programas Permanentes",
     "start_char": 4,
     "end_char": 25
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:transitory:segundo:term-usage:210-228",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:reglamento-interno",
+    "span": "Reglamento Interno",
+    "start_char": 210,
+    "end_char": 228
   },
   {
     "schema_version": "0.1.0",

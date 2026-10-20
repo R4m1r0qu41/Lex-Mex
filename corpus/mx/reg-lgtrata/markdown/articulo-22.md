@@ -17,4 +17,4 @@ source_sha256: 1d398a90955ef45ccb7baf4d56534c676cde8325e8b109c4d32120909e783694
 
 # Artículo 22
 
-Los [Albergues](articulo-2.md), Casas de Medio Camino y Refugios deberán garantizar un alojamiento digno en los que sea posible proporcionar, entre otros servicios, el de alimentación, aseo personal, así como los medios para poder comunicarse y, en su caso, aquellos servicios de Atención Médica Integral o psicológica.
+Los [Albergues](articulo-2.md), Casas de Medio Camino y Refugios deberán garantizar un alojamiento digno en los que sea posible proporcionar, entre otros servicios, el de alimentación, aseo personal, así como los medios para poder comunicarse y, en su caso, aquellos servicios de [Atención Médica Integral](articulo-2.md) o psicológica.

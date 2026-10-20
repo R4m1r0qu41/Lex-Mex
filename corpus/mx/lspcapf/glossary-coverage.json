@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-2",
+  "strategy_version": "glossary-extraction-3",
   "instrument_id": "urn:lex-mx:federal:statute:lspcapf",
   "source_sha256": "d0e88848d94fbf70ee742e9e57a5ee9c34e060b21215f2c7f98a02e1f307e424",
   "extracted_text_sha256": "684c71feeab0e31d938d4467e97b57283fbc01aef66ae4788b4de08430831f68",

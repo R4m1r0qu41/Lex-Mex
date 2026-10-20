@@ -17,4 +17,4 @@ source_sha256: 1d398a90955ef45ccb7baf4d56534c676cde8325e8b109c4d32120909e783694
 
 # Artículo 60
 
-La Subcomisión Consultiva de la Comisión se integrará en términos del Reglamento Interno. REGLAMENTO DE LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS En la Subcomisión Consultiva podrán participar [Invitados Expertos](articulo-2.md) vinculados con la trata de personas, en los términos que establezca el Reglamento Interno.
+La Subcomisión Consultiva de la Comisión se integrará en términos del [Reglamento Interno](articulo-2.md). REGLAMENTO DE LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS En la Subcomisión Consultiva podrán participar [Invitados Expertos](articulo-2.md) vinculados con la trata de personas, en los términos que establezca el Reglamento Interno.

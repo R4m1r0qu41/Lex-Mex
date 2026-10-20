@@ -19,7 +19,7 @@
   ],
   "properties": {
     "schema_version": { "type": "string", "const": "0.1.0" },
-    "strategy_version": { "type": "string", "const": "glossary-extraction-2" },
+    "strategy_version": { "type": "string", "const": "glossary-extraction-3" },
     "instrument_id": { "type": "string", "pattern": "^urn:lex-mx:" },
     "source_sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
     "extracted_text_sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
@@ -79,7 +79,7 @@
       "additionalProperties": false,
       "required": ["strategy_version", "provision_text_sha256", "rationale", "evidence"],
       "properties": {
-        "strategy_version": { "type": "string", "const": "glossary-extraction-2" },
+        "strategy_version": { "type": "string", "const": "glossary-extraction-3" },
         "provision_text_sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
         "rationale": { "type": "string", "minLength": 1 },
         "evidence": { "type": "string", "minLength": 1 },

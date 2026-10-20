@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-2",
+  "strategy_version": "glossary-extraction-3",
   "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
   "source_sha256": "8ac502b97188bd6e795781e9821be6e62ccdd8050cdd3be74aab52a888e67939",
   "extracted_text_sha256": "f1fc1189a30e10129731ae73feead3f88bf92ae50027a9b3080c5011007d378d",

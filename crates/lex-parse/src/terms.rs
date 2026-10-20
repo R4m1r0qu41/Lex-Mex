@@ -361,8 +361,21 @@ fn established_glossary(provision: &Provision) -> Result<EstablishedGlossary> {
         }
         // An entry the glossary's delimiter does not fit is read by its own
         // (`Auditor Interno, al responsable…` in a colon glossary); one that
-        // fits neither is recorded as unread.
-        let Some(term) = glossary_term.or_else(|| own_delimiter_term(entry_body)) else {
+        // fits neither is recorded as unread. The entry's own `:` or `, al`
+        // also wins when it ends the term earlier, because the shared
+        // delimiter then falls inside the definition (`Auditor Interno, al
+        // responsable de las siguientes funciones: …`, Codex review
+        // 2026-10-19). An own `.` never overrides it (`S.A. de C.V.`).
+        let own = own_delimiter_term(entry_body);
+        let earlier_own = own
+            .filter(|(own, delimiter)| {
+                *delimiter != '.' && glossary_term.is_some_and(|shared| own.len() < shared.len())
+            })
+            .map(|(own, _)| own);
+        let Some(term) = earlier_own
+            .or(glossary_term)
+            .or_else(|| own.map(|(own, _)| own))
+        else {
             unread_fractions.push(normalize_fraction_label(numeral));
             continue;
         };
@@ -383,31 +396,42 @@ fn established_glossary(provision: &Provision) -> Result<EstablishedGlossary> {
     })
 }
 
-/// An entry's term read by its own delimiter, for an entry the glossary's
-/// delimiter does not fit: the text before the first `:`, before a `,` that
+/// An entry's term read by its own delimiter, and that delimiter: the text
+/// before the first `:`, before a `,` that
 /// a definition opener follows (`, al`, `, a la`, `, en singular`), or
 /// before a `.` that a capital follows. The term must be a plain short name
 /// that does not end in a connector (`Familiares derechohabientes a:` opens
 /// a list, not a definition).
-fn own_delimiter_term(body: &str) -> Option<&str> {
+fn own_delimiter_term(body: &str) -> Option<(&str, char)> {
     static OPENER: LazyLock<Regex> = LazyLock::new(|| {
         Regex::new(r"^\s+(?:al?|el|las?|los|en|para)\b").expect("opener regex must compile")
     });
     static CAPITAL: LazyLock<Regex> =
         LazyLock::new(|| Regex::new(r"^\s+[A-ZÁÉÍÓÚÑ]").expect("capital regex must compile"));
-    let (offset, _) =
+    // A delimiter inside parentheses belongs to the term (ldrs:
+    // `Servicios Ambientales (sinónimo: beneficios ambientales)`).
+    let mut depth = 0usize;
+    let (offset, delimiter) =
         body.char_indices()
             .take(COLON_TERM_MAX_CHARS + 1)
-            .find(|(offset, character)| match character {
-                ':' => true,
-                ',' => OPENER.is_match(&body[offset + 1..]),
-                '.' => CAPITAL.is_match(&body[offset + 1..]),
-                _ => false,
+            .find(|(offset, character)| {
+                match character {
+                    '(' => depth += 1,
+                    ')' => depth = depth.saturating_sub(1),
+                    _ => {}
+                }
+                depth == 0
+                    && match character {
+                        ':' => true,
+                        ',' => OPENER.is_match(&body[offset + 1..]),
+                        '.' => CAPITAL.is_match(&body[offset + 1..]),
+                        _ => false,
+                    }
             })?;
     let term = body[..offset].trim();
     let last_word = term.rsplit(' ').next().unwrap_or_default();
     (!term.is_empty() && !term.contains([';', '\n', '"', '“', '”']) && !is_connector(last_word))
-        .then_some(term)
+        .then_some((term, delimiter))
 }
 
 /// The wider fallback pass. A glossary is accepted only whole: its fractions
@@ -2981,6 +3005,46 @@ mod tests {
         assert_eq!(
             super::own_delimiter_term("Familiares derechohabientes a: Párrafo reformado"),
             None
+        );
+        // Codex review 2026-10-19 (P2): the shared colon falls inside this
+        // entry's definition, so its own `, al` ends the term.
+        let mixed = provision(
+            REGULATION_ID,
+            "article:1",
+            "Para efectos de las presentes disposiciones, se entenderá por:\n\nI. Agencia: La \
+             agencia;\n\nII. Auditor Interno, al responsable de las siguientes funciones: revisión \
+             y vigilancia;\n\nIII. S.A. de C.V.: La sociedad;\n\nIV. Grupo: El grupo.",
+        );
+        assert_eq!(
+            super::detect_glossary(std::slice::from_ref(&mixed))
+                .unwrap()
+                .terms
+                .iter()
+                .map(|term| term.term.as_str())
+                .collect::<Vec<_>>(),
+            ["Agencia", "Auditor Interno", "S.A. de C.V.", "Grupo"]
+        );
+        // ldrs, a comma glossary: the colon inside the parenthesis belongs to
+        // the term, so it never ends it earlier.
+        let parenthesized = provision(
+            STATUTE_ID,
+            "article:3",
+            "Para los efectos de esta Ley se entenderá por:\n\nI. Agencia, a la agencia;\n\nII. \
+             Servicios Ambientales (sinónimo: beneficios ambientales), los beneficios;\n\nIII. \
+             Grupo, el grupo.",
+        );
+        assert_eq!(
+            super::detect_glossary(std::slice::from_ref(&parenthesized))
+                .unwrap()
+                .terms
+                .iter()
+                .map(|term| term.term.as_str())
+                .collect::<Vec<_>>(),
+            [
+                "Agencia",
+                "Servicios Ambientales (sinónimo: beneficios ambientales)",
+                "Grupo"
+            ]
         );
         assert_eq!(
             super::own_delimiter_term("Consejos de Disciplina; al Consejo de Comisarios"),

@@ -3231,6 +3231,38 @@ mod tests {
     }
 
     #[test]
+    fn a_lower_case_transitory_heading_fails_closed_until_a_source_needs_it() {
+        // Codex review 2026-10-19 (P2): requiring a capitalized ordinal keeps
+        // `décimo. Asimismo…` (cpf) a continuation, but it also refuses a
+        // genuinely lower-case heading. No retained source has one (309-source
+        // A/B census); if one arrives, discriminate by context instead.
+        let source = |ordinal: &str| {
+            format!(
+                "   Artículo 1.- Texto.\n\n                TRANSITORIOS\n\n   {ordinal}.- El decreto entrará en vigor mañana.\n"
+            )
+        };
+        let parse = |text: &str| {
+            parse_diputados(
+                text,
+                &options("urn:lex-mx:federal:statute:sample", "Ley de Muestra"),
+                NaiveDate::from_ymd_opt(2000, 1, 1).unwrap(),
+            )
+        };
+        let capitalized = parse(&source("Primero")).unwrap();
+        assert!(
+            capitalized
+                .provisions
+                .iter()
+                .any(|p| p.id.ends_with(":transitory:primero"))
+        );
+        let error = parse(&source("primero")).unwrap_err();
+        assert!(
+            error.to_string().contains("unnumbered transitory body"),
+            "{error}"
+        );
+    }
+
+    #[test]
     fn omnibus_operative_articles_and_noted_titles_close_a_transitory_section() {
         // cff: after one law's transitories (`Cuarto.`), the 1995 omnibus
         // decree goes on with `Artículo Cuarto.`, an operative article; and a

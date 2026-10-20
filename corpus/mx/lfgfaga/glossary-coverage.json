@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-2",
+  "strategy_version": "glossary-extraction-3",
   "instrument_id": "urn:lex-mx:federal:statute:lfgfaga",
   "source_sha256": "5ecf3ff973aa8817fdb63785bcf56d34826dabc130480ba3f1b344ce55ede363",
   "extracted_text_sha256": "7944c33f1dbc5232aecf9e617779a392c664044084155465d98fe0b9e303e44d",

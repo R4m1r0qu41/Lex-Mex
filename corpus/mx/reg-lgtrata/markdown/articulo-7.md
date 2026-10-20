@@ -17,4 +17,4 @@ source_sha256: 1d398a90955ef45ccb7baf4d56534c676cde8325e8b109c4d32120909e783694
 
 # Artículo 7
 
-La instancia competente de atención a víctimas, en coordinación con las instituciones especializadas competentes, de conformidad con los convenios de colaboración que para tal efecto se suscriban, prestarán los servicios de atención a víctimas u ofendidos de los delitos en materia de trata de personas entre los cuales se proporcionará Atención Médica Integral, asistencia psicológica especializada, orientación, asesoría jurídica y gestoría de trabajo social.
+La instancia competente de atención a víctimas, en coordinación con las instituciones especializadas competentes, de conformidad con los convenios de colaboración que para tal efecto se suscriban, prestarán los servicios de atención a víctimas u ofendidos de los delitos en materia de trata de personas entre los cuales se proporcionará [Atención Médica Integral](articulo-2.md), asistencia psicológica especializada, orientación, asesoría jurídica y gestoría de trabajo social.

@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-2",
+  "strategy_version": "glossary-extraction-3",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lfvv",
   "source_sha256": "23dcee090bbe0c4fb06c75d084cb65ce0b2e8f72a8d082e7059504412bde1614",
   "extracted_text_sha256": "e285f66116cfd48f4cfdefdeef40b6d2c4f0fcede5e83442be446f2814244e65",

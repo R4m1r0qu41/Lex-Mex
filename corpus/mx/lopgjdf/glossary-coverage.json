@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-2",
+  "strategy_version": "glossary-extraction-3",
   "instrument_id": "urn:lex-mx:federal:statute:lopgjdf",
   "source_sha256": "9029a84a765e797a83c088c2832fafbcc600701d6d15347f9fe890a4245a1e58",
   "extracted_text_sha256": "7d52fdaf87e1574e454ab176469e3ed081741d1b858d5f03496ca901e9a54e53",

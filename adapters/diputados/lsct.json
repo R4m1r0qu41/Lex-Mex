@@ -33,7 +33,7 @@
     "provision_suffix": ":article:2",
     "style": "auto_whole",
     "profile": {
-      "strategy_version": "glossary-extraction-2",
+      "strategy_version": "glossary-extraction-3",
       "provision_text_sha256": "2a963793ba376665d572ef6af335038df9a447dfa268c1867c0adcbcb1701c69",
       "rationale": "Every fraction quotes its term name (`“Tratado”: …`); fraction V defines three names for one act.",
       "evidence": "docs/decisions.md (2026-10-19, glossary exception profiles, batch 1)",

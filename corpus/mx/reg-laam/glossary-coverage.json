@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-2",
+  "strategy_version": "glossary-extraction-3",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-laam",
   "source_sha256": "8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca",
   "extracted_text_sha256": "b2e23ea0838bbbaaba2339a6283812bf1f6a38809cd0178f664f546ba382856a",

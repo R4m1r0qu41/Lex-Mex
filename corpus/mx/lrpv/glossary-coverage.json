@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-2",
+  "strategy_version": "glossary-extraction-3",
   "instrument_id": "urn:lex-mx:federal:statute:lrpv",
   "source_sha256": "0125eed7519ad260330f9a04f78c0e4a1ce93c06e67c98ac3c535416787656ba",
   "extracted_text_sha256": "e210fdb80d01dc269d5514ac13323e2c39fd77589b0fa880d3449d80e10c6234",

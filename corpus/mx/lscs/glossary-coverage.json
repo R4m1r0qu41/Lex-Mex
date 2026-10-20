@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-2",
+  "strategy_version": "glossary-extraction-3",
   "instrument_id": "urn:lex-mx:federal:statute:lscs",
   "source_sha256": "8b5abc3a8b409df55685b2337fc723b196bcaece68eb37a25e65c0a4f64a7e06",
   "extracted_text_sha256": "c9dd0052eacd1568b848c3a63a93170848ea686d2e2cb8f2c8005cdf1ed70e8a",

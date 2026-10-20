@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-2",
+  "strategy_version": "glossary-extraction-3",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mcsaeps",
   "source_sha256": "a952c5756e74797046decc1c7a80487ff423d2966fcffc2bf9dcd91c92b5539f",
   "extracted_text_sha256": "2f940b7c097a2f089b176e842a0b579fe1495a51f04ceef6c16da9c83e9e25d6",

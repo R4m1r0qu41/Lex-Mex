@@ -27,8 +27,8 @@ III. Rendir un informe a la Comisión sobre el avance del Programa Nacional y lo
 
 IV. Presentar a la Comisión los estudios e informes que le requiera, y
 
-V. Las demás que le confiera la Comisión o el Reglamento Interno.
+V. Las demás que le confiera la Comisión o el [Reglamento Interno](articulo-2.md).
 
 La Subcomisión Consultiva, con apoyo del Instituto Nacional de Lenguas Indígenas, podrá coadyuvar en las acciones necesarias para llevar a cabo la traducción a lenguas indígenas y sus variantes lingüísticas de la legislación y documentos en materia de trata de personas.
 
-Asimismo, la Subcomisión Consultiva, en el caso de la Lengua de Señas Mexicana, coadyuvará con el Consejo Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad, para la traducción de documentos en materia de trata de personas dirigidos a ese sector de la población.
+Asimismo, la Subcomisión Consultiva, en el caso de la [Lengua de Señas Mexicana](articulo-2.md), coadyuvará con el Consejo Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad, para la traducción de documentos en materia de trata de personas dirigidos a ese sector de la población.

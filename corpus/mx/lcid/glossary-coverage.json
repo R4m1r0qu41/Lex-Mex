@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-2",
+  "strategy_version": "glossary-extraction-3",
   "instrument_id": "urn:lex-mx:federal:statute:lcid",
   "source_sha256": "1a64991c466c40c7ed0f3d7bffa1b5d5b87dc9df8aa59a97b525a99f98b381a6",
   "extracted_text_sha256": "0110f182c33a8a2777470ca167fb6fecad8b57722b4069a35cef03d23601700e",

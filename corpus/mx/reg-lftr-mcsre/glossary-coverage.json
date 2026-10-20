@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-2",
+  "strategy_version": "glossary-extraction-3",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lftr-mcsre",
   "source_sha256": "12b5a375ccfb83d3a9e46f19e97429007aea1caf283f9e0f0566f222a7e6f998",
   "extracted_text_sha256": "b27b96c177d06468ee10543dc9f78022158e62bbdaed17f92931a2e026dde9fd",

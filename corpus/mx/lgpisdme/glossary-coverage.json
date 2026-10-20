@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-2",
+  "strategy_version": "glossary-extraction-3",
   "instrument_id": "urn:lex-mx:federal:statute:lgpisdme",
   "source_sha256": "5d22df1b22454fe1fe5354c0d9d4cec71d1d7ded3549072c340c36cb3ea3a624",
   "extracted_text_sha256": "93f63f9e533841bbfdcb31912c02351aed5badaf6c51da07e978257d73a5de89",

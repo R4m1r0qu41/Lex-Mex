@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-2",
+  "strategy_version": "glossary-extraction-3",
   "instrument_id": "urn:lex-mx:federal:statute:lraf",
   "source_sha256": "e86e9b734f81f2cdc9e2cf39b79ab4aaeea8295ae966ce73a487319c49de521a",
   "extracted_text_sha256": "cc26bcb3198edfb64b8583d67b870dd8658fadb50365a7f68d49e06930029a05",

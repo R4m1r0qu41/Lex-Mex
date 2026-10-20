@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-2",
+  "strategy_version": "glossary-extraction-3",
   "instrument_id": "urn:lex-mx:federal:statute:lviv",
   "source_sha256": "f6af373e0f5b95596b4e54f4ccd2e0270fcc85bd4f05fb43da775de2f53c9ff7",
   "extracted_text_sha256": "bde9e2f8ed8950f3b2ba3ede248ec11e1d425479fd25edb4cc0d7b241769bfa1",

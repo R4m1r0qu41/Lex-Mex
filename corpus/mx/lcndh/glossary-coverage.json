@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-2",
+  "strategy_version": "glossary-extraction-3",
   "instrument_id": "urn:lex-mx:federal:statute:lcndh",
   "source_sha256": "4e3a4d590c0554842ff0a27a9ecc09c7f2c22c87255a4c0f247ea68d2dca544c",
   "extracted_text_sha256": "bb0805e6dd0438680471d77c5bda0aaf9660ebaf9341645154651c8df33a9f11",

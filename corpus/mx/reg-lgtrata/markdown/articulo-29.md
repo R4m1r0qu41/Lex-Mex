@@ -17,4 +17,4 @@ source_sha256: 1d398a90955ef45ccb7baf4d56534c676cde8325e8b109c4d32120909e783694
 
 # Artículo 29
 
-La Secretaría de Relaciones Exteriores, a través de las [Representaciones de México en el Exterior](articulo-2.md), asistirá cuando tenga conocimiento, a las víctimas de los delitos en materia de trata de personas de nacionalidad mexicana en territorio extranjero. Para ello, realizará los trámites necesarios para gestionar el acceso a la Atención Médica Integral, psicológica y jurídica ante las instancias encargadas de otorgarla en el país del que se trate.
+La Secretaría de Relaciones Exteriores, a través de las [Representaciones de México en el Exterior](articulo-2.md), asistirá cuando tenga conocimiento, a las víctimas de los delitos en materia de trata de personas de nacionalidad mexicana en territorio extranjero. Para ello, realizará los trámites necesarios para gestionar el acceso a la [Atención Médica Integral](articulo-2.md), psicológica y jurídica ante las instancias encargadas de otorgarla en el país del que se trate.

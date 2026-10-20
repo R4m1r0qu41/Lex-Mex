@@ -17,4 +17,4 @@ source_sha256: 1d398a90955ef45ccb7baf4d56534c676cde8325e8b109c4d32120909e783694
 
 # Artículo 38
 
-La Comisión, además de las funciones que le impone la Ley y el presente Reglamento, podrá establecer en su Reglamento Interno aquellas que considere necesarias para el cumplimiento de su objeto.
+La Comisión, además de las funciones que le impone la Ley y el presente Reglamento, podrá establecer en su [Reglamento Interno](articulo-2.md) aquellas que considere necesarias para el cumplimiento de su objeto.

@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-2",
+  "strategy_version": "glossary-extraction-3",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-linfonacot",
   "source_sha256": "1462bbacad053d49c213e32c1859dd914c1415d2c37c6a22970bd87877a9c9bd",
   "extracted_text_sha256": "570306b441749e719cda79cf050a5f285b36cb90855929e50af0cf30dfe17a8d",

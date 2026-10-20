@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-2",
+  "strategy_version": "glossary-extraction-3",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-larcp",
   "source_sha256": "298ec78a8d6666f73ce8ccdd8a31ae0a06c18174139eacc0fe80d3a00d3f4b89",
   "extracted_text_sha256": "e120ef2d3614e45be01d9133bbad6c49de89aa089e5c1da1beb006b4589069f6",

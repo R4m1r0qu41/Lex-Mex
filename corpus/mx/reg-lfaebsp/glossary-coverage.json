@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-2",
+  "strategy_version": "glossary-extraction-3",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lfaebsp",
   "source_sha256": "9047ed3a46898bd7423b35e109f9c695e995408ca852aaaa07eb2cb902c9d7a3",
   "extracted_text_sha256": "d454a4daed4c13a2f8dd3198de7195a693f57a105b47f0a52be436c84157d8c1",

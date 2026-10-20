@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-2",
+  "strategy_version": "glossary-extraction-3",
   "instrument_id": "urn:lex-mx:federal:statute:lppddhp",
   "source_sha256": "060468c7fa389756fc5706ce2d475a105bb9bb0149fc6a9079a018bc3b4f6e21",
   "extracted_text_sha256": "23b2dcbabd62156e1b3b4fa0b873b022bfed207b4ec6d54c1069ff12175c5221",

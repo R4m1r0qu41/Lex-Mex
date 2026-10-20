@@ -29,4 +29,4 @@ IV. Presentar el proyecto de informe anual a que se refiere el artículo 93, pá
 
 V. Representar a la Comisión, y
 
-VI. Las demás que se establezcan en el Reglamento Interno y otras disposiciones jurídicas aplicables.
+VI. Las demás que se establezcan en el [Reglamento Interno](articulo-2.md) y otras disposiciones jurídicas aplicables.

@@ -37,4 +37,4 @@ VIII. Promover, en el ámbito de sus respectivas competencias, la coordinación 
 
 IX. Designar a los servidores públicos que los representarán en la Subcomisión Consultiva de la Comisión o en los grupos de trabajo en temas específicos creados por la Comisión, y
 
-X. Las demás que la Comisión o el Reglamento Interno determinen.
+X. Las demás que la Comisión o el [Reglamento Interno](articulo-2.md) determinen.

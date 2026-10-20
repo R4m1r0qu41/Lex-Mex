@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-2",
+  "strategy_version": "glossary-extraction-3",
   "instrument_id": "urn:lex-mx:federal:statute:lfca",
   "source_sha256": "29f509ea5cd695b026dca622c5cee399dc723086316b2038d061d59a4e438de2",
   "extracted_text_sha256": "d1cb6183673cd4c043391b0fd3f19b24ed7652578d8c32a88ac8a6bf1f437bbc",
@@ -35,7 +35,7 @@
       ],
       "repeal_placeholders": [],
       "profile": {
-        "strategy_version": "glossary-extraction-2",
+        "strategy_version": "glossary-extraction-3",
         "provision_text_sha256": "64ed68c4f4f6c3d9f8b61f09bc48abc3b651cbf1a12e82bb1b6a506ed43bbfce",
         "rationale": "The `C.` of `Centro de Capacitación Cinematográfica A. C. y` inside fraction XX is an abbreviation, not a fraction.",
         "evidence": "docs/decisions.md (2026-10-19, glossary exception profiles, batch 1)",

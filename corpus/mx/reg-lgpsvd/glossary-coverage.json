@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-2",
+  "strategy_version": "glossary-extraction-3",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lgpsvd",
   "source_sha256": "a1cc8f6043c35579235fd61d2e34977e1735af4ea6919d053f89462b97742335",
   "extracted_text_sha256": "1af9237ba26f33accb4b2070eb7b09e4c60f1cb6d370d277e0964d3c76f81d32",

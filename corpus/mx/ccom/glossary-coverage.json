@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-2",
+  "strategy_version": "glossary-extraction-3",
   "instrument_id": "urn:lex-mx:federal:code:ccom",
   "source_sha256": "b99bbf981434011b6351ef308922fea90f6f0f8777b113183cf1737840c5bbef",
   "extracted_text_sha256": "23f9e6838f2f386550449cadf0cd8dea628bf8832b8f35330ba82f323a2a2d75",

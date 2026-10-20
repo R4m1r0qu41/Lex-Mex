@@ -39,4 +39,4 @@ X. Realizar la difusión, por cualquier medio, de las actividades, eventos, info
 
 XI. Elaborar el proyecto del programa de trabajo anual de la Comisión, y
 
-XII. Las demás que le instruya el Presidente o le señalen en el Reglamento Interno.
+XII. Las demás que le instruya el Presidente o le señalen en el [Reglamento Interno](articulo-2.md).

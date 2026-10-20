@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-2",
+  "strategy_version": "glossary-extraction-3",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lgpgir",
   "source_sha256": "ef64bacccac32c63c214d59f4860251db0365fc125840a6504c195288077888c",
   "extracted_text_sha256": "5a9e500a65a9360841c5502730b79fa45bfaede10c91be6c5a10f9727c142a7d",

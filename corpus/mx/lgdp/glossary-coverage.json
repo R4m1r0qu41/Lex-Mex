@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-2",
+  "strategy_version": "glossary-extraction-3",
   "instrument_id": "urn:lex-mx:federal:statute:lgdp",
   "source_sha256": "be4e1666f8a8b3dfdcbbc047aed6542b4982972d1297e2e04dee839e30cc0ce1",
   "extracted_text_sha256": "e1aacd60e8835f7a69e444a9c46560e29acf72e60a6f86baf23bb4570c666ba9",

@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-2",
+  "strategy_version": "glossary-extraction-3",
   "instrument_id": "urn:lex-mx:federal:statute:lmtr",
   "source_sha256": "fc8b5680b4a1402fe4c59be919f85ace11eb8114a27f8179757dbc3bc428cdd1",
   "extracted_text_sha256": "56e0f5c61a808d14dfd720b12e22af90846c95cc335d554102d77f177d8577c5",

@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-2",
+  "strategy_version": "glossary-extraction-3",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai",
   "source_sha256": "b52444aaf66a5f36e252e598494c117526e5d9737de08de41061168ea46addd9",
   "extracted_text_sha256": "2e5e3dd92189d63b41f9077742f78831aaf2f25c850cd3ce5a7abe05a6a5e8a7",

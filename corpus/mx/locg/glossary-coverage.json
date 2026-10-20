@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-2",
+  "strategy_version": "glossary-extraction-3",
   "instrument_id": "urn:lex-mx:federal:statute:locg",
   "source_sha256": "30e92e19100dc26408ce0b130151f8c44fe25aeb113eff14f3515553330ba230",
   "extracted_text_sha256": "3004d5078688a24125a9cffa01d4b0e75dd9bf74040356bfddc845af5bee9f13",

@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "strategy_version": "glossary-extraction-2",
+  "strategy_version": "glossary-extraction-3",
   "instrument_id": "urn:lex-mx:federal:constitution:cpeum",
   "source_sha256": "ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e",
   "extracted_text_sha256": "462448f3af5f1187f4db95c8065092f912c2128b43bb21dc4a6fb41f37286e47",

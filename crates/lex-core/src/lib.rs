@@ -1164,7 +1164,9 @@ pub struct TermUsage {
 /// describes. Bump it when detection or completeness rules change meaning.
 /// Version 2 reads every fraction qualifier (`Quáter` … `Decies`, any case),
 /// where version 1 read only `Bis` and `Ter`, and the established pass none.
-pub const GLOSSARY_STRATEGY_VERSION: &str = "glossary-extraction-2";
+/// Version 3 lets an entry's own earlier `:` or `, al` end its term before
+/// the glossary's shared delimiter, outside parentheses.
+pub const GLOSSARY_STRATEGY_VERSION: &str = "glossary-extraction-3";
 
 /// How `terms.json` was produced for one instrument
 /// (`glossary-coverage.json`). It separates a glossary held as incomplete
