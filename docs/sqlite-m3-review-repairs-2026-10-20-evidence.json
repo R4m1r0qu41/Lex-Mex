@@ -1,0 +1,82 @@
+{
+  "verify": {
+    "exit_code": 0,
+    "elapsed_seconds": 156.24,
+    "report": {
+      "schema_version": "2",
+      "release_id": "6125b449ac0ce12b0c872a64e8964c33d617f96290f2e0a89390eb7d94b27a0a",
+      "corpus_commit": "6172db59d9ab8b093df48b7ae15d551c28f4df24",
+      "head_commit": "42ac990d4fad5a49c1d68ecfbf3c0c3fb85069fb",
+      "stale_input_paths": [
+        "schemas/database-manifest.schema.json"
+      ],
+      "input_files": 4960,
+      "normalized_records": 213471,
+      "table_counts": {
+        "corpus_release": 1,
+        "coverage": 1872,
+        "coverage_accepted_gaps": 5,
+        "defined_terms": 5727,
+        "enactment_evidence": 99,
+        "evidence_artifacts": 1673,
+        "glossary_coverage": 468,
+        "input_files": 4960,
+        "instrument_reproducibility": 0,
+        "instruments": 468,
+        "known_structural_debt": 17,
+        "legal_operator_reviews": 16,
+        "outdated_reference_approvals": 17,
+        "provisions": 68328,
+        "reference_edges": 35949,
+        "reference_qualifiers": 12360,
+        "source_anchors": 68796,
+        "source_manifests": 498,
+        "standards_catalog": 32,
+        "term_usages": 102432
+      },
+      "fts_token_occurrences": 9996277,
+      "database_sha256": "2b1aec0d1000ab5c88ae3c964bd237a1473fb241ad0c7b65b1ed6295765aa777",
+      "logical_content_sha256": "435078f9e530c4a8fca9954ad56ce1b7915db35b8ebda60fe476a735a8da9f2c"
+    },
+    "stderr": ""
+  },
+  "golden": {
+    "exit_code": 0,
+    "elapsed_seconds": 0.15,
+    "report": [
+      "G1 reg-lan parent law",
+      "G2 G4 approved outdated with independent notes",
+      "G3 unavailable history",
+      "G3 current target remains live",
+      "G5 LFTR missing citation",
+      "G5 repaired CPF is absent",
+      "G6 LGTOC separate article",
+      "G6 active LFD structural debt",
+      "G7 accent-insensitive complete hit set",
+      "G7 accent-insensitive reverse hit set",
+      "G7 baseline hit count",
+      "G8 exact Terdecies lookup",
+      "definition provenance",
+      "exact term usages",
+      "cross-instrument glossary usages",
+      "source provenance",
+      "analysis completeness remains explicit",
+      "standards excluded from provisions",
+      "G1 adapter parent authority",
+      "G1 source definition authority",
+      "G5 complete cited-but-missing inventory"
+    ],
+    "stderr": ""
+  },
+  "status": "m3_review_repair_passed_pending_independent_rereview",
+  "tests_passed": 399,
+  "commit_status": "uncommitted; no push",
+  "artifact_rebuilt": false,
+  "verifier_source_sha256": {
+    "crates/lex-db/src/verify_rows.rs": "56829852a1a85fdcba8c36196ddf63585706af81bc39965d64a056bdbb5aa0be",
+    "crates/lex-db/src/verify.rs": "89bb63f1c25fd2c779e45f9ba750631eb24a8bd19803e032e84fe05a8ed28c60",
+    "crates/lex-db/src/logical.rs": "e6d4505ab48b96f661bd88395584307f51418c8d063ab7d141d4da9877c51d52",
+    "crates/lex-db/src/build_tests.rs": "ca335da47658914d421185d018fff20dbba96def863ca0a25943aaa9dab3205e",
+    "fixtures/database/golden-queries.json": "0c1ac02c7f56a1d90aa047af2106e4f0b86fcf004e4bdb925e169fdf8aa927a0"
+  }
+}

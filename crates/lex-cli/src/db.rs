@@ -9,6 +9,20 @@ use std::{
 pub enum DbCommand {
     /// Build and independently read back a small in-memory adversarial fixture.
     ContractProbe,
+    /// Independently verify an immutable release against pinned Git inputs.
+    Verify {
+        #[arg(long)]
+        database: PathBuf,
+        #[arg(long)]
+        manifest: PathBuf,
+        #[arg(long)]
+        corpus_commit: String,
+    },
+    /// Run the fixed corpus golden-query acceptance fixtures read-only.
+    GoldenQueries {
+        #[arg(long)]
+        database: PathBuf,
+    },
     /// Build an immutable local projection from pinned corpus and builder commits.
     Project {
         #[arg(long)]
@@ -34,6 +48,26 @@ pub enum DbCommand {
 
 pub fn run(root: &Path, command: DbCommand) -> Result<()> {
     match command {
+        DbCommand::Verify {
+            database,
+            manifest,
+            corpus_commit,
+        } => println!(
+            "{}",
+            serde_json::to_string_pretty(&lex_db::verify::verify(
+                root,
+                &resolve(root, &database),
+                &resolve(root, &manifest),
+                &corpus_commit
+            )?)?
+        ),
+        DbCommand::GoldenQueries { database } => {
+            let c = lex_db::verify::open_readonly(&resolve(root, &database))?;
+            println!(
+                "{}",
+                serde_json::to_string_pretty(&lex_db::queries::golden(&c)?)?
+            );
+        }
         DbCommand::Project {
             corpus_commit,
             builder_commit,
@@ -73,4 +107,12 @@ pub fn run(root: &Path, command: DbCommand) -> Result<()> {
         }
     }
     Ok(())
+}
+
+fn resolve(root: &Path, path: &Path) -> PathBuf {
+    if path.is_absolute() {
+        path.to_owned()
+    } else {
+        root.join(path)
+    }
 }

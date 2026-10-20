@@ -69,7 +69,9 @@ secrets, transcripts, hidden reasoning, or mutable copies of external state.
   — Database-only SQLite/rusqlite projection: pinned inputs, complete provenance,
   FTS, parity checks and reproducible local artifacts; M1 repairs accepted at
   611171e52; upstream repaired and normal-merged at 6cb2dfe3d; full M2
-  validation artifact built, independent review and M3/M4 remain.
+  validation accepted by independent review; M3 verifier review repairs and 21 golden queries
+  pass on the full validation artifact (399 tests), pending repair re-review;
+  M4 reproducibility remains.
 
 - [`docs/plans/corpus-wide-reverse-linking.md`](docs/plans/corpus-wide-reverse-linking.md)
   — Relink the committed federal corpus, then validate and republish Markdown.

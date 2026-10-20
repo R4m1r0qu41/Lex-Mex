@@ -484,6 +484,38 @@ Acceptance and stop condition:
 
 ## Current checkpoint and next action
 
+2026-10-20 (M3 review repaired; pending re-review): Claude identified duplicate-key JSON
+forgery: serde last-wins reconstruction could disagree with SQLite first-wins
+query columns. Version-2 stored extras/payload JSON must be UTF-8 compact JSON,
+with recursively lexically sorted object keys and unique keys, exactly the
+serialization of its source-derived value. The verifier rejects any different
+encoding before comparing reconstructed values; ordering does not depend on
+`preserve_order`. Rehashed duplicate-key extras/payload regressions added.
+Supporting source/standard schemas, term-in-span checks, fallible input lookups,
+and a 6-row/17-multiplicity missing-target golden total address smaller findings.
+M4 acceptance requires empty `stale_input_paths` against the committed builder.
+Final native gate passes with 399 tests and both required validators. Repaired
+full-artifact verifier exits 0 in 156.24s; all 21 golden queries pass. Original
+artifact/checksums preserved. See [repair response](../sqlite-m3-review-repairs-2026-10-20.md)
+and companion evidence JSON. Historical receipts below remain unchanged.
+
+2026-10-20 (M3 implemented; pending independent review): Claude accepts M2 commit `42ac990d4` and independently
+reconstructs all 213,471 normalized records and 4,960 raw files with zero
+mismatches. M3 implements a separate verifier over pinned Git inputs, independent
+SQL reconstruction, source spans/targets/audits, schema equality and complete
+FTS positional-index comparison in disposable scratch storage. Manifest version 2
+explicitly names a relational-only logical digest, excluding FTS physical
+internals and release provenance; M2 version 1 artifacts are historical and need rebuilding for M3.
+Builder/schema identity checks now precede the expensive validation pass.
+SourceConfig unification remains a low-priority follow-up, not a corpus change.
+Native gates pass (398 tests and required validators). Final build 183.52s;
+independent verification 163.90s covers 213,471 records, 4,960 inputs and
+9,996,277 FTS positions; all 20 golden queries pass. See
+[report](../sqlite-m3-verifier-2026-10-20.md) and companion evidence JSON.
+M3 edits remain uncommitted; artifact is bound to unreferenced snapshot
+6172db59d9ab8b093df48b7ae15d551c28f4df24. Expected schema staleness against
+M2 HEAD is reported explicitly. No M4 reproducibility claim.
+
 2026-10-20 (upstream integration; see [report](../sqlite-m2-upstream-integration-2026-10-20.md)): normally merged main repair
 `db48f899d7cfdbc59736291473a335cf434cfcaf` into the DB branch at
 `6cb2dfe3ddcb8b389e370e4b3ad0c43298aae83e`, preserving all uncommitted M2
@@ -604,5 +636,5 @@ file changed. The operator's two suggestion files remain untouched/untracked.
 
 2026-10-20 (commit authorization): the operator authorized committing M2 after the successful full build and 392-test gate. The validation artifact retains its original test-builder identity.
 
-Exactly one current next action: independently review the committed M2 builder and full-build receipt before M3 verification/query acceptance; rebuild later with the permanent builder commit.
+Exactly one current next action: independent M3 repair re-review before an authorized commit and M4 permanent-builder reproducibility builds.
 Keep M3 independent verification and M4 full-corpus reproducibility separate.

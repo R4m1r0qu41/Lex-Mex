@@ -41,6 +41,7 @@ fn main() {
         "crates/lex-core/src",
         "crates/lex-parse/src",
         "schemas",
+        "fixtures/database",
     ] {
         visit(&root, &root.join(dir), &mut files);
     }

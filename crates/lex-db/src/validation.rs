@@ -46,6 +46,10 @@ fn schemas(data: &Snapshot) -> Result<Vec<String>> {
     let mut issues = Vec::new();
     for (filename, schema_path) in [
         ("references.json", "schemas/reference-edge.schema.json"),
+        (
+            "glossary-coverage.json",
+            "schemas/glossary-coverage.schema.json",
+        ),
         ("terms.json", "schemas/defined-term.schema.json"),
         ("term-usages.json", "schemas/term-usage.schema.json"),
         (

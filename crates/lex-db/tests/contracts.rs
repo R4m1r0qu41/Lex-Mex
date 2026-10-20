@@ -70,7 +70,7 @@ fn invalid_spans_versions_duplicates_and_live_targets_fail_transactionally() {
 #[test]
 fn manifest_identity_and_closed_boundary_are_checked() {
     let spec = BuildSpecification {
-        schema_version: "1".into(),
+        schema_version: "2".into(),
         corpus_commit: "a".repeat(40),
         builder_commit: "b".repeat(40),
         cargo_lock_sha256: "c".repeat(64),
@@ -79,6 +79,7 @@ fn manifest_identity_and_closed_boundary_are_checked() {
         sqlite_compile_options: vec![],
         source_commit_timestamp: 0,
         inclusion_policy: "federal_with_standards_catalogue".into(),
+        logical_digest_policy: lex_db::contract::LOGICAL_POLICY.into(),
         inputs: vec![InputFile {
             path: "corpus/mx/test/instrument.json".into(),
             sha256: "d".repeat(64),
@@ -87,7 +88,7 @@ fn manifest_identity_and_closed_boundary_are_checked() {
         }],
     };
     let manifest = DatabaseManifest {
-        schema_version: "1".into(),
+        schema_version: "2".into(),
         release_id: lex_db::digest(&serde_json::to_vec(&spec).unwrap()),
         specification: spec,
         database_sha256: "e".repeat(64),

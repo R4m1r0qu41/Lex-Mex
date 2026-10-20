@@ -187,3 +187,200 @@ fn complete_release_is_reproducible_read_only_and_refuses_overwrite() {
     let different = commit(root);
     assert!(check_builder(&GitInput::new(root, &different).unwrap()).is_err());
 }
+
+fn complete_source(root: &Path) -> String {
+    let mut f: Value = serde_json::from_slice(include_bytes!(
+        "../../../fixtures/database/adversarial.json"
+    ))
+    .unwrap();
+    f["provisions"][2]["number"] = json!("1");
+    let directory = "corpus/mx/db-fixture";
+    for (name, key) in [
+        ("provisions.json", "provisions"),
+        ("references.json", "reference_edges"),
+        ("terms.json", "defined_terms"),
+        ("term-usages.json", "term_usages"),
+    ] {
+        json_file(root, &format!("{directory}/{name}"), &f[key]);
+    }
+    let mut coverage = f["glossary_coverage"][0].clone();
+    coverage.as_object_mut().unwrap().remove("hold");
+    coverage["glossaries"][0]["provision_text_sha256"] = json!(digest(
+        f["provisions"][0]["text"].as_str().unwrap().as_bytes()
+    ));
+    coverage["source_sha256"] = f["instruments"][0]["source_sha256"].clone();
+    coverage["extracted_text_sha256"] = f["instruments"][0]["extracted_text_sha256"].clone();
+    json_file(
+        root,
+        &format!("{directory}/glossary-coverage.json"),
+        &coverage,
+    );
+    json_file(
+        root,
+        "adapters/fixture/db-fixture.json",
+        &json!({"instrument_id":f["instruments"][0]["id"],"slug":"db-fixture","parser":"diputados","expected_articles":2,"expected_transitories":1,"expected_annexes":1,"allow_article_gaps":true}),
+    );
+    commit(root)
+}
+
+#[test]
+fn independent_verifier_and_queries_cover_all_synthetic_record_groups() {
+    let (temp, _) = repository();
+    let root = temp.path();
+    let pinned = complete_source(root);
+    let built = project(root, &pinned, &pinned, Path::new("derived/db/m3")).unwrap();
+    let database = built.directory.join("corpus.sqlite");
+    let manifest = built.directory.join("manifest.json");
+    let before = fs::read(&database).unwrap();
+    let verified = crate::verify::verify(root, &database, &manifest, &pinned).unwrap();
+    assert_eq!(verified.normalized_records, 12);
+    assert!(verified.stale_input_paths.is_empty());
+    assert!(verified.fts_token_occurrences > 0);
+    assert_eq!(before, fs::read(&database).unwrap());
+    let reader = crate::queries::Reader::open(&database).unwrap();
+    let id = "urn:lex-mx:federal:statute:db-fixture:article:1";
+    assert!(matches!(
+        reader.lookup(id).unwrap(),
+        crate::queries::Lookup::Found { .. }
+    ));
+    assert!(matches!(
+        reader
+            .lookup("urn:lex-mx:federal:statute:db-fixture:article:9999")
+            .unwrap(),
+        crate::queries::Lookup::NotEstablished { .. }
+    ));
+    assert_eq!(
+        reader
+            .article_ids("urn:lex-mx:federal:statute:db-fixture", "article", "1")
+            .unwrap(),
+        vec![id]
+    );
+    assert_eq!(reader.context_ids(id, 1).unwrap().len(), 2);
+    let a = reader.search("obligacion", None, None, 100).unwrap();
+    let b = reader.search("obligación", None, None, 100).unwrap();
+    assert_eq!(
+        a.iter().map(|h| &h.id).collect::<Vec<_>>(),
+        b.iter().map(|h| &h.id).collect::<Vec<_>>()
+    );
+    assert!(!a.is_empty());
+    assert!(
+        reader
+            .search("\" OR cerveza", None, None, 100)
+            .unwrap()
+            .is_empty()
+    );
+    assert!(
+        reader
+            .search("cerveza", Some("missing-owner"), None, 100)
+            .unwrap()
+            .is_empty()
+    );
+    assert!(reader.search(" ", None, None, 1).is_err());
+    assert!(reader.search("a", None, None, 101).is_err());
+    json_file(
+        root,
+        "adapters/fixture/new-input.json",
+        &json!({"note":"new input after release"}),
+    );
+    commit(root);
+    let stale = crate::verify::verify(root, &database, &manifest, &pinned).unwrap();
+    assert_eq!(
+        stale.stale_input_paths,
+        vec!["adapters/fixture/new-input.json"]
+    );
+}
+
+#[test]
+fn independent_verifier_rejects_rehashed_mutations_including_fts() {
+    let (temp, _) = repository();
+    let root = temp.path();
+    let pinned = complete_source(root);
+    let built = project(root, &pinned, &pinned, Path::new("derived/db/m3")).unwrap();
+    let original = built.directory.join("corpus.sqlite");
+    let original_manifest: Value =
+        serde_json::from_slice(&fs::read(built.directory.join("manifest.json")).unwrap()).unwrap();
+    for sql in [
+        r#"UPDATE provisions SET extras='{"label":"Artículo 999","number":"999",' || substr(extras,2) WHERE ordinal=0; INSERT INTO provisions_fts(provisions_fts) VALUES('rebuild')"#,
+        r#"UPDATE reference_qualifiers SET payload='{"text":"forged",' || substr(payload,2)"#,
+        "UPDATE provisions SET extras=json_remove(extras,'$.unknown_future_metadata.present_null') WHERE ordinal=0",
+        "UPDATE provisions SET source_pointer='/999' WHERE ordinal=0",
+        "UPDATE legal_operator_reviews SET payload=json_set(payload,'$.source_text_sha256','wrong')",
+        "UPDATE reference_qualifiers SET ordinal=ordinal+10",
+        "UPDATE reference_edges SET extras=json_set(extras,'$.start_char',999999) WHERE ordinal=0",
+        "DELETE FROM provisions WHERE ordinal=1",
+        "UPDATE input_files SET bytes=CAST('[]' AS BLOB) WHERE path LIKE '%/terms.json'",
+        "INSERT INTO provisions_fts(provisions_fts) VALUES('delete-all')",
+        "CREATE TABLE provisions_fts_untrusted(x TEXT)",
+        "UPDATE corpus_release SET specification='{}'",
+    ] {
+        let copy = root.join("corrupted.sqlite");
+        fs::copy(&original, &copy).unwrap();
+        let c = Connection::open(&copy).unwrap();
+        c.execute_batch("PRAGMA foreign_keys=OFF").unwrap();
+        c.execute_batch(sql).unwrap();
+        let mut m = original_manifest.clone();
+        m["logical_content_sha256"] = json!(crate::logical::hash(&c).unwrap());
+        if sql.contains("delete-all") {
+            assert_eq!(
+                m["logical_content_sha256"],
+                original_manifest["logical_content_sha256"]
+            );
+        }
+        c.close().unwrap();
+        m["database_sha256"] = json!(digest(&fs::read(&copy).unwrap()));
+        let sidecar = root.join("corrupted-manifest.json");
+        json_file(root, "corrupted-manifest.json", &m);
+        assert!(
+            crate::verify::verify(root, &copy, &sidecar, &pinned).is_err(),
+            "{sql}"
+        );
+    }
+}
+
+#[test]
+fn schema_mismatch_and_wrong_builder_fail_before_output_creation() {
+    let (temp, pinned) = repository();
+    let root = temp.path();
+    save(root, "schemas/defined-term.schema.json", b"{}");
+    let changed = commit(root);
+    let output = Path::new("derived/db/rejected-schema");
+    let error = project(root, &changed, &pinned, output).unwrap_err();
+    assert!(error.to_string().contains("snapshot schema differs"));
+    assert!(!root.join(output).exists());
+    save(root, "Cargo.toml", b"not the compiled builder");
+    let wrong = commit(root);
+    let output = Path::new("derived/db/rejected-builder");
+    assert!(
+        project(root, &changed, &wrong, output)
+            .unwrap_err()
+            .to_string()
+            .contains("executing builder differs")
+    );
+    assert!(!root.join(output).exists());
+}
+
+#[test]
+fn raw_glossary_null_is_not_erased_before_schema_validation() {
+    let (temp, _) = repository();
+    let root = temp.path();
+    let path = "corpus/mx/db-fixture/glossary-coverage.json";
+    let mut coverage: Value = serde_json::from_slice(&fs::read(root.join(path)).unwrap()).unwrap();
+    coverage["hold"] = Value::Null;
+    json_file(root, path, &coverage);
+    let invalid = commit(root);
+    let error = project(
+        root,
+        &invalid,
+        &invalid,
+        Path::new("derived/db/rejected-null"),
+    )
+    .unwrap_err();
+    let message = format!("{error:#}");
+    assert!(message.contains("glossary-coverage.json") && message.contains("null"));
+    assert!(
+        fs::read_dir(root.join("derived/db/rejected-null"))
+            .unwrap()
+            .next()
+            .is_none()
+    );
+}

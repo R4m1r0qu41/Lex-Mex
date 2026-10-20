@@ -73,6 +73,35 @@ pub fn check_builder(git: &GitInput) -> Result<()> {
     Ok(())
 }
 
+/// Both schema consumers must apply exactly the compiled contract.
+pub fn check_snapshot_schemas(git: &GitInput) -> Result<()> {
+    let mut expected = std::collections::BTreeSet::new();
+    for (path, bytes) in include!(concat!(env!("OUT_DIR"), "/builder_inputs.rs")) {
+        if path.starts_with("schemas/") {
+            expected.insert((*path).to_owned());
+            ensure!(
+                git.read(path)? == *bytes,
+                "snapshot schema differs from compiled contract: {path}"
+            );
+        }
+    }
+    let actual = git
+        .paths()?
+        .into_iter()
+        .filter(|p| {
+            p.starts_with("schemas/")
+                && Path::new(p)
+                    .extension()
+                    .is_some_and(|e| e.eq_ignore_ascii_case("json"))
+        })
+        .collect();
+    ensure!(
+        expected == actual,
+        "snapshot schema inventory differs from compiled contract"
+    );
+    Ok(())
+}
+
 fn no_symlinks(path: &Path) -> Result<()> {
     for ancestor in path.ancestors() {
         if let Ok(meta) = fs::symlink_metadata(ancestor) {
@@ -123,7 +152,6 @@ fn specification(
     files: Vec<crate::contract::InputFile>,
 ) -> Result<BuildSpecification> {
     let git = GitInput::new(root, builder)?;
-    check_builder(&git)?;
     let input = GitInput::new(root, corpus)?;
     let timestamp = input
         .command(&["show", "-s", "--format=%ct", corpus])?
@@ -145,6 +173,7 @@ fn specification(
         sqlite_compile_options: options,
         source_commit_timestamp: timestamp,
         inclusion_policy: "federal_with_standards_catalogue".into(),
+        logical_digest_policy: crate::contract::LOGICAL_POLICY.into(),
         inputs: files,
     })
 }
@@ -243,38 +272,9 @@ pub fn check_loaded(c: &Connection, data: &Snapshot) -> Result<BTreeMap<String, 
     Ok(counts)
 }
 
-fn logical_hash(c: &Connection) -> Result<String> {
-    use rusqlite::types::ValueRef;
-    let tables = c
-        .prepare("SELECT name FROM sqlite_schema WHERE type='table' ORDER BY name")?
-        .query_map([], |r| r.get::<_, String>(0))?
-        .collect::<rusqlite::Result<Vec<_>>>()?;
-    let mut logical = BTreeMap::new();
-    for table in tables {
-        let mut stmt = c.prepare(&format!("SELECT * FROM \"{}\"", table.replace('"', "\"\"")))?;
-        let width = stmt.column_count();
-        let mut rows = stmt.query([])?;
-        let mut values = Vec::new();
-        while let Some(row) = rows.next()? {
-            let mut fields = Vec::new();
-            for i in 0..width {
-                fields.push(match row.get_ref(i)? {
-                    ValueRef::Null => serde_json::json!(["null"]),
-                    ValueRef::Integer(n) => serde_json::json!(["integer", n]),
-                    ValueRef::Real(n) => serde_json::json!(["real", n]),
-                    ValueRef::Text(t) => serde_json::json!(["text", std::str::from_utf8(t)?]),
-                    ValueRef::Blob(b) => serde_json::json!(["blob", b.len(), digest(b)]),
-                });
-            }
-            values.push(serde_json::to_string(&fields)?);
-        }
-        values.sort();
-        logical.insert(table, values);
-    }
-    Ok(digest(&serde_json::to_vec(&logical)?))
-}
-
 pub fn project(root: &Path, corpus: &str, builder: &str, output: &Path) -> Result<BuildReport> {
+    check_builder(&GitInput::new(root, builder)?)?;
+    check_snapshot_schemas(&GitInput::new(root, corpus)?)?;
     let output = output_directory(root, output)?;
     let (inspection, data) = crate::input::snapshot(root, corpus)?;
     crate::validation::validate(&data)?;
@@ -316,7 +316,7 @@ pub fn project(root: &Path, corpus: &str, builder: &str, output: &Path) -> Resul
         release_id: release.clone(),
         specification: spec,
         database_sha256: digest(&fs::read(&db)?),
-        logical_content_sha256: logical_hash(&Connection::open_with_flags(
+        logical_content_sha256: crate::logical::hash(&Connection::open_with_flags(
             &db,
             OpenFlags::SQLITE_OPEN_READ_ONLY,
         )?)?,

@@ -64,7 +64,7 @@ fn check_span(text: &str, start: usize, end: usize, expected: &str) -> Result<()
 
 fn validate_fixture(fixture: &Value) -> Result<()> {
     ensure!(
-        fixture["schema_version"] == crate::contract::VERSION,
+        fixture["schema_version"] == "1",
         "fixture version unsupported"
     );
     let keys: BTreeSet<_> = fixture

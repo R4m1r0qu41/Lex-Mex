@@ -11,7 +11,7 @@
   ],
   "properties": {
     "schema_version": {
-      "const": "1"
+      "const": "2"
     },
     "release_id": {
       "type": "string",
@@ -30,11 +30,12 @@
         "sqlite_compile_options",
         "source_commit_timestamp",
         "inclusion_policy",
-        "inputs"
+        "inputs",
+        "logical_digest_policy"
       ],
       "properties": {
         "schema_version": {
-          "const": "1"
+          "const": "2"
         },
         "corpus_commit": {
           "type": "string",
@@ -98,6 +99,9 @@
               }
             }
           }
+        },
+        "logical_digest_policy": {
+          "const": "relational_content_v2"
         }
       }
     },

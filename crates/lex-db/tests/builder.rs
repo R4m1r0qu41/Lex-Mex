@@ -274,3 +274,30 @@ fn reference_registry_manifest_is_evidence_not_law_source_provenance() {
         "evidence_only"
     );
 }
+
+#[test]
+fn exact_lookup_combines_sourced_qualifications_and_exclusions() {
+    let (inspection, data) = fixture();
+    let temp = tempfile::tempdir().unwrap();
+    let path = temp.path().join("queries.sqlite");
+    let mut c = rusqlite::Connection::open(&path).unwrap();
+    c.execute_batch(include_str!("../schema.sql")).unwrap();
+    populate(&mut c, &inspection, &data, "fixture", "{}").unwrap();
+    c.close().unwrap();
+    let reader = lex_db::queries::Reader::open(&path).unwrap();
+    match reader
+        .lookup("urn:lex-mx:federal:statute:db-fixture:article:9")
+        .unwrap()
+    {
+        lex_db::queries::Lookup::Qualified { qualifications } => {
+            assert_eq!(qualifications[0]["kind"], json!("not_separately_parsed"));
+        }
+        other => panic!("unexpected {other:?}"),
+    }
+    match reader.lookup("fixture-standard:clause:1").unwrap() {
+        lex_db::queries::Lookup::Qualified { qualifications } => {
+            assert_eq!(qualifications[0]["kind"], json!("excluded"));
+        }
+        other => panic!("unexpected {other:?}"),
+    }
+}

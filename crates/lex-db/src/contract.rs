@@ -7,7 +7,8 @@ use std::{
     path::Path,
 };
 
-pub const VERSION: &str = "1";
+pub const VERSION: &str = "2";
+pub const LOGICAL_POLICY: &str = "relational_content_v2";
 pub const DEBT_PATH: &str = "adapters/shared/_known-structural-debt.json";
 
 #[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
@@ -29,7 +30,7 @@ pub struct InputFile {
 
 #[derive(Debug, Serialize, Deserialize)]
 #[serde(deny_unknown_fields)]
-/// Version 1 hashes serialization in this declaration's field order.
+/// Version 2 hashes serialization in this declaration's field order.
 /// Changing field order or serialization requires a manifest version change.
 pub struct BuildSpecification {
     pub schema_version: String,
@@ -41,6 +42,7 @@ pub struct BuildSpecification {
     pub sqlite_compile_options: Vec<String>,
     pub source_commit_timestamp: i64,
     pub inclusion_policy: String,
+    pub logical_digest_policy: String,
     pub inputs: Vec<InputFile>,
 }
 
@@ -55,6 +57,10 @@ pub struct DatabaseManifest {
 }
 
 pub fn validate_manifest(value: &Value) -> Result<DatabaseManifest> {
+    ensure!(
+        value["schema_version"] == VERSION,
+        "unsupported database manifest version; rebuild legacy M2 artifacts for version2 verification"
+    );
     let schema: Value = serde_json::from_str(include_str!(
         "../../../schemas/database-manifest.schema.json"
     ))?;
@@ -66,6 +72,10 @@ pub fn validate_manifest(value: &Value) -> Result<DatabaseManifest> {
     ensure!(
         spec.inclusion_policy == "federal_with_standards_catalogue",
         "unknown inclusion policy"
+    );
+    ensure!(
+        spec.logical_digest_policy == LOGICAL_POLICY,
+        "unknown logical digest policy"
     );
     let paths: Vec<_> = spec.inputs.iter().map(|f| f.path.as_str()).collect();
     ensure!(

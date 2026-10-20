@@ -1,0 +1,268 @@
+{
+  "schema_version": "2",
+  "queries": [
+    {
+      "name": "G1 reg-lan parent law",
+      "sql": "SELECT count(*),sum(target_instrument_id=?1) FROM reference_edges WHERE source_provision_id LIKE ?2 AND json_extract(extras,'$.resolution_rule')='parent_shorthand'",
+      "parameters": [
+        "urn:lex-mx:federal:statute:lan",
+        "urn:lex-mx:federal:regulation:reg-lan:%"
+      ],
+      "expected": [
+        [
+          126,
+          126
+        ]
+      ]
+    },
+    {
+      "name": "G2 G4 approved outdated with independent notes",
+      "sql": "SELECT e.resolution_status,json_extract(e.extras,'$.resolution_rule'),a.edge_id IS NOT NULL,r.edge_id IS NOT NULL,e.live_target FROM reference_edges e LEFT JOIN outdated_reference_approvals a ON a.edge_id=e.id LEFT JOIN legal_operator_reviews r ON r.edge_id=e.id WHERE e.id=?1",
+      "parameters": [
+        "urn:lex-mx:federal:statute:lic:article:194:reference:4292-4298:31-bis:direct"
+      ],
+      "expected": [
+        [
+          "historical_superseded_reference_outdated",
+          "named_instrument",
+          1,
+          1,
+          null
+        ]
+      ]
+    },
+    {
+      "name": "G3 unavailable history",
+      "sql": "SELECT count(*),sum(live_target IS NULL) FROM historical_citations WHERE source_provision_id=?1 AND target_instrument_id=?2",
+      "parameters": [
+        "urn:lex-mx:federal:statute:lrsic:transitory:quinto",
+        "urn:lex-mx:federal:statute:lraf-1990"
+      ],
+      "expected": [
+        [
+          4,
+          4
+        ]
+      ]
+    },
+    {
+      "name": "G3 current target remains live",
+      "sql": "SELECT count(*) FROM live_citations WHERE source_provision_id=?1 AND target_provision_id=?2",
+      "parameters": [
+        "urn:lex-mx:federal:statute:lrsic:article:2",
+        "urn:lex-mx:federal:statute:lraf:article:12"
+      ],
+      "expected": [
+        [
+          1
+        ]
+      ]
+    },
+    {
+      "name": "G5 LFTR missing citation",
+      "sql": "SELECT source_slug,multiplicity FROM cited_but_missing WHERE target_provision_id=?1",
+      "parameters": [
+        "urn:lex-mx:federal:statute:lgtaip:article:180-bis"
+      ],
+      "expected": [
+        [
+          "lftr",
+          1
+        ]
+      ]
+    },
+    {
+      "name": "G5 repaired CPF is absent",
+      "sql": "SELECT count(*) FROM cited_but_missing WHERE source_slug='cpf'",
+      "parameters": [],
+      "expected": [
+        [
+          0
+        ]
+      ]
+    },
+    {
+      "name": "G6 LGTOC separate article",
+      "sql": "SELECT count(*) FROM provisions WHERE id=?1",
+      "parameters": [
+        "urn:lex-mx:federal:statute:lgtoc:article:228-b"
+      ],
+      "expected": [
+        [
+          1
+        ]
+      ]
+    },
+    {
+      "name": "G6 active LFD structural debt",
+      "sql": "SELECT json_extract(extras,'$.containing_provision_id'),json_extract(extras,'$.start_char'),json_extract(extras,'$.end_char') FROM known_structural_debt WHERE instrument_id=?1 AND printed_label=?2",
+      "parameters": [
+        "urn:lex-mx:federal:statute:lfd",
+        "257 Sextus"
+      ],
+      "expected": [
+        [
+          "urn:lex-mx:federal:statute:lfd:article:257-quintus",
+          100,
+          121
+        ]
+      ]
+    },
+    {
+      "name": "G7 accent-insensitive complete hit set",
+      "sql": "SELECT count(*) FROM (SELECT rowid FROM provisions_fts WHERE provisions_fts MATCH ?1 EXCEPT SELECT rowid FROM provisions_fts WHERE provisions_fts MATCH ?2)",
+      "parameters": [
+        "obligacion",
+        "obligación"
+      ],
+      "expected": [
+        [
+          0
+        ]
+      ]
+    },
+    {
+      "name": "G7 accent-insensitive reverse hit set",
+      "sql": "SELECT count(*) FROM (SELECT rowid FROM provisions_fts WHERE provisions_fts MATCH ?1 EXCEPT SELECT rowid FROM provisions_fts WHERE provisions_fts MATCH ?2)",
+      "parameters": [
+        "obligación",
+        "obligacion"
+      ],
+      "expected": [
+        [
+          0
+        ]
+      ]
+    },
+    {
+      "name": "G7 baseline hit count",
+      "sql": "SELECT count(*) FROM provisions_fts WHERE provisions_fts MATCH ?1",
+      "parameters": [
+        "obligacion"
+      ],
+      "expected": [
+        [
+          2134
+        ]
+      ]
+    },
+    {
+      "name": "G8 exact Terdecies lookup",
+      "sql": "SELECT id FROM provisions WHERE instrument_id=?1 AND provision_type='article' AND number=?2",
+      "parameters": [
+        "urn:lex-mx:federal:statute:lac",
+        "78 Terdecies"
+      ],
+      "expected": [
+        [
+          "urn:lex-mx:federal:statute:lac:article:78-terdecies"
+        ]
+      ]
+    },
+    {
+      "name": "definition provenance",
+      "sql": "SELECT defining_provision_id,json_extract(extras,'$.fraction'),json_extract(extras,'$.inciso') FROM defined_terms WHERE id=?1",
+      "parameters": [
+        "urn:lex-mx:federal:statute:lieps:term:cerveza"
+      ],
+      "expected": [
+        [
+          "urn:lex-mx:federal:statute:lieps:article:3",
+          "II",
+          null
+        ]
+      ]
+    },
+    {
+      "name": "exact term usages",
+      "sql": "SELECT count(*) FROM term_usages WHERE term_id=?1",
+      "parameters": [
+        "urn:lex-mx:federal:statute:lritf:term:autoridad-financiera"
+      ],
+      "expected": [
+        [
+          88
+        ]
+      ]
+    },
+    {
+      "name": "cross-instrument glossary usages",
+      "sql": "SELECT count(*) FROM term_usages u JOIN defined_terms t ON t.id=u.term_id JOIN provisions p ON p.id=u.provision_id WHERE p.instrument_id<>t.instrument_id",
+      "parameters": [],
+      "expected": [
+        [
+          2581
+        ]
+      ]
+    },
+    {
+      "name": "source provenance",
+      "sql": "SELECT role FROM source_manifests WHERE instrument_id=?1 ORDER BY input_path,ordinal",
+      "parameters": [
+        "urn:lex-mx:federal:statute:lritf"
+      ],
+      "expected": [
+        [
+          "source-manifest.json"
+        ]
+      ]
+    },
+    {
+      "name": "analysis completeness remains explicit",
+      "sql": "SELECT state,count(*) FROM coverage WHERE stage='analyzed' GROUP BY state",
+      "parameters": [],
+      "expected": [
+        [
+          "not_assessed",
+          468
+        ]
+      ]
+    },
+    {
+      "name": "standards excluded from provisions",
+      "sql": "SELECT count(*) FROM provisions p JOIN standards_catalog s ON s.id=p.instrument_id",
+      "parameters": [],
+      "expected": [
+        [
+          0
+        ]
+      ]
+    },
+    {
+      "name": "G1 adapter parent authority",
+      "sql": "SELECT json_extract(CAST(bytes AS TEXT),'$.parent_instrument_id') FROM input_files WHERE path=?1",
+      "parameters": [
+        "adapters/diputados/reg-lan.json"
+      ],
+      "expected": [
+        [
+          "urn:lex-mx:federal:statute:lan"
+        ]
+      ]
+    },
+    {
+      "name": "G1 source definition authority",
+      "sql": "SELECT instr(text,?2)>0 FROM provisions WHERE id=?1",
+      "parameters": [
+        "urn:lex-mx:federal:regulation:reg-lan:article:1",
+        "se entenderá que se refiere a la Ley de Aguas Nacionales"
+      ],
+      "expected": [
+        [
+          1
+        ]
+      ]
+    },
+    {
+      "name": "G5 complete cited-but-missing inventory",
+      "sql": "SELECT count(*),sum(multiplicity) FROM cited_but_missing",
+      "parameters": [],
+      "expected": [
+        [
+          6,
+          17
+        ]
+      ]
+    }
+  ]
+}
