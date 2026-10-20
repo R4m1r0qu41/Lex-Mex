@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAN.pdf
 source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo V
 
 # Artículo 14 BIS
 
@@ -40,5 +40,3 @@ IV. Celebrará convenios de concertación para mejorar y promover la cultura del
 V. Concertará acciones y convenios con las personas usuarias del agua para la conservación, preservación, restauración y uso eficiente del agua. Fracción reformada DOF 11-12-2025
 
 Artículo adicionado DOF 29-04-2004
-
-Capítulo V BIS Consejo Consultivo del Agua Capítulo adicionado DOF 29-04-2004

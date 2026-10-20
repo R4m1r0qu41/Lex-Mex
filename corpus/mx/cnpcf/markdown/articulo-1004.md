@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Único · Capítulo II
+
 # Artículo 1004
 
 Si la parte ejecutante optare, en cualquiera de los casos enumerados en el [artículo anterior](articulo-1003.md), por el resarcimiento de daños y perjuicios, se procederá a embargar bienes de la persona deudora por la cantidad que aquella señale y que la autoridad jurisdiccional podrá moderar prudentemente, sin perjuicio de que la persona deudora reclame sobre el monto.

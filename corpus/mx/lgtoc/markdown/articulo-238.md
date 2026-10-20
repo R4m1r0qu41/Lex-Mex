@@ -17,8 +17,6 @@ source_sha256: cf8a5d05500ddbe21885db4a8f1128cf95b3aaab95b7982a47aa33baea652361
 
 # Artículo 238
 
-Los certificados de depósito deberán ser emitidos a favor del depositante o de un
-
-tercero.
+Los certificados de depósito deberán ser emitidos a favor del depositante o de un tercero.
 
 Artículo reformado DOF 30-12-1982, 26-03-2024

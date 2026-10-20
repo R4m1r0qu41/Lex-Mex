@@ -19,7 +19,9 @@ source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
 
 A quien cometa las infracciones relacionadas con las entidades financieras o sociedades cooperativas de ahorro y préstamo a que se refiere el artículo [84-A](articulo-84-A.md) de este Código, se le impondrán las siguientes multas:
 
-I. De $490.00 a $22,110.00, a la comprendida en la fracción I. Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025 II. Por el 20% del valor del cheque a la establecida en la fracción II.
+I. De $490.00 a $22,110.00, a la comprendida en la fracción I. Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
+
+II. Por el 20% del valor del cheque a la establecida en la fracción II.
 
 III. De $30.00 a $110.00, por cada dato no asentado o asentado incorrectamente, a la señalada en la fracción III. Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 

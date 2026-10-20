@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
+> Título Segundo · Capítulo III
+
 # Artículo 35
 
 Para efectos de esta Ley, se entiende por despacho aduanero el conjunto de actos y formalidades relativos a la entrada de mercancías al territorio nacional y a su salida del mismo, que de acuerdo con los diferentes tráficos y regímenes aduaneros establecidos en el presente ordenamiento, deben realizar ante la aduana, las autoridades aduaneras y quienes introducen o extraen mercancías del territorio nacional, ya sea los consignatarios, destinatarios, propietarios, poseedores o tenedores en las importaciones y los remitentes en las exportaciones, así como los agentes aduanales o agencias aduanales, empleando el sistema electrónico aduanero. El Servicio de Administración Tributaria establecerá mediante reglas, lo procedente en los casos de contingencias en el sistema electrónico aduanero derivadas de caso fortuito o fuerza mayor.

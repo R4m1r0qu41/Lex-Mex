@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo III
+
 # Artículo 177
 
 El retardo sin justa causa en el pronunciamiento y publicación de decretos, autos o sentencias dará lugar a queja administrativa que se presentará ante el Consejo de la Judicatura para su trámite y sanción respectiva.

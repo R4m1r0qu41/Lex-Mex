@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf
 source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 ---
 
+> Capítulo II
+
 # Artículo 24
 
 La procuraduría tiene las siguientes atribuciones: Párrafo reformado DOF 15-12-2011
@@ -39,7 +41,9 @@ IX. Promover nuevos o mejores sistemas y mecanismos que faciliten a los consumid
 
 IX bis.- Promover en coordinación con la [Secretaría](articulo-2.md) la formulación, difusión y uso de códigos de ética, por parte de proveedores, que incorporen los principios previstos por esta Ley respecto de las transacciones que celebren con consumidores a través del uso de medios electrónicos, ópticos o de cualquier otra tecnología; Fracción adicionada DOF 29-05-2000
 
-IX Ter. Promover la coordinación entre las autoridades federales, estatales y municipales que corresponda, a fin de asegurar la protección efectiva al consumidor en contra de la información o publicidad engañosa o abusiva; Fracción adicionada DOF 15-12-2011 X. Actuar como perito y consultor en materia de calidad de bienes y servicios y elaborar estudios relativos;
+IX Ter. Promover la coordinación entre las autoridades federales, estatales y municipales que corresponda, a fin de asegurar la protección efectiva al consumidor en contra de la información o publicidad engañosa o abusiva; Fracción adicionada DOF 15-12-2011
+
+X. Actuar como perito y consultor en materia de calidad de bienes y servicios y elaborar estudios relativos;
 
 XI. Celebrar convenios con proveedores y consumidores y sus organizaciones para el logro de los objetivos de esta ley;
 

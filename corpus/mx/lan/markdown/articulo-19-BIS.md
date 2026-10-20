@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAN.pdf
 source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 ---
 
-> Título CUARTO
+> Título CUARTO · Capítulo I BIS
 
 # Artículo 19 BIS
 
@@ -22,5 +22,3 @@ En tratándose de un asunto de seguridad nacional y conforme a lo dispuesto en l
 "La Comisión" dispondrá lo necesario para que en cumplimiento de la Ley General de Transparencia y Acceso a la Información Pública, difunda en forma amplia y sistemática el conocimiento sobre las aguas nacionales, a través de los medios de comunicación apropiados.
 
 Artículo adicionado DOF 29-04-2004. Reformado DOF 11-12-2025
-
-Capítulo II Concesiones y Asignaciones

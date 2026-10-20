@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo VI
+
 # Artículo 35
 
 De acuerdo con las reglas de vuelo por instrumentos, para la navegación en el espacio aéreo, es obligatorio utilizar los servicios de tránsito aéreo, radioayudas, meteorología, telecomunicaciones e información aeronáutica, así como los servicios de despacho e información de vuelos que preste la [Secretaría](articulo-2.md) o, en su caso, la persona facultada por esta. Asimismo, es obligatorio hacer uso del sistema de aerovías indicado en la [Publicación de Información Aeronáutica](articulo-2.md) de México.

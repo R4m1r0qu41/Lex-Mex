@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo IV
+
 # Artículo 810
 
 Para la titulación notarial de la adquisición por los legatarios instituidos en testamento público simplificado o testamento respecto de vivienda de interés social popular que hubiere sido otorgado en el mismo instrumento de adquisición o de conformidad con la legislación particular de cada Entidad Federativa, se observará lo siguiente:
@@ -28,7 +30,3 @@ Si hubiese oposición dentro de dicho plazo la o el notario suspenderá el trám
 IV. La Notaria o Notario Público redactará el instrumento en el que se relacionarán los documentos exhibidos, las constancias a que se refiere la fracción anterior, los demás documentos del caso, y la conformidad expresa de los legatarios en aceptar el legado. El testimonio que se expida se inscribirá en el Registro de la Propiedad, Oficina Registral o cualquier otra Institución análoga según la Entidad Federativa de que se trate. En su caso, se podrá hacer constar la repudiación expresa, y
 
 V. En el instrumento a que se refiere la fracción anterior, los legatarios podrán otorgar, a su vez, un testamento público simplificado o testamento respecto de vivienda de interés social popular, cuando reúnan los requisitos del [Código Civil](articulo-2.md) de la Entidad Federativa respectiva.
-
-Título Segundo Del Concurso de Acreedores
-
-Capítulo Único Disposiciones Generales

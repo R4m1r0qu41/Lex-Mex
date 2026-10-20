@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNEP.pdf
 source_sha256: 91abecabe50a5e414e0835daa9086ce3b307fffb9ebe626dab3bb9d1eae51680
 ---
 
-> Título CUARTO
+> Título CUARTO · Capítulo V
 
 # Artículo 129
 
@@ -30,5 +30,3 @@ Cuando la autoridad informe que la resolución sólo fue cumplida parcialmente o
 Cuando la Autoridad Penitenciaria alegue imposibilidad material o económica para el cumplimiento total o parcial de la resolución, el Juez de Ejecución, escuchando a las partes, fijará un plazo razonable para el cumplimiento.
 
 Cuando la Autoridad Penitenciaria responsable del Centro no cumpliere dentro del plazo establecido, el juez requerirá a sus superiores jerárquicos por su cumplimiento aplicando, en su caso, las medidas de apremio conducentes.
-
-Capítulo VI Recursos

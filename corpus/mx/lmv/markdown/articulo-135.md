@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título VI · Capítulo I
+
 # Artículo 135
 
 En ejercicio de sus funciones de inspección y vigilancia, la [Comisión](articulo-2.md) mediante disposiciones de carácter general que al efecto apruebe su Junta de Gobierno, clasificará a las casas de bolsa en categorías, tomando como base el índice de capitalización y sus componentes, así como los suplementos de capital requeridos conforme a las disposiciones aplicables emitidas por dicha Comisión en términos del artículo [173](articulo-173.md) de esta Ley.

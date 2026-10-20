@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo IV · Sección Primera
+
 # Artículo 17 Bis
 
 Las prácticas de cabotaje por parte de permisionarios extranjeros en territorio mexicano están prohibidas. Párrafo publicado íntegro sin cambios DOF 03-05-2023
@@ -24,5 +26,3 @@ Los propietarios extranjeros de aeronaves no mexicanas destinadas para uso parti
 Artículo adicionado DOF 20-05-2021
 
 Nota: El Decreto DOF 03-05-2023 al reformar el artículo 17 Bis no da cuenta de las líneas de puntos para señalar la permanencia de sus párrafos segundo y tercero. Sin embargo, la instrucción del Decreto señala de forma expresa que se reforma el artículo 17 Bis, “párrafo primero”.
-
-Sección Segunda Del servicio al público de transporte aéreo

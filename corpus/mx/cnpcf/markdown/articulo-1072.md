@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Único · Capítulo IV
+
 # Artículo 1072
 
 Tratándose de remate de bienes inmuebles, se deberá exhibir certificado que consigne la existencia de gravámenes, emitido no mayor a seis meses por autoridad registral competente.

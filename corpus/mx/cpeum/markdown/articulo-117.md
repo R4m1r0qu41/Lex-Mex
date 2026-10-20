@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
 source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
 ---
 
+> Título Quinto
+
 # Artículo 117
 
 Los Estados no pueden, en ningún caso:
@@ -35,7 +37,9 @@ VIII. Contraer directa o indirectamente obligaciones o empréstitos con gobierno
 
 Los Estados y los Municipios no podrán contraer obligaciones o empréstitos sino cuando se destinen a inversiones públicas productivas y a su refinanciamiento o reestructura, mismas que deberán realizarse bajo las mejores condiciones del mercado, inclusive los que contraigan organismos descentralizados, empresas públicas y fideicomisos y, en el caso de los Estados, adicionalmente para otorgar garantías respecto al endeudamiento de los Municipios. Lo anterior, conforme a las bases que establezcan las legislaturas en la ley correspondiente, en el marco de lo previsto en esta Constitución, y por los conceptos y hasta por los montos que las mismas aprueben. Los ejecutivos informarán de su ejercicio al rendir la cuenta pública. En ningún caso podrán destinar empréstitos para cubrir gasto corriente. Párrafo reformado DOF 26-05-2015
 
-Las legislaturas locales, por el voto de las dos terceras partes de sus miembros presentes, deberán autorizar los montos máximos para, en las mejores condiciones del mercado, contratar dichos empréstitos y obligaciones, previo análisis de su destino, capacidad de pago y, en su caso, el otorgamiento de garantía o el establecimiento de la fuente de pago. Párrafo adicionado DOF 26-05-2015 Sin perjuicio de lo anterior, los Estados y Municipios podrán contratar obligaciones para cubrir sus necesidades de corto plazo, sin rebasar los límites máximos y condiciones que establezca la ley general que expida el Congreso de la Unión. Las obligaciones a corto plazo, deberán liquidarse a más tardar tres meses antes del término del periodo de gobierno correspondiente y no podrán contratarse nuevas obligaciones durante esos últimos tres meses. Párrafo adicionado DOF 26-05-2015 Fracción reformada DOF 24-10-1942, 30-12-1946, 21-04-1981
+Las legislaturas locales, por el voto de las dos terceras partes de sus miembros presentes, deberán autorizar los montos máximos para, en las mejores condiciones del mercado, contratar dichos empréstitos y obligaciones, previo análisis de su destino, capacidad de pago y, en su caso, el otorgamiento de garantía o el establecimiento de la fuente de pago. Párrafo adicionado DOF 26-05-2015
+
+Sin perjuicio de lo anterior, los Estados y Municipios podrán contratar obligaciones para cubrir sus necesidades de corto plazo, sin rebasar los límites máximos y condiciones que establezca la ley general que expida el Congreso de la Unión. Las obligaciones a corto plazo, deberán liquidarse a más tardar tres meses antes del término del periodo de gobierno correspondiente y no podrán contratarse nuevas obligaciones durante esos últimos tres meses. Párrafo adicionado DOF 26-05-2015 Fracción reformada DOF 24-10-1942, 30-12-1946, 21-04-1981
 
 IX. Gravar la producción, el acopio o la venta del tabaco en rama, en forma distinta o con cuotas mayores de las que el Congreso de la Unión autorice.
 

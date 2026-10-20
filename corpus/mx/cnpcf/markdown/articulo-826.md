@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo Único
+
 # Artículo 826
 
 El facilitador o conciliador tendrá un plazo máximo de dos meses contados a partir de la fecha de inicio del procedimiento para tener la lista definitiva de créditos y obtener la aprobación del convenio que dé por terminado el procedimiento.

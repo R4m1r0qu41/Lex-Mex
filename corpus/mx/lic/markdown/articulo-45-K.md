@@ -31,7 +31,9 @@ I. Empleados o directivos de la institución; Fracción adicionada DOF 04-06-200
 
 II. Accionistas que sin ser empleados o directivos de la institución, tengan poder de mando sobre los directivos de la misma; Fracción adicionada DOF 04-06-2001
 
-III. Socios o empleados de sociedades o asociaciones que presten servicios de asesoría o consultoría a la institución o a las empresas que pertenezcan al mismo grupo económico del cual forme parte ésta, cuyos ingresos representen el diez por ciento o más de sus ingresos; Fracción adicionada DOF 04-06-2001 IV. Clientes, proveedores, deudores, acreedores, socios, consejeros o empleados de una sociedad que sea cliente, proveedor, deudor o acreedor importante de la institución.
+III. Socios o empleados de sociedades o asociaciones que presten servicios de asesoría o consultoría a la institución o a las empresas que pertenezcan al mismo grupo económico del cual forme parte ésta, cuyos ingresos representen el diez por ciento o más de sus ingresos; Fracción adicionada DOF 04-06-2001
+
+IV. Clientes, proveedores, deudores, acreedores, socios, consejeros o empleados de una sociedad que sea cliente, proveedor, deudor o acreedor importante de la institución.
 
 Se considera que un cliente o proveedor es importante cuando los servicios que le preste la institución o las ventas que le haga a ésta, representan más del diez por ciento de los servicios o ventas totales del cliente o del proveedor, respectivamente. Asimismo, se considera que un deudor o acreedor es importante cuando el importe del crédito es mayor al quince por ciento de los activos de la institución o de su contraparte; Fracción adicionada DOF 04-06-2001
 

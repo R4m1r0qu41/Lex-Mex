@@ -8,7 +8,7 @@
   "glossaries": [],
   "hold": {
     "provision_id": "urn:lex-mx:federal:statute:ladua:article:2",
-    "provision_text_sha256": "3bd0f34b749af55d6b0a84ad0e1f7ff5321c895e668ceb1d64ee34b707fa4ad0",
+    "provision_text_sha256": "286f70b641e58b00efe10b6cec6b76acfbe0e349f3eedda0cbfb0bfa9e2f5916",
     "code": "sequence_break",
     "message": "fraction IV breaks the I, II, III… sequence after I"
   },

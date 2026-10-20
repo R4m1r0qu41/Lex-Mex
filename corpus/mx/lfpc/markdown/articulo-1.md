@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf
 source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 ---
 
+> Capítulo I
+
 # Artículo 1
 
 La presente ley es de orden público e interés social y de observancia en toda la República. Sus disposiciones son irrenunciables y contra su observancia no podrán alegarse costumbres, usos, prácticas, convenios o estipulaciones en contrario. Párrafo reformado DOF 04-02-2004

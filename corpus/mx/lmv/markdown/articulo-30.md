@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título II · Capítulo II
+
 # Artículo 30
 
 Los miembros del consejo de administración, en el ejercicio diligente de las funciones que esta Ley y los estatutos sociales le confieran a dicho órgano social, deberán actuar de buena fe y en el mejor interés de la sociedad y personas morales que ésta controle, para lo cual podrán:

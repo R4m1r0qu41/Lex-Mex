@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Capítulo III
+
 # Artículo 1186
 
 Las sentencias, laudos arbitrales privados de carácter no comercial y resoluciones jurisdiccionales dictados en el extranjero, tendrán carácter de cosa juzgada para ser ejecutadas en los Estados Unidos Mexicanos, si cumplen con los siguientes requisitos:

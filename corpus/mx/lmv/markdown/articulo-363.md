@@ -13,9 +13,13 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título XIV · Capítulo I
+
 # Artículo 363
 
-Para efectos de esta Ley, se considera que tienen información privilegiada relativa a una emisora o emisora simplificada, salvo prueba en contrario: Párrafo reformado DOF 28-12-2023 I. Los miembros y secretario del consejo de administración, los comisarios, el director general y demás directivos relevantes, así como los factores y los auditores externos de la emisora, emisora simplificada o personas morales que ésta controle. Fracción reformada DOF 28-12-2023
+Para efectos de esta Ley, se considera que tienen información privilegiada relativa a una emisora o emisora simplificada, salvo prueba en contrario: Párrafo reformado DOF 28-12-2023
+
+I. Los miembros y secretario del consejo de administración, los comisarios, el director general y demás directivos relevantes, así como los factores y los auditores externos de la emisora, emisora simplificada o personas morales que ésta controle. Fracción reformada DOF 28-12-2023
 
 II. Las personas que, directa o indirectamente, tengan el diez por ciento o más de las acciones representativas del capital social de una emisora, emisora simplificada o títulos de crédito que representen dichas acciones. Fracción reformada DOF 28-12-2023
 
@@ -31,7 +35,9 @@ VII. Los miembros y secretario del consejo de administración, el director gener
 
 VIII. La persona o grupo de personas que tengan una influencia significativa en la emisora o emisora simplificada y, en su caso, en las sociedades que integran el grupo empresarial o consorcio al que la emisora o emisora simplificada pertenezca. Fracción reformada DOF 28-12-2023
 
-IX. Las personas que ejerzan poder de mando en la emisora o emisora simplificada. Fracción reformada DOF 28-12-2023 X. Aquellas personas que realicen operaciones con valores apartándose de sus patrones históricos de inversión en el mercado y que razonablemente puedan haber tenido acceso a la información privilegiada a través de las personas a que se refieren las fracciones I a IX anteriores. Se entenderá que razonablemente pudieron haber tenido acceso a la información privilegiada, las personas siguientes: Párrafo reformado DOF 10-01-2014
+IX. Las personas que ejerzan poder de mando en la emisora o emisora simplificada. Fracción reformada DOF 28-12-2023
+
+X. Aquellas personas que realicen operaciones con valores apartándose de sus patrones históricos de inversión en el mercado y que razonablemente puedan haber tenido acceso a la información privilegiada a través de las personas a que se refieren las fracciones I a IX anteriores. Se entenderá que razonablemente pudieron haber tenido acceso a la información privilegiada, las personas siguientes: Párrafo reformado DOF 10-01-2014
 
 a) El cónyuge, la concubina o el concubinario de las personas a que se refieren las fracciones I a IX de este artículo.
 

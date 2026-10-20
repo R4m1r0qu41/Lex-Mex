@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CFPC.pdf
 source_sha256: db545f3918f1c1907dac23d6431d5076c8de91af1fbf97dcf5b5b2a68b165299
 ---
 
-> Título UNICO · Capítulo VI
+> Título Único · Capítulo III
 
 # Artículo 602
 
@@ -22,5 +22,3 @@ Cuando la acción sea interpuesta por los representantes a que se refieren las f
 Los órganos y organismos a que se refiere la fracción I del artículo [585](articulo-585.md) de este Código, deberán llevar un registro de todos los procedimientos colectivos en trámite, así como los ya concluidos, en los que participan o hayan participado, respectivamente, como parte o tercero interesado. Dicho registro contará con la información necesaria y deberá ser de fácil acceso al público, de conformidad con la legislación aplicable.
 
 Artículo adicionado DOF 30-08-2011
-
-Capítulo IV Sentencias Capítulo adicionado DOF 30-08-2011

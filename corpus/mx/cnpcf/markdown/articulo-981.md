@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Único · Capítulo II
+
 # Artículo 981
 
 En el procedimiento de ejecución de sentencia, de las resoluciones judiciales o la tramitación de cualquier incidente relacionado con las mismas, no se requerirá notificación personal, salvo que la ejecución se solicite después de tres meses que la sentencia definitiva o convenio judicial cause ejecutoria o se trate del emplazamiento de una tercería. Lo anterior, salvo la materia familiar, en la que la autoridad jurisdiccional proveerá lo necesario en relación con las notificaciones personales en dichos supuestos.

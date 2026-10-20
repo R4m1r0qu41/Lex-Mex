@@ -1,12 +1,12 @@
 [
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpc:article:2:term-usage:1468-1478",
+    "id": "urn:lex-mx:federal:statute:lfpc:article:2:term-usage:1469-1479",
     "provision_id": "urn:lex-mx:federal:statute:lfpc:article:2",
     "term_id": "urn:lex-mx:federal:statute:lfpc:term:consumidor",
     "span": "Consumidor",
-    "start_char": 1468,
-    "end_char": 1478
+    "start_char": 1469,
+    "end_char": 1479
   },
   {
     "schema_version": "0.1.0",
@@ -217,12 +217,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpc:article:24:term-usage:5854-5866",
+    "id": "urn:lex-mx:federal:statute:lfpc:article:24:term-usage:5855-5867",
     "provision_id": "urn:lex-mx:federal:statute:lfpc:article:24",
     "term_id": "urn:lex-mx:federal:statute:lfpc:term:procuraduria",
     "span": "Procuraduría",
-    "start_char": 5854,
-    "end_char": 5866
+    "start_char": 5855,
+    "end_char": 5867
   },
   {
     "schema_version": "0.1.0",
@@ -370,30 +370,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpc:article:27:term-usage:1511-1523",
+    "id": "urn:lex-mx:federal:statute:lfpc:article:27:term-usage:1512-1524",
     "provision_id": "urn:lex-mx:federal:statute:lfpc:article:27",
     "term_id": "urn:lex-mx:federal:statute:lfpc:term:procuraduria",
     "span": "Procuraduría",
-    "start_char": 1511,
-    "end_char": 1523
+    "start_char": 1512,
+    "end_char": 1524
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpc:article:27:term-usage:1564-1576",
+    "id": "urn:lex-mx:federal:statute:lfpc:article:27:term-usage:1565-1577",
     "provision_id": "urn:lex-mx:federal:statute:lfpc:article:27",
     "term_id": "urn:lex-mx:federal:statute:lfpc:term:procuraduria",
     "span": "Procuraduría",
-    "start_char": 1564,
-    "end_char": 1576
+    "start_char": 1565,
+    "end_char": 1577
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpc:article:27:term-usage:1756-1768",
+    "id": "urn:lex-mx:federal:statute:lfpc:article:27:term-usage:1757-1769",
     "provision_id": "urn:lex-mx:federal:statute:lfpc:article:27",
     "term_id": "urn:lex-mx:federal:statute:lfpc:term:procuraduria",
     "span": "Procuraduría",
-    "start_char": 1756,
-    "end_char": 1768
+    "start_char": 1757,
+    "end_char": 1769
   },
   {
     "schema_version": "0.1.0",
@@ -487,12 +487,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpc:article:35:term-usage:746-758",
+    "id": "urn:lex-mx:federal:statute:lfpc:article:35:term-usage:747-759",
     "provision_id": "urn:lex-mx:federal:statute:lfpc:article:35",
     "term_id": "urn:lex-mx:federal:statute:lfpc:term:procuraduria",
     "span": "Procuraduría",
-    "start_char": 746,
-    "end_char": 758
+    "start_char": 747,
+    "end_char": 759
   },
   {
     "schema_version": "0.1.0",
@@ -532,48 +532,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpc:article:63:term-usage:1112-1122",
+    "id": "urn:lex-mx:federal:statute:lfpc:article:63:term-usage:1113-1123",
     "provision_id": "urn:lex-mx:federal:statute:lfpc:article:63",
     "term_id": "urn:lex-mx:federal:statute:lfpc:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1112,
-    "end_char": 1122
+    "start_char": 1113,
+    "end_char": 1123
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpc:article:63:term-usage:1888-1898",
+    "id": "urn:lex-mx:federal:statute:lfpc:article:63:term-usage:1889-1899",
     "provision_id": "urn:lex-mx:federal:statute:lfpc:article:63",
     "term_id": "urn:lex-mx:federal:statute:lfpc:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1888,
-    "end_char": 1898
+    "start_char": 1889,
+    "end_char": 1899
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpc:article:63:term-usage:2223-2233",
+    "id": "urn:lex-mx:federal:statute:lfpc:article:63:term-usage:2224-2234",
     "provision_id": "urn:lex-mx:federal:statute:lfpc:article:63",
     "term_id": "urn:lex-mx:federal:statute:lfpc:term:secretaria",
     "span": "Secretaría",
-    "start_char": 2223,
-    "end_char": 2233
+    "start_char": 2224,
+    "end_char": 2234
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpc:article:63:term-usage:3077-3089",
+    "id": "urn:lex-mx:federal:statute:lfpc:article:63:term-usage:3078-3090",
     "provision_id": "urn:lex-mx:federal:statute:lfpc:article:63",
     "term_id": "urn:lex-mx:federal:statute:lfpc:term:procuraduria",
     "span": "Procuraduría",
-    "start_char": 3077,
-    "end_char": 3089
+    "start_char": 3078,
+    "end_char": 3090
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpc:article:63:term-usage:3102-3112",
+    "id": "urn:lex-mx:federal:statute:lfpc:article:63:term-usage:3103-3113",
     "provision_id": "urn:lex-mx:federal:statute:lfpc:article:63",
     "term_id": "urn:lex-mx:federal:statute:lfpc:term:consumidor",
     "span": "Consumidor",
-    "start_char": 3102,
-    "end_char": 3112
+    "start_char": 3103,
+    "end_char": 3113
   },
   {
     "schema_version": "0.1.0",
@@ -631,75 +631,75 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpc:article:63-quater:term-usage:2361-2371",
-    "provision_id": "urn:lex-mx:federal:statute:lfpc:article:63-quater",
+    "id": "urn:lex-mx:federal:statute:lfpc:article:63-quintus:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lfpc:article:63-quintus",
     "term_id": "urn:lex-mx:federal:statute:lfpc:term:secretaria",
     "span": "Secretaría",
-    "start_char": 2361,
-    "end_char": 2371
+    "start_char": 3,
+    "end_char": 13
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpc:article:63-quater:term-usage:2377-2389",
-    "provision_id": "urn:lex-mx:federal:statute:lfpc:article:63-quater",
+    "id": "urn:lex-mx:federal:statute:lfpc:article:63-quintus:term-usage:19-31",
+    "provision_id": "urn:lex-mx:federal:statute:lfpc:article:63-quintus",
     "term_id": "urn:lex-mx:federal:statute:lfpc:term:procuraduria",
     "span": "Procuraduría",
-    "start_char": 2377,
-    "end_char": 2389
+    "start_char": 19,
+    "end_char": 31
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpc:article:63-quater:term-usage:3209-3219",
-    "provision_id": "urn:lex-mx:federal:statute:lfpc:article:63-quater",
+    "id": "urn:lex-mx:federal:statute:lfpc:article:63-quintus:term-usage:851-861",
+    "provision_id": "urn:lex-mx:federal:statute:lfpc:article:63-quintus",
     "term_id": "urn:lex-mx:federal:statute:lfpc:term:secretaria",
     "span": "Secretaría",
-    "start_char": 3209,
-    "end_char": 3219
+    "start_char": 851,
+    "end_char": 861
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpc:article:63-quater:term-usage:3390-3400",
-    "provision_id": "urn:lex-mx:federal:statute:lfpc:article:63-quater",
+    "id": "urn:lex-mx:federal:statute:lfpc:article:63-quintus:term-usage:1032-1042",
+    "provision_id": "urn:lex-mx:federal:statute:lfpc:article:63-quintus",
     "term_id": "urn:lex-mx:federal:statute:lfpc:term:secretaria",
     "span": "Secretaría",
-    "start_char": 3390,
-    "end_char": 3400
+    "start_char": 1032,
+    "end_char": 1042
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpc:article:63-quater:term-usage:3408-3420",
-    "provision_id": "urn:lex-mx:federal:statute:lfpc:article:63-quater",
+    "id": "urn:lex-mx:federal:statute:lfpc:article:63-quintus:term-usage:1050-1062",
+    "provision_id": "urn:lex-mx:federal:statute:lfpc:article:63-quintus",
     "term_id": "urn:lex-mx:federal:statute:lfpc:term:procuraduria",
     "span": "Procuraduría",
-    "start_char": 3408,
-    "end_char": 3420
+    "start_char": 1050,
+    "end_char": 1062
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpc:article:63-quater:term-usage:3465-3477",
-    "provision_id": "urn:lex-mx:federal:statute:lfpc:article:63-quater",
+    "id": "urn:lex-mx:federal:statute:lfpc:article:63-quintus:term-usage:1107-1119",
+    "provision_id": "urn:lex-mx:federal:statute:lfpc:article:63-quintus",
     "term_id": "urn:lex-mx:federal:statute:lfpc:term:procuraduria",
     "span": "Procuraduría",
-    "start_char": 3465,
-    "end_char": 3477
+    "start_char": 1107,
+    "end_char": 1119
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpc:article:63-quater:term-usage:3730-3742",
-    "provision_id": "urn:lex-mx:federal:statute:lfpc:article:63-quater",
+    "id": "urn:lex-mx:federal:statute:lfpc:article:63-quintus:term-usage:1372-1384",
+    "provision_id": "urn:lex-mx:federal:statute:lfpc:article:63-quintus",
     "term_id": "urn:lex-mx:federal:statute:lfpc:term:procuraduria",
     "span": "Procuraduría",
-    "start_char": 3730,
-    "end_char": 3742
+    "start_char": 1372,
+    "end_char": 1384
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpc:article:63-quater:term-usage:3764-3774",
-    "provision_id": "urn:lex-mx:federal:statute:lfpc:article:63-quater",
+    "id": "urn:lex-mx:federal:statute:lfpc:article:63-quintus:term-usage:1406-1416",
+    "provision_id": "urn:lex-mx:federal:statute:lfpc:article:63-quintus",
     "term_id": "urn:lex-mx:federal:statute:lfpc:term:secretaria",
     "span": "Secretaría",
-    "start_char": 3764,
-    "end_char": 3774
+    "start_char": 1406,
+    "end_char": 1416
   },
   {
     "schema_version": "0.1.0",

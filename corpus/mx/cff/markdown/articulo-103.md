@@ -61,7 +61,9 @@ XXI. Se omita retornar, transferir o cambiar de régimen aduanero, las mercancí
 
 XXII. Se trasladen bienes o mercancías por cualquier medio de transporte en territorio nacional, sin el comprobante fiscal digital por Internet de tipo ingreso o de tipo traslado, según corresponda, al que se le incorpore el Complemento Carta Porte. Fracción adicionada DOF 12-11-2021
 
-XXIII. Se trasladen hidrocarburos, petrolíferos o petroquímicos, por cualquier medio de transporte en territorio nacional, sin el comprobante fiscal digital por Internet de tipo ingreso o de tipo traslado, según corresponda, al que se le incorpore el Complemento Carta Porte así como con los complementos del comprobante fiscal digital por Internet de esos bienes. Fracción adicionada DOF 12-11-2021 XXIV. Se transfieran mercancías que hayan ingresado de manera temporal al país, mediante operaciones inexistentes o actos jurídicos simulados, con el objetivo de aparentar cumplir con la obligación de retornar las mismas. Fracción adicionada DOF 07-11-2025
+XXIII. Se trasladen hidrocarburos, petrolíferos o petroquímicos, por cualquier medio de transporte en territorio nacional, sin el comprobante fiscal digital por Internet de tipo ingreso o de tipo traslado, según corresponda, al que se le incorpore el Complemento Carta Porte así como con los complementos del comprobante fiscal digital por Internet de esos bienes. Fracción adicionada DOF 12-11-2021
+
+XXIV. Se transfieran mercancías que hayan ingresado de manera temporal al país, mediante operaciones inexistentes o actos jurídicos simulados, con el objetivo de aparentar cumplir con la obligación de retornar las mismas. Fracción adicionada DOF 07-11-2025
 
 XXV. Mediante operaciones inexistentes o actos jurídicos simulados, se introduzca al país mercancías bajo cualquier régimen aduanero de importación temporal, con el objetivo de ingresarlo o retirarlo posteriormente de los lugares autorizados por la autoridad aduanera, sin cumplir con las disposiciones jurídicas aplicables. Fracción adicionada DOF 07-11-2025
 

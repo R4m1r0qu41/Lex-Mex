@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título VI · Capítulo I
+
 # Artículo 125
 
 Los cargos de consejeros independientes de las casas de bolsa deberán recaer en personas ajenas a la administración de la entidad respectiva que reúnan los requisitos y condiciones que determine la [Comisión](articulo-2.md), previo acuerdo de su Junta de Gobierno, mediante disposiciones de carácter general, en las que igualmente se establecerán los supuestos bajo los cuales se considerará que un consejero deja de ser independiente, para los efectos de este artículo.

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título XIV · Capítulo II
+
 # Artículo 375
 
 Serán sancionados con prisión de cinco a quince años, los miembros del consejo de administración, así como los directivos, empleados o quienes desempeñen cargos o comisiones en un intermediario del mercado de valores, que dispongan para sí o para un tercero de los recursos recibidos de un cliente o de sus valores, para fines distintos a los ordenados o contratados por éste, causándole con ello un daño patrimonial al cliente en beneficio económico propio, y sea directamente o a través de interpósita persona o a favor de tercero.

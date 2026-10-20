@@ -18,5 +18,3 @@ source_sha256: cf8a5d05500ddbe21885db4a8f1128cf95b3aaab95b7982a47aa33baea652361
 # Artículo 116
 
 La acción contra el avalista estará sujeta a los mismos términos y condiciones a que esté sujeta la acción contra el avalado.
-
-Sección Quinta De la Pluralidad de Ejemplares y de las Copias

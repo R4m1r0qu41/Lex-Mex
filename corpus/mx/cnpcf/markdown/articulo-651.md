@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo I
+
 # Artículo 651
 
 Durante los tres años siguientes a la autorización de la adopción, en ejecución de sentencia y de manera oficiosa, la autoridad jurisdiccional revisará los informes que realice el Sistema Nacional para el Desarrollo Integral de la Familia o bien los organismos competentes en las Entidades Federativas, con motivo del seguimiento correspondiente a la adopción, así como cualquier medida de similar que haya sido decretada en el fallo en atención al caso concreto.

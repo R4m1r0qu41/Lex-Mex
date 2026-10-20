@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título VI · Capítulo II
+
 # Artículo 192
 
 Las casas de bolsa en ningún caso podrán dar noticias o información de las operaciones que realicen o servicios que proporcionen, sino a los titulares, comitentes, mandantes, fideicomitentes, fideicomisarios, beneficiarios, representantes legales de los anteriores o quienes tengan otorgado poder para disponer de la cuenta o para intervenir en la operación o servicio, salvo cuando las pidieren, la autoridad judicial en virtud de providencia dictada en juicio en el que el titular sea parte o acusado y las autoridades hacendarias federales, por conducto de la [Comisión](articulo-2.md), para fines fiscales.

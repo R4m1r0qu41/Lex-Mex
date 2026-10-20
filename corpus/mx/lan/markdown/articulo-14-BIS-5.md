@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAN.pdf
 source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 ---
 
-> Título TERCERO
+> Título TERCERO · Capítulo Único
 
 # Artículo 14 BIS 5
 
@@ -25,7 +25,9 @@ II. La gestión integrada de los recursos hídricos por cuenca hidrológica es l
 
 III. La gestión de los recursos hídricos se llevará a cabo en forma descentralizada e integrada privilegiando la acción directa y las decisiones por parte de los actores locales y por cuenca hidrológica;
 
-IV. Los estados, la Ciudad de México, municipios, consejos de cuenca, organizaciones de personas usuarias y de la sociedad, organismos de cuenca y "la Comisión", son elementos básicos en la descentralización de la gestión de los recursos hídricos; Fracción reformada DOF 11-12-2025 V. La atención de las necesidades de agua provenientes de la sociedad para su bienestar, de la economía para su desarrollo y del ambiente para su equilibrio y conservación; particularmente, la atención especial de dichas necesidades para la población marginada y menos favorecida económicamente;
+IV. Los estados, la Ciudad de México, municipios, consejos de cuenca, organizaciones de personas usuarias y de la sociedad, organismos de cuenca y "la Comisión", son elementos básicos en la descentralización de la gestión de los recursos hídricos; Fracción reformada DOF 11-12-2025
+
+V. La atención de las necesidades de agua provenientes de la sociedad para su bienestar, de la economía para su desarrollo y del ambiente para su equilibrio y conservación; particularmente, la atención especial de dichas necesidades para la población marginada y menos favorecida económicamente;
 
 VI. Los usos del agua en las cuencas hidrológicas, incluyendo los acuíferos y los trasvases entre cuencas, deben ser regulados por el Estado;
 

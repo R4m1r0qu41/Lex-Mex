@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
+> Título Segundo · Capítulo III
+
 # Artículo 36-A
 
 Para efectos del artículo [36](articulo-36.md), en relación con el artículo [6](articulo-6o.md)o. de esta Ley, y demás disposiciones jurídicas aplicables, el agente aduanal, la agencia aduanal y quienes introduzcan o extraigan mercancías del territorio nacional para destinarlas a un régimen aduanero, están obligados a transmitir en documento electrónico o digital como anexos al pedimento, excepto lo previsto en las disposiciones jurídicas aplicables, la información que a continuación se describe, la cual deberá contener el acuse generado por el sistema electrónico aduanero, conforme al cual se tendrá por transmitida y presentada: Párrafo reformado DOF 25-06-2018

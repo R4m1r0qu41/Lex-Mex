@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
 source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
 ---
 
+> Título Primero · Capítulo IV
+
 # Artículo 35
 
 Son derechos de la ciudadanía: Párrafo reformado DOF 09-08-2012, 06-06-2019
@@ -31,7 +33,9 @@ VI. Poder ser nombrado para cualquier empleo o comisión del servicio público, 
 
 VII. Iniciar leyes, en los términos y con los requisitos que señalen esta Constitución y la Ley del Congreso. El Instituto Nacional Electoral tendrá las facultades que en esta materia le otorgue la ley; Fracción adicionada DOF 09-08-2012. Reformada DOF 10-02-2014, 20-12-2019
 
-VIII. Votar en las consultas populares sobre temas de trascendencia nacional o regional, las que se sujetarán a lo siguiente: Párrafo reformado DOF 20-12-2019 1o. Serán convocadas por el Congreso de la Unión a petición de:
+VIII. Votar en las consultas populares sobre temas de trascendencia nacional o regional, las que se sujetarán a lo siguiente: Párrafo reformado DOF 20-12-2019
+
+1o. Serán convocadas por el Congreso de la Unión a petición de:
 
 a) El Presidente de la República;
 

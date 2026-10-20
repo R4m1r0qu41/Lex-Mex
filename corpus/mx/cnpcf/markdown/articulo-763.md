@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 763
 
 Cuando quien administre no rinda dentro del término legal su cuenta anual, será removido de plano. También podrá ser removido en términos de este [Código Nacional](articulo-2.md), a solicitud de cualquiera de las personas interesadas, cuando alguna de las cuentas no fuere aprobada en su totalidad. El trámite se hará en forma incidental.

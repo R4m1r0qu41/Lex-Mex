@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
 source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 4o
 
 La mujer y el hombre son iguales ante la ley. Ésta protegerá la organización y el desarrollo de las familias. El Estado garantizará el goce y ejercicio del derecho a la igualdad sustantiva de las mujeres. Párrafo reformado DOF 06-06-2019, 15-11-2024
@@ -49,7 +51,9 @@ La Federación y las entidades federativas garantizarán la entrega de una pensi
 
 El Estado garantizará la rehabilitación y habilitación de las personas que viven con discapacidad permanente, dando prioridad a las personas menores de dieciocho años de edad, en términos que fije la ley. Párrafo adicionado DOF 02-12-2024
 
-Las personas adultas mayores de sesenta y cinco años tienen derecho a recibir por parte del Estado una pensión no contributiva en los términos que fije la ley. Párrafo adicionado DOF 08-05-2020. Reformado DOF 02-12-2024 A las personas con discapacidad permanente menores de sesenta y cinco años les corresponde la pensión no contributiva por discapacidad, y a todas las personas mayores de esa edad les corresponde la pensión no contributiva de adultos mayores. Párrafo adicionado DOF 02-12-2024
+Las personas adultas mayores de sesenta y cinco años tienen derecho a recibir por parte del Estado una pensión no contributiva en los términos que fije la ley. Párrafo adicionado DOF 08-05-2020. Reformado DOF 02-12-2024
+
+A las personas con discapacidad permanente menores de sesenta y cinco años les corresponde la pensión no contributiva por discapacidad, y a todas las personas mayores de esa edad les corresponde la pensión no contributiva de adultos mayores. Párrafo adicionado DOF 02-12-2024
 
 El Estado establecerá un sistema de becas para las y los estudiantes de todos los niveles escolares del sistema de educación pública, con prioridad a las y los pertenecientes a las familias que se encuentren en condición de pobreza, para garantizar con equidad el derecho a la educación. Párrafo adicionado DOF 08-05-2020
 

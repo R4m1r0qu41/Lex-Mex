@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf
 source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 ---
 
+> Capítulo V
+
 # Artículo 51
 
 Por venta a domicilio o fuera del establecimiento mercantil, mediata o indirecta, se entiende la que se proponga o lleve a cabo fuera del local o establecimiento del proveedor, incluidos el arrendamiento de bienes muebles y la prestación de servicios. Lo dispuesto en este capítulo no es aplicable a la compraventa de bienes perecederos recibidos por el consumidor y pagados de contado.

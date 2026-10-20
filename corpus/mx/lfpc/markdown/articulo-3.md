@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf
 source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 ---
 
+> Capítulo I
+
 # Artículo 3
 
 A falta de competencia específica de determinada dependencia de la administración pública federal, corresponde a la [Secretaría](articulo-2.md) de Economía expedir las normas oficiales mexicanas previstas por la ley y a la [Procuraduría](articulo-2.md) vigilar se cumpla con lo dispuesto en la propia ley y sancionar su incumplimiento.

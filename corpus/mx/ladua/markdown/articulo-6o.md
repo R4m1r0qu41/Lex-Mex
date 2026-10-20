@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 6o
 
 Cuando las disposiciones de esta Ley obliguen a transmitir, presentar información o realizar algún trámite ante la autoridad aduanera, éstos deberán efectuarse a través del sistema electrónico aduanero mediante documento electrónico o digital, según se exija, empleando la firma electrónica avanzada, el sello digital u otro medio tecnológico de identificación, en los términos y condiciones que establezca el Servicio de Administración Tributaria mediante reglas, en las que además se podrán determinar los casos en que la información o el trámite deban presentarse a través de medios distintos al electrónico o digital. El Servicio de Administración Tributaria, señalará mediante reglas los medios tecnológicos de identificación a que se refiere el presente artículo.

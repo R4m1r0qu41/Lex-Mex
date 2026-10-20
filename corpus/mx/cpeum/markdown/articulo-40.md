@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
 source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
 ---
 
+> Título Segundo · Capítulo I
+
 # Artículo 40
 
 Es voluntad del pueblo mexicano constituirse en una República representativa, democrática, laica y federal, compuesta por Estados libres y soberanos en todo lo concerniente a su régimen interior, y por la Ciudad de México, unidos en una federación establecida según los principios de esta ley fundamental.

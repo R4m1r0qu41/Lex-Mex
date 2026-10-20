@@ -21,6 +21,8 @@ Todo litigante, con su primera promoción, presentará:
 
 I.- El documento o documento que acrediten el carácter en que se presente en el negocio, en caso de tener representación legal de alguna persona o corporación, o cuando el derecho que reclame provenga de habérsele transmitido por otra persona; hecha excepción de los casos de gestión oficiosa y de aquellos en que la representación le corresponda por disposición de la ley; Fe de erratas a la fracción DOF 13-03-1943
 
-II.- El número de copias simples necesario para correr traslado a las demás partes, tanto de la demanda principal o incidental como de los documentos que con ellas se acompañen. Fe de erratas a la fracción DOF 13-03-1943 No se dará entrada a la promoción si no se acompañan las copias. Esta disposición es aplicable a todos los casos en que haya que correrse traslado de la promoción.
+II.- El número de copias simples necesario para correr traslado a las demás partes, tanto de la demanda principal o incidental como de los documentos que con ellas se acompañen. Fe de erratas a la fracción DOF 13-03-1943
+
+No se dará entrada a la promoción si no se acompañan las copias. Esta disposición es aplicable a todos los casos en que haya que correrse traslado de la promoción.
 
 La presentación extemporánea de las copias acarrea las mismas consecuencias que la presentación extemporánea de la promoción.

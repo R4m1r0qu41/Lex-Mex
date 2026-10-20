@@ -22,5 +22,3 @@ El órgano jurisdiccional de amparo procederá al estudio de los conceptos de vi
 En los asuntos del orden penal, cuando se desprendan violaciones de fondo de las cuales pudiera derivarse la extinción de la acción persecutoria o la inocencia de la persona quejosa, se le dará preferencia al estudio de aquéllas aún de oficio.
 
 Artículo reformado DOF 13-03-2025
-
-Sección Cuarta Suspensión del Acto Reclamado

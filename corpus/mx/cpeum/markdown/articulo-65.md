@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
 source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
 ---
 
+> Título Tercero · Capítulo II
+
 # Artículo 65
 
 El Congreso se reunirá a partir del 1o. de septiembre de cada año para celebrar un primer periodo de sesiones ordinarias, y a partir del 1o. de febrero para celebrar un segundo periodo de sesiones ordinarias. Párrafo reformado DOF 03-09-1993, 02-08-2004, 10-02-2014, 24-01-2024 En ambos Períodos de Sesiones el Congreso se ocupará del estudio, discusión y votación de las Iniciativas de Ley que se le presenten y de la resolución de los demás asuntos que le correspondan conforme a esta Constitución.

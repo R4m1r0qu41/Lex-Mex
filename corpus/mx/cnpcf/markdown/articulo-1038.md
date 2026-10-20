@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Único · Capítulo III
+
 # Artículo 1038
 
 Cuando por cualquier motivo, quede insubsistente el primer embargo, la autoridad jurisdiccional que lo haya dictado lo comunicará así al que le siga en orden, para que, ante él, se haga el nombramiento de nuevo depositario; pero la autoridad jurisdiccional que dictó dicho primer embargo no cancelará, por esta razón, las garantías otorgadas, hasta que apruebe la gestión del depositario que nombró, y lo declare libre de toda responsabilidad, y hasta que el que le siga en orden le comunique que ante él se otorgaron las que exige la ley. Además, deberá estar concluida toda cuestión relativa a la entrega de los bienes al nuevo depositario.

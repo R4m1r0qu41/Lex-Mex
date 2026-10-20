@@ -13,10 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNEP.pdf
 source_sha256: 91abecabe50a5e414e0835daa9086ce3b307fffb9ebe626dab3bb9d1eae51680
 ---
 
-> Título QUINTO
+> Título QUINTO · Capítulo VI
 
 # Artículo 167
 
 Incumplimiento del trabajo en favor de la comunidad Si los trabajos a favor de la comunidad se le hubieren impuesto al sentenciado como sustitutivo de la pena de prisión y no cumpla, en audiencia se ordenará su reaprehensión en los términos de esta Ley. Asimismo, será recluido en el Centro Penitenciario durante un tiempo igual al de la pena de prisión que haya sido sustituida y que haya quedado pendiente de compurgarse, descontándose únicamente las jornadas que haya efectivamente laborado, correspondiendo un día de reclusión por cada jornada laborada.
-
-Capítulo VII Medidas de Seguridad

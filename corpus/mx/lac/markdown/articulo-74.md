@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo XIII
+
 # Artículo 74
 
 Las personas concesionarias, asignatarias o permisionarias y, en el caso de las operaciones de aeronaves para uso particular, las personas propietarias o poseedoras de aeronaves, que transiten en el espacio aéreo nacional, deben contratar y mantener vigente un seguro que cubra las responsabilidades por los daños a las personas pasajeras, a la carga, al equipaje facturado o a terceras personas en la operación de las aeronaves.

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
+> Título Segundo · Capítulo III
+
 # Artículo 43
 
 Elaborado el pedimento y efectuado el pago de las contribuciones y, en su caso, de las cuotas compensatorias determinadas por el interesado, se presentarán las mercancías ante la autoridad aduanera y se activará el mecanismo de selección automatizado que determinará si debe practicarse el reconocimiento aduanero de las mismas. En caso afirmativo, la autoridad aduanera efectuará el reconocimiento ante quien presente las mercancías en el recinto fiscal, sin perjuicio de que dicho reconocimiento pueda llevarse a cabo de manera distinta conforme a lo dispuesto en los tratados internacionales de los que México sea parte o en los acuerdos interinstitucionales de los que la Secretaría sea parte.

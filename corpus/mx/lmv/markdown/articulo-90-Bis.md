@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título IV · Capítulo II
+
 # Artículo 90 Bis
 
 Para efectos de la inscripción simplificada de valores será necesario que el intermediario colocador revise la información y documentación relativa a la emisora simplificada y la correspondiente a los valores objeto de inscripción.
@@ -34,5 +36,3 @@ Las disposiciones de carácter general aplicables a las emisoras simplificadas y
 La inscripción simplificada a la que se refiere este artículo tendrá efectos declarativos y no podrá considerarse como una validación, confirmación, opinión, recomendación, ni convalidación de actos jurídicos por parte del intermediario colocador, la bolsa de valores de que se trate o la Comisión, en relación con los valores objeto de inscripción o con la emisora simplificada de que se trate, su solvencia, liquidez o calidad crediticia, de conformidad con el segundo párrafo del artículo [79](articulo-79.md) de esta Ley.
 
 Artículo adicionado DOF 28-12-2023
-
-Sección III De la inscripción preventiva

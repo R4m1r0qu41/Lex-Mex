@@ -31,7 +31,9 @@ d) De $20,790.00 a $41,590.00, por no presentar las declaraciones en los medios 
 
 e) De $18,360.00 a $36,740.00, por no cumplir con los requerimientos de las autoridades fiscales para enviar los reportes de información a que se refiere el artículo [28](articulo-28.md), fracción I, apartado B de este Código, o cumplirlos fuera de los plazos señalados en los mismos. Inciso adicionado DOF 07-11-2025 Multa del inciso actualizada por resolución miscelánea fiscal DOF 28-12-2025
 
-f) De $2,080.00 a $6,660.00, en los demás documentos. Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024 Inciso recorrido DOF 07-11-2025 Multa del inciso actualizada por resolución miscelánea fiscal DOF 28-12-2025
+f) De $2,080.00 a $6,660.00, en los demás documentos. Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024 Inciso recorrido DOF 07-11-2025
+
+Multa del inciso actualizada por resolución miscelánea fiscal DOF 28-12-2025
 
 II. Respecto de la señalada en la fracción II:
 
@@ -53,7 +55,9 @@ III. De $2,050.00 a $50,710.00, tratándose de la señalada en la fracción III,
 
 IV. De $25,360.00 a $50,710.00, respecto de la señalada en la fracción IV, salvo tratándose de contribuyentes que de conformidad con la Ley del Impuesto sobre la Renta, estén obligados a efectuar pagos provisionales trimestrales o cuatrimestrales, supuestos en los que la multa será de $2,520.00 a $15,200.00. Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
-V. Para la señalada en la fracción V, la multa será de $17,410.00 a $34,870.00. Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025 VI. Para la señalada en la fracción VI la multa será de $5,070.00 a $15,200.00. Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
+V. Para la señalada en la fracción V, la multa será de $17,410.00 a $34,870.00. Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
+
+VI. Para la señalada en la fracción VI la multa será de $5,070.00 a $15,200.00. Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
 VII. De $1,260.00 a $12,790.00, para la establecida en la fracción VII. Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
@@ -77,7 +81,9 @@ XVI. De $15,650.00 a $31,290.00, a la establecida en la fracción XVI. En caso d
 
 XVII. De $112,750.00 a $225,500.00, para la establecida en la fracción XVII. Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
-XVIII. De $14,380.00 a $23,940.00, para la establecida en la fracción XVIII. Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025 XIX. De $23,940.00 a $47,930.00, para la establecida en la fracción XIX. Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
+XVIII. De $14,380.00 a $23,940.00, para la establecida en la fracción XVIII. Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
+
+XIX. De $23,940.00 a $47,930.00, para la establecida en la fracción XIX. Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
 XX. De $7,680.00 a $15,350.00, para la establecida en la fracción XX. Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 

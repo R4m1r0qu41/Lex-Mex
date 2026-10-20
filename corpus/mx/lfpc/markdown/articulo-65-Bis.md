@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf
 source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 ---
 
+> Capítulo VI
+
 # Artículo 65 Bis
 
 Para efectos de lo dispuesto en la presente ley, serán casas de empeño los proveedores personas físicas o morales no reguladas por leyes y autoridades financieras que en forma habitual o profesional realicen u oferten al público contrataciones u operaciones de mutuo con interés y garantía prendaria. Párrafo reformado DOF 11-01-2018

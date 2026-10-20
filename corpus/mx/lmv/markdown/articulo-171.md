@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título VI · Capítulo II
+
 # Artículo 171
 
 Las casas de bolsa podrán realizar las actividades y proporcionar los servicios siguientes, ajustándose a lo previsto en esta Ley y demás disposiciones de carácter general que al efecto expida la [Comisión](articulo-2.md):
@@ -51,7 +53,7 @@ XVII. Recibir recursos de sus clientes por concepto de las operaciones con valor
 
 XVIII. Recibir préstamos y créditos de instituciones de crédito u organismos de apoyo al mercado de valores, para la realización de las actividades que les sean propias.
 
-XIX. Emitir obligaciones subordinadas de conversión obligatoria a títulos representativos de su capital social, ajustándose a lo dispuesto en el artículo 64 de la Ley de Instituciones de Crédito, así como títulos opcionales y certificados bursátiles, para la realización de las actividades que les sean propias.
+XIX. Emitir obligaciones subordinadas de conversión obligatoria a títulos representativos de su capital social, ajustándose a lo dispuesto en el artículo [64](../../lic/markdown/articulo-64.md) de la Ley de Instituciones de Crédito, así como títulos opcionales y certificados bursátiles, para la realización de las actividades que les sean propias.
 
 XX. Invertir su capital pagado y reservas de capital con apego a esta Ley.
 
@@ -64,5 +66,3 @@ XXIII. Celebrar operaciones en mercados del exterior, por cuenta propia o de ter
 XXIV. Ofrecer servicios de mediación, depósito y administración sobre acciones representativas del capital social de personas morales, no inscritas en el [Registro](articulo-2.md), sin que en ningún caso puedan participar por cuenta de terceros en la celebración de las operaciones.
 
 XXV. Las análogas, conexas o complementarias de las anteriores, que les sean autorizadas por la [Secretaría](articulo-2.md), mediante disposiciones de carácter general. Las disposiciones que expida la Comisión conforme a este artículo no podrán referirse a aquellas actividades y servicios cuya regulación esté conferida por ésta u otras leyes a la Secretaría o al Banco de México.
-
-Sección I De los requerimientos de capital y diversificación

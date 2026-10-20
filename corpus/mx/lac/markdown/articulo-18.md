@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo IV · Sección Segunda
+
 # Artículo 18
 
 El servicio al público de transporte aéreo podrá ser: nacional o internacional; regular o no regular, y de pasajeros, carga o correo.

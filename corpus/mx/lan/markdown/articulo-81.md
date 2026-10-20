@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAN.pdf
 source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 ---
 
-> Título SEXTO
+> Título SEXTO · Capítulo III
 
 # Artículo 81
 
@@ -29,10 +29,10 @@ Los estudios y exploraciones realizados por las personas interesadas deberán de
 
 Si los estudios demuestran que el yacimiento geotérmico hidrotermal y los acuíferos sobreyacentes no tienen conexión hidráulica directa, el otorgamiento de la concesión de agua por parte de “la Comisión”, no estará sujeta a la disponibilidad de agua de los acuíferos ni a la normatividad relativa a las zonas reglamentadas, vedas y reservas, respectivas.
 
-“La Comisión” otorgará a la persona solicitante, a través de la dependencia a que la alude la fracción XIV del artículo [2](../../lgeo/markdown/articulo-2.md) de la Ley de Geotermia, la concesión de agua correspondiente sobre el volumen de agua solicitado por la interesada y establecerá un programa de monitoreo a fin de identificar afectaciones negativas a la calidad del agua subterránea, a las captaciones de la misma o a la infraestructura existente derivadas de la explotación del yacimiento. Párrafo reformado DOF 11-12-2025 Se requerirá permiso de descarga y autorización en materia de impacto ambiental cuando el agua de retorno se vierta a cuerpos receptores que sean aguas nacionales y demás bienes nacionales o cuando se trate de la disposición al subsuelo de los recortes de perforación. La reincorporación del agua de retorno al yacimiento geotérmico hidrotermal, requiere permiso de obra para el pozo de inyección.
+“La Comisión” otorgará a la persona solicitante, a través de la dependencia a que la alude la fracción XIV del artículo [2](../../lgeo/markdown/articulo-2.md) de la Ley de Geotermia, la concesión de agua correspondiente sobre el volumen de agua solicitado por la interesada y establecerá un programa de monitoreo a fin de identificar afectaciones negativas a la calidad del agua subterránea, a las captaciones de la misma o a la infraestructura existente derivadas de la explotación del yacimiento. Párrafo reformado DOF 11-12-2025
+
+Se requerirá permiso de descarga y autorización en materia de impacto ambiental cuando el agua de retorno se vierta a cuerpos receptores que sean aguas nacionales y demás bienes nacionales o cuando se trate de la disposición al subsuelo de los recortes de perforación. La reincorporación del agua de retorno al yacimiento geotérmico hidrotermal, requiere permiso de obra para el pozo de inyección.
 
 Las concesiones de agua otorgadas por “la Comisión”, podrán ser objeto de modificación en caso de alteración de los puntos de extracción o inyección, redistribución de volúmenes, relocalización, reposición y cierre de pozos.
 
 Artículo reformado DOF 29-04-2004, 11-08-2014
-
-Capítulo III Bis Uso Industrial en la Minería Capítulo adicionado DOF 08-05-2023

@@ -13,13 +13,17 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf
 source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 ---
 
+> Capítulo VI
+
 # Artículo 63
 
 Los sistemas de comercialización consistentes en la integración de grupos de consumidores que aportan periódicamente sumas de dinero para ser administradas por un tercero, únicamente podrán operar para efectos de adquisición de bienes determinados o determinables, sean muebles nuevos o inmuebles destinados a la habitación o a su uso como locales comerciales, en los términos que señale el reglamento respectivo, y sólo podrán ponerse en práctica previa autorización de la [Secretaría](articulo-2.md). Párrafo reformado DOF 04-02-2004
 
 La Secretaría podrá autorizar, en su caso, que estos sistemas de comercialización tengan por objeto los servicios de construcción, remodelación y ampliación de inmuebles, cuando se demuestre que las condiciones del mercado así lo ameriten y que se garanticen los derechos e intereses de los consumidores. Tratándose de esta autorización, no operará la afirmativa ficta. Párrafo adicionado DOF 04-02-2004
 
-El plazo de operación de los sistemas de comercialización no podrá ser mayor a cinco años para bienes muebles y de quince años para bienes inmuebles. Párrafo adicionado DOF 04-02-2004 La Secretaría otorgará la autorización para la operación de los referidos sistemas de comercialización, que en todos los casos será intransmisible, cuando se cumplan con los siguientes requisitos: Párrafo adicionado DOF 04-02-2004
+El plazo de operación de los sistemas de comercialización no podrá ser mayor a cinco años para bienes muebles y de quince años para bienes inmuebles. Párrafo adicionado DOF 04-02-2004
+
+La Secretaría otorgará la autorización para la operación de los referidos sistemas de comercialización, que en todos los casos será intransmisible, cuando se cumplan con los siguientes requisitos: Párrafo adicionado DOF 04-02-2004
 
 I. Que el solicitante sea una persona moral mexicana constituida como sociedad anónima de conformidad con la legislación aplicable, y que tenga por objeto social únicamente la operación y administración de sistemas de comercialización a que se refiere el presente artículo; así como las actividades necesarias para su adecuado desempeño; Fracción adicionada DOF 04-02-2004
 

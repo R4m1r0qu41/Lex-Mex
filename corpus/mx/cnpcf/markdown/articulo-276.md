@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 276
 
 En la etapa de admisión de pruebas de la audiencia preliminar o en la misma resolución que recaiga a la demanda incidental o contestación, la autoridad jurisdiccional se pronunciará sobre la admisión o desechamiento de pruebas, pudiendo limitar el número de testigos prudencialmente. En ningún caso, la autoridad jurisdiccional admitirá pruebas o diligencias en los siguientes supuestos:

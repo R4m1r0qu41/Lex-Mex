@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf
 source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 ---
 
+> Capítulo I
+
 # Artículo 15
 
 Cuando el cobro se haga mediante cargo directo a una cuenta de crédito, débito o similar del consumidor, el cargo no podrá efectuarse sino hasta la entrega del bien, o la prestación del servicio, excepto cuando exista consentimiento expreso del consumidor para que éstas se realicen posteriormente.

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Único · Capítulo I
+
 # Artículo 935
 
 El principio de elegibilidad consiste en que las partes tienen el derecho de optar voluntariamente que los procedimientos regulados en el presente [Código Nacional](articulo-2.md), se tramiten de forma digital y en línea. La elegibilidad permitirá la sola integración de expedientes electrónicos, así como actuaciones y audiencias presenciales o a distancia, indistintamente.

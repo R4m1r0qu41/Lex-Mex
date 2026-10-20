@@ -13,8 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título II · Capítulo I
+
 # Artículo 18
 
-Las sociedades anónimas promotoras de inversión estarán exceptuadas del requisito de publicar sus estados financieros, conforme lo establece el artículo 177 de la Ley General de Sociedades Mercantiles.
-
-Sección III De las sociedades anónimas promotoras de inversión bursátil
+Las sociedades anónimas promotoras de inversión estarán exceptuadas del requisito de publicar sus estados financieros, conforme lo establece el artículo [177](../../lgsm/markdown/articulo-177.md) de la Ley General de Sociedades Mercantiles.

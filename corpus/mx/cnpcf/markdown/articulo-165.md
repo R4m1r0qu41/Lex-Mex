@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo II
+
 # Artículo 165
 
 Las notificaciones hechas en forma distinta a la prevenida en el presente [Código Nacional](articulo-2.md) serán nulas; pero si la persona notificada se hubiere manifestado en juicio, sabedora de la providencia, la notificación surtirá desde entonces sus efectos como si estuviese legítimamente hecha.

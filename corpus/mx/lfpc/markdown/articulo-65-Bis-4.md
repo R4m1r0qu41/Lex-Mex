@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf
 source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 ---
 
+> Capítulo VI
+
 # Artículo 65 Bis 4
 
 Las casas de empeño deberán transparentar sus operaciones, por lo que deberán colocar en su publicidad o en todos sus establecimientos abiertos al público, de manera permanente y visible, una pizarra de anuncios o medio electrónico informativo, que tendrá como propósito brindar información a los consumidores sobre los términos y condiciones de dichos contratos.

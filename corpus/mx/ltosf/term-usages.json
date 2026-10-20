@@ -343,120 +343,120 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:3:term-usage:5928-5937",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:3:term-usage:5929-5938",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:consorcio",
     "span": "Consorcio",
-    "start_char": 5928,
-    "end_char": 5937
+    "start_char": 5929,
+    "end_char": 5938
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:3:term-usage:5940-5957",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:3:term-usage:5941-5958",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:grupo-empresarial",
     "span": "Grupo Empresarial",
-    "start_char": 5940,
-    "end_char": 5957
+    "start_char": 5941,
+    "end_char": 5958
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:3:term-usage:6010-6017",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:3:term-usage:6011-6018",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:control",
     "span": "Control",
-    "start_char": 6010,
-    "end_char": 6017
+    "start_char": 6011,
+    "end_char": 6018
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:3:term-usage:6260-6267",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:3:term-usage:6261-6268",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:control",
     "span": "Control",
-    "start_char": 6260,
-    "end_char": 6267
+    "start_char": 6261,
+    "end_char": 6268
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:3:term-usage:6911-6941",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:3:term-usage:6912-6942",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:redes-de-medios-de-disposicion",
     "span": "Redes de Medios de Disposición",
-    "start_char": 6911,
-    "end_char": 6941
+    "start_char": 6912,
+    "end_char": 6942
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:3:term-usage:6974-6982",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:3:term-usage:6975-6983",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:comision",
     "span": "Comisión",
-    "start_char": 6974,
-    "end_char": 6982
+    "start_char": 6975,
+    "end_char": 6983
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:3:term-usage:8228-8237",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:3:term-usage:8229-8238",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:consorcio",
     "span": "Consorcio",
-    "start_char": 8228,
-    "end_char": 8237
+    "start_char": 8229,
+    "end_char": 8238
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:3:term-usage:8240-8257",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:3:term-usage:8241-8258",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:grupo-empresarial",
     "span": "Grupo Empresarial",
-    "start_char": 8240,
-    "end_char": 8257
+    "start_char": 8241,
+    "end_char": 8258
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:3:term-usage:8653-8683",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:3:term-usage:8654-8684",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:redes-de-medios-de-disposicion",
     "span": "Redes de Medios de Disposición",
-    "start_char": 8653,
-    "end_char": 8683
+    "start_char": 8654,
+    "end_char": 8684
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:3:term-usage:8765-8773",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:3:term-usage:8766-8774",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:comision",
     "span": "Comisión",
-    "start_char": 8765,
-    "end_char": 8773
+    "start_char": 8766,
+    "end_char": 8774
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:3:term-usage:9171-9179",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:3:term-usage:9173-9181",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:comision",
     "span": "Comisión",
-    "start_char": 9171,
-    "end_char": 9179
+    "start_char": 9173,
+    "end_char": 9181
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:3:term-usage:9509-9519",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:3:term-usage:9511-9521",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:comision",
     "span": "Comisiones",
-    "start_char": 9509,
-    "end_char": 9519
+    "start_char": 9511,
+    "end_char": 9521
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:3:term-usage:9522-9543",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:3:term-usage:9524-9545",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:cuotas-de-intercambio",
     "span": "Cuotas de Intercambio",
-    "start_char": 9522,
-    "end_char": 9543
+    "start_char": 9524,
+    "end_char": 9545
   },
   {
     "schema_version": "0.1.0",
@@ -1936,138 +1936,138 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:11:term-usage:2767-2775",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:11:term-usage:2768-2776",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:11",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:comision",
     "span": "Comisión",
-    "start_char": 2767,
-    "end_char": 2775
+    "start_char": 2768,
+    "end_char": 2776
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:11:term-usage:2964-2972",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:11:term-usage:2965-2973",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:11",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:comision",
     "span": "Comisión",
-    "start_char": 2964,
-    "end_char": 2972
+    "start_char": 2965,
+    "end_char": 2973
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:11:term-usage:3156-3177",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:11:term-usage:3157-3178",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:11",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:entidad-financiera",
     "span": "Entidades Financieras",
-    "start_char": 3156,
-    "end_char": 3177
+    "start_char": 3157,
+    "end_char": 3178
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:11:term-usage:3226-3234",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:11:term-usage:3227-3235",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:11",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:comision",
     "span": "Comisión",
-    "start_char": 3226,
-    "end_char": 3234
+    "start_char": 3227,
+    "end_char": 3235
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:11:term-usage:3274-3295",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:11:term-usage:3275-3296",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:11",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:entidad-financiera",
     "span": "Entidades Financieras",
-    "start_char": 3274,
-    "end_char": 3295
+    "start_char": 3275,
+    "end_char": 3296
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:11:term-usage:3317-3325",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:11:term-usage:3318-3326",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:11",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:comision",
     "span": "Comisión",
-    "start_char": 3317,
-    "end_char": 3325
+    "start_char": 3318,
+    "end_char": 3326
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:11:term-usage:3626-3634",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:11:term-usage:3627-3635",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:11",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:comision",
     "span": "Comisión",
-    "start_char": 3626,
-    "end_char": 3634
+    "start_char": 3627,
+    "end_char": 3635
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:11:term-usage:3774-3794",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:11:term-usage:3775-3795",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:11",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:contrato-de-adhesion",
     "span": "Contrato de Adhesión",
-    "start_char": 3774,
-    "end_char": 3794
+    "start_char": 3775,
+    "end_char": 3795
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:11:term-usage:3997-4005",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:11:term-usage:3998-4006",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:11",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:comision",
     "span": "Comisión",
-    "start_char": 3997,
-    "end_char": 4005
+    "start_char": 3998,
+    "end_char": 4006
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:11:term-usage:4390-4410",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:11:term-usage:4391-4411",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:11",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:contrato-de-adhesion",
     "span": "Contrato de Adhesión",
-    "start_char": 4390,
-    "end_char": 4410
+    "start_char": 4391,
+    "end_char": 4411
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:11:term-usage:4549-4556",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:11:term-usage:4550-4557",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:11",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:cliente",
     "span": "Cliente",
-    "start_char": 4549,
-    "end_char": 4556
+    "start_char": 4550,
+    "end_char": 4557
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:11:term-usage:4737-4747",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:11:term-usage:4738-4748",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:11",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:comision",
     "span": "Comisiones",
-    "start_char": 4737,
-    "end_char": 4747
+    "start_char": 4738,
+    "end_char": 4748
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:11:term-usage:4755-4762",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:11:term-usage:4756-4763",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:11",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:entidades",
     "span": "Entidad",
-    "start_char": 4755,
-    "end_char": 4762
+    "start_char": 4756,
+    "end_char": 4763
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:11:term-usage:4819-4829",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:11:term-usage:4820-4830",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:11",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:comision",
     "span": "Comisiones",
-    "start_char": 4819,
-    "end_char": 4829
+    "start_char": 4820,
+    "end_char": 4830
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:11:term-usage:4951-4961",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:11:term-usage:4952-4962",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:11",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:comision",
     "span": "Comisiones",
-    "start_char": 4951,
-    "end_char": 4961
+    "start_char": 4952,
+    "end_char": 4962
   },
   {
     "schema_version": "0.1.0",
@@ -3664,15 +3664,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:40:term-usage:516-524",
-    "provision_id": "urn:lex-mx:federal:statute:ltosf:article:40",
-    "term_id": "urn:lex-mx:federal:statute:ltosf:term:comision",
-    "span": "Comisión",
-    "start_char": 516,
-    "end_char": 524
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:ltosf:article:41:term-usage:3-11",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:41",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:comision",
@@ -3985,24 +3976,6 @@
     "span": "CAT",
     "start_char": 3823,
     "end_char": 3826
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:44:term-usage:4956-4964",
-    "provision_id": "urn:lex-mx:federal:statute:ltosf:article:44",
-    "term_id": "urn:lex-mx:federal:statute:ltosf:term:comision",
-    "span": "Comisión",
-    "start_char": 4956,
-    "end_char": 4964
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:46:term-usage:118-126",
-    "provision_id": "urn:lex-mx:federal:statute:ltosf:article:46",
-    "term_id": "urn:lex-mx:federal:statute:ltosf:term:comision",
-    "span": "Comisión",
-    "start_char": 118,
-    "end_char": 126
   },
   {
     "schema_version": "0.1.0",

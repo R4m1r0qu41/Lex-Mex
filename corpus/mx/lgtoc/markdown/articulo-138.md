@@ -18,5 +18,3 @@ source_sha256: cf8a5d05500ddbe21885db4a8f1128cf95b3aaab95b7982a47aa33baea652361
 # Artículo 138
 
 Mientras el tenedor conserve la letra en su poder, no puede rehusar el pago por intervención. Si lo rehusare, perderá sus derechos contra la persona por quien el interventor ofrezca el pago, y contra los obligados posteriores a ella.
-
-Sección Octava Del protesto

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Único · Capítulo III
+
 # Artículo 1036
 
 De todo embargo se tendrá como persona depositaria o interventor, según la naturaleza de los bienes que sean objeto de éste, a la persona o institución, que bajo su responsabilidad nombre la persona acreedora, pudiendo ser ella misma o la persona deudora, mediante formal inventario.

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo III
+
 # Artículo 172
 
 Tampoco podrán variar ni modificar sus sentencias o autos después de firmados, pero sí aclarar algún concepto que contengan omisiones sobre puntos discutidos, errores materiales o de cálculo, edades, nombres, ambigüedades, contradicciones evidentes, oscuridad de las expresiones o de las palabras, cuando sean imprecisos sin alterar su esencia.

@@ -13,12 +13,10 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAN.pdf
 source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 ---
 
-> Título CUARTO
+> Título CUARTO · Capítulo II
 
 # Artículo 27
 
 Se deroga.
 
 Artículo derogado DOF 29-04-2004
-
-Capítulo III Derechos y Obligaciones de Concesionarios o Asignatarios

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 307
 
 La persona perito tercero puede ser recusado en la audiencia de juicio en la que comparezca, por las mismas causas de las excusas e impedimentos que pueden serlo la autoridad jurisdiccional.
@@ -24,5 +26,3 @@ Las pruebas ofrecidas por la parte recusante deben desahogarse en la misma audie
 En ese caso, no se suspenderá el desahogo del dictamen tercero en discordia, el cual quedará desierto, de declararse fundada la causa de recusación. Cuando la recusación se declare fundada se designará otra persona perito tercero en discordia. En caso de declararse infundada, se impondrá a la parte recusante una multa equivalente al importe de los honorarios fijados por el perito a favor de la contraparte, por el retardo injustificado del procedimiento.
 
 No habrá recurso alguno contra las resoluciones que se dicten en el trámite o la decisión de la recusación.
-
-Sección Quinta De la Prueba Documental Física o Electrónica

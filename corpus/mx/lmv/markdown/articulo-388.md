@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título XIV · Capítulo II
+
 # Artículo 388
 
 Los delitos previstos en esta Ley únicamente se perseguirán a petición de la [Secretaría](articulo-2.md), previa opinión de la [Comisión](articulo-2.md); salvo tratándose de los delitos previstos en los artículos [375](articulo-375.md), [377](articulo-377.md), [383](articulo-383.md), cuando se trate de operaciones relacionadas con emisoras simplificadas, 384 y 386 de esta Ley, en cuyo caso las víctimas, ofendidos o los titulares de las cuentas de que se traten, también podrán formular directamente la querella. Párrafo reformado DOF 10-01-2014, 28-12-2023
@@ -28,7 +30,3 @@ Los delitos contenidos en esta Ley sólo admitirán consumación dolosa. La acci
 Las penas previstas en esta Ley, con excepción de las señaladas en el artículo [386](articulo-386.md), se reducirán a un tercio cuando se acredite haber reparado el daño o haber resarcido el perjuicio ocasionado.
 
 En lo no contemplado en esta Ley en materia de delitos, se estará a lo dispuesto en el Código Penal Federal y Código Federal de Procedimientos Penales.
-
-Título XV De los procedimientos administrativos
-
-Capítulo I Disposiciones preliminares

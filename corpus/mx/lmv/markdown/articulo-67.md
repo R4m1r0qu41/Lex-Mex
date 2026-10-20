@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título III · Capítulo II
+
 # Artículo 67
 
 Los títulos opcionales deberán contener lo siguiente:
@@ -36,5 +38,3 @@ VIII. Las condiciones de circulación ante eventos extraordinarios sobre los act
 IX. El nombre y la firma autógrafa del representante o apoderado de la persona que emite los títulos, quien deberá contar con facultades generales para actos de administración y para suscribir títulos de crédito en los términos de las leyes aplicables.
 
 X. La firma autógrafa del representante común de los tenedores de títulos, haciendo constar su aceptación al cargo, así como sus obligaciones y facultades.
-
-Capítulo III Otras disposiciones

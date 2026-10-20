@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título XI · Capítulo I
+
 # Artículo 331
 
 Los proveedores de precios tendrán prohibido proporcionar a uno o más de sus usuarios, precios actualizados para valuación relacionados con un mismo valor, instrumentos financieros derivados o índices, que difieran de los entregados respecto de una misma fecha, a otro u otros usuarios, incluyendo sus modificaciones.

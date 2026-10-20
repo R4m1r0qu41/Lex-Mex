@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Único · Capítulo III
+
 # Artículo 1027
 
 Tratándose de juicio ejecutivo, si la persona deudora, no fuere encontrada en su domicilio por una vez, se le dejará citatorio para hora fija dentro de las veinticuatro horas siguientes y si no espera, se practicará la diligencia con cualquier persona que se encuentre en el domicilio.

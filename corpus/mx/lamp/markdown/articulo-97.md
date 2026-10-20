@@ -19,7 +19,7 @@ source_sha256: 05560493ac2b17b9e77eeb9741843176ee0fde76f05e75f853465b13621be78d
 
 El recurso de queja procede:
 
-I. En amparo indirecto, contra las siguientes resoluciones: LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS [103](../../cpeum/markdown/articulo-103.md) Y [107](../../cpeum/markdown/articulo-107.md) DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS a) Las que admitan total o parcialmente, desechen o tengan por no presentada una demanda de amparo o su ampliación;
+I. En amparo indirecto, contra las siguientes resoluciones: a) Las que admitan total o parcialmente, desechen o tengan por no presentada una demanda de amparo o su ampliación;
 
 b) Las que concedan o nieguen la suspensión de plano o la provisional;
 

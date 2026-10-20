@@ -225,3 +225,4 @@ Fuente operativa: [camara_de_diputados](https://www.diputados.gob.mx/LeyesBiblio
 - [Noveno](transitorio-noveno.md)
 - [Décimo](transitorio-decimo.md)
 - [Décimo Primero](transitorio-decimo-primero.md)
+- [Décimo Segundo](transitorio-decimo-segundo.md)

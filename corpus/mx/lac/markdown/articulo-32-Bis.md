@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo V
+
 # Artículo 32 Bis
 
 En caso de que una aeronave no cumpla plenamente con los requisitos de aeronavegabilidad establecidos en la normativa aeronáutica nacional, se otorgará un certificado de aeronavegabilidad especial, de conformidad con lo establecido en las disposiciones técnico- administrativas que se emitan para tal efecto, siempre que la aeronave sea capaz de efectuar un vuelo seguro. El certificado de aeronavegabilidad especial se emitirá para los siguientes propósitos: Párrafo reformado DOF 03-05-2023

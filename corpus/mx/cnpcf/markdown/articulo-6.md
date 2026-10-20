@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 6
 
 Tratándose de personas que pertenezcan a pueblos y comunidades indígenas y afromexicanas, la autoridad jurisdiccional deberá cerciorarse que cuenten con intérprete y traductor y en todos los casos considerará sus sistemas normativos, usos y costumbres, siempre que no contravengan lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y los Tratados Internacionales de los que el Estado mexicano sea parte.

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo Único
+
 # Artículo 829
 
 No podrán suspenderse los servicios de agua, luz, internet ni de ningún otro servicio básico que atente contra la dignidad humana, en la vivienda de la persona deudora. La persona deudora tendrá prohibido gravar, enajenar o disponer de cualquier forma de sus bienes, salvo autorización judicial.

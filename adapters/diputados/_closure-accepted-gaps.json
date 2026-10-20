@@ -2,13 +2,6 @@
   "description": "Instruments that `link --all` is expected to reject, with the exact rejection errors. A closure whose rejections equal this list exactly exits 0; anything new, changed or resolved fails. Edit only with an operator decision recorded in docs/decisions.md.",
   "accepted": [
     {
-      "slug": "cpf",
-      "reason": "Cites LIC article 112 Quintus; the committed LIC text does not parse that heading (held-instruments review: Quintus suffix headings).",
-      "errors": [
-        "unresolved_internal_reference: cross-instrument reference target does not exist: urn:lex-mx:federal:statute:lic:article:112-quintus"
-      ]
-    },
-    {
       "slug": "cub-dcg-2005",
       "reason": "Held for the operator DCG pass (Bis N headings are not parsed in the DCGs); the cited target is absent from the committed text.",
       "errors": [
@@ -35,21 +28,6 @@
       "reason": "Cites LGTAIP article 180 Bis, which is absent from the committed LGTAIP; the operator could not find the reference in either law (held-instruments review: unverified).",
       "errors": [
         "unresolved_internal_reference: cross-instrument reference target does not exist: urn:lex-mx:federal:statute:lgtaip:article:180-bis"
-      ]
-    },
-    {
-      "slug": "lgs",
-      "reason": "Cites CPF article 209 Quintus, which does not exist: the committed CPF text runs 209, 209 Bis, 209 Ter, 209 Quáter and prints no 209 Quintus. The reference is stale or wrong (operator decision 2026-10-18).",
-      "errors": [
-        "unresolved_internal_reference: cross-instrument reference target does not exist: urn:lex-mx:federal:code:cpf:article:209-quintus"
-      ]
-    },
-    {
-      "slug": "lmv",
-      "reason": "Cites LGTOC articles 228-B and 228-H; the committed LGTOC text does not parse them (lowercase letter suffix heading \"228 b.\").",
-      "errors": [
-        "unresolved_internal_reference: cross-instrument reference target does not exist: urn:lex-mx:federal:statute:lgtoc:article:228-b",
-        "unresolved_internal_reference: cross-instrument reference target does not exist: urn:lex-mx:federal:statute:lgtoc:article:228-h"
       ]
     },
     {

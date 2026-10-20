@@ -13,8 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo I
+
 # Artículo 653
 
 En los casos de adopción en los que intervengan extranjeros o mexicanos con residencia en otro país, el procedimiento se llevará a cabo según lo dispuesto por el Capítulo de procedimientos internacionales de este [Código Nacional](articulo-2.md), los tratados internacionales y la legislación aplicable en cada Entidad Federativa.
-
-Capítulo II Del Divorcio Bilateral

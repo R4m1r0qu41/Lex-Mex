@@ -17,4 +17,4 @@ source_sha256: 05560493ac2b17b9e77eeb9741843176ee0fde76f05e75f853465b13621be78d
 
 # Artículo 103
 
-En caso de resultar fundado el recurso se dictará la resolución que corresponda sin necesidad de reenvío, salvo que la resolución implique la reposición del procedimiento. En este caso, quedará sin efecto la resolución recurrida y se ordenará al que la hubiere emitido dictar otra, debiendo precisar los efectos concretos a que deba sujetarse su cumplimiento. LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS [103](../../cpeum/markdown/articulo-103.md) Y [107](../../cpeum/markdown/articulo-107.md) DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS Sección Tercera Recurso de Reclamación
+En caso de resultar fundado el recurso se dictará la resolución que corresponda sin necesidad de reenvío, salvo que la resolución implique la reposición del procedimiento. En este caso, quedará sin efecto la resolución recurrida y se ordenará al que la hubiere emitido dictar otra, debiendo precisar los efectos concretos a que deba sujetarse su cumplimiento.

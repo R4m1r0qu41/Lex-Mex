@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Único · Capítulo IV
+
 # Artículo 1104
 
 Si la ejecución se hubiere despachado a instancia de una segunda persona acreedora hipotecario o de otra persona hipotecaria de ulterior grado, el importe de los créditos hipotecarios preferentes de que responda la finca rematada, se consignará ante el juzgado correspondiente y el resto se entregará sin dilación a la persona ejecutante, si notoriamente fuera inferior a su crédito o lo cubriere.

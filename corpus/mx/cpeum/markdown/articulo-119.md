@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
 source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
 ---
 
+> Título Quinto
+
 # Artículo 119
 
 Los Poderes de la Unión tienen el deber de proteger a las entidades federativas contra toda invasión o violencia exterior. En cada caso de sublevación o transtorno interior, les prestarán igual protección, siempre que sean excitados por la Legislatura de la entidad federativa o por su Ejecutivo, si aquélla no estuviere reunida. Párrafo adicionado DOF 25-10-1993. Reformado DOF 29-01-2016

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 58
 
 Cuando la acción de nulidad de juicio concluido se declare infundada, la garantía se adjudicará a la parte demandada por concepto de daños y perjuicios ocasionados por la suspensión, sin necesidad de prueba alguna.

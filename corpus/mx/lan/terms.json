@@ -205,7 +205,7 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "XVI",
     "start_char": 5339,
-    "end_char": 7635,
+    "end_char": 7636,
     "basis": "express_definition"
   },
   {
@@ -215,8 +215,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "XVII",
-    "start_char": 7635,
-    "end_char": 7921,
+    "start_char": 7636,
+    "end_char": 7922,
     "basis": "express_definition"
   },
   {
@@ -226,8 +226,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "XVIII",
-    "start_char": 7921,
-    "end_char": 8864,
+    "start_char": 7922,
+    "end_char": 8865,
     "basis": "express_definition"
   },
   {
@@ -237,8 +237,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "XIX",
-    "start_char": 8864,
-    "end_char": 9018,
+    "start_char": 8865,
+    "end_char": 9019,
     "basis": "express_definition"
   },
   {
@@ -248,8 +248,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "XX",
-    "start_char": 9018,
-    "end_char": 9233,
+    "start_char": 9019,
+    "end_char": 9234,
     "basis": "express_definition"
   },
   {
@@ -259,8 +259,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "XXI",
-    "start_char": 9233,
-    "end_char": 9737,
+    "start_char": 9234,
+    "end_char": 9738,
     "basis": "express_definition"
   },
   {
@@ -270,8 +270,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "XXII",
-    "start_char": 9737,
-    "end_char": 9848,
+    "start_char": 9738,
+    "end_char": 9849,
     "basis": "express_definition"
   },
   {
@@ -281,8 +281,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "XXIII",
-    "start_char": 9848,
-    "end_char": 10113,
+    "start_char": 9849,
+    "end_char": 10114,
     "basis": "express_definition"
   },
   {
@@ -292,8 +292,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "XXIV",
-    "start_char": 10113,
-    "end_char": 10702,
+    "start_char": 10114,
+    "end_char": 10703,
     "basis": "express_definition"
   },
   {
@@ -303,8 +303,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "XXV",
-    "start_char": 10702,
-    "end_char": 11720,
+    "start_char": 10703,
+    "end_char": 11721,
     "basis": "express_definition"
   },
   {
@@ -314,8 +314,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "XXVI",
-    "start_char": 11720,
-    "end_char": 11872,
+    "start_char": 11721,
+    "end_char": 11873,
     "basis": "express_definition"
   },
   {
@@ -325,8 +325,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "XXVII",
-    "start_char": 11872,
-    "end_char": 12089,
+    "start_char": 11873,
+    "end_char": 12090,
     "basis": "express_definition"
   },
   {
@@ -336,8 +336,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "XXVIII",
-    "start_char": 12089,
-    "end_char": 13065,
+    "start_char": 12090,
+    "end_char": 13066,
     "basis": "express_definition"
   },
   {
@@ -347,8 +347,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "XXIX",
-    "start_char": 13065,
-    "end_char": 13559,
+    "start_char": 13066,
+    "end_char": 13560,
     "basis": "express_definition"
   },
   {
@@ -358,8 +358,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "XXX",
-    "start_char": 13559,
-    "end_char": 14033,
+    "start_char": 13560,
+    "end_char": 14034,
     "basis": "express_definition"
   },
   {
@@ -369,8 +369,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "XXXI",
-    "start_char": 14033,
-    "end_char": 14086,
+    "start_char": 14034,
+    "end_char": 14087,
     "basis": "express_definition"
   },
   {
@@ -380,8 +380,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "XXXII",
-    "start_char": 14086,
-    "end_char": 14129,
+    "start_char": 14087,
+    "end_char": 14130,
     "basis": "express_definition"
   },
   {
@@ -391,8 +391,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "XXXIII",
-    "start_char": 14129,
-    "end_char": 14207,
+    "start_char": 14130,
+    "end_char": 14208,
     "basis": "express_definition"
   },
   {
@@ -402,8 +402,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "XXXIV",
-    "start_char": 14207,
-    "end_char": 14287,
+    "start_char": 14208,
+    "end_char": 14288,
     "basis": "express_definition"
   },
   {
@@ -413,8 +413,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "XXXV",
-    "start_char": 14287,
-    "end_char": 14334,
+    "start_char": 14288,
+    "end_char": 14335,
     "basis": "express_definition"
   },
   {
@@ -424,8 +424,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "XXXVI",
-    "start_char": 14334,
-    "end_char": 14386,
+    "start_char": 14335,
+    "end_char": 14387,
     "basis": "express_definition"
   },
   {
@@ -435,8 +435,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "XXXVII",
-    "start_char": 14386,
-    "end_char": 14631,
+    "start_char": 14387,
+    "end_char": 14632,
     "basis": "express_definition"
   },
   {
@@ -446,8 +446,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "XXXVIII",
-    "start_char": 14631,
-    "end_char": 14985,
+    "start_char": 14632,
+    "end_char": 14986,
     "basis": "express_definition"
   },
   {
@@ -457,8 +457,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "XXXIX",
-    "start_char": 14985,
-    "end_char": 15297,
+    "start_char": 14986,
+    "end_char": 15298,
     "basis": "express_definition"
   },
   {
@@ -468,8 +468,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "XL",
-    "start_char": 15297,
-    "end_char": 16079,
+    "start_char": 15298,
+    "end_char": 16080,
     "basis": "express_definition"
   },
   {
@@ -479,8 +479,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "XLI",
-    "start_char": 16079,
-    "end_char": 16325,
+    "start_char": 16080,
+    "end_char": 16326,
     "basis": "express_definition"
   },
   {
@@ -490,8 +490,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "XLII",
-    "start_char": 16325,
-    "end_char": 16800,
+    "start_char": 16326,
+    "end_char": 16801,
     "basis": "express_definition"
   },
   {
@@ -501,8 +501,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "XLIII",
-    "start_char": 16800,
-    "end_char": 17132,
+    "start_char": 16801,
+    "end_char": 17133,
     "basis": "express_definition"
   },
   {
@@ -512,8 +512,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "XLIII Bis",
-    "start_char": 17132,
-    "end_char": 17478,
+    "start_char": 17133,
+    "end_char": 17479,
     "basis": "express_definition"
   },
   {
@@ -523,8 +523,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "XLIV",
-    "start_char": 17478,
-    "end_char": 17860,
+    "start_char": 17479,
+    "end_char": 17861,
     "basis": "express_definition"
   },
   {
@@ -534,8 +534,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "XLV",
-    "start_char": 17860,
-    "end_char": 18328,
+    "start_char": 17861,
+    "end_char": 18329,
     "basis": "express_definition"
   },
   {
@@ -545,8 +545,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "XLV Bis",
-    "start_char": 18328,
-    "end_char": 18853,
+    "start_char": 18329,
+    "end_char": 18854,
     "basis": "express_definition"
   },
   {
@@ -556,8 +556,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "XLVI",
-    "start_char": 18853,
-    "end_char": 18957,
+    "start_char": 18854,
+    "end_char": 18958,
     "basis": "express_definition"
   },
   {
@@ -567,8 +567,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "XLVII",
-    "start_char": 18957,
-    "end_char": 20403,
+    "start_char": 18958,
+    "end_char": 20404,
     "basis": "express_definition"
   },
   {
@@ -578,8 +578,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "XLVIII",
-    "start_char": 20403,
-    "end_char": 20550,
+    "start_char": 20404,
+    "end_char": 20551,
     "basis": "express_definition"
   },
   {
@@ -589,8 +589,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "XLVIII Bis",
-    "start_char": 20550,
-    "end_char": 21236,
+    "start_char": 20551,
+    "end_char": 21237,
     "basis": "express_definition"
   },
   {
@@ -600,8 +600,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "XLIX",
-    "start_char": 21236,
-    "end_char": 21837,
+    "start_char": 21237,
+    "end_char": 21838,
     "basis": "express_definition"
   },
   {
@@ -611,8 +611,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "L",
-    "start_char": 21837,
-    "end_char": 22121,
+    "start_char": 21838,
+    "end_char": 22122,
     "basis": "express_definition"
   },
   {
@@ -622,8 +622,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "L Bis",
-    "start_char": 22121,
-    "end_char": 22399,
+    "start_char": 22122,
+    "end_char": 22400,
     "basis": "express_definition"
   },
   {
@@ -633,8 +633,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "LI",
-    "start_char": 22399,
-    "end_char": 22939,
+    "start_char": 22400,
+    "end_char": 22940,
     "basis": "express_definition"
   },
   {
@@ -644,8 +644,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "LII",
-    "start_char": 22939,
-    "end_char": 23045,
+    "start_char": 22940,
+    "end_char": 23046,
     "basis": "express_definition"
   },
   {
@@ -655,8 +655,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "LIII",
-    "start_char": 23045,
-    "end_char": 23279,
+    "start_char": 23046,
+    "end_char": 23280,
     "basis": "express_definition"
   },
   {
@@ -666,8 +666,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "LIII Bis",
-    "start_char": 23279,
-    "end_char": 23467,
+    "start_char": 23280,
+    "end_char": 23468,
     "basis": "express_definition"
   },
   {
@@ -677,8 +677,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "LIV",
-    "start_char": 23467,
-    "end_char": 23795,
+    "start_char": 23468,
+    "end_char": 23796,
     "basis": "express_definition"
   },
   {
@@ -688,8 +688,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "LV",
-    "start_char": 23795,
-    "end_char": 24127,
+    "start_char": 23796,
+    "end_char": 24128,
     "basis": "express_definition"
   },
   {
@@ -699,8 +699,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "LVI",
-    "start_char": 24127,
-    "end_char": 24460,
+    "start_char": 24128,
+    "end_char": 24461,
     "basis": "express_definition"
   },
   {
@@ -710,8 +710,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "LVII",
-    "start_char": 24460,
-    "end_char": 24857,
+    "start_char": 24461,
+    "end_char": 24858,
     "basis": "express_definition"
   },
   {
@@ -721,8 +721,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "LVII Bis",
-    "start_char": 24857,
-    "end_char": 25201,
+    "start_char": 24858,
+    "end_char": 25202,
     "basis": "express_definition"
   },
   {
@@ -732,8 +732,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "LVIII",
-    "start_char": 25201,
-    "end_char": 25818,
+    "start_char": 25202,
+    "end_char": 25819,
     "basis": "express_definition"
   },
   {
@@ -743,8 +743,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "LIX",
-    "start_char": 25818,
-    "end_char": 26077,
+    "start_char": 25819,
+    "end_char": 26078,
     "basis": "express_definition"
   },
   {
@@ -754,8 +754,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "LX",
-    "start_char": 26077,
-    "end_char": 26216,
+    "start_char": 26078,
+    "end_char": 26217,
     "basis": "express_definition"
   },
   {
@@ -765,8 +765,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "LXI",
-    "start_char": 26216,
-    "end_char": 26352,
+    "start_char": 26217,
+    "end_char": 26353,
     "basis": "express_definition"
   },
   {
@@ -776,8 +776,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "LXI Bis",
-    "start_char": 26352,
-    "end_char": 26494,
+    "start_char": 26353,
+    "end_char": 26495,
     "basis": "express_definition"
   },
   {
@@ -787,8 +787,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "LXII",
-    "start_char": 26494,
-    "end_char": 26960,
+    "start_char": 26495,
+    "end_char": 26961,
     "basis": "express_definition"
   },
   {
@@ -798,8 +798,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "LXIII",
-    "start_char": 26960,
-    "end_char": 27397,
+    "start_char": 26961,
+    "end_char": 27398,
     "basis": "express_definition"
   },
   {
@@ -809,8 +809,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "LXIV",
-    "start_char": 27397,
-    "end_char": 27850,
+    "start_char": 27398,
+    "end_char": 27851,
     "basis": "express_definition"
   },
   {
@@ -820,8 +820,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "LXV",
-    "start_char": 27850,
-    "end_char": 28287,
+    "start_char": 27851,
+    "end_char": 28288,
     "basis": "express_definition"
   },
   {
@@ -831,8 +831,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lan",
     "defining_provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "fraction": "LXVI",
-    "start_char": 28287,
-    "end_char": 28774,
+    "start_char": 28288,
+    "end_char": 28775,
     "basis": "express_definition"
   }
 ]

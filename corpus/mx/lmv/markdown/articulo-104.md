@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título IV · Capítulo III
+
 # Artículo 104
 
 Las emisoras con valores inscritos en el [Registro](articulo-2.md) estarán obligadas a presentar a la [Comisión](articulo-2.md) y a la bolsa en la que listen sus valores, información relevante para su difusión inmediata al público en general a través de esta última, mediante los reportes que a continuación se indican:
@@ -27,7 +29,7 @@ III. Reportes anuales que comprendan: a) Los estados financieros anuales o sus e
 
 Los reportes y el dictamen del auditor externo referidos en esta fracción, deberán cumplir, según corresponda, con los requisitos previstos en los artículos [87](articulo-87.md), fracción I, y [88](articulo-88.md), fracciones II y IV, de esta Ley.
 
-Cuando el informe a que se refiere esta fracción se presente a la aprobación de la asamblea de accionistas que se celebre con motivo del cierre del ejercicio social, podrá utilizarse en sustitución de aquél al que se refiere el artículo 172 de la Ley General de Sociedades Mercantiles, siempre que dicho informe contenga la información a que hace referencia la fracción IV del artículo [28](articulo-28.md) de esta Ley.
+Cuando el informe a que se refiere esta fracción se presente a la aprobación de la asamblea de accionistas que se celebre con motivo del cierre del ejercicio social, podrá utilizarse en sustitución de aquél al que se refiere el artículo [172](../../lgsm/markdown/articulo-172.md) de la Ley General de Sociedades Mercantiles, siempre que dicho informe contenga la información a que hace referencia la fracción IV del artículo [28](articulo-28.md) de esta Ley.
 
 b) Lo establecido en el artículo [43](articulo-43.md) de esta Ley, en relación con las actividades de los comités que desempeñen las funciones en materia de prácticas societarias y de auditoría.
 
@@ -45,7 +47,7 @@ Para efectos de lo dispuesto en esta fracción se entenderá por valor nocional 
 
 VII. Los demás que contengan la información y documentación que determine la Comisión, mediante disposiciones de carácter general.
 
-Los estados financieros de las emisoras deberán elaborarse conforme a principios de contabilidad emitidos o reconocidos por la Comisión. Las sociedades anónimas cuyas acciones representativas del capital social o títulos de crédito que las representen se encuentren inscritas en el Registro, estarán exceptuadas del requisito de publicar sus estados financieros, conforme lo establece el artículo 177 de la Ley General de Sociedades Mercantiles. Tratándose de títulos fiduciarios, la información a que se refiere este artículo deberá proporcionarse respecto del patrimonio fideicomitido. Cuando el cumplimiento de las obligaciones en relación con los valores que se emitan al amparo del fideicomiso dependa total o parcialmente del fideicomitente, del administrador del patrimonio fideicomitido, del garante o avalista o de cualquier otro tercero, éstos deberán presentar la información que la Comisión determine mediante disposiciones de carácter general, en relación con los aspectos a que se refiere este artículo.
+Los estados financieros de las emisoras deberán elaborarse conforme a principios de contabilidad emitidos o reconocidos por la Comisión. Las sociedades anónimas cuyas acciones representativas del capital social o títulos de crédito que las representen se encuentren inscritas en el Registro, estarán exceptuadas del requisito de publicar sus estados financieros, conforme lo establece el artículo [177](../../lgsm/markdown/articulo-177.md) de la Ley General de Sociedades Mercantiles. Tratándose de títulos fiduciarios, la información a que se refiere este artículo deberá proporcionarse respecto del patrimonio fideicomitido. Cuando el cumplimiento de las obligaciones en relación con los valores que se emitan al amparo del fideicomiso dependa total o parcialmente del fideicomitente, del administrador del patrimonio fideicomitido, del garante o avalista o de cualquier otro tercero, éstos deberán presentar la información que la Comisión determine mediante disposiciones de carácter general, en relación con los aspectos a que se refiere este artículo.
 
 Las entidades federativas; los municipios; los organismos descentralizados de orden federal, estatal o municipal; las sociedades nacionales de crédito; las fiduciarias de fideicomisos al amparo de los cuales se emitan títulos de crédito que representen acciones del capital social de dos o más personas morales; las sociedades extranjeras, y las entidades del exterior u organismos distintos de los mencionados en el artículo [93](articulo-93.md), fracción IV, de esta Ley, presentarán la misma información a que se refiere este artículo o, en su caso, aquélla que la sustituya o sea equivalente, de conformidad con las disposiciones de carácter general que expida la Comisión.
 

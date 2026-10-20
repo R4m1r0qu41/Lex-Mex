@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título VI · Capítulo I
+
 # Artículo 116
 
 Las casas de bolsa deberán acreditar a la [Comisión](articulo-2.md), con al menos treinta días hábiles de anticipación al inicio de sus operaciones o con motivo de la posterior incorporación a su objeto social de una o más de las actividades o servicios referidos en el artículo [171](articulo-171.md) de esta Ley, el cumplimiento de los requisitos siguientes:

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf
 source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 ---
 
+> Capítulo V · Sección IV
+
 # Artículo 38
 
 Las multas que las [Autoridades](articulo-3.md) impongan conforme a esta Ley, deberán ser pagadas dentro de los quince días hábiles siguientes a la fecha de su notificación. Cuando las multas no se paguen dentro del plazo señalado, el monto de las mismas se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe, en los términos que establece el Código Fiscal de la Federación para este tipo de supuestos.

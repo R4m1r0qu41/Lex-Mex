@@ -21,10 +21,10 @@ Las infracciones que consistan en realizar operaciones prohibidas o no autorizad
 
 II. Multa del 5% hasta el 15% del importe de la operación de que se trate, o en caso de que no se pueda determinar el monto de la operación, de 30,000 a 100,000 días de salario, a las instituciones de crédito que contravengan lo dispuesto por las fracciones III, IV, X, XVI, XVII y XIX, incisos b), c), d), e), f) y h) del artículo [106](articulo-106.md) de esta Ley, o las disposiciones de carácter general que de tales preceptos emanen, según se trate.
 
-En caso de que alguna de las infracciones contenidas en los artículos [108](articulo-108.md) y 108 Bis de esta Ley genere un daño patrimonial, o un beneficio, se podrá imponer la sanción que corresponda adicionando a la misma hasta una y media veces el equivalente a dicho daño o al beneficio obtenido por el infractor, lo que resulte mayor. Se entenderá por beneficio la ganancia obtenida o la pérdida evitada para sí o para un
-
-tercero.
+En caso de que alguna de las infracciones contenidas en los artículos [108](articulo-108.md) y 108 Bis de esta Ley genere un daño patrimonial, o un beneficio, se podrá imponer la sanción que corresponda adicionando a la misma hasta una y media veces el equivalente a dicho daño o al beneficio obtenido por el infractor, lo que resulte mayor. Se entenderá por beneficio la ganancia obtenida o la pérdida evitada para sí o para un tercero.
 
 Artículo adicionado DOF 06-02-2008. Reformado DOF 10-01-2014
 
 Nota: el Artículo 108 Bis anterior fue reformado en dos ocasiones por el mismo Decreto publicado en el DOF 10-01-2014. El Artículo Décimo Primero de dicho Decreto reformó la fracción I, mientras que el Artículo Trigésimo Primero reformó en su totalidad el artículo 108 Bis, dejando sin efecto la primera modificación establecida en el
+
+Artículo Décimo Primero del citado Decreto.

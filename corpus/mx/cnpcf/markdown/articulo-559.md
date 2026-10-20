@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 559
 
 Cuando la persona que tenga a su cuidado a la niña, niño o adolescente se niegue a presentarlo a la audiencia señalada para su comparecencia, alegando cualquier causa, se harán efectivos los apercibimientos decretados con anterioridad, y de considerarse viable se señalará nuevo día y hora dentro del término de veinte días en el que la autoridad jurisdiccional, el Ministerio Público y demás personas que deban intervenir, se trasladen al domicilio donde habita la niña, niño o adolescente para llevar a cabo la diligencia referida, en su caso.

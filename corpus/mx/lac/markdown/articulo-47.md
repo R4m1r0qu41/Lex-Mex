@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo X
+
 # Artículo 47
 
 El Registro Aeronáutico Mexicano es público, está a cargo de la [Agencia Federal de Aviación Civil](articulo-2.md), y deben inscribirse: Párrafo reformado DOF 03-05-2023
@@ -30,5 +32,3 @@ V. Las pólizas de seguro, y Fracción reformada DOF 18-06-2018
 VI. Los documentos por los cuales se adquiera, transmita, modifique, grave o extinga la propiedad, la posesión y los demás derechos reales sobre las aeronaves civiles pilotadas a distancia conforme a lo especificado en la norma oficial mexicana correspondiente. Fracción adicionada DOF 18-06-2018
 
 El reglamento respectivo determinará los requisitos a que deberán sujetarse las inscripciones, las cancelaciones y las certificaciones que deban expedirse.
-
-Capítulo X Bis De los derechos y las obligaciones de los pasajeros Capítulo adicionado DOF 26-06-2017

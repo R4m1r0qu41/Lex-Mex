@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Único · Capítulo II
+
 # Artículo 1018
 
 Cuando la sentencia ejecutoriada ordene la entrega de personas, la autoridad jurisdiccional dictará de inmediato los decretos para su debido cumplimiento, contra dicha resolución no procede recurso ordinario alguno.

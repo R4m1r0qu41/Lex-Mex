@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título XV · Capítulo I
+
 # Artículo 389 Bis
 
 Los procedimientos administrativos de revocación de concesiones o autorizaciones referidos por los artículos [153](articulo-153.md), [268](articulo-268.md), [269](articulo-269.md), [298](articulo-298.md), [299](articulo-299.md), [319](articulo-319.md), [320](articulo-320.md), [332](articulo-332.md) y [340](articulo-340.md) de esta Ley, se sujetarán a lo dispuesto por los artículos [389](articulo-389.md) y [391](articulo-391.md) de esta Ley en lo que resulte aplicable.

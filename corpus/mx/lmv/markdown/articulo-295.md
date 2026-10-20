@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título X · Capítulo I
+
 # Artículo 295
 
 Las instituciones para el depósito de valores en ningún caso podrán dar noticias o información de los depósitos y demás operaciones o servicios que realicen o en las que intervengan, sino al depositante, a sus representantes legales o quienes tengan otorgado poder para disponer de la cuenta o para intervenir en la operación o servicio, salvo cuando las pidieren, la autoridad judicial en virtud de providencia dictada en juicio en el que el depositante sea parte o acusado y las autoridades hacendarias federales, por conducto de la [Comisión](articulo-2.md), para fines fiscales.

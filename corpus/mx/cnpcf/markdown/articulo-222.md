@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo VIII
+
 # Artículo 222
 
 En caso de que no se hubieran remitido por medio electrónico para su gestión, los tribunales pueden acordar que los exhortos y despachos que manden expedir se entreguen, para hacerlos llegar a su destino, a la parte interesada que hubiere solicitado la práctica de la diligencia.

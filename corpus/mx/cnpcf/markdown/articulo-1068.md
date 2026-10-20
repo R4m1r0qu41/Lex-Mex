@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Único · Capítulo IV
+
 # Artículo 1068
 
 En el caso de bienes inmuebles el valuador deberá considerar en su dictamen las características físicas, económicas, plusvalía, contexto y zona sociodemográfica en la que se encuentra el inmueble, el precio del mercado inmobiliario y todo aquel otro elemento que sirva para determinar el valor comercial del mismo.

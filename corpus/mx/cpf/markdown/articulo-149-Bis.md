@@ -28,7 +28,3 @@ Se aplicarán las mismas sanciones señaladas en el párrafo anterior, a quien c
 En caso de que los responsables de dichos delitos fueran gobernantes, funcionarios o empleados públicos y las cometieren en ejercicio de sus funciones o con motivo de ellas, además de las sanciones establecidas en este artículo se les aplicarán las penas señaladas en el artículo 15 de la Ley de Responsabilidades de los Funcionarios y Empleados de la Federación.
 
 Artículo adicionado DOF 20-01-1967
-
-Título Tercero Bis Delitos contra la Dignidad de las Personas Título adicionado DOF 14-06-2012
-
-Capítulo Único Discriminación Capítulo adicionado DOF 14-06-2012

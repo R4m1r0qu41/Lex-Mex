@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Único · Capítulo II
+
 # Artículo 1005
 
 Cuando se trate de sentencia que condene a no hacer, su ejecución consistirá en notificar, al sentenciado, que a partir del cumplimiento del término que en ella misma se señale, o del que, en su defecto, le fije la autoridad jurisdiccional prudentemente, se abstenga de hacer lo que se le prohíba. Lo mismo se observará cuando la obligación de no hacer constare en cualquier otro título que motive ejecución.

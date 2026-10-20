@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CFPC.pdf
 source_sha256: db545f3918f1c1907dac23d6431d5076c8de91af1fbf97dcf5b5b2a68b165299
 ---
 
-> Título UNICO · Capítulo VI
+> Título Único · Capítulo IX
 
 # Artículo 618
 
@@ -28,5 +28,3 @@ El juez tomará en consideración el trabajo realizado y la complejidad del mism
 III. Si la condena no fuere cuantificable, el juez determinará el monto de los honorarios, tomando en consideración los criterios establecidos en el segundo párrafo de la fracción anterior.
 
 Artículo adicionado DOF 30-08-2011
-
-Capítulo X De las Asociaciones Capítulo adicionado DOF 30-08-2011

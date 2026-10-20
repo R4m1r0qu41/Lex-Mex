@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf
 source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 ---
 
+> Capítulo III
+
 # Artículo 33
 
 La información de productos importados expresará su lugar de origen y, en su caso, los lugares donde puedan repararse, así como las instrucciones para su uso y las garantías correspondientes, en los términos señalados por esta ley.

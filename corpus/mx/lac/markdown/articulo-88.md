@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo XIX
+
 # Artículo 88
 
 Se impondrá sanción a la persona comandante o piloto de cualquier aeronave civil por: Párrafo reformado DOF 03-05-2023
@@ -25,7 +27,9 @@ III. No aterrizar en los aeropuertos internacionales autorizados en casos de vue
 
 IV. Transportar cadáveres o personas que por la naturaleza de su enfermedad presenten riesgo para los demás pasajeros, sin la autorización correspondiente, multa de un mil a cinco mil Unidades de Medida y Actualización; Fracción reformada DOF 18-06-2018
 
-V. Abandonar la aeronave, la tripulación, los pasajeros, la carga y demás efectos, en lugar que no sea la terminal del vuelo y sin causa justificada, multa de quinientas a cinco mil Unidades de Medida y Actualización; Fracción reformada DOF 18-06-2018 VI. Realizar vuelos acrobáticos, rasantes o de exhibición en lugares prohibidos, multa de quinientas a cinco mil Unidades de Medida y Actualización; Fracción reformada DOF 18-06-2018
+V. Abandonar la aeronave, la tripulación, los pasajeros, la carga y demás efectos, en lugar que no sea la terminal del vuelo y sin causa justificada, multa de quinientas a cinco mil Unidades de Medida y Actualización; Fracción reformada DOF 18-06-2018
+
+VI. Realizar vuelos acrobáticos, rasantes o de exhibición en lugares prohibidos, multa de quinientas a cinco mil Unidades de Medida y Actualización; Fracción reformada DOF 18-06-2018
 
 VII. Tripular la aeronave sin licencia, multa de quinientas a cinco mil Unidades de Medida y Actualización. En caso de acreditar dentro de los tres días hábiles siguientes a la fecha del evento, que se contaba con licencia vigente, se aplicará una multa de cien a doscientas Unidades de Medida y Actualización; Fracción reformada DOF 28-12-2001, 18-06-2018
 

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 657
 
 Presentada la solicitud y el convenio o manifestación a que alude el [artículo anterior](articulo-656.md), cumplidas en su caso las prevenciones, se le dará vista a la persona Agente del Ministerio Público de la adscripción en caso de afectarse derechos de niñas, niños o adolescentes y la autoridad jurisdiccional admitirá el trámite y citará a los cónyuges, dentro de los diez días siguientes, a una única audiencia.

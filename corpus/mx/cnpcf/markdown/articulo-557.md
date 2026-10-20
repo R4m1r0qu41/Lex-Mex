@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 557
 
 Tratándose de trámites en los que se encuentren involucrados los derechos de niñas, niños y adolescentes, la autoridad jurisdiccional, proveerá al efecto y de manera inmediata los ajustes razonables que se requiera en debida observancia del principio de interés superior de las niñas, niños y adolescentes, de conformidad con lo siguiente:

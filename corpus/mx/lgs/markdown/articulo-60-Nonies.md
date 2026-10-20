@@ -21,7 +21,7 @@ El Plan Maestro Nacional de Infraestructura en Salud y Equipamiento Médico de A
 
 Artículo adicionado DOF 15-01-2026
 
-Artículo [60](articulo-60.md) Decies.- La Secretaría de Salud en la planeación de la creación, la sustitución y la ampliación de unidades médicas, así como el equipamiento médico de alta tecnología, promoverá el incremento de la cobertura de los servicios de salud de manera sistemática y ordenada.
+Artículo 60 Decies.- La Secretaría de Salud en la planeación de la creación, la sustitución y la ampliación de unidades médicas, así como el equipamiento médico de alta tecnología, promoverá el incremento de la cobertura de los servicios de salud de manera sistemática y ordenada.
 
 Las instituciones públicas federales del Sistema Nacional de Salud deberán identificar las necesidades sobre infraestructura para la prestación de servicios de salud a que se refiere el párrafo anterior tomando en consideración los programas y proyectos de inversión en proceso de realización, así como aquellos susceptibles de ejecutarse en el corto, mediano y largo plazo, con la finalidad de que dichos proyectos se integren al mecanismo de planeación correspondiente.
 

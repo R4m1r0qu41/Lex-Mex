@@ -31,7 +31,7 @@ V. Intercambiar información con alguno de los objetos o efectos a que se refier
 
 El delito previsto en este artículo se perseguirá por querella de la Comisión Federal de Competencia Económica o del Instituto Federal de Telecomunicaciones, según corresponda, la cual sólo podrá formularse con el dictamen de probable responsabilidad, en los términos de lo dispuesto en la Ley Federal de Competencia Económica.
 
-No existirá responsabilidad penal para los agentes económicos que se acojan al beneficio a que se refiere el artículo 103 de la Ley Federal de Competencia Económica, previa resolución de la Comisión Federal de Competencia Económica o del Instituto Federal de Telecomunicaciones que determine que cumple con los términos establecidos en dicha disposición y las demás aplicables.
+No existirá responsabilidad penal para los agentes económicos que se acojan al beneficio a que se refiere el artículo [103](../../lfce/markdown/articulo-103.md) de la Ley Federal de Competencia Económica, previa resolución de la Comisión Federal de Competencia Económica o del Instituto Federal de Telecomunicaciones que determine que cumple con los términos establecidos en dicha disposición y las demás aplicables.
 
 Los procesos seguidos por este delito se podrán sobreseer a petición del Pleno de la Comisión Federal de Competencia Económica o del Instituto Federal de Telecomunicaciones, cuando los procesados cumplan las sanciones administrativas impuestas y, además se cumplan los requisitos previstos en los criterios técnicos emitidos por la Comisión Federal de Competencia Económica o el Instituto Federal de Telecomunicaciones.
 

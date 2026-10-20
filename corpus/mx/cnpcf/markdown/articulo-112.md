@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 112
 
 En tanto se califica o decide la recusación, se suspenderá la jurisdicción de la autoridad jurisdiccional, excepto para la fijación de la garantía y admisión de la recusación; así como para el dictado de las medidas provisionales sobre alimentos, separación de personas o aquellas que afecten derechos de las niñas, niños o adolescentes, y demás personas que pertenezcan a grupos sociales en situación de vulnerabilidad, o a las que se refieren a providencias cautelares o diligencias de ejecución.

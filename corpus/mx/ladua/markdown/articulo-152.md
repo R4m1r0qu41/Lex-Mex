@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
-> Capítulo II · Sección TERCERA
+> Título Sexto · Capítulo Unico
 
 # Artículo 152
 
@@ -21,7 +21,9 @@ En los casos en que con motivo del reconocimiento aduanero, de la verificación 
 
 Tratándose de mercancías de difícil identificación, que requiera la toma de muestras a fin de identificar su composición cualitativa o cuantitativa, uso, proceso de obtención o características físicas, se realizará dicha toma de acuerdo con el procedimiento que al efecto prevé el reglamento, para su análisis y dictamen conducentes. Párrafo adicionado DOF 27-01-2012
 
-Una vez obtenido el dictamen correspondiente, resultado del análisis practicado a las muestras de mercancías de difícil identificación, se notificarán al interesado mediante escrito o acta circunstanciada, los hechos u omisiones advertidos, dentro del plazo de seis meses contados a partir del acta de toma de muestras correspondientes, y se continuará el procedimiento conforme a lo establecido en el presente artículo. Párrafo adicionado DOF 27-01-2012 Cuando no se requiera la toma de muestras para su identificación, la autoridad aduanera dará a conocer mediante escrito o acta circunstanciada, los hechos u omisiones que impliquen la omisión de contribuciones, cuotas compensatorias y, en su caso, la imposición de sanciones. Párrafo reformado DOF 27-01-2012
+Una vez obtenido el dictamen correspondiente, resultado del análisis practicado a las muestras de mercancías de difícil identificación, se notificarán al interesado mediante escrito o acta circunstanciada, los hechos u omisiones advertidos, dentro del plazo de seis meses contados a partir del acta de toma de muestras correspondientes, y se continuará el procedimiento conforme a lo establecido en el presente artículo. Párrafo adicionado DOF 27-01-2012
+
+Cuando no se requiera la toma de muestras para su identificación, la autoridad aduanera dará a conocer mediante escrito o acta circunstanciada, los hechos u omisiones que impliquen la omisión de contribuciones, cuotas compensatorias y, en su caso, la imposición de sanciones. Párrafo reformado DOF 27-01-2012
 
 Dentro del escrito o acta circunstanciada levantada en los términos de los párrafos tercero y cuarto de este artículo, deberá señalarse que el interesado cuenta con un plazo de diez días hábiles, contados a partir del día siguiente a aquel en que surta efectos la notificación del escrito o acta, a fin de ofrecer las pruebas y formular los alegatos que a su derecho convenga. Párrafo adicionado DOF 27-01-2012
 

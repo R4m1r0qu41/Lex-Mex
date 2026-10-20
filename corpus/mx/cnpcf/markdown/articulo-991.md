@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Único · Capítulo II
+
 # Artículo 991
 
 Tratándose de prestaciones económicas sin cuantificar, en la audiencia de cumplimiento las partes podrán realizar adicionalmente las propuestas para efecto de su liquidación; quienes además podrán acordar el plazo, forma y modo para su cumplimiento.

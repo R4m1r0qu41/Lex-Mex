@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
+> Título Segundo · Capítulo III
+
 # Artículo 37
 
 Los interesados podrán transmitir en documento electrónico a las autoridades aduaneras, un solo pedimento que ampare diversas operaciones de un solo contribuyente, al que se denominará pedimento consolidado, en los siguientes casos:

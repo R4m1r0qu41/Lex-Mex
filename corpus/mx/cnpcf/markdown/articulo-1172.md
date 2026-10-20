@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Capítulo II · Sección Quinta
+
 # Artículo 1172
 
 Durante una videoconferencia solo podrán permanecer en la sala de audiencia los interesados y deberá privilegiarse la privacidad y deberá grabarse la videoconferencia desde su inicio hasta su conclusión. Para su ejecución se tomarán en cuenta las siguientes reglas:
@@ -26,5 +28,3 @@ c) La autoridad requirente tomará la protesta o juramento de que el declarante 
 d) Durante la audiencia podrán presentarse aquellos documentos que se pongan a la vista del declarante para su reconocimiento. Podrá recurrirse a cualquier tipo de tecnología que permita la transmisión de cualquier tipo de datos, y
 
 e) El examen lo hará la autoridad requirente o los abogados reconocidos ante ésta. Las preguntas podrán ser objetadas por el requirente o el requerido, cuando no sean admisibles acorde al orden jurídico mexicano.
-
-Sección Sexta De la Información del Derecho Extranjero

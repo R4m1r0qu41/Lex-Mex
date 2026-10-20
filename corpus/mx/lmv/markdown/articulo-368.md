@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título XIV · Capítulo I
+
 # Artículo 368
 
 Se prohíbe la difusión de información falsa o que induzca a error sobre valores, o bien, respecto de la situación financiera, administrativa, económica, operacional o jurídica de una emisora o emisora simplificada, a través de prospectos de colocación, suplementos, folletos, reportes y demás documentos informativos y, en general, de cualquier medio masivo de comunicación.

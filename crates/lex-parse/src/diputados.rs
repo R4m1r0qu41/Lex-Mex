@@ -153,6 +153,12 @@ pub(crate) fn parse_transitory_start<'a>(
         .unwrap_or(block);
     for ordinal in ordinals {
         if let Some((matched, rest)) = strip_prefix_ci(after_prefix, ordinal) {
+            // A heading capitalizes its ordinal; `décimo. Asimismo, …` is the
+            // tail of a sentence carried over a page break (cpf, DOF
+            // 16-06-2016, transitory Décimo Primero).
+            if !matched.starts_with(char::is_uppercase) {
+                return None;
+            }
             for separator in [".-", ".", "-", ":"] {
                 if let Some(body) = rest.strip_prefix(separator) {
                     return Some((matched, body.trim()));
@@ -219,7 +225,10 @@ fn heading_letter_suffix(after: &str) -> Option<(String, &str)> {
     // A digraph (`CH`, `LL`, `RR`) is one letter here, as in `26-LL`.
     let first = body.chars().next()?;
     if !first.is_uppercase() {
-        return None;
+        return after
+            .starts_with(' ')
+            .then(|| lowercase_letter_suffix(body))
+            .flatten();
     }
     let letter = labels::match_suffix_token_at(body)?;
     let rest = &body[letter.len()..];
@@ -241,6 +250,40 @@ fn heading_letter_suffix(after: &str) -> Option<(String, &str)> {
         }
         _ => None,
     }
+}
+
+/// A quoted block that opens with an article heading word (`Artículo
+/// Segundo.`), numbered or ordinal.
+fn is_article_shaped_word(block: &str) -> bool {
+    ["Artículo ", "ARTÍCULO ", "ARTICULO ", "Articulo "]
+        .iter()
+        .any(|prefix| block.starts_with(prefix))
+}
+
+/// A block that opens like an article heading (`Artículo 228 a.- …`),
+/// whether or not the grammar reads it.
+fn is_article_shaped(block: &str) -> bool {
+    ["Artículo ", "ARTÍCULO ", "ARTICULO ", "Articulo "]
+        .iter()
+        .find_map(|prefix| block.strip_prefix(prefix))
+        .is_some_and(|rest| rest.starts_with(|c: char| c.is_ascii_digit()))
+}
+
+/// LGTOC prints `Artículo 228 a.-` and `Artículo 228 a bis.-`: a lower-case
+/// suffix letter after a space, accepted only when the heading separator
+/// `.-` closes it at once, so a body word is never read as a suffix.
+fn lowercase_letter_suffix(body: &str) -> Option<(String, &str)> {
+    let letter = body.chars().next().filter(char::is_ascii_lowercase)?;
+    let rest = &body[1..];
+    if rest.starts_with(".-") {
+        return Some((letter.to_string(), rest));
+    }
+    let tail = rest.strip_prefix(' ')?;
+    let qualifier = labels::match_qualifier_word_at(tail)?;
+    let remainder = &tail[qualifier.len()..];
+    remainder
+        .starts_with(".-")
+        .then(|| (format!("{letter} {qualifier}"), remainder))
 }
 
 /// `Artículo 15-D.- body`, `ARTICULO 1o. body`, `Artículo 4o.-A.- body`,
@@ -787,6 +830,10 @@ fn normalized_blocks(
             .expect("static regex");
     let amendment_mark_end =
         Regex::new(r"(?i)\bDOF\s+\d{2}-\d{2}-\d{4}[.,;:]?$").expect("static regex");
+    // A signature closes its decree, so the next page's text is a new block
+    // (cff: `…Santiago Creel Miranda.- Rúbrica.` then, after the page
+    // break, the next appendix title).
+    let signature_end = Regex::new(r#"(?i)\br[úu]bricas?\.?["”]?\.?$"#).expect("static regex");
     let mut blocks = Vec::new();
     let mut current = String::new();
     let mut pending_blank = false;
@@ -820,7 +867,9 @@ fn normalized_blocks(
             pending_blank = false;
             continue;
         }
-        if crossed_page_furniture && amendment_mark_end.is_match(&current) {
+        if crossed_page_furniture
+            && (amendment_mark_end.is_match(&current) || signature_end.is_match(&current))
+        {
             flush_block(&mut current, &mut blocks);
             crossed_page_furniture = false;
         }
@@ -1375,7 +1424,22 @@ pub fn parse_diputados_publication(
     let mut seen_ordinals: std::collections::HashSet<String> = std::collections::HashSet::new();
 
     let mut singleton_closed = false;
+    let mut preamble_quote_depth: usize = 0;
     for block in blocks {
+        // Before the instrument's first article, a cover note may quote
+        // another decree's articles (cfpc: "Nota sobre la vigencia…: “Artículo
+        // Segundo. … Artículo Tercero. …”"). A block that opens such a quoted
+        // article, or continues its quotation, is preamble, never an article.
+        // A quoted enacting formula (lgdlpi: `“EL CONGRESO…`) is not one.
+        if provisions.is_empty() && current.is_none() {
+            let opens = block.strip_prefix('“').is_some_and(is_article_shaped_word);
+            if preamble_quote_depth > 0 || opens {
+                let opened = block.matches('“').count();
+                let closed = block.matches('”').count();
+                preamble_quote_depth = (preamble_quote_depth + opened).saturating_sub(closed);
+                continue;
+            }
+        }
         if in_substantive_annex {
             // Annex contents may quote appendix headings, errata or judgments.
             // Only an explicitly configured block-prefix boundary ends this
@@ -1602,6 +1666,16 @@ pub fn parse_diputados_publication(
                 // current provision's body instead of restarting the count.
                 let regresses =
                     matches!((base, last_article_base), (Some(b), Some(last)) if b < last);
+                // With no provision open (just after a structural heading)
+                // there is no body to quote into, so the heading would be
+                // silently lost.
+                if regresses && current.is_none() {
+                    bail!(
+                        "{}: article {number} follows article {} after a heading, with no provision to hold it",
+                        options.instrument_id,
+                        last_article_base.unwrap_or_default()
+                    );
+                }
                 if !regresses {
                     if let Some(builder) = current.take() {
                         provisions.push(builder.finish(
@@ -1619,6 +1693,15 @@ pub fn parse_diputados_publication(
 
         if let Some(builder) = &mut current {
             builder.push_block(&block);
+        } else if !provisions.is_empty() && is_article_shaped(&block) {
+            // After a structural heading no provision is open, so an article
+            // the grammar did not read (lgtoc's `Artículo 228 a.-` before its
+            // suffix was read) would be silently discarded.
+            bail!(
+                "{}: unread article heading after a structural heading: {:?}",
+                options.instrument_id,
+                block.chars().take(100).collect::<String>()
+            );
         } else if let Some(label) = singleton_heading
             .as_ref()
             .filter(|_| in_statute_transitories)
@@ -1802,9 +1885,22 @@ fn reform_act_heading_kind(block: &str) -> Option<&'static str> {
     // source text.
     } else if is_reform_ley_heading(block) || is_short_ley_title_line(block) {
         Some("Ley")
+    } else if is_reforms_heading(block) {
+        Some("Reformas")
     } else {
         None
     }
+}
+
+/// An appendix entry titled by its reforms (cpf: `REFORMAS al Código Penal
+/// para el Distrito y Territorios Federal.`, DOF 14-01-1966), in the same
+/// uppercase-name/lowercase-connector style as `DECRETO que` and
+/// `REGLAMENTO de`.
+fn is_reforms_heading(block: &str) -> bool {
+    ["REFORMAS ", "REFORMA "]
+        .iter()
+        .find_map(|prefix| block.strip_prefix(prefix))
+        .is_some_and(|rest| rest.starts_with(|c: char| c.is_lowercase()))
 }
 
 /// Whether a block is exactly this instrument's running header, which by
@@ -1848,6 +1944,13 @@ pub fn extract_reform_evidence(
     let publication_re = Regex::new(
         r"(?i)publicad[oa] en (?:el|la) (?:Diario Oficial de la Federación|DOF) (?:el )?(\d{1,2})[oº]? de ([a-zá-úñ]+) (?:de )?(\d{4})",
     )?;
+    // An appendix title of any form followed by its publication note, in
+    // one block (cff: `VIGESIMA Cuarta Resolución de Modificaciones a la
+    // Resolución Miscelánea Fiscal para 2000 y anexos 5, 7 y 14. Publicada
+    // en el Diario Oficial de la Federación el 12 de febrero de 2002`).
+    let titled_by_note = Regex::new(
+        r"\S.*\s+Publicad[oa] en el Diario Oficial de la Federación el \d{1,2}[oº]? de [a-záéíóúñ]+ (?:de )?\d{4}\.?$",
+    )?;
     let mut in_reform_appendix = false;
     let mut in_substantive_annex = false;
     let mut in_judicial_appendix = false;
@@ -1857,6 +1960,7 @@ pub fn extract_reform_evidence(
     let mut act_kind: Option<&'static str> = None;
     let mut decree_occurrence: Option<usize> = None;
     let mut transitory_section_occurrence = 0;
+    let mut section_ordinals: std::collections::HashSet<String> = std::collections::HashSet::new();
     let mut decrees_by_date: std::collections::HashMap<NaiveDate, usize> =
         std::collections::HashMap::new();
     let mut current: Option<ReformEvidenceBuilder> = None;
@@ -1926,7 +2030,20 @@ pub fn extract_reform_evidence(
             && !in_transitories
             && names_this_instrument(&block, options)
             && decree_publication_date(&block, &publication_re).is_none();
-        if !section_of_open_decree && let Some(kind) = reform_act_heading_kind(&block) {
+        // While an act with a date is open, a further title with its own
+        // publication note starts the next act even when its form is not
+        // otherwise recognized.
+        let noted_title =
+            (publication_date.is_some() && titled_by_note.is_match(&block)).then(|| {
+                if block.contains("Resolución") {
+                    "Resolución"
+                } else {
+                    "Acto"
+                }
+            });
+        if !section_of_open_decree
+            && let Some(kind) = reform_act_heading_kind(&block).or(noted_title)
+        {
             flush_reform(&options.instrument_id, &mut current, &mut evidence);
             in_transitories = false;
             publication_date = None;
@@ -1956,6 +2073,7 @@ pub fn extract_reform_evidence(
             }
             in_transitories = true;
             transitory_section_occurrence += 1;
+            section_ordinals.clear();
             continue;
         }
         if !in_transitories {
@@ -1974,6 +2092,18 @@ pub fn extract_reform_evidence(
             // not operative decree articles.
             .or_else(|| parse_article_start(&block));
         if let Some((ordinal, body)) = transitory_start {
+            // An omnibus decree goes on with its operative articles after one
+            // law's transitories (cff, DOF 15-12-1995: `Cuarto.` then
+            // `Artículo Cuarto. Se realizan las modificaciones siguientes al
+            // Código Fiscal…`). An `Artículo` heading that repeats an ordinal
+            // already read in this section is such an article, so the section
+            // has ended.
+            let repeated = !section_ordinals.insert(slug(&ordinal));
+            if repeated && is_article_shaped_word(&block) {
+                flush_reform(&options.instrument_id, &mut current, &mut evidence);
+                in_transitories = false;
+                continue;
+            }
             flush_reform(&options.instrument_id, &mut current, &mut evidence);
             let date = publication_date.ok_or_else(|| {
                 anyhow::anyhow!(
@@ -2068,6 +2198,16 @@ mod tests {
         include_str!("../../../fixtures/diputados/reform-bare-ley-title-sample.txt");
     const REFORM_UPPERCASE_LEY_TITLE_FIXTURE: &str =
         include_str!("../../../fixtures/diputados/reform-uppercase-ley-title-sample.txt");
+    const COVER_NOTE_QUOTED_DECREE_ARTICLES_FIXTURE: &str =
+        include_str!("../../../fixtures/diputados/cover-note-quoted-decree-articles-sample.txt");
+    const ARTICLE_LOWERCASE_LETTER_SUFFIX_FIXTURE: &str =
+        include_str!("../../../fixtures/diputados/article-lowercase-letter-suffix-sample.txt");
+    const REFORM_OMNIBUS_OPERATIVE_ARTICLE_AND_RESOLUTION_FIXTURE: &str = include_str!(
+        "../../../fixtures/diputados/reform-omnibus-operative-article-and-resolution-sample.txt"
+    );
+    const REFORM_REFORMAS_TITLE_AND_PAGE_SPLIT_ORDINAL_FIXTURE: &str = include_str!(
+        "../../../fixtures/diputados/reform-reformas-title-and-page-split-ordinal-sample.txt"
+    );
     const REFORM_OMNIBUS_OWN_TITLE_SECTION_FIXTURE: &str =
         include_str!("../../../fixtures/diputados/reform-omnibus-own-title-section-sample.txt");
     const ARTICLE_LATIN_ORDINAL_AFTER_CHAPTER_FIXTURE: &str =
@@ -3012,6 +3152,141 @@ mod tests {
             "urn:lex-mx:federal:statute:sample:amendment:1995-05-12:transitory:primero"
         );
         assert!(evidence[0].label.contains("Ley DOF 1995-05-12"));
+    }
+
+    #[test]
+    fn a_cover_note_quoting_another_decrees_articles_is_not_an_article() {
+        // cfpc's cover note quotes the CNPCF decree's `“Artículo Segundo. …
+        // Artículo Tercero. …”`. Read as Article 3, it made the real
+        // Articles 1 and 2 "regress" after `LIBRO PRIMERO` and vanish.
+        let document = parse_diputados(
+            COVER_NOTE_QUOTED_DECREE_ARTICLES_FIXTURE,
+            &options(
+                "urn:lex-mx:federal:code:cfpc",
+                "Código Federal de Procedimientos Civiles",
+            ),
+            NaiveDate::from_ymd_opt(1943, 2, 24).unwrap(),
+        )
+        .unwrap();
+        let numbers: Vec<&str> = document
+            .provisions
+            .iter()
+            .map(|provision| provision.number.as_str())
+            .collect();
+        assert_eq!(numbers, ["1º", "2º", "3º"]);
+        assert!(
+            document.provisions[0]
+                .text
+                .starts_with("Sólo puede iniciar")
+        );
+        assert_eq!(
+            document.provisions[0].heading_context.chapter.as_deref(),
+            Some("Capítulo I")
+        );
+    }
+
+    #[test]
+    fn lower_case_letter_suffix_articles_after_a_chapter_heading_are_read() {
+        // lgtoc prints `Artículo 228 a.-` and `228 a bis.-` after `CAPITULO V
+        // Bis`. Unread, they were silently dropped, and lmv's citations of
+        // LGTOC 228-B and 228-H could not resolve.
+        let document = parse_diputados(
+            ARTICLE_LOWERCASE_LETTER_SUFFIX_FIXTURE,
+            &options(
+                "urn:lex-mx:federal:statute:lgtoc",
+                "Ley General de Títulos y Operaciones de Crédito",
+            ),
+            NaiveDate::from_ymd_opt(1932, 8, 27).unwrap(),
+        )
+        .unwrap();
+        let ids: Vec<&str> = document
+            .provisions
+            .iter()
+            .map(|provision| provision.id.rsplit(':').next().unwrap())
+            .collect();
+        assert_eq!(ids, ["228", "228-a", "228-a-bis", "228-b"]);
+        assert!(!document.provisions[0].text.contains("CAPITULO"));
+        assert!(
+            document.provisions[1]
+                .text
+                .starts_with("Los certificados de participación")
+        );
+        // A body word after a space is still never a suffix.
+        assert!(super::parse_article_start("Artículo 5 a la fecha.").is_none());
+    }
+
+    #[test]
+    fn an_unread_article_heading_after_a_structural_heading_fails_closed() {
+        let source = "   Artículo 1.- Primero.\n\n                CAPÍTULO II\n\n   Artículo 2 zz.- Ilegible.\n";
+        let error = parse_diputados(
+            source,
+            &options("urn:lex-mx:federal:statute:sample", "Ley de Muestra"),
+            NaiveDate::from_ymd_opt(2000, 1, 1).unwrap(),
+        )
+        .unwrap_err();
+        assert!(
+            error.to_string().contains("unread article heading"),
+            "{error}"
+        );
+    }
+
+    #[test]
+    fn omnibus_operative_articles_and_noted_titles_close_a_transitory_section() {
+        // cff: after one law's transitories (`Cuarto.`), the 1995 omnibus
+        // decree goes on with `Artículo Cuarto.`, an operative article; and a
+        // Miscelánea resolution's title, after a signature and a page break,
+        // was merged into the previous decree. Both gave duplicate IDs.
+        let evidence = super::extract_reform_evidence(
+            REFORM_OMNIBUS_OPERATIVE_ARTICLE_AND_RESOLUTION_FIXTURE,
+            &options(
+                "urn:lex-mx:federal:code:cff",
+                "Código Fiscal de la Federación",
+            ),
+        )
+        .expect("no duplicate reform evidence");
+        let ids: Vec<&str> = evidence
+            .iter()
+            .map(|item| item.provision_id.rsplit(":amendment:").next().unwrap())
+            .collect();
+        assert_eq!(
+            ids,
+            [
+                "1995-12-15:transitory:primero",
+                "1995-12-15:transitory:cuarto",
+                "1995-12-15:section-2:transitory:primero",
+                "2000-12-31:transitory:primero",
+                "2000-12-31:transitory:segundo",
+                "2002-02-12:transitory:unico",
+            ]
+        );
+        assert!(!evidence[4].text.contains("Resolución"));
+        assert!(evidence[5].label.contains("Resolución DOF 2002-02-12"));
+    }
+
+    #[test]
+    fn reformas_titles_and_page_split_ordinals_are_read() {
+        // cpf: `REFORMAS al Código Penal…` (1966) was not an act title, so its
+        // transitory joined the 1965 decree; and `décimo. Asimismo, …`, the
+        // tail of a sentence after a page break, was read as a transitory.
+        let evidence = super::extract_reform_evidence(
+            REFORM_REFORMAS_TITLE_AND_PAGE_SPLIT_ORDINAL_FIXTURE,
+            &options("urn:lex-mx:federal:code:cpf", "Código Penal Federal"),
+        )
+        .expect("no duplicate reform evidence");
+        let ids: Vec<&str> = evidence
+            .iter()
+            .map(|item| item.provision_id.rsplit(":amendment:").next().unwrap())
+            .collect();
+        assert_eq!(
+            ids,
+            [
+                "1965-01-13:transitory:unico",
+                "1966-01-14:transitory:unico",
+                "2016-06-16:transitory:decimo-primero",
+                "2016-06-16:transitory:decimo-segundo",
+            ]
+        );
+        assert!(evidence[2].text.contains("décimo. Asimismo"));
     }
 
     #[test]

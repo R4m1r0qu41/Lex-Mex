@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo IX
+
 # Artículo 232
 
 Siempre que la práctica de un emplazamiento deba realizarse fuera del lugar del juicio, para que se concurra ante la autoridad jurisdiccional sea local o Federal, se debe fijar un término en el que se aumente al señalado por la Ley, un día más por cada doscientos kilómetros de distancia o fracción que exceda de la mitad, salvo que la Ley disponga otra cosa expresamente o que la autoridad jurisdiccional estime que deba ampliarse. Si la parte demandada residiere en el extranjero, se ampliará el término del emplazamiento por el lapso que se considere necesario, atendidas las distancias y la mayor o menor facilidad de las comunicaciones.

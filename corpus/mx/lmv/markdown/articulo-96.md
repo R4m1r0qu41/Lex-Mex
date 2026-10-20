@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título IV · Capítulo II
+
 # Artículo 96
 
 Las personas que pretendan obtener la autorización de la [Comisión](articulo-2.md) para realizar una oferta pública de adquisición voluntaria o forzosa, deberán integrar a la solicitud respectiva la documentación siguiente: I. Folleto informativo que contenga la información que establezca la Comisión mediante disposiciones de carácter general. Dicho folleto, podrá omitir la información relativa al precio y monto definitivos, así como aquélla que sólo sea posible conocer hasta el día previo al inicio de la oferta pública de compra.
@@ -26,5 +28,3 @@ b) Copia autentificada por el secretario del consejo de administración del acta
 c) Copia de los convenios previos con otros adquirentes, accionistas o consejeros de la emisora de los valores objeto de la oferta, relacionados con dicha oferta. En caso de que los convenios sean verbales, deberán manifestarse las principales características de los mismos.
 
 III. La demás documentación e información que la Comisión, en relación con lo señalado en las fracciones anteriores, requiera mediante disposiciones de carácter general.
-
-Apartado A De las ofertas públicas de adquisición voluntaria

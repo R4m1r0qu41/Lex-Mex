@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 292
 
 Las partes tendrán la obligación de presentar a sus testigos, para cuyo efecto, de solicitarlo, se les entregarán las cédulas de notificación. Sin embargo, cuando razonable y justificadamente estén imposibilitadas para hacerlo, manifestando bajo protesta de decir verdad, dichas circunstancias calificadas por la autoridad jurisdiccional, podrán ser auxiliadas para su presentación en la audiencia respectiva.

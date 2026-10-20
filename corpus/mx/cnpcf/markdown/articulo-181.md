@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo IV
+
 # Artículo 181
 
 Cada parte será inmediatamente responsable de los gastos y costas que originen las diligencias que promueva. El pago de los gastos será a cargo de quien faltare al cumplimiento de la obligación. Cuando las leyes utilicen solamente las palabras gastos, o solamente costas, se incluyen ambos conceptos de gastos y costas, y la condenación abarcará los dos.

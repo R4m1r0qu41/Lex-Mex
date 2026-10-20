@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Único · Capítulo III
+
 # Artículo 1028
 
 Para el caso que no se conociere el paradero de la persona deudora, una vez que se hayan llevado a cabo las diligencias a que se refiere el artículo [199](articulo-199.md) del presente [Código Nacional](articulo-2.md), se hará la citación a través de la publicación en el medio de comunicación judicial por tres días consecutivos, el cual surtirá sus efectos dentro de tres días. Transcurridos los tres días el embargo se ejecutará, según el caso, en una audiencia especial ante la autoridad jurisdiccional respectiva.

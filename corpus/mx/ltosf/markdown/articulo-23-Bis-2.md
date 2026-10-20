@@ -18,5 +18,3 @@ source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 La provisión de servicios adicionales por parte de las [Entidades Financieras](articulo-3.md) deberá ser clara, sin provocar de manera engañosa o sorpresiva el consentimiento del [Cliente](articulo-3.md) para la aceptación de los servicios y productos.
 
 Artículo adicionado DOF 10-01-2014
-
-Capítulo V Del procedimiento administrativo sancionador Sección I De las disposiciones generales

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf
 source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 ---
 
+> Capítulo I
+
 # Artículo 6
 
 Estarán obligados al cumplimiento de esta ley los proveedores y los consumidores. Las entidades de las administraciones públicas federal, estatal, municipal y del gobierno del Distrito Federal, están obligadas en cuanto tengan el carácter de proveedores o consumidores.

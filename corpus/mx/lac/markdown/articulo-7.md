@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo II
+
 # Artículo 7
 
 La [Agencia Federal de Aviación Civil](articulo-2.md) ejerce su autoridad en los aeropuertos, helipuertos y aeródromos en general, a través de las personas designadas como comandantes regionales y comandantes de aeropuerto. Párrafo reformado DOF 20-05-2021, 03-05-2023

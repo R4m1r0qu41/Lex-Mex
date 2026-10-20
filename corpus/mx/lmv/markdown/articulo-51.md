@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título II · Capítulo II
+
 # Artículo 51
 
-Los titulares de acciones con derecho a voto, incluso limitado o restringido, que en lo individual o en conjunto tengan el veinte por ciento o más del capital social, podrán oponerse judicialmente a las resoluciones de las asambleas generales respecto de las cuales tengan derecho de voto, sin que resulte aplicable el porcentaje a que se refiere el artículo 201 de la Ley General de Sociedades Mercantiles.
+Los titulares de acciones con derecho a voto, incluso limitado o restringido, que en lo individual o en conjunto tengan el veinte por ciento o más del capital social, podrán oponerse judicialmente a las resoluciones de las asambleas generales respecto de las cuales tengan derecho de voto, sin que resulte aplicable el porcentaje a que se refiere el artículo [201](../../lgsm/markdown/articulo-201.md) de la Ley General de Sociedades Mercantiles.

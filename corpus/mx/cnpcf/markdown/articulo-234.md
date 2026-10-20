@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo IX
+
 # Artículo 234
 
 Operará de pleno derecho la caducidad de la primera instancia cualquiera que sea el estado del juicio, desde el primer auto que se dicte en el mismo, hasta antes de que concluya la audiencia de juicio, si transcurridos cuarenta días hábiles contados a partir de la notificación de la última determinación judicial no hubiere promoción que tienda a impulsar el procedimiento de cualquiera de las partes. Los actos o promociones de mero trámite que no impliquen ordenación o impulso del procedimiento, no se considerarán como actividad de las partes ni impedirán que la caducidad se alcance.
@@ -54,9 +56,3 @@ d) En los demás casos previstos por la Ley.
 X. Contra la declaración de caducidad de la primera instancia procede el recurso de apelación en ambos efectos. Si la declaratoria se hace en segunda instancia, procede el recurso de reposición. Contra la negativa a la declaración de caducidad no procede recurso alguno, y
 
 XI. Las costas serán a cargo de la parte actora; pero serán compensables con las que corran a cargo de la parte demandada en aquellos en que opusiere reconvención, compensación, nulidad y en general las excepciones que tienden a variar la situación jurídica que privaba entre las partes antes de la presentación de la demanda.
-
-Título Segundo De la Etapa Postulatoria
-
-Capítulo I De la Demanda
-
-Sección Primera Requisitos de la Demanda

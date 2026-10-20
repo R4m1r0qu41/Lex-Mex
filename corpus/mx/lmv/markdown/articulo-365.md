@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título XIV · Capítulo I
+
 # Artículo 365
 
 Las personas a que se refieren las fracciones I a IX del artículo [363](articulo-363.md) de esta Ley, tendrán prohibido adquirir, directa o indirectamente, valores emitidos por una emisora o emisora simplificada a la que se encuentren vinculados o títulos de crédito que los representen, durante un plazo de tres meses contado a partir de la última enajenación que hubieren realizado sobre los valores o títulos de crédito señalados. Esta prohibición también será aplicable a las enajenaciones, pero con relación a la última adquisición que hubieren efectuado. Párrafo reformado DOF 28-12-2023

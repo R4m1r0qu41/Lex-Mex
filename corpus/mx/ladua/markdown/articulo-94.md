@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
-> Capítulo II · Sección TERCERA
+> Título Cuarto · Capítulo I
 
 # Artículo 94
 
@@ -24,5 +24,3 @@ Asimismo, las personas que hubieran importado temporalmente mercancías que no p
 Los contribuyentes a que se refiere el artículo [109](articulo-109.md) de esta Ley, deberán presentar el aviso correspondiente en términos del Reglamento, manifestando los desperdicios de las mercancías correspondientes que vayan a ser destruidos.
 
 Artículo reformado DOF 30-12-1996, 19-11-2025
-
-Capítulo II Definitivos de importación y de exportación

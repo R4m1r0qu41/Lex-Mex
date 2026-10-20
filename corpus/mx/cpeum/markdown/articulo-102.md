@@ -13,11 +13,15 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
 source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
 ---
 
+> Título Tercero · Capítulo IV
+
 # Artículo 102
 
 A. El Ministerio Público de la Federación se organizará en una Fiscalía General de la República como órgano público autónomo, dotado de personalidad jurídica y patrimonio propio. Párrafo reformado DOF 29-01-2016
 
-Para que una persona pueda ser titular de la Fiscalía General de la República se requiere: ser ciudadana mexicana por nacimiento, en ejercicio de sus derechos; tener cuando menos treinta y cinco años cumplidos el día de la designación; contar, con antigüedad mínima de diez años, con título profesional de licenciatura en derecho; gozar de buena reputación, y no haber sido condenada por la comisión de delito doloso. Párrafo reformado DOF 29-05-2023 El Fiscal General durará en su encargo nueve años, y será designado y removido conforme a lo siguiente:
+Para que una persona pueda ser titular de la Fiscalía General de la República se requiere: ser ciudadana mexicana por nacimiento, en ejercicio de sus derechos; tener cuando menos treinta y cinco años cumplidos el día de la designación; contar, con antigüedad mínima de diez años, con título profesional de licenciatura en derecho; gozar de buena reputación, y no haber sido condenada por la comisión de delito doloso. Párrafo reformado DOF 29-05-2023
+
+El Fiscal General durará en su encargo nueve años, y será designado y removido conforme a lo siguiente:
 
 I. A partir de la ausencia definitiva del Fiscal General, el Senado de la República contará con veinte días para integrar una lista de al menos diez candidatos al cargo, aprobada por las dos terceras partes de los miembros presentes, la cual enviará al Ejecutivo Federal.
 

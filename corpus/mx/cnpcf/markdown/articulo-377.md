@@ -13,8 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 377
 
 No se practicará diligencia alguna de jurisdicción voluntaria de la que pueda resultar perjuicio a la Federación. Las que se practicaren en contravención de este precepto serán nulas de pleno derecho y no producirán efecto legal alguno.
-
-Sección Segunda De los Medios Preparatorios del Juicio Ejecutivo Civil

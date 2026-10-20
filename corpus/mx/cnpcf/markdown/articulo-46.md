@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 46
 
 Procede la acción oblicua cuando la persona acreedora tenga interés en ejercitar las acciones que competan a su deudor, cuando conste el crédito en título ejecutivo y, requerido quien sea deudor para deducirlas, descuide o rehúse hacerlo. La persona tercera demandada puede paralizar la acción pagando a la demandante el monto de su crédito.

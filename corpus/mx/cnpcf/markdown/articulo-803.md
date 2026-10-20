@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo III
+
 # Artículo 803
 
 Recibidos los informes precisados en los artículos anteriores, se procederá a presentar y revisar el inventario, avalúo y proyecto de partición y de resultar ajustado a derecho, la autoridad jurisdiccional citará a la totalidad de los interesados a una sola audiencia oral en un término no mayor de veinte días, y en la que declarará herederas o legatarias de acuerdo a lo dispuesto en la legislación sustantiva de la Entidad Federativa correspondiente, o a las que hayan sido designadas con ese carácter en el testamento, teniéndose como albacea a la persona designada en el testamento o en su defecto a la propuesta por los herederos o por la autoridad jurisdiccional.

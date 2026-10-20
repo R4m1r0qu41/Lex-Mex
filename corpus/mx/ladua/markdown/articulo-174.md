@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
-> Capítulo II · Sección TERCERA
+> Título Séptimo · Capítulo Unico
 
 # Artículo 174
 
@@ -37,7 +37,9 @@ b) Psicológico, y
 
 c) Confiabilidad. Fracción reformada DOF 25-06-2018
 
-La autorización antes mencionada tendrá vigencia por dos años. Párrafo reformado DOF 09-12-2013 Dicha autorización podrá prorrogarse por dos años más, sin que se requiera acreditar los exámenes previstos en la fracción VI del presente artículo, siempre que sigan cumpliendo con los requisitos y las condiciones que para su otorgamiento están establecidas en esta Ley y demás disposiciones jurídicas aplicables. Párrafo adicionado DOF 25-06-2018
+La autorización antes mencionada tendrá vigencia por dos años. Párrafo reformado DOF 09-12-2013
+
+Dicha autorización podrá prorrogarse por dos años más, sin que se requiera acreditar los exámenes previstos en la fracción VI del presente artículo, siempre que sigan cumpliendo con los requisitos y las condiciones que para su otorgamiento están establecidas en esta Ley y demás disposiciones jurídicas aplicables. Párrafo adicionado DOF 25-06-2018
 
 El incumplimiento de cualquiera de los requisitos señalados en las fracciones anteriores será causa de cancelación de la autorización para ejercer como dictaminador aduanero.
 

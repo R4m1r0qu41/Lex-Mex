@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Único · Capítulo III
+
 # Artículo 1030
 
 La designación de embargo sobre créditos o cuentas bancarias de la persona deudora sólo procede respecto de las que existen al momento de la ejecución, y bastará que se haga en forma genérica, para que se trabe el embargo y se perfeccione posteriormente por la parte a cuyo favor se haga la ejecución, con el auxilio judicial acerca de informes que rindan terceros, quienes estarán en todo caso obligados a proporcionar los números de cuenta o crédito que permitan su identificación.

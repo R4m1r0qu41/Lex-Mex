@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 33
 
 La acción de obra peligrosa se da a quien esté en la posesión jurídica o derivada de una propiedad contigua o cercana que pueda resentirse o padecer por la ruina o derrumbe de la otra, caída de un árbol u otro objeto análogo. Su finalidad es adoptar medidas urgentes para evitar los riesgos que ofrezca el mal estado de los objetos referidos, obtener la demolición total o parcial de la obra o la destrucción del objeto peligroso.

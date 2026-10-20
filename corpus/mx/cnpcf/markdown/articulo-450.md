@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo I
+
 # Artículo 450
 
 La persona judicialmente designada como apoyo tendrá la encomienda de realizar su mandato de acuerdo con la mejor interpretación posible de lo que fuera la voluntad y preferencias de la persona, de conformidad con las fuentes conocidas de información que resulten pertinentes, incluida la trayectoria de vida de la persona, sus valores, tradiciones y creencias, previas manifestaciones de la voluntad y preferencias en otros contextos, información con la que cuenten personas de confianza, y tecnologías presentes o futuras.

@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNEP.pdf
 source_sha256: 91abecabe50a5e414e0835daa9086ce3b307fffb9ebe626dab3bb9d1eae51680
 ---
 
-> Título CUARTO
+> Título CUARTO · Capítulo I
 
 # Artículo 102
 
@@ -22,5 +22,3 @@ Puesta a Disposición El Juez o Tribunal de enjuiciamiento, dentro de los tres d
 Si el sentenciado se encuentra en libertad y se dicta una sentencia condenatoria sin otorgamiento de algún sustitutivo penal, el Juez de Ejecución lo requerirá para que en el plazo de cinco días se interne voluntariamente, y en caso de no hacerlo, ordenará su reaprehensión inmediata.
 
 En caso de que el sentenciado se encuentre en libertad y se dicte una sentencia condenatoria con otorgamiento de sustitutivo penal, el Juez de Ejecución lo prevendrá para que en un plazo de tres días manifieste si se acoge a dicho beneficio, bajo el apercibimiento que de no pronunciarse se ordenará su reaprehensión.
-
-Capítulo II Trámite de Ejecución

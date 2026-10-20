@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título II · Capítulo II
+
 # Artículo 26
 
 Los consejeros independientes y, en su caso, los respectivos suplentes, deberán ser seleccionados por su experiencia, capacidad y prestigio profesional, considerando además que por sus características puedan desempeñar sus funciones libres de conflictos de interés y sin estar supeditados a intereses personales, patrimoniales o económicos.

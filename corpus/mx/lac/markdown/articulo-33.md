@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo V
+
 # Artículo 33
 
 En las aeronaves civiles no podrán abordar personas armadas, en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos o enervantes; y sólo con las autorizaciones correspondientes podrán transportarse cadáveres o personas que, por la naturaleza de su enfermedad, presenten riesgo para los demás pasajeros.

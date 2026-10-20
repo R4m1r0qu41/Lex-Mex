@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 715
 
 Al promoverse un intestado, deberá darse cumplimiento con los requisitos y exhibir los documentos señalados en este [Código Nacional](articulo-2.md). Si la autoridad jurisdiccional encuentra apegada a derecho la denuncia, la radicará y ordenará girar los oficios respectivos y mandará notificar a los presuntos herederos, cónyuge que sobreviva o concubina, concubinario o conviviente, haciéndoles saber la radicación del juicio sucesorio para que comparezcan a deducir los posibles derechos hereditarios que consideren les correspondan, con citación del Ministerio Público.

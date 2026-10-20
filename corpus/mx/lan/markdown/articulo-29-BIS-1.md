@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAN.pdf
 source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 ---
 
-> Título CUARTO
+> Título CUARTO · Capítulo III
 
 # Artículo 29 BIS 1
 
@@ -32,7 +32,3 @@ Artículo [24](articulo-24.md) de esta Ley, y
 V. Las demás que le otorguen esta Ley y disposiciones reglamentarias aplicables.
 
 Artículo adicionado DOF 29-04-2004
-
-Capítulo III BIS Suspensión, Extinción, Revocación, Restricciones y Servidumbres de la Concesión, Asignación y de Permiso de Descarga Capítulo adicionado DOF 29-04-2004. Denominación reformada DOF 08-06-2012
-
-Sección Primera Suspensión Sección adicionada DOF 29-04-2004

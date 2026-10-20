@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
 source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 24
 
 Toda persona tiene derecho a la libertad de convicciones éticas, de conciencia y de religión, y a tener o adoptar, en su caso, la de su agrado. Esta libertad incluye el derecho de participar, individual o colectivamente, tanto en público como en privado, en las ceremonias, devociones o actos del culto respectivo, siempre que no constituyan un delito o falta penados por la ley. Nadie podrá utilizar los actos públicos de expresión de esta libertad con fines políticos, de proselitismo o de propaganda política. Párrafo reformado DOF 19-07-2013

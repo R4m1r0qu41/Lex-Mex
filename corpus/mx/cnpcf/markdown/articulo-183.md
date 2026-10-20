@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo IV
+
 # Artículo 183
 
 Las costas judiciales tienen por objeto resarcir los gastos y erogaciones ejecutadas con motivo del juicio a cargo de la parte vencida. Las costas serán reguladas por cualquiera de las partes contendientes, se substanciará y resolverán mediante el incidente respectivo en términos de lo dispuesto en este [Código Nacional](articulo-2.md).

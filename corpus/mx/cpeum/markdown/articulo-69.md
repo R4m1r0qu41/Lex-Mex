@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
 source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
 ---
 
+> Título Tercero · Capítulo II
+
 # Artículo 69
 
 En la apertura de Sesiones Ordinarias del Primer Periodo de cada año de ejercicio del Congreso, el Presidente de la República presentará un informe por escrito, en el que manifieste el estado general que guarda la administración pública del país. En la apertura de las sesiones extraordinarias del Congreso de la Unión, o de una sola de sus cámaras, el Presidente de la Comisión Permanente informará acerca de los motivos o razones que originaron la convocatoria.

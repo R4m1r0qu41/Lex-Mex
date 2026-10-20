@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo III · Sección Segunda
+
 # Artículo 11
 
 Los servicios de transporte aéreo sujetos a permiso son los siguientes: Párrafo reformado DOF 20-05-2021, 03-05-2023
@@ -38,5 +40,3 @@ En el caso de las fracciones I, III y IV los permisos se otorgarán por plazo in
 En el reglamento correspondiente se precisarán los requisitos para la obtención de los permisos a que se refiere este artículo.
 
 En el caso de los permisos de taller aeronáutico y los certificados de producción, la vigencia será de dos años. Párrafo adicionado DOF 20-05-2021
-
-Sección Tercera Disposiciones comunes

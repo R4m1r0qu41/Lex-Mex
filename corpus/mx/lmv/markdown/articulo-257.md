@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título IX · Capítulo III
+
 # Artículo 257
 
 Las sociedades que administran sistemas para facilitar operaciones con valores sólo podrán otorgar los servicios a que se refieren las fracciones I y III del artículo [255](articulo-255.md) de esta Ley a instituciones de crédito, casas de bolsa, y demás inversionistas institucionales, nacionales o extranjeros. Adicionalmente, tratándose de operaciones con instrumentos financieros derivados y con divisas, podrán proporcionar sus servicios a entidades financieras del exterior del mismo tipo que las señaladas.

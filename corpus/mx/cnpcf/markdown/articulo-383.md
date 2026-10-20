@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 383
 
 Puede hacerse el reconocimiento de documentos firmados ante Corredora o Corredor Público, Notaria o Notario Público, según corresponda de conformidad con lo dispuesto por la legislación aplicable, en forma autógrafa o con la firma electrónica, ya en el momento del otorgamiento o con posterioridad, siempre que lo haga la persona directamente obligada, la persona representante legítima o persona representante autorizada con poder bastante.

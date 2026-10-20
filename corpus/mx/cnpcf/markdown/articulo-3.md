@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 3
 
 En el sistema de impartición de justicia en materia civil y familiar se ponderará en todo tiempo la solución de la controversia sobre los formalismos procesales, serán aplicables las reglas y principios del juicio oral en lo que resulte compatible; asimismo, serán considerados los beneficios de la justicia alternativa o procedimientos convencionales que pacten las partes y de conformidad con lo dispuesto en este [Código Nacional](articulo-2.md), podrá tramitarse mediante el uso de las tecnologías de la información y la comunicación.

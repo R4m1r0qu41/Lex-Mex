@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título VI · Capítulo I
+
 # Artículo 158
 
 El concurso mercantil de las casas de bolsa se regirá por lo dispuesto en la Ley de Concursos Mercantiles, con las excepciones siguientes:
@@ -30,7 +32,3 @@ V. La [Comisión](articulo-2.md) ejercerá las funciones de supervisión únicam
 Si la Comisión detectara algún incumplimiento deberá hacerlo del conocimiento del juez.
 
 Tratándose de procedimientos de concurso mercantil de casas de bolsa, en los que se desempeñe como síndico el Servicio de Administración y Enajenación de Bienes, el Gobierno Federal podrá asignar recursos a dicho organismo descentralizado de la Administración Pública Federal, con el exclusivo propósito de realizar los gastos asociados a publicaciones y otros trámites relativos a tales procedimientos, cuando se advierta que éstos no podrán ser afrontados con cargo al patrimonio de las casas de bolsa de que se trate por insolvencia, en cuyo caso, se constituirá como acreedor de esta última. Párrafo adicionado DOF 10-01-2014
-
-Sección V De las oficinas de representación y filiales de casas de bolsa del exterior
-
-Apartado A De las oficinas de representación

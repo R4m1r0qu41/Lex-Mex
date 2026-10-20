@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título XV · Capítulo II Bis
+
 # Artículo 395 Bis
 
 Las entidades financieras por conducto de su director general o equivalente y con la opinión del comité de auditoría o quien ejerza las funciones de vigilancia de la propia entidad, podrán someter a la autorización de la [Comisión](articulo-2.md) un programa de autocorrección cuando la entidad financiera de que se trate, en la realización de sus actividades, o el comité de auditoría u órgano equivalente como resultado de las funciones que tiene conferidas, detecten irregularidades o incumplimientos a lo previsto en esta Ley y demás disposiciones aplicables.

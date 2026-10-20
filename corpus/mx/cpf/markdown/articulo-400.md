@@ -25,7 +25,9 @@ Si el que recibió la cosa en venta, prenda o bajo cualquier concepto, no tuvo c
 
 II.- Preste auxilio o cooperación de cualquier especie al autor de un delito, con conocimiento de esta circunstancia, por acuerdo posterior a la ejecución del citado delito;
 
-III.- Oculte o favorezca el ocultamiento del responsable de un delito, los efectos, objetos o instrumentos del mismo o impida que se averigüe; Fracción reformada DOF 23-12-1985 IV. Requerido por las autoridades, no dé auxilio para la investigación de los delitos o para la persecución de los delincuentes; Fracción reformada DOF 23-01-2009
+III.- Oculte o favorezca el ocultamiento del responsable de un delito, los efectos, objetos o instrumentos del mismo o impida que se averigüe; Fracción reformada DOF 23-12-1985
+
+IV. Requerido por las autoridades, no dé auxilio para la investigación de los delitos o para la persecución de los delincuentes; Fracción reformada DOF 23-01-2009
 
 V. No procure, por los medios lícitos que tenga a su alcance y sin riesgo para su persona, impedir la consumación de los delitos que sabe van a cometerse o se están cometiendo, salvo que tenga obligación de afrontar el riesgo, en cuyo caso se estará a lo previsto en este artículo o en otras normas aplicables; Fracción reformada DOF 23-01-2009
 

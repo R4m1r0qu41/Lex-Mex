@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
-> Capítulo II · Sección TERCERA
+> Título Séptimo · Capítulo Unico
 
 # Artículo 167-D
 
@@ -65,6 +65,8 @@ En el supuesto previsto en el párrafo anterior, se permitirá a la agencia adua
 
 La Secretaría contará con un plazo de un mes para analizar la documentación presentada, debiendo someter al Consejo a que se refiere el artículo [159 bis](articulo-159-bis.md) de esta Ley la resolución correspondiente, quien deberá emitir su determinación dentro de los quince días hábiles siguientes. Párrafo adicionado DOF 19-11-2025
 
-La resolución sobre la autorización se otorgará al interesado en un plazo no mayor de dos meses contados a partir de la determinación del Consejo. Párrafo adicionado DOF 19-11-2025 La autorización de agencia aduanal tendrá una vigencia igual a la de la patente con mayor vigencia de los agentes aduanales que formen parte de ella y podrá prorrogarse hasta por veinte años más, conforme al mismo procedimiento para su expedición, siempre que al momento de la solicitud al menos uno de los agentes aduanales cuente con una patente vigente, que dicha solicitud se presente durante el último año de vigencia de la autorización y antes de los últimos cuatro meses de la conclusión de su vigencia, y se cumplan los requisitos vigentes previstos para su otorgamiento. Párrafo adicionado DOF 19-11-2025
+La resolución sobre la autorización se otorgará al interesado en un plazo no mayor de dos meses contados a partir de la determinación del Consejo. Párrafo adicionado DOF 19-11-2025
+
+La autorización de agencia aduanal tendrá una vigencia igual a la de la patente con mayor vigencia de los agentes aduanales que formen parte de ella y podrá prorrogarse hasta por veinte años más, conforme al mismo procedimiento para su expedición, siempre que al momento de la solicitud al menos uno de los agentes aduanales cuente con una patente vigente, que dicha solicitud se presente durante el último año de vigencia de la autorización y antes de los últimos cuatro meses de la conclusión de su vigencia, y se cumplan los requisitos vigentes previstos para su otorgamiento. Párrafo adicionado DOF 19-11-2025
 
 Artículo adicionado DOF 25-06-2018

@@ -7,7 +7,7 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lfpc:article:2",
     "fraction": "I",
     "start_char": 48,
-    "end_char": 1121,
+    "end_char": 1122,
     "basis": "express_definition"
   },
   {
@@ -17,8 +17,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfpc",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfpc:article:2",
     "fraction": "II",
-    "start_char": 1121,
-    "end_char": 1375,
+    "start_char": 1122,
+    "end_char": 1376,
     "basis": "express_definition"
   },
   {
@@ -28,8 +28,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfpc",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfpc:article:2",
     "fraction": "III",
-    "start_char": 1375,
-    "end_char": 1422,
+    "start_char": 1376,
+    "end_char": 1423,
     "basis": "express_definition"
   },
   {
@@ -39,8 +39,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfpc",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfpc:article:2",
     "fraction": "IV",
-    "start_char": 1422,
-    "end_char": 1513,
+    "start_char": 1423,
+    "end_char": 1514,
     "basis": "express_definition"
   }
 ]

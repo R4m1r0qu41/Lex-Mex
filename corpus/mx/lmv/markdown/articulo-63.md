@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título III · Capítulo I
+
 # Artículo 63
 
 Los certificados bursátiles podrán emitirse mediante fideicomiso irrevocable cuyo patrimonio afecto podrá quedar constituido, en su caso, con el producto de los recursos que se obtengan con motivo de su colocación. Los certificados que al efecto se emitan al amparo de un fideicomiso deberán denominarse "certificados bursátiles fiduciarios". Asimismo, dichos títulos incorporarán y representarán alguno o algunos de los derechos siguientes:

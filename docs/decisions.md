@@ -1,5 +1,67 @@
 # Architecture decisions
 
+## 2026-10-19 — Heading-leak reparse of 16 instruments; four silent-loss parser defects fixed; three accepted gaps resolved
+
+**Why.** 711 provisions in 62 instruments ended with the next chapter or section heading in their canonical text. An example is CPEUM Art. 29 ending `Capítulo II De los Mexicanos`. These were July parses: the current parser files those headings as headings and fills `heading_context`. The operator chose (2026-10-19) to reparse the 22 instruments with hash-matching retained source now and to record the other 40 as debt.
+
+The disposable reparse exposed defects in the current parser, each fixed with a fixture:
+- **Silent loss after a heading.** With no provision open, an article heading the grammar did not read, or one that seemed to regress, was discarded with its text.
+  - lgtoc lost `Artículo 228 a.-` … `228 v`, about 17,000 characters.
+  - cfpc lost Articles 1–2, and cnpcf lost Article 1. In both, a cover note quotes another decree's `“Artículo Segundo. … Artículo Tercero. …”`, which was read as an article.
+  - The fixes:
+    - before the first article, a quoted article and the rest of its quotation are preamble;
+    - a lower-case suffix closed by `.-` is read (`228 a.-`, `228 a bis.-`);
+    - an article-shaped block that would be discarded after a heading now fails the parse.
+  - Fixtures: `cover-note-quoted-decree-articles-sample.txt`, `article-lowercase-letter-suffix-sample.txt`.
+- **Reform-evidence collisions**, each failing the parse:
+  - a `REFORMAS al …` appendix title was not an act (cpf 1966);
+  - an omnibus decree's operative `Artículo Cuarto.` was read as a repeated transitory (cff 1995);
+  - a resolution title merged into the previous decree's signature across a page break (cff 2002);
+  - `décimo. Asimismo…`, a sentence carried over a page break, was read as a transitory (cpf 2016).
+  - The fixes:
+    - `REFORMAS`/`REFORMA` + lower case is an act title;
+    - an `Artículo` heading that repeats an ordinal already read in the section closes the section;
+    - a block ending in a signature closes at a page break;
+    - while an act is open, a block ending in a capitalized publication note is the next act's title;
+    - a transitory heading's ordinal must be capitalized.
+  - Fixtures: `reform-omnibus-operative-article-and-resolution-sample.txt`, `reform-reformas-title-and-page-split-ordinal-sample.txt`.
+
+**What.** 16 instruments are reparsed from hash-matching source, and `derive-temporal` is rerun on each: cff, cfpc, cnpcf, cpeum, cpf, laat, lac, ladua, lamp, lan, lfpc, lgtoc, lic, lmv, lnep and ltosf. Tracked temporal-analysis requests are restored, not regenerated, as for LIEPS.
+
+Of the other six:
+- lfce, lissfam, reg-lgp and fi-dcg-2014 reparse to identical provisions, so their heading forms are still unread.
+- The CNBV DCGs cucb-dcg-2004 and cue-dcg-2003 show unrelated CNBV-parser text drift, which needs its own review.
+
+**Measured.**
+- **Provisions.** 5,897 → 5,943. The recovered provisions:
+  - lgtoc `228-a`…`228-v` (23);
+  - lac `78 Decies`…`Novodecies` (10);
+  - cpf `199 Quintus`, `199 Sextus`, `199 Decies`, `209 Quintus` and the original 1931 transitories 1º–3º;
+  - lic `112 Quintus`–`Septimus`;
+  - lfpc `63 Quintus` and `73 Quintus`;
+  - one lnep transitory.
+- **Text.** Provision IDs are otherwise unchanged. Text changes are heading removals (219 trailing, plus mid-paragraph ones), paragraph breaks restored after amendment notes, running headers removed (lamp's `LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107…` in 70 provisions) and dropped promulgation signatures.
+- **Temporal state.** After `derive-temporal` it matches except for 4 provisions. lac (2) and ltosf (1) change basis or date and stay `effective`. One lfpc determination returns to `not_analyzed` because its text changed when `63 Quintus` was split out. No lawyer-verified state changed.
+- **References.** References for these instruments go from 5,498 to 5,490, with the corpus at 35,949. lamp loses 158 bogus CPEUM 103/107 edges from its running header. cpf, lgs and lmv gain resolved edges.
+- **Reform evidence.** 944 → 2,087, from accumulated extraction improvements since July.
+- **Closure.** `link --all` exits 0 with 5 accepted gaps. Markdown changes are link and heading changes. The only cross-instrument links lost are lamp's 158 and one dropped-signature CPEUM 89 link each in nine instruments.
+- **Accepted gaps resolved (8 → 5):**
+  - cpf: LIC `112 Quintus` now parses.
+  - lmv: LGTOC `228-B`/`228-H` now parse.
+  - lgs: CPF `209 Quintus` now parses.
+  - **This contradicts the 2026-10-18 operator decision** that lgs's citation was stale because "the committed CPF text … prints no 209 Quintus". The retained source prints `Artículo 209 Quintus` (added DOF 07-06-2024). The committed parse had lost it. This is a factual correction of that decision's premise, for the operator to confirm, not a legal ruling.
+- **Count baselines** are re-proposed from the corrected parse, still machine-proposed. The July values had recorded the losses:
+  - cpf: 552 → 556 articles and 0 → 3 transitories;
+  - lac: 144 → 154 articles;
+  - lfpc: 188 → 190 articles;
+  - lgtoc: 440 → 463 articles;
+  - lic: 489 → 492 articles;
+  - lnep: 11 → 12 transitories.
+
+**Open.**
+- 492 trailing heading leaks remain in 48 instruments, 40 of which lack retained source.
+- The DCG parser's heading leaks and drift, and the unread heading forms of lfce, lissfam and reg-lgp.
+
 ## 2026-10-19 — LIEPS glossary under its rulings: incisos, cross-references, lower-case usages
 
 **Why.** The 2026-10-19 operator rulings on LIEPS Article 3 (recorded below) need four pieces the glossary layer lacked:

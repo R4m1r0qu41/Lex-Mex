@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo IV
+
 # Artículo 809
 
 El proyecto de partición formado por el albacea, con la aprobación de los herederos, lo exhibirán ante la Notaria o Notario Público, quien elaborará la escritura de protocolización y la de adjudicación a su solicitud. Si el testador hubiere ordenado la partición, esta se deberá llevar a cabo en los términos dispuestos por él.

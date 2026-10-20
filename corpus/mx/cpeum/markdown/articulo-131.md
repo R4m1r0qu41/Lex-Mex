@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
 source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
 ---
 
+> Título Séptimo
+
 # Artículo 131
 
 Es facultad privativa de la Federación gravar las mercancías que se importen o exporten, o que pasen de tránsito por el territorio nacional, así como reglamentar en todo tiempo y aún prohibir, por motivos de seguridad o de policía, la circulación en el interior de la República de toda clase de efectos, cualquiera que sea su procedencia. Párrafo reformado DOF 08-10-1974, 29-01-2016

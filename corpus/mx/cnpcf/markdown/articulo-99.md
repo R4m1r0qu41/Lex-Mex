@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo I
+
 # Artículo 99
 
 Si por los documentos que se hubieren presentado o por otras constancias de autos, apareciere que la parte litigante que promueve la declinatoria se ha sometido a la jurisdicción de la autoridad jurisdiccional que conoce del procedimiento, se desechará de plano, continuando su curso el juicio.

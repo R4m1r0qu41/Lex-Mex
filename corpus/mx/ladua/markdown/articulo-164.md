@@ -13,13 +13,15 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
-> Capítulo II · Sección TERCERA
+> Título Séptimo · Capítulo Unico
 
 # Artículo 164
 
 El agente aduanal será suspendido en el ejercicio de sus funciones hasta por noventa días, o por el plazo que resulte en los términos de las fracciones I, V, X y XI de este artículo, por las siguientes causas: Párrafo reformado DOF 09-12-2013, 19-11-2025
 
-I. Encontrarse investigado penalmente o vinculado a proceso por haber participado en la comisión de delitos fiscales o la comisión de otro delito cuya media aritmética de la pena de prisión exceda de cinco años, o privado de su libertad cuando esté sujeto a un procedimiento penal por la comisión de otro delito que amerite pena corporal. La suspensión durará el tiempo que el agente aduanal se encuentre investigado penalmente o esté vinculado a proceso penal por la comisión de delitos fiscales o privado de su libertad. Fracción reformada DOF 19-11-2025 II. Dejar de cumplir con el encargo que se le hubiere conferido, así como transferir o endosar documentos a su consignación, sin autorización escrita de su mandante, salvo en el caso de corresponsalías entre agentes aduanales.
+I. Encontrarse investigado penalmente o vinculado a proceso por haber participado en la comisión de delitos fiscales o la comisión de otro delito cuya media aritmética de la pena de prisión exceda de cinco años, o privado de su libertad cuando esté sujeto a un procedimiento penal por la comisión de otro delito que amerite pena corporal. La suspensión durará el tiempo que el agente aduanal se encuentre investigado penalmente o esté vinculado a proceso penal por la comisión de delitos fiscales o privado de su libertad. Fracción reformada DOF 19-11-2025
+
+II. Dejar de cumplir con el encargo que se le hubiere conferido, así como transferir o endosar documentos a su consignación, sin autorización escrita de su mandante, salvo en el caso de corresponsalías entre agentes aduanales.
 
 III. Derogada. Fracción derogada DOF 25-06-2018
 
@@ -45,7 +47,9 @@ c) 69-B Bis, noveno párrafo del Código Fiscal de la Federación.
 
 La suspensión durará el tiempo que el agente aduanal se encuentre en los referidos listados. Fracción adicionada DOF 19-11-2025
 
-XI. No cuente con certificados de sellos digitales vigentes, o se ubique en alguno de los supuestos señalados en los artículos [17-H](../../cff/markdown/articulo-17-H.md) o [17-H Bis](../../cff/markdown/articulo-17-H-Bis.md) del Código Fiscal de la Federación. La suspensión durará hasta en tanto el agente aduanal cuente con los referidos certificados, o bien, deje de ubicarse en los referidos supuestos. Fracción adicionada DOF 19-11-2025 XII. Cuando en el despacho aduanero que promueva, no exista omisión en el pago de contribuciones y cuotas compensatorias, y se determine el pago de multas que sean equivalentes o excedan al 70% del valor comercial de la mercancía. Fracción adicionada DOF 19-11-2025
+XI. No cuente con certificados de sellos digitales vigentes, o se ubique en alguno de los supuestos señalados en los artículos [17-H](../../cff/markdown/articulo-17-H.md) o [17-H Bis](../../cff/markdown/articulo-17-H-Bis.md) del Código Fiscal de la Federación. La suspensión durará hasta en tanto el agente aduanal cuente con los referidos certificados, o bien, deje de ubicarse en los referidos supuestos. Fracción adicionada DOF 19-11-2025
+
+XII. Cuando en el despacho aduanero que promueva, no exista omisión en el pago de contribuciones y cuotas compensatorias, y se determine el pago de multas que sean equivalentes o excedan al 70% del valor comercial de la mercancía. Fracción adicionada DOF 19-11-2025
 
 XIII. Cuente con créditos fiscales determinados no firmes, que no se encuentren pagados o garantizados en alguna de las formas permitidas por el Código Fiscal de la Federación. Fracción adicionada DOF 19-11-2025
 

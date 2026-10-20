@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Único · Capítulo IV
+
 # Artículo 1110
 
 Cuando los bienes, cuyo remate se haya decretado, fueran muebles, se observará lo siguiente:
@@ -28,5 +30,3 @@ IV. Después de ordenada la venta, puede la parte ejecutante pedir la adjudicaci
 V. Los gastos de corretaje o comisión serán a cargo de la persona deudora y se deducirán preferentemente del precio de venta que se obtenga, y
 
 VI. En todo lo demás, se estará a las disposiciones de este Capítulo.
-
-Capítulo V De la Ejecución de la Sentencia y demás Resoluciones de las Autoridades Jurisdiccionales de las Entidades Federativas

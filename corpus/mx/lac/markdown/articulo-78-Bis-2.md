@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo XV Bis
+
 # Artículo 78 Bis 2
 
 Las personas proveedoras de servicio que a continuación se señalan deben implementar y mantener un [Sistema de gestión de la seguridad operacional](articulo-2.md), como parte del Programa estatal de seguridad operacional que establezca la [Agencia Federal de Aviación Civil](articulo-2.md): Párrafo reformado DOF 03-05-2023

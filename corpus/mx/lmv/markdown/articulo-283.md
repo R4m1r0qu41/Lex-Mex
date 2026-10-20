@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título X · Capítulo I
+
 # Artículo 283
 
 El servicio de depósito a que se refiere este Capítulo se constituirá mediante la entrega de los valores a la institución para el depósito de valores, la que abrirá cuentas a favor de los depositantes. Adicionalmente, tratándose del servicio de depósito de valores que consten en medios electrónicos, ópticos o de cualquier otra tecnología, la recepción de los mismos se hará ajustándose a las disposiciones contenidas en el Código de Comercio. Párrafo reformado DOF 10-01-2014

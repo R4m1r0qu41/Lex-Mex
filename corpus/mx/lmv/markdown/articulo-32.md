@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título II · Capítulo II
+
 # Artículo 32
 
 Los miembros del consejo de administración de las sociedades anónimas bursátiles faltarán al deber de diligencia y serán susceptibles de responsabilidad en términos de lo establecido en el artículo [33](articulo-33.md) de esta Ley, cuando causen un daño patrimonial a la sociedad o a las personas morales que ésta controle o en las que tenga una influencia significativa, en virtud de actualizarse alguno de los supuestos siguientes:

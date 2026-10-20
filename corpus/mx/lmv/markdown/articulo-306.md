@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título X · Capítulo II
+
 # Artículo 306
 
 El consejo de administración de las contrapartes centrales de valores deberá contar con al menos tres órganos colegiados que se encargarán respectivamente de llevar a cabo las siguientes funciones:
@@ -21,4 +23,4 @@ I. El primero determinará y aplicará el sistema de administración de riesgos 
 
 II. El segundo vigilará el cumplimiento de las normas citadas en la fracción anterior.
 
-III. El tercero aplicará las medidas disciplinarias por el incumplimiento de las normas citadas en la fracción I de este artículo. Sección III De las actividades y servicios
+III. El tercero aplicará las medidas disciplinarias por el incumplimiento de las normas citadas en la fracción I de este artículo.

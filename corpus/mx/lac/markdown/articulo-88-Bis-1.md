@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo XIX
+
 # Artículo 88 Bis 1
 
 Se impondrá sanción con multa de doscientas a cinco mil Unidades de Medida y Actualización, al poseedor y/o propietario de una aeronave no tripulada civil y/o de Estado excepto las militares, por incumplir cualquiera de las obligaciones o condiciones establecidas en esta Ley, en sus reglamentos, o en cualquier otra disposición aplicable, así como a su permiso u autorización respectiva.

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo VII · Sección Primera
+
 # Artículo 38
 
 El personal técnico-aeronáutico está constituido por el personal de vuelo que interviene directamente en la operación de la aeronave y por el personal de tierra, cuyas funciones se especifiquen en el reglamento correspondiente. Dicho personal debe, además de ser mexicano por nacimiento, no adquirir otra nacionalidad y contar con las licencias respectivas. Párrafo reformado DOF 23-01-1998, 03-05-2023

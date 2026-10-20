@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Tercero · Capítulo I
+
 # Artículo 671
 
 La audiencia preliminar se integra por dos fases que deberán celebrarse el mismo día y de manera consecutiva, las cuales son:

@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAN.pdf
 source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 ---
 
-> Título CUARTO
+> Título CUARTO · Capítulo III BIS
 
 # Artículo 29 BIS 5
 
@@ -36,5 +36,3 @@ VIII. Cuando se afecten recursos hídricos programados para la creación o suste
 IX. Cuando exista causa de interés público o interés social.
 
 Artículo adicionado DOF 29-04-2004
-
-Sección Quinta Servidumbres Sección adicionada DOF 29-04-2004

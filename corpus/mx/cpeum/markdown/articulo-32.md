@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
 source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
 ---
 
+> Título Primero · Capítulo II
+
 # Artículo 32
 
 La Ley regulará el ejercicio de los derechos que la legislación mexicana otorga a los mexicanos que posean otra nacionalidad y establecerá normas para evitar conflictos por doble nacionalidad.
@@ -26,5 +28,3 @@ Esta misma calidad será indispensable en capitanes, pilotos, patrones, maquinis
 Los mexicanos serán preferidos a los extranjeros en igualdad de circunstancias, para toda clase de concesiones y para todos los empleos, cargos o comisiones de gobierno en que no sea indispensable la calidad de ciudadano.
 
 Artículo reformado DOF 15-12-1934, 10-02-1944, 20-03-1997
-
-Capítulo III De los Extranjeros

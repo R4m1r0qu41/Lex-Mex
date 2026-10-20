@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 72
 
 La excepción de falta de personalidad de la parte actora y, en su caso, la objeción de la personalidad que haga valer la actora en contra de la demandada en la etapa postulatoria, se tramitarán incidentalmente en los procedimientos escritos, conforme a las reglas que se establecen en el presente [Código Nacional](articulo-2.md).

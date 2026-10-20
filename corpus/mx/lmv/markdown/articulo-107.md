@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título IV · Capítulo IV
+
 # Artículo 107
 
 La [Comisión](articulo-2.md) podrá decretar, como medida precautoria, la suspensión de la inscripción de los valores de una emisora en el [Registro](articulo-2.md), por un plazo no mayor a sesenta días hábiles, a efecto de evitar que se produzcan o cuando existan condiciones desordenadas u operaciones no conformes a los usos y sanas prácticas de mercado o en aquellos casos en que las emisoras de los valores correspondientes:
@@ -30,5 +32,3 @@ Para que la suspensión antes mencionada continúe por un plazo mayor, la Comisi
 En el caso de emisoras simplificadas, la ampliación indicada en el párrafo anterior, podrá ser determinada por la Comisión, previa solicitud debidamente justificada que realice la bolsa de valores correspondiente, agotando el derecho de audiencia de la emisora simplificada de que se trate. Párrafo adicionado DOF 28-12-2023
 
 La suspensión de la inscripción en el Registro tendrá por efecto la suspensión de la cotización de los valores listados en bolsa y no libera a la emisora de dar cumplimiento a lo previsto en esta Ley.
-
-Capítulo V De la cancelación de la inscripción de valores en el Registro

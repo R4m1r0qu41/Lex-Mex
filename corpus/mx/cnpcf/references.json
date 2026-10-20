@@ -2146,28 +2146,5 @@
     "resolution_status": "resolved",
     "reference_form": "relative",
     "resolution_rule": "relative_position"
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpcf:transitory:vigesimo:reference:681-683:89:direct",
-    "source_provision_id": "urn:lex-mx:federal:code:cnpcf:transitory:vigesimo",
-    "source_span": "89",
-    "start_char": 681,
-    "end_char": 683,
-    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
-    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:89",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 657,
-        "end_char": 667
-      }
-    ],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct",
-    "resolution_rule": "named_instrument"
   }
 ]

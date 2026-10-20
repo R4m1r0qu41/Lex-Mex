@@ -13,10 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNEP.pdf
 source_sha256: 91abecabe50a5e414e0835daa9086ce3b307fffb9ebe626dab3bb9d1eae51680
 ---
 
-> Título PRIMERO
+> Título PRIMERO · Capítulo I
 
 # Artículo 8
 
 Supletoriedad En todo lo no previsto por la presente Ley se atenderá en lo conducente a lo dispuesto por el Código Nacional de Procedimientos Penales, a la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal y a las leyes penales aplicables.
-
-Capítulo II Derechos y Obligaciones de las personas

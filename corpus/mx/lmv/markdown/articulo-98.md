@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título IV · Capítulo II
+
 # Artículo 98
 
 La persona o grupo de personas que pretendan adquirir o alcanzar por cualquier medio, directa o indirectamente, la titularidad del treinta por ciento o más de acciones ordinarias de una sociedad anónima, inscritas en el [Registro](articulo-2.md), dentro o fuera de alguna bolsa de valores, mediante una o varias operaciones de cualquier naturaleza, simultáneas o sucesivas, estarán obligadas a realizar la adquisición mediante oferta pública ajustándose a lo establecido en el artículo [97](articulo-97.md) de esta Ley y conforme a las características siguientes:
@@ -27,6 +29,6 @@ a) Por el porcentaje del capital social de la sociedad equivalente a la proporci
 
 b) Por el cien por ciento del capital social cuando el oferente pretenda obtener el control de la sociedad.
 
-IV. La oferta señalará el número máximo de acciones a las que se extiende y, en su caso, el número mínimo a cuya adquisición se condicione. En el evento de que la oferta de que se trate resulte en la adquisición del cien por ciento del capital social de la sociedad, se estará a lo dispuesto en el artículo 89, fracción I de la Ley General de Sociedades Mercantiles.
+IV. La oferta señalará el número máximo de acciones a las que se extiende y, en su caso, el número mínimo a cuya adquisición se condicione. En el evento de que la oferta de que se trate resulte en la adquisición del cien por ciento del capital social de la sociedad, se estará a lo dispuesto en el artículo [89](../../lgsm/markdown/articulo-89.md), fracción I de la Ley General de Sociedades Mercantiles.
 
 La adquisición de valores convertibles en acciones ordinarias o títulos de crédito que las representen, así como de títulos opcionales o de instrumentos financieros derivados liquidables en especie que tengan como subyacente dichas acciones o títulos de crédito, computarán para efectos del cálculo del porcentaje a que se refiere el primer párrafo de este artículo.

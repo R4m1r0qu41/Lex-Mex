@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo X Bis
+
 # Artículo 47 Bis
 
 La persona concesionaria, asignataria o permisionaria están obligadas a proporcionar un servicio eficiente y de calidad a las personas pasajeras. Párrafo reformado DOF 03-05-2023
@@ -69,7 +71,9 @@ Además, la persona pasajera puede llevar en cabina hasta dos piezas de equipaje
 
 La persona concesionaria, asignataria o permisionaria se asegurará de que todo el equipaje de mano embarcado en el avión e introducido en la cabina de personas pasajeras quede bien asegurado y retenido, que evite que caiga de los compartimientos superiores y cause alguna lesión, que no obstruya las salidas y equipo de emergencia, que no exceda las limitaciones de peso de los compartimientos de almacenaje, que no se lleve equipaje de mano durante una evacuación, así como que cuente con los procedimientos para el manejo del exceso en equipaje de mano. Párrafo adicionado DOF 03-05-2023
 
-La persona concesionaria, asignataria o permisionaria puede solicitar a la persona pasajera un pago por peso y dimensiones adicionales del equipaje de mano, pero no puede realizar cobros por pesos y dimensiones menores a los establecidos en esta fracción. Párrafo adicionado DOF 03-05-2023 Para los servicios de transporte aéreo internacional, el transporte de equipaje se sujetará a lo dispuesto en los [Tratados](articulo-2.md).
+La persona concesionaria, asignataria o permisionaria puede solicitar a la persona pasajera un pago por peso y dimensiones adicionales del equipaje de mano, pero no puede realizar cobros por pesos y dimensiones menores a los establecidos en esta fracción. Párrafo adicionado DOF 03-05-2023
+
+Para los servicios de transporte aéreo internacional, el transporte de equipaje se sujetará a lo dispuesto en los [Tratados](articulo-2.md).
 
 X. La persona pasajera tiene derecho a conocer los términos del contrato, así como los derechos de los que goza. La persona concesionaria, asignataria o permisionaria debe informarle, al momento de la compra del boleto, acerca de los términos y condiciones del servicio contratado, las políticas de compensación, así como sus derechos.
 

@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
-> Capítulo II · Sección TERCERA
+> Título Tercero · Capítulo III
 
 # Artículo 78-C
 
@@ -24,5 +24,3 @@ La información relativa a la identidad de terceros que importen o hayan importa
 No obstante lo dispuesto en el párrafo anterior, el interesado podrá designar un máximo de dos representantes, con el fin de tener acceso a la información confidencial proporcionada u obtenida de terceros respecto del valor en aduana en importaciones de mercancías idénticas, similares o de la misma especie o clase, en los términos de lo dispuesto en los artículos [46](../../cff/markdown/articulo-46.md) y [48](../../cff/markdown/articulo-48.md) del Código Fiscal de la Federación.
 
 Artículo adicionado DOF 31-12-1998
-
-Sección Segunda Del impuesto general de exportación

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf
 source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 ---
 
+> Capítulo III
+
 # Artículo 39
 
 Cuando se expendan al público productos con alguna deficiencia, usados o reconstruidos, deberá advertirse de manera precisa y clara tales circunstancias al consumidor y hacerse constar en los propios bienes, envolturas, notas de remisión o facturas correspondientes.

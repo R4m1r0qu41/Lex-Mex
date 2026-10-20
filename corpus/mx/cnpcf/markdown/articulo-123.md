@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 123
 
 La recusación promovida contra otras personas servidoras públicas de acuerdo con el organigrama del Poder Judicial Federal o de la Entidad Federativa de que se trate, no suspenderá el procedimiento, y se proveerá de inmediato quien deba sustituirlo, en tanto se resuelva la recusación a fin de dar continuidad al juicio respectivo.

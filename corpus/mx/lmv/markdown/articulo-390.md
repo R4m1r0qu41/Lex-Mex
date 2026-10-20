@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título XV · Capítulo I
+
 # Artículo 390
 
 La facultad de la [Comisión](articulo-2.md) para imponer sanciones de carácter administrativo caducará en un plazo de cinco años, contado a partir del día hábil siguiente al que se realizó la conducta o se actualizó el supuesto de infracción.
@@ -26,5 +28,3 @@ Las multas que la Comisión imponga deberán ser pagadas dentro de los quince d�
 En caso de que el infractor pague las multas impuestas por la mencionada Comisión dentro de los quince días referidos en el párrafo anterior, se aplicará una reducción en un veinte por ciento de su monto, siempre y cuando no se interponga medio de defensa alguno.
 
 Las multas impuestas por la Comisión se harán efectivas por la [Secretaría](articulo-2.md), una vez que hayan quedado firmes. Párrafo adicionado DOF 10-01-2014
-
-Capítulo II De la imposición de sanciones administrativas

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Capítulo II · Sección Cuarta
+
 # Artículo 1163
 
 Los exhortos extranjeros o cartas rogatorias que se reciban serán diligenciados conforme a la legislación mexicana, salvo en lo prescrito en los instrumentos internacionales y en este [Código Nacional](articulo-2.md). Sólo requerirán homologación cuando requieran ejecución forzosa sobre personas, bienes o derechos. En este caso, se aplicará lo dispuesto por el apartado relativo a la ejecución de sentencias extranjeras.

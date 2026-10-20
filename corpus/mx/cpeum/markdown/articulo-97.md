@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
 source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
 ---
 
+> Título Tercero · Capítulo IV
+
 # Artículo 97
 
 Las Magistradas y los Magistrados de Circuito, así como las Juezas y los Jueces de Distrito durarán en su encargo nueve años y podrán ser reelectos de forma consecutiva cada que concluya su periodo. No podrán ser readscritos fuera del circuito judicial en el que hayan sido electos, salvo que por causa excepcional lo determine el Tribunal de Disciplina Judicial, y podrán ser removidos en los casos y conforme a los procedimientos que establezca la ley. Párrafo reformado DOF 11-03-2021, 15-09-2024

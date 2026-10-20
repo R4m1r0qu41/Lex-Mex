@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo IV · Sección Segunda
+
 # Artículo 23
 
 Los servicios de transporte aéreo no regular, nacional e internacional, incluyen, entre otros, los de fletamento y de taxis aéreos. Párrafo reformado DOF 03-05-2023

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 36
 
 La parte demandada al contestar la demanda podrá denunciar el pleito a quien esté obligada a la evicción; de así considerarlo, la autoridad jurisdiccional, ordenará su llamamiento para que conteste dentro del plazo previsto por este ordenamiento para la contestación a la demanda. Quien sea llamada como obligada a la evicción, una vez salida al pleito, se convierte en principal.

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 27
 
 A quien se perturbe en la posesión jurídica, tanto originaria como derivada de un bien inmueble, compete el interdicto de retener la posesión contra quien le perturbe, mandó tal perturbación o que a sabiendas y directamente se aproveche de ella, y contra la sucesora de la despojante. El objeto de esta acción es poner término a la perturbación, indemnizar a la poseedora y que la parte condenada garantice no volver a perturbar.

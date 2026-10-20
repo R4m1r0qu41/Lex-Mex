@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Capítulo Único · Sección Primera
+
 # Artículo 863
 
 La representación a que se refieren las fracciones II y III del [artículo anterior](articulo-862.md), deberá ser adecuada. Se considera representación adecuada:
@@ -38,5 +40,3 @@ En caso de no existir interesados, la autoridad jurisdiccional Federal dará vis
 La autoridad jurisdiccional Federal deberá notificar la resolución de remoción al Consejo de la Judicatura Federal para que registre tal actuación y en su caso, aplique las sanciones que correspondan a la persona representante.
 
 La persona que ejerza el cargo de representante será responsable frente a la colectividad por el ejercicio de su gestión.
-
-Sección Segunda Del Procedimiento

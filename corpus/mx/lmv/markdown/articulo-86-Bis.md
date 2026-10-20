@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título IV · Capítulo II
+
 # Artículo 86 Bis
 
 Las personas morales que pretendan obtener la inscripción simplificada de sus valores en el [Registro](articulo-2.md) deberán elaborar, a través del intermediario colocador, en términos del artículo [177 Ter](articulo-177-Ter.md) de esta Ley, un prospecto de colocación o suplemento informativo abreviado, preliminar y definitivo, de conformidad con las disposiciones de carácter general que al efecto emita la [Comisión](articulo-2.md). En caso de inscripción simplificada sin que medie oferta pública, se deberán elaborar un folleto informativo preliminar y definitivo, por lo que no les será aplicable lo dispuesto por el artículo [90](articulo-90.md) de esta Ley.

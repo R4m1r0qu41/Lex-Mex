@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Único · Capítulo II
+
 # Artículo 992
 
 La ejecución de una sentencia definitiva, interlocutoria o convenio judicial podrá iniciarse en la misma audiencia de juicio, concluida la explicación del fallo, siempre que haya comparecido la parte que resultó vencida y se conforme con la misma. La persona ejecutada en ese mismo acto podrá proponer un acuerdo de cumplimiento a la persona que venció, sin que este acuerdo, pueda alterar, modificar o novar el fondo de los puntos resolutivos de la sentencia, salvo en los asuntos del orden familiar y la autoridad jurisdiccional así lo apruebe.

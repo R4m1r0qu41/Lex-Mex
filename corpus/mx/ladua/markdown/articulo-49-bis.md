@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
+> Título Segundo · Capítulo III
+
 # Artículo 49 bis
 
 Las resoluciones o criterios anticipados previstos en los tratados internacionales de los que México sea Parte, se tramitarán ante el Servicio de Administración Tributaria, cumpliendo con los requisitos y condiciones que se establezcan mediante reglas.

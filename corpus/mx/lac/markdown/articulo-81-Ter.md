@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo XVI
+
 # Artículo 81 Ter
 
 La clasificación y acceso a la información que genere o custodie la [Secretaría](articulo-2.md) en materia de investigación de accidentes o incidentes debe ajustarse a lo previsto en la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Transparencia y Acceso a la Información Pública, la Ley Federal de Transparencia y Acceso a la Información Pública, así como a lo dispuesto en los tratados en los que el Estado mexicano sea parte. Párrafo reformado DOF 03-05-2023

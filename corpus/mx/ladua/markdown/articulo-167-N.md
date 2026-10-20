@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
-> Capítulo II · Sección TERCERA
+> Título Séptimo · Capítulo Unico
 
 # Artículo 167-N
 
@@ -22,5 +22,3 @@ Los agentes aduanales que integran la agencia aduanal que se encuentre en algún
 En los casos de inhabilitación o suspensión de la patente del agente aduanal, incorporado a una agencia aduanal, cuando por hechos o actos anteriores a su incorporación, se actualicen los supuestos establecidos en los artículos [160](articulo-160.md) y [164](articulo-164.md) de esta Ley y demás disposiciones jurídicas aplicables, la agencia aduanal no podrá iniciar nuevas operaciones por conducto del agente aduanal sancionado sino solamente concluir las que tenga iniciadas a la fecha de notificación del acuerdo de la resolución respectiva, sin perjuicio de llevar a cabo otras operaciones por conducto de los demás agentes aduanales que integran la agencia aduanal.
 
 Artículo adicionado DOF 25-06-2018
-
-Sección Segunda Apoderados aduanales (Se deroga) Sección derogada DOF 09-12-2013

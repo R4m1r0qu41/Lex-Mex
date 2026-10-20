@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Capítulo II · Sección Tercera
+
 # Artículo 1150
 
 El ejercicio del derecho de visita y custodia de niñas, niños o adolescentes cuyos padres radiquen en países diferentes de manera habitual, se regirá conforme a los instrumentos internacionales y se observarán las siguientes reglas:

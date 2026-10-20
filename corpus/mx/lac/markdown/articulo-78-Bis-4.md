@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo XV Bis
+
 # Artículo 78 Bis 4
 
 Una vez que la [Agencia Federal de Aviación Civil](articulo-2.md) haya verificado y aprobado la ejecución del total de las fases del plan de implementación, esta expedirá a las personas proveedoras de servicio el certificado del Sistema de gestión de seguridad operacional, cuya vigencia estará sujeta a la conservación de las condiciones en el mismo.

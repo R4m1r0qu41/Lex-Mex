@@ -13,9 +13,11 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título II · Capítulo II
+
 # Artículo 56
 
-Las sociedades anónimas bursátiles podrán adquirir las acciones representativas de su capital social o títulos de crédito que representen dichas acciones, sin que sea aplicable la prohibición establecida en el primer párrafo del artículo 134 de la Ley General de Sociedades Mercantiles, siempre que:
+Las sociedades anónimas bursátiles podrán adquirir las acciones representativas de su capital social o títulos de crédito que representen dichas acciones, sin que sea aplicable la prohibición establecida en el primer párrafo del artículo [134](../../lgsm/markdown/articulo-134.md) de la Ley General de Sociedades Mercantiles, siempre que:
 
 I. La adquisición se efectúe en alguna bolsa de valores nacional.
 
@@ -29,7 +31,7 @@ V. La sociedad se encuentre al corriente en el pago de las obligaciones derivada
 
 VI. Se cumplan los requisitos de mantenimiento de la bolsa de valores en que se encuentren listados sus valores. Fracción reformada DOF 28-12-2023
 
-Las acciones propias y los títulos de crédito que representen dichas acciones que pertenezcan a la sociedad o, en su caso, las acciones emitidas no suscritas que se conserven en tesorería, podrán ser colocadas entre el público inversionista sin que para tal caso se requiera resolución de asamblea de accionistas o acuerdo del consejo de administración. Para efectos de lo previsto en este párrafo, no será aplicable lo dispuesto en el artículo 132 de la Ley General de Sociedades Mercantiles.
+Las acciones propias y los títulos de crédito que representen dichas acciones que pertenezcan a la sociedad o, en su caso, las acciones emitidas no suscritas que se conserven en tesorería, podrán ser colocadas entre el público inversionista sin que para tal caso se requiera resolución de asamblea de accionistas o acuerdo del consejo de administración. Para efectos de lo previsto en este párrafo, no será aplicable lo dispuesto en el artículo [132](../../lgsm/markdown/articulo-132.md) de la Ley General de Sociedades Mercantiles.
 
 En tanto las acciones pertenezcan a la sociedad, no podrán ser representadas ni votadas en las asambleas de accionistas, ni ejercitarse derechos sociales o económicos de tipo alguno.
 

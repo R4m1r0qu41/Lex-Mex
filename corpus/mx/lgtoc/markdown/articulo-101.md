@@ -20,5 +20,3 @@ source_sha256: cf8a5d05500ddbe21885db4a8f1128cf95b3aaab95b7982a47aa33baea652361
 La aceptación de una letra de cambio obliga al aceptante a pagarla a su vencimiento, aun cuando el girador hubiere quebrado antes de la aceptación.
 
 El aceptante queda obligado cambiariamente también con el girador; pero carece de acción cambiaria contra él y contra los demás signatarios de la letra.
-
-Sección Tercera De la aceptación por intervención

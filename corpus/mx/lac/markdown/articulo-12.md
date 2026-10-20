@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo III · Sección Tercera
+
 # Artículo 12
 
 Las concesiones y los permisos se otorgarán a las personas que cumplan con los requisitos establecidos en esta Ley y sus reglamentos.

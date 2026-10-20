@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
 source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
 ---
 
+> Título Tercero · Capítulo III
+
 # Artículo 82
 
 Para ser Presidente se requiere: I. Ser ciudadano mexicano por nacimiento, en pleno goce de sus derechos, hijo de padre o madre mexicanos y haber residido en el país al menos durante veinte años. Fracción reformada DOF 01-07-1994

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo XVI
+
 # Artículo 80
 
 La búsqueda y salvamento en accidentes de aeronaves civiles es de interés público y las autoridades, las personas propietarias, poseedoras, concesionarias, asignatarias, operadoras aéreas, permisionarias e integrantes de la tripulación de vuelo estarán obligadas a participar en las acciones que se lleven a cabo. Párrafo reformado DOF 03-05-2023

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 502
 
 Cuando se presenten tres o más personas acreedoras que hicieren oposición, si estuvieren conformes, se seguirá un solo juicio, graduando en una sola sentencia sus créditos; pero si no lo estuvieren, se seguirá el juicio de concurso necesario de acreedoras.

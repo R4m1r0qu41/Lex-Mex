@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
+> Título Tercero · Capítulo I
+
 # Artículo 53
 
 Son responsables solidarios del pago de los impuestos al comercio exterior y de las demás contribuciones, así como de las cuotas compensatorias que se causen con motivo de la introducción de mercancías al territorio nacional o de su extracción del mismo, sin perjuicio de lo establecido por el Código Fiscal de la Federación:

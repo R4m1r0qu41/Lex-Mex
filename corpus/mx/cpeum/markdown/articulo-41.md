@@ -13,9 +13,13 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
 source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
 ---
 
+> Título Segundo · Capítulo I
+
 # Artículo 41
 
-El pueblo ejerce su soberanía por medio de los Poderes de la Unión, en los casos de la competencia de éstos, y por los de los Estados y la Ciudad de México, en lo que toca a sus regímenes interiores, en los términos respectivamente establecidos por la presente Constitución Federal y las particulares de cada Estado y de la Ciudad de México, las que en ningún caso podrán contravenir las estipulaciones del Pacto Federal. Párrafo reformado DOF 29-01-2016 Los nombramientos de las personas titulares en la administración pública del Poder Ejecutivo Federal y sus equivalentes en las entidades federativas y Municipios, deberán observar el principio de paridad de género. Las leyes determinarán las formas y modalidades que correspondan. Párrafo adicionado DOF 06-06-2019. Reformado DOF 15-11-2024
+El pueblo ejerce su soberanía por medio de los Poderes de la Unión, en los casos de la competencia de éstos, y por los de los Estados y la Ciudad de México, en lo que toca a sus regímenes interiores, en los términos respectivamente establecidos por la presente Constitución Federal y las particulares de cada Estado y de la Ciudad de México, las que en ningún caso podrán contravenir las estipulaciones del Pacto Federal. Párrafo reformado DOF 29-01-2016
+
+Los nombramientos de las personas titulares en la administración pública del Poder Ejecutivo Federal y sus equivalentes en las entidades federativas y Municipios, deberán observar el principio de paridad de género. Las leyes determinarán las formas y modalidades que correspondan. Párrafo adicionado DOF 06-06-2019. Reformado DOF 15-11-2024
 
 La renovación de los poderes Legislativo y Ejecutivo se realizará mediante elecciones libres, auténticas y periódicas, conforme a las siguientes bases:
 
@@ -47,7 +51,9 @@ III. Los partidos políticos nacionales tendrán derecho al uso de manera perman
 
 Apartado A. El Instituto Nacional Electoral será autoridad única para la administración del tiempo que corresponda al Estado en radio y televisión destinado a sus propios fines y al ejercicio del derecho de los partidos políticos nacionales, de acuerdo con lo siguiente y a lo que establezcan las leyes: Párrafo reformado DOF 10-02-2014
 
-a) A partir del inicio de las precampañas y hasta el día de la jornada electoral quedarán a disposición del Instituto Nacional Electoral cuarenta y ocho minutos diarios, que serán distribuidos en dos y hasta tres minutos por cada hora de transmisión en cada estación de radio y canal de televisión, en el horario referido en el inciso d) de este apartado. En el período comprendido entre el fin de las precampañas y el inicio de las campañas, el cincuenta por ciento de los tiempos en radio y televisión se destinará a los fines propios de las autoridades electorales, y el resto a la difusión de mensajes genéricos de los partidos políticos, conforme a lo que establezca la ley; Inciso reformado DOF 10-02-2014 b) Durante sus precampañas, los partidos políticos dispondrán en conjunto de un minuto por cada hora de transmisión en cada estación de radio y canal de televisión; el tiempo restante se utilizará conforme a lo que determine la ley;
+a) A partir del inicio de las precampañas y hasta el día de la jornada electoral quedarán a disposición del Instituto Nacional Electoral cuarenta y ocho minutos diarios, que serán distribuidos en dos y hasta tres minutos por cada hora de transmisión en cada estación de radio y canal de televisión, en el horario referido en el inciso d) de este apartado. En el período comprendido entre el fin de las precampañas y el inicio de las campañas, el cincuenta por ciento de los tiempos en radio y televisión se destinará a los fines propios de las autoridades electorales, y el resto a la difusión de mensajes genéricos de los partidos políticos, conforme a lo que establezca la ley; Inciso reformado DOF 10-02-2014
+
+b) Durante sus precampañas, los partidos políticos dispondrán en conjunto de un minuto por cada hora de transmisión en cada estación de radio y canal de televisión; el tiempo restante se utilizará conforme a lo que determine la ley;
 
 c) Durante las campañas electorales deberá destinarse para cubrir el derecho de los partidos políticos y los candidatos al menos el ochenta y cinco por ciento del tiempo total disponible a que se refiere el inciso a) de este apartado; Inciso reformado DOF 10-02-2014
 
@@ -63,7 +69,9 @@ Los partidos políticos y los candidatos en ningún momento podrán contratar o 
 
 Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de candidatos a cargos de elección popular. Queda prohibida la transmisión en territorio nacional de este tipo de mensajes contratados en el extranjero.
 
-Las disposiciones contenidas en los dos párrafos anteriores deberán ser cumplidas en el ámbito de las entidades federativas conforme a la legislación aplicable. Párrafo reformado DOF 29-01-2016 Apartado B. Para fines electorales en las entidades federativas, el Instituto Nacional Electoral administrará los tiempos que correspondan al Estado en radio y televisión en las estaciones y canales de cobertura en la entidad de que se trate, conforme a lo siguiente y a lo que determine la ley: Párrafo reformado DOF 10-02-2014
+Las disposiciones contenidas en los dos párrafos anteriores deberán ser cumplidas en el ámbito de las entidades federativas conforme a la legislación aplicable. Párrafo reformado DOF 29-01-2016
+
+Apartado B. Para fines electorales en las entidades federativas, el Instituto Nacional Electoral administrará los tiempos que correspondan al Estado en radio y televisión en las estaciones y canales de cobertura en la entidad de que se trate, conforme a lo siguiente y a lo que determine la ley: Párrafo reformado DOF 10-02-2014
 
 a) Para los casos de los procesos electorales locales con jornadas comiciales coincidentes con la federal, el tiempo asignado en cada entidad federativa estará comprendido dentro del total disponible conforme a los incisos a), b) y c) del apartado A de esta base;
 
@@ -97,7 +105,9 @@ El Instituto contará con una oficialía electoral investida de fé pública par
 
 El consejero Presidente y los consejeros electorales durarán en su cargo nueve años y no podrán ser reelectos. Serán electos por el voto de las dos terceras partes de los miembros presentes de la Cámara de Diputados, mediante el siguiente procedimiento:
 
-a) La Cámara de Diputados emitirá el acuerdo para la elección del consejero Presidente y los consejeros electorales, que contendrá la convocatoria pública, las etapas completas para el procedimiento, sus fechas límites y plazos improrrogables, así como el proceso para la designación de un comité técnico de evaluación, integrado por cinco personas de reconocido prestigio, de las cuales tres serán nombradas por el órgano de dirección política de la Cámara de Diputados y dos por la Comisión Nacional de los Derechos Humanos; Inciso reformado DOF 20-12-2024 b) El comité recibirá la lista completa de los aspirantes que concurran a la convocatoria pública, evaluará el cumplimiento de los requisitos constitucionales y legales, así como su idoneidad para desempeñar el cargo; seleccionará a los mejor evaluados en una proporción de cinco personas por cada cargo vacante, y remitirá la relación correspondiente al órgano de dirección política de la Cámara de Diputados;
+a) La Cámara de Diputados emitirá el acuerdo para la elección del consejero Presidente y los consejeros electorales, que contendrá la convocatoria pública, las etapas completas para el procedimiento, sus fechas límites y plazos improrrogables, así como el proceso para la designación de un comité técnico de evaluación, integrado por cinco personas de reconocido prestigio, de las cuales tres serán nombradas por el órgano de dirección política de la Cámara de Diputados y dos por la Comisión Nacional de los Derechos Humanos; Inciso reformado DOF 20-12-2024
+
+b) El comité recibirá la lista completa de los aspirantes que concurran a la convocatoria pública, evaluará el cumplimiento de los requisitos constitucionales y legales, así como su idoneidad para desempeñar el cargo; seleccionará a los mejor evaluados en una proporción de cinco personas por cada cargo vacante, y remitirá la relación correspondiente al órgano de dirección política de la Cámara de Diputados;
 
 c) El órgano de dirección política impulsará la construcción de los acuerdos para la elección del consejero Presidente y los consejeros electorales, a fin de que una vez realizada la votación por este órgano en los términos de la ley, se remita al Pleno de la Cámara la propuesta con las designaciones correspondientes;
 
@@ -113,7 +123,9 @@ El titular del órgano interno de control del Instituto será designado por la C
 
 El Secretario Ejecutivo será nombrado con el voto de las dos terceras partes del Consejo General a propuesta de su Presidente.
 
-La ley establecerá los requisitos que deberán reunir para su designación el consejero Presidente del Consejo General, los consejeros electorales, el titular del órgano interno de control y el Secretario Ejecutivo del Instituto Nacional Electoral. Quienes hayan fungido como consejero Presidente, consejeros electorales y Secretario Ejecutivo no podrán desempeñar cargos en los poderes públicos en cuya elección hayan participado, de dirigencia partidista, ni ser postulados a cargos de elección popular, durante los dos años siguientes a la fecha de conclusión de su encargo. Párrafo reformado DOF 27-05-2015 Los consejeros del Poder Legislativo serán propuestos por los grupos parlamentarios con afiliación de partido en alguna de las Cámaras. Sólo habrá un consejero por cada grupo parlamentario no obstante su reconocimiento en ambas Cámaras del Congreso de la Unión.
+La ley establecerá los requisitos que deberán reunir para su designación el consejero Presidente del Consejo General, los consejeros electorales, el titular del órgano interno de control y el Secretario Ejecutivo del Instituto Nacional Electoral. Quienes hayan fungido como consejero Presidente, consejeros electorales y Secretario Ejecutivo no podrán desempeñar cargos en los poderes públicos en cuya elección hayan participado, de dirigencia partidista, ni ser postulados a cargos de elección popular, durante los dos años siguientes a la fecha de conclusión de su encargo. Párrafo reformado DOF 27-05-2015
+
+Los consejeros del Poder Legislativo serán propuestos por los grupos parlamentarios con afiliación de partido en alguna de las Cámaras. Sólo habrá un consejero por cada grupo parlamentario no obstante su reconocimiento en ambas Cámaras del Congreso de la Unión.
 
 Apartado B. Corresponde al Instituto Nacional Electoral en los términos que establecen esta Constitución y las leyes:
 
@@ -205,8 +217,8 @@ c) Se reciban o utilicen recursos de procedencia ilícita o recursos públicos e
 
 d) Se acrediten actos de intervención o injerencia extranjera que influyan en los resultados electorales. Inciso adicionado DOF 02-06-2026 Párrafo con incisos adicionado DOF 10-02-2014
 
-Dichas violaciones deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento. Párrafo adicionado DOF 10-02-2014 En caso de nulidad de la elección, se convocará a una elección extraordinaria, en la que no podrá participar la persona sancionada. Párrafo adicionado DOF 10-02-2014
+Dichas violaciones deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento. Párrafo adicionado DOF 10-02-2014
+
+En caso de nulidad de la elección, se convocará a una elección extraordinaria, en la que no podrá participar la persona sancionada. Párrafo adicionado DOF 10-02-2014
 
 Artículo reformado DOF 06-12-1977, 06-04-1990, 03-09-1993, 19-04-1994, 22-08-1996, 13-11-2007
-
-Capítulo II De las Partes Integrantes de la Federación y del Territorio Nacional

@@ -27,6 +27,8 @@ Al que cometa el delito de enriquecimiento ilícito se le impondrán las siguien
 
 Decomiso en beneficio del Estado de aquellos bienes cuya procedencia no se logre acreditar. Párrafo reformado DOF 18-07-2016
 
-Cuando el monto a que ascienda el enriquecimiento ilícito no exceda del equivalente de cinco mil veces el valor diario de la Unidad de Medida y Actualización se impondrán de tres meses a dos años de prisión y de treinta a cien días multa. Párrafo reformado DOF 18-07-2016 Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalente de cinco mil veces el valor diario de la Unidad de Medida y Actualización se impondrán de dos años a catorce años de prisión y multa de cien a ciento cincuenta días multa. Párrafo reformado DOF 18-07-2016
+Cuando el monto a que ascienda el enriquecimiento ilícito no exceda del equivalente de cinco mil veces el valor diario de la Unidad de Medida y Actualización se impondrán de tres meses a dos años de prisión y de treinta a cien días multa. Párrafo reformado DOF 18-07-2016
+
+Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalente de cinco mil veces el valor diario de la Unidad de Medida y Actualización se impondrán de dos años a catorce años de prisión y multa de cien a ciento cincuenta días multa. Párrafo reformado DOF 18-07-2016
 
 Artículo reformado DOF 05-01-1983

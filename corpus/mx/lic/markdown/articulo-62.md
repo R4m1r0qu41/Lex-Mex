@@ -17,6 +17,4 @@ source_sha256: 98225a423eaa3dc47c9ec4ddb49ef8b188ed7f8e7e9ef17323a1c33e47e4284d
 
 # Artículo 62
 
-Los depósitos a plazo podrán estar representados por certificados que serán títulos de crédito y producirán acción ejecutiva respecto a la emisora, previo requerimiento de pago ante fedatario público. Deberán consignar: la mención de ser certificados de depósito bancario de dinero, la expresión del lugar y fecha en que se suscriban, el nombre y la firma del emisor, la suma depositada, el tipo de interés pactado, el régimen de pago de interés, el término para retirar el depósito y el lugar de pago
-
-único.
+Los depósitos a plazo podrán estar representados por certificados que serán títulos de crédito y producirán acción ejecutiva respecto a la emisora, previo requerimiento de pago ante fedatario público. Deberán consignar: la mención de ser certificados de depósito bancario de dinero, la expresión del lugar y fecha en que se suscriban, el nombre y la firma del emisor, la suma depositada, el tipo de interés pactado, el régimen de pago de interés, el término para retirar el depósito y el lugar de pago único.

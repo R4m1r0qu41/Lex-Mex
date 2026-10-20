@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 28
 
 El Fisco Federal responderá por el valor de las mercancías que, depositadas en los recintos fiscales y bajo la custodia de las autoridades aduaneras, se extravíen, destruyan o queden inutilizables por causas imputables a las autoridades aduaneras, así como por los créditos fiscales pagados en relación con las mismas. El personal aduanero encargado del manejo y custodia de las mercancías será responsable por los mismos conceptos, ante el Fisco Federal. Párrafo reformado DOF 30-12-2002

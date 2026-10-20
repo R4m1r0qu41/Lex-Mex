@@ -29,7 +29,7 @@ I. Del Código Penal Federal, los siguientes:
 
 [4](articulo-4o.md)) Ataques a las vías de comunicación, previstos en los artículos [167](articulo-167.md), fracción IX, y [170](articulo-170.md), párrafos primero, segundo y tercero, y
 
-[5](articulo-5o.md)) Robo, previsto en el artículo [368](articulo-368.md) Quinquies.
+[5](articulo-5o.md)) Robo, previsto en el artículo [368 Quinquies](articulo-368-Quinquies.md).
 
 II. De la Ley que Declara Reservas Mineras los Yacimientos de Uranio, Torio y las demás Substancias de las cuales se obtengan Isótopos Hendibles que puedan producir Energía Nuclear, los previstos en los artículos [10](articulo-10.md) y [13](articulo-13.md).
 

@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
-> Capítulo II · Sección TERCERA
+> Título Tercero · Capítulo III
 
 # Artículo 79
 
@@ -22,5 +22,3 @@ La base gravable del impuesto general de exportación es el valor comercial de l
 Cuando las autoridades aduaneras cuenten con elementos para suponer que los valores consignados en el comprobante fiscal digital por Internet o documentos equivalentes, incluidos los electrónicos o digitales a que se refieren los artículos [36-A](articulo-36-A.md), fracción II, inciso a) y [59-A](articulo-59-A.md) de esta Ley, no constituyen los valores comerciales de las mercancías, harán la comprobación conducente para la imposición de las sanciones que procedan.
 
 Artículo reformado DOF 09-12-2013, 25-06-2018, 19-11-2025
-
-Capítulo IV Determinación y pago

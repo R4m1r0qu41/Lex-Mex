@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Capítulo II · Sección Segunda
+
 # Artículo 1148
 
 Un proceso que tenga lugar en el extranjero podrá prepararse solicitando la declaración de testigos, peritos u otras declaraciones para ser practicadas en territorio nacional. La parte interesada al solicitar la diligencia citará los hechos sobre los cuales se hará el examen.

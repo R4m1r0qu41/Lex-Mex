@@ -13,10 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 403
 
 La persona depositaria que se constituya en estas diligencias será designada por la autoridad jurisdiccional si con intervención de ella se practicaren. Si fueren hechas con intervención de Corredor o Corredora Pública, Notaria o Notario Público, la designación será bajo la responsabilidad de la deudora.
-
-Capítulo II De las Medidas Cautelares en Materia Civil
-
-Sección Primera De las Providencias Precautorias

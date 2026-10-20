@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
+> Título Segundo · Capítulo III
+
 # Artículo 45
 
 Cuando en el reconocimiento aduanero se requiera efectuar la toma de muestras de mercancías estériles, radiactivas, radioactivas, peligrosas o cuando sean necesarias instalaciones o equipos especiales para la toma de las mismas, los importadores, exportadores, los agentes aduanales o las agencias aduanales, cuando actúen por cuenta de aquéllos, las deberán tomar previamente a efecto que sean presentadas al momento del reconocimiento aduanero. En todo caso se podrán tomar las muestras al momento del reconocimiento aduanero o durante el ejercicio de las facultades de comprobación, en los términos que establezca el Reglamento. Párrafo reformado DOF 09-12-2013, 25-06-2018

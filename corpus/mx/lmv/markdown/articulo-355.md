@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título XIII
+
 # Artículo 355
 
 La [Comisión](articulo-2.md) estará facultada para investigar, en la esfera administrativa, actos o hechos que presuntamente constituyan o puedan llegar a constituir una infracción a lo previsto en esta Ley o a las disposiciones de carácter general que de ella deriven.

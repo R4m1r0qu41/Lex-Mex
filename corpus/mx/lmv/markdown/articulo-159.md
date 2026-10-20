@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título VI · Capítulo I
+
 # Artículo 159
 
 La [Comisión](articulo-2.md), previo acuerdo de su Junta de Gobierno, podrá autorizar el establecimiento en el territorio nacional de oficinas de representación de casas de bolsa del extranjero.
@@ -22,5 +24,3 @@ Dichas oficinas de representación no podrán realizar actividades de intermedia
 La Comisión, previo acuerdo de su Junta de Gobierno, podrá declarar la revocación de las autorizaciones correspondientes cuando las referidas oficinas no se ajusten a las disposiciones a que se refiere este artículo, sin perjuicio de la aplicación de las sanciones establecidas en la presente Ley y en los demás ordenamientos legales.
 
 Las oficinas de representación estarán sujetas a la inspección y vigilancia de la Comisión.
-
-Apartado B De las filiales

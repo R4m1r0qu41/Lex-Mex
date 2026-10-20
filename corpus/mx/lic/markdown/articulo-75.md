@@ -17,7 +17,9 @@ source_sha256: 98225a423eaa3dc47c9ec4ddb49ef8b188ed7f8e7e9ef17323a1c33e47e4284d
 
 # Artículo 75
 
-Las instituciones de crédito podrán realizar inversiones, adquirir obligaciones de compra o de venta de títulos representativos del capital o realizar aportaciones futuras de capital de sociedades distintas a las señaladas en los artículos [88](articulo-88.md) y [89](articulo-89.md) de esta Ley, conforme a las bases siguientes: Párrafo reformado DOF 10-01-2014 I. Hasta el cinco por ciento del capital pagado de la emisora;
+Las instituciones de crédito podrán realizar inversiones, adquirir obligaciones de compra o de venta de títulos representativos del capital o realizar aportaciones futuras de capital de sociedades distintas a las señaladas en los artículos [88](articulo-88.md) y [89](articulo-89.md) de esta Ley, conforme a las bases siguientes: Párrafo reformado DOF 10-01-2014
+
+I. Hasta el cinco por ciento del capital pagado de la emisora;
 
 II. Más del cinco y hasta el quince por ciento del capital pagado de la emisora, durante un plazo que no exceda de tres años, previo acuerdo de la mayoría de los consejeros de la serie "O" o "F", según corresponda y, en su caso, de la mayoría de los de la serie "B". La Comisión Nacional Bancaria y de Valores podrá ampliar el plazo a que se refiere esta fracción, considerando la naturaleza y situación de la empresa de que se trate; Fracción reformada DOF 10-01-2014
 

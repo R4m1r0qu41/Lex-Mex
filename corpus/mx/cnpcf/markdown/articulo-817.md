@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo Único
+
 # Artículo 817
 
 Los créditos insolutos se deberán demostrar con pruebas documentales. Los archivos electrónicos se considerarán documentos y no se les negarán efectos jurídicos por ese sólo hecho. Sólo en el procedimiento judicial los documentos exhibidos, podrán ser objetados e impugnados de falsos conforme a las disposiciones de este [Código Nacional](articulo-2.md).

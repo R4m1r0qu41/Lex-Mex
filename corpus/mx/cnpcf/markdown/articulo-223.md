@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo VIII
+
 # Artículo 223
 
 En la resolución que ordene librar el exhorto podrá designarse, a instancia de parte, persona o personas para que intervengan en su tramitación, con expresión del alcance de su intervención y del término para su comparecencia ante la autoridad exhortada, expresando a la autoridad jurisdiccional exhortada si su incomparecencia determina o no del exhorto. No procederá la nulidad de actuaciones por las diligencias practicadas por las personas mencionadas.

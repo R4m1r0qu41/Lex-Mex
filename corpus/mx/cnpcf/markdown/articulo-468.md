@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 468
 
 Enseguida se declarará el asunto visto y se emitirá de inmediato la sentencia definitiva. De ser necesario, la autoridad jurisdiccional decretará un receso razonable para resolver en el mismo día.

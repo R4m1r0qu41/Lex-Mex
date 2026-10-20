@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo I
+
 # Artículo 640
 
 La autoridad jurisdiccional del lugar de residencia habitual de la niña, niño o adolescente quien fuere objeto de la restitución, será la única competente para determinar la custodia, régimen de convivencias, y patria potestad.

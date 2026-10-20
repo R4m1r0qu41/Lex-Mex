@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
+> Título Segundo · Capítulo I
+
 # Artículo 16
 
 El Servicio de Administración Tributaria podrá autorizar a los particulares para prestar los servicios de procesamiento electrónico de datos y servicios relacionados, necesarios para llevar a cabo el despacho aduanero; así como para las demás operaciones que ese órgano administrativo desconcentrado decida autorizar, inclusive las relacionadas con otras contribuciones, ya sea que se causen con motivo de los trámites aduaneros o por cualquier otra causa. Los particulares que deseen obtener la autorización a que se refiere este artículo deberán cumplir con los siguientes requisitos:

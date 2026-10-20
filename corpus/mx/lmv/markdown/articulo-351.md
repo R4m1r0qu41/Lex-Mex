@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título XIII
+
 # Artículo 351
 
 La [Comisión](articulo-2.md) contará con facultades de supervisión respecto de las emisoras, pudiendo al efecto y a fin de verificar el cumplimiento de esta Ley y la observancia de las disposiciones de carácter general que de ella emanen, practicar visitas de inspección y requerir toda clase de información y documentación relacionadas con las actividades que realizan las emisoras, dentro de los plazos y en la forma que la propia Comisión establezca. Lo dispuesto en el presente párrafo, así como las disposiciones contenidas en los artículos [354](articulo-354.md), [355](articulo-355.md), [356](articulo-356.md), [357](articulo-357.md) y [358 Bis](articulo-358-Bis.md) de la presente Ley, no serán aplicables a las emisoras simplificadas. Párrafo reformado DOF 28-12-2023

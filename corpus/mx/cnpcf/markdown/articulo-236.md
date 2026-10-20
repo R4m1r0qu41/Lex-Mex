@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo I
+
 # Artículo 236
 
 Si la demanda fuere oscura, irregular o no cumpliera con alguno de los requisitos del [artículo anterior](articulo-235.md), por una sola ocasión se señalará con toda precisión en qué consisten los defectos de la misma en el proveído que al efecto se dicte y publique en el medio de comunicación judicial, para que en el término de tres días contados a partir del día siguiente a aquel en que surta efectos la notificación se desahogue en tiempo y forma.

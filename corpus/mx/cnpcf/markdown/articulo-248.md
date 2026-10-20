@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo I
+
 # Artículo 248
 
 De todo documento que se presente después de la demanda y contestación, se dará traslado a la otra parte, para que dentro del plazo de tres días manifieste lo que a su derecho convenga.

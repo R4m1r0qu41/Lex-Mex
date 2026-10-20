@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo I
+
 # Artículo 648
 
 Una vez reunidos los requisitos señalados por la ley sustantiva para la Adopción, se proveerá respecto de los medios de prueba ofertados y se fijará fecha y hora dentro de los siguientes quince días para el desahogo de la comparecencia de la persona que se pretende adoptar, ello a efecto de que sea escuchada su opinión y su sentir respecto del trámite pretendido.

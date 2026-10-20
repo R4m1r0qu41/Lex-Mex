@@ -26,5 +26,3 @@ II.- Aquellos en los cuales el beneficio se conceda a diversas personas sucesiva
 III. Aquéllos cuya duración sea mayor de cincuenta años, cuando se designe como beneficiario a una persona moral que no sea de derecho público o institución de beneficencia. Sin embargo, pueden constituirse con duración mayor de cincuenta años cuando el fin del fideicomiso sea el mantenimiento de museos de carácter científico o artístico que no tengan fines de lucro. Fracción reformada DOF 08-05-1945, 13-06-2003
 
 Artículo recorrido (antes artículo [359](articulo-359.md)) DOF 23-05-2000
-
-Sección Segunda Del fideicomiso de garantía Sección adicionada DOF 23-05-2000

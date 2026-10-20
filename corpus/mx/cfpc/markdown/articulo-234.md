@@ -23,4 +23,6 @@ Si el recurso se hubiere interpuesto contra una sentencia, se dejará, en el Juz
 
 Si se tratare de un auto, en el de admisión se mandará remitir, al tribunal, copia del apelado, de sus notificaciones y de las constancias señaladas al interponer el recurso, adicionada con las que señalen las demás partes, dentro de los tres días siguientes a la notificación del auto que ordene la remisión de la copia. Fe de erratas al párrafo DOF 13-03-1943
 
-Si el apelante no señalare constancias, al interponer el recurso, se tendrá por no interpuesto. Si las demás partes no hacen el señalamiento que les corresponde, se enviará la copia con las constancias señaladas por el apelante. Fe de erratas al párrafo DOF 13-03-1943 En todo caso, la copia contendrá, además, las constancias que el juez estime conducentes.
+Si el apelante no señalare constancias, al interponer el recurso, se tendrá por no interpuesto. Si las demás partes no hacen el señalamiento que les corresponde, se enviará la copia con las constancias señaladas por el apelante. Fe de erratas al párrafo DOF 13-03-1943
+
+En todo caso, la copia contendrá, además, las constancias que el juez estime conducentes.

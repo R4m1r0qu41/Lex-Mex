@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Único · Capítulo II
+
 # Artículo 1014
 
 Si la persona obligada no rindiere cuentas en el plazo que se le señaló, puede la persona acreedora pedir que se despache ejecución contra la persona deudora, si durante el juicio comprobó que ésta tuviera ingresos por la cantidad que estos importaron. La persona obligada puede contradecir el monto de la ejecución, substanciándose el incidente en la misma forma a que se refiere el [artículo anterior](articulo-1013.md).

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo II
+
 # Artículo 161
 
 Para obtener copia certificada de cualquier documento o registro electrónico que obre en juicio, la parte interesada deberá solicitarlo en comparecencia, por escrito o por vía electrónica requiriéndose decreto judicial, y sólo se expedirá con citación de la contraria cuando se pidiera copia o testimonio de parte de un documento contenido en el expediente.

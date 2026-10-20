@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo VII
+
 # Artículo 199
 
 Si en el domicilio señalado, cerciorado de que ahí tiene su domicilio la persona buscada pero no se encontrara, así como tampoco persona alguna que pudiera legalmente recibir la notificación o bien si se negare a recibirla, entonces procederá la persona servidora pública judicial a fijar en lugar visible del domicilio, un citatorio de emplazamiento en donde se señalará el motivo de la diligencia, la fecha, la hora y el lugar de la misma, así como la fecha y hora del día para que le espere, que en ningún caso podrá ser menor de veinticuatro horas ni exceder de cuarenta y ocho horas, contadas a partir del día en que se dio la citación, nombre de quien promueve, autoridad jurisdiccional que ordena la diligencia, la determinación que se manda notificar y el apercibimiento de que, si en la fecha señalada para llevar a cabo la diligencia de emplazamiento no se encontrara a la persona buscada o destinataria del procedimiento judicial, se aplicarán las siguientes reglas:

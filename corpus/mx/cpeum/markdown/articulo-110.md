@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
 source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
 ---
 
+> Título Cuarto
+
 # Artículo 110
 
 Podrán ser sujetos de juicio político las senadoras y los senadores y las diputadas y los diputados al Congreso de la Unión, las ministras y los ministros de la Suprema Corte de Justicia de la Nación, las Magistradas y los Magistrados del Tribunal de Disciplina Judicial, las personas integrantes del Pleno del órgano de administración judicial, las personas titulares de las Secretarías de Despacho, la o el Fiscal General de la República, las magistradas y los magistrados de Circuito y las juezas y los jueces de Distrito, la consejera o consejero Presidente, las consejerías electorales y la o el secretario ejecutivo del Instituto Nacional Electoral, las magistradas y los magistrados del Tribunal Electoral, las y los integrantes de los órganos constitucionales autónomos, las y los directores generales y sus equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos. Párrafo reformado DOF 10-08-1987, 31-12-1994, 22-08-1996, 02-08-2007, 07-02-2014, 10-02-2014, 29-01-2016, 15-09-2024

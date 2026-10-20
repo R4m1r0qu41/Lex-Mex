@@ -20,5 +20,3 @@ source_sha256: cf8a5d05500ddbe21885db4a8f1128cf95b3aaab95b7982a47aa33baea652361
 Cuando al tenedor del original se le presentaren dos o más portadores legítimos de copias, obrará de acuerdo con lo que previene el artículo [121](articulo-121.md).
 
 Artículo reformado DOF 31-08-1933
-
-Sección Sexta Del Pago

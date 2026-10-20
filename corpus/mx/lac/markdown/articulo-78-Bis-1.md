@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo XV Bis
+
 # Artículo 78 Bis 1
 
 La [Agencia Federal de Aviación Civil](articulo-2.md), en materia de seguridad operacional, tiene las siguientes atribuciones: Párrafo reformado DOF 03-05-2023
@@ -39,7 +41,9 @@ X. Proponer a la [Secretaría](articulo-2.md) los recursos financieros necesario
 
 XI. Establecer sistemas de recopilación y procesamiento de datos sobre seguridad operacional; Fracción adicionada DOF 03-05-2023
 
-XII. Acceder a los datos e información sobre seguridad operacional; Fracción adicionada DOF 03-05-2023 XIII. Recopilar, analizar, compartir, procesar, intercambiar y utilizar datos e información de seguridad operacional; Fracción adicionada DOF 03-05-2023
+XII. Acceder a los datos e información sobre seguridad operacional; Fracción adicionada DOF 03-05-2023
+
+XIII. Recopilar, analizar, compartir, procesar, intercambiar y utilizar datos e información de seguridad operacional; Fracción adicionada DOF 03-05-2023
 
 XIV. Emitir el Manual del Programa Estatal de Seguridad Operacional, y Fracción adicionada DOF 03-05-2023
 

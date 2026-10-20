@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo XIX
+
 # Artículo 86
 
 Las infracciones a lo dispuesto en la presente Ley cometidas por la persona concesionaria, asignataria, operadora aérea o permisionaria, según se trate, serán sancionadas por la [Agencia Federal de Aviación Civil](articulo-2.md) de acuerdo con lo siguiente: Párrafo reformado DOF 28-12-2001, 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicado íntegro sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62)

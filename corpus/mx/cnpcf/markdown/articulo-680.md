@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Tercero · Capítulo I
+
 # Artículo 680
 
 Enseguida se declarará el asunto visto y se emitirá la sentencia definitiva correspondiente, para lo cual la autoridad jurisdiccional dispondrá del receso necesario dentro del mismo día de la audiencia.

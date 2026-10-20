@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
-> Capítulo II · Sección TERCERA
+> Título Octavo · Capítulo Unico
 
 # Artículo 185
 
@@ -37,7 +37,9 @@ VIII. Multa de $108,170.00 a $162,340.00, en el caso de la transmisión electró
 
 IX. Multa de $302,750.00 a $454,110.00, en los casos señalados en la fracción X, por cada aeronave que arribe al territorio nacional. Multa DOF 01-03-2002, 28-04-2003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008, 12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 29-12-2014, 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022, 28-12-2023, 30-12-2024, 27-12-2025
 
-X. Multa de $3,750.00 a $5,640.00, en el caso señalado en la fracción XI, por cada pedimento. Fracción adicionada DOF 31-12-1998 Multa de la fracción actualizada DOF 01-03-2002, 28-04-2003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008, 12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 29-12-2014, 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022, 28-12-2023, 30-12-2024, 27-12-2025
+X. Multa de $3,750.00 a $5,640.00, en el caso señalado en la fracción XI, por cada pedimento. Fracción adicionada DOF 31-12-1998
+
+Multa de la fracción actualizada DOF 01-03-2002, 28-04-2003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008, 12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 29-12-2014, 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022, 28-12-2023, 30-12-2024, 27-12-2025
 
 XI. Multa de $11,250.00 a $15,000.00 en caso de omisión y de $5,640.00 a $9,390.00 por la presentación extemporánea, en el caso señalado en la fracción XII. Fracción adicionada DOF 31-12-1998 Multa de la fracción actualizada DOF 01-03-2002, 28-04-2003, 04-04-2005, 10-04-2006, 09-05-2007, 09-05-2008, 12-05-2009, 01-07-2010, 03-08-2011, 27-12-2011, 29-12-2014, 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022, 28-12-2023, 30-12-2024, 27-12-2025
 

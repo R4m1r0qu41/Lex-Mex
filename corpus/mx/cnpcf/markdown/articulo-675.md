@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Tercero · Capítulo I
+
 # Artículo 675
 
 En la Audiencia Preliminar, la autoridad jurisdiccional se pronunciará respecto de la admisión de las pruebas, así como la forma en que deberán prepararse para su desahogo en la audiencia de juicio, quedando a cargo de las partes su oportuna preparación, bajo el apercibimiento que, de no hacerlo, se declararán desiertas de oficio las mismas por causas imputables al oferente.

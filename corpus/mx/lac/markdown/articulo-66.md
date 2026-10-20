@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo XII · Sección Primera
+
 # Artículo 66
 
 Las reclamaciones para los casos de pérdida o avería de la carga o equipaje facturado, deberán presentarse ante el concesionario o permisionario dentro de los quince días siguientes contados a partir de la fecha de entrega o de la fecha en que debió hacerse la misma. La falta de reclamación oportuna impedirá el ejercicio de las acciones correspondientes.

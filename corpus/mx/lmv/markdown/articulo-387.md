@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título XIV · Capítulo II
+
 # Artículo 387
 
 Los accionistas, consejeros y directivos que ordenen o insten a directivos o empleados de un intermediario del mercado de valores a la comisión de los delitos contenidos en los artículos [375](articulo-375.md) a [378](articulo-378.md) y [384](articulo-384.md) de esta Ley, serán sancionados hasta en una mitad más de las penas previstas en los citados preceptos legales.

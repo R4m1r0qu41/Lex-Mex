@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
+> Título Segundo · Capítulo III
+
 # Artículo 41
 
 Los agentes aduanales y las agencias aduanales serán representantes legales de los importadores y exportadores, en los siguientes casos: Párrafo reformado DOF 09-12-2013, 25-06-2018

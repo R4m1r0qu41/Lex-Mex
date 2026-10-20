@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo Único
+
 # Artículo 840
 
 Subsanada la prevención ordenada a la persona deudora, en su caso, la autoridad jurisdiccional dictará el auto de admisión de la solicitud de concurso, o la resolución que lo tiene por presentado conforme al [artículo anterior](articulo-839.md), en el que declarará la apertura del procedimiento y ordenará lo siguiente:

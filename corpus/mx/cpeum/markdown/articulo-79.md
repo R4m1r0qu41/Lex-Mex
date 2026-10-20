@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
 source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
 ---
 
+> Título Tercero · Capítulo II
+
 # Artículo 79
 
 La Auditoría Superior de la Federación de la Cámara de Diputados, tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la ley. Párrafo reformado DOF 27-05-2015
@@ -21,7 +23,9 @@ La función de fiscalización será ejercida conforme a los principios de legali
 
 La Auditoría Superior de la Federación podrá iniciar el proceso de fiscalización a partir del primer día hábil del ejercicio fiscal siguiente, sin perjuicio de que las observaciones o recomendaciones que, en su caso realice, deberán referirse a la información definitiva presentada en la Cuenta Pública. Párrafo adicionado DOF 27-05-2015
 
-Asimismo, por lo que corresponde a los trabajos de planeación de las auditorías, la Auditoría Superior de la Federación podrá solicitar información del ejercicio en curso, respecto de procesos concluidos. Párrafo adicionado DOF 27-05-2015 La Auditoría Superior de la Federación tendrá a su cargo: Párrafo reformado DOF 27-05-2015
+Asimismo, por lo que corresponde a los trabajos de planeación de las auditorías, la Auditoría Superior de la Federación podrá solicitar información del ejercicio en curso, respecto de procesos concluidos. Párrafo adicionado DOF 27-05-2015
+
+La Auditoría Superior de la Federación tendrá a su cargo: Párrafo reformado DOF 27-05-2015
 
 I. Fiscalizar en forma posterior los ingresos, egresos y deuda; las garantías que, en su caso, otorgue el Gobierno Federal respecto a empréstitos de los Estados y Municipios; el manejo, la custodia y la aplicación de fondos y recursos de los Poderes de la Unión y de los entes públicos federales, así como realizar auditorías sobre el desempeño en el cumplimiento de los objetivos contenidos en los programas federales, a través de los informes que se rendirán en los términos que disponga la Ley. Párrafo reformado DOF 26-05-2015
 
@@ -58,5 +62,3 @@ Los Poderes de la Unión, las entidades federativas y las demás entidades fisca
 El Poder Ejecutivo Federal aplicará el procedimiento administrativo de ejecución para el cobro de las indemnizaciones y sanciones pecuniarias a que se refiere la fracción IV del presente artículo.
 
 Artículo reformado DOF 24-11-1923, 20-08-1928, 29-04-1933, 21-10-1966, 06-07-1971, 08-10-1974, 08-02-1985, 10-08-1987, 25-10-1993, 31-12-1994, 30-07-1999
-
-Capítulo III Del Poder Ejecutivo

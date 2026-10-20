@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo III
+
 # Artículo 169
 
 Todas las resoluciones, sean decretos, autos provisionales, definitivos, preparatorios o sentencias interlocutorias, deben ser dictados con plena autonomía e independencia judicial, cualquier atentado contra estos dos principios se hará del conocimiento del Ministerio Público. Igualmente serán claras, precisas y congruentes con las promociones de las partes, resolviendo sobre todo lo que éstas hayan pedido.

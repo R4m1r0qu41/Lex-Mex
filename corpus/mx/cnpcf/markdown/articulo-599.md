@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo I
+
 # Artículo 599
 
 Hecha la consignación, la autoridad jurisdiccional deberá proveer de inmediato, haciendo saber a la persona acreedora alimentaria, que lo depositado queda a su disposición, para lo cual debe citarle para que comparezca a recibir o verificar el depósito.

@@ -17,6 +17,6 @@ source_sha256: a2d3f947b369e4383f2f27a4e9bd819a3dba768ab9bae527e6388e30c1f9e06c
 
 # Artículo 103 Bis 6
 
-A efecto de preservar el interés público y sentido ético, en el estudio, investigación y desarrollo del genoma humano como materia de salubridad general la Secretaría de Salud establecerá aquellos casos en los que se requiera control en la materia, asegurándose de no limitar la libertad en la investigación correspondiente de conformidad con el artículo [3](articulo-3o.md)o. constitucional.
+A efecto de preservar el interés público y sentido ético, en el estudio, investigación y desarrollo del genoma humano como materia de salubridad general la Secretaría de Salud establecerá aquellos casos en los que se requiera control en la materia, asegurándose de no limitar la libertad en la investigación correspondiente de conformidad con el artículo 3o. constitucional.
 
 Artículo adicionado DOF 16-11-2011

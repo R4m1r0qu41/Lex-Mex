@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 577
 
 Cuando el deudor alimentario haya dejado de cumplir con sus obligaciones en materia de alimentos por un periodo mayor de dos meses o sesenta días naturales, continuos o discontinuos, en cualquier momento del procedimiento podrá solicitarse a la autoridad jurisdiccional lo haga del conocimiento del Registro de Deudores Alimentarios Morosos o institución similar o análoga en las Entidades Federativas.
@@ -24,5 +26,3 @@ Del mismo modo la autoridad jurisdiccional podrá ordenar a petición de parte, 
 A efecto de lo anterior la autoridad jurisdiccional también podrá instruir la anotación, registro o inscripción que corresponda a la medida ordenada.
 
 En su caso, se dará vista al Ministerio Público para los efectos que corresponda.
-
-Sección Cuarta De la Separación de Personas

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título XV · Capítulo II
+
 # Artículo 393
 
 La [Comisión](articulo-2.md), con independencia de las sanciones económicas que conforme a ésta u otras leyes correspondan y por acuerdo de su Junta de Gobierno, podrá decretar la remoción o suspensión de tres meses hasta cinco años para desempeñar un empleo, cargo o comisión en las entidades financieras, asesores en inversiones o en las emisoras, tratándose de: Párrafo reformado DOF 10-01-2014

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo Único
+
 # Artículo 852
 
 Podrá constituir causa de anulación total o parcial del plan de pagos si en el transcurso de cualquiera de los procedimientos regulados en este Capítulo la persona deudora incurre en actos tendientes a retrasar u obstaculizar los objetivos del procedimiento, o en alguna de las conductas siguientes:

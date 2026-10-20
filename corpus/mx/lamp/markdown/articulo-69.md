@@ -18,5 +18,3 @@ source_sha256: 05560493ac2b17b9e77eeb9741843176ee0fde76f05e75f853465b13621be78d
 # Artículo 69
 
 Declarada la nulidad, se repondrá el procedimiento a partir de la actuación anulada.
-
-Sección Segunda Reposición de Constancias de Autos

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título IV · Capítulo II
+
 # Artículo 93
 
 La [Comisión](articulo-2.md) inscribirá en el [Registro](articulo-2.md), previa solicitud del interesado, en forma preventiva y conforme la modalidad de genérica, valores de un mismo tipo o clase, sean parte o no de un programa de colocación. Dicha inscripción, tendrá efectos generales y permitirá a la emisora llevar a cabo ilimitadamente emisiones de los valores objeto de dicho acto registral.

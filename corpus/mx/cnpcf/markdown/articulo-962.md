@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Único · Capítulo II
+
 # Artículo 962
 
 Cuando para el desarrollo de la audiencia o diligencia virtuales resulte fundamental mantener la separación o exclusión de ciertos intervinientes en determinados momentos de la misma, la autoridad jurisdiccional encargada de su conducción solicitará el apoyo de su personal técnico o administrativo para que, con asistencia técnica, se adopten medidas tendientes a:

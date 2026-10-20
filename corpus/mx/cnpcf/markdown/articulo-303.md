@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 303
 
 Desahogados los dictámenes de ambas partes, si la autoridad jurisdiccional los estima substancialmente contradictorios de tal modo que no es posible encontrar conclusiones que le aporten elementos de convicción, podrá designar un perito tercero en discordia en la misma audiencia de juicio. En este caso, desahogará las pruebas preparadas y diferirá la misma para la recepción de dicho dictamen, según el caso, al prudente arbitrio de la autoridad jurisdiccional, siempre y cuando no exceda de quince días.

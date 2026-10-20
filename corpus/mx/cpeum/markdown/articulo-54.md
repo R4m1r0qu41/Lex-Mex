@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
 source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
 ---
 
+> Título Tercero · Capítulo II
+
 # Artículo 54
 
 La elección de los 200 diputados según el principio de representación proporcional y el sistema de asignación por listas regionales, se sujetará a las siguientes bases y a lo que disponga la ley: Párrafo reformado DOF 03-09-1993

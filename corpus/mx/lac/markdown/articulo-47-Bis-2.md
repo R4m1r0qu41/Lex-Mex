@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo X Bis
+
 # Artículo 47 Bis 2
 
 Con el fin de dar cumplimiento a las disposiciones señaladas en este capítulo, los concesionarios o permisionarios de servicio al público de transporte aéreo deberán de contar con un módulo de atención al pasajero en cada una de las terminales en donde operen. La [Procuraduría](articulo-2.md) deberá establecer mecanismos para regular estos módulos y garantizar que los procedimientos que ahí se realicen se hagan de forma sencilla y expedita.

@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAN.pdf
 source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 ---
 
-> Título CUARTO
+> Título CUARTO · Capítulo IV
 
 # Artículo 32
 
@@ -22,5 +22,3 @@ En el Registro Público Nacional del Agua se llevará igualmente el registro nac
 "La Autoridad del Agua" solicitará los datos a las personas propietarias de las tierras, independientemente de que éstas se localicen dentro o fuera de una zona reglamentada o de veda. Las personas propietarias estarán obligadas a proporcionar esta información y la relativa a las obras de perforación o alumbramiento que hayan efectuado.
 
 Artículo reformado DOF 29-04-2004, 11-12-2025
-
-Capítulo V Fondo de Reserva de Aguas Nacionales Denominación del Capítulo reformada DOF 11-12-2025

@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNEP.pdf
 source_sha256: 91abecabe50a5e414e0835daa9086ce3b307fffb9ebe626dab3bb9d1eae51680
 ---
 
-> Título QUINTO
+> Título QUINTO · Capítulo II
 
 # Artículo 141
 
@@ -36,5 +36,3 @@ VI. No estar sujeto a otro proceso penal del fuero común o federal por delito q
 VII. Que hayan cumplido el setenta por ciento de la pena impuesta en los delitos dolosos o la mitad de la pena tratándose de delitos culposos.
 
 No gozarán de la libertad anticipada los sentenciados por delitos en materia de delincuencia organizada, secuestro y trata de personas.
-
-Capítulo III Sustitución y Suspensión Temporal de las Penas

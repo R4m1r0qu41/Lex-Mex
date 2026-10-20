@@ -18,5 +18,3 @@ source_sha256: cf8a5d05500ddbe21885db4a8f1128cf95b3aaab95b7982a47aa33baea652361
 # Artículo 22
 
 Respecto a los títulos de deuda pública, a los billetes de banco, a las acciones de sociedades y a los demás títulos de crédito regulados por leyes especiales, se aplicará lo prescrito en las disposiciones legales relativas y, en cuanto ellas no prevengan, lo dispuesto por este Capítulo.
-
-Sección Segunda De los títulos nominativos

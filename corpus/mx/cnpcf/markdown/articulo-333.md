@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 333
 
 La inspección o reconocimiento deberá cumplir con las siguientes reglas:
@@ -26,5 +28,3 @@ III. Las partes, peritos o testigos podrán estar presentes en la inspección ju
 V. Con este fin, la audiencia iniciará en la sala de audiencias de la autoridad jurisdiccional respectiva, en la que, después de cumplir con las demás formalidades de la misma, se decretará el receso para trasladarse al lugar de la inspección y, posteriormente, al regreso, continuar con la audiencia respectiva de poderse celebrar el mismo día, en caso contrario, se podrá señalar nuevo día y hora para su continuación, y
 
 VI. En caso de no presentarse a la audiencia o diligencia la parte interesada, la prueba dejará de recibirse. Durante el desahogo de la inspección las partes, testigos o peritos, según el caso, podrán realizar las observaciones que consideren pertinentes, debiendo la autoridad jurisdiccional resolver en el acto lo que en derecho proceda, y la inspección judicial deberá videograbarse en su totalidad, sin incluir el traslado de personas; adicionándose, en su caso, los planos y fotografías respectivas. De no ser posible, se hará constar en cualquier medio a juicio de la autoridad jurisdiccional.
-
-Sección Séptima De la Prueba de Informes

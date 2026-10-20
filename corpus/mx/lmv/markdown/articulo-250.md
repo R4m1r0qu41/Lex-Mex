@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título IX · Capítulo II
+
 # Artículo 250
 
 Las bolsas de valores podrán invertir en títulos representativos del capital social de otras bolsas de valores y de instrumentos financieros derivados, instituciones para el depósito de valores, contrapartes centrales de valores, cámaras de compensación de instrumentos financieros derivados, sociedades que administran sistemas para facilitar operaciones con valores, proveedores de precios, empresas que les presten servicios complementarios o auxiliares en su administración o en la realización de su objeto, así como de sociedades inmobiliarias que sean propietarias o administradoras de bienes destinados a sus oficinas.

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
 source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
 ---
 
+> Título Tercero · Capítulo II
+
 # Artículo 55
 
 Para ser diputado se requiere: Párrafo reformado DOF 29-01-2016
@@ -21,7 +23,9 @@ I. Ser ciudadano mexicano, por nacimiento, en el ejercicio de sus derechos.
 
 II. Tener dieciocho años cumplidos el día de la elección; Fracción reformada DOF 14-02-1972, 06-06-2023
 
-III. Ser originario de la entidad federativa en que se haga la elección o vecino de esta con residencia efectiva de más de seis meses anteriores a la fecha de ella. Párrafo reformado DOF 29-01-2016 Para poder figurar en las listas de las circunscripciones electorales plurinominales como candidato a diputado, se requiere ser originario de alguna de las entidades federativas que comprenda la circunscripción en la que se realice la elección, o vecino de ella con residencia efectiva de más de seis meses anteriores a la fecha en que la misma se celebre.
+III. Ser originario de la entidad federativa en que se haga la elección o vecino de esta con residencia efectiva de más de seis meses anteriores a la fecha de ella. Párrafo reformado DOF 29-01-2016
+
+Para poder figurar en las listas de las circunscripciones electorales plurinominales como candidato a diputado, se requiere ser originario de alguna de las entidades federativas que comprenda la circunscripción en la que se realice la elección, o vecino de ella con residencia efectiva de más de seis meses anteriores a la fecha en que la misma se celebre.
 
 La vecindad no se pierde por ausencia en el desempeño de cargos públicos de elección popular. Fracción reformada DOF 08-10-1974, 06-12-1977
 

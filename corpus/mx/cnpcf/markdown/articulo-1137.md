@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Capítulo II · Sección Primera
+
 # Artículo 1137
 
 Las autoridades jurisdiccionales nacionales podrán ejecutar las medidas cautelares dictadas por una autoridad jurisdiccional extranjera, cuando el objeto de la medida consista en garantizar la seguridad de personas y bienes.

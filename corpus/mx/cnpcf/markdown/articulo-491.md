@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 491
 
 Se correrá traslado a la parte actora y demandada en el principal con la promoción de la tercería coadyuvante, para que contesten en el plazo de nueve días; con el escrito de contestación a la demanda se dará vista a la tercerista para que dentro del término de tres días manifieste lo que a su derecho convenga. En los escritos citados se deberán ofrecer las pruebas, las cuales se admitirán conforme a las reglas generales de este [Código Nacional](articulo-2.md).

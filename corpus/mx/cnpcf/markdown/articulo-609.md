@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo I
+
 # Artículo 609
 
 En todos los casos de impedimento, separación o excusa de la persona tutora o curadora, definitivos o propietarios, se nombrará un interino mientras se decide la cuestión litigiosa y resuelto éste, se designará al que lo sustituya.

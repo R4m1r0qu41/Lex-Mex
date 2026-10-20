@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 500
 
 Si la persona actora y la demandada en el principal se allanaren a la demanda de la tercería, la autoridad jurisdiccional, sin más trámites, mandará cancelar los embargos, si fuere excluyente de dominio, y dictará sentencia por escrito dentro de los siguientes cinco días, si fuere de preferencia. Lo mismo hará cuando ambos dejaren de contestar a la demanda de tercería.

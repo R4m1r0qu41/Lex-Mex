@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título X · Capítulo II
+
 # Artículo 301
 
 Las actividades que tengan por objeto reducir los riesgos de incumplimiento de las obligaciones a cargo de los intermediarios del mercado de valores, asumiendo el carácter de acreedor y deudor recíproco de los derechos y obligaciones que deriven de operaciones con valores previamente concertadas por cuenta propia o de terceros entre dichos intermediarios, mediante novación, se considerarán un servicio público y únicamente podrán realizarse por contrapartes centrales de valores.

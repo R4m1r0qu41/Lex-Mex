@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
-> Capítulo II · Sección TERCERA
+> Título Cuarto · Capítulo VII
 
 # Artículo 135-D
 
@@ -37,6 +37,4 @@ Los productos resultantes de los procesos de elaboración, transformación o rep
 
 Las personas que hayan obtenido la autorización a que se refiere el artículo [135-A](articulo-135-A.md) de esta Ley, responderán directamente ante el Fisco Federal por el importe de los créditos fiscales que corresponda pagar por las mercancías que sean retiradas del recinto fiscalizado sin cumplir con las obligaciones y formalidades que para tales se requieran o cuando incurran en infracciones o delitos relacionados con la introducción, extracción, manejo, almacenaje o custodia de las mercancías. Dicha responsabilidad comprenderá el pago de los impuestos al comercio exterior y de las demás contribuciones, así como de las cuotas compensatorias que en su caso se causen, y sus accesorios, así como las multas aplicables. Las personas que hayan obtenido la autorización a que se refiere el artículo [14-D](articulo-14-D.md) de esta Ley, serán responsables solidarios en los mismos términos y condiciones.
 
-Artículo adicionado DOF 30-12-2002 Título Quinto Franja y región fronteriza
-
-Capítulo Unico
+Artículo adicionado DOF 30-12-2002

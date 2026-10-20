@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 378
 
 Los medios preparatorios a juicio ejecutivo tienen por objeto que una persona presunta deudora comparezca ante la autoridad jurisdiccional para reconocer el contenido de un documento o la firma de este, así como por solicitud de la persona acreedora y sobre una obligación cierta, liquida y exigible.

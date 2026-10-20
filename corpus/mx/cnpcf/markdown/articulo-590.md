@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo I
+
 # Artículo 590
 
 Cuando fuere necesaria la audiencia de alguna persona, se la citará conforme a derecho, apercibiéndole en la citación que quedan, por tres días, las actuaciones en la secretaría de la autoridad jurisdiccional para que se imponga de ellas y señalará día y hora para la audiencia dentro del término de quince días, a la que concurrirá el promovente o su representante legal.

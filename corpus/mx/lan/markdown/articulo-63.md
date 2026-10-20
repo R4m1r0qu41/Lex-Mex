@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAN.pdf
 source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 ---
 
-> Título SEXTO
+> Título SEXTO · Capítulo II
 
 # Artículo 63
 
@@ -22,5 +22,3 @@ Las unidades de riego que así lo convengan podrán integrar un distrito de rieg
 Lo establecido para los distritos de riego se aplicará en lo conducente a las unidades de riego.
 
 Artículo reformado DOF 29-04-2004
-
-Sección Cuarta Distritos de Riego

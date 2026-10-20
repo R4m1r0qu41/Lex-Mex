@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo II
+
 # Artículo 147
 
 La persona secretaria judicial certificará el medio en donde se encuentren registradas las audiencias respectivas e identificará dicho medio con el número de expediente. La conservación de los registros de audio y video estará igualmente a su cargo, y las partes podrán solicitar copia que siempre será certificada, a su costa, asegurando que estén disponibles para consulta para las partes desde el momento en que concluya la audiencia.

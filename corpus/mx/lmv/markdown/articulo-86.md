@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título IV · Capítulo II
+
 # Artículo 86
 
 Las emisoras que pretendan obtener la inscripción de sus valores en el [Registro](articulo-2.md), para realizar una oferta pública, deberán elaborar un prospecto de colocación o suplemento informativo, preliminares y definitivos, que acompañen a la solicitud de inscripción, incluyendo la información relevante e incorporando los derechos y obligaciones del oferente y de quienes, en su caso, acepten la oferta.

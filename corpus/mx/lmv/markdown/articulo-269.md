@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título IX · Capítulo VI
+
 # Artículo 269
 
 La [Secretaría](articulo-2.md) o la [Comisión](articulo-2.md), según corresponda, podrán revocar la concesión o autorización para operar como bolsa de valores o sociedad que administra sistemas para facilitar operaciones con valores, cuando:

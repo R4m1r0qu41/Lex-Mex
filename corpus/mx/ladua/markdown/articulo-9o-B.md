@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
+> Título Primero · Capítulo II
+
 # Artículo 9o-B
 
 La notificación por estrados se realizará a través del sistema electrónico aduanero transcurrido el plazo de cinco días hábiles a que se refiere el artículo [9](articulo-9o.md)o.-A de esta Ley, para lo cual se publicará el acto administrativo respectivo en la página electrónica del sistema electrónico aduanero por un plazo de quince días hábiles, computado a partir del día hábil siguiente a aquél en que se haya publicado.

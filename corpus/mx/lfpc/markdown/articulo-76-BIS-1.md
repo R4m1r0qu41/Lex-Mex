@@ -34,5 +34,3 @@ VI. Mecanismos para presentar peticiones, quejas o reclamos, y
 VII. Mecanismos de identidad, de pago y de entrega.
 
 Artículo adicionado DOF 11-01-2018
-
-Capítulo IX De las garantías

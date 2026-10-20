@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo I
+
 # Artículo 644
 
 La solicitud de adopción podrá ser recibida mediante escrito o por comparecencia desahogada en audiencia, esta última será preferentemente videograbada o a través de los medios de comunicación electrónicos previstos en este [Código Nacional](articulo-2.md). En ambas modalidades la solicitud deberá de ser proveída por la autoridad jurisdiccional el mismo día de la recepción.

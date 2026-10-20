@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 268
 
 La autoridad jurisdiccional debe recibir las pruebas que le presenten las partes, siempre que estén permitidas por la Ley y se refieran a los puntos cuestionados. Si las partes estiman que las resoluciones judiciales que admitan o desechan pruebas les causan agravio, lo harán valer en la apelación contra la sentencia definitiva que, en su caso, interpongan; y la autoridad jurisdiccional de segunda instancia deberá resolver con plenitud de jurisdicción sin reenvío.

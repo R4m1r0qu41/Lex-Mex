@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
-> Capítulo II · Sección TERCERA
+> Título Séptimo · Capítulo Unico
 
 # Artículo 162
 
@@ -57,6 +57,8 @@ XII. Derogada. Fracción adicionada DOF 30-12-2002. Derogada DOF 25-06-2018
 
 XIII. Acreditar, en su caso, ante cada aduana en la que ejerza la patente al menos a un mandatario autorizado por la autoridad aduanera. Fracción adicionada DOF 09-12-2013
 
-XIV. Someterse a los exámenes a los que podrá convocar anualmente de manera general el Servicio de Administración Tributaria. Este deberá publicar las reglas de carácter general en las que se establecerán los lineamientos para la aplicación de los exámenes que realizarán instituciones académicas o especializadas en evaluación y que estén debida y previamente acreditadas ante el Servicio de Administración Tributaria. Todos los costos que se generen con motivo de la aplicación de los exámenes correrán a cargo de los agentes aduanales. Fracción adicionada DOF 09-12-2013 XV. Informar a la autoridad aduanera por escrito si la operación de comercio exterior realizada por los importadores y exportadores, es contraria a los criterios normativos o no vinculativos, establecidos por el Servicio de Administración Tributaria. Fracción adicionada DOF 19-11-2025
+XIV. Someterse a los exámenes a los que podrá convocar anualmente de manera general el Servicio de Administración Tributaria. Este deberá publicar las reglas de carácter general en las que se establecerán los lineamientos para la aplicación de los exámenes que realizarán instituciones académicas o especializadas en evaluación y que estén debida y previamente acreditadas ante el Servicio de Administración Tributaria. Todos los costos que se generen con motivo de la aplicación de los exámenes correrán a cargo de los agentes aduanales. Fracción adicionada DOF 09-12-2013
+
+XV. Informar a la autoridad aduanera por escrito si la operación de comercio exterior realizada por los importadores y exportadores, es contraria a los criterios normativos o no vinculativos, establecidos por el Servicio de Administración Tributaria. Fracción adicionada DOF 19-11-2025
 
 XVI. Emitir el comprobante fiscal digital por Internet en términos del Código Fiscal de la Federación, por todos los servicios prestados. Fracción adicionada DOF 19-11-2025

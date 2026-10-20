@@ -18,5 +18,3 @@ source_sha256: cf8a5d05500ddbe21885db4a8f1128cf95b3aaab95b7982a47aa33baea652361
 # Artículo 132
 
 Si no se exige el pago de la letra a su vencimiento, el girado o cualquiera de los obligados en ella, después de transcurrido el plazo del protesto, tiene el derecho de depositar en el Banco de México el importe de la letra a expensas y riesgo del tenedor, y sin obligación de dar aviso a éste.
-
-Sección Séptima Del Pago por Intervención

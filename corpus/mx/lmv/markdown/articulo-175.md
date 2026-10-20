@@ -13,8 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título VI · Capítulo II
+
 # Artículo 175
 
 Las disposiciones de carácter general a que se refiere el artículo [174](articulo-174.md) de esta Ley, deberán procurar condiciones de seguridad para las operaciones y la adecuada prestación del servicio de intermediación, así como evitar el establecimiento de relaciones de dependencia para las casas de bolsa.
-
-Sección II De las reglas de operación

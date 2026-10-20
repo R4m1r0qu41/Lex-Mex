@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo XV Bis
+
 # Artículo 78 Bis 5
 
 Los datos e información sobre seguridad operacional contenida en el [Sistema de gestión de la seguridad operacional](articulo-2.md), sistemas de recopilación y procesamiento de datos sobre seguridad operacional, bases de datos, esquemas para intercambio de información e información registrada, comprenden:

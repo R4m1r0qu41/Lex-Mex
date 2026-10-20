@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf
 source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 ---
 
+> Capítulo V · Sección I
+
 # Artículo 25
 
 El procedimiento administrativo será autónomo de la reparación de los daños y perjuicios que, en su caso, demanden las personas afectadas por los actos de que se trate.

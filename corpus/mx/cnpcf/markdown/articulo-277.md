@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 277
 
 La autoridad jurisdiccional, en la audiencia preliminar al admitir las pruebas ofrecidas, procederá a señalar fecha y hora para audiencia de juicio en la que se recibirán oralmente las pruebas, para dichos efectos tomará en consideración el tiempo para su preparación.

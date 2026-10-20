@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 531
 
 Realizadas las publicaciones y fijado el anuncio, se correrá traslado de la solicitud, para que contesten si existe oposición al procedimiento, dentro del término de quince días, las siguientes personas:

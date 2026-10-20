@@ -13,8 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo I
+
 # Artículo 628
 
 Lo dispuesto en los artículos que preceden, se aplicará al gravamen y enajenación de los bienes de las personas ausentes o desaparecidas, así como a la transacción y arrendamiento por más de cinco años, de bienes de ausentes o desaparecidos.
-
-Sección Sexta Restitución Nacional de Niñas, Niños y Adolescentes

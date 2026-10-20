@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Único · Capítulo III
+
 # Artículo 1056
 
 Si la persona interventora al efectuar la valoración de los bienes muebles e inmuebles, incluyendo los efectos, maquinaria e instrumentos propios para el fomento y giro de las negociaciones mercantiles o industriales, así como de los títulos valor, géneros de comercio y derechos de cualquier otra especie, encuentra que alguno o algunos de ellos son suficientes para cubrir el adeudo, lo hará del conocimiento de la autoridad jurisdiccional, para que ésta autorice su venta, a valor de mercado, debiendo tomar nota del valor de venta en la contabilidad de la negociación y el que arroje el juicio de perito único adscrito y designado por la autoridad jurisdiccional, siempre y cuando los bienes de que se trate no fueren necesarios para el servicio y movimiento de aquellas, a juicio de la autoridad jurisdiccional.

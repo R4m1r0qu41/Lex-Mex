@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPF.pdf
 source_sha256: a2d80c4383c5fbc8453cf290c19b7853eb0a5a05d1e366572da384edfafda88c
 ---
 
-> Título SEPTIMO · Capítulo II
+> Título SEPTIMO · Capítulo III
 
 # Artículo 199 Quáter
 
@@ -26,17 +26,5 @@ Además de las penas previstas, se impondrá suspensión para ejercer la profesi
 Cuando entre el activo y el pasivo exista relación de matrimonio, concubinato o relación de pareja, los delitos previstos en los artículos anteriores se perseguirán por querella.
 
 Si resultan hijos a consecuencia de la comisión de alguno de los delitos previstos en los artículos anteriores, la reparación del daño comprenderá además el pago de alimentos para éstos y para la madre, en los términos que fija la legislación civil.
-
-Artículo adicionado DOF 14-06-2012
-
-Artículo [199](articulo-199.md) Quintus. Comete el delito de esterilidad provocada quien sin el consentimiento de una persona practique en ella procedimientos quirúrgicos, químicos o de cualquier otra índole para hacerla estéril.
-
-Al responsable de esterilidad provocada se le impondrán de cuatro a siete años de prisión y hasta setenta días multa, así como el pago total de la reparación de los daños y perjuicios ocasionados, que podrá incluir el procedimiento quirúrgico correspondiente para revertir la esterilidad.
-
-Además de las penas señaladas en el párrafo anterior, se impondrá al responsable la suspensión del empleo o profesión por un plazo igual al de la pena de prisión impuesta hasta la inhabilitación definitiva, siempre que en virtud de su ejercicio haya resultado un daño para la víctima; o bien, en caso de que el responsable sea servidor público se le privará del empleo, cargo o comisión público que haya estado desempeñando, siempre que en virtud de su ejercicio haya cometido dicha conducta típica.
-
-Artículo adicionado DOF 14-06-2012
-
-Artículo [199](articulo-199.md) Sextus. Los delitos previstos en este capítulo serán perseguibles de oficio, a excepción de los que se señalen por querella de parte ofendida.
 
 Artículo adicionado DOF 14-06-2012

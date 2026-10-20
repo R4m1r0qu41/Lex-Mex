@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Tercero · Capítulo I
+
 # Artículo 541
 
 La persona a quien se comunique su posible nombramiento como árbitro, deberá estar libre de conflicto de intereses con cualquiera de las partes, así mismo, será su obligación revelar todas las circunstancias que puedan dar lugar a dudas justificadas acerca de su imparcialidad o independencia. Desde el momento de su nombramiento y durante todas las actuaciones arbitrales, revelará sin demora tales circunstancias a las partes.

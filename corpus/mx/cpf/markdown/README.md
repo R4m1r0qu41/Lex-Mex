@@ -240,9 +240,12 @@ Fuente operativa: [camara_de_diputados](https://www.diputados.gob.mx/LeyesBiblio
 - [Artículo 199 Bis](articulo-199-Bis.md)
 - [Artículo 199 Ter](articulo-199-Ter.md)
 - [Artículo 199 Quáter](articulo-199-Quáter.md)
+- [Artículo 199 Quintus](articulo-199-Quintus.md)
+- [Artículo 199 Sextus](articulo-199-Sextus.md)
 - [Artículo 199 Septies](articulo-199-Septies.md)
 - [Artículo 199 Octies](articulo-199-Octies.md)
 - [Artículo 199 Nonies](articulo-199-Nonies.md)
+- [Artículo 199 Decies](articulo-199-Decies.md)
 - [Artículo 200](articulo-200.md)
 - [Artículo 201](articulo-201.md)
 - [Artículo 201 BIS](articulo-201-BIS.md)
@@ -264,6 +267,7 @@ Fuente operativa: [camara_de_diputados](https://www.diputados.gob.mx/LeyesBiblio
 - [Artículo 209 Bis](articulo-209-Bis.md)
 - [Artículo 209 Ter](articulo-209-Ter.md)
 - [Artículo 209 Quáter](articulo-209-Quáter.md)
+- [Artículo 209 Quintus](articulo-209-Quintus.md)
 - [Artículo 210](articulo-210.md)
 - [Artículo 211](articulo-211.md)
 - [Artículo 211 Bis](articulo-211-Bis.md)
@@ -558,3 +562,7 @@ Fuente operativa: [camara_de_diputados](https://www.diputados.gob.mx/LeyesBiblio
 - [Artículo 429](articulo-429.md)
 
 ## Disposiciones transitorias
+
+- [1º](transitorio-1º.md)
+- [2º](transitorio-2º.md)
+- [3º](transitorio-3º.md)

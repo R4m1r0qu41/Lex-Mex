@@ -23,4 +23,4 @@ Si la enfermedad padecida fuera incurable se impondrá la pena de seis meses a c
 
 Cuando se trate de cónyuges, concubinarios o concubinas, sólo podrá procederse por querella del ofendido.
 
-Artículo adicionado DOF 14-02-1940. Reformado DOF 21-01-1991 Capítulo III Delitos contra los Derechos Reproductivos Capítulo adicionado DOF 14-06-2012
+Artículo adicionado DOF 14-02-1940. Reformado DOF 21-01-1991

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 337
 
 Presunción es la consecuencia que la norma jurídica o la autoridad jurisdiccional, deduce de un hecho conocido para averiguar la verdad de otro desconocido: la primera se llama legal y la segunda humana.

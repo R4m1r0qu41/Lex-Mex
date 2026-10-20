@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 770
 
 Será removido el albacea de su cargo, mediante incidente, si no presentare el proyecto de partición dentro del término indicado en el [artículo anterior](articulo-769.md) o dentro de la prórroga que le concedan las personas interesadas por mayoría de votos.

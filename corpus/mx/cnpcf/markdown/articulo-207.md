@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo VII
+
 # Artículo 207
 
 Salvo disposición legal en contrario, cuando se trate de diligencias de embargo, la persona servidora pública judicial, no podrá practicarla cuando por primera ocasión en que la intente no se entienda con la parte interesada. En este caso, dejará citatorio para que la espere dentro de las horas que se le precisen, que serán para después de seis horas de la del citatorio y entre las cuarenta y ocho horas siguientes. Si la persona buscada no atiende el citatorio, la diligencia se practicará con quienes tengan con ella algún parentesco o sean sus trabajadoras, o con cualquier otra persona que viva en el domicilio señalado.

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título XIV · Capítulo II
+
 # Artículo 376
 
 Serán sancionados con prisión de dos a diez años, los miembros del consejo de administración, directivos, funcionarios, empleados, apoderados para celebrar operaciones con el público, comisarios o auditores externos, de un intermediario del mercado de valores, bolsa de valores, instituciones para el depósito de valores, contrapartes centrales de valores o emisoras, que cometan cualquiera de las siguientes conductas:

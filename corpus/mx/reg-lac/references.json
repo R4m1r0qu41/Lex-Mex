@@ -1918,6 +1918,22 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:43-bis:reference:873-888:78-quaterdecies:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:43-bis",
+    "source_span": "78 Quaterdecies",
+    "start_char": 873,
+    "end_char": 888,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lac",
+    "target_provision_id": "urn:lex-mx:federal:statute:lac:article:78-quaterdecies",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct",
+    "resolution_rule": "parent_shorthand"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lac:article:49:reference:391-393:42:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:49",
     "source_span": "42",

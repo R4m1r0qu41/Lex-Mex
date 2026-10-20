@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo II
+
 # Artículo 152
 
 Las promociones electrónicas subsecuentes, se podrán presentar en cualquier hora en el sistema de justicia digital autorizado, para ser remitidas a la autoridad jurisdiccional correspondiente al día y hora hábil siguiente a su presentación y deberán contener los datos de identificación, es decir, nombre de las partes, juicio y número de expediente, para ser remitidas vía electrónica a la autoridad jurisdiccional del conocimiento, sea de procedimiento escrito u oral, a efecto de que la autoridad jurisdiccional provea lo conducente.

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Capítulo II · Sección Segunda
+
 # Artículo 1145
 
 Los procedimientos en el ámbito de cooperación internacional observarán el principio de publicidad de conformidad con lo establecido en los tratados internacionales, las leyes nacionales en materia de transparencia, acceso a la información pública, con excepción de los procedimientos donde se ventilen secretos profesionales, comerciales, industriales o personales y protección de datos personales.

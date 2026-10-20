@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
+> Título Segundo · Capítulo III
+
 # Artículo 39
 
 Quienes efectúen la reexpedición de mercancías están obligados a transmitir, a través del sistema electrónico aduanero, en documento electrónico, un pedimento con información referente a las citadas mercancías, cumpliendo con lo señalado en los artículos [36](articulo-36.md) y [36-A](articulo-36-A.md) de esta Ley, así como en los términos y condiciones que establezca el Servicio de Administración Tributaria mediante reglas. Párrafo reformado DOF 25-06-2018

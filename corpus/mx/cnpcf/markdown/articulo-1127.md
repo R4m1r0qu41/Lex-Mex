@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Capítulo I
+
 # Artículo 1127
 
 En el caso de reconvención, se considerará satisfecho el requisito de la competencia en la esfera internacional cuando la demanda principal hubiera cumplido con las disposiciones previstas en este [Código Nacional](articulo-2.md), y la reconvención se fundamente en el acto o hecho en que se basó la demanda principal.

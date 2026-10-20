@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo Único
+
 # Artículo 841
 
 La autoridad jurisdiccional podrá ordenar las medidas de protección al patrimonio, descritas en el artículo [828](articulo-828.md) del presente [Código Nacional](articulo-2.md), las cuales dejarán de surtir efectos si la solicitud o demanda es desechada, o en la fecha que ocurra antes de:

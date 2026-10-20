@@ -39,4 +39,6 @@ VII. Las personas morales en las que cualquiera de las personas señaladas en la
 
 Asimismo, se considerará una operación con personas relacionadas aquélla que se realice a través de cualquier persona o fideicomiso, cuando la contraparte y fuente de pago de dicha operación dependa de una de las personas relacionadas a que se refiere este artículo. Párrafo adicionado DOF 01-02-2008
 
-Los consejeros y funcionarios se excusarán de participar en las discusiones y se abstendrán de votar en los casos en que tengan un interés directo. Párrafo reformado DOF 04-06-2001 En todo caso, las operaciones con personas relacionadas no deberán celebrarse en términos y condiciones más favorables, que las operaciones de la misma naturaleza que se realicen con el público en general. Párrafo reformado DOF 04-06-2001 Reforma DOF 04-06-2001: Derogó del artículo los entonces párrafos cuarto (antes reformado por DOF 15-02-1995), quinto (antes adicionado por DOF 15-02-1995) y sexto
+Los consejeros y funcionarios se excusarán de participar en las discusiones y se abstendrán de votar en los casos en que tengan un interés directo. Párrafo reformado DOF 04-06-2001
+
+En todo caso, las operaciones con personas relacionadas no deberán celebrarse en términos y condiciones más favorables, que las operaciones de la misma naturaleza que se realicen con el público en general. Párrafo reformado DOF 04-06-2001 Reforma DOF 04-06-2001: Derogó del artículo los entonces párrafos cuarto (antes reformado por DOF 15-02-1995), quinto (antes adicionado por DOF 15-02-1995) y sexto

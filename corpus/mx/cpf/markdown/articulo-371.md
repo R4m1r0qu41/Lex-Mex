@@ -21,4 +21,6 @@ Para estimar la cuantía del robo se atenderá únicamente el valor intrínseco 
 
 En los casos de tentativa de robo, cuando no fuere posible determinar su monto, se aplicarán de tres días a dos años de prisión.
 
-Cuando el robo sea cometido por dos o más sujetos, sin importar el monto de lo robado, a través de la violencia, la acechanza o cualquier otra circunstancia que disminuya las posibilidades de defensa de la víctima o la ponga en condiciones de desventaja, la pena aplicable será de cinco a quince años de prisión y hasta mil días multa. También podrá aplicarse la prohibición de ir a lugar determinado o vigilancia de la autoridad, hasta por un término igual al de la sanción privativa de la libertad impuesta. Párrafo adicionado DOF 13-05-1996 Fe de erratas al artículo DOF 31-08-1931. Reformado DOF 15-01-1951
+Cuando el robo sea cometido por dos o más sujetos, sin importar el monto de lo robado, a través de la violencia, la acechanza o cualquier otra circunstancia que disminuya las posibilidades de defensa de la víctima o la ponga en condiciones de desventaja, la pena aplicable será de cinco a quince años de prisión y hasta mil días multa. También podrá aplicarse la prohibición de ir a lugar determinado o vigilancia de la autoridad, hasta por un término igual al de la sanción privativa de la libertad impuesta. Párrafo adicionado DOF 13-05-1996
+
+Fe de erratas al artículo DOF 31-08-1931. Reformado DOF 15-01-1951

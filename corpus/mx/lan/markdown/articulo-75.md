@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAN.pdf
 source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 ---
 
-> Título SEXTO
+> Título SEXTO · Capítulo II
 
 # Artículo 75
 
@@ -26,5 +26,3 @@ II. Decidir e instrumentar la escisión en dos o más unidades de riego, de conf
 III. Derogada Fracción derogada DOF 11-12-2025
 
 Artículo reformado DOF 29-04-2004
-
-Sección Quinta Temporal Tecnificado Denominación de la Sección reformada DOF 29-04-2004

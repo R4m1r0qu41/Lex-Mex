@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
 source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
 ---
 
+> Título Quinto
+
 # Artículo 116
 
 El poder público de los estados se dividirá, para su ejercicio, en Ejecutivo, Legislativo y Judicial, y no podrán reunirse dos o más de estos poderes en una sola persona o corporación, ni depositarse el legislativo en un solo individuo.
@@ -33,7 +35,9 @@ b) El gobernador interino, el provisional o el ciudadano que, bajo cualquier den
 
 c) La persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la gubernatura. Inciso adicionado DOF 01-04-2025
 
-Sólo podrá ser gobernador constitucional de un Estado un ciudadano mexicano por nacimiento y nativo de él, o con residencia efectiva no menor de cinco años inmediatamente anteriores al día de los comicios, y tener 30 años cumplidos el día de la elección, o menos, si así lo establece la Constitución Política de la Entidad Federativa. Párrafo reformado DOF 26-09-2008 II. El número de representantes en las legislaturas de los Estados será proporcional al de habitantes de cada uno; pero, en todo caso, no podrá ser menor de siete diputados en los Estados cuya población no llegue a 400 mil habitantes; de nueve, en aquellos cuya población exceda de este número y no llegue a 800 mil habitantes, y de 11 en los Estados cuya población sea superior a esta última cifra.
+Sólo podrá ser gobernador constitucional de un Estado un ciudadano mexicano por nacimiento y nativo de él, o con residencia efectiva no menor de cinco años inmediatamente anteriores al día de los comicios, y tener 30 años cumplidos el día de la elección, o menos, si así lo establece la Constitución Política de la Entidad Federativa. Párrafo reformado DOF 26-09-2008
+
+II. El número de representantes en las legislaturas de los Estados será proporcional al de habitantes de cada uno; pero, en todo caso, no podrá ser menor de siete diputados en los Estados cuya población no llegue a 400 mil habitantes; de nueve, en aquellos cuya población exceda de este número y no llegue a 800 mil habitantes, y de 11 en los Estados cuya población sea superior a esta última cifra.
 
 Las Constituciones estatales deberán establecer que el presupuesto anual de las legislaturas locales no exceda del cero punto setenta por ciento del presupuesto de egresos de la entidad federativa correspondiente. Asimismo, deberán garantizar los principios de paridad, igualdad sustantiva y perspectiva de género, en la integración y funcionamiento de los órganos legislativos locales; así como prohibir la reelección de las personas diputadas a las legislaturas de los Estados para el periodo inmediato posterior al ejercicio de su mandato. Las personas diputadas suplentes podrán ser electas para el periodo inmediato con el carácter de propietarias, siempre que no hubieren estado en ejercicio, pero las personas diputadas propietarias no podrán ser electas para el período inmediato con el carácter de suplentes. En ningún caso, podrá participar en la elección de una diputación la persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la diputación. Párrafo reformado DOF 10-02-2014, 01-04-2025, 23-04-2026
 
@@ -113,7 +117,9 @@ n) Se verifique, al menos, una elección local en la misma fecha en que tenga lu
 
 o) Se tipifiquen los delitos y determinen las faltas en materia electoral, así como las sanciones que por ellos deban imponerse. Inciso recorrido DOF 10-02-2014
 
-p) Se fijen las bases y requisitos para que en las elecciones los ciudadanos soliciten su registro como candidatos para poder ser votados en forma independiente a todos los cargos de elección popular, en los términos del artículo [35](articulo-35.md) de esta Constitución. Inciso adicionado DOF 27-12-2013. Recorrido DOF 10-02-2014 Fracción adicionada DOF 22-08-1996. Reformada DOF 13-11-2007
+p) Se fijen las bases y requisitos para que en las elecciones los ciudadanos soliciten su registro como candidatos para poder ser votados en forma independiente a todos los cargos de elección popular, en los términos del artículo [35](articulo-35.md) de esta Constitución. Inciso adicionado DOF 27-12-2013. Recorrido DOF 10-02-2014
+
+Fracción adicionada DOF 22-08-1996. Reformada DOF 13-11-2007
 
 V. Las Constituciones y leyes de los Estados deberán instituir Tribunales de Justicia Administrativa, dotados de plena autonomía para dictar sus fallos y establecer su organización, funcionamiento, procedimientos y, en su caso, recursos contra sus resoluciones. Los Tribunales tendrán a su cargo dirimir las controversias que se susciten entre la administración pública local y municipal y los particulares; imponer, en los términos que disponga la ley, las sanciones a los servidores públicos locales y municipales por responsabilidad administrativa grave, y a los particulares que incurran en actos vinculados con faltas administrativas graves; así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos locales o municipales.
 
@@ -129,7 +135,9 @@ VIII. Las Constituciones de los Estados en términos de la ley general, definir�
 
 IX. Las Constituciones de los Estados garantizarán que las funciones de procuración de justicia se realicen con base en los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo y responsabilidad, así como con perspectiva de género y respeto a los derechos humanos.
 
-Para proteger el derecho de las mujeres a una vida libre de violencias, las instituciones de procuración de justicia deberán contar con fiscalías especializadas de investigación de delitos relacionados con las violencias de género contra las mujeres. Fracción adicionada DOF 10-02-2014. Reformada DOF 15-11-2024 X. Las Legislaturas de las entidades federativas, observando en todo momento la supremacía de los símbolos patrios, podrán legislar en materia de símbolos estatales, como son: himno, escudo y bandera, a fin de fomentar el patrimonio cultural, la historia y la identidad local. Fracción adicionada DOF 08-05-2023
+Para proteger el derecho de las mujeres a una vida libre de violencias, las instituciones de procuración de justicia deberán contar con fiscalías especializadas de investigación de delitos relacionados con las violencias de género contra las mujeres. Fracción adicionada DOF 10-02-2014. Reformada DOF 15-11-2024
+
+X. Las Legislaturas de las entidades federativas, observando en todo momento la supremacía de los símbolos patrios, podrán legislar en materia de símbolos estatales, como son: himno, escudo y bandera, a fin de fomentar el patrimonio cultural, la historia y la identidad local. Fracción adicionada DOF 08-05-2023
 
 En el ámbito de los Poderes Judiciales de los Estados, no podrán crearse ni mantenerse en operación fondos, fideicomisos, mandatos o contratos análogos que no estén previstos en la ley. Párrafo adicionado DOF 15-09-2024
 

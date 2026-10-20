@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo X Bis
+
 # Artículo 47 Bis 4
 
 Las personas pasajeras deben: Párrafo reformado DOF 03-05-2023
@@ -28,7 +30,3 @@ IV. Ocupar el asiento asignado, a menos que la tripulación por un requerimiento
 V. Las demás que establezcan la Ley y demás ordenamientos.
 
 Artículo adicionado DOF 26-06-2017
-
-Capítulo XI De los contratos
-
-Sección Primera De los contratos de transporte aéreo

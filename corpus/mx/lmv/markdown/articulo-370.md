@@ -13,13 +13,17 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título XIV · Capítulo I
+
 # Artículo 370
 
 Las personas que participen o intervengan, directa o indirectamente, en actos u operaciones del mercado de valores, tendrán prohibido:
 
 I. Manipular el mercado.
 
-II. Celebrar operaciones de simulación en cuanto al volumen o precio de valores. Fracción reformada DOF 10-01-2014 III. Distorsionar el correcto funcionamiento del sistema de negociación o equipos de cómputo de las bolsas de valores o de las sociedades que administran sistemas para facilitar operaciones con valores.
+II. Celebrar operaciones de simulación en cuanto al volumen o precio de valores. Fracción reformada DOF 10-01-2014
+
+III. Distorsionar el correcto funcionamiento del sistema de negociación o equipos de cómputo de las bolsas de valores o de las sociedades que administran sistemas para facilitar operaciones con valores.
 
 IV. Intervenir en operaciones con conflicto de interés.
 

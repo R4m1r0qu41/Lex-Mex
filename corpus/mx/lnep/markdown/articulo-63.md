@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNEP.pdf
 source_sha256: 91abecabe50a5e414e0835daa9086ce3b307fffb9ebe626dab3bb9d1eae51680
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo VI
 
 # Artículo 63
 
@@ -26,5 +26,3 @@ II. Si se trata de una persona no privada de la libertad se pondrá a disposici�
 III. Cuando la comisión de un hecho delictivo realizado o evidenciado en una revisión ameritare la práctica de exploraciones de las cavidades vaginal o anal, esta sólo podrá ser realizada por las autoridades que establezca el Código, por lo que el personal del Centro Penitenciario no podrá practicar estas exploraciones bajo ningún supuesto, quedando obligado a detener a la persona si se trata de un individuo no privado de la libertad, o a resguardarlo tratándose de una persona privada de la libertad, mientras se presentan el Ministerio Público y sus auxiliares, que de conformidad con el Código puedan realizar dichas diligencias. En todo caso, el personal del Centro Penitenciario deberá preservar la cadena de custodia de la evidencia del hecho;
 
 IV. La persona detenida o resguardada de conformidad con este artículo deberá ser custodiada por el personal del Centro Penitenciario y tendrá derecho a ser acompañada por la persona que realiza su defensa.
-
-Capítulo VII Revisiones a los Centros Penitenciarios

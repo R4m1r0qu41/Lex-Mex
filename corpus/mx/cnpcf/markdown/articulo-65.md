@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 65
 
 Cuando se declare la improcedencia de la vía, el efecto será el de continuar el procedimiento para el trámite del juicio en la vía que se considere procedente declarando la validez de lo actuado, sin perjuicio de la obligación de la autoridad jurisdiccional para regularizar el procedimiento de acuerdo con la vía que se declare procedente.

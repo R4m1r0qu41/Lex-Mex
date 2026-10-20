@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 314
 
 Para que los documentos públicos procedentes del extranjero, hagan fe en los Estados Unidos Mexicanos, deberán presentarse debidamente legalizados por las autoridades diplomáticas o consulares en los términos que establezcan los tratados y convenciones de los que México sea parte, la Ley del Servicio Exterior Mexicano y demás disposiciones aplicables.

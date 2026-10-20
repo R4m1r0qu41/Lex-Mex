@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo III
+
 # Artículo 170
 
 Las sentencias deben tener el lugar, fecha, nombre de la autoridad jurisdiccional que las pronuncie, nombre de las partes contendientes, el carácter con que litiguen, el objeto del pleito, y bastará que la autoridad jurisdiccional funde y motive su resolución en preceptos legales, su interpretación o principios jurídicos, de acuerdo con los artículos [14](../../cpeum/markdown/articulo-14.md) y [16](../../cpeum/markdown/articulo-16.md) de la Constitución Política de los Estados Unidos Mexicanos.

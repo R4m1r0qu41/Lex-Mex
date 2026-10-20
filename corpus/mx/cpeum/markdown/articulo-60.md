@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
 source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
 ---
 
+> Título Tercero · Capítulo II
+
 # Artículo 60
 
 El organismo público previsto en el artículo [41](articulo-41.md) de esta Constitución, de acuerdo con lo que disponga la ley, declarará la validez de las elecciones de diputados y senadores en cada uno de los distritos electorales uninominales y en cada una de las entidades federativas; otorgará las constancias respectivas a las fórmulas de candidatos que hubiesen obtenido mayoría de votos y hará la asignación de senadores de primera minoría de conformidad con lo dispuesto en el artículo [56](articulo-56.md) de esta Constitución y en la ley. Asimismo, hará la declaración de validez y la asignación de diputados según el principio de representación proporcional de conformidad con el artículo [54](articulo-54.md) de esta Constitución y la ley.

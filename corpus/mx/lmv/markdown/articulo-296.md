@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título X · Capítulo I
+
 # Artículo 296
 
 Las instituciones para el depósito de valores enviarán a sus depositantes, dentro de los primeros cinco días hábiles posteriores al corte mensual, un estado de cuenta que incluya con detalle los movimientos registrados durante el período comprendido desde el último corte.

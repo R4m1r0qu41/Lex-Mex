@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Único · Capítulo IV
+
 # Artículo 1094
 
 No habiendo parte postora, quedará al arbitrio de la parte ejecutante pedir en el momento de la subasta que se le adjudiquen los bienes por el precio del avalúo que sirvió de base para el remate o que se saquen de nuevo a subasta pública sin rebaja en el precio.

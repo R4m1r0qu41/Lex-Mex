@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título VI · Capítulo I
+
 # Artículo 134
 
 La escisión de casas de bolsa deberá ser autorizada por la [Comisión](articulo-2.md), previo acuerdo de su Junta de Gobierno. Dicha escisión se efectuará con sujeción a las bases siguientes:
@@ -30,5 +32,3 @@ V. Los acreedores de las sociedades podrán oponerse judicialmente a la escisió
 VI. La Comisión, previo acuerdo de su Junta de Gobierno, podrá establecer mediante disposiciones de carácter general, la demás documentación e información que en relación con las fracciones anteriores deba proporcionarse.
 
 La sociedad escindida no se entenderá autorizada para organizarse y operar como casa de bolsa. Con motivo de la escisión, a la sociedad escindida no se le podrán transmitir operaciones activas ni pasivas de la casa de bolsa, salvo en los casos en que lo autorice la Comisión.
-
-Sección IV De las medidas preventivas y correctivas, la suspensión de operaciones, la intervención, la revocación de autorizaciones y la disolución y liquidación

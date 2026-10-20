@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNEP.pdf
 source_sha256: 91abecabe50a5e414e0835daa9086ce3b307fffb9ebe626dab3bb9d1eae51680
 ---
 
-> Título QUINTO
+> Título QUINTO · Capítulo VII
 
 # Artículo 168
 
@@ -21,6 +21,4 @@ Vigilancia de la autoridad La vigilancia de la autoridad consiste en la supervis
 
 La ejecución de la vigilancia de la autoridad no deberá exceder de la correspondiente a la pena o medida de seguridad impuesta.
 
-Cuando el Juez de Ejecución conforme a lo previsto por la Ley Penal aplicable, imponga una medida de seguridad consistente en la vigilancia personal o monitoreo del sentenciado corresponderá aplicarla a la autoridad de seguridad pública competente. Capítulo VIII Justicia Terapéutica
-
-Sección Primera Generalidades
+Cuando el Juez de Ejecución conforme a lo previsto por la Ley Penal aplicable, imponga una medida de seguridad consistente en la vigilancia personal o monitoreo del sentenciado corresponderá aplicarla a la autoridad de seguridad pública competente.

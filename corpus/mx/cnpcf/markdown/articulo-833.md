@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo Único
+
 # Artículo 833
 
 Para iniciar el proceso judicial, la persona deudora debe presentar en la oficialía de partes o en la vía electrónica la solicitud de concurso a través del formato único concursal que deberá contener además de la firma, todos los datos requeridos en éste. Dicho formato podrá ser descargado de la página de internet del Poder Judicial de la Entidad Federativa en que se inicie el proceso. La persona deudora en su escrito deberá expresar los motivos que lo obligan a iniciar el procedimiento.

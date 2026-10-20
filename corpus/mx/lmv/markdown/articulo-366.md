@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título XIV · Capítulo I
+
 # Artículo 366
 
 Las personas a que se refieren las fracciones I a IV del artículo [363](articulo-363.md) de esta Ley y las fiduciarias de fideicomisos que se constituyan con el fin de establecer planes de opción de compra de acciones para empleados y de los fondos de pensiones, jubilaciones o primas de antigüedad del personal de una emisora, emisora simplificada o personas morales que ésta controle y cualquier otro fondo con fines semejantes, constituido directa o indirectamente por dicha emisora o emisora simplificada, sólo podrán enajenar o adquirir de la emisora o emisora simplificada con la cual se encuentren vinculados, las acciones representativas de su capital social o los títulos de crédito que las representen, mediante oferta pública o subastas autorizadas por la [Comisión](articulo-2.md) o aquellas que realicen directamente las emisoras simplificadas.

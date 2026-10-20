@@ -21,4 +21,4 @@ Si no fuera aprobado el proyecto, pero el magistrado o magistrada ponente acepta
 
 Si el voto de la mayoría de los magistrados o magistradas fuera en sentido distinto al del proyecto, uno de ellos o ellas redactará la sentencia. Párrafo reformado DOF 13-03-2025
 
-En ambos casos el plazo para redactar la sentencia será de diez días, debiendo quedar en autos constancia del proyecto original. LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS [103](../../cpeum/markdown/articulo-103.md) Y [107](../../cpeum/markdown/articulo-107.md) DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
+En ambos casos el plazo para redactar la sentencia será de diez días, debiendo quedar en autos constancia del proyecto original.

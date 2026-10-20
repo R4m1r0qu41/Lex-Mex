@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título IX · Capítulo II
+
 # Artículo 244
 
 Las bolsas de valores realizarán las actividades siguientes:
@@ -35,7 +37,9 @@ a) Sistema internacional de cotizaciones, y
 
 b) Valores objeto de inscripción simplificada.
 
-Lo anterior, conforme a las disposiciones de carácter general que al efecto emita la [Comisión](articulo-2.md) y el reglamento interior de las bolsas de valores. Fracción reformada DOF 28-12-2023 V. Proporcionar y mantener a disposición del público información sobre los valores listados en las mismas y sus emisoras, incluyendo la revelada por éstos, así como de las operaciones que en ella y en el sistema internacional de cotizaciones se realicen.
+Lo anterior, conforme a las disposiciones de carácter general que al efecto emita la [Comisión](articulo-2.md) y el reglamento interior de las bolsas de valores. Fracción reformada DOF 28-12-2023
+
+V. Proporcionar y mantener a disposición del público información sobre los valores listados en las mismas y sus emisoras, incluyendo la revelada por éstos, así como de las operaciones que en ella y en el sistema internacional de cotizaciones se realicen.
 
 VI. Certificar la cotización de valores, así como las operaciones concertadas en ellas.
 

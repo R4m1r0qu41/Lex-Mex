@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo Único
+
 # Artículo 842
 
 Por efecto de la notificación a que se refiere la fracción V del artículo [840](articulo-840.md), el Centro de Justicia Alternativa deberá designar al facilitador o conciliador y notificar a la autoridad jurisdiccional y al facilitador o conciliador sobre su designación.

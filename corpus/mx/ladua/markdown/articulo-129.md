@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
-> Capítulo II · Sección TERCERA
+> Título Cuarto · Capítulo V
 
 # Artículo 129
 
@@ -27,7 +27,9 @@ a) Cuando señale en el pedimento el nombre, domicilio fiscal o la clave del reg
 
 b) Cuando no pueda ser localizado en el domicilio que señaló para oír y recibir notificaciones.
 
-c) Cuando determine provisionalmente las contribuciones, sin aplicar la tasa máxima señalada en la tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, y la que corresponda tratándose de las demás contribuciones o cuotas compensatorias, conforme a lo dispuesto en las disposiciones jurídicas aplicables. Inciso adicionado DOF 19-11-2025 d) Cuando formule el pedimento para destinar al régimen de tránsito interno mercancías que no están permitidas para destinarse a dicho régimen, conforme a las disposiciones jurídicas aplicables. Inciso adicionado DOF 19-11-2025
+c) Cuando determine provisionalmente las contribuciones, sin aplicar la tasa máxima señalada en la tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, y la que corresponda tratándose de las demás contribuciones o cuotas compensatorias, conforme a lo dispuesto en las disposiciones jurídicas aplicables. Inciso adicionado DOF 19-11-2025
+
+d) Cuando formule el pedimento para destinar al régimen de tránsito interno mercancías que no están permitidas para destinarse a dicho régimen, conforme a las disposiciones jurídicas aplicables. Inciso adicionado DOF 19-11-2025
 
 e) Cuando no declare la fracción arancelaria o número de identificación comercial de la mercancía o la declare de manera incorrecta. Inciso adicionado DOF 19-11-2025
 
@@ -38,5 +40,3 @@ Las empresas transportistas deberán mantener los medios de control y seguridad 
 Independientemente de lo dispuesto en este artículo, el agente aduanal o la agencia aduanal que promueva el despacho tendrá la responsabilidad prevista en esta Ley por las irregularidades que se deriven de la formulación del pedimento y que se detecten con motivo del ejercicio de las facultades de comprobación de la autoridad aduanera. Párrafo reformado DOF 25-06-2018
 
 Artículo reformado DOF 01-01-2002, 09-12-2013
-
-Sección Segunda Tránsito internacional de mercancías

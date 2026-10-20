@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 332
 
 Al ofrecerse la prueba de inspección judicial, se deberá señalar e identificar los puntos sobre los que debe versar y puede verificarse respecto de lugares, bienes muebles e inmuebles, información publicada y de libre acceso en internet o personas, y que no requieran de conocimientos técnicos especializados, debiendo indicar con toda precisión, la materia u objeto de la prueba y su relación con algún punto del debate, sin cuyos requisitos no se admitirá.

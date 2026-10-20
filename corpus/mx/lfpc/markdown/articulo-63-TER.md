@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf
 source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 ---
 
+> Capítulo VI
+
 # Artículo 63 TER
 
 Las sociedades que administren los sistemas de comercialización a que se refiere el artículo [63](articulo-63.md), tendrán el carácter de proveedores en términos de lo dispuesto por el artículo [2](articulo-2.md) de esta ley. El proveedor será responsable de que el consumidor reciba el bien contratado en el plazo y conforme a las condiciones establecidas en el contrato de adhesión respectivo, debiendo responder del incumplimiento de cualquier cláusula contractual. El proveedor no podrá cobrar al consumidor penalización alguna si éste se retira del grupo por cualquier incumplimiento imputable a aquél.

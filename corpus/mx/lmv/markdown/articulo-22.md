@@ -13,9 +13,11 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título II · Capítulo II
+
 # Artículo 22
 
-Las sociedades anónimas que tengan acciones representativas del capital social o títulos de crédito que representen dichas acciones, inscritas en el [Registro](articulo-2.md), formarán su denominación social libremente conforme a lo previsto en el artículo 88 de la Ley General de Sociedades Mercantiles, debiendo adicionalmente agregar a su denominación social la expresión "Bursátil", o su abreviatura "B". Párrafo reformado DOF 28-12-2023
+Las sociedades anónimas que tengan acciones representativas del capital social o títulos de crédito que representen dichas acciones, inscritas en el [Registro](articulo-2.md), formarán su denominación social libremente conforme a lo previsto en el artículo [88](../../lgsm/markdown/articulo-88.md) de la Ley General de Sociedades Mercantiles, debiendo adicionalmente agregar a su denominación social la expresión "Bursátil", o su abreviatura "B". Párrafo reformado DOF 28-12-2023
 
 Las sociedades anónimas bursátiles estarán sujetas a las disposiciones especiales que se contienen en el presente ordenamiento legal y, en lo no previsto por éste, a lo señalado en la Ley General de Sociedades Mercantiles.
 
@@ -36,5 +38,3 @@ Sin perjuicio de lo anterior y con la salvedad mencionada, las funciones que el 
 V. Los accionistas, así como los titulares de los órganos sociales y personas que tengan a su cargo la administración y vigilancia de la entidad financiera, responderán por sus actos en los términos que, en su caso, contemplen las leyes especiales del sistema financiero que las rijan y conforme a la legislación mercantil y del orden común aplicables.
 
 Tratándose de sociedades controladoras de grupos financieros, los accionistas y las personas que tengan a su cargo la administración y vigilancia de la entidad, estarán sujetas en materia de funciones, deberes y responsabilidades a lo previsto en el presente ordenamiento legal.
-
-Sección I De la administración

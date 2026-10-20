@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título XI · Capítulo I
+
 # Artículo 326
 
 Los proveedores de precios deberán contar con un código de conducta que rija la actuación de la propia sociedad, así como de los consejeros y demás directivos involucrados en el proceso de cálculo, determinación y proveeduría o suministro de precios actualizados.

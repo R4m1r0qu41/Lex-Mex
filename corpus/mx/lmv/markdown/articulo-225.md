@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título VII
+
 # Artículo 225
 
 Las personas que sin ser intermediarios del mercado de valores proporcionen de manera habitual y profesional servicios de administración de cartera de valores tomando decisiones de inversión a nombre y por cuenta de terceros, así como que otorguen de manera habitual y profesional asesoría de inversión en valores, análisis y emisión de recomendaciones de inversión de manera individualizada, tendrán el carácter de asesores en inversiones.
@@ -43,7 +45,9 @@ Las sociedades que se registren en términos del presente artículo, deberán pr
 
 La transmisión de las acciones o partes sociales sólo podrá efectuarse a la persona que reúna los requisitos señalados en la fracción IV de este artículo, así como los previstos en las disposiciones de carácter general que expida la Comisión, para ser accionista de un asesor en inversiones. Párrafo adicionado DOF 28-12-2023
 
-Los asesores en inversiones deberán informar a la Comisión la transmisión de cualquiera de sus acciones o partes sociales, o bien cuando uno de los socios haya cedido sus derechos, siempre que sea menor al diez por ciento de su capital social, dentro de los tres días hábiles siguientes a que el asesor en inversiones haya inscrito en el registro señalado en el artículo 128 de la Ley General de Sociedades Mercantiles dicha transmisión. Para tal efecto, los asesores en inversiones deberán proporcionar la documentación que acredite lo establecido en el párrafo anterior. Párrafo adicionado DOF 28-12-2023 Los asesores en inversiones deberán solicitar la autorización previa de la Comisión, cuando se pretenda adquirir el diez por ciento o más del capital social; para tal caso, deberán presentar a la Comisión la relación de personas que pretendan adquirir las acciones indicando el capital que suscribirán, la forma en que lo pagarán, así como el origen de los recursos con los que se realizará dicho pago, en términos de la fracción IV de este artículo. Párrafo adicionado DOF 28-12-2023
+Los asesores en inversiones deberán informar a la Comisión la transmisión de cualquiera de sus acciones o partes sociales, o bien cuando uno de los socios haya cedido sus derechos, siempre que sea menor al diez por ciento de su capital social, dentro de los tres días hábiles siguientes a que el asesor en inversiones haya inscrito en el registro señalado en el artículo [128](../../lgsm/markdown/articulo-128.md) de la Ley General de Sociedades Mercantiles dicha transmisión. Para tal efecto, los asesores en inversiones deberán proporcionar la documentación que acredite lo establecido en el párrafo anterior. Párrafo adicionado DOF 28-12-2023
+
+Los asesores en inversiones deberán solicitar la autorización previa de la Comisión, cuando se pretenda adquirir el diez por ciento o más del capital social; para tal caso, deberán presentar a la Comisión la relación de personas que pretendan adquirir las acciones indicando el capital que suscribirán, la forma en que lo pagarán, así como el origen de los recursos con los que se realizará dicho pago, en términos de la fracción IV de este artículo. Párrafo adicionado DOF 28-12-2023
 
 La Comisión contará con un plazo de noventa días hábiles para resolver sobre la autorización de la transmisión de acciones. Párrafo adicionado DOF 28-12-2023
 

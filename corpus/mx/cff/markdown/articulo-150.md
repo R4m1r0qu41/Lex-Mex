@@ -36,5 +36,3 @@ Los gastos de ejecución se determinarán por la autoridad ejecutora, debiendo p
 Los ingresos recaudados por concepto de gastos de ejecución, se destinarán al establecimiento de un fondo revolvente para gastos de cobranza, para programas de fomento con el público en general del cumplimiento de las obligaciones fiscales, para financiar los programas de formación de funcionarios fiscales, salvo que por Ley estén destinados a otros fines. El destino de estos ingresos será con independencia del presupuesto que tengan asignado las autoridades fiscales federales.
 
 Cuando las autoridades fiscales ordenen la práctica de un avalúo, y éste resulte superior en más de un 10% del valor declarado por el contribuyente, éste deberá cubrir el costo de dicho avalúo.
-
-Sección Segunda Del Embargo

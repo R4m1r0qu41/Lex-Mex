@@ -19,7 +19,7 @@ source_sha256: 05560493ac2b17b9e77eeb9741843176ee0fde76f05e75f853465b13621be78d
 
 El plazo para presentar la demanda de amparo es de quince días, salvo:
 
-I. Cuando se reclame una norma general autoaplicativa, o el procedimiento de extradición, en que será de treinta días; LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS [103](../../cpeum/markdown/articulo-103.md) Y [107](../../cpeum/markdown/articulo-107.md) DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS II. Cuando se reclame la sentencia definitiva condenatoria en un proceso penal, que imponga pena de prisión, podrá interponerse en un plazo de hasta ocho años;
+I. Cuando se reclame una norma general autoaplicativa, o el procedimiento de extradición, en que será de treinta días; II. Cuando se reclame la sentencia definitiva condenatoria en un proceso penal, que imponga pena de prisión, podrá interponerse en un plazo de hasta ocho años;
 
 III. Cuando el amparo se promueva contra actos que tengan o puedan tener por efecto privar total o parcialmente, en forma temporal o definitiva, de la propiedad, posesión o disfrute de sus derechos agrarios a los núcleos de población ejidal o comunal, en que será de siete años, contados a partir de que, de manera indubitable, la autoridad responsable notifique el acto a los grupos agrarios mencionados;
 

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título XV · Capítulo II
+
 # Artículo 392
 
 Las infracciones a esta Ley o a las disposiciones de carácter general que de ella deriven, serán sancionadas con multa administrativa que impondrá la [Comisión](articulo-2.md), a razón de días de salario, conforme a lo siguiente:
@@ -159,7 +161,9 @@ p) Las casas de bolsa que se ubiquen en alguno de los supuestos de revocación a
 
 q) Las oficinas de representación de casas de bolsa del extranjero que realicen actividades en el territorio nacional distintas a las previstas en las disposiciones de carácter general que expida la Secretaría, en contravención a lo establecido en el artículo [159](articulo-159.md), segundo párrafo de esta Ley. Inciso reformado DOF 10-01-2014
 
-r) Las filiales que enajenen acciones serie "F" sin contar con autorización de la Secretaría, en contravención a lo establecido en el artículo [166](articulo-166.md) de esta Ley. Inciso reformado DOF 10-01-2014 s) Las casas de bolsa, proveedores de precios y asesores en inversiones que contravengan los artículos [186](articulo-186.md), [188](articulo-188.md), fracciones I y II, [196](articulo-196.md), [197](articulo-197.md), [227](articulo-227.md), fracción IV o [331](articulo-331.md) de esta Ley, según corresponda. Inciso reformado DOF 10-01-2014
+r) Las filiales que enajenen acciones serie "F" sin contar con autorización de la Secretaría, en contravención a lo establecido en el artículo [166](articulo-166.md) de esta Ley. Inciso reformado DOF 10-01-2014
+
+s) Las casas de bolsa, proveedores de precios y asesores en inversiones que contravengan los artículos [186](articulo-186.md), [188](articulo-188.md), fracciones I y II, [196](articulo-196.md), [197](articulo-197.md), [227](articulo-227.md), fracción IV o [331](articulo-331.md) de esta Ley, según corresponda. Inciso reformado DOF 10-01-2014
 
 t) Las entidades financieras que no se excusen en los términos del segundo párrafo del artículo [189](articulo-189.md) de esta Ley. Inciso reformado DOF 10-01-2014
 
@@ -177,7 +181,9 @@ z) Las personas físicas autorizadas por la Comisión que ofrezcan en forma simu
 
 aa) Las casas de bolsa que omitan depositar los recursos de un cliente en una institución de crédito a más tardar el día hábil siguiente o adquirir acciones representativas del capital social de una sociedad de inversión en instrumentos de deuda, en la cuenta del cliente respectivo, o bien invertirlos en reportos sobre valores gubernamentales, en contravención a lo establecido en el artículo [194](articulo-194.md) de esta Ley. Inciso adicionado DOF 10-01-2014
 
-ab) Las casas de bolsa que omitan registrar en cuenta distinta de las que forman parte de su activo, los fondos y valores de clientes, en contravención a lo establecido en el artículo [206](articulo-206.md) de esta Ley. Inciso adicionado DOF 10-01-2014 ac) Las casas de bolsa y contrapartes centrales de valores que omitan abrir o no lleven contabilidades especiales, en contravención a lo establecido en los artículos [207](articulo-207.md) ó 314 de esta Ley, según corresponda. Inciso adicionado DOF 10-01-2014
+ab) Las casas de bolsa que omitan registrar en cuenta distinta de las que forman parte de su activo, los fondos y valores de clientes, en contravención a lo establecido en el artículo [206](articulo-206.md) de esta Ley. Inciso adicionado DOF 10-01-2014
+
+ac) Las casas de bolsa y contrapartes centrales de valores que omitan abrir o no lleven contabilidades especiales, en contravención a lo establecido en los artículos [207](articulo-207.md) ó 314 de esta Ley, según corresponda. Inciso adicionado DOF 10-01-2014
 
 IV. Multa a las personas que infrinjan los artículos [364](articulo-364.md) ó 365 de esta Ley, conforme a lo siguiente:
 

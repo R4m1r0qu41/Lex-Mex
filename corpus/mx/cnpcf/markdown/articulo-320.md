@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 320
 
 Los documentos privados y la correspondencia procedente de las partes, presentados en juicio por vía de prueba y no objetados por la parte contraria, se tendrán por admitidos y surtirán sus efectos como si hubieren sido reconocidos expresamente. Puede exigirse el reconocimiento expreso, si la parte que los presenta así lo pidiere; con este objeto se exhibirán los originales a quien deba reconocerlos y se le dejará verlos en su integridad y no sólo la firma.

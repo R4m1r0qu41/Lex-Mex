@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo XII · Sección Primera
+
 # Artículo 62
 
 Para los daños a pasajeros, el derecho a percibir indemnizaciones se sujetará a lo dispuesto por el artículo [1915](../../ccf/markdown/articulo-1915.md) del Código Civil Federal, salvo por lo que se refiere al monto que será el triple de lo previsto en dicho artículo. Para la prelación en el pago de las indemnizaciones, se estará a lo dispuesto en el artículo [501](../../lft/markdown/articulo-501.md) de la Ley Federal del Trabajo.

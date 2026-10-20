@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
 source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
 ---
 
+> Título Tercero · Capítulo IV
+
 # Artículo 94
 
 Se deposita el ejercicio del Poder Judicial de la Federación en una Suprema Corte de Justicia, en un Tribunal Electoral, en Plenos Regionales, en Tribunales Colegiados de Circuito, en Tribunales Colegiados de Apelación y en Juzgados de Distrito. Párrafo reformado DOF 31-12-1994, 22-08-1996, 11-06-1999, 11-03-2021

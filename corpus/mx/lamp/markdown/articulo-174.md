@@ -22,5 +22,3 @@ En la demanda de amparo principal y en su caso, en la adhesiva la persona quejos
 El tribunal colegiado de circuito, deberá decidir respecto de todas las violaciones procesales que se hicieron valer y aquellas que, en su caso, advierta en suplencia de la queja.
 
 Si las violaciones procesales no se invocaron en un primer amparo, ni el tribunal colegiado correspondiente las hizo valer de oficio en los casos en que proceda la suplencia de la queja, no podrán ser materia de concepto de violación ni de estudio oficioso en juicio de amparo posterior.
-
-Sección Segunda Demanda

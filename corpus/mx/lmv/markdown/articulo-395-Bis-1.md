@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título XV · Capítulo II Bis
+
 # Artículo 395 Bis 1
 
 Los programas de autocorrección a que se refiere el artículo [395 Bis](articulo-395-Bis.md) de esta Ley, se sujetarán a las disposiciones de carácter general que emita la [Comisión](articulo-2.md). Adicionalmente, deberán ser firmados por la persona o área que ejerza las funciones de vigilancia en la entidad financiera, y ser presentados al consejo de administración u órgano equivalente en la sesión inmediata posterior a la solicitud de autorización presentada a la Comisión. Igualmente, deberá contener las irregularidades o incumplimientos cometidos indicando al efecto las disposiciones que se hayan considerado contravenidas; las circunstancias que originaron la irregularidad o incumplimiento cometido, así como señalar las acciones adoptadas o que se pretendan adoptar por parte de la sociedad para corregir la irregularidad o incumplimiento que motivó el programa.

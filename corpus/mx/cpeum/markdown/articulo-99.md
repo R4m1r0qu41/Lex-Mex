@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
 source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
 ---
 
+> Título Tercero · Capítulo IV
+
 # Artículo 99
 
 El Tribunal Electoral será, con excepción de lo dispuesto en la fracción II del artículo [105](articulo-105.md) de esta Constitución, la máxima autoridad jurisdiccional en la materia y órgano especializado del Poder Judicial de la Federación.

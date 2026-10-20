@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNEP.pdf
 source_sha256: 91abecabe50a5e414e0835daa9086ce3b307fffb9ebe626dab3bb9d1eae51680
 ---
 
-> Título CUARTO
+> Título CUARTO · Capítulo II
 
 # Artículo 106
 
@@ -26,5 +26,3 @@ Cuando para el cómputo se establezca el orden de compurgación de las penas imp
 El Ministerio Público, la víctima o el ofendido podrán oponerse al cómputo de la pena, en caso de que consideren, éste se realizó de manera incorrecta; en tal supuesto, deberán aportar los elementos necesarios para realizar la verificación correspondiente.
 
 Una vez cumplida la sentencia, el Juez de Ejecución a través del auto respectivo, determinará tal circunstancia.
-
-Capítulo III Procedimiento Administrativo

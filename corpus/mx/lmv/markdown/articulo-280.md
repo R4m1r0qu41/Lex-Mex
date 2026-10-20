@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título X · Capítulo I
+
 # Artículo 280
 
 Las instituciones para el depósito de valores realizarán las actividades siguientes:
@@ -31,7 +33,7 @@ IV. Proporcionar servicios para la compensación y liquidación de operaciones c
 
 V. Operar sistemas de negociación para que sus depositantes celebren operaciones de préstamo de valores, siendo aplicable lo previsto en el artículo [258](articulo-258.md) de esta Ley.
 
-VI. Intervenir en operaciones mediante las cuales se constituya prenda bursátil sobre los valores que les sean depositados, sin responsabilidad ante la eventual ejecución de la prenda, salvo que actúen de manera negligente o en contravención de las instrucciones del depositante. VII. Llevar el registro de acciones representativas del capital social de sociedades anónimas y realizar las inscripciones correspondientes en los términos y para los efectos a que se refieren los artículos 128 y 129 de la Ley General de Sociedades Mercantiles.
+VI. Intervenir en operaciones mediante las cuales se constituya prenda bursátil sobre los valores que les sean depositados, sin responsabilidad ante la eventual ejecución de la prenda, salvo que actúen de manera negligente o en contravención de las instrucciones del depositante. VII. Llevar el registro de acciones representativas del capital social de sociedades anónimas y realizar las inscripciones correspondientes en los términos y para los efectos a que se refieren los artículos [128](../../lgsm/markdown/articulo-128.md) y [129](../../lgsm/markdown/articulo-129.md) de la Ley General de Sociedades Mercantiles.
 
 VIII. Expedir certificaciones de los actos que realicen en el ejercicio de las funciones a su cargo.
 

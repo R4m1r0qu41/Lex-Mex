@@ -150,7 +150,7 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:ltosf:article:3",
     "fraction": "XI",
     "start_char": 4896,
-    "end_char": 5527,
+    "end_char": 5528,
     "basis": "express_definition"
   },
   {
@@ -160,8 +160,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:ltosf",
     "defining_provision_id": "urn:lex-mx:federal:statute:ltosf:article:3",
     "fraction": "XI Bis",
-    "start_char": 5527,
-    "end_char": 6076,
+    "start_char": 5528,
+    "end_char": 6077,
     "basis": "express_definition"
   },
   {
@@ -171,8 +171,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:ltosf",
     "defining_provision_id": "urn:lex-mx:federal:statute:ltosf:article:3",
     "fraction": "XI Ter",
-    "start_char": 6076,
-    "end_char": 6442,
+    "start_char": 6077,
+    "end_char": 6443,
     "basis": "express_definition"
   },
   {
@@ -182,8 +182,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:ltosf",
     "defining_provision_id": "urn:lex-mx:federal:statute:ltosf:article:3",
     "fraction": "XII",
-    "start_char": 6442,
-    "end_char": 8545,
+    "start_char": 6443,
+    "end_char": 8546,
     "basis": "express_definition"
   },
   {
@@ -193,8 +193,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:ltosf",
     "defining_provision_id": "urn:lex-mx:federal:statute:ltosf:article:3",
     "fraction": "XII Bis",
-    "start_char": 8545,
-    "end_char": 8862,
+    "start_char": 8546,
+    "end_char": 8864,
     "basis": "express_definition"
   },
   {
@@ -204,8 +204,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:ltosf",
     "defining_provision_id": "urn:lex-mx:federal:statute:ltosf:article:3",
     "fraction": "XIII",
-    "start_char": 8862,
-    "end_char": 9308,
+    "start_char": 8864,
+    "end_char": 9310,
     "basis": "express_definition"
   },
   {
@@ -215,8 +215,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:ltosf",
     "defining_provision_id": "urn:lex-mx:federal:statute:ltosf:article:3",
     "fraction": "XIV",
-    "start_char": 9308,
-    "end_char": 9543,
+    "start_char": 9310,
+    "end_char": 9545,
     "basis": "express_definition"
   }
 ]

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo Único
+
 # Artículo 821
 
 El facilitador o conciliador notificará a cada uno de los acreedores de la solicitud presentada por la persona deudora dentro de los tres días hábiles siguientes por correo certificado, en el entendido de que en todo caso deberá contar con un acuse de recibo de la notificación. Además, se hará una publicación en el Boletín Concursal Nacional o medio de comunicación aplicable, a efecto de convocar a las personas acreedoras.

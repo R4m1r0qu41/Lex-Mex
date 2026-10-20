@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LIC.pdf
 source_sha256: 98225a423eaa3dc47c9ec4ddb49ef8b188ed7f8e7e9ef17323a1c33e47e4284d
 ---
 
-> Título QUINTO · Capítulo II
+> Título QUINTO · Capítulo IV
 
 # Artículo 112
 
@@ -49,7 +49,9 @@ e) Que a sabiendas, permitan a un deudor desviar el importe del crédito en bene
 
 f) Que lleven a cabo aquellas operaciones que la Comisión Nacional Bancaria y de Valores, en términos del artículo [74](articulo-74.md) de la presente Ley, haya señalado expresamente como operaciones que la institución de banca múltiple de que se trate no podrá realizar durante el periodo indicado por dicha Comisión para la vigencia de la medida prudencial que haya ordenado conforme a dicho artículo. Inciso adicionado DOF 10-01-2014
 
-Para efectos de lo previsto en el primer párrafo de la presente fracción, no se considera que causen un quebranto o perjuicio al patrimonio de la institución las operaciones que se celebren como parte de procesos de reestructuración de operaciones de pago que se realicen en términos del artículo [65](articulo-65.md) de esta Ley. Párrafo adicionado DOF 01-02-2008 IV. Los deudores que no destinen el importe del crédito a los fines pactados, y como consecuencia de ello resulte quebranto o perjuicio patrimonial a la institución, y
+Para efectos de lo previsto en el primer párrafo de la presente fracción, no se considera que causen un quebranto o perjuicio al patrimonio de la institución las operaciones que se celebren como parte de procesos de reestructuración de operaciones de pago que se realicen en términos del artículo [65](articulo-65.md) de esta Ley. Párrafo adicionado DOF 01-02-2008
+
+IV. Los deudores que no destinen el importe del crédito a los fines pactados, y como consecuencia de ello resulte quebranto o perjuicio patrimonial a la institución, y
 
 V. Los acreditados que desvíen un crédito concedido por alguna institución a fines distintos para los que se otorgó, si dicha finalidad fue determinante para el otorgamiento del crédito en condiciones preferenciales.
 

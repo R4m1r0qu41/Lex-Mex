@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título VI · Capítulo II
+
 # Artículo 184
 
 Las casas de bolsa previamente a la realización de las actividades fiduciarias deberán establecer las medidas necesarias para prevenir conflictos de interés que puedan originarse en la prestación de servicios fiduciarios y los que proporcionen a sus clientes, así como evitar prácticas que afecten una sana operación o vayan en detrimento de los intereses de las personas a las que les otorguen sus servicios.

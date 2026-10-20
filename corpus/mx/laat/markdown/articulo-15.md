@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAAT.pdf
 source_sha256: 2e6462a9ddd472efe129d2285c1602316c91640646847da74dbf13363c5238fb
 ---
 
-> Título TERCERO
+> Título TERCERO · Capítulo I
 
 # Artículo 15
 
@@ -36,5 +36,3 @@ La Secretaría determinará la forma en la cual se asignará la representación 
 La Secretaría podrá invitar a participar en las sesiones de la comisión tripartita, con el carácter de consultores, con voz y sin voto, a representantes de aquellas organizaciones empresariales o sociales relacionados con la prestación de los servicios vinculados al otorgamiento del beneficio de ayuda alimentaria contemplado en esta Ley.
 
 El funcionamiento y la operación de la Comisión Tripartita se establecerán de acuerdo con sus Reglas Internas de Operación.
-
-Capítulo II Vigilancia

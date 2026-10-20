@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título III · Capítulo I
+
 # Artículo 61
 
 Las personas morales, nacionales o extranjeras, que conforme a las disposiciones legales y reglamentarias tengan la capacidad jurídica para suscribir títulos de crédito, podrán emitir certificados bursátiles, ajustándose a lo previsto en esta Ley.

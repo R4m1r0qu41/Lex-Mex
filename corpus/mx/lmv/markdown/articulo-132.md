@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título VI · Capítulo I
+
 # Artículo 132
 
 La fusión de dos o más casas de bolsa, o de cualquier sociedad con una casa de bolsa, deberá ser autorizada por la [Comisión](articulo-2.md), previo acuerdo de su Junta de Gobierno. Dicha fusión se efectuará con sujeción a las bases siguientes:
@@ -27,4 +29,4 @@ IV. Los acuerdos de fusión adoptados por las respectivas asambleas generales ex
 
 VI. La Comisión, previo acuerdo de su Junta de Gobierno, podrá establecer mediante disposiciones de carácter general, la demás documentación e información que en relación con las fracciones anteriores deba proporcionarse.
 
-La fusión de una casa de bolsa que pertenezca a un grupo financiero, sea como fusionante o fusionada, se sujetará a lo dispuesto por el artículo 10 de la Ley para Regular las Agrupaciones Financieras, y no le será aplicable lo previsto en este artículo. Párrafo adicionado DOF 10-01-2014
+La fusión de una casa de bolsa que pertenezca a un grupo financiero, sea como fusionante o fusionada, se sujetará a lo dispuesto por el artículo [10](../../lraf/markdown/articulo-10.md) de la Ley para Regular las Agrupaciones Financieras, y no le será aplicable lo previsto en este artículo. Párrafo adicionado DOF 10-01-2014

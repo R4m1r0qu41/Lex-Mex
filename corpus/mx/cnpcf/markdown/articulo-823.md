@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo Único
+
 # Artículo 823
 
 El convenio extrajudicial debe contener un plan de pagos que no excederá de tres años, con excepción del pago de créditos con garantía real en los que se observarán las reglas previstas en los [Códigos Civiles](articulo-2.md) respectivos, en relación con la concurrencia y prelación de créditos, salvo pacto en contrario, en el que los acreedores manifiesten su voluntad de acogerse a los beneficios del presente procedimiento. En el convenio se deberá determinar lo siguiente, según corresponda:

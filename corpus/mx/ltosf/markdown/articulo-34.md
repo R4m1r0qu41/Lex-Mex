@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf
 source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 ---
 
+> Capítulo V · Sección IV
+
 # Artículo 34
 
 Atendiendo a las circunstancias de cada caso, las [Autoridades](articulo-3.md) podrán además de imponer la multa que corresponda, amonestar al infractor, o bien, solamente amonestarlo, considerando la gravedad de la conducta, que no se afecten los intereses de terceros, así como la existencia de atenuantes.

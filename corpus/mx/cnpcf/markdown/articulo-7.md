@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 7
 
 Son principios rectores del sistema de impartición de justicia en materia civil y familiar:
@@ -48,5 +50,3 @@ XV. Preclusión. El no ejercicio de los derechos procesales en la etapa correspo
 XVI. Privacidad. En materia familiar el acceso a las audiencias queda reservado a las partes y a quienes deban comparecer conforme a la ley, y
 
 XVII. Publicidad. En materia civil, las audiencias serán públicas, de conformidad con lo dispuesto en este Código Nacional, por las Leyes de Protección de Datos Personales, Transparencia y Acceso a la Información Pública, y demás ordenamientos aplicables en sus respectivos ámbitos de competencia.
-
-Sección Segunda De la Acción

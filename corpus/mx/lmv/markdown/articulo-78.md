@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título IV · Capítulo I
+
 # Artículo 78
 
 La [Comisión](articulo-2.md) podrá efectuar rectificaciones a los registros y anotaciones por causas de error, ya sea de oficio o a petición de parte interesada.

@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNEP.pdf
 source_sha256: 91abecabe50a5e414e0835daa9086ce3b307fffb9ebe626dab3bb9d1eae51680
 ---
 
-> Título QUINTO
+> Título QUINTO · Capítulo IV
 
 # Artículo 145
 
@@ -30,5 +30,3 @@ La temporalidad debe ser determinada por el Juez de Ejecución, quién deberá a
 El Juez de Ejecución establecerá las condiciones, obligaciones de la persona privada de su libertad, temporalidad y medidas de seguimiento, vigilancia o monitoreo, para lo cual podrá solicitar el auxilio de las instancias de seguridad pública.
 
 La violación a las condiciones u obligaciones por parte de la persona privada de su libertad tendrá como consecuencia su revocación y reaprehensión inmediata, sin menoscabo de las sanciones a las que se haga acreedor en términos de las disposiciones disciplinarias aplicables.
-
-Capítulo V Preliberación por Criterios de Política Penitenciaria

@@ -53,6 +53,8 @@ Las penas y medidas de seguridad son:
 
 17.- Medidas tutelares para menores.
 
-18.- Decomiso de bienes correspondientes al enriquecimiento ilícito. Numeral adicionado DOF 05-01-1983 19. La colocación de dispositivos de localización y vigilancia. Numeral adicionado DOF 30-11-2010
+18.- Decomiso de bienes correspondientes al enriquecimiento ilícito. Numeral adicionado DOF 05-01-1983
+
+19. La colocación de dispositivos de localización y vigilancia. Numeral adicionado DOF 30-11-2010
 
 Y las demás que fijen las leyes.

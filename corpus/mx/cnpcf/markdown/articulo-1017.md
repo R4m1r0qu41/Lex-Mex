@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Único · Capítulo II
+
 # Artículo 1017
 
 Cuando en virtud de la sentencia o de la determinación de la autoridad jurisdiccional deba entregarse algún bien mueble o inmueble, se procederá inmediatamente a poner en posesión de éste a la parte ejecutante o a la persona en quien se fincó el remate aprobado, practicando para este fin todas las diligencias conducentes que solicite la persona interesada.

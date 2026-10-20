@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo IV
+
 # Artículo 807
 
 Para la sucesión intestamentaria que pretenda tramitarse ante Notaria o Notario Público, deberá de observar la competencia y formalidades previstas en este [Código Nacional](articulo-2.md). Comparecerán las personas interesadas, exhibiendo la copia certificada del acta de defunción del autor de la herencia, en su caso atestado de matrimonio y capitulaciones de acuerdo al régimen patrimonial que lo regule, constancia o convenio que realicen los concubinos o convivientes cuando se encuentre legalmente constituida su relación y contenga disposición expresa, de que el patrimonio que se adquiera será en partes iguales y las partidas del estado civil que justifiquen su entroncamiento con el autor de la sucesión, ofreciendo en compañía de dos testigos idóneos quienes darán su testimonio bajo protesta de decir verdad, la información testimonial respectiva para constatar que no existen otras personas con igual o mejor derecho a la herencia.

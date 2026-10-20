@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
 source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
 ---
 
+> Título Tercero · Capítulo II
+
 # Artículo 52
 
 La Cámara de Diputados estará integrada por 300 diputadas y diputados electos según el principio de votación mayoritaria relativa, mediante el sistema de distritos electorales uninominales, así como por 200 diputadas y diputados que serán electos según el principio de representación proporcional, mediante el Sistema de Listas Regionales, votadas en circunscripciones plurinominales.

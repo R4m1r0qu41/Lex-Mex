@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Capítulo II · Sección Primera
+
 # Artículo 1131
 
 Las notificaciones y emplazamientos provenientes del extranjero, para la Federación y sus dependencias, las Entidades Federativas y los Municipios, se harán por conducto de las autoridades Federales que resulten competentes por razón del domicilio o residencia de aquéllas.

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título XIII
+
 # Artículo 351 Bis
 
 Con el objeto de preservar la estabilidad financiera, evitar interrupciones o alteraciones en el funcionamiento del sistema financiero o del sistema de pagos, así como para facilitar el adecuado cumplimiento de sus funciones, la [Secretaría](articulo-2.md), el Banco de México y la [Comisión](articulo-2.md), deberán, a petición de parte interesada y en términos de los convenios a que se refiere el último párrafo de este artículo, intercambiar entre sí la información que tengan en su poder por haberla obtenido: I. En el ejercicio de sus facultades;

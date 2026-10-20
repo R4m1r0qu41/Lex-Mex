@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 7o
 
 Las empresas aéreas, marítimas y ferroviarias que efectúen el transporte internacional de pasajeros, deberán transmitir electrónicamente al Servicio de Administración Tributaria, la información relativa a los pasajeros, tripulación y medios de transporte, en los términos y con la oportunidad que señale el Servicio de Administración Tributaria mediante reglas.

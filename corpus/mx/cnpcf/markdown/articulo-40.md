@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 40
 
 Tratándose de acciones del estado civil, salvo lo dispuesto en el párrafo siguiente, se realizará la anotación al margen o al calce del atestado respectivo, en los términos que sean ordenadas por la autoridad jurisdiccional o autoridad administrativa.

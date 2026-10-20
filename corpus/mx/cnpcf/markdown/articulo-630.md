@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo I
+
 # Artículo 630
 
 La autoridad jurisdiccional competente para conocer de la custodia de niñas, niños o adolescentes será aquella en cuya jurisdicción se encuentre el lugar de residencia habitual de los mismos, salvo que exista un procedimiento previo en materia de custodia o patria potestad, ante otra autoridad jurisdiccional en cuyo caso este último será competente.

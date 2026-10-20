@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo II
+
 # Artículo 115
 
 Si se declarare improcedente o no probada la causa de recusación que se hubiere alegado, no se volverá a admitir otra recusación contra la misma autoridad jurisdiccional por la misma causal, salvo cuando ésta se sustituya, en cuyo caso podrá hacerse valer la recusación.

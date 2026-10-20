@@ -1135,15 +1135,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpcf:article:444:term-usage:403-409",
-    "provision_id": "urn:lex-mx:federal:code:cnpcf:article:444",
-    "term_id": "urn:lex-mx:federal:code:cnpcf:term:apoyo",
-    "span": "Apoyos",
-    "start_char": 403,
-    "end_char": 409
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:code:cnpcf:article:446:term-usage:858-873",
     "provision_id": "urn:lex-mx:federal:code:cnpcf:article:446",
     "term_id": "urn:lex-mx:federal:code:cnpcf:term:codigo-nacional",
@@ -2638,15 +2629,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpcf:article:946:term-usage:164-178",
-    "provision_id": "urn:lex-mx:federal:code:cnpcf:article:946",
-    "term_id": "urn:lex-mx:federal:code:cnpcf:term:digitalizacion",
-    "span": "Digitalización",
-    "start_char": 164,
-    "end_char": 178
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:code:cnpcf:article:950:term-usage:63-78",
     "provision_id": "urn:lex-mx:federal:code:cnpcf:article:950",
     "term_id": "urn:lex-mx:federal:code:cnpcf:term:codigo-nacional",
@@ -3202,15 +3184,6 @@
     "span": "Código Nacional",
     "start_char": 184,
     "end_char": 199
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpcf:article:1168:term-usage:238-255",
-    "provision_id": "urn:lex-mx:federal:code:cnpcf:article:1168",
-    "term_id": "urn:lex-mx:federal:code:cnpcf:term:videoconferencia",
-    "span": "Videoconferencias",
-    "start_char": 238,
-    "end_char": 255
   },
   {
     "schema_version": "0.1.0",

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo I
+
 # Artículo 606
 
 Siempre que la persona nombrada como persona tutora o curadora no reúna los requisitos que la ley disponga, la autoridad jurisdiccional denegará el discernimiento del cargo respectivo y proveerá al nombramiento en la forma y términos prevenidos por la legislación sustantiva de cada Entidad Federativa. Contra dicha resolución no procede recurso alguno.

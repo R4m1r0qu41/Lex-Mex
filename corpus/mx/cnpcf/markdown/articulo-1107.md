@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Único · Capítulo IV
+
 # Artículo 1107
 
 En los casos a que se refieren los artículos [1102](articulo-1102.md) y [1104](articulo-1104.md) de este [Código Nacional](articulo-2.md) se cancelarán las inscripciones de las hipotecas a que estuviere afecta la finca vendida, expidiéndose para ello mandamiento, en el que se exprese que el importe de la venta no fue suficiente para cubrir el crédito de la persona ejecutante y, en su caso, haberse consignado el importe del crédito acreedor preferente o el sobrante, si los hubiere, a disposición de las personas interesadas.

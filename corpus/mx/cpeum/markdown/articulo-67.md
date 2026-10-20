@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
 source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
 ---
 
+> Título Tercero · Capítulo II
+
 # Artículo 67
 
 El Congreso o una sola de las Cámaras, cuando se trate de asunto exclusivo de ella, se reunirán en sesiones extraordinarias cada vez que los convoque para ese objeto la Comisión Permanente; pero en ambos casos sólo se ocuparán del asunto o asuntos que la propia Comisión sometiese a su conocimiento, los cuales se expresarán en la convocatoria respectiva.

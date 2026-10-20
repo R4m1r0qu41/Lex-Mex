@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Segundo · Capítulo I
+
 # Artículo 97
 
 La autoridad jurisdiccional ante quien se promueva inhibitoria girará oficio requiriendo al que se estime incompetente, para que deje de conocer del procedimiento, y le remita los autos dentro de los cinco días posteriores. La resolución que niegue el requerimiento es apelable. Si la inhibitoria se promueve ante la autoridad jurisdiccional de segunda instancia respectiva, la resolución que niegue al requerimiento, no admite recurso ordinario alguno.

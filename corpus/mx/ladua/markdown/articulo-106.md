@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
-> Capítulo II · Sección TERCERA
+> Título Cuarto · Capítulo III
 
 # Artículo 106
 
@@ -27,7 +27,9 @@ a) Las que realicen los residentes en el extranjero, siempre que sean utilizados
 
 b) Las de envases de mercancías, siempre que contengan en territorio nacional las mercancías que en ellos se hubieran introducido al país.
 
-c) Las de vehículos de las misiones diplomáticas y consulares extranjeras y de las oficinas de sede o representación de organismos internacionales, así como de los funcionarios y empleados del servicio exterior mexicano, para su importación en franquicia diplomática, siempre que cumplan con los requisitos que señale el Servicio de Administración Tributaria mediante reglas. Inciso derogado DOF 30-12-1996. Adicionado DOF 31-12-1998. Reformado DOF 25-06-2018 d) Las de muestras o muestrarios destinados a dar a conocer mercancías, siempre que cumplan con los requisitos que señale el Servicio de Administración Tributaria mediante reglas. Inciso reformado DOF 31-12-1998, 25-06-2018
+c) Las de vehículos de las misiones diplomáticas y consulares extranjeras y de las oficinas de sede o representación de organismos internacionales, así como de los funcionarios y empleados del servicio exterior mexicano, para su importación en franquicia diplomática, siempre que cumplan con los requisitos que señale el Servicio de Administración Tributaria mediante reglas. Inciso derogado DOF 30-12-1996. Adicionado DOF 31-12-1998. Reformado DOF 25-06-2018
+
+d) Las de muestras o muestrarios destinados a dar a conocer mercancías, siempre que cumplan con los requisitos que señale el Servicio de Administración Tributaria mediante reglas. Inciso reformado DOF 31-12-1998, 25-06-2018
 
 e) Las de vehículos, siempre que la importación sea efectuada por mexicanos con residencia en el extranjero o que acrediten estar laborando en el extranjero por un año o más, comprueben mediante documentación oficial su calidad migratoria que los autorice para tal fin y se trate de un solo vehículo en cada periodo de doce meses. En estos casos, los seis meses se computarán en entradas y salidas múltiples efectuadas dentro del periodo de doce meses contados a partir de la primera entrada. Los vehículos podrán ser conducidos en territorio nacional por el importador, su cónyuge, sus ascendientes, descendientes o hermanos siempre y cuando sean residentes permanentes en el extranjero, o por un extranjero con las calidades migratorias indicadas en el inciso a) de la fracción IV de este artículo. Cuando sea conducido por alguna persona distinta de las autorizadas, invariablemente deberá viajar a bordo el importador del vehículo. Los vehículos a que se refiere este inciso deberán cumplir con los requisitos que señale el Reglamento. Inciso reformado DOF 30-12-1996, 31-12-1998, 01-01-2002
 

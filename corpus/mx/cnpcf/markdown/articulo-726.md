@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 726
 
 En los juicios de sucesión, si la Federación o las Entidades Federativas son herederos o legatarios en concurrencia con los particulares, se estará a las reglas de competencia previstas en este [Código Nacional](articulo-2.md).

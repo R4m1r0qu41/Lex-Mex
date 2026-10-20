@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAN.pdf
 source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 ---
 
-> Título SEXTO
+> Título SEXTO · Capítulo IV
 
 # Artículo 82 BIS
 
@@ -22,5 +22,3 @@ source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 Los sistemas y obras de captación de agua pluvial que tengan un uso distinto al mencionado en el párrafo anterior, requerirán la autorización de “la Autoridad del Agua”.
 
 Artículo adicionado DOF 11-12-2025
-
-Capítulo V Control de Avenidas y Protección contra Inundaciones

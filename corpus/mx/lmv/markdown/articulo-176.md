@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título VI · Capítulo II
+
 # Artículo 176
 
 Las casas de bolsa que pretendan recibir préstamos o créditos para la realización de las actividades que les son propias; otorgar préstamos o créditos para la adquisición de valores; celebrar reportos y préstamos sobre valores; realizar operaciones con instrumentos financieros derivados; operar con divisas o metales amonedados, o actuar como fiduciarias conforme a esta Ley, se sujetarán para la realización de dichas actividades a las disposiciones de carácter general que al efecto expida el Banco de México.

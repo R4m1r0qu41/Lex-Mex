@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 32
 
 La autoridad jurisdiccional que conozca del procedimiento podrá ordenar la suspensión de la construcción hasta que el juicio se resuelva, mediante garantía que otorgue la parte actora para responder de los daños y perjuicios que se causen al demandado por obra nueva.

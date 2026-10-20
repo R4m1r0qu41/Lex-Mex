@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo I
+
 # Artículo 586
 
 En los casos en que las partes manifiesten su deseo de someterse a los beneficios de la justicia restaurativa, la autoridad jurisdiccional señalará día y hora para que las partes acudan a la entrevista inicial, a la cual podrán ser acompañadas en todo momento de cualquier persona de su confianza, lo que incluye a su representante legal.
@@ -34,9 +36,3 @@ Las partes comparecerán personal y debidamente asistidas a la audiencia y en ca
 De resultar en derecho el convenio, se elevará a categoría de cosa juzgada y de inmediato la autoridad jurisdiccional proveerá de todo lo necesario para su ejecución.
 
 El cumplimiento forzoso del convenio judicial podrá solicitarse en la vía de apremio.
-
-Título Segundo Procedimientos No Contenciosos en Materia Familiar
-
-Capítulo I De la Jurisdicción Voluntaria
-
-Sección Primera Generalidades

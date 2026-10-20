@@ -31,6 +31,6 @@ V. Dañe algún ejemplar de las especies de flora o fauna silvestres, terrestres
 
 Se aplicará una pena adicional hasta de tres años más de prisión y hasta mil días multa adicionales, cuando las conductas descritas en el presente artículo se realicen en o afecten un área natural protegida, o cuando se realicen con fines comerciales.
 
-En los casos previstos en la fracción IV del presente artículo y la fracción X del artículo [2](articulo-2o.md)o. de la Ley Federal contra la Delincuencia Organizada, se impondrá la pena de cinco a quince años de prisión y el equivalente de tres mil a seis mil días multa cuando se trate de algún ejemplar, partes, derivados, productos o subproductos de la especie totoaba macdonaldi. Párrafo adicionado DOF 19-02-2021
+En los casos previstos en la fracción IV del presente artículo y la fracción X del artículo [2](../../lfdo/markdown/articulo-2o.md)o. de la Ley Federal contra la Delincuencia Organizada, se impondrá la pena de cinco a quince años de prisión y el equivalente de tres mil a seis mil días multa cuando se trate de algún ejemplar, partes, derivados, productos o subproductos de la especie totoaba macdonaldi. Párrafo adicionado DOF 19-02-2021
 
 Artículo adicionado DOF 13-12-1996. Reformado DOF 06-02-2002

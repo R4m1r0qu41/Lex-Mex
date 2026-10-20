@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título II · Capítulo II
+
 # Artículo 49
 
 Los accionistas de las sociedades anónimas bursátiles, sin perjuicio de lo que señalen otras leyes o los estatutos sociales, gozarán de los derechos siguientes: I. Tener a su disposición, en las oficinas de la sociedad, la información y los documentos relacionados con cada uno de los puntos contenidos en el orden del día de la asamblea de accionistas que corresponda, de forma gratuita y con al menos quince días naturales de anticipación a la fecha de la asamblea.

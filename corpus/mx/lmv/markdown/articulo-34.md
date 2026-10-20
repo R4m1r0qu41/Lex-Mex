@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título II · Capítulo II
+
 # Artículo 34
 
 Los miembros y secretario del consejo de administración de las sociedades anónimas bursátiles, deberán guardar confidencialidad respecto de la información y los asuntos que tengan conocimiento con motivo de su cargo en la sociedad, cuando dicha información o asuntos no sean de carácter público.

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título IV · Capítulo II
+
 # Artículo 100
 
 El oferente de una oferta pública forzosa de adquisición no podrá, por sí o a través de interpósita persona, pagar, entregar o proporcionar cualquier prestación que implique un premio o sobreprecio al importe de la oferta, en favor de una persona o grupo de personas vinculadas al destinatario de la oferta.

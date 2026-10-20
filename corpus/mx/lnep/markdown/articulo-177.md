@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNEP.pdf
 source_sha256: 91abecabe50a5e414e0835daa9086ce3b307fffb9ebe626dab3bb9d1eae51680
 ---
 
-> Título QUINTO
+> Título QUINTO · Capítulo VIII
 
 # Artículo 177
 
@@ -40,5 +40,3 @@ IX. Hacer del conocimiento del Juez de Ejecución cuando, de acuerdo con criteri
 X. Asistir a reuniones de trabajo con los distintos operadores del procedimiento, y
 
 XI. Integrar recursos familiares que sirvan de apoyo al mismo.
-
-Sección Cuarta Del Procedimiento

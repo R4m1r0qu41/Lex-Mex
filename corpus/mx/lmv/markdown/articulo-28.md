@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título II · Capítulo II
+
 # Artículo 28
 
 El consejo de administración deberá ocuparse de los asuntos siguientes:
@@ -67,7 +69,7 @@ b) El informe que el director general elabore conforme a lo señalado en el art�
 
 c) La opinión del consejo de administración sobre el contenido del informe del director general a que se refiere el inciso anterior.
 
-d) El informe a que se refiere el artículo 172, inciso b) de la Ley General de Sociedades Mercantiles en el que se contengan las principales políticas y criterios contables y de información seguidos en la preparación de la información financiera.
+d) El informe a que se refiere el artículo [172](../../lgsm/markdown/articulo-172.md), inciso b) de la Ley General de Sociedades Mercantiles en el que se contengan las principales políticas y criterios contables y de información seguidos en la preparación de la información financiera.
 
 e) El informe sobre las operaciones y actividades en las que hubiere intervenido conforme a lo previsto en esta Ley.
 

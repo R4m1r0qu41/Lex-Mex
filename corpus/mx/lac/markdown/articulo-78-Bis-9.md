@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo XV Bis
+
 # Artículo 78 Bis 9
 
 Con el fin de promover y mejorar la seguridad operacional, la [Agencia Federal de Aviación Civil](articulo-2.md) tiene la facultad de concertar acuerdos con Autoridades de Aviación Civil Extranjeras, así como entre las personas usuarias del sistema aeronáutico respecto de los sistemas que se implementarán para llevar a cabo la recopilación, análisis, uso, compartición e intercambio de datos e información de seguridad operacional entre estos, conforme a la legislación vigente en materia de transparencia y protección de datos personales.

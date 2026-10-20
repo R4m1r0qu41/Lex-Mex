@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo XIX
+
 # Artículo 87
 
 Se les impondrán a las personas concesionarias, asignatarias, operadoras aéreas y permisionarias de servicio al público de transporte aéreo las siguientes sanciones por: Párrafo reformado DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicado íntegro sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62)

@@ -13,9 +13,11 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título VII
+
 # Artículo 226 Bis
 
-En materia de prevención y detección de actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos previstos en los artículos 139 o 148 Bis del Código Penal Federal o que pudieran ubicarse en los supuestos del artículo 400 Bis del mismo Código, con el fin de coadyuvar con los intermediarios del mercado de valores, los asesores en inversiones, en términos de las disposiciones de carácter general que emita la [Secretaría](articulo-2.md), escuchando la previa opinión de la [Comisión](articulo-2.md), estarán obligados a:
+En materia de prevención y detección de actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos previstos en los artículos [139](../../cpf/markdown/articulo-139.md) o [148 Bis](../../cpf/markdown/articulo-148-Bis.md) del Código Penal Federal o que pudieran ubicarse en los supuestos del artículo 400 Bis del mismo Código, con el fin de coadyuvar con los intermediarios del mercado de valores, los asesores en inversiones, en términos de las disposiciones de carácter general que emita la [Secretaría](articulo-2.md), escuchando la previa opinión de la [Comisión](articulo-2.md), estarán obligados a:
 
 I. Realizar un adecuado conocimiento de sus clientes, para lo cual deberán recabar información y documentación que acredite sus antecedentes, condiciones específicas, y actividad económica o profesional.
 

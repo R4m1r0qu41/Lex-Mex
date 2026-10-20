@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
+> Título Primero · Capítulo II
+
 # Artículo 9o-C
 
 Los interesados podrán autorizar, a través del sistema electrónico aduanero, a un máximo de cinco personas para que en su nombre reciban los avisos de disponibilidad y las notificaciones de los actos administrativos relacionados con los trámites realizados a través de dicho sistema. Para tal efecto los interesados deberán manifestar el nombre completo, registro federal de contribuyentes activo, así como la dirección de correo electrónico de las personas que autoricen. Los interesados son responsables de comunicar a través del sistema electrónico aduanero la revocación de las personas autorizadas para recibir notificaciones.

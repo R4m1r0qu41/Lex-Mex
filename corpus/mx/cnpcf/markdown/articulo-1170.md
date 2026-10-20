@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Capítulo II · Sección Quinta
+
 # Artículo 1170
 
 Procederá el empleo de videoconferencia cuando medie solicitud del Estado requirente y sea técnicamente realizable. La preparación de la videoconferencia podrá iniciarse por medio de correo electrónico o cualquier otra tecnología que permita la transmisión de la solicitud, siempre que se remita de un sistema de información que esté bajo el control del iniciador o de la parte que la envíe en nombre de éste. Se establecerá día, hora y lugar de la misma.

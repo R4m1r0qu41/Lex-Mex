@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf
 source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 ---
 
+> Capítulo XII · Sección Segunda
+
 # Artículo 70
 
 Cuando por la operación de una aeronave, por objetos desprendidos de la misma o por abordaje, se causen daños a personas o cosas que se encuentren en la superficie, nacerá la responsabilidad con sólo establecer la existencia del daño y su causa.

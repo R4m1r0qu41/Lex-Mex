@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
 source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 ---
 
-> Capítulo II · Sección TERCERA
+> Título Cuarto · Capítulo VI
 
 # Artículo 135
 
@@ -36,5 +36,3 @@ Por los faltantes de las mercancías destinadas al régimen previsto en este art
 Podrán introducirse al país a través del régimen previsto en este artículo, la maquinaria y el equipo que se requiera para la elaboración, transformación o reparación de mercancías en recinto fiscalizado, siempre que se pague el impuesto general de importación y se cumplan las regulaciones y restricciones no arancelarias aplicables a este régimen. Párrafo reformado DOF 31-12-2000
 
 Los petrolíferos son mercancías que no podrán ser objeto de este régimen, así como las que se determinen mediante reglas. Párrafo adicionado DOF 01-06-2018. Reformado DOF 19-11-2025
-
-Capítulo VII Recinto Fiscalizado Estratégico Capítulo adicionado DOF 30-12-2002

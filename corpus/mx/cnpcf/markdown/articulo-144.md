@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
 source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 ---
 
+> Título Primero · Capítulo II
+
 # Artículo 144
 
 La autoridad jurisdiccional podrá limitar el ingreso del público a una cantidad determinada de personas, de conformidad con las disposiciones aplicables en materia de protección civil.

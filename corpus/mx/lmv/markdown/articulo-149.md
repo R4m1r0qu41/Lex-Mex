@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf
 source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 ---
 
+> Título VI · Capítulo I
+
 # Artículo 149
 
 Los honorarios del interventor-gerente y del personal auxiliar que dichos interventores contraten para el desempeño de sus funciones, así como los correspondientes a los miembros del consejo consultivo previsto en el artículo [146](articulo-146.md) de esta Ley, serán cubiertos por la casa de bolsa intervenida. Para tales efectos, la [Comisión](articulo-2.md) podrá establecer mediante disposiciones de carácter general los criterios mediante los cuales se efectuará el pago de dichos honorarios, considerando la situación financiera del intermediario y teniendo como principio rector la evolución de las remuneraciones en el sistema bursátil del país.
