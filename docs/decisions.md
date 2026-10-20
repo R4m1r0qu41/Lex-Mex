@@ -1,5 +1,30 @@
 # Architecture decisions
 
+## 2026-10-20 — Reviewed usage exclusions; LIEPS drops 11 lower-case non-usages
+
+**Operator (2026-10-20):** on LIEPS's questionable lower-case matches, chose "Reviewed exclusions": a per-usage list pinned to provision, position and exact text, removing only the reviewed false links.
+
+**Mechanism.** `GlossaryConfig.usage_exclusions` in the adapter (`lex-source` `UsageExclusion`).
+- Each entry has a provision suffix, `start_char`, the exact matched `text`, `term_id` and a `reason`. Unknown fields are refused.
+- After usage extraction, `lex-cli` `exclude_reviewed_non_usages` removes the one usage matching all four.
+- An entry that matches no usage fails extraction ("re-review it against the current text"). So a reform that moves or rewords the text cannot silently exclude a different occurrence.
+- Coverage is unchanged in shape: its `usage_count` is after exclusion. The adapter, which the database inventories as evidence, carries the list and reasons.
+- Unit test: `a_reviewed_non_usage_removes_exactly_its_pinned_match_and_a_stale_one_fails`.
+
+**LIEPS: 11 exclusions, the matches listed for review in the 2026-10-19 LIEPS entry.**
+- `puro` in X (`biocombustible puro`);
+- `alcohol` in 2-E's `alcohol isopropílico` (2), and in X's `alcohol tipo etanol anhidro`, which VI excludes;
+- `gasolinas` in 2-E's chemistry text (2), and `gasolina de alto octanaje` inside XXII e) `Gasavión`;
+- `azúcar` in XIII (`fabricación de azúcar`), XXX (2, flan) and XXXI (pudín).
+
+The profile rationale now records the 2026-10-20 boundary rulings (entry below). Its text hash and extraction are unchanged.
+
+**Measured** (`link --all`: exit 0; only LIEPS relinked; 5 rejections, exactly the accepted gaps; references 35,949):
+- LIEPS usages 327 → 316, exactly these 11, none added. Corpus usages 102,179 → 102,168.
+- Markdown: `articulo-2o-E.md` and `articulo-3o.md`, link-only.
+
+**Not excluded; for the operator if wanted.** Art. 3 I b) `ácido cítrico, azúcar, ácido benzoico` (`azúcar` as a soft-drink ingredient, offset 690) is the same kind as XXX and XXXI but was not in the reviewed list.
+
 ## 2026-10-20 — Operator confirms the lgs correction and the LIEPS boundary readings
 
 **Operator (2026-10-20):** "On the pending items also go ahead with the fixes … the suggested fixes look good." Asked which items to record as confirmed, the operator chose "Confirm both".

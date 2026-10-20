@@ -26,7 +26,7 @@
     "profile": {
       "strategy_version": "glossary-extraction-4",
       "provision_text_sha256": "9c80c1dc34488ddc56b82465adc6bf0941894b64ac09962e2a633c53f0f6e232",
-      "rationale": "Operator rulings 2026-10-19: I, VIII and XXII are parents defined by their incisos (VIII as \"Tabacos labrados\"); IX's incisos are the definitions; XXII d) and g) only point to IX b) and c). Machine boundary readings awaiting operator review, not rulings: XIX and XXXVIII define the whole printed name, which has internal commas, up to the definition (\", a los productos\", \", aquellos que\"); XXII f) \"Turbosina y kerosenos\" is one term.",
+      "rationale": "Operator rulings 2026-10-19: I, VIII and XXII are parents defined by their incisos (VIII as \"Tabacos labrados\"); IX's incisos are the definitions; XXII d) and g) only point to IX b) and c). Operator rulings 2026-10-20 (confirming the machine boundary readings): XIX and XXXVIII define the whole printed name, which has internal commas, up to the definition (\", a los productos\", \", aquellos que\"); XXII f) \"Turbosina y kerosenos\" is one term.",
       "evidence": "docs/decisions.md (2026-10-19, LIEPS glossary under its rulings)",
       "entries": [
         {
@@ -374,6 +374,85 @@
           ]
         }
       ]
-    }
+    },
+    "usage_exclusions": [
+      {
+        "provision_suffix": ":article:3",
+        "start_char": 5005,
+        "text": "puro",
+        "term_id": "urn:lex-mx:federal:statute:lieps:term:puros",
+        "reason": "X: \"biocombustible puro\" (pure biofuel), not the defined Puros (cigars) (operator 2026-10-20: reviewed exclusions)"
+      },
+      {
+        "provision_suffix": ":article:2-e",
+        "start_char": 4594,
+        "text": "alcohol",
+        "term_id": "urn:lex-mx:federal:statute:lieps:term:alcohol",
+        "reason": "\"alcohol isopropílico\", a chemical, not the defined Alcohol (operator 2026-10-20: reviewed exclusions)"
+      },
+      {
+        "provision_suffix": ":article:2-e",
+        "start_char": 5271,
+        "text": "alcohol",
+        "term_id": "urn:lex-mx:federal:statute:lieps:term:alcohol",
+        "reason": "\"alcohol isopropílico\", a chemical, not the defined Alcohol (operator 2026-10-20: reviewed exclusions)"
+      },
+      {
+        "provision_suffix": ":article:3",
+        "start_char": 4839,
+        "text": "alcohol",
+        "term_id": "urn:lex-mx:federal:statute:lieps:term:alcohol",
+        "reason": "X: \"alcohol tipo etanol anhidro\" is automotive ethanol, which VI excludes from Alcohol (operator 2026-10-20: reviewed exclusions)"
+      },
+      {
+        "provision_suffix": ":article:2-e",
+        "start_char": 1611,
+        "text": "gasolinas",
+        "term_id": "urn:lex-mx:federal:statute:lieps:term:gasolina",
+        "reason": "\"gasolinas\" as a refining product in 2-E's chemistry text, not the defined Gasolina (operator 2026-10-20: reviewed exclusions)"
+      },
+      {
+        "provision_suffix": ":article:2-e",
+        "start_char": 3892,
+        "text": "gasolinas",
+        "term_id": "urn:lex-mx:federal:statute:lieps:term:gasolina",
+        "reason": "\"gasolinas de alto octanaje\" in 2-E's chemistry text, not the defined Gasolina (operator 2026-10-20: reviewed exclusions)"
+      },
+      {
+        "provision_suffix": ":article:3",
+        "start_char": 11396,
+        "text": "gasolina",
+        "term_id": "urn:lex-mx:federal:statute:lieps:term:gasolina",
+        "reason": "XXII e): \"gasolina de alto octanaje\" names Gasavión, not the defined Gasolina (operator 2026-10-20: reviewed exclusions)"
+      },
+      {
+        "provision_suffix": ":article:3",
+        "start_char": 7238,
+        "text": "azúcar",
+        "term_id": "urn:lex-mx:federal:statute:lieps:term:azucares",
+        "reason": "XIII: \"fabricación de azúcar\" (sugar manufacture), not the defined Azúcares (operator 2026-10-20: reviewed exclusions)"
+      },
+      {
+        "provision_suffix": ":article:3",
+        "start_char": 15616,
+        "text": "azúcar",
+        "term_id": "urn:lex-mx:federal:statute:lieps:term:azucares",
+        "reason": "XXX: \"azúcar\" as an ingredient of flan, not the defined Azúcares (operator 2026-10-20: reviewed exclusions)"
+      },
+      {
+        "provision_suffix": ":article:3",
+        "start_char": 15691,
+        "text": "azúcar",
+        "term_id": "urn:lex-mx:federal:statute:lieps:term:azucares",
+        "reason": "XXX: \"azúcar tostada\" as an ingredient of flan, not the defined Azúcares (operator 2026-10-20: reviewed exclusions)"
+      },
+      {
+        "provision_suffix": ":article:3",
+        "start_char": 15945,
+        "text": "azúcar",
+        "term_id": "urn:lex-mx:federal:statute:lieps:term:azucares",
+        "reason": "XXXI: \"azúcar\" as an ingredient of pudín, not the defined Azúcares (operator 2026-10-20: reviewed exclusions)"
+      }
+    ]
   }
 }

@@ -33,7 +33,7 @@ III. Residuo largo.
 
 Descripción técnica. Es un hidrocarburo líquido, su composición es de hidrocarburos mayores a 12 carbonos, con contenido de azufre y residuos de metales pesados como vanadio y níquel.
 
-Usos. Se utiliza como componente en la carga a las refinerías para su transformación y separación en [gasolinas](articulo-3o.md) y combustibles pesados.
+Usos. Se utiliza como componente en la carga a las refinerías para su transformación y separación en gasolinas y combustibles pesados.
 
 IV. Asfaltos.
 
@@ -69,7 +69,7 @@ IX. Propileno grado refinería.
 
 Descripción técnica. Es un subproducto que se obtiene en las plantas catalíticas de las refinerías y viene mezclado con otros gases, principalmente con propano. Tiene un grado de pureza de entre 50 y 70%.
 
-Usos. Se utiliza mayormente para obtener polipropileno (plásticos); acrilonitrilo (fibras sintéticas, caucho y resinas termoplásticas); óxido de propileno, intermedio para la obtención del propilenglicol, polipropoxidados y otros productos; derivados oxo, butiraldehído y n-butanol; cumeno, intermedio para la obtención de fenol y acetona; [alcohol](articulo-3o.md) isopropílico, disolvente intermedio para la obtención de acetona; entre otras aplicaciones.
+Usos. Se utiliza mayormente para obtener polipropileno (plásticos); acrilonitrilo (fibras sintéticas, caucho y resinas termoplásticas); óxido de propileno, intermedio para la obtención del propilenglicol, polipropoxidados y otros productos; derivados oxo, butiraldehído y n-butanol; cumeno, intermedio para la obtención de fenol y acetona; alcohol isopropílico, disolvente intermedio para la obtención de acetona; entre otras aplicaciones.
 
 X. Propileno grado químico.
 

@@ -53,7 +53,7 @@ c) Diésel, combustible líquido que puede obtenerse del proceso de refinación 
 
 d) Combustibles no fósiles, combustibles o componentes de combustibles que no se obtienen o derivan de un proceso de destilación de petróleo crudo o del procesamiento de [gas natural](articulo-3o.md). Fracción reformada DOF 11-12-2013, 18-11-2015, 09-12-2019
 
-X. Etanol para uso automotriz, [alcohol](articulo-3o.md) tipo etanol anhidro con contenido de agua menor o igual a 1 por ciento y que cumpla con las especificaciones de calidad y características como biocombustible [puro](articulo-3o.md), que emita la autoridad competente. Fracción reformada DOF 11-12-2013, 18-11-2015, 09-12-2019
+X. Etanol para uso automotriz, alcohol tipo etanol anhidro con contenido de agua menor o igual a 1 por ciento y que cumpla con las especificaciones de calidad y características como biocombustible puro, que emita la autoridad competente. Fracción reformada DOF 11-12-2013, 18-11-2015, 09-12-2019
 
 XI. (Se deroga). Fracción derogada DOF 30-12-2002. Adicionada DOF 23-12-2005. Derogada DOF 09-12-2019
 

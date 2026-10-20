@@ -2380,6 +2380,12 @@ fn extract_instrument_terms(
         Some("with_lowercase") => extract_term_usages_with_lowercase(provisions, &term_sets)?,
         Some(other) => bail!("unsupported glossary usage_form {other:?}"),
     };
+    let usages = match &context.config.glossary {
+        Some(glossary) => {
+            exclude_reviewed_non_usages(&instrument.id, usages, &glossary.usage_exclusions)?
+        }
+        None => usages,
+    };
     let imports = additive_to
         .iter()
         .zip(&adopted)
@@ -2393,6 +2399,36 @@ fn extract_instrument_terms(
         terms,
         usages,
     })
+}
+
+/// Remove the adapter's reviewed non-usages. Each must remove exactly one
+/// extracted usage at its pinned provision, position, text and term;
+/// otherwise the text it was reviewed against has changed and extraction
+/// fails until it is re-reviewed.
+fn exclude_reviewed_non_usages(
+    instrument_id: &str,
+    mut usages: Vec<lex_core::TermUsage>,
+    exclusions: &[lex_source::UsageExclusion],
+) -> Result<Vec<lex_core::TermUsage>> {
+    for exclusion in exclusions {
+        let provision_id = format!("{instrument_id}{}", exclusion.provision_suffix);
+        let before = usages.len();
+        usages.retain(|usage| {
+            !(usage.provision_id == provision_id
+                && usage.start_char == exclusion.start_char
+                && usage.span == exclusion.text
+                && usage.term_id == exclusion.term_id)
+        });
+        if usages.len() == before {
+            bail!(
+                "reviewed usage exclusion no longer matches a usage: {provision_id} at {} {:?} ({}); re-review it against the current text",
+                exclusion.start_char,
+                exclusion.text,
+                exclusion.term_id
+            );
+        }
+    }
+    Ok(usages)
 }
 
 /// The instrument's own glossary terms and how they were found.
@@ -4765,6 +4801,39 @@ mod tests {
     };
     use lex_export::write_canonical;
     use url::Url;
+
+    #[test]
+    fn a_reviewed_non_usage_removes_exactly_its_pinned_match_and_a_stale_one_fails() {
+        let usage = |start: usize, span: &str| lex_core::TermUsage {
+            schema_version: SCHEMA_VERSION.to_owned(),
+            id: format!(
+                "urn:x:law:article:3:term-usage:{start}-{}",
+                start + span.len()
+            ),
+            provision_id: "urn:x:law:article:3".to_owned(),
+            term_id: "urn:x:law:term:alcohol".to_owned(),
+            span: span.to_owned(),
+            start_char: start,
+            end_char: start + span.len(),
+        };
+        let exclusion = |start: usize| lex_source::UsageExclusion {
+            provision_suffix: ":article:3".to_owned(),
+            start_char: start,
+            text: "alcohol".to_owned(),
+            term_id: "urn:x:law:term:alcohol".to_owned(),
+            reason: "alcohol isopropílico".to_owned(),
+        };
+        let usages = vec![usage(10, "alcohol"), usage(40, "alcohol")];
+        let kept =
+            super::exclude_reviewed_non_usages("urn:x:law", usages.clone(), &[exclusion(40)])
+                .unwrap();
+        assert_eq!(kept.iter().map(|u| u.start_char).collect::<Vec<_>>(), [10]);
+        // The text moved: the exclusion no longer matches and extraction fails.
+        let error = super::exclude_reviewed_non_usages("urn:x:law", usages, &[exclusion(41)])
+            .unwrap_err()
+            .to_string();
+        assert!(error.contains("no longer matches"), "{error}");
+    }
 
     use super::{
         Cli, Command, ExpectedEdgeCorpus, InstrumentAliasTable, LinkedGraph, Paths, SearchScope,

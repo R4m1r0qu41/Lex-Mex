@@ -123,6 +123,28 @@ pub struct GlossaryConfig {
     /// grammar holds (see [`lex_core::GlossaryProfile`]).
     #[serde(default, skip_serializing_if = "Option::is_none")]
     pub profile: Option<lex_core::GlossaryProfile>,
+    /// Reviewed matches that are not usages of their term (LIEPS
+    /// `alcohol isopropílico` is not the defined `Alcohol`; operator
+    /// 2026-10-20). Each is pinned to its provision, position, exact text
+    /// and term, so a reform that moves or rewords the text fails
+    /// extraction instead of excluding a different occurrence.
+    #[serde(default, skip_serializing_if = "Vec::is_empty")]
+    pub usage_exclusions: Vec<UsageExclusion>,
+}
+
+/// One reviewed non-usage (see [`GlossaryConfig::usage_exclusions`]).
+#[derive(Debug, Clone, Serialize, Deserialize)]
+#[serde(deny_unknown_fields)]
+pub struct UsageExclusion {
+    /// Canonical-ID suffix of the provision, e.g. `:article:2-e`.
+    pub provision_suffix: String,
+    /// Character offset of the match in the provision text.
+    pub start_char: usize,
+    /// The matched text, exactly as printed.
+    pub text: String,
+    pub term_id: String,
+    /// Why this match is not a usage of the term.
+    pub reason: String,
 }
 
 /// One further glossary provision and its style (see [`GlossaryConfig`]).
