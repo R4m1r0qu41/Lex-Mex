@@ -54,5 +54,3 @@ e) Los recursos erogados en la atención de las víctimas.
 XIII. Celebrar convenios de cooperación, coordinación y concertación en la materia, y
 
 XIV. Las demás previstas para el cumplimiento de la presente ley.
-
-Sección Séptima. De la Secretaría del Trabajo y Previsión Social Sección adicionada DOF 04-06-2015

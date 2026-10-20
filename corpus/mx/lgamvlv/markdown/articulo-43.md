@@ -34,5 +34,3 @@ VII. Establecer, utilizar, supervisar y mantener todos los instrumentos y accion
 VIII. Celebrar convenios de cooperación, coordinación y concertación en la materia, y
 
 IX. Las demás previstas para el cumplimiento de la presente ley.
-
-Sección Cuarta. De la Secretaría de Seguridad y Protección Ciudadana Denominación de la Sección reformada DOF 08-05-2023

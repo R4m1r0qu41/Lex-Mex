@@ -20,5 +20,3 @@ source_sha256: 9a35a6a9017840b7d052dfc0726ff668a76257fd3f76f741c615630125fbf535
 Derogado.
 
 Artículo adicionado DOF 29-04-2022. Derogado DOF 15-01-2026
-
-Sección Tercera. De la Secretaría de Desarrollo Social

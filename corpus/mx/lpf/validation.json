@@ -1,9 +1,16 @@
 {
   "schema_version": "0.1.0",
   "instrument_id": "urn:lex-mx:federal:statute:lpf",
-  "valid": true,
+  "valid": false,
   "article_count": 55,
   "transitory_count": 5,
   "reference_count": 11,
-  "issues": []
+  "issues": [
+    {
+      "severity": "error",
+      "code": "glossary_coverage_inconsistent",
+      "message": "glossary coverage differs from current adapter selection or imported terms; relink required",
+      "provision_id": null
+    }
+  ]
 }

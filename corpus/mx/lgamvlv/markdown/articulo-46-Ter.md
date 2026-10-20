@@ -36,5 +36,3 @@ VII. Establecer, utilizar, supervisar y mantener todos los instrumentos y accion
 VIII. Las demás previstas para el cumplimiento de la presente ley.
 
 Artículo adicionado DOF 04-06-2015
-
-Sección Novena. De la Fiscalía General de la República Sección recorrida (antes Sección Séptima) DOF 04-06-2015. Denominación reformada DOF 20-05-2021

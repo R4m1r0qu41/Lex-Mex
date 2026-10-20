@@ -36,5 +36,3 @@ VII. Celebrar convenios de cooperación, coordinación y concertación en la mat
 IX. Las demás previstas para el cumplimiento de la presente ley.
 
 Artículo adicionado DOF 18-05-2012
-
-Sección Octava. De la Secretaría de Desarrollo Agrario, Territorial y Urbano Sección adicionada DOF 04-06-2015

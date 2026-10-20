@@ -13,10 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LPF.pdf
 source_sha256: fecec9ae534befd8467e94bb8eb7e39444938f6ef3346b9cc0e91932f4082885
 ---
 
-> Capítulo VII
+> Capítulo VII · Sección Primera
 
 # Artículo 27
 
 En los procedimientos que instruya el [Consejo Federal](articulo-4.md) contra los integrantes se salvaguardará en todo tiempo la garantía de audiencia.
-
-Sección Segunda. De su Integración y Funcionamiento.

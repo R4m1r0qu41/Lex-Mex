@@ -80,5 +80,3 @@ XXVII. Las demás aplicables a la materia, que les conceda la ley u otros ordena
 Las autoridades federales, harán las gestiones necesarias para propiciar que las autoridades locales reformen su legislación, para considerar como agravantes los delitos contra la vida y la integridad corporal cometidos contra mujeres.
 
 Artículo reformado DOF 20-01-2009, 28-01-2011, 14-06-2012. Reformado y publicado íntegro DOF 04-06-2015
-
-Sección Décima Segunda. De los Municipios y Demarcaciones Territoriales de la Ciudad de México Sección recorrida (antes Sección Décima) DOF 04-06-2015. Denominación reformada DOF 29-04-2022

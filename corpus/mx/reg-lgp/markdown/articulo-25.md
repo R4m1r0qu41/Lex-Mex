@@ -13,10 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGP.pdf
 source_sha256: d1b105c503cd9d4e593d9e349b440a77cffc4bf1f3507fe1d1659ab97c8befd8
 ---
 
-> Capítulo SEGUNDO
+> Capítulo SEGUNDO · Sección III
 
 # Artículo 25
 
 Los programas de población establecerán estrategias adecuadas a las características culturales, sociales, económicas y demográficas de los grupos indígenas vulnerables y de la población marginada, con el fin de impulsar sus condiciones de bienestar.
-
-SECCIÓN IV.- Mujer y Equidad de Género

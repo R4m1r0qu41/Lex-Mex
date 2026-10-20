@@ -54,5 +54,3 @@ XII. Cumplir con las facultades y responsabilidades que le corresponden y que se
 XIII. Las demás previstas para el cumplimiento de la presente ley. Fracción recorrida DOF 16-12-2024
 
 Artículo reformado DOF 14-06-2012. Publicado íntegro DOF 04-06-2015
-
-Sección Décima. De la Secretaría de Gobernación Sección recorrida (antes Sección Octava) DOF 04-06-2015. Denominación reformada DOF 15-01-2026

@@ -50,5 +50,3 @@ XIV. Diseñar, con una visión transversal, la política integral con perspectiv
 XV. Celebrar convenios de cooperación, coordinación y concertación en la materia, y
 
 XVI. Las demás previstas para el cumplimiento de la presente ley.
-
-Sección Sexta. De la Secretaría de Salud

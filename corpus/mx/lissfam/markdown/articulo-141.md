@@ -13,10 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LISSFAM.pdf
 source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 ---
 
-> Capítulo Único
+> Título SEGUNDO · Capítulo Quinto
 
 # Artículo 141
 
 El [Instituto](articulo-4o.md) cooperará con las Secretarías de la Defensa Nacional y de Marina en las campañas permanentes para incrementar en los militares y sus familiares, las convicciones y hábitos que tiendan a proteger la estabilidad del hogar, así como la legalización de su estado civil.
-
-Capítulo Sexto: Servicio Médico Integral.
