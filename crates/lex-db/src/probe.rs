@@ -186,10 +186,16 @@ pub fn build_fixture(connection: &mut Connection, bytes: &[u8]) -> Result<()> {
                 );
             }
             let mut names = columns.iter().map(|s| (*s).to_owned()).collect::<Vec<_>>();
-            if *group != "glossary_coverage" {
-                names.push("ordinal".into());
-                values.push(i64::try_from(ordinal)?.into());
-            }
+            names.extend([
+                "ordinal".into(),
+                "input_path".into(),
+                "source_pointer".into(),
+            ]);
+            values.extend([
+                i64::try_from(ordinal)?.into(),
+                "fixture.json".to_owned().into(),
+                format!("/{group}/{ordinal}").into(),
+            ]);
             if *group == "reference_edges" {
                 store_children(&tx, record, &mut extras)?;
             }
@@ -290,18 +296,22 @@ pub fn verify_fixture(connection: &Connection) -> Result<usize> {
     let fixture: Value = serde_json::from_slice(&bytes)?;
     let mut count = 0;
     for (group, columns) in GROUPS {
-        let order = if *group == "glossary_coverage" {
-            "instrument_id"
-        } else {
-            "ordinal"
-        };
-        let mut statement = connection.prepare(&format!(
-            "SELECT {},extras FROM {group} ORDER BY {order}",
-            columns.join(",")
-        ))?;
+        let mut statement = connection.prepare(&format!("SELECT {},extras,input_path,source_pointer,ordinal FROM {group} ORDER BY input_path,ordinal", columns.join(",")))?;
         let mut rows = statement.query([])?;
         let mut actual = Vec::new();
         while let Some(row) = rows.next()? {
+            ensure!(
+                row.get::<_, String>(columns.len() + 1)? == "fixture.json",
+                "unexpected source input path"
+            );
+            ensure!(
+                row.get::<_, String>(columns.len() + 2)? == format!("/{group}/{}", actual.len()),
+                "source JSON pointer mismatch"
+            );
+            ensure!(
+                row.get::<_, i64>(columns.len() + 3)? == i64::try_from(actual.len())?,
+                "source file ordinal mismatch"
+            );
             let mut object: Map<String, Value> =
                 serde_json::from_str(&row.get::<_, String>(columns.len())?)?;
             for (index, key) in columns.iter().enumerate() {
@@ -316,16 +326,8 @@ pub fn verify_fixture(connection: &Connection) -> Result<usize> {
             }
             actual.push(Value::Object(object));
         }
-        let mut expected = records(&fixture, group)?.clone();
-        if *group == "glossary_coverage" {
-            expected.sort_by(|a, b| {
-                a["instrument_id"]
-                    .as_str()
-                    .cmp(&b["instrument_id"].as_str())
-            });
-        }
         ensure!(
-            actual == expected,
+            &actual == records(&fixture, group)?,
             "logical record parity mismatch: {group}"
         );
         count += actual.len();
@@ -387,14 +389,10 @@ pub fn run_probe() -> Result<ProbeReport> {
     let bytes = include_bytes!("../../../fixtures/database/adversarial.json");
     build_fixture(&mut connection, bytes)?;
     let verified_records = verify_fixture(&connection)?;
+    let strict_error=connection.execute("INSERT INTO instruments(id,ordinal,input_path,source_pointer,extras) VALUES ('invalid','not-an-integer','fixture.json','/invalid','{}')",[]).err().context("STRICT must reject a text ordinal")?;
     ensure!(
-        connection
-            .execute(
-                "INSERT INTO instruments VALUES ('invalid', 'not-an-integer', '{}')",
-                []
-            )
-            .is_err(),
-        "STRICT not enforced"
+        matches!(strict_error,rusqlite::Error::SqliteFailure(error,_) if error.extended_code==rusqlite::ffi::SQLITE_CONSTRAINT_DATATYPE),
+        "STRICT probe failed for a different reason"
     );
     ensure!(
         connection.query_row("SELECT json_type('{\"x\":null}','$.x')", [], |r| r

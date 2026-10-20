@@ -140,3 +140,71 @@ fn cross_instrument_usages_and_glossary_accounting_presence_survive() {
     c.execute("UPDATE glossary_coverage SET extras=json_remove(extras,'$.glossaries[0].unread_fractions')",[]).unwrap();
     assert!(verify_fixture(&c).is_err());
 }
+
+#[test]
+fn source_ordinals_restart_per_file_and_same_file_collisions_fail() {
+    let mut c = connection().unwrap();
+    build_fixture(&mut c, FIXTURE).unwrap();
+    c.execute(
+        "INSERT INTO input_files VALUES('second.json',?1,?2,'normalized')",
+        rusqlite::params![b"[]".as_slice(), lex_db::digest(b"[]")],
+    )
+    .unwrap();
+    for (table, columns) in [
+        ("instruments", ""),
+        (
+            "reference_edges",
+            ",source_provision_id,target_instrument_id,target_provision_id,resolution_status",
+        ),
+        ("defined_terms", ",instrument_id,defining_provision_id"),
+        ("term_usages", ",provision_id,term_id"),
+    ] {
+        let sql = format!(
+            "INSERT INTO {table}(id{columns},input_path,source_pointer,ordinal,extras) SELECT id||':other'{columns},'second.json','/0',0,extras FROM {table} WHERE ordinal=0 AND input_path='fixture.json'"
+        );
+        assert_eq!(c.execute(&sql, []).unwrap(), 1, "{table}");
+        let collision = sql
+            .replace("':other'", "':duplicate'")
+            .replace("'second.json','/0'", "'second.json','/1'");
+        assert!(
+            c.execute(&collision, []).is_err(),
+            "per-file ordinal must be unique in {table}"
+        );
+    }
+    assert!(verify_fixture(&c).is_err()); // extra rows have no counterpart in fixture.json
+}
+
+#[test]
+fn source_pointer_and_input_file_corruption_fail_readback() {
+    for mutation in [
+        "UPDATE provisions SET source_pointer='/other' WHERE ordinal=0",
+        "UPDATE reference_edges SET input_path='other.json'",
+    ] {
+        let mut c = connection().unwrap();
+        build_fixture(&mut c, FIXTURE).unwrap();
+        c.execute(
+            "INSERT INTO input_files VALUES('other.json',?1,?2,'normalized')",
+            rusqlite::params![b"[]".as_slice(), lex_db::digest(b"[]")],
+        )
+        .unwrap();
+        c.execute(mutation, []).unwrap();
+        assert!(verify_fixture(&c).is_err());
+    }
+}
+
+#[test]
+fn unresolved_edges_are_stored_without_inventing_live_targets() {
+    let mut f: Value = serde_json::from_slice(FIXTURE).unwrap();
+    f["reference_edges"][1]["resolution_status"] = json!("unresolved");
+    let mut c = connection().unwrap();
+    build_fixture(&mut c, &serde_json::to_vec(&f).unwrap()).unwrap();
+    verify_fixture(&c).unwrap();
+    let live: Option<String> = c
+        .query_row(
+            "SELECT live_target FROM reference_edges WHERE resolution_status='unresolved'",
+            [],
+            |r| r.get(0),
+        )
+        .unwrap();
+    assert!(live.is_none());
+}

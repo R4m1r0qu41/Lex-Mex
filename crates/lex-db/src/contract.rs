@@ -2,7 +2,10 @@ use crate::{digest, input::GitInput};
 use anyhow::{Context, Result, bail, ensure};
 use serde::{Deserialize, Serialize};
 use serde_json::Value;
-use std::{collections::BTreeSet, path::Path};
+use std::{
+    collections::{BTreeMap, BTreeSet},
+    path::Path,
+};
 
 pub const VERSION: &str = "1";
 pub const DEBT_PATH: &str = "adapters/shared/_known-structural-debt.json";
@@ -26,6 +29,8 @@ pub struct InputFile {
 
 #[derive(Debug, Serialize, Deserialize)]
 #[serde(deny_unknown_fields)]
+/// Version 1 hashes serialization in this declaration's field order.
+/// Changing field order or serialization requires a manifest version change.
 pub struct BuildSpecification {
     pub schema_version: String,
     pub corpus_commit: String,
@@ -98,10 +103,21 @@ pub struct DebtSeed {
     pub source_corpus_commit: String,
     pub decision_source_path: String,
     pub decision_source_sha256: String,
+    pub review_source_path: String,
+    pub review_source_sha256: String,
+    pub decision_sections: Vec<DecisionSection>,
     pub rows: Vec<DebtRow>,
 }
 
 #[derive(Debug, Serialize, Deserialize)]
+#[serde(deny_unknown_fields)]
+pub struct DecisionSection {
+    pub reference: String,
+    pub heading: String,
+    pub sha256: String,
+}
+
+#[derive(Debug, Serialize, Deserialize, PartialEq, Eq)]
 #[serde(deny_unknown_fields)]
 pub struct DebtRow {
     pub instrument_id: String,
@@ -129,10 +145,9 @@ pub fn validate_seed(git: &GitInput, bytes: &[u8]) -> Result<DebtSeed> {
         .map_err(|e| anyhow::anyhow!(e.to_string()))?;
     let seed: DebtSeed = serde_json::from_value(value)?;
     git.require_ancestor(&seed.source_corpus_commit)?;
-    ensure!(
-        digest(&git.read(&seed.decision_source_path)?) == seed.decision_source_sha256,
-        "debt decision source changed; review and rebind seed"
-    );
+    let source = git.at(&seed.source_corpus_commit)?;
+    validate_decision_sections(git, &source, &seed)?;
+    validate_review_set(git, &source, &seed)?;
     let mut identities = BTreeSet::new();
     for row in &seed.rows {
         ensure!(
@@ -180,4 +195,146 @@ pub fn validate_seed(git: &GitInput, bytes: &[u8]) -> Result<DebtSeed> {
         }
     }
     Ok(seed)
+}
+
+/// Exact Markdown section bytes, including its heading and trailing whitespace.
+/// A duplicate heading is ambiguous and fails rather than picking one.
+pub fn decision_section<'a>(text: &'a str, heading: &str) -> Result<&'a str> {
+    ensure!(
+        heading.starts_with("## "),
+        "decision heading must be level two"
+    );
+    let mut starts = Vec::new();
+    let mut offset = 0;
+    for line in text.split_inclusive('\n') {
+        if line.trim_end_matches(['\r', '\n']) == heading {
+            starts.push(offset);
+        }
+        offset += line.len();
+    }
+    ensure!(
+        starts.len() == 1,
+        "decision section absent or ambiguous: {heading}"
+    );
+    let start = starts[0];
+    let tail = &text[start..];
+    let first = tail.find('\n').map_or(tail.len(), |n| n + 1);
+    let end = tail[first..]
+        .find("\n## ")
+        .map_or(text.len(), |n| start + first + n + 1);
+    // The next section can start immediately after the heading's newline.
+    let end = if tail[first..].starts_with("## ") {
+        start + first
+    } else {
+        end
+    };
+    Ok(&text[start..end])
+}
+
+fn validate_decision_sections(git: &GitInput, source: &GitInput, seed: &DebtSeed) -> Result<()> {
+    let original = source.read(&seed.decision_source_path)?;
+    ensure!(
+        digest(&original) == seed.decision_source_sha256,
+        "decision snapshot digest mismatch"
+    );
+    let original = String::from_utf8(original)?;
+    let current = String::from_utf8(git.read(&seed.decision_source_path)?)?;
+    let mut references = BTreeSet::new();
+    for section in &seed.decision_sections {
+        ensure!(
+            references.insert(section.reference.as_str()),
+            "duplicate decision section reference"
+        );
+        ensure!(
+            section.reference.split('#').next() == Some(seed.decision_source_path.as_str()),
+            "decision reference path mismatch"
+        );
+        ensure!(
+            digest(decision_section(&original, &section.heading)?.as_bytes()) == section.sha256,
+            "decision section snapshot mismatch"
+        );
+        ensure!(
+            digest(decision_section(&current, &section.heading)?.as_bytes()) == section.sha256,
+            "cited decision section changed; review and rebind seed"
+        );
+    }
+    for row in &seed.rows {
+        ensure!(
+            references.contains(row.decision_reference.as_str()),
+            "debt row has an unbound decision reference"
+        );
+    }
+    Ok(())
+}
+
+fn validate_review_set(git: &GitInput, source: &GitInput, seed: &DebtSeed) -> Result<()> {
+    let raw = source.read(&seed.review_source_path)?;
+    ensure!(
+        digest(&raw) == seed.review_source_sha256,
+        "review snapshot digest mismatch"
+    );
+    ensure!(
+        digest(&git.read(&seed.review_source_path)?) == seed.review_source_sha256,
+        "current review ledger changed; review and rebind seed"
+    );
+    let review: Value = serde_json::from_slice(&raw)?;
+    source.require_ancestor(
+        review["corpus_commit"]
+            .as_str()
+            .context("review corpus commit missing")?,
+    )?;
+    ensure!(
+        seed.decision_sections
+            .iter()
+            .any(|s| Some(s.reference.as_str()) == review["decision_reference"].as_str()),
+        "review decision reference is not bound"
+    );
+    let rows = review["rows"].as_array().context("review rows absent")?;
+    let mut expected = BTreeMap::new();
+    for row in rows.iter().filter(|r| r["review_status"] == "accepted") {
+        let mut fields = serde_json::Map::new();
+        for key in [
+            "instrument_id",
+            "kind",
+            "printed_label",
+            "heading_text",
+            "containing_provision_id",
+            "start_char",
+            "end_char",
+            "source_path",
+            "source_blob_oid",
+            "source_sha256",
+            "review_status",
+            "reviewer",
+            "reviewed_at",
+            "decision_reference",
+        ] {
+            fields.insert(
+                key.into(),
+                row.get(key)
+                    .with_context(|| format!("accepted review row lacks {key}"))?
+                    .clone(),
+            );
+        }
+        let row: DebtRow = serde_json::from_value(Value::Object(fields))?;
+        ensure!(
+            expected
+                .insert((row.instrument_id.clone(), row.printed_label.clone()), row)
+                .is_none(),
+            "duplicate accepted review identity"
+        );
+    }
+    ensure!(
+        expected.len() == seed.rows.len(),
+        "seed does not contain exactly the accepted review rows"
+    );
+    for row in &seed.rows {
+        ensure!(
+            expected.get(&(row.instrument_id.clone(), row.printed_label.clone())) == Some(row),
+            "seed row differs from accepted review: {} {}",
+            row.instrument_id,
+            row.printed_label
+        );
+    }
+    Ok(())
 }

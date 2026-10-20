@@ -1,0 +1,19 @@
+{
+  "schema_version": "1",
+  "evidence_paths": [
+    "docs/decisions.md",
+    "docs/parser-sweep-review-2026-10-19.md",
+    "docs/parser-sweep-review-2026-10-19-evidence.json",
+    "docs/sqlite-structural-debt-review-2026-10-19.json",
+    "docs/sqlite-structural-debt-candidates-2026-10-19.json",
+    "docs/sqlite-contract-refresh-2026-10-19.json",
+    "docs/sqlite-structural-debt-review-2026-10-17.json",
+    "docs/sqlite-structural-debt-candidates-2026-10-17.json",
+    "docs/sqlite-m1-review-2026-10-20.md"
+  ],
+  "reference_files": [
+    "corpus/reference/scjn-invalidity-registry/source-manifest.json",
+    "corpus/reference/scjn-invalidity-registry/DeclaracionesInvalidez.pdf",
+    "corpus/reference/scjn-invalidity-registry/DeclaracionesInvalidez_lex-mex.md"
+  ]
+}

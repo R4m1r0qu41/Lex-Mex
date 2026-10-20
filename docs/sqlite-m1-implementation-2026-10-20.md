@@ -1,5 +1,9 @@
 # SQLite M1 implementation — 2026-10-20
 
+> Historical milestone record. Current M1 review repairs, seed v2, per-file
+> provenance and expanded inventory are documented in the
+> [review response](sqlite-m1-review-response-2026-10-20.md).
+
 ## Outcome
 
 M1's executable contract foundation is implemented on `db/sqlite-projection`. Current main `bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2` was merged into the database worktree without rewriting either branch. The two documentation conflicts were resolved with the preserved refreshed DB plan and current main's corpus status. The local integration commit follows the final checks; no push or full-corpus database build is part of this milestone.

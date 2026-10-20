@@ -1,6 +1,6 @@
 {
-  "schema_version": "1",
-  "source_corpus_commit": "bfcda816f46b8b0c1d694fc1f2cfb8b4438275b2",
+  "schema_version": "2",
+  "source_corpus_commit": "6505baf57c7aa7051cffe62742f46f10276a834a",
   "decision_source_path": "docs/decisions.md",
   "decision_source_sha256": "5dab2f8d004e809ca509779633b9aba5341ca0ca1eee5972bf4bd61a09826ae9",
   "rows": [
@@ -275,6 +275,15 @@
       "reviewer": "operator",
       "reviewed_at": "2026-10-18",
       "decision_reference": "docs/decisions.md#2026-10-18-merged-headings-are-split-into-their-own-articles-letter-series-accepted-by-equivalence"
+    }
+  ],
+  "review_source_path": "docs/sqlite-structural-debt-review-2026-10-19.json",
+  "review_source_sha256": "5661e09cbe138bf8e88657ad151a7acc51e7d1e97145f52a7e1cb0a33e01152d",
+  "decision_sections": [
+    {
+      "reference": "docs/decisions.md#2026-10-18-merged-headings-are-split-into-their-own-articles-letter-series-accepted-by-equivalence",
+      "heading": "## 2026-10-18 — Merged headings are split into their own articles; letter series accepted by equivalence",
+      "sha256": "314192b578908d5edf788f6806aa29c186e6c7943f62501b8f21b8554c56e6c9"
     }
   ]
 }

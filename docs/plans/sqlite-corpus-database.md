@@ -224,7 +224,7 @@ Unknown schema versions/enum values fail with a useful diagnostic until mapped.
 | `input_files` | Relative path PK; exact JSON bytes, digest, byte length, handling policy, optional instrument owner. |
 | `instruments` | Canonical ID PK, slug UNIQUE; actual instrument metadata, extras, optional adapter parent and count-baseline payload. No default 'audited' or 'clean'. |
 | `source_manifests` | Instrument + source role + ordinal/path; all operational/formal/annex provenance, extras. Missing formal metadata stays absent. |
-| `provisions` | Explicit deterministic `INTEGER PRIMARY KEY` row ID for FTS; canonical ID UNIQUE, owning instrument FK, original array ordinal, type including annex, label/number/headings/text and temporal/review columns plus extras. UNIQUE instrument/ordinal and ID/owner pair. |
+| `provisions` | Explicit deterministic `INTEGER PRIMARY KEY` row ID for FTS; canonical ID UNIQUE, owning instrument FK, original array ordinal, type including annex, label/number/headings/text and temporal/review columns plus extras. UNIQUE input_path/ordinal and ID/owner pair; input_path FK and source_pointer preserve file provenance. |
 | `reference_edges` | Canonical edge ID PK; full source/target strings, source kind, spans, basis/confidence/form/status and extras. See constraints below. |
 | `reference_qualifiers` | Composite PK `(edge_id, ordinal)`; exact type/text/optional offsets and extras. Preserve list text and repeated types; no span uniqueness or AUTOINCREMENT. |
 | `outdated_reference_approvals` / `legal_operator_reviews` | Independent optional one-to-one rows keyed by edge ID; complete canonical payload and queryable reviewer/time fields. One can exist without the other. |
@@ -484,6 +484,18 @@ Acceptance and stop condition:
 
 ## Current checkpoint and next action
 
+2026-10-20 (M1 review repairs, uncommitted): the debt validator now requires
+exact equality with the pinned accepted review set, including metadata and
+locators. Seed schema v2 pins review evidence at 6505baf57 and binds the exact
+human-decision section, allowing unrelated decision-log additions. All 17
+accepted rows are unchanged. Source arrays use zero-based ordinals scoped to
+input path, plus a JSON pointer; scalar objects use ordinal 0 and pointer "".
+This applies to direct projections, including debt and accepted gaps; children
+inherit file provenance through their parent and retain local ordinals.
+[Review response](../sqlite-m1-review-response-2026-10-20.md) records the repairs
+and verification. fmt, strict workspace Clippy and all 380 tests pass. M2 loaders
+have not started. Historical measurements below retain their original scope.
+
 2026-10-20 (M1 implementation): main bfcda816f is integrated in the DB worktree;
 local integration commit follows the final gate. [Implementation report](../sqlite-m1-implementation-2026-10-20.md)
 and [evidence](../sqlite-m1-implementation-2026-10-20-evidence.json) record
@@ -552,6 +564,5 @@ file changed. The operator's two suggestion files remain untouched/untracked.
 
 `resolution_rule` landed (see `docs/decisions.md`).
 
-Exactly one current next action: review the M1 schema/provenance boundary, then
-implement M2's full pinned-input transactional builder and recovery gates.
+Exactly one current next action: review the M1 repair diff and accept its debt/provenance boundary before implementing M2's full pinned-input transactional builder and recovery gates.
 Keep M3 independent verification and M4 full-corpus reproducibility separate.

@@ -1,5 +1,9 @@
 # SQLite contract and debt refresh — 2026-10-19
 
+> Historical milestone record. Current M1 review repairs, seed v2, per-file
+> provenance and expanded inventory are documented in the
+> [review response](sqlite-m1-review-response-2026-10-20.md).
+
 ## Outcome and authority
 
 This refresh replaces the current census, debt inventory and query expectations of the October 17 plan. The original M1 physical-layout measurement remains historical evidence; extras-only storage and independent reconstruction remain the contract. No DB, Rust, corpus, parser, adapter or legal-review record is changed here.

@@ -7,11 +7,14 @@
     "source_corpus_commit",
     "decision_source_path",
     "decision_source_sha256",
-    "rows"
+    "rows",
+    "review_source_path",
+    "review_source_sha256",
+    "decision_sections"
   ],
   "properties": {
     "schema_version": {
-      "const": "1"
+      "const": "2"
     },
     "source_corpus_commit": {
       "type": "string",
@@ -99,6 +102,41 @@
           "decision_reference": {
             "type": "string",
             "minLength": 1
+          }
+        }
+      }
+    },
+    "review_source_path": {
+      "type": "string",
+      "minLength": 1
+    },
+    "review_source_sha256": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "decision_sections": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "reference",
+          "heading",
+          "sha256"
+        ],
+        "properties": {
+          "reference": {
+            "type": "string",
+            "minLength": 1
+          },
+          "heading": {
+            "type": "string",
+            "pattern": "^## "
+          },
+          "sha256": {
+            "type": "string",
+            "pattern": "^[a-f0-9]{64}$"
           }
         }
       }
