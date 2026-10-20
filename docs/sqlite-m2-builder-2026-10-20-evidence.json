@@ -1,0 +1,936 @@
+{
+  "status": "full_input_gate_blocked_no_artifact",
+  "corpus_commit": "611171e52062c67d0ef000cf42c72b87af4c4ef3",
+  "test_builder_snapshot": "404ce306d4b07dd35f6d305f64654ce09b35d9f3",
+  "branch_head": "611171e52062c67d0ef000cf42c72b87af4c4ef3",
+  "snapshot_is_unreferenced_test_object": true,
+  "exit_code": 1,
+  "elapsed_seconds": 112.47,
+  "input_files": 4960,
+  "definitions_rejected": 117,
+  "usage_records_rejected": 8,
+  "source_manifests_rejected": 1,
+  "invalid_file_count": 30,
+  "diagnostics": [
+    {
+      "path": "corpus/mx/cue-dcg-2003/terms.json",
+      "invalid_records": 1,
+      "first_pointer": "/18",
+      "first_error": "\"urn:lex-mx:federal:regulation:cue-dcg-2003:term:opinion-no-modificada-(o-favorable)-o-modificada-(o-desfavorable)\" does not match \"^urn:lex-mx:.+:term:[a-z0-9-]+$\""
+    },
+    {
+      "path": "corpus/mx/itf-dcg-2018/terms.json",
+      "invalid_records": 1,
+      "first_pointer": "/27",
+      "first_error": "\"urn:lex-mx:federal:regulation:itf-dcg-2018:term:numero-de-identificacion-personal-(nip)\" does not match \"^urn:lex-mx:.+:term:[a-z0-9-]+$\""
+    },
+    {
+      "path": "corpus/mx/lan/terms.json",
+      "invalid_records": 76,
+      "first_pointer": "/0",
+      "first_error": "\"urn:lex-mx:federal:statute:lan:term:\\\"aguas-nacionales\\\"\" does not match \"^urn:lex-mx:.+:term:[a-z0-9-]+$\""
+    },
+    {
+      "path": "corpus/mx/lcjpjf/terms.json",
+      "invalid_records": 1,
+      "first_pointer": "/11",
+      "first_error": "\"urn:lex-mx:federal:statute:lcjpjf:term:presidenta/presidente\" does not match \"^urn:lex-mx:.+:term:[a-z0-9-]+$\""
+    },
+    {
+      "path": "corpus/mx/ldrs/terms.json",
+      "invalid_records": 2,
+      "first_pointer": "/3",
+      "first_error": "\"urn:lex-mx:federal:statute:ldrs:term:agroforestal-(uso)\" does not match \"^urn:lex-mx:.+:term:[a-z0-9-]+$\""
+    },
+    {
+      "path": "corpus/mx/lfcsq/terms.json",
+      "invalid_records": 1,
+      "first_pointer": "/5",
+      "first_error": "\"urn:lex-mx:federal:statute:lfcsq:term:cas-(chemical-abstracts-service)\" does not match \"^urn:lex-mx:.+:term:[a-z0-9-]+$\""
+    },
+    {
+      "path": "corpus/mx/lffpmn/terms.json",
+      "invalid_records": 1,
+      "first_pointer": "/7",
+      "first_error": "\"urn:lex-mx:federal:statute:lffpmn:term:ogm's\" does not match \"^urn:lex-mx:.+:term:[a-z0-9-]+$\""
+    },
+    {
+      "path": "corpus/mx/lgamvlv/terms.json",
+      "invalid_records": 2,
+      "first_pointer": "/3",
+      "first_error": "\"urn:lex-mx:federal:statute:lgamvlv:term:violencia-y/o-violencias-contra-las-mujeres\" does not match \"^urn:lex-mx:.+:term:[a-z0-9-]+$\""
+    },
+    {
+      "path": "corpus/mx/lgappcea/terms.json",
+      "invalid_records": 1,
+      "first_pointer": "/2",
+      "first_error": "\"urn:lex-mx:federal:statute:lgappcea:term:[certificado-de-habilitacion\" does not match \"^urn:lex-mx:.+:term:[a-z0-9-]+$\""
+    },
+    {
+      "path": "corpus/mx/lgcc/terms.json",
+      "invalid_records": 1,
+      "first_pointer": "/28",
+      "first_error": "\"urn:lex-mx:federal:statute:lgcc:term:panel-intergubernamental-de-expertos-sobre-cambio-climatico-(ipcc)\" does not match \"^urn:lex-mx:.+:term:[a-z0-9-]+$\""
+    },
+    {
+      "path": "corpus/mx/lgcs/terms.json",
+      "invalid_records": 8,
+      "first_pointer": "/0",
+      "first_error": "\"urn:lex-mx:federal:statute:lgcs:term:[campanas-de-comunicacion-social\" does not match \"^urn:lex-mx:.+:term:[a-z0-9-]+$\""
+    },
+    {
+      "path": "corpus/mx/lgpsacdii/terms.json",
+      "invalid_records": 2,
+      "first_pointer": "/6",
+      "first_error": "\"urn:lex-mx:federal:statute:lgpsacdii:term:prestadores-de-servicios-para-la-atencion,-cuidado-y-desarrollo-integral-infantil\" does not match \"^urn:lex-mx:.+:term:[a-z0-9-]+$\""
+    },
+    {
+      "path": "corpus/mx/lieps/terms.json",
+      "invalid_records": 2,
+      "first_pointer": "/26",
+      "first_error": "\"urn:lex-mx:federal:statute:lieps:term:concentrados,-polvos-y-jarabes,-esencias-o-extractos-de-sabores,-que-permitan-obtener-bebidas-saborizadas\" does not match \"^urn:lex-mx:.+:term:[a-z0-9-]+$\""
+    },
+    {
+      "path": "corpus/mx/lmigra/terms.json",
+      "invalid_records": 4,
+      "first_pointer": "/15",
+      "first_error": "\"urn:lex-mx:federal:statute:lmigra:term:nina,-nino-o-adolescente-migrante\" does not match \"^urn:lex-mx:.+:term:[a-z0-9-]+$\""
+    },
+    {
+      "path": "corpus/mx/lnsijpa/terms.json",
+      "invalid_records": 1,
+      "first_pointer": "/18",
+      "first_error": "\"urn:lex-mx:federal:statute:lnsijpa:term:persona-responsable-de-la/el-adolescente\" does not match \"^urn:lex-mx:.+:term:[a-z0-9-]+$\""
+    },
+    {
+      "path": "corpus/mx/locfcrl/terms.json",
+      "invalid_records": 1,
+      "first_pointer": "/2",
+      "first_error": "\"urn:lex-mx:federal:statute:locfcrl:term:director-(a)-del-centro\" does not match \"^urn:lex-mx:.+:term:[a-z0-9-]+$\""
+    },
+    {
+      "path": "corpus/mx/lss/terms.json",
+      "invalid_records": 1,
+      "first_pointer": "/3",
+      "first_error": "\"urn:lex-mx:federal:statute:lss:term:patrones,-patron-o-persona-empleadora\" does not match \"^urn:lex-mx:.+:term:[a-z0-9-]+$\""
+    },
+    {
+      "path": "corpus/mx/lupdecr/terms.json",
+      "invalid_records": 1,
+      "first_pointer": "/7",
+      "first_error": "\"urn:lex-mx:federal:statute:lupdecr:term:derecho-internacional-humanitario-(dih)\" does not match \"^urn:lex-mx:.+:term:[a-z0-9-]+$\""
+    },
+    {
+      "path": "corpus/mx/oaac-dcg-2009/terms.json",
+      "invalid_records": 1,
+      "first_pointer": "/21",
+      "first_error": "\"urn:lex-mx:federal:regulation:oaac-dcg-2009:term:esquema-de-cobertura-en-paso-y-medida-(pari-passu)\" does not match \"^urn:lex-mx:.+:term:[a-z0-9-]+$\""
+    },
+    {
+      "path": "corpus/mx/reg-lfiiedb/terms.json",
+      "invalid_records": 1,
+      "first_pointer": "/9",
+      "first_error": "\"urn:lex-mx:federal:regulation:reg-lfiiedb:term:tasa-interna-de-retorno-(tir)\" does not match \"^urn:lex-mx:.+:term:[a-z0-9-]+$\""
+    },
+    {
+      "path": "corpus/mx/reg-lgs-mcsotcsh/terms.json",
+      "invalid_records": 1,
+      "first_pointer": "/10",
+      "first_error": "\"urn:lex-mx:federal:regulation:reg-lgs-mcsotcsh:term:disposicion-de-organos,-tejidos-y-cadaveres-y-sus-productos\" does not match \"^urn:lex-mx:.+:term:[a-z0-9-]+$\""
+    },
+    {
+      "path": "corpus/mx/reg-lgs-mt/terms.json",
+      "invalid_records": 1,
+      "first_pointer": "/9",
+      "first_error": "\"urn:lex-mx:federal:regulation:reg-lgs-mt:term:extraccion-de-organos,-tejidos-o-celulas\" does not match \"^urn:lex-mx:.+:term:[a-z0-9-]+$\""
+    },
+    {
+      "path": "corpus/mx/reg-linfonacot/terms.json",
+      "invalid_records": 1,
+      "first_pointer": "/2",
+      "first_error": "\"urn:lex-mx:federal:regulation:reg-linfonacot:term:financiamiento,-prestamo-o-credito\" does not match \"^urn:lex-mx:.+:term:[a-z0-9-]+$\""
+    },
+    {
+      "path": "corpus/mx/reg-lncm/terms.json",
+      "invalid_records": 1,
+      "first_pointer": "/13",
+      "first_error": "\"urn:lex-mx:federal:regulation:reg-lncm:term:codigo-igs-(ism)\" does not match \"^urn:lex-mx:.+:term:[a-z0-9-]+$\""
+    },
+    {
+      "path": "corpus/mx/scap-dcg-2012/terms.json",
+      "invalid_records": 1,
+      "first_pointer": "/33",
+      "first_error": "\"urn:lex-mx:federal:regulation:scap-dcg-2012:term:esquema-de-cobertura-en-paso-y-medida-(pari-passu)\" does not match \"^urn:lex-mx:.+:term:[a-z0-9-]+$\""
+    },
+    {
+      "path": "corpus/mx/socap-sofipo-dcg-2006/terms.json",
+      "invalid_records": 3,
+      "first_pointer": "/35",
+      "first_error": "\"urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:factor-de-ajuste-operacional-(fao)\" does not match \"^urn:lex-mx:.+:term:[a-z0-9-]+$\""
+    },
+    {
+      "path": "corpus/mx/lffpmn/term-usages.json",
+      "invalid_records": 1,
+      "first_pointer": "/22",
+      "first_error": "\"urn:lex-mx:federal:statute:lffpmn:term:ogm's\" does not match \"^urn:lex-mx:.+:term:[a-z0-9-]+$\""
+    },
+    {
+      "path": "corpus/mx/reg-lgs-mt/term-usages.json",
+      "invalid_records": 2,
+      "first_pointer": "/47",
+      "first_error": "\"urn:lex-mx:federal:regulation:reg-lgs-mt:term:extraccion-de-organos,-tejidos-o-celulas\" does not match \"^urn:lex-mx:.+:term:[a-z0-9-]+$\""
+    },
+    {
+      "path": "corpus/mx/reg-lncm/term-usages.json",
+      "invalid_records": 5,
+      "first_pointer": "/811",
+      "first_error": "\"urn:lex-mx:federal:regulation:reg-lncm:term:codigo-igs-(ism)\" does not match \"^urn:lex-mx:.+:term:[a-z0-9-]+$\""
+    },
+    {
+      "path": "corpus/mx/reg-lgs-insumos/source-manifest.json",
+      "invalid_records": 1,
+      "first_pointer": "",
+      "first_error": "\"secretaria_de_salud\" is not one of \"camara_de_diputados\", \"cnbv\" or \"dof\""
+    }
+  ],
+  "term_id_audit": {
+    "unexpected_characters": {
+      "(": 16,
+      ")": 16,
+      "\"": 126,
+      "“": 15,
+      "”": 15,
+      ".": 1,
+      ",": 18,
+      "/": 3,
+      ":": 1,
+      "'": 1,
+      "[": 9
+    },
+    "rows": [
+      {
+        "path": "corpus/mx/cue-dcg-2003/terms.json",
+        "pointer": "/18",
+        "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:opinion-no-modificada-(o-favorable)-o-modificada-(o-desfavorable)",
+        "term": "Opinión no modificada (o favorable) o modificada (o desfavorable)"
+      },
+      {
+        "path": "corpus/mx/itf-dcg-2018/terms.json",
+        "pointer": "/27",
+        "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:term:numero-de-identificacion-personal-(nip)",
+        "term": "Número de Identificación Personal (NIP)"
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/0",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"aguas-nacionales\"",
+        "term": "\"Aguas Nacionales\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/1",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"acuifero\"",
+        "term": "\"Acuífero\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/2",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"aguas-claras\"-o-\"aguas-de-primer-uso\"",
+        "term": "\"Aguas claras\" o \"Aguas de primer uso\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/3",
+        "id": "urn:lex-mx:federal:statute:lan:term:“aguas-de-laboreo”",
+        "term": "“Aguas de Laboreo”"
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/4",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"aguas-del-subsuelo\"",
+        "term": "\"Aguas del subsuelo\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/5",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"aguas-marinas\"",
+        "term": "\"Aguas marinas\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/6",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"aguas-residuales\"",
+        "term": "\"Aguas Residuales\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/7",
+        "id": "urn:lex-mx:federal:statute:lan:term:“aguas-residuales-tratadas”",
+        "term": "“Aguas residuales tratadas”"
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/8",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"aprovechamiento\"",
+        "term": "\"Aprovechamiento\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/9",
+        "id": "urn:lex-mx:federal:statute:lan:term:“aprovechamiento-de-paso”",
+        "term": "“Aprovechamiento de Paso”"
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/10",
+        "id": "urn:lex-mx:federal:statute:lan:term:“asignacion”",
+        "term": "“Asignación”"
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/11",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"bienes-publicos-inherentes\"",
+        "term": "\"Bienes Públicos Inherentes\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/12",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"capacidad-de-carga\"",
+        "term": "\"Capacidad de Carga\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/13",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"cauce-de-una-corriente\"",
+        "term": "\"Cauce de una corriente\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/14",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"comision-nacional-del-agua\"",
+        "term": "\"Comisión Nacional del Agua\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/15",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"concesion\"",
+        "term": "\"Concesión\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/16",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"condiciones-particulares-de-descarga\"",
+        "term": "\"Condiciones Particulares de Descarga\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/17",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"consejo-de-cuenca\"",
+        "term": "\"Consejo de Cuenca\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/18",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"cuenca-hidrologica\"",
+        "term": "\"Cuenca Hidrológica\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/19",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"cuerpo-receptor\"",
+        "term": "\"Cuerpo receptor\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/20",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"cuota-de-autosuficiencia\"",
+        "term": "\"Cuota de Autosuficiencia\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/21",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"cuota-natural-de-renovacion-de-las-aguas\"",
+        "term": "\"Cuota Natural de Renovación de las Aguas\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/22",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"delimitacion-de-cauce-y-zona-federal\"",
+        "term": "\"Delimitación de cauce y zona federal\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/23",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"desarrollo-sustentable\"",
+        "term": "\"Desarrollo sustentable\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/24",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"descarga\"",
+        "term": "\"Descarga\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/25",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"disponibilidad-media-anual-de-aguas-superficiales\"",
+        "term": "\"Disponibilidad media anual de aguas superficiales\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/26",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"disponibilidad-media-anual-de-aguas-del-subsuelo\"",
+        "term": "\"Disponibilidad media anual de aguas del subsuelo\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/27",
+        "id": "urn:lex-mx:federal:statute:lan:term:a.-\"distrito-de-riego\"",
+        "term": "a. \"Distrito de Riego\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/28",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"estero\"",
+        "term": "\"Estero\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/29",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"explotacion\"",
+        "term": "\"Explotación\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/30",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"gestion-del-agua\"",
+        "term": "\"Gestión del Agua\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/31",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"gestion-integrada-de-los-recursos-hidricos\"",
+        "term": "\"Gestión Integrada de los Recursos Hídricos\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/32",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"humedales\"",
+        "term": "\"Humedales\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/33",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"la-comision\"",
+        "term": "\"La Comisión\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/34",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"la-ley\"",
+        "term": "\"La Ley\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/35",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"la-procuraduria\"",
+        "term": "\"La Procuraduría\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/36",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"la-secretaria\"",
+        "term": "\"La Secretaría\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/37",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"los-consejos\"",
+        "term": "\"Los Consejos\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/38",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"los-organismos\"",
+        "term": "\"Los Organismos\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/39",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"materiales-petreos\"",
+        "term": "\"Materiales Pétreos\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/40",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"normas-oficiales-mexicanas\"",
+        "term": "\"Normas Oficiales Mexicanas\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/41",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"organismo-de-cuenca\"",
+        "term": "\"Organismo de Cuenca\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/42",
+        "id": "urn:lex-mx:federal:statute:lan:term:“permisos”",
+        "term": "“Permisos”"
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/43",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"persona-fisica-o-moral\"",
+        "term": "\"Persona física o moral\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/44",
+        "id": "urn:lex-mx:federal:statute:lan:term:“programa-nacional-hidrico”",
+        "term": "“Programa Nacional Hídrico”"
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/45",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"programa-hidrico-de-la-cuenca\"",
+        "term": "\"Programa Hídrico de la Cuenca\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/46",
+        "id": "urn:lex-mx:federal:statute:lan:term:“reasignacion”",
+        "term": "“Reasignación”"
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/47",
+        "id": "urn:lex-mx:federal:statute:lan:term:“registro-publico-nacional-del-agua”",
+        "term": "“Registro Público Nacional del Agua”"
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/48",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"rescate\"",
+        "term": "\"Rescate\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/49",
+        "id": "urn:lex-mx:federal:statute:lan:term:“responsabilidad-hidrica”",
+        "term": "“Responsabilidad Hídrica”"
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/50",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"reuso\"",
+        "term": "\"Reúso\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/51",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"ribera-o-zona-federal\"",
+        "term": "\"Ribera o Zona Federal\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/52",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"rio\"",
+        "term": "\"Río\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/53",
+        "id": "urn:lex-mx:federal:statute:lan:term:“seguridad-hidrica”",
+        "term": "“Seguridad Hídrica”"
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/54",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"servicios-ambientales\"",
+        "term": "\"Servicios Ambientales\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/55",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"sistema-de-agua-potable-y-alcantarillado\"",
+        "term": "\"Sistema de Agua Potable y Alcantarillado\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/56",
+        "id": "urn:lex-mx:federal:statute:lan:term:“sobreexplotacion”",
+        "term": "“Sobreexplotación”"
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/57",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"unidad-de-riego\"",
+        "term": "\"Unidad de Riego\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/58",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"uso\"",
+        "term": "\"Uso\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/59",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"uso-agricola\"",
+        "term": "\"Uso Agrícola\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/60",
+        "id": "urn:lex-mx:federal:statute:lan:term:“uso-agropecuario-familiar”",
+        "term": "“Uso agropecuario familiar”"
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/61",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"uso-ambiental\"-o-\"uso-para-conservacion-ecologica\"",
+        "term": "\"Uso Ambiental\" o \"Uso para conservación ecológica\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/62",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"uso-consuntivo\"",
+        "term": "\"Uso Consuntivo\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/63",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"uso-domestico\"",
+        "term": "\"Uso Doméstico\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/64",
+        "id": "urn:lex-mx:federal:statute:lan:term:“uso-en-acuacultura”",
+        "term": "“Uso en Acuacultura”"
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/65",
+        "id": "urn:lex-mx:federal:statute:lan:term:“uso-industrial-en-la-mineria”",
+        "term": "“Uso industrial en la minería”"
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/66",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"uso-industrial\"",
+        "term": "\"Uso industrial\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/67",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"uso-pecuario\"",
+        "term": "\"Uso Pecuario\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/68",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"uso-publico-urbano\"",
+        "term": "\"Uso Público Urbano\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/69",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"vaso-de-lago,-laguna-o-estero\"",
+        "term": "\"Vaso de lago, laguna o estero\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/70",
+        "id": "urn:lex-mx:federal:statute:lan:term:“yacimiento-geotermico-hidrotermal”",
+        "term": "“Yacimiento geotérmico hidrotermal”"
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/71",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"zona-de-proteccion\"",
+        "term": "\"Zona de Protección\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/72",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"zona-reglamentada\"",
+        "term": "\"Zona reglamentada\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/73",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"zona-de-reserva\"",
+        "term": "\"Zona de reserva\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/74",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"zona-de-veda\"",
+        "term": "\"Zona de veda\""
+      },
+      {
+        "path": "corpus/mx/lan/terms.json",
+        "pointer": "/75",
+        "id": "urn:lex-mx:federal:statute:lan:term:\"zonas-marinas-mexicanas\"",
+        "term": "\"Zonas Marinas Mexicanas\""
+      },
+      {
+        "path": "corpus/mx/lcjpjf/terms.json",
+        "pointer": "/11",
+        "id": "urn:lex-mx:federal:statute:lcjpjf:term:presidenta/presidente",
+        "term": "Presidenta/Presidente"
+      },
+      {
+        "path": "corpus/mx/ldrs/terms.json",
+        "pointer": "/3",
+        "id": "urn:lex-mx:federal:statute:ldrs:term:agroforestal-(uso)",
+        "term": "Agroforestal (Uso)"
+      },
+      {
+        "path": "corpus/mx/ldrs/terms.json",
+        "pointer": "/30",
+        "id": "urn:lex-mx:federal:statute:ldrs:term:servicios-ambientales-(sinonimo:-beneficios-ambientales)",
+        "term": "Servicios Ambientales (sinónimo: beneficios ambientales)"
+      },
+      {
+        "path": "corpus/mx/lfcsq/terms.json",
+        "pointer": "/5",
+        "id": "urn:lex-mx:federal:statute:lfcsq:term:cas-(chemical-abstracts-service)",
+        "term": "CAS (Chemical Abstracts Service)"
+      },
+      {
+        "path": "corpus/mx/lffpmn/terms.json",
+        "pointer": "/7",
+        "id": "urn:lex-mx:federal:statute:lffpmn:term:ogm's",
+        "term": "OGM's"
+      },
+      {
+        "path": "corpus/mx/lgamvlv/terms.json",
+        "pointer": "/3",
+        "id": "urn:lex-mx:federal:statute:lgamvlv:term:violencia-y/o-violencias-contra-las-mujeres",
+        "term": "Violencia y/o violencias contra las Mujeres"
+      },
+      {
+        "path": "corpus/mx/lgamvlv/terms.json",
+        "pointer": "/20",
+        "id": "urn:lex-mx:federal:statute:lgamvlv:term:deberes-reforzados-de-proteccion-del-estado-hacia-mujeres,-adolescentes,-ninas-y-ninos",
+        "term": "Deberes reforzados de protección del Estado hacia mujeres, adolescentes, niñas y niños"
+      },
+      {
+        "path": "corpus/mx/lgappcea/terms.json",
+        "pointer": "/2",
+        "id": "urn:lex-mx:federal:statute:lgappcea:term:[certificado-de-habilitacion",
+        "term": "[Certificado de habilitación"
+      },
+      {
+        "path": "corpus/mx/lgcc/terms.json",
+        "pointer": "/28",
+        "id": "urn:lex-mx:federal:statute:lgcc:term:panel-intergubernamental-de-expertos-sobre-cambio-climatico-(ipcc)",
+        "term": "Panel Intergubernamental de Expertos sobre Cambio Climático (IPCC)"
+      },
+      {
+        "path": "corpus/mx/lgcs/terms.json",
+        "pointer": "/0",
+        "id": "urn:lex-mx:federal:statute:lgcs:term:[campanas-de-comunicacion-social",
+        "term": "[Campañas de Comunicación Social"
+      },
+      {
+        "path": "corpus/mx/lgcs/terms.json",
+        "pointer": "/1",
+        "id": "urn:lex-mx:federal:statute:lgcs:term:[coemision-de-campana",
+        "term": "[Coemisión de Campaña"
+      },
+      {
+        "path": "corpus/mx/lgcs/terms.json",
+        "pointer": "/3",
+        "id": "urn:lex-mx:federal:statute:lgcs:term:[estrategia-anual-de-comunicacion-social",
+        "term": "[Estrategia anual de Comunicación Social"
+      },
+      {
+        "path": "corpus/mx/lgcs/terms.json",
+        "pointer": "/5",
+        "id": "urn:lex-mx:federal:statute:lgcs:term:[medios-de-comunicacion",
+        "term": "[Medios de Comunicación"
+      },
+      {
+        "path": "corpus/mx/lgcs/terms.json",
+        "pointer": "/6",
+        "id": "urn:lex-mx:federal:statute:lgcs:term:[padron",
+        "term": "[Padrón"
+      },
+      {
+        "path": "corpus/mx/lgcs/terms.json",
+        "pointer": "/7",
+        "id": "urn:lex-mx:federal:statute:lgcs:term:[programa-anual-de-comunicacion-social",
+        "term": "[Programa Anual de Comunicación Social"
+      },
+      {
+        "path": "corpus/mx/lgcs/terms.json",
+        "pointer": "/9",
+        "id": "urn:lex-mx:federal:statute:lgcs:term:[secretaria-administradora",
+        "term": "[Secretaría Administradora"
+      },
+      {
+        "path": "corpus/mx/lgcs/terms.json",
+        "pointer": "/11",
+        "id": "urn:lex-mx:federal:statute:lgcs:term:[sistema-de-informacion-de-normatividad-de-comunicacion",
+        "term": "[Sistema de Información de Normatividad de Comunicación"
+      },
+      {
+        "path": "corpus/mx/lgpsacdii/terms.json",
+        "pointer": "/6",
+        "id": "urn:lex-mx:federal:statute:lgpsacdii:term:prestadores-de-servicios-para-la-atencion,-cuidado-y-desarrollo-integral-infantil",
+        "term": "Prestadores de servicios para la atención, cuidado y desarrollo Integral infantil"
+      },
+      {
+        "path": "corpus/mx/lgpsacdii/terms.json",
+        "pointer": "/12",
+        "id": "urn:lex-mx:federal:statute:lgpsacdii:term:servicios-para-atencion,-cuidado-y-desarrollo-integral-infantil",
+        "term": "Servicios para atención, cuidado y desarrollo integral infantil"
+      },
+      {
+        "path": "corpus/mx/lieps/terms.json",
+        "pointer": "/26",
+        "id": "urn:lex-mx:federal:statute:lieps:term:concentrados,-polvos-y-jarabes,-esencias-o-extractos-de-sabores,-que-permitan-obtener-bebidas-saborizadas",
+        "term": "Concentrados, polvos y jarabes, esencias o extractos de sabores, que permitan obtener bebidas saborizadas"
+      },
+      {
+        "path": "corpus/mx/lieps/terms.json",
+        "pointer": "/56",
+        "id": "urn:lex-mx:federal:statute:lieps:term:videojuego-con-contenido-violento,-extremo-o-para-adulto,-no-apto-para-personas-menores-de-18-anos",
+        "term": "Videojuego con contenido violento, extremo o para adulto, no apto para personas menores de 18 años"
+      },
+      {
+        "path": "corpus/mx/lmigra/terms.json",
+        "pointer": "/15",
+        "id": "urn:lex-mx:federal:statute:lmigra:term:nina,-nino-o-adolescente-migrante",
+        "term": "Niña, niño o adolescente migrante"
+      },
+      {
+        "path": "corpus/mx/lmigra/terms.json",
+        "pointer": "/16",
+        "id": "urn:lex-mx:federal:statute:lmigra:term:nina,-nino-o-adolescente-migrante-no-acompanado",
+        "term": "Niña, niño o adolescente migrante no acompañado"
+      },
+      {
+        "path": "corpus/mx/lmigra/terms.json",
+        "pointer": "/17",
+        "id": "urn:lex-mx:federal:statute:lmigra:term:nina,-nino-o-adolescente-migrante-acompanado",
+        "term": "Niña, niño o adolescente migrante acompañado"
+      },
+      {
+        "path": "corpus/mx/lmigra/terms.json",
+        "pointer": "/18",
+        "id": "urn:lex-mx:federal:statute:lmigra:term:nina,-nino-o-adolescente-migrante-separado",
+        "term": "Niña, niño o adolescente migrante separado"
+      },
+      {
+        "path": "corpus/mx/lnsijpa/terms.json",
+        "pointer": "/18",
+        "id": "urn:lex-mx:federal:statute:lnsijpa:term:persona-responsable-de-la/el-adolescente",
+        "term": "Persona responsable de la/el adolescente"
+      },
+      {
+        "path": "corpus/mx/locfcrl/terms.json",
+        "pointer": "/2",
+        "id": "urn:lex-mx:federal:statute:locfcrl:term:director-(a)-del-centro",
+        "term": "Director (a) del Centro"
+      },
+      {
+        "path": "corpus/mx/lss/terms.json",
+        "pointer": "/3",
+        "id": "urn:lex-mx:federal:statute:lss:term:patrones,-patron-o-persona-empleadora",
+        "term": "Patrones, patrón o persona empleadora"
+      },
+      {
+        "path": "corpus/mx/lupdecr/terms.json",
+        "pointer": "/7",
+        "id": "urn:lex-mx:federal:statute:lupdecr:term:derecho-internacional-humanitario-(dih)",
+        "term": "Derecho Internacional Humanitario (DIH)"
+      },
+      {
+        "path": "corpus/mx/oaac-dcg-2009/terms.json",
+        "pointer": "/21",
+        "id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:term:esquema-de-cobertura-en-paso-y-medida-(pari-passu)",
+        "term": "Esquema de Cobertura en Paso y Medida (Pari-Passu)"
+      },
+      {
+        "path": "corpus/mx/reg-lfiiedb/terms.json",
+        "pointer": "/9",
+        "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:tasa-interna-de-retorno-(tir)",
+        "term": "Tasa Interna de Retorno (TIR)"
+      },
+      {
+        "path": "corpus/mx/reg-lgs-mcsotcsh/terms.json",
+        "pointer": "/10",
+        "id": "urn:lex-mx:federal:regulation:reg-lgs-mcsotcsh:term:disposicion-de-organos,-tejidos-y-cadaveres-y-sus-productos",
+        "term": "Disposición de órganos, tejidos y cadáveres y sus productos"
+      },
+      {
+        "path": "corpus/mx/reg-lgs-mt/terms.json",
+        "pointer": "/9",
+        "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:extraccion-de-organos,-tejidos-o-celulas",
+        "term": "Extracción de Órganos, Tejidos o células"
+      },
+      {
+        "path": "corpus/mx/reg-linfonacot/terms.json",
+        "pointer": "/2",
+        "id": "urn:lex-mx:federal:regulation:reg-linfonacot:term:financiamiento,-prestamo-o-credito",
+        "term": "Financiamiento, préstamo o crédito"
+      },
+      {
+        "path": "corpus/mx/reg-lncm/terms.json",
+        "pointer": "/13",
+        "id": "urn:lex-mx:federal:regulation:reg-lncm:term:codigo-igs-(ism)",
+        "term": "Código IGS (ISM)"
+      },
+      {
+        "path": "corpus/mx/scap-dcg-2012/terms.json",
+        "pointer": "/33",
+        "id": "urn:lex-mx:federal:regulation:scap-dcg-2012:term:esquema-de-cobertura-en-paso-y-medida-(pari-passu)",
+        "term": "Esquema de Cobertura en Paso y Medida (Pari-Passu)"
+      },
+      {
+        "path": "corpus/mx/socap-sofipo-dcg-2006/terms.json",
+        "pointer": "/35",
+        "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:factor-de-ajuste-operacional-(fao)",
+        "term": "Factor de Ajuste Operacional (FAO)"
+      },
+      {
+        "path": "corpus/mx/socap-sofipo-dcg-2006/terms.json",
+        "pointer": "/63",
+        "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:probabilidad-de-incumplimiento-(pi)",
+        "term": "Probabilidad de Incumplimiento (PI)"
+      },
+      {
+        "path": "corpus/mx/socap-sofipo-dcg-2006/terms.json",
+        "pointer": "/76",
+        "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:severidad-de-la-perdida-(sp)",
+        "term": "Severidad de la Pérdida (SP)"
+      }
+    ]
+  },
+  "validation": {
+    "workspace_tests_passed": 387,
+    "fmt": "pass",
+    "strict_clippy": "pass",
+    "lritf": {
+      "articles": 145,
+      "transitories": 11,
+      "references": 126,
+      "issues": 0
+    },
+    "ifpe-dcg-2021": {
+      "articles": 59,
+      "transitories": 4,
+      "references": 115,
+      "issues": 0
+    },
+    "canonical_diff_paths": 0,
+    "synthetic_release_two_builds_byte_identical": true
+  },
+  "m3_independent_verifier": "not_implemented",
+  "full_corpus_database": "not_published"
+}

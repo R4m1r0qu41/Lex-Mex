@@ -229,7 +229,7 @@ Unknown schema versions/enum values fail with a useful diagnostic until mapped.
 | `reference_qualifiers` | Composite PK `(edge_id, ordinal)`; exact type/text/optional offsets and extras. Preserve list text and repeated types; no span uniqueness or AUTOINCREMENT. |
 | `outdated_reference_approvals` / `legal_operator_reviews` | Independent optional one-to-one rows keyed by edge ID; complete canonical payload and queryable reviewer/time fields. One can exist without the other. |
 | `defined_terms` | Canonical ID PK; owning instrument, defining provision, offsets, basis and extras. Optional fraction/inciso keys remain in extras with queryable generated projections; preserve source-bound definition spans. |
-| `glossary_coverage` | One reconstructible record per instrument: status/strategy, provision methods, ordered fractions/imports, hold, profile, usage form and counts. Preserve absent/empty/null distinctions, unread fractions and inciso profile metadata under the [current glossary contract](../sqlite-contract-refresh-2026-10-19.md#glossary-preservation-contract). Raw bytes plus extras/columns reconstruct all values. |
+| `glossary_coverage` | One reconstructible record per instrument: status/strategy, provision methods, ordered fractions/imports, hold, profile, usage form and counts. Preserve absent/empty/null distinctions, unread and invalidated fractions and inciso profile metadata under the [current glossary contract](../sqlite-contract-refresh-2026-10-19.md#glossary-preservation-contract). Raw bytes plus extras/columns reconstruct all values. |
 | `term_usages` | Canonical ID PK; provision and term FKs, exact span/offsets and extras. Cross-instrument usages are valid and remain separate from reference edges. |
 | `enactment_evidence` | Canonical ID PK; owner, kind, containing-act title, source heading, text, publication date/period and extras; not law provisions. |
 | `evidence_artifacts` | Path/kind/owner; preserved reform evidence, amendment legends, temporal proposals/results and review queues with schema/version/hash. Define query views only over real existing fields. |
@@ -484,7 +484,45 @@ Acceptance and stop condition:
 
 ## Current checkpoint and next action
 
-2026-10-20 (M1 review repairs, uncommitted): the debt validator now requires
+2026-10-20 (upstream integration; see [report](../sqlite-m2-upstream-integration-2026-10-20.md)): normally merged main repair
+`db48f899d7cfdbc59736291473a335cf434cfcaf` into the DB branch at
+`6cb2dfe3ddcb8b389e370e4b3ad0c43298aae83e`, preserving all uncommitted M2
+files byte-for-byte. Corpus equals upstream; source provisions/references and
+the hash-bound October 18 ruling are unchanged. The seed validates all 17
+rows, and 6505baf57 remains an ancestor. Strategy-4 fixtures now cover preserved
+`invalidated_fractions`; final native gate passes 391 tests and required
+validators. M2 full build exits 0 in 190.67 seconds: 4,960 inputs preserved and all normalized/supporting parity checks pass. See the integration report for its local validation artifact and checksums; M2 is ready for independent review, while M3/M4 remain.
+The new source census is 5,727 terms and 102,432 usages; instrument/provision/
+reference counts remain 468 / 68,328 / 35,949. Historical strategy-3 census
+below remains a dated baseline. SCJN registry projection remains deferred.
+Open LAN usage precision/XXV items and LGCS remaining-term legal questions are
+not resolved by this integration.
+
+2026-10-20 (M2 implementation, uncommitted): transactional loaders and immutable
+release publication are implemented; the synthetic full-release test builds
+twice identically, rejects overwrite/dirty-source substitution and preserves a
+prior release on failure. Historical accepted-debt lineage is enforced.
+[Builder report](../sqlite-m2-builder-2026-10-20.md) and
+[evidence](../sqlite-m2-builder-2026-10-20-evidence.json) record 387 passing tests,
+strict native gates and the full-input preflight failure: 117 term definitions,
+8 term usages and one source manifest violate existing schemas across 30 files.
+No real corpus database was published. Do not waive the schemas or rewrite
+canonical IDs in the DB loader. Repair the upstream contracts on main before
+integrating and repinning the DB inputs. M2 is not accepted as complete; M3/M4
+remain. SCJN stays evidence-only; no legal decision changed.
+
+2026-10-20 (acceptance): Claude accepts repair commit 611171e52; M2 may start.
+The operator keeps SCJN evidence-only now, with a separate
+[future integration plan](scjn-invalidity-registry-integration.md). The response
+corrects commit status and validator labels. Read-only historical reconciliation
+passes (17 accepted identities within the original 77; historical hash matches).
+When M2 touches the seed path, enforce that lineage with regression controls.
+Integrate this branch by normal merge, preserving seed source 6505baf57 as an
+ancestor; verify ancestry and seed validity on the merge result. Do not squash
+or rebase it away. Record any confirmed LGS correction as a new decision entry;
+leave the hash-bound October 18 ruling intact. No correction is inferred here.
+
+2026-10-20 (M1 review repairs, subsequently committed as 611171e52): the debt validator now requires
 exact equality with the pinned accepted review set, including metadata and
 locators. Seed schema v2 pins review evidence at 6505baf57 and binds the exact
 human-decision section, allowing unrelated decision-log additions. All 17
@@ -515,7 +553,7 @@ contract for census, glossary preservation, sourced debt and query expectations.
 It supersedes dated counts and repaired missing-article examples below; the
 immutable initial baseline above and historical measurements stay unchanged.
 
-Current census: 468 instruments, 68,328 provisions, 35,949 references, 5,734
+Historical October 19 census: 468 instruments, 68,328 provisions, 35,949 references, 5,734
 terms and 102,204 usages. Glossary strategy 3; 18 configured, 299 detected,
 6 held, 145 none detected. Five accepted closure gaps. The current reviewed
 seed has 17 accepted, 30 rejected and 10 deferred candidates, plus 60 repaired
@@ -564,5 +602,7 @@ file changed. The operator's two suggestion files remain untouched/untracked.
 
 `resolution_rule` landed (see `docs/decisions.md`).
 
-Exactly one current next action: review the M1 repair diff and accept its debt/provenance boundary before implementing M2's full pinned-input transactional builder and recovery gates.
+2026-10-20 (commit authorization): the operator authorized committing M2 after the successful full build and 392-test gate. The validation artifact retains its original test-builder identity.
+
+Exactly one current next action: independently review the committed M2 builder and full-build receipt before M3 verification/query acceptance; rebuild later with the permanent builder commit.
 Keep M3 independent verification and M4 full-corpus reproducibility separate.

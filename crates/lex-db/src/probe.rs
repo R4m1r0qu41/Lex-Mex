@@ -246,7 +246,7 @@ pub fn build_fixture(connection: &mut Connection, bytes: &[u8]) -> Result<()> {
     Ok(())
 }
 
-fn store_children(
+pub(crate) fn store_children(
     connection: &Connection,
     record: &Value,
     extras: &mut Map<String, Value>,
@@ -343,7 +343,10 @@ pub fn verify_fixture(connection: &Connection) -> Result<usize> {
     Ok(count)
 }
 
-fn read_children(connection: &Connection, object: &mut Map<String, Value>) -> Result<()> {
+pub(crate) fn read_children(
+    connection: &Connection,
+    object: &mut Map<String, Value>,
+) -> Result<()> {
     let id = object["id"].as_str().context("stored edge lacks id")?;
     let mut stmt = connection.prepare(
         "SELECT ordinal,payload FROM reference_qualifiers WHERE edge_id=?1 ORDER BY ordinal",

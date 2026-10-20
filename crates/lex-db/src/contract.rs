@@ -84,7 +84,11 @@ pub fn validate_manifest(value: &Value) -> Result<DatabaseManifest> {
 
 pub fn safe_path(path: &str) -> Result<()> {
     ensure!(
-        !path.is_empty() && !path.contains('\\'),
+        !path.is_empty()
+            && !path.contains('\\')
+            && path
+                .split('/')
+                .all(|p| !p.is_empty() && p != "." && p != ".."),
         "invalid relative input path"
     );
     ensure!(
@@ -289,6 +293,7 @@ fn validate_review_set(git: &GitInput, source: &GitInput, seed: &DebtSeed) -> Re
             .any(|s| Some(s.reference.as_str()) == review["decision_reference"].as_str()),
         "review decision reference is not bound"
     );
+    validate_historical_review(git, source, &review)?;
     let rows = review["rows"].as_array().context("review rows absent")?;
     let mut expected = BTreeMap::new();
     for row in rows.iter().filter(|r| r["review_status"] == "accepted") {
@@ -334,6 +339,90 @@ fn validate_review_set(git: &GitInput, source: &GitInput, seed: &DebtSeed) -> Re
             "seed row differs from accepted review: {} {}",
             row.instrument_id,
             row.printed_label
+        );
+    }
+    Ok(())
+}
+
+fn validate_historical_review(git: &GitInput, source: &GitInput, review: &Value) -> Result<()> {
+    let Some(expected_hash) = review.get("historical_review_sha256") else {
+        // Synthetic fixtures or genuinely new, directly reviewed ledgers need
+        // no fabricated historical ancestry. Inherited ledgers declare it.
+        ensure!(
+            !review["rows"]
+                .as_array()
+                .context("review rows absent")?
+                .iter()
+                .any(|r| r["review_basis"]
+                    .as_str()
+                    .is_some_and(|b| b.contains("original 77"))),
+            "inherited review lacks historical authority binding"
+        );
+        return Ok(());
+    };
+    let policy: Value = serde_json::from_slice(&git.read(crate::input::POLICY_PATH)?)?;
+    let paths = policy["evidence_paths"]
+        .as_array()
+        .context("evidence paths absent")?;
+    let mut historical = None;
+    for path in paths.iter().filter_map(Value::as_str).filter(|p| {
+        Path::new(p)
+            .extension()
+            .is_some_and(|e| e.eq_ignore_ascii_case("json"))
+    }) {
+        let raw = source.read(path)?;
+        if Some(digest(&raw).as_str()) == expected_hash.as_str() {
+            ensure!(historical.is_none(), "ambiguous historical review input");
+            ensure!(
+                git.read(path)? == raw,
+                "current historical review differs from pinned authority"
+            );
+            historical = Some(serde_json::from_slice::<Value>(&raw)?);
+        }
+    }
+    let historical =
+        historical.context("historical review digest not found in declared evidence")?;
+    source.require_ancestor(
+        historical["corpus_commit"]
+            .as_str()
+            .context("historical corpus commit absent")?,
+    )?;
+    let mut original = BTreeSet::new();
+    for row in historical["rows"]
+        .as_array()
+        .context("historical rows absent")?
+        .iter()
+        .filter(|r| r["review_status"] == "proposed" && r["series_check"] == true)
+    {
+        let identity = (
+            row["instrument_id"]
+                .as_str()
+                .context("historical owner absent")?,
+            row["printed_label"]
+                .as_str()
+                .context("historical label absent")?,
+        );
+        ensure!(
+            original.insert(identity),
+            "duplicate historical review identity"
+        );
+    }
+    for row in review["rows"]
+        .as_array()
+        .context("review rows absent")?
+        .iter()
+        .filter(|r| r["review_status"] == "accepted")
+    {
+        ensure!(
+            original.contains(&(
+                row["instrument_id"]
+                    .as_str()
+                    .context("accepted owner absent")?,
+                row["printed_label"]
+                    .as_str()
+                    .context("accepted label absent")?
+            )),
+            "accepted row lacks historical series-checked identity"
         );
     }
     Ok(())

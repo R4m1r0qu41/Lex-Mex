@@ -3,10 +3,12 @@
 ## Outcome and scope
 
 The [independent review](sqlite-m1-review-2026-10-20.md) of local DB commit
-`6505baf57c7aa7051cffe62742f46f10276a834a` is addressed in the working tree.
+`6505baf57c7aa7051cffe62742f46f10276a834a` was addressed and committed as
+`611171e52062c67d0ef000cf42c72b87af4c4ef3`; Claude accepted the repairs in the
+2026-10-20 acceptance handoff.
 The operator requested debt-check repairs and a numbering decision before M2.
 No M2 loaders, full database artifact, canonical change or legal decision was
-made. These repairs are uncommitted and unpushed.
+made. The repair commit is local and unpushed.
 
 ## Review dispositions
 
@@ -54,8 +56,8 @@ Mechanical final gate: `cargo fmt --check`,
 (42 + 3 + 32 + 9 + 5 + 15 + 270 + 4). The 9 lex-db contract tests and 5 pinned
 input tests cover provenance collisions/corruption, decision-log evolution,
 accepted-set equality, empty-ledger behavior and explicit reference inventory.
-Both required locked validators passed with zero issues: LRITF (145 provisions,
-11 references, 126 usages) and IFPE (59 provisions, 4 references, 115 usages).
+Both required locked validators passed with zero issues: LRITF (145 articles,
+11 transitories, 126 references) and IFPE (59 articles, 4 transitories, 115 references).
 The fixture feature probe passes FTS5/JSON/STRICT on SQLite 3.53.2 and reconstructs
 12 records.
 
@@ -77,7 +79,26 @@ commit. The earlier 4,917-file measurement remains historical.
 
 ## Next action
 
-Review and accept this M1 repair diff, then implement the M2 transactional
+M1 repairs are accepted. Implement the M2 transactional
 loaders using the chosen provenance contract. Keep M3 external verification
 and M4 full-corpus acceptance separate. Main and its two unrelated untracked
 suggestion documents are preserved; no corpus or legal-review record changed.
+
+
+## Acceptance follow-up — 2026-10-20
+
+The operator retains SCJN as evidence only for the current build; see the
+[deferred integration plan](plans/scjn-invalidity-registry-integration.md).
+A read-only reconciliation confirms the October 19 historical-review SHA-256
+matches the October 17 ledger and all 17 accepted identities are among its 77
+`proposed`, series-checked identities. This is a measured check, not yet an
+enforced validator invariant. Add a regression-backed historical hash/subset
+check when M2 touches the seed path, preserving the operator decision as the
+authority; `proposed` status alone is not human approval.
+
+Integrate the DB branch with a normal merge preserving 6505baf57 as an ancestor;
+do not squash or rebase away the seed's pinned source commit. Verify ancestry
+and run production seed validation on the merge result. Any confirmed LGS
+premise correction must be a new entry in `docs/decisions.md`; do not edit the
+hash-bound October 18 ruling. The operator has not confirmed that correction
+in this task, so no legal decision or gap record is changed.

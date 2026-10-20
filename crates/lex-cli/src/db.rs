@@ -9,6 +9,15 @@ use std::{
 pub enum DbCommand {
     /// Build and independently read back a small in-memory adversarial fixture.
     ContractProbe,
+    /// Build an immutable local projection from pinned corpus and builder commits.
+    Project {
+        #[arg(long)]
+        corpus_commit: String,
+        #[arg(long)]
+        builder_commit: String,
+        #[arg(long, default_value = "derived/db")]
+        output_dir: PathBuf,
+    },
     /// Inventory immutable Git inputs; requires the committed production debt seed.
     InspectInputs {
         #[arg(long)]
@@ -25,6 +34,19 @@ pub enum DbCommand {
 
 pub fn run(root: &Path, command: DbCommand) -> Result<()> {
     match command {
+        DbCommand::Project {
+            corpus_commit,
+            builder_commit,
+            output_dir,
+        } => println!(
+            "{}",
+            serde_json::to_string_pretty(&lex_db::build::project(
+                root,
+                &corpus_commit,
+                &builder_commit,
+                &output_dir
+            )?)?
+        ),
         DbCommand::ContractProbe => println!(
             "{}",
             serde_json::to_string_pretty(&lex_db::probe::run_probe()?)?

@@ -260,3 +260,51 @@ fn inventory_requires_declared_evidence_and_rejects_unknown_reference_files() {
     f.pinned = commit(f.root());
     assert!(inspect(f.root(), &f.pinned).is_err());
 }
+
+#[test]
+fn inherited_review_requires_matching_historical_hash_and_series_checked_identity() {
+    let mut f = setup();
+    let historical_path = "docs/fixture-historical-review.json";
+    let mut historical = f.review.clone();
+    historical["rows"][0]["review_status"] = json!("proposed");
+    historical["rows"][0]["series_check"] = json!(true);
+    let original = serde_json::to_vec(&historical).unwrap();
+    save(f.root(), historical_path, &original);
+    let mut policy: Value =
+        serde_json::from_slice(&fs::read(f.root().join(POLICY_PATH)).unwrap()).unwrap();
+    policy["evidence_paths"]
+        .as_array_mut()
+        .unwrap()
+        .push(json!(historical_path));
+    save(f.root(), POLICY_PATH, &serde_json::to_vec(&policy).unwrap());
+    f.review["historical_review_sha256"] = json!(digest(&original));
+    let reviewed = serde_json::to_vec(&f.review).unwrap();
+    save(f.root(), REVIEW, &reviewed);
+    f.pinned = commit(f.root());
+    let mut seed = f.seed.clone();
+    seed["review_source_sha256"] = json!(digest(&reviewed));
+    // The source review predates the inventory policy, as in production.
+    let policy_bytes = fs::read(f.root().join(POLICY_PATH)).unwrap();
+    fs::remove_file(f.root().join(POLICY_PATH)).unwrap();
+    let source_without_policy = commit(f.root());
+    seed["source_corpus_commit"] = json!(source_without_policy);
+    save(f.root(), POLICY_PATH, &policy_bytes);
+    f.pinned = commit(f.root());
+    assert!(f.check(&seed));
+    // Rebinding both ledger and seed cannot admit a row outside the original set.
+    historical["rows"][0]["series_check"] = json!(false);
+    let invalid = serde_json::to_vec(&historical).unwrap();
+    save(f.root(), historical_path, &invalid);
+    f.review["historical_review_sha256"] = json!(digest(&invalid));
+    let rebound = serde_json::to_vec(&f.review).unwrap();
+    save(f.root(), REVIEW, &rebound);
+    f.pinned = commit(f.root());
+    seed["source_corpus_commit"] = json!(f.pinned);
+    seed["review_source_sha256"] = json!(digest(&rebound));
+    assert!(!f.check(&seed));
+    // Restoring the historical bytes without its hash also fails.
+    save(f.root(), historical_path, &original);
+    f.pinned = commit(f.root());
+    seed["source_corpus_commit"] = json!(f.pinned);
+    assert!(!f.check(&seed));
+}

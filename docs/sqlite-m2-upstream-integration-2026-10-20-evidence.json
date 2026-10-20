@@ -1,0 +1,109 @@
+{
+  "status": "m2_full_build_passed_pending_independent_review",
+  "upstream_commit": "db48f899d7cfdbc59736291473a335cf434cfcaf",
+  "merge_commit": "6cb2dfe3ddcb8b389e370e4b3ad0c43298aae83e",
+  "merge_parents": [
+    "611171e52062c67d0ef000cf42c72b87af4c4ef3",
+    "db48f899d7cfdbc59736291473a335cf434cfcaf"
+  ],
+  "source_seed_commit_preserved": "6505baf57c7aa7051cffe62742f46f10276a834a",
+  "builder_is_unreferenced_test_snapshot": true,
+  "attempt": {
+    "builder_snapshot": "bc26e6f00d94567eabf3f2ab9502b725e6b7d8d3",
+    "corpus_commit": "6cb2dfe3ddcb8b389e370e4b3ad0c43298aae83e",
+    "exit_code": 0,
+    "elapsed_seconds": 190.67
+  },
+  "build_report": {
+    "release_id": "38d0013e795906c3aec110c753b231607f10ca8ddce73b1112f3e56e327af464",
+    "directory": "derived/db/m2-validation/38d0013e795906c3aec110c753b231607f10ca8ddce73b1112f3e56e327af464",
+    "database_sha256": "02e08c68d187090ecfeaa2b3b11206aef84d53ea2ee781c374f8d6d5ce424656",
+    "input_files": 4960,
+    "table_counts": {
+      "coverage": 1872,
+      "coverage_accepted_gaps": 5,
+      "defined_terms": 5727,
+      "enactment_evidence": 99,
+      "evidence_artifacts": 1673,
+      "glossary_coverage": 468,
+      "input_files": 4960,
+      "instrument_reproducibility": 0,
+      "instruments": 468,
+      "known_structural_debt": 17,
+      "legal_operator_reviews": 16,
+      "outdated_reference_approvals": 17,
+      "provisions": 68328,
+      "reference_edges": 35949,
+      "reference_qualifiers": 12360,
+      "source_manifests": 498,
+      "standards_catalog": 32,
+      "term_usages": 102432
+    }
+  },
+  "database_bytes": 473972736,
+  "logical_content_sha256": "94aea32d1528b9b82808074bb24abdc22526d97f750fed64209af0e519f4ed80",
+  "input_handling_counts": {
+    "evidence_only": 1545,
+    "normalized": 3287,
+    "excluded_standard_body": 128
+  },
+  "tests_passed": 392,
+  "m3_independent_verifier": "not_implemented",
+  "m4_full_corpus_reproducibility": "not_run",
+  "scjn_projection": "evidence_only",
+  "prior_repaired_attempt": {
+    "builder_snapshot": "2d5fa17415092dc9afb7831ac1d140cf65f01f9f",
+    "exit_code": 1,
+    "elapsed_seconds": 128.63,
+    "error": "parity input absent",
+    "cause": "reference SCJN manifest wrongly selected for law-manifest parity",
+    "resolution": "corpus/mx-only parity scope and reference evidence regression"
+  },
+  "open_items": [
+    "LAN short/title-containing matches and XXV a./b.",
+    "LGCS remaining-term legal questions"
+  ],
+  "commit_status": "Build-time receipt predates M2 commit; operator subsequently authorized committing M2. Artifact identity remains the unreferenced test snapshot; no push.",
+  "read_only_artifact_inspection": {
+    "database_bytes": 473972736,
+    "database_mib": 452.016,
+    "database_sha256": "02e08c68d187090ecfeaa2b3b11206aef84d53ea2ee781c374f8d6d5ce424656",
+    "manifest_logical_content_sha256": "94aea32d1528b9b82808074bb24abdc22526d97f750fed64209af0e519f4ed80",
+    "receipt_sha_match": true,
+    "integrity_check": "ok",
+    "foreign_key_violations": 0,
+    "table_counts_match_receipt": true,
+    "strategy_versions": {
+      "glossary-extraction-4": 468
+    },
+    "invalidated_fractions": [
+      {
+        "instrument_id": "urn:lex-mx:federal:statute:lgappcea",
+        "invalidated_fractions": [
+          "III"
+        ]
+      },
+      {
+        "instrument_id": "urn:lex-mx:federal:statute:lgcs",
+        "invalidated_fractions": [
+          "I",
+          "II",
+          "IV",
+          "VI",
+          "VII",
+          "VIII",
+          "X",
+          "XII"
+        ]
+      }
+    ],
+    "scjn_counts": {
+      "input_files": 3,
+      "evidence_artifacts": 3,
+      "source_manifests": 0
+    },
+    "provisions_fts_count": 68328,
+    "readonly_write_control": "attempt to write a readonly database",
+    "leftovers": []
+  }
+}

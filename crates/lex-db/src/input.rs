@@ -36,7 +36,7 @@ impl GitInput {
     pub fn at(&self, commit: &str) -> Result<Self> {
         Self::new(&self.root, commit)
     }
-    fn command(&self, args: &[&str]) -> Result<String> {
+    pub(crate) fn command(&self, args: &[&str]) -> Result<String> {
         let output = Command::new("git")
             .arg("-C")
             .arg(&self.root)
@@ -264,6 +264,13 @@ fn required_federal_inputs(paths: &[String], federal: &[String]) -> Result<()> {
 }
 
 pub fn inspect(root: &Path, commit: &str) -> Result<Inspection> {
+    Ok(snapshot(root, commit)?.0)
+}
+
+pub type Snapshot = BTreeMap<String, Vec<u8>>;
+
+/// Read immutable inputs once; descriptors and loaded bytes cannot diverge.
+pub fn snapshot(root: &Path, commit: &str) -> Result<(Inspection, Snapshot)> {
     let git = GitInput::new(root, commit)?;
     let paths = git.paths()?;
     let standards: BTreeSet<_> = paths
@@ -287,6 +294,7 @@ pub fn inspect(root: &Path, commit: &str) -> Result<Inspection> {
     required_federal_inputs(&paths, &federal)?;
     let seed = validate_seed(&git, &git.read(DEBT_PATH)?)?;
     let selected = selected_inputs(&git, &paths, &standards, &seed)?;
+    let mut snapshot = BTreeMap::new();
     let files = selected
         .into_iter()
         .map(|(path, handling)| {
@@ -298,6 +306,7 @@ pub fn inspect(root: &Path, commit: &str) -> Result<Inspection> {
                 let _: serde_json::Value = serde_json::from_slice(&bytes)
                     .with_context(|| format!("invalid JSON: {path}"))?;
             }
+            snapshot.insert(path.clone(), bytes.clone());
             Ok(InputFile {
                 path,
                 sha256: digest(&bytes),
@@ -306,12 +315,15 @@ pub fn inspect(root: &Path, commit: &str) -> Result<Inspection> {
             })
         })
         .collect::<Result<Vec<_>>>()?;
-    Ok(Inspection {
-        schema_version: crate::contract::VERSION.into(),
-        corpus_commit: git.commit,
-        files,
-        federal_instruments: federal.len(),
-        standards_catalogue: standards.len(),
-        accepted_debt_rows: seed.rows.len(),
-    })
+    Ok((
+        Inspection {
+            schema_version: crate::contract::VERSION.into(),
+            corpus_commit: git.commit,
+            files,
+            federal_instruments: federal.len(),
+            standards_catalogue: standards.len(),
+            accepted_debt_rows: seed.rows.len(),
+        },
+        snapshot,
+    ))
 }
